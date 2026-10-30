@@ -1,0 +1,20 @@
+{
+ "items": [
+  {
+   "id": "2026-10-30-cierre-global",
+   "fecha": "2026-10-30",
+   "momento": "cierre",
+   "mercado": "global",
+   "titular_es": "Viernes rojo en tecnología: Wall Street cierra octubre con dudas sobre las tasas",
+   "titular_en": "Tech-led Friday sell-off: Wall Street ends October with doubts over rates"
+  },
+  {
+   "id": "2026-10-30-cierre-mexico",
+   "fecha": "2026-10-30",
+   "momento": "cierre",
+   "mercado": "mexico",
+   "titular_es": "La Bolsa mexicana resiste y va hacia su mejor mes en tres años; el peso sigue presionado",
+   "titular_en": "Mexico's stock market holds up and heads for its best month in three years; the peso stays under pressure"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "id": "2026-10-30-cierre-mexico",
+ "fecha": "2026-10-30",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "14:40 CDMX",
+ "es": {
+  "titular": "La Bolsa mexicana resiste y va hacia su mejor mes en tres años; el peso sigue presionado",
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "Mientras Wall Street caía, el IPC se mantuvo cerca de 69,860 puntos (+0.1% en el último dato disponible). El peso operó cerca de 18.90 por dólar, y el FIX del 29 de octubre (18.81) fue el más alto desde agosto de 2025. INEGI reportó que el PIB del 3T creció 0.9% trimestral y 3.2% anual."
+   },
+   {
+    "t": "Por qué",
+    "x": "La economía muestra fuerza exportadora (exportaciones +37.9% en septiembre), pero el diferencial de tasas con EE. UU. (6.50% contra 4.00%) es el más estrecho en una década y le quita atractivo al peso."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "El mercado seguirá atento a las señales de Banxico rumbo a su próxima decisión, con una inflación que subió a 3.62% en la primera quincena de octubre. En la agenda de INEGI: inflación de la primera quincena de noviembre (24 nov) y balanza comercial de octubre (27 nov)."
+   },
+   {
+    "t": "La próxima semana",
+    "x": "El peso seguirá muy atado a lo que pase en EE. UU.: elecciones el martes y, por costumbre, empleo el viernes. En la agenda de INEGI de noviembre destacan la inflación de la primera quincena (24 nov) y la balanza comercial de octubre (27 nov)."
+   }
+  ],
+  "scm": "Para el fin de semana: si tienes pagos en dólares en noviembre, evalúa cubrir una parte desde ahora; y presupuesta las importaciones con un tipo de cambio más alto que el de inicios de octubre (cerca de 18.0)."
+ },
+ "en": {
+  "titular": "Mexico's stock market holds up and heads for its best month in three years; the peso stays under pressure",
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "While Wall Street fell, the IPC held near 69,860 points (+0.1% in the latest available reading). The peso traded near 18.90 per dollar, and Banxico's October 29 FIX (18.81) was the highest since August 2025. INEGI reported Q3 GDP growth of 0.9% quarter on quarter and 3.2% year on year."
+   },
+   {
+    "t": "Why",
+    "x": "The economy shows export strength (exports +37.9% in September), but the rate gap with the US (6.50% vs 4.00%) is the narrowest in a decade, making the peso less attractive."
+   },
+   {
+    "t": "What to expect",
+    "x": "Markets will watch Banxico's signals ahead of its next decision, with inflation up to 3.62% in the first half of October. On INEGI's calendar: first-half November inflation (Nov 24) and the October trade balance (Nov 27)."
+   },
+   {
+    "t": "Next week",
+    "x": "The peso will remain closely tied to US events: elections on Tuesday and, as usual, jobs data on Friday. INEGI's November calendar highlights first-half inflation (Nov 24) and the October trade balance (Nov 27)."
+   }
+  ],
+  "scm": "For the weekend: if you have dollar payments due in November, consider hedging part of them now, and budget imports at a higher exchange rate than in early October (around 18.0)."
+ },
+ "fuentes": [
+  {
+   "t": "Investing.com — IPC BMV",
+   "u": "https://es.investing.com/news/stock-market-news/ganancias-en-bolsa-mexicana-de-valores-hoy-ipc-perfila-su-mejor-mes-en-3-anos-3902329"
+  },
+  {
+   "t": "Forbes México — peso",
+   "u": "https://forbes.com.mx/peso-perfila-segundo-mes-consecutivo-de-perdidas-ante-menor-atractivo-del-carry-trade/"
+  },
+  {
+   "t": "Expansión — PIB 3T (INEGI)",
+   "u": "https://expansion.mx/economia/2026/10/30/pib-de-mexico-crece-0-9-en-tercer-trimestre-inegi"
+  },
+  {
+   "t": "INEGI — INPC 1a quincena de octubre",
+   "u": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/inpc/inpc_1q2026_10.pdf"
+  }
+ ],
+ "fin_de_semana": true
+}

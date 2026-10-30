@@ -1,0 +1,328 @@
+{
+ "actualizado": "2026-10-30T20:40:00Z",
+ "momento": "cierre",
+ "briefs": {
+  "global": {
+   "id": "2026-10-30-cierre-global",
+   "fecha": "2026-10-30",
+   "momento": "cierre",
+   "mercado": "global",
+   "hora": "14:40 CDMX",
+   "es": {
+    "titular": "Viernes rojo en tecnología: Wall Street cierra octubre con dudas sobre las tasas",
+    "bloques": [
+     {
+      "t": "Qué pasó",
+      "x": "S&P 500 −2.1%, Nasdaq −2.9% y Dow −1.3% en cierre preliminar, en una venta liderada por tecnología. Asia ya había caído (KOSPI −3.5%, Nikkei −2.1%) y Europa también (Euro Stoxx 50 cerca de −1.1%). El oro bajó 3.4% y Bitcoin tocó su mínimo en cinco semanas, mientras el WTI subió a 103 dólares."
+     },
+     {
+      "t": "Por qué",
+      "x": "El mercado parece ajustarse a tasas altas por más tiempo: la Fed mantuvo 3.75–4.00% el 28 de octubre con dos votos a favor de subir, y la inflación de EE. UU. va en 3.7%."
+     },
+     {
+      "t": "Qué se espera",
+      "x": "Asia abre el lunes tras esta caída, con la atención en los chips de Corea y Japón. La próxima semana pesan las elecciones intermedias de EE. UU. (martes 3 de noviembre) y el reporte de empleo de octubre, que suele salir el primer viernes del mes. El domingo 1 de noviembre EE. UU. atrasa su reloj: Wall Street abrirá a las 8:30 y cerrará a las 15:00, hora de CDMX."
+     },
+     {
+      "t": "La próxima semana",
+      "x": "El martes 3 de noviembre son las elecciones intermedias de EE. UU., que pueden mover al dólar y a las bolsas. El reporte de empleo de octubre suele salir el primer viernes del mes. La Fed no se reúne sino hasta el 9 de diciembre, así que el mercado leerá cada dato de inflación y empleo como pista de una posible alza."
+     }
+    ],
+    "scm": "Para el fin de semana: recalcula el costo de lo que importas con el peso cerca de 18.90; revisa los recargos por combustible con el petróleo arriba de 100 dólares; y deja listo un plan para pagos en dólares por si el peso se mueve con las elecciones del martes."
+   },
+   "en": {
+    "titular": "Tech-led Friday sell-off: Wall Street ends October with doubts over rates",
+    "bloques": [
+     {
+      "t": "What happened",
+      "x": "S&P 500 −2.1%, Nasdaq −2.9% and Dow −1.3% at the preliminary close, in a tech-led sell-off. Asia had already fallen (KOSPI −3.5%, Nikkei −2.1%) and so had Europe (Euro Stoxx 50 around −1.1%). Gold dropped 3.4% and Bitcoin hit a five-week low, while WTI rose to $103."
+     },
+     {
+      "t": "Why",
+      "x": "Markets appear to be pricing in higher-for-longer rates: the Fed held at 3.75–4.00% on October 28 with two votes for a hike, and US inflation stands at 3.7%."
+     },
+     {
+      "t": "What to expect",
+      "x": "Asia reopens Monday after this drop, with attention on Korean and Japanese chipmakers. Next week brings the US midterm elections (Tuesday, November 3) and the October jobs report, usually released on the first Friday of the month. The US moves clocks back on Sunday, November 1: Wall Street will open at 8:30 and close at 15:00 Mexico City time."
+     },
+     {
+      "t": "Next week",
+      "x": "The US midterm elections are on Tuesday, November 3, and could move the dollar and stocks. The October jobs report usually comes out on the first Friday of the month. The Fed does not meet again until December 9, so markets will read every inflation and jobs figure as a hint of a possible hike."
+     }
+    ],
+    "scm": "For the weekend: recalculate the landed cost of imports with the peso near 18.90; review fuel surcharges with oil above $100; and have a plan ready for dollar payments in case the peso moves with Tuesday's elections."
+   },
+   "fuentes": [
+    {
+     "t": "Yahoo Finance — cierre de Wall Street, 30 oct 2026",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html"
+    },
+    {
+     "t": "TradingKey — Nikkei y KOSPI",
+     "u": "https://www.tradingkey.com/analysis/stocks/more/262258740-japan-korea-stocks-skhy-kospi-nikkei-samsung-kioxia-ai-softbank-fomc-hbm-google-amzn-tradingkey"
+    },
+    {
+     "t": "Admiral Markets — decisión de la Fed, 28 oct",
+     "u": "https://admiralmarkets.com/analytics/traders-blog/fomc-october-2026-fed-holds-rates"
+    },
+    {
+     "t": "Trading Economics — oro y petróleo",
+     "u": "https://tradingeconomics.com/commodity/gold"
+    }
+   ],
+   "fin_de_semana": true
+  },
+  "mexico": {
+   "id": "2026-10-30-cierre-mexico",
+   "fecha": "2026-10-30",
+   "momento": "cierre",
+   "mercado": "mexico",
+   "hora": "14:40 CDMX",
+   "es": {
+    "titular": "La Bolsa mexicana resiste y va hacia su mejor mes en tres años; el peso sigue presionado",
+    "bloques": [
+     {
+      "t": "Qué pasó",
+      "x": "Mientras Wall Street caía, el IPC se mantuvo cerca de 69,860 puntos (+0.1% en el último dato disponible). El peso operó cerca de 18.90 por dólar, y el FIX del 29 de octubre (18.81) fue el más alto desde agosto de 2025. INEGI reportó que el PIB del 3T creció 0.9% trimestral y 3.2% anual."
+     },
+     {
+      "t": "Por qué",
+      "x": "La economía muestra fuerza exportadora (exportaciones +37.9% en septiembre), pero el diferencial de tasas con EE. UU. (6.50% contra 4.00%) es el más estrecho en una década y le quita atractivo al peso."
+     },
+     {
+      "t": "Qué se espera",
+      "x": "El mercado seguirá atento a las señales de Banxico rumbo a su próxima decisión, con una inflación que subió a 3.62% en la primera quincena de octubre. En la agenda de INEGI: inflación de la primera quincena de noviembre (24 nov) y balanza comercial de octubre (27 nov)."
+     },
+     {
+      "t": "La próxima semana",
+      "x": "El peso seguirá muy atado a lo que pase en EE. UU.: elecciones el martes y, por costumbre, empleo el viernes. En la agenda de INEGI de noviembre destacan la inflación de la primera quincena (24 nov) y la balanza comercial de octubre (27 nov)."
+     }
+    ],
+    "scm": "Para el fin de semana: si tienes pagos en dólares en noviembre, evalúa cubrir una parte desde ahora; y presupuesta las importaciones con un tipo de cambio más alto que el de inicios de octubre (cerca de 18.0)."
+   },
+   "en": {
+    "titular": "Mexico's stock market holds up and heads for its best month in three years; the peso stays under pressure",
+    "bloques": [
+     {
+      "t": "What happened",
+      "x": "While Wall Street fell, the IPC held near 69,860 points (+0.1% in the latest available reading). The peso traded near 18.90 per dollar, and Banxico's October 29 FIX (18.81) was the highest since August 2025. INEGI reported Q3 GDP growth of 0.9% quarter on quarter and 3.2% year on year."
+     },
+     {
+      "t": "Why",
+      "x": "The economy shows export strength (exports +37.9% in September), but the rate gap with the US (6.50% vs 4.00%) is the narrowest in a decade, making the peso less attractive."
+     },
+     {
+      "t": "What to expect",
+      "x": "Markets will watch Banxico's signals ahead of its next decision, with inflation up to 3.62% in the first half of October. On INEGI's calendar: first-half November inflation (Nov 24) and the October trade balance (Nov 27)."
+     },
+     {
+      "t": "Next week",
+      "x": "The peso will remain closely tied to US events: elections on Tuesday and, as usual, jobs data on Friday. INEGI's November calendar highlights first-half inflation (Nov 24) and the October trade balance (Nov 27)."
+     }
+    ],
+    "scm": "For the weekend: if you have dollar payments due in November, consider hedging part of them now, and budget imports at a higher exchange rate than in early October (around 18.0)."
+   },
+   "fuentes": [
+    {
+     "t": "Investing.com — IPC BMV",
+     "u": "https://es.investing.com/news/stock-market-news/ganancias-en-bolsa-mexicana-de-valores-hoy-ipc-perfila-su-mejor-mes-en-3-anos-3902329"
+    },
+    {
+     "t": "Forbes México — peso",
+     "u": "https://forbes.com.mx/peso-perfila-segundo-mes-consecutivo-de-perdidas-ante-menor-atractivo-del-carry-trade/"
+    },
+    {
+     "t": "Expansión — PIB 3T (INEGI)",
+     "u": "https://expansion.mx/economia/2026/10/30/pib-de-mexico-crece-0-9-en-tercer-trimestre-inegi"
+    },
+    {
+     "t": "INEGI — INPC 1a quincena de octubre",
+     "u": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/inpc/inpc_1q2026_10.pdf"
+    }
+   ],
+   "fin_de_semana": true
+  }
+ },
+ "lectura": {
+  "es": {
+   "titular": "Más volumen, costos más altos: hay que proteger el margen de la cadena",
+   "temas": [
+    {
+     "tema": "Peso y tasas",
+     "x": "El diferencial de tasas con EE. UU. es el más delgado en una década y el peso ronda 18.90. Insumos, fletes y equipo en dólares ya cuestan más: evalúa coberturas."
+    },
+    {
+     "tema": "Inflación global",
+     "x": "EE. UU. 3.7%, zona euro 3.8%, México 3.62%: las tasas seguirán altas más tiempo. Mantener inventario cuesta más en capital; revisa inventarios de seguridad."
+    },
+    {
+     "tema": "Crecimiento de México",
+     "x": "PIB +3.2% anual y exportaciones +37.9%, pero 267 mil ocupados menos. Espera presión de capacidad en cruces, autotransporte y almacenes del norte y el Bajío."
+    },
+    {
+     "tema": "Energía",
+     "x": "WTI en 103 y Brent en 112 dólares. Revisa los recargos por combustible y el costo por kilómetro de tu red."
+    }
+   ]
+  },
+  "en": {
+   "titular": "More volume, higher costs: protect supply chain margins",
+   "temas": [
+    {
+     "tema": "Peso and rates",
+     "x": "The rate gap with the US is the thinnest in a decade and the peso is near 18.90. Dollar-priced inputs, freight and equipment already cost more: consider hedging."
+    },
+    {
+     "tema": "Global inflation",
+     "x": "US 3.7%, euro area 3.8%, Mexico 3.62%: rates will stay high for longer. Holding inventory ties up more expensive capital; review safety stocks."
+    },
+    {
+     "tema": "Mexico's growth",
+     "x": "GDP +3.2% y/y and exports +37.9%, yet 267k fewer people employed. Expect capacity pressure at border crossings, trucking and warehouses in the north and Bajío."
+    },
+    {
+     "tema": "Energy",
+     "x": "WTI at $103 and Brent at $112. Review fuel surcharges and your network's cost per kilometer."
+    }
+   ]
+  }
+ },
+ "mercados": [
+  {
+   "nombre": "IPC BMV",
+   "name_en": "IPC BMV",
+   "grupo": "bolsa",
+   "valor": 69860.91,
+   "cambio": 0.11,
+   "unidad": "puntos"
+  },
+  {
+   "nombre": "S&P 500",
+   "name_en": "S&P 500",
+   "grupo": "bolsa",
+   "valor": 7559.67,
+   "cambio": -2.08,
+   "unidad": "puntos"
+  },
+  {
+   "nombre": "Nasdaq",
+   "name_en": "Nasdaq",
+   "grupo": "bolsa",
+   "valor": 25420.96,
+   "cambio": -2.92,
+   "unidad": "puntos"
+  },
+  {
+   "nombre": "Nikkei 225",
+   "name_en": "Nikkei 225",
+   "grupo": "bolsa",
+   "valor": 63289.89,
+   "cambio": -2.12,
+   "unidad": "puntos"
+  },
+  {
+   "nombre": "KOSPI",
+   "name_en": "KOSPI",
+   "grupo": "bolsa",
+   "valor": 5730.74,
+   "cambio": -3.48,
+   "unidad": "puntos"
+  },
+  {
+   "nombre": "USD/MXN",
+   "name_en": "USD/MXN",
+   "grupo": "divisa",
+   "valor": 18.9025,
+   "cambio": 0.23,
+   "unidad": ""
+  },
+  {
+   "nombre": "EUR/USD",
+   "name_en": "EUR/USD",
+   "grupo": "divisa",
+   "valor": 1.1184,
+   "cambio": 0.03,
+   "unidad": ""
+  },
+  {
+   "nombre": "USD/JPY",
+   "name_en": "USD/JPY",
+   "grupo": "divisa",
+   "valor": 157.3,
+   "cambio": -0.26,
+   "unidad": ""
+  },
+  {
+   "nombre": "Petróleo WTI",
+   "name_en": "WTI crude",
+   "grupo": "materia_prima",
+   "valor": 103.08,
+   "cambio": 1.06,
+   "unidad": "USD/barril"
+  },
+  {
+   "nombre": "Petróleo Brent",
+   "name_en": "Brent crude",
+   "grupo": "materia_prima",
+   "valor": 112.4,
+   "cambio": 1.44,
+   "unidad": "USD/barril"
+  },
+  {
+   "nombre": "Mezcla mexicana",
+   "name_en": "Mexican oil blend",
+   "grupo": "materia_prima",
+   "valor": 103.8,
+   "cambio": -0.38,
+   "unidad": "USD/barril"
+  },
+  {
+   "nombre": "Oro",
+   "name_en": "Gold",
+   "grupo": "materia_prima",
+   "valor": 3886.34,
+   "cambio": -3.36,
+   "unidad": "USD/onza"
+  },
+  {
+   "nombre": "Cobre",
+   "name_en": "Copper",
+   "grupo": "materia_prima",
+   "valor": 6.45,
+   "cambio": -2.0,
+   "unidad": "USD/libra"
+  },
+  {
+   "nombre": "Treasury 10 años",
+   "name_en": "10-yr Treasury",
+   "grupo": "bono",
+   "valor": 4.93,
+   "cambio": -1,
+   "unidad": "%"
+  },
+  {
+   "nombre": "Bono M 10 años",
+   "name_en": "10-yr Mbono",
+   "grupo": "bono",
+   "valor": 9.31,
+   "cambio": -3,
+   "unidad": "%"
+  },
+  {
+   "nombre": "Cetes 28 días",
+   "name_en": "28-day Cetes",
+   "grupo": "bono",
+   "valor": 6.22,
+   "cambio": -1,
+   "unidad": "%"
+  },
+  {
+   "nombre": "Bitcoin",
+   "name_en": "Bitcoin",
+   "grupo": "cripto",
+   "valor": 77309,
+   "cambio": -3.3,
+   "unidad": "USD"
+  }
+ ]
+}
