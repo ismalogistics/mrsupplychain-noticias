@@ -342,3 +342,5 @@ a { color: inherit; }
 
 .nx-sp{font-size:13px;line-height:1.5;opacity:.85;margin:10px 0}
 .nx-sp a{font-weight:600}
+
+h1.nx-name{margin:0;line-height:normal}

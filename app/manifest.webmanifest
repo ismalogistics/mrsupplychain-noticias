@@ -1,0 +1,26 @@
+{
+  "name": "Mr. Supply Chain México",
+  "short_name": "MSC México",
+  "description": "Noticias de mercados para supply chain, marcos de referencia y herramientas para operaciones en México y LATAM.",
+  "id": "/?app=msc",
+  "start_url": "/noticias/?utm_source=app&utm_medium=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b1f47",
+  "theme_color": "#163e86",
+  "lang": "es-MX",
+  "dir": "ltr",
+  "categories": ["business", "news", "education"],
+  "icons": [
+    { "src": "/noticias/app/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/noticias/app/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/noticias/app/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/noticias/app/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Noticias de mercados", "short_name": "Noticias", "url": "/noticias/?utm_source=app&utm_medium=pwa", "icons": [{ "src": "/noticias/app/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Labs: herramientas de supply chain", "short_name": "Labs", "url": "/labs/?utm_source=app&utm_medium=pwa", "icons": [{ "src": "/noticias/app/icon-192.png", "sizes": "192x192" }] },
+    { "name": "SCRA: arquitectura de referencia", "short_name": "SCRA", "url": "/scra/?utm_source=app&utm_medium=pwa", "icons": [{ "src": "/noticias/app/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

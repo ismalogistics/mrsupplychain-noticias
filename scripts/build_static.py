@@ -194,9 +194,13 @@ def pagina_brief(b, prev_b, next_b):
   <meta name="twitter:title" content="{E(es['titular'])}">
   <meta name="twitter:description" content="{E(desc)}">
   <meta name="twitter:image" content="{url}og.png">
-  <link rel="stylesheet" href="../../news.css?v=13">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <meta name="theme-color" content="#163e86">
+  <link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-title" content="MSC México">
+  <link rel="stylesheet" href="../../news.css?v=14">
   <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
-  <script src="../../static.js?v=2" defer></script>
+  <script src="../../static.js?v=3" defer></script>
 </head>
 <body class="nx-static">
   <div class="nx-util"><div class="nx-wrap nx-utilin"><a class="nx-back" href="../../"><span data-lang="es">← Portada de Noticias</span><span data-lang="en">← News front page</span><span data-lang="pt">← Capa de Notícias</span></a><span></span>
@@ -265,8 +269,12 @@ def pagina_archivo(lista):
   <meta property="og:locale" content="es_MX">
   <meta property="og:locale:alternate" content="en_US">
   <meta property="og:locale:alternate" content="pt_BR">
-  <link rel="stylesheet" href="../news.css?v=13">
-  <script src="../static.js?v=2" defer></script>
+  <link rel="manifest" href="/manifest.webmanifest">
+  <meta name="theme-color" content="#163e86">
+  <link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-title" content="MSC México">
+  <link rel="stylesheet" href="../news.css?v=14">
+  <script src="../static.js?v=3" defer></script>
 </head>
 <body class="nx-static">
   <div class="nx-util"><div class="nx-wrap nx-utilin"><a class="nx-back" href="../"><span data-lang="es">← Portada de Noticias</span><span data-lang="en">← News front page</span><span data-lang="pt">← Capa de Notícias</span></a><span></span>
