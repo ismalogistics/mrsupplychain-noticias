@@ -1,6 +1,0 @@
-d02_pdf/d02-reference.pdf
-d03_pdf/d03-reference.pdf
-d04_pdf/d04-reference.pdf
-d05_pdf/d05-reference.pdf
-d06_pdf/d06-reference.pdf
-d07_pdf/d07-reference.pdf
