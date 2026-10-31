@@ -96,7 +96,6 @@ INDICES = [
         ('Q.MX', 'Quálitas', 'fin'), ('GENTERA.MX', 'Gentera', 'fin'), ('BOLSAA.MX', 'Grupo BMV', 'fin'),
         ('LABB.MX', 'Genomma Lab', 'salud'),
         ('GAPB.MX', 'GAP', 'ind'), ('ASURB.MX', 'ASUR', 'ind'), ('OMAB.MX', 'OMA', 'ind'), ('PINFRA.MX', 'Pinfra', 'ind'), ('GCARSOA1.MX', 'Grupo Carso', 'ind'),
-        ('ALFAA.MX', 'Alfa', 'ind'),
         ('GMEXICOB.MX', 'Grupo México', 'mat'), ('CEMEXCPO.MX', 'Cemex', 'mat'), ('PE&OLES.MX', 'Peñoles', 'mat'), ('ORBIA.MX', 'Orbia', 'mat'), ('GCC.MX', 'GCC', 'mat'),
         ('VESTA.MX', 'Vesta', 'inmo'),
     ]},
@@ -130,14 +129,34 @@ def main():
             continue
         quotes[t] = {'p': round(last, 2), 'chg': round((last / before - 1) * 100, 2), 'fecha': closes.index[-1].strftime('%Y-%m-%d')}
 
+    def ok(v):
+        try:
+            return v is not None and not math.isnan(float(v)) and float(v) > 0
+        except Exception:
+            return False
+
     caps = {}
     for t in quotes:
+        tk = yf.Ticker(t)
+        mc = None
         try:
-            mc = yf.Ticker(t).fast_info.get('market_cap') or yf.Ticker(t).fast_info.get('marketCap')
-            if mc and not math.isnan(mc) and mc > 0:
-                caps[t] = float(mc)
+            mc = tk.fast_info['market_cap']
         except Exception:
             pass
+        if not ok(mc):
+            try:
+                mc = tk.info.get('marketCap')
+            except Exception:
+                mc = None
+        if not ok(mc):
+            try:
+                mc = float(tk.fast_info['shares']) * quotes[t]['p']
+            except Exception:
+                mc = None
+        if ok(mc):
+            caps[t] = float(mc)
+        else:
+            print('sin valor de mercado:', t, file=sys.stderr)
 
     out = {'actualizado': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'), 'fuente': 'Yahoo Finance', 'indices': []}
     for idx in INDICES:

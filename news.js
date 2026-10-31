@@ -308,12 +308,12 @@
       var a = n.data, w = n.x1 - n.x0, h = n.y1 - n.y0; if (w <= 0 || h <= 0) return;
       var g = sv('g', { 'class': 'nx-hcell' });
       g.appendChild(sv('rect', { x: n.x0, y: n.y0, width: w, height: h, fill: heatColor(a.chg) }));
-      var dark = Math.abs(a.chg) >= 1.2; var col = dark ? '#fff' : '#15171b';
-      var fs = Math.max(8, Math.min(22, Math.sqrt(w * h) / 4.6, (w - 6) / (a.t.length * 0.74)));
+      var lbl = /^\d+$/.test(a.t) ? a.n : a.t; var dark = Math.abs(a.chg) >= 1.2; var col = dark ? '#fff' : '#15171b';
+      var fs = Math.max(8, Math.min(22, Math.sqrt(w * h) / 4.6, (w - 6) / (lbl.length * 0.74)));
       if (w > 30 && h > 20) {
         var cx = n.x0 + w / 2, cy = n.y0 + h / 2;
         var showChg = h > fs * 2.4 && w > 40;
-        g.appendChild(sv('text', { x: cx, y: showChg ? cy - fs * 0.15 : cy + fs * 0.35, 'text-anchor': 'middle', 'class': 'nx-htk', style: 'font-size:' + fs.toFixed(1) + 'px;fill:' + col }, w - 4 > fs * a.t.length * 0.74 ? a.t : a.t.slice(0, Math.max(2, Math.floor((w - 4) / (fs * 0.74))))));
+        g.appendChild(sv('text', { x: cx, y: showChg ? cy - fs * 0.15 : cy + fs * 0.35, 'text-anchor': 'middle', 'class': 'nx-htk', style: 'font-size:' + fs.toFixed(1) + 'px;fill:' + col }, w - 4 > fs * lbl.length * 0.74 ? lbl : lbl.slice(0, Math.max(2, Math.floor((w - 4) / (fs * 0.74))))));
         if (showChg) g.appendChild(sv('text', { x: cx, y: cy + fs * 0.95, 'text-anchor': 'middle', 'class': 'nx-hch', style: 'font-size:' + (fs * 0.68).toFixed(1) + 'px;fill:' + col }, sgn(a.chg, 2) + '%'));
       }
       var txt = a.n + ' (' + a.t + ') · ' + sgn(a.chg, 2) + '% · ' + num(a.p, 2);
