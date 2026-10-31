@@ -213,6 +213,22 @@
    "unidad": "puntos"
   },
   {
+   "nombre": "Dow Jones",
+   "name_en": "Dow Jones",
+   "grupo": "bolsa",
+   "valor": 51690.26,
+   "cambio": -1.25,
+   "unidad": "puntos"
+  },
+  {
+   "nombre": "Euro Stoxx 50",
+   "name_en": "Euro Stoxx 50",
+   "grupo": "bolsa",
+   "valor": 6141.3,
+   "cambio": -1.14,
+   "unidad": "puntos"
+  },
+  {
    "nombre": "Nikkei 225",
    "name_en": "Nikkei 225",
    "grupo": "bolsa",
@@ -323,6 +339,33 @@
    "valor": 77309,
    "cambio": -3.3,
    "unidad": "USD"
+  }
+ ],
+ "agenda": [
+  {
+   "fecha": "2026-11-01",
+   "es": "EE. UU. atrasa su reloj: Wall Street abre 8:30 y cierra 15:00 (CDMX)",
+   "en": "US clocks go back: Wall Street opens 8:30 and closes 15:00 (Mexico City)"
+  },
+  {
+   "fecha": "2026-11-03",
+   "es": "Elecciones intermedias de EE. UU.",
+   "en": "US midterm elections"
+  },
+  {
+   "fecha": "2026-11-24",
+   "es": "INEGI: inflación de la 1a quincena de noviembre",
+   "en": "INEGI: first-half November inflation"
+  },
+  {
+   "fecha": "2026-11-27",
+   "es": "INEGI: balanza comercial de octubre",
+   "en": "INEGI: October trade balance"
+  },
+  {
+   "fecha": "2026-12-09",
+   "es": "Decisión de la Fed, con nuevas proyecciones",
+   "en": "Fed decision, with new projections"
   }
  ]
 }

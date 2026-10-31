@@ -1,0 +1,187 @@
+{
+ "usdmxn": [
+  {
+   "fecha": "2026-09-30",
+   "v": 18.07
+  },
+  {
+   "fecha": "2026-10-02",
+   "v": 18.37
+  },
+  {
+   "fecha": "2026-10-05",
+   "v": 18.19
+  },
+  {
+   "fecha": "2026-10-06",
+   "v": 18.13
+  },
+  {
+   "fecha": "2026-10-07",
+   "v": 17.96
+  },
+  {
+   "fecha": "2026-10-08",
+   "v": 17.97
+  },
+  {
+   "fecha": "2026-10-09",
+   "v": 18.11
+  },
+  {
+   "fecha": "2026-10-12",
+   "v": 18.41
+  },
+  {
+   "fecha": "2026-10-13",
+   "v": 18.25
+  },
+  {
+   "fecha": "2026-10-14",
+   "v": 18.35
+  },
+  {
+   "fecha": "2026-10-15",
+   "v": 18.48
+  },
+  {
+   "fecha": "2026-10-16",
+   "v": 18.42
+  },
+  {
+   "fecha": "2026-10-19",
+   "v": 18.49
+  },
+  {
+   "fecha": "2026-10-20",
+   "v": 18.42
+  },
+  {
+   "fecha": "2026-10-21",
+   "v": 18.42
+  },
+  {
+   "fecha": "2026-10-22",
+   "v": 18.64
+  },
+  {
+   "fecha": "2026-10-23",
+   "v": 18.7
+  },
+  {
+   "fecha": "2026-10-26",
+   "v": 18.66
+  },
+  {
+   "fecha": "2026-10-27",
+   "v": 18.57
+  },
+  {
+   "fecha": "2026-10-28",
+   "v": 18.65
+  },
+  {
+   "fecha": "2026-10-30",
+   "v": 18.81
+  }
+ ],
+ "banxico": [
+  {
+   "mes": "2025-12",
+   "tasa": 7.0,
+   "inflacion": 3.69
+  },
+  {
+   "mes": "2026-01",
+   "tasa": 7.0,
+   "inflacion": null
+  },
+  {
+   "mes": "2026-02",
+   "tasa": 7.0,
+   "inflacion": null
+  },
+  {
+   "mes": "2026-03",
+   "tasa": 6.75,
+   "inflacion": null
+  },
+  {
+   "mes": "2026-04",
+   "tasa": 6.75,
+   "inflacion": null
+  },
+  {
+   "mes": "2026-05",
+   "tasa": 6.5,
+   "inflacion": null
+  },
+  {
+   "mes": "2026-06",
+   "tasa": 6.5,
+   "inflacion": null
+  },
+  {
+   "mes": "2026-07",
+   "tasa": 6.5,
+   "inflacion": null
+  },
+  {
+   "mes": "2026-08",
+   "tasa": 6.5,
+   "inflacion": 3.26
+  },
+  {
+   "mes": "2026-09",
+   "tasa": 6.5,
+   "inflacion": 3.45
+  },
+  {
+   "mes": "2026-10",
+   "tasa": 6.5,
+   "inflacion": 3.62
+  }
+ ],
+ "economias": [
+  {
+   "es": "México",
+   "en": "Mexico",
+   "tasa": 6.5,
+   "inflacion": 3.62,
+   "pib": 0.9,
+   "desempleo": 2.8
+  },
+  {
+   "es": "EE. UU.",
+   "en": "US",
+   "tasa": 4.0,
+   "inflacion": 3.7,
+   "pib": 3.4,
+   "desempleo": 4.2
+  },
+  {
+   "es": "Zona euro",
+   "en": "Euro area",
+   "tasa": 2.5,
+   "inflacion": 3.8,
+   "pib": 0.4,
+   "desempleo": 6.5
+  },
+  {
+   "es": "Japón",
+   "en": "Japan",
+   "tasa": 1.25,
+   "inflacion": 2.1,
+   "pib": 0.4,
+   "desempleo": 2.4
+  },
+  {
+   "es": "Corea del Sur",
+   "en": "South Korea",
+   "tasa": 3.0,
+   "inflacion": 2.9,
+   "pib": 1.0,
+   "desempleo": 2.6
+  }
+ ]
+}
