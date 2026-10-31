@@ -126,13 +126,13 @@ MAPA = [
     {'id': 'bovespa', 'nombre': 'Ibovespa', 'name_en': 'Ibovespa', 'ciudad': 'São Paulo', 'ciudad_en': 'São Paulo', 'lon': -46.63, 'lat': -23.55,
      'tickers': ['^BVSP'], 'tz': 'America/Sao_Paulo', 'h': ((10, 0), (17, 0))},
     {'id': 'merval', 'nombre': 'S&P Merval', 'name_en': 'S&P Merval', 'ciudad': 'Buenos Aires', 'ciudad_en': 'Buenos Aires', 'lon': -58.38, 'lat': -34.60,
-     'tickers': ['^MERV'], 'tz': 'America/Argentina/Buenos_Aires', 'h': ((11, 0), (17, 0))},
+     'tickers': ['^MERV', ('ARGT', 'MSCI Argentina (ETF ARGT)', 'MSCI Argentina (ARGT ETF)')], 'tz': 'America/Argentina/Buenos_Aires', 'h': ((11, 0), (17, 0))},
     {'id': 'ipsa', 'nombre': 'S&P IPSA', 'name_en': 'S&P IPSA', 'ciudad': 'Santiago', 'ciudad_en': 'Santiago', 'lon': -70.65, 'lat': -33.45,
-     'tickers': ['^IPSA', '^SPIPSA'], 'tz': 'America/Santiago', 'h': ((9, 30), (16, 0))},
+     'tickers': ['^IPSA', ('ECH', 'MSCI Chile (ETF ECH)', 'MSCI Chile (ECH ETF)')], 'tz': 'America/Santiago', 'h': ((9, 30), (16, 0))},
     {'id': 'colcap', 'nombre': 'MSCI COLCAP', 'name_en': 'MSCI COLCAP', 'ciudad': 'Bogotá', 'ciudad_en': 'Bogotá', 'lon': -74.07, 'lat': 4.71,
-     'tickers': ['^COLCAP', 'ICOLCAP.CL'], 'tz': 'America/Bogota', 'h': ((9, 30), (16, 0))},
+     'tickers': ['^COLCAP', ('ICOLCAP.CL', 'MSCI COLCAP (ETF iCOLCAP)', 'MSCI COLCAP (iCOLCAP ETF)')], 'tz': 'America/Bogota', 'h': ((9, 30), (16, 0))},
     {'id': 'bvl', 'nombre': 'S&P/BVL Perú', 'name_en': 'S&P/BVL Peru', 'ciudad': 'Lima', 'ciudad_en': 'Lima', 'lon': -77.04, 'lat': -12.05,
-     'tickers': ['^SPBLPGPT'], 'tz': 'America/Lima', 'h': ((9, 0), (16, 0))},
+     'tickers': ['^SPBLPGPT', ('EPU', 'MSCI Perú (ETF EPU)', 'MSCI Peru (EPU ETF)')], 'tz': 'America/Lima', 'h': ((9, 0), (16, 0))},
 ]
 
 
@@ -151,6 +151,10 @@ def actualizar_mapa(prev_doc, now, force):
             continue
         rec = None
         for tk in m['tickers']:
+            alias = None
+            if isinstance(tk, tuple):
+                tk, alias_es, alias_en = tk
+                alias = (alias_es, alias_en)
             try:
                 c = yf.Ticker(tk).history(period='10d', interval='1d', auto_adjust=False)['Close'].dropna()
             except Exception:
@@ -160,6 +164,8 @@ def actualizar_mapa(prev_doc, now, force):
             last, before = float(c.iloc[-1]), float(c.iloc[-2])
             fecha = c.index[-1].strftime('%Y-%m-%d')
             rec = {k: m[k] for k in ('id', 'nombre', 'name_en', 'ciudad', 'ciudad_en', 'lon', 'lat')}
+            if alias:
+                rec['nombre'], rec['name_en'] = alias
             rec.update({'valor': round(last, 2), 'cambio': round((last / before - 1) * 100, 2), 'fecha': fecha, 'actualizado': iso(now)})
             if fecha == loc.strftime('%Y-%m-%d'):
                 rec['abre'], rec['cierra'] = iso(abre), iso(cierra)

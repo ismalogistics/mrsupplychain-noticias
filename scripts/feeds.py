@@ -8,6 +8,7 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
@@ -27,8 +28,6 @@ FEEDS = [
     ('medios', 'medio', 'The Loadstar', 'https://theloadstar.com/feed/'),
     ('medios', 'medio', 'gCaptain', 'https://gcaptain.com/feed/'),
     ('medios', 'medio', 'Talking Logistics', 'https://talkinglogistics.com/feed/'),
-    ('mexico', 'medio', 'The Logistics World', 'https://thelogisticsworld.com/feed/'),
-    ('mexico', 'medio', 'Cluster Industrial', 'https://clusterindustrial.com.mx/feed/'),
     ('mexico', 'medio', 'T21', 'https://t21.com.mx/feed/'),
 ]
 MAX_POR_FUENTE = 6
@@ -61,6 +60,8 @@ def main():
     now = datetime.now(timezone.utc)
     items, ok = [], 0
     for grupo, red, fuente, url in FEEDS:
+        if red == 'reddit':
+            time.sleep(4)  # Reddit limita peticiones seguidas
         try:
             d = feedparser.parse(url, agent=UA)
             entries = d.entries or []
