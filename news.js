@@ -63,20 +63,26 @@
   function renderTicker() {
     var box = document.getElementById('nx-ticker'); if (!box || !state.latest) return;
     box.replaceChildren();
-    (state.latest.mercados || []).forEach(function (r) {
+    var track = el('div', 'nx-track');
+    function card(r, dup) {
       var c = el('div', 'nx-tk');
+      if (dup) c.setAttribute('aria-hidden', 'true');
       c.appendChild(el('span', 'n', state.lang === 'en' ? (r.name_en || r.nombre) : r.nombre));
       var v = el('span', 'v');
       var val = r.grupo === 'bono' ? num(r.valor, 2) + '%' : r.grupo === 'divisa' ? num(r.valor, r.valor > 100 ? 2 : 4) : num(r.valor, r.valor >= 1000 ? 0 : 2);
       v.appendChild(document.createTextNode(val + ' '));
       if (r.cambio != null) {
         var cls = r.cambio > 0 ? 'up' : r.cambio < 0 ? 'down' : 'flat';
-        var txt = (r.cambio > 0 ? '+' : '') + (r.grupo === 'bono' ? num(r.cambio, 0) + ' pb' : num(r.cambio, 2) + '%');
-        if (r.grupo === 'bono' && state.lang === 'en') txt = txt.replace(' pb', ' bp');
+        var txt = (r.cambio > 0 ? '+' : '') + (r.grupo === 'bono' ? num(r.cambio, 0) + (state.lang === 'en' ? ' bp' : ' pb') : num(r.cambio, 2) + '%');
         v.appendChild(el('span', 'nx-chg ' + cls, txt));
       }
-      c.appendChild(v); box.appendChild(c);
-    });
+      c.appendChild(v); return c;
+    }
+    var rows = state.latest.mercados || [];
+    rows.forEach(function (r) { track.appendChild(card(r, false)); });
+    rows.forEach(function (r) { track.appendChild(card(r, true)); });
+    track.style.setProperty('--nx-dur', Math.max(30, rows.length * 4) + 's');
+    box.appendChild(track);
   }
   function renderBrief() {
     var box = document.getElementById('nx-brief'); if (!box || !state.latest) return;

@@ -35,7 +35,11 @@ body { background: var(--nx-bg); color: var(--nx-fg); font-family: Inter, -apple
 .nx-stamp { margin: 14px 0 0; font-size: 13px; color: var(--nx-muted); }
 .nx-stamp b { color: var(--nx-fg); }
 
-.nx-ticker { display: flex; gap: 8px; overflow-x: auto; padding: 4px 0 14px; scrollbar-width: thin; }
+.nx-ticker { position: relative; overflow: hidden; margin: 4px 0 14px; padding: 2px 0; -webkit-mask-image: linear-gradient(90deg, transparent, #000 4%, #000 96%, transparent); mask-image: linear-gradient(90deg, transparent, #000 4%, #000 96%, transparent); }
+.nx-track { display: flex; gap: 8px; width: max-content; animation: nx-marquee var(--nx-dur, 60s) linear infinite; }
+.nx-ticker:hover .nx-track, .nx-ticker:focus-within .nx-track { animation-play-state: paused; }
+@keyframes nx-marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+@media (prefers-reduced-motion: reduce) { .nx-track { animation: none; flex-wrap: wrap; width: auto; } .nx-track [aria-hidden="true"] { display: none; } .nx-ticker { -webkit-mask-image: none; mask-image: none; } }
 .nx-tk { flex: 0 0 auto; background: var(--nx-panel); border: 1px solid var(--nx-line); border-radius: 12px; padding: 10px 14px; min-width: 132px; }
 .nx-tk .n { display: block; font-size: 11.5px; color: var(--nx-muted); white-space: nowrap; }
 .nx-tk .v { display: block; font-weight: 650; font-variant-numeric: tabular-nums; white-space: nowrap; }
