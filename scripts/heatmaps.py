@@ -119,6 +119,61 @@ SESIONES = {
 }
 GRACIA = timedelta(minutes=60)
 
+# Bolsas del continente americano para el mapa del día (sólo el índice, sin emisoras).
+MAPA = [
+    {'id': 'tsx', 'nombre': 'S&P/TSX', 'name_en': 'S&P/TSX', 'ciudad': 'Toronto', 'ciudad_en': 'Toronto', 'lon': -79.38, 'lat': 43.65,
+     'tickers': ['^GSPTSE'], 'tz': 'America/Toronto', 'h': ((9, 30), (16, 0))},
+    {'id': 'bovespa', 'nombre': 'Ibovespa', 'name_en': 'Ibovespa', 'ciudad': 'São Paulo', 'ciudad_en': 'São Paulo', 'lon': -46.63, 'lat': -23.55,
+     'tickers': ['^BVSP'], 'tz': 'America/Sao_Paulo', 'h': ((10, 0), (17, 0))},
+    {'id': 'merval', 'nombre': 'S&P Merval', 'name_en': 'S&P Merval', 'ciudad': 'Buenos Aires', 'ciudad_en': 'Buenos Aires', 'lon': -58.38, 'lat': -34.60,
+     'tickers': ['^MERV'], 'tz': 'America/Argentina/Buenos_Aires', 'h': ((11, 0), (17, 0))},
+    {'id': 'ipsa', 'nombre': 'S&P IPSA', 'name_en': 'S&P IPSA', 'ciudad': 'Santiago', 'ciudad_en': 'Santiago', 'lon': -70.65, 'lat': -33.45,
+     'tickers': ['^IPSA', '^SPIPSA'], 'tz': 'America/Santiago', 'h': ((9, 30), (16, 0))},
+    {'id': 'colcap', 'nombre': 'MSCI COLCAP', 'name_en': 'MSCI COLCAP', 'ciudad': 'Bogotá', 'ciudad_en': 'Bogotá', 'lon': -74.07, 'lat': 4.71,
+     'tickers': ['^COLCAP', 'ICOLCAP.CL'], 'tz': 'America/Bogota', 'h': ((9, 30), (16, 0))},
+    {'id': 'bvl', 'nombre': 'S&P/BVL Perú', 'name_en': 'S&P/BVL Peru', 'ciudad': 'Lima', 'ciudad_en': 'Lima', 'lon': -77.04, 'lat': -12.05,
+     'tickers': ['^SPBLPGPT'], 'tz': 'America/Lima', 'h': ((9, 0), (16, 0))},
+]
+
+
+def actualizar_mapa(prev_doc, now, force):
+    prev = {m['id']: m for m in prev_doc.get('mapa', [])}
+    out, cambios = [], 0
+    for m in MAPA:
+        loc = now.astimezone(ZoneInfo(m['tz']))
+        (h1, m1), (h2, m2) = m['h']
+        abre = loc.replace(hour=h1, minute=m1, second=0, microsecond=0)
+        cierra = loc.replace(hour=h2, minute=m2, second=0, microsecond=0)
+        activa = loc.weekday() < 5 and abre <= loc < cierra + GRACIA
+        if not (activa or force or m['id'] not in prev):
+            if m['id'] in prev:
+                out.append(prev[m['id']])
+            continue
+        rec = None
+        for tk in m['tickers']:
+            try:
+                c = yf.Ticker(tk).history(period='10d', interval='1d', auto_adjust=False)['Close'].dropna()
+            except Exception:
+                continue
+            if len(c) < 2:
+                continue
+            last, before = float(c.iloc[-1]), float(c.iloc[-2])
+            fecha = c.index[-1].strftime('%Y-%m-%d')
+            rec = {k: m[k] for k in ('id', 'nombre', 'name_en', 'ciudad', 'ciudad_en', 'lon', 'lat')}
+            rec.update({'valor': round(last, 2), 'cambio': round((last / before - 1) * 100, 2), 'fecha': fecha, 'actualizado': iso(now)})
+            if fecha == loc.strftime('%Y-%m-%d'):
+                rec['abre'], rec['cierra'] = iso(abre), iso(cierra)
+            break
+        if rec:
+            out.append(rec)
+            cambios += 1
+            print('mapa', m['id'], rec['cambio'], file=sys.stderr)
+        elif m['id'] in prev:
+            out.append(prev[m['id']])
+        else:
+            print('mapa sin datos', m['id'], file=sys.stderr)
+    return out, cambios
+
 
 def sesion(idx_id, now):
     tz, (h1, m1), (h2, m2) = SESIONES[idx_id]
@@ -152,8 +207,15 @@ def main():
         activa, hoy, abre, cierra = sesion(idx['id'], now)
         if activa or force or idx['id'] not in prev_idx:
             vivos[idx['id']] = (hoy, abre, cierra, activa)
+    mapa, cambios_mapa = actualizar_mapa(prev_doc, now, force)
     if not vivos:
-        print('Ninguna bolsa abierta; no hay nada que actualizar.', file=sys.stderr)
+        if cambios_mapa:
+            prev_doc['mapa'] = mapa
+            prev_doc['actualizado'] = iso(now)
+            with open(OUT, 'w', encoding='utf-8') as f:
+                json.dump(prev_doc, f, ensure_ascii=False, separators=(',', ':'))
+        else:
+            print('Ninguna bolsa abierta; no hay nada que actualizar.', file=sys.stderr)
         return
     tickers = sorted({a[0] for idx in INDICES if idx['id'] in vivos for a in idx['acciones']})
     hist = yf.download(tickers, period='10d', interval='1d', group_by='ticker', auto_adjust=False, threads=True, progress=False)
@@ -202,7 +264,7 @@ def main():
         else:
             print('sin valor de mercado:', t, file=sys.stderr)
 
-    out = {'actualizado': iso(now), 'fuente': 'Yahoo Finance', 'indices': []}
+    out = {'actualizado': iso(now), 'fuente': 'Yahoo Finance', 'indices': [], 'mapa': mapa}
     cambios = 0
     for idx in INDICES:
         if idx['id'] not in vivos:
@@ -238,7 +300,7 @@ def main():
         cambios += 1
         print(idx['id'], len(rows), 'de', len(idx['acciones']), file=sys.stderr)
 
-    if not cambios:
+    if not cambios and not cambios_mapa:
         print('Sin cambios que escribir.', file=sys.stderr)
         return
     with open(OUT, 'w', encoding='utf-8') as f:

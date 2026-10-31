@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Noticias · Pulso de mercados para supply chain | Mr. Supply Chain®</title>
+  <title>Noticias · Pulso de mercados para supply chain | Mr. Supply Chain® México</title>
   <meta name="description" content="Brief diario de mercados y economía para profesionales de supply chain y operaciones: apertura, mediodía y cierre de Wall Street, con lectura para costos, abasto, fletes e inventario. México y el mundo.">
   <link rel="canonical" href="https://mrsupplychain.ai/noticias/">
   <meta property="og:type" content="website">
@@ -13,17 +13,17 @@
   <meta property="og:locale" content="es_MX">
   <meta property="og:locale:alternate" content="en_US">
   <meta name="twitter:card" content="summary">
-  <link rel="stylesheet" href="news.css?v=6">
+  <link rel="stylesheet" href="news.css?v=7">
   <script type="application/ld+json">
   {"@context":"https://schema.org","@graph":[
-    {"@type":"CollectionPage","@id":"https://mrsupplychain.ai/noticias/#page","url":"https://mrsupplychain.ai/noticias/","name":"Noticias · Pulso de mercados para supply chain","inLanguage":["es-MX","en-US"],"isPartOf":{"@id":"https://mrsupplychain.ai/#website"},"author":{"@id":"https://mrsupplychain.ai/#person"},"about":["Supply chain","Mercados financieros","Economía de México"]}
+    {"@type":"CollectionPage","@id":"https://mrsupplychain.ai/noticias/#page","url":"https://mrsupplychain.ai/noticias/","name":"Noticias · Pulso de mercados para supply chain · Mr. Supply Chain México","inLanguage":["es-MX","en-US"],"isPartOf":{"@id":"https://mrsupplychain.ai/#website"},"author":{"@id":"https://mrsupplychain.ai/#person"},"about":["Supply chain","Mercados financieros","Economía de México"]}
   ]}
   </script>
   <script src="vendor/d3-array.min.js" defer></script>
   <script src="vendor/d3-geo.min.js" defer></script>
   <script src="vendor/topojson-client.min.js" defer></script>
   <script src="vendor/d3-hierarchy.min.js" defer></script>
-  <script src="news.js?v=8" defer></script>
+  <script src="news.js?v=9" defer></script>
 </head>
 <body>
   <div class="nx-util">
@@ -40,7 +40,7 @@
   <header class="nx-mast">
     <div class="nx-wrap">
       <div class="nx-plate">
-        <a class="nx-brand" href="/">Mr. Supply Chain<sup>®</sup></a>
+        <a class="nx-brand" href="/">Mr. Supply Chain<sup>®</sup> <span class="nx-mx">México</span></a>
         <span class="nx-name"><span data-lang="es">Noticias</span><span data-lang="en">News</span></span>
       </div>
       <p class="nx-tag"><span data-lang="es">Lo que mueve a los mercados, leído desde supply chain y operaciones.</span><span data-lang="en">What moves the markets, read through a supply chain and operations lens.</span></p>
@@ -49,6 +49,7 @@
         <a href="#mapa"><span data-lang="es">Mapa</span><span data-lang="en">Map</span></a>
         <a href="#graficos"><span data-lang="es">Gráficos</span><span data-lang="en">Charts</span></a>
         <a href="#tendencias"><span data-lang="es">Tendencias</span><span data-lang="en">Trends</span></a>
+        <a href="#redes"><span data-lang="es">Redes</span><span data-lang="en">Social</span></a>
         <a href="#lectura"><span data-lang="es">Lectura para supply chain</span><span data-lang="en">Supply chain read</span></a>
         <a href="#archivo"><span data-lang="es">Archivo</span><span data-lang="en">Archive</span></a>
         <a href="/"><span data-lang="es">Ir a mrsupplychain.ai</span><span data-lang="en">Go to mrsupplychain.ai</span></a>
@@ -89,7 +90,8 @@
   <section class="nx-wrap nx-mapsec" id="mapa">
     <div class="nx-maphead">
       <h2 class="nx-h2"><span data-lang="es">El mapa del día</span><span data-lang="en">Today's map</span></h2>
-      <p class="nx-mapnote"><span data-lang="es">Variación del día de la bolsa principal de cada región. Verde sube, rojo baja; el tamaño indica la magnitud.</span><span data-lang="en">Daily change of each region's main stock index. Green up, red down; size shows the magnitude.</span></p>
+      <div class="nx-pills" id="nx-map-tabs" role="tablist"></div>
+      <p class="nx-mapnote"><span data-lang="es">Variación del día de la bolsa principal de cada mercado. Verde sube, rojo baja; el tamaño indica la magnitud.</span><span data-lang="en">Daily change of each market's main stock index. Green up, red down; size shows the magnitude.</span></p>
     </div>
     <figure class="nx-map" id="nx-map"></figure>
   </section>
@@ -131,11 +133,22 @@
     <div class="nx-trgrid" id="nx-trends"></div>
   </section>
 
+  <section class="nx-wrap nx-social-feed" id="redes">
+    <div class="nx-chhead">
+      <h2 class="nx-h2"><span data-lang="es">En redes y medios de supply chain</span><span data-lang="en">Supply chain social and media</span></h2>
+      <div class="nx-pills" id="nx-rf-tabs" role="tablist"></div>
+    </div>
+    <p class="nx-trnote" id="nx-rf-note"></p>
+    <ul class="nx-rf" id="nx-rf"></ul>
+  </section>
+
   <section class="nx-band" id="lectura">
     <div class="nx-wrap">
       <p class="nx-kick"><span data-lang="es">Lectura para supply chain</span><span data-lang="en">The supply chain read</span></p>
       <blockquote class="nx-verd" id="nx-verd"></blockquote>
+      <p class="nx-exec" id="nx-exec"></p>
       <div class="nx-themes" id="nx-themes"></div>
+      <div class="nx-watch" id="nx-watch"></div>
     </div>
   </section>
 
@@ -146,7 +159,7 @@
 
   <footer class="nx-foot">
     <div class="nx-wrap">
-      <p><a href="/">Mr. Supply Chain®</a> · <span data-lang="es">Noticias</span><span data-lang="en">News</span></p>
+      <p><a href="/">Mr. Supply Chain® México</a> · <span data-lang="es">Noticias</span><span data-lang="en">News</span></p>
       <p class="nx-disc"><span data-lang="es">Contenido informativo elaborado con apoyo de IA a partir de fuentes públicas citadas en cada brief. No es recomendación de inversión.</span><span data-lang="en">Informational content prepared with AI assistance from the public sources cited in each brief. Not investment advice.</span></p>
     </div>
   </footer>

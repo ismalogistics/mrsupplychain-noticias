@@ -1,4 +1,4 @@
-# Noticias · Mr. Supply Chain®
+# Noticias · Mr. Supply Chain® México
 
 Sección de noticias de https://mrsupplychain.ai/noticias/ — briefs de mercados (apertura, mediodía y cierre de Wall Street, global y México) leídos desde supply chain y operaciones, en español e inglés.
 

@@ -146,43 +146,235 @@
  "lectura": {
   "es": {
    "titular": "Más volumen, costos más altos: hay que proteger el margen de la cadena",
+   "resumen": "La semana cierra con una combinación incómoda para operaciones: la demanda exportadora de México sigue firme, pero los tres costos que más pesan en la cadena (tipo de cambio, energía y financiamiento) se mueven en contra al mismo tiempo. El peso cerca de 18.90 por dólar, el petróleo arriba de 100 dólares y tasas reales todavía altas comprimen el margen de quien importa insumos, mueve carga por carretera y financia inventario. Con elecciones en EE. UU. el martes 3 de noviembre y la Fed sin reunión hasta el 9 de diciembre, la volatilidad seguirá siendo el escenario base de noviembre: conviene asegurar costos ahora y dejar flexibilidad en volumen.",
    "temas": [
     {
      "tema": "Peso y tasas",
-     "x": "El diferencial de tasas con EE. UU. es el más delgado en una década y el peso ronda 18.90. Insumos, fletes y equipo en dólares ya cuestan más: evalúa coberturas."
+     "nivel": "alto",
+     "palancas": [
+      "Costo de importación",
+      "Capital de trabajo",
+      "Contratos en dólares"
+     ],
+     "analisis": "El diferencial entre la tasa de Banxico (6.50%) y la de la Fed (techo de 4.00%) es el más estrecho en una década, y eso le quita atractivo al peso para el carry trade. El FIX del 29 de octubre (18.81) fue el más alto desde agosto de 2025 y el peso cerró la semana cerca de 18.90, alrededor de 4.5% más débil que a finales de septiembre.",
+     "implicacion": "Cada punto de depreciación se traslada casi uno a uno al costo puesto en planta de insumos, refacciones y equipo cotizados en dólares; en categorías con alto contenido importado, el impacto en el costo de ventas puede aparecer en el cierre de noviembre.",
+     "acciones": [
+      "Actualizar el tipo de cambio presupuestal de noviembre y diciembre a un rango de 18.80–19.20 y recalcular el costo estándar de los SKU más expuestos.",
+      "Cubrir con forwards o compras anticipadas una parte de los pagos en dólares de las próximas 4 a 8 semanas.",
+      "Revisar cláusulas de ajuste cambiario con clientes y proveedores para repartir el riesgo."
+     ],
+     "horizonte": "Inmediato (próximas 4 semanas)",
+     "indicador": "FIX de Banxico y diferencial de tasas México–EE. UU."
     },
     {
-     "tema": "Inflación global",
-     "x": "EE. UU. 3.7%, zona euro 3.8%, México 3.62%: las tasas seguirán altas más tiempo. Mantener inventario cuesta más en capital; revisa inventarios de seguridad."
+     "tema": "Energía y transporte",
+     "nivel": "alto",
+     "palancas": [
+      "Fletes",
+      "Recargos por combustible",
+      "Costo por kilómetro"
+     ],
+     "analisis": "El WTI cerró cerca de 103 dólares y el Brent cerca de 112, con alzas el viernes aun cuando las bolsas cayeron. A esto se suman señales de estrés en la oferta de transporte: en EE. UU. ya suman 221 quiebras de transportistas pequeños en 2026.",
+     "implicacion": "Los recargos por combustible se ajustan con rezago de una a dos semanas, así que el costo de flete de noviembre ya viene más alto. Además, menos transportistas pequeños significa menos capacidad spot y más poder de negociación para los grandes.",
+     "acciones": [
+      "Auditar las fórmulas de recargo por combustible (base, umbral y periodicidad) antes de la licitación de tarifas 2027.",
+      "Consolidar carga y revisar frecuencias para bajar kilómetros vacíos.",
+      "Evaluar la salud financiera de los transportistas críticos y tener capacidad de respaldo."
+     ],
+     "horizonte": "1 a 3 meses",
+     "indicador": "Precio del diésel, Brent y quiebras o salidas de transportistas"
     },
     {
-     "tema": "Crecimiento de México",
-     "x": "PIB +3.2% anual y exportaciones +37.9%, pero 267 mil ocupados menos. Espera presión de capacidad en cruces, autotransporte y almacenes del norte y el Bajío."
+     "tema": "Inflación y costo del inventario",
+     "nivel": "medio",
+     "palancas": [
+      "Inventario",
+      "Costo de capital",
+      "Niveles de servicio"
+     ],
+     "analisis": "La inflación sigue arriba de las metas: 3.7% en EE. UU., 3.8% en la zona euro y 3.62% en México (primera quincena de octubre). La Fed mantuvo su tasa en 3.75–4.00% con dos votos a favor de subir, lo que confirma tasas altas por más tiempo.",
+     "implicacion": "Con una tasa real cercana a 2.9 puntos en México, mantener inventario cuesta más en capital de trabajo que hace un año; el inventario de seguridad \"por si acaso\" se vuelve caro justo cuando la volatilidad invita a acumular.",
+     "acciones": [
+      "Segmentar el inventario por criticidad y variabilidad: proteger sólo los SKU de alto impacto y reducir cobertura en los de baja rotación.",
+      "Recalcular puntos de reorden con la variabilidad real de los tiempos de entrega de las últimas 12 semanas.",
+      "Negociar plazos de pago o inventario en consignación con proveedores clave."
+     ],
+     "horizonte": "Trimestre",
+     "indicador": "Inflación quincenal de INEGI (24 nov) y tono de Banxico"
     },
     {
-     "tema": "Energía",
-     "x": "WTI en 103 y Brent en 112 dólares. Revisa los recargos por combustible y el costo por kilómetro de tu red."
+     "tema": "Demanda, manufactura y nearshoring",
+     "nivel": "medio",
+     "palancas": [
+      "Capacidad",
+      "Cruces fronterizos",
+      "Planeación de demanda"
+     ],
+     "analisis": "El PIB de México creció 0.9% trimestral y 3.2% anual en el tercer trimestre, y las exportaciones subieron 37.9% en septiembre. Pero la mezcla es desigual: la producción de vehículos ligeros cayó 15.1% en septiembre por aranceles y la revisión del T-MEC, mientras la electrónica y los componentes ligados a la IA empujan.",
+     "implicacion": "La demanda no crece pareja: hay presión de capacidad en cruces, autotransporte y almacenes del norte y el Bajío para electrónica, mientras la cadena automotriz ajusta programas a la baja.",
+     "acciones": [
+      "Revisar el S&OP por familia de producto en lugar de usar un crecimiento promedio.",
+      "Reservar capacidad de cruce y almacenaje para el pico de noviembre y diciembre en los corredores de mayor uso.",
+      "En automotriz, alinear compras e inventario de componentes a los programas revisados de las armadoras."
+     ],
+     "horizonte": "1 a 3 meses",
+     "indicador": "Balanza comercial de octubre (INEGI, 27 nov) y producción automotriz"
+    },
+    {
+     "tema": "Mercados y riesgo",
+     "nivel": "bajo",
+     "palancas": [
+      "Riesgo de proveedores",
+      "Inversión",
+      "Tecnología"
+     ],
+     "analisis": "Wall Street cerró octubre con una venta en tecnología: el Nasdaq cayó 2.9% el viernes y los semiconductores bajaron con fuerza en Seúl y Nueva York, aun cuando los precios de memoria siguen subiendo. La Bolsa mexicana resistió (+0.1%).",
+     "implicacion": "La caída de las acciones no abarata los componentes: la memoria sigue escasa. Para supply chain, el riesgo está en asignaciones y precios de electrónica en 2027, más que en la bolsa.",
+     "acciones": [
+      "Asegurar volúmenes de memoria y semiconductores para 2027 con contratos de mayor plazo.",
+      "Identificar proveedores de segundo nivel expuestos a tasas altas y a un dólar fuerte."
+     ],
+     "horizonte": "Trimestre",
+     "indicador": "Precios de DRAM/NAND y resultados de proveedores de electrónica"
+    }
+   ],
+   "vigilar": [
+    {
+     "cuando": "Dom 1 nov",
+     "evento": "Cambio de horario en EE. UU.",
+     "por_que": "Wall Street abrirá a las 8:30 y cerrará a las 15:00, hora de CDMX; ajusta ventanas de cierre cambiario y de operación con EE. UU."
+    },
+    {
+     "cuando": "Mar 3 nov",
+     "evento": "Elecciones intermedias en EE. UU.",
+     "por_que": "Pueden mover al dólar, al peso y la expectativa de política comercial y arancelaria."
+    },
+    {
+     "cuando": "Vie 6 nov",
+     "evento": "Reporte de empleo de EE. UU. (fecha habitual)",
+     "por_que": "Un dato fuerte refuerza la idea de tasas altas por más tiempo y presiona al peso."
+    },
+    {
+     "cuando": "24 y 27 nov",
+     "evento": "Inflación quincenal y balanza comercial (INEGI)",
+     "por_que": "Definen el tono de Banxico y confirman si el impulso exportador sigue."
     }
    ]
   },
   "en": {
    "titular": "More volume, higher costs: protect supply chain margins",
+   "resumen": "The week ends with an uncomfortable mix for operations: Mexico's export demand remains firm, but the three costs that weigh most on the chain (exchange rate, energy and financing) are moving against it at the same time. A peso near 18.90 per dollar, oil above $100 and still-high real rates squeeze the margins of anyone who imports inputs, moves freight by road or finances inventory. With US midterms on Tuesday, November 3, and no Fed meeting until December 9, volatility remains the base case for November: lock in costs now and keep flexibility on volume.",
    "temas": [
     {
      "tema": "Peso and rates",
-     "x": "The rate gap with the US is the thinnest in a decade and the peso is near 18.90. Dollar-priced inputs, freight and equipment already cost more: consider hedging."
+     "nivel": "alto",
+     "palancas": [
+      "Import cost",
+      "Working capital",
+      "Dollar contracts"
+     ],
+     "analisis": "The gap between Banxico's rate (6.50%) and the Fed's (4.00% upper bound) is the narrowest in a decade, reducing the peso's carry-trade appeal. The October 29 FIX (18.81) was the highest since August 2025 and the peso ended the week near 18.90, about 4.5% weaker than at the end of September.",
+     "implicacion": "Each point of depreciation passes almost one-for-one into the landed cost of dollar-priced inputs, spare parts and equipment; in categories with high import content, the hit to cost of goods sold can show up in the November close.",
+     "acciones": [
+      "Update November and December budget exchange rates to an 18.80–19.20 range and recompute standard costs for the most exposed SKUs.",
+      "Hedge part of the next 4 to 8 weeks of dollar payments with forwards or early purchases.",
+      "Review FX adjustment clauses with customers and suppliers to share the risk."
+     ],
+     "horizonte": "Immediate (next 4 weeks)",
+     "indicador": "Banxico FIX and the Mexico–US rate gap"
     },
     {
-     "tema": "Global inflation",
-     "x": "US 3.7%, euro area 3.8%, Mexico 3.62%: rates will stay high for longer. Holding inventory ties up more expensive capital; review safety stocks."
+     "tema": "Energy and transport",
+     "nivel": "alto",
+     "palancas": [
+      "Freight",
+      "Fuel surcharges",
+      "Cost per mile"
+     ],
+     "analisis": "WTI closed near $103 and Brent near $112, rising on Friday even as stocks fell. Add signs of stress in transport supply: 221 small US trucking companies have filed for bankruptcy in 2026.",
+     "implicacion": "Fuel surcharges adjust with a one- to two-week lag, so November freight costs are already higher. Fewer small carriers also means less spot capacity and more pricing power for large ones.",
+     "acciones": [
+      "Audit fuel-surcharge formulas (base, threshold and frequency) before the 2027 rate tender.",
+      "Consolidate loads and review frequencies to cut empty miles.",
+      "Assess the financial health of critical carriers and secure backup capacity."
+     ],
+     "horizonte": "1 to 3 months",
+     "indicador": "Diesel price, Brent and carrier exits"
     },
     {
-     "tema": "Mexico's growth",
-     "x": "GDP +3.2% y/y and exports +37.9%, yet 267k fewer people employed. Expect capacity pressure at border crossings, trucking and warehouses in the north and Bajío."
+     "tema": "Inflation and inventory cost",
+     "nivel": "medio",
+     "palancas": [
+      "Inventory",
+      "Cost of capital",
+      "Service levels"
+     ],
+     "analisis": "Inflation remains above target: 3.7% in the US, 3.8% in the euro area and 3.62% in Mexico (first half of October). The Fed held at 3.75–4.00% with two votes for a hike, confirming higher-for-longer rates.",
+     "implicacion": "With a real rate near 2.9 points in Mexico, carrying inventory costs more working capital than a year ago; \"just in case\" safety stock becomes expensive precisely when volatility tempts companies to build it.",
+     "acciones": [
+      "Segment inventory by criticality and variability: protect only high-impact SKUs and cut coverage on slow movers.",
+      "Recompute reorder points using actual lead-time variability over the last 12 weeks.",
+      "Negotiate payment terms or consignment stock with key suppliers."
+     ],
+     "horizonte": "Quarter",
+     "indicador": "INEGI bi-weekly inflation (Nov 24) and Banxico tone"
     },
     {
-     "tema": "Energy",
-     "x": "WTI at $103 and Brent at $112. Review fuel surcharges and your network's cost per kilometer."
+     "tema": "Demand, manufacturing and nearshoring",
+     "nivel": "medio",
+     "palancas": [
+      "Capacity",
+      "Border crossings",
+      "Demand planning"
+     ],
+     "analisis": "Mexico's GDP grew 0.9% quarter on quarter and 3.2% year on year in Q3, and exports rose 37.9% in September. But the mix is uneven: light-vehicle production fell 15.1% in September on tariffs and the USMCA review, while electronics and AI-related components are driving growth.",
+     "implicacion": "Demand is not growing evenly: crossings, trucking and warehouses in the north and the Bajío face capacity pressure from electronics, while the auto chain cuts schedules.",
+     "acciones": [
+      "Run S&OP by product family instead of applying an average growth rate.",
+      "Reserve crossing and warehouse capacity for the November–December peak on the busiest corridors.",
+      "In automotive, align component purchases and inventory with automakers' revised schedules."
+     ],
+     "horizonte": "1 to 3 months",
+     "indicador": "October trade balance (INEGI, Nov 27) and auto production"
+    },
+    {
+     "tema": "Markets and risk",
+     "nivel": "bajo",
+     "palancas": [
+      "Supplier risk",
+      "Capex",
+      "Technology"
+     ],
+     "analisis": "Wall Street ended October with a tech sell-off: the Nasdaq fell 2.9% on Friday and chipmakers dropped sharply in Seoul and New York, even as memory prices keep rising. The Mexican stock market held up (+0.1%).",
+     "implicacion": "Falling share prices do not make components cheaper: memory remains tight. For supply chain, the risk lies in 2027 electronics allocations and prices rather than in the stock market.",
+     "acciones": [
+      "Secure 2027 memory and semiconductor volumes with longer-term contracts.",
+      "Identify tier-2 suppliers exposed to high rates and a strong dollar."
+     ],
+     "horizonte": "Quarter",
+     "indicador": "DRAM/NAND prices and electronics supplier results"
+    }
+   ],
+   "vigilar": [
+    {
+     "cuando": "Sun Nov 1",
+     "evento": "US clocks change",
+     "por_que": "Wall Street will open at 8:30 and close at 15:00 Mexico City time; adjust FX cut-offs and US-facing operating windows."
+    },
+    {
+     "cuando": "Tue Nov 3",
+     "evento": "US midterm elections",
+     "por_que": "They can move the dollar, the peso and expectations for trade and tariff policy."
+    },
+    {
+     "cuando": "Fri Nov 6",
+     "evento": "US jobs report (usual date)",
+     "por_que": "A strong print reinforces higher-for-longer rates and pressures the peso."
+    },
+    {
+     "cuando": "Nov 24 and 27",
+     "evento": "Bi-weekly inflation and trade balance (INEGI)",
+     "por_que": "They set Banxico's tone and confirm whether export momentum continues."
     }
    ]
   }

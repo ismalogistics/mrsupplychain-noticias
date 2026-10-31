@@ -1,4 +1,4 @@
-/* Mr. Supply Chain® · Noticias — portal. Lee data/*.json del mismo origen (compatible con la CSP del sitio). */
+/* Mr. Supply Chain® México · Noticias — portal. Lee data/*.json del mismo origen (compatible con la CSP del sitio). */
 (function () {
   'use strict';
   var BASE = 'data/';
@@ -8,13 +8,14 @@
   var MOM = { es: { apertura: 'Apertura', mediodia: 'Mediodía', cierre: 'Cierre' }, en: { apertura: 'Open', mediodia: 'Midday', cierre: 'Close' } };
   var MKT = { es: { global: 'Global', mexico: 'México' }, en: { global: 'Global', mexico: 'Mexico' } };
   var TXT = {
-    es: { scm: 'Para supply chain', wk: 'Para el fin de semana', wkk: 'Edición de fin de semana', src: 'Fuentes', upd: 'Actualizado', none: 'Todavía no hay briefs anteriores.', err: 'No se pudieron cargar las noticias. Intenta de nuevo en unos minutos.', by: 'Mesa de mercados Mr. Supply Chain', read: 'Leer la nota', figG: 'Bolsas del día', figM: 'México hoy', noag: 'Sin eventos próximos registrados.', tasa: 'Tasa', infl: 'Inflación', banx: 'Tasa Banxico' },
-    en: { scm: 'For supply chain', wk: 'For the weekend', wkk: 'Weekend edition', src: 'Sources', upd: 'Updated', none: 'No earlier briefs yet.', err: 'News could not be loaded. Please try again in a few minutes.', by: 'Mr. Supply Chain markets desk', read: 'Read the story', figG: 'Stock markets today', figM: 'Mexico today', noag: 'No upcoming events listed.', tasa: 'Rate', infl: 'Inflation', banx: 'Banxico rate' }
+    es: { scm: 'Para supply chain', wk: 'Para el fin de semana', wkk: 'Edición de fin de semana', src: 'Fuentes', upd: 'Actualizado', none: 'Todavía no hay briefs anteriores.', err: 'No se pudieron cargar las noticias. Intenta de nuevo en unos minutos.', by: 'Mesa de mercados Mr. Supply Chain México', read: 'Leer la nota', figG: 'Bolsas del día', figM: 'México hoy', noag: 'Sin eventos próximos registrados.', tasa: 'Tasa', infl: 'Inflación', banx: 'Tasa Banxico' },
+    en: { scm: 'For supply chain', wk: 'For the weekend', wkk: 'Weekend edition', src: 'Sources', upd: 'Updated', none: 'No earlier briefs yet.', err: 'News could not be loaded. Please try again in a few minutes.', by: 'Mr. Supply Chain México markets desk', read: 'Read the story', figG: 'Stock markets today', figM: 'Mexico today', noag: 'No upcoming events listed.', tasa: 'Rate', infl: 'Inflation', banx: 'Banxico rate' }
   };
   var COLORS = ['#1e5fa8', '#a83246', '#1f8a5b', '#b87514', '#5b3fb8'];
-  var CITY = { 'IPC BMV': [-99.13, 19.43, 'CDMX'], 'S&P 500': [-74.0, 40.71, 'Nueva York'], 'Euro Stoxx 50': [8.68, 50.11, 'Fráncfort'], 'Nikkei 225': [139.69, 35.69, 'Tokio'], 'KOSPI': [126.98, 37.57, 'Seúl', 'left', -16] };
+  var CITY = { 'IPC BMV': [-99.13, 19.43, 'CDMX'], 'S&P 500': [-74.0, 40.71, 'Nueva York'], 'Euro Stoxx 50': [8.68, 50.11, 'Fráncfort'], 'Nikkei 225': [139.69, 35.69, 'Tokio', 'left', 22], 'KOSPI': [126.98, 37.57, 'Seúl', 'left', -24] };
   var CITY_EN = { 'CDMX': 'Mexico City', 'Nueva York': 'New York', 'Fráncfort': 'Frankfurt', 'Tokio': 'Tokyo', 'Seúl': 'Seoul' };
-  var HL = { '484': 1, '840': 1, '392': 1, '410': 1, '276': 1, '250': 1, '380': 1, '724': 1, '528': 1, '056': 1, '040': 1, '620': 1, '372': 1, '246': 1, '300': 1 };
+  var AM_LBL = { 'S&P 500': ['right', 12], 'IPC BMV': ['left', 0], 'tsx': ['right', -12], 'bovespa': ['right', 0], 'merval': ['right', 8], 'ipsa': ['left', 0], 'colcap': ['right', 0], 'bvl': ['left', 0] };
+  var HL = { '076': 1, '032': 1, '152': 1, '170': 1, '604': 1, '124': 1, '484': 1, '840': 1, '392': 1, '410': 1, '276': 1, '250': 1, '380': 1, '724': 1, '528': 1, '056': 1, '040': 1, '620': 1, '372': 1, '246': 1, '300': 1 };
 
   function el(tag, cls, text) { var n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; }
   function sv(tag, attrs, text) { var n = document.createElementNS(NS, tag); for (var k in attrs) n.setAttribute(k, attrs[k]); if (text != null) n.textContent = text; return n; }
@@ -162,27 +163,71 @@
   function renderMap() {
     var box = document.getElementById('nx-map'); if (!box || !state.latest || !state.world || !window.d3 || !window.topojson || !d3.geoNaturalEarth1) return;
     box.replaceChildren();
-    var W = 1000, H = 470;
-    var svg = sv('svg', { viewBox: '0 0 ' + W + ' ' + H, role: 'img', 'aria-label': state.lang === 'es' ? 'Mapa de bolsas del día' : 'Map of today’s stock markets' });
+    var en0 = state.lang === 'en', view = state.mapView || 'americas';
+    var tabs = document.getElementById('nx-map-tabs');
+    if (tabs) {
+      tabs.replaceChildren();
+      [['americas', en0 ? 'Americas' : 'Américas'], ['mundo', en0 ? 'World' : 'Mundo']].forEach(function (v) {
+        var bt = el('button', null, v[1]); bt.type = 'button'; bt.setAttribute('aria-selected', String(v[0] === view));
+        bt.addEventListener('click', function () { state.mapView = v[0]; renderMap(); }); tabs.appendChild(bt);
+      });
+    }
+    var all = (state.latest.mercados || []).filter(function (r) { return CITY[r.nombre] && r.cambio != null; }).map(function (r) {
+      var c = CITY[r.nombre]; return { key: r.nombre, nombre: r.nombre, name_en: r.name_en, cambio: r.cambio, grupo: r.grupo, lon: c[0], lat: c[1], ciudad: c[2], ciudad_en: CITY_EN[c[2]], side: c[3], dy: c[4], am: c[0] < -30 };
+    });
+    ((state.heat && state.heat.mapa) || []).forEach(function (m) { if (m.cambio != null) all.push({ key: m.id, nombre: m.nombre, name_en: m.name_en, cambio: m.cambio, grupo: 'bolsa', lon: m.lon, lat: m.lat, ciudad: m.ciudad, ciudad_en: m.ciudad_en, am: true, latam: true }); });
+    var rows = view === 'americas' ? all.filter(function (r) { return r.am; }) : all;
+    var W = 1000, H = view === 'americas' ? 640 : 470;
+    var svg = sv('svg', { viewBox: '0 0 ' + W + ' ' + H, role: 'img', 'aria-label': en0 ? 'Map of today’s stock markets' : 'Mapa de bolsas del día' });
     var land = topojson.feature(state.world, state.world.objects.countries);
-    var proj = d3.geoNaturalEarth1().fitExtent([[10, 10], [W - 10, H - 10]], { type: 'Sphere' });
+    var proj = d3.geoNaturalEarth1();
+    if (view === 'americas') proj.fitExtent([[20, 10], [W - 20, H - 10]], { type: 'MultiPoint', coordinates: [[-128, 60], [-30, -56], [-128, -56], [-30, 60]] });
+    else proj.fitExtent([[10, 10], [W - 10, H - 10]], { type: 'Sphere' });
     var path = d3.geoPath(proj);
     var g = sv('g');
     land.features.forEach(function (f) { if (f.id === '010') return; g.appendChild(sv('path', { d: path(f), 'class': 'land' + (HL[f.id] ? ' hl' : '') })); });
     svg.appendChild(g);
-    var rows = (state.latest.mercados || []).filter(function (r) { return CITY[r.nombre] && r.cambio != null; });
     var max = Math.max.apply(null, rows.map(function (r) { return Math.abs(r.cambio); }).concat([0.5]));
     rows.forEach(function (r) {
-      var c = CITY[r.nombre]; var p = proj([c[0], c[1]]); var cls = r.cambio >= 0 ? 'up' : 'down';
-      var rad = 7 + Math.abs(r.cambio) / max * 16;
+      var p = proj([r.lon, r.lat]); var cls = r.cambio >= 0 ? 'up' : 'down';
+      var rad = (view === 'americas' ? 8 : 7) + Math.abs(r.cambio) / max * (view === 'americas' ? 18 : 16);
       svg.appendChild(sv('circle', { cx: p[0], cy: p[1], r: rad, 'class': 'ring ' + cls }));
       svg.appendChild(sv('circle', { cx: p[0], cy: p[1], r: rad * 0.62, 'class': 'bub ' + cls }));
-      var right = c[3] ? c[3] !== 'left' : p[0] < W * 0.8; var dy = c[4] || 0; var x = p[0] + (right ? rad + 6 : -rad - 6); var anchor = right ? 'start' : 'end';
-      svg.appendChild(sv('text', { x: x, y: p[1] - 3 + dy, 'text-anchor': anchor, 'class': 'lbl' }, (state.lang === 'en' ? (r.name_en || r.nombre) : r.nombre) + ' · ' + (state.lang === 'en' ? CITY_EN[c[2]] : c[2])));
+      if (view === 'mundo' && r.latam && ['bovespa', 'tsx'].indexOf(r.key) < 0) return;
+      var side, dy;
+      if (view === 'americas' && AM_LBL[r.key]) { side = AM_LBL[r.key][0]; dy = AM_LBL[r.key][1]; }
+      else { side = r.side || (p[0] < W * 0.8 ? 'right' : 'left'); dy = r.dy || 0; if (view === 'mundo' && r.key === 'tsx') dy = -16; if (view === 'mundo' && r.key === 'S&P 500') dy = 10; }
+      var right = side !== 'left'; var x = p[0] + (right ? rad + 6 : -rad - 6); var anchor = right ? 'start' : 'end';
+      svg.appendChild(sv('text', { x: x, y: p[1] - 3 + dy, 'text-anchor': anchor, 'class': 'lbl' }, (en0 ? (r.name_en || r.nombre) : r.nombre) + ' · ' + (en0 ? (r.ciudad_en || r.ciudad) : r.ciudad)));
       svg.appendChild(sv('text', { x: x, y: p[1] + 13 + dy, 'text-anchor': anchor, 'class': 'lbl2 ' + cls }, fmtChg(r)));
     });
     box.appendChild(svg);
+    if (rows.length) {
+      var en = state.lang === 'en', nm = function (r) { return en ? (r.name_en || r.nombre) : r.nombre; };
+      var srt = rows.slice().sort(function (a, b) { return b.cambio - a.cambio; }), ups = rows.filter(function (r) { return r.cambio > 0; }).length;
+      var best = srt[0], worst = srt[srt.length - 1];
+      var t1 = en ? ups + ' of ' + rows.length + ' regions closed higher. Best: ' + nm(best) + ' (' + pc(best.cambio) + '); weakest: ' + nm(worst) + ' (' + pc(worst.cambio) + ').'
+                  : ups + ' de ' + rows.length + ' regiones subieron. La mejor: ' + nm(best) + ' (' + pc(best.cambio) + '); la más débil: ' + nm(worst) + ' (' + pc(worst.cambio) + ').';
+      var t2 = ups <= rows.length / 2
+        ? (en ? 'A broad risk-off day usually brings a stronger dollar and more cautious buyers: expect suppliers to protect cash and stretch payment terms.' : 'Un día de aversión al riesgo suele traer dólar más fuerte y compradores más cautelosos: espera que tus proveedores cuiden su caja y pidan mejores plazos de pago.')
+        : (en ? 'A positive day across regions supports demand and capacity plans; a good moment to close volume commitments.' : 'Un día positivo en casi todas las regiones respalda los planes de demanda y capacidad; buen momento para cerrar compromisos de volumen.');
+      interp('nx-map', t1, t2);
+    }
   }
+
+
+  /* ---------- Interpretación bajo cada gráfico (se calcula con los datos) ---------- */
+  function interp(boxId, txt, scm) {
+    var box = document.getElementById(boxId); if (!box) return;
+    var host = box.parentNode, p = host.querySelector(':scope > .nx-interp');
+    if (!txt) { if (p) p.remove(); return; }
+    if (!p) { p = el('p', 'nx-interp'); if (box.nextSibling) host.insertBefore(p, box.nextSibling); else host.appendChild(p); }
+    p.replaceChildren();
+    p.appendChild(el('b', null, state.lang === 'en' ? 'What it means: ' : 'Lectura: '));
+    p.appendChild(document.createTextNode(txt));
+    if (scm) { p.appendChild(el('br')); p.appendChild(el('b', null, (state.lang === 'en' ? 'Supply chain: ' : 'Supply chain: '))); p.appendChild(document.createTextNode(scm)); }
+  }
+  function pc(v) { return sgn(v, 2) + '%'; }
 
   /* ---------- Gráficos ---------- */
   function niceTicks(lo, hi, n) {
@@ -332,6 +377,23 @@
       g.addEventListener('mouseleave', function () { tip.style.display = 'none'; });
       svg.appendChild(g);
     });
+    (function () {
+      var en = state.lang === 'en', A = idx.acciones;
+      var tot = A.reduce(function (z, a) { return z + a.cap; }, 0);
+      var contrib = A.map(function (a) { return { a: a, c: a.cap * a.chg / tot }; }).sort(function (x, y) { return x.c - y.c; });
+      var neg = contrib[0], pos = contrib[contrib.length - 1];
+      var agg = {}; A.forEach(function (a) { var g = agg[a.s] = agg[a.s] || { w: 0, v: 0 }; g.w += a.cap; g.v += a.cap * a.chg; });
+      var sec = Object.keys(agg).map(function (k) { return { k: k, c: agg[k].v / agg[k].w }; }).sort(function (x, y) { return x.c - y.c; });
+      var ws = sec[0], bs = sec[sec.length - 1], ups = A.filter(function (a) { return a.chg > 0; }).length;
+      var nmI = en ? idx.en : idx.es;
+      var t1 = en
+        ? 'In the ' + nmI + ', ' + neg.a.n + ' (' + pc(neg.a.chg) + ') weighed most and ' + pos.a.n + ' (' + pc(pos.a.chg) + ') helped most; ' + ups + ' of ' + A.length + ' stocks rose. Strongest sector: ' + SECT.en[bs.k] + ' (' + pc(bs.c) + '); weakest: ' + SECT.en[ws.k] + ' (' + pc(ws.c) + ').'
+        : 'En el ' + nmI + ', ' + neg.a.n + ' (' + pc(neg.a.chg) + ') fue la que más restó y ' + pos.a.n + ' (' + pc(pos.a.chg) + ') la que más sumó; ' + ups + ' de ' + A.length + ' emisoras subieron. Sector más fuerte: ' + SECT.es[bs.k] + ' (' + pc(bs.c) + '); más débil: ' + SECT.es[ws.k] + ' (' + pc(ws.c) + ').';
+      var t2 = en
+        ? 'Sharp moves in a supplier sector (' + SECT.en[ws.k].toLowerCase() + ' today) often precede price, capacity or capex changes: check exposure to your key suppliers there.'
+        : 'Los movimientos fuertes en un sector proveedor (hoy, ' + SECT.es[ws.k].toLowerCase() + ') suelen anticipar cambios de precio, capacidad o inversión: revisa tu exposición a proveedores clave de ese sector.';
+      interp('nx-heat', t1, t2);
+    })();
     if (src) {
       src.replaceChildren();
       var up = idx.acciones.filter(function (a) { return a.chg > 0; }).length;
@@ -360,6 +422,14 @@
       g.appendChild(el('span', 'vl ' + cls, fmtChg(r)));
     });
     box.appendChild(g);
+    var en = state.lang === 'en', nm = function (r) { return en ? (r.name_en || r.nombre) : r.nombre; };
+    var srt = rows.slice().sort(function (a, b) { return b.cambio - a.cambio; }), up = srt[0], dn = srt[srt.length - 1];
+    var oil = rows.filter(function (r) { return /WTI|Brent/.test(r.nombre); })[0], mxn = rows.filter(function (r) { return r.nombre === 'USD/MXN'; })[0];
+    var t1 = en ? 'Biggest rise: ' + nm(up) + ' (' + fmtChg(up) + '); biggest drop: ' + nm(dn) + ' (' + fmtChg(dn) + ').' : 'Lo que más subió: ' + nm(up) + ' (' + fmtChg(up) + '); lo que más bajó: ' + nm(dn) + ' (' + fmtChg(dn) + ').';
+    var bits = [];
+    if (oil) bits.push(oil.cambio > 0 ? (en ? 'higher oil feeds fuel surcharges within days' : 'el petróleo al alza se traslada a recargos por combustible en días') : (en ? 'softer oil gives room to renegotiate fuel surcharges' : 'el petróleo a la baja da margen para renegociar recargos por combustible'));
+    if (mxn) bits.push(mxn.cambio > 0 ? (en ? 'a weaker peso makes dollar-priced imports more expensive' : 'el peso más débil encarece lo que compras en dólares') : (en ? 'a stronger peso lowers the cost of dollar purchases' : 'el peso más fuerte abarata lo que compras en dólares'));
+    interp('nx-ch-cmd', t1, bits.length ? bits.join('; ') + '.' : '');
   }
   function renderCharts() {
     var views = document.querySelectorAll('.nx-chgrid[data-view]');
@@ -371,8 +441,40 @@
       var d2 = function (iso) { var p = iso.split('-'); return (+p[2]) + ' ' + MES[state.lang][+p[1] - 1]; };
       lineChart('nx-ch-usd', S.usdmxn || [], { series: [{ k: 'v', c: '#1e4f9c', area: true }], fx: function (p) { return d2(p.fecha); }, fy: function (v) { return num(v, 2); } });
       lineChart('nx-ch-banxico', S.banxico || [], { series: [{ k: 'tasa', c: '#1e4f9c', step: true, name: t('banx') }, { k: 'inflacion', c: '#b87514', dots: true, name: t('infl') }], fx: function (p) { var q = p.mes.split('-'); return MES[state.lang][+q[1] - 1] + (q[1] === '01' || q[1] === '12' ? ' ' + q[0].slice(2) : ''); }, fy: function (v) { return num(v, 2) + '%'; } });
+      var en = state.lang === 'en', U = S.usdmxn || [];
+      if (U.length > 1) {
+        var f0 = U[0], f1 = U[U.length - 1], ch = (f1.v / f0.v - 1) * 100;
+        var hi = U.reduce(function (a, b) { return b.v > a.v ? b : a; }), lo = U.reduce(function (a, b) { return b.v < a.v ? b : a; });
+        interp('nx-ch-usd', en
+          ? 'The peso went from ' + num(f0.v, 2) + ' to ' + num(f1.v, 2) + ' per dollar (' + pc(ch) + ') between ' + d2(f0.fecha) + ' and ' + d2(f1.fecha) + '; range ' + num(lo.v, 2) + '–' + num(hi.v, 2) + '.'
+          : 'El peso pasó de ' + num(f0.v, 2) + ' a ' + num(f1.v, 2) + ' por dólar (' + pc(ch) + ') entre el ' + d2(f0.fecha) + ' y el ' + d2(f1.fecha) + '; rango de ' + num(lo.v, 2) + ' a ' + num(hi.v, 2) + '.',
+          ch > 0 ? (en ? 'Every 1% of depreciation adds roughly 1% to the landed cost of dollar-priced inputs; update budget exchange rates and consider hedging upcoming payments.' : 'Cada 1% de depreciación suma cerca de 1% al costo puesto en planta de los insumos en dólares; actualiza el tipo de cambio presupuestal y evalúa cubrir pagos próximos.')
+                 : (en ? 'A stronger peso lowers import costs; a good window to pay or pre-buy dollar-priced inputs.' : 'Un peso más fuerte abarata las importaciones; buena ventana para pagar o adelantar compras en dólares.'));
+      }
+      var B = (S.banxico || []).filter(function (r) { return r.tasa != null; });
+      if (B.length) {
+        var bl = B[B.length - 1], b0 = B[0], infl = null;
+        for (var j = (S.banxico || []).length - 1; j >= 0; j--) if (S.banxico[j].inflacion != null) { infl = S.banxico[j].inflacion; break; }
+        var real = infl != null ? bl.tasa - infl : null;
+        interp('nx-ch-banxico', en
+          ? 'Banxico\'s rate is ' + num(bl.tasa, 2) + '% (' + sgn(bl.tasa - b0.tasa, 2) + ' pp in the period)' + (infl != null ? ' and inflation ' + num(infl, 2) + '%, a real rate of ' + num(real, 2) + ' pp.' : '.')
+          : 'La tasa de Banxico está en ' + num(bl.tasa, 2) + '% (' + sgn(bl.tasa - b0.tasa, 2) + ' pp en el periodo)' + (infl != null ? ' y la inflación en ' + num(infl, 2) + '%: una tasa real de ' + num(real, 2) + ' pp.' : '.'),
+          real != null && real > 2 ? (en ? 'Financing inventory in pesos remains expensive: every extra day of stock costs more in working capital.' : 'Financiar inventario en pesos sigue siendo caro: cada día extra de inventario cuesta más en capital de trabajo.')
+                                   : (en ? 'Credit is getting cheaper in real terms, which eases the cost of carrying inventory.' : 'El crédito se abarata en términos reales, lo que alivia el costo de mantener inventario.'));
+      }
     } else {
-      if (S) dumbbell('nx-ch-rates', S.economias || []);
+      if (S) {
+        dumbbell('nx-ch-rates', S.economias || []);
+        var E = (S.economias || []).filter(function (r) { return r.tasa != null && r.inflacion != null; }).map(function (r) { return { n: state.lang === 'en' ? r.en : r.es, r: r.tasa - r.inflacion }; }).sort(function (a, b) { return b.r - a.r; });
+        if (E.length) {
+          var en2 = state.lang === 'en', neg = E.filter(function (e) { return e.r < 0; }).map(function (e) { return e.n; });
+          interp('nx-ch-rates', en2
+            ? E[0].n + ' has the highest real rate (' + sgn(E[0].r, 1) + ' pp) and ' + E[E.length - 1].n + ' the lowest (' + sgn(E[E.length - 1].r, 1) + ' pp).' + (neg.length ? ' Negative real rates in: ' + neg.join(', ') + '.' : '')
+            : E[0].n + ' tiene la tasa real más alta (' + sgn(E[0].r, 1) + ' pp) y ' + E[E.length - 1].n + ' la más baja (' + sgn(E[E.length - 1].r, 1) + ' pp).' + (neg.length ? ' Tasa real negativa en: ' + neg.join(', ') + '.' : ''),
+            en2 ? 'Where real rates are high, carrying inventory and supplier financing cost more; where they are negative, currencies tend to weaken, which affects sourcing from those regions.'
+                : 'Donde la tasa real es alta, mantener inventario y financiar proveedores cuesta más; donde es negativa, la moneda tiende a debilitarse, lo que cambia el costo de abastecerte de esa región.');
+        }
+      }
       cmdChart('nx-ch-cmd');
     }
   }
@@ -438,16 +540,82 @@
       g.appendChild(el('span', 'vl ' + cls, sgn(r.chg, 2) + '%'));
     });
     box.appendChild(g);
+    var en = state.lang === 'en', b = rows[0], w = rows[rows.length - 1], upn = rows.filter(function (r) { return r.chg > 0; }).length;
+    interp('nx-sect', en
+      ? upn + ' of ' + rows.length + ' sectors rose. ' + SECT.en[b.k] + ' led (' + pc(b.chg) + ') and ' + SECT.en[w.k] + ' lagged (' + pc(w.chg) + ').'
+      : upn + ' de ' + rows.length + ' sectores subieron. ' + SECT.es[b.k] + ' encabezó (' + pc(b.chg) + ') y ' + SECT.es[w.k] + ' quedó al final (' + pc(w.chg) + ').',
+      en ? 'Read it alongside the industry cards: when the market and the news point the same way, the trend is more likely to reach your suppliers\' prices and lead times.'
+         : 'Léelo junto con las tarjetas de industria: cuando el mercado y las noticias apuntan al mismo lado, es más probable que la tendencia llegue a precios y tiempos de entrega de tus proveedores.');
   }
 
   /* ---------- Lectura y archivo ---------- */
   function renderLectura() {
     var L = state.latest && state.latest.lectura && (state.latest.lectura[state.lang] || state.latest.lectura.es);
-    var v = document.getElementById('nx-verd'), box = document.getElementById('nx-themes');
+    var v = document.getElementById('nx-verd'), box = document.getElementById('nx-themes'), ex = document.getElementById('nx-exec'), wa = document.getElementById('nx-watch');
     if (!L || !v || !box) return;
+    var en = state.lang === 'en';
     v.textContent = L.titular;
+    if (ex) ex.textContent = L.resumen || '';
     box.replaceChildren();
-    (L.temas || []).forEach(function (x, i) { var c = el('div', 'nx-th'); c.style.setProperty('--c', COLORS[i % COLORS.length]); c.appendChild(el('b', null, x.tema)); c.appendChild(el('p', null, x.x)); box.appendChild(c); });
+    var NIV = { alto: en ? 'High impact' : 'Impacto alto', medio: en ? 'Medium impact' : 'Impacto medio', bajo: en ? 'Low impact' : 'Impacto bajo', high: en ? 'High impact' : 'Impacto alto', medium: en ? 'Medium impact' : 'Impacto medio', low: en ? 'Low impact' : 'Impacto bajo' };
+    (L.temas || []).forEach(function (x, i) {
+      var c = el('article', 'nx-th' + (x.analisis ? ' deep' : '')); c.style.setProperty('--c', COLORS[i % COLORS.length]);
+      var hd = el('div', 'nx-thh'); hd.appendChild(el('b', null, x.tema)); if (x.nivel) hd.appendChild(el('span', 'nx-niv ' + x.nivel, NIV[x.nivel] || x.nivel)); c.appendChild(hd);
+      if (!x.analisis) { c.appendChild(el('p', null, x.x)); box.appendChild(c); return; }
+      if (x.palancas && x.palancas.length) { var pl = el('div', 'nx-pal'); x.palancas.forEach(function (p) { pl.appendChild(el('span', null, p)); }); c.appendChild(pl); }
+      c.appendChild(el('p', 'nx-an', x.analisis));
+      if (x.implicacion) { var im = el('p', 'nx-im'); im.appendChild(el('strong', null, en ? 'Operational implication. ' : 'Implicación operativa. ')); im.appendChild(document.createTextNode(x.implicacion)); c.appendChild(im); }
+      if (x.acciones && x.acciones.length) {
+        c.appendChild(el('div', 'nx-acth', en ? 'Recommended actions' : 'Acciones recomendadas'));
+        var ul = el('ul', 'nx-act'); x.acciones.forEach(function (a) { ul.appendChild(el('li', null, a)); }); c.appendChild(ul);
+      }
+      var ft = el('div', 'nx-thf');
+      if (x.horizonte) { var h = el('span'); h.appendChild(el('em', null, en ? 'Horizon: ' : 'Horizonte: ')); h.appendChild(document.createTextNode(x.horizonte)); ft.appendChild(h); }
+      if (x.indicador) { var k = el('span'); k.appendChild(el('em', null, en ? 'Watch: ' : 'Indicador a vigilar: ')); k.appendChild(document.createTextNode(x.indicador)); ft.appendChild(k); }
+      if (ft.firstChild) c.appendChild(ft);
+      box.appendChild(c);
+    });
+    if (wa) {
+      wa.replaceChildren();
+      if (L.vigilar && L.vigilar.length) {
+        wa.appendChild(el('h3', null, en ? 'On the radar' : 'En el radar'));
+        var ol = el('ol'); L.vigilar.forEach(function (w) { var li = el('li'); li.appendChild(el('b', null, w.cuando ? w.cuando + ' · ' + w.evento : w.evento)); li.appendChild(el('span', null, w.por_que)); ol.appendChild(li); });
+        wa.appendChild(ol);
+      }
+    }
+  }
+
+  /* ---------- Redes y medios ---------- */
+  function ago(iso) {
+    var m = Math.max(1, Math.round((Date.now() - Date.parse(iso)) / 60000)), en = state.lang === 'en';
+    if (m < 60) return en ? m + ' min ago' : 'hace ' + m + ' min';
+    var h = Math.round(m / 60); if (h < 24) return en ? h + ' h ago' : 'hace ' + h + ' h';
+    var d = Math.round(h / 24); return en ? d + ' d ago' : 'hace ' + d + ' d';
+  }
+  function renderRedes() {
+    var ul = document.getElementById('nx-rf'), tabs = document.getElementById('nx-rf-tabs'), note = document.getElementById('nx-rf-note'); if (!ul) return;
+    var R = state.redes, en = state.lang === 'en';
+    ul.replaceChildren(); if (tabs) tabs.replaceChildren();
+    if (!R || !R.items || !R.items.length) { ul.appendChild(el('li', 'nx-empty', en ? 'The feed is being prepared; it refreshes every hour.' : 'El feed se está preparando; se actualiza cada hora.')); return; }
+    var G = [['todo', en ? 'All' : 'Todo'], ['comunidad', en ? 'Communities' : 'Comunidades'], ['medios', en ? 'Trade media' : 'Medios'], ['mexico', 'México']];
+    var cur = state.rf || 'todo';
+    G.forEach(function (g) {
+      if (g[0] !== 'todo' && !R.items.some(function (x) { return x.grupo === g[0]; })) return;
+      var b = el('button', null, g[1]); b.type = 'button'; b.setAttribute('aria-selected', String(g[0] === cur));
+      b.addEventListener('click', function () { state.rf = g[0]; renderRedes(); }); tabs.appendChild(b);
+    });
+    if (note) note.textContent = (en ? 'Latest from supply chain communities and trade media, updated hourly · ' : 'Lo más reciente de comunidades y medios especializados, actualizado cada hora · ') + ago(R.actualizado);
+    R.items.filter(function (x) { return cur === 'todo' || x.grupo === cur; }).slice(0, 24).forEach(function (x) {
+      var li = el('li', 'nx-rfi ' + x.red);
+      var top = el('div', 'nx-rfm');
+      top.appendChild(el('span', 'nx-rfb ' + x.red, x.red === 'reddit' ? 'Reddit' : (x.grupo === 'mexico' ? 'MX' : (en ? 'Media' : 'Medio'))));
+      top.appendChild(el('span', 'nx-rfs', x.fuente));
+      top.appendChild(el('span', 'nx-rft', ago(x.fecha)));
+      li.appendChild(top);
+      var a = el('a', 'nx-rfh', x.titulo); a.href = x.url; a.target = '_blank'; a.rel = 'noopener nofollow'; li.appendChild(a);
+      if (x.resumen) li.appendChild(el('p', null, x.resumen));
+      ul.appendChild(li);
+    });
   }
   function renderFeed() {
     var ul = document.getElementById('nx-feed'); if (!ul || !state.index) return;
@@ -472,7 +640,7 @@
     });
   }
 
-  function renderAll() { applyLang(); renderToday(); renderStamp(); renderTicker(); renderBrief(); renderOther(); renderLatestList(); renderAgenda(); renderMap(); renderCharts(); renderTrends(); renderLectura(); renderFeed(); }
+  function renderAll() { applyLang(); renderToday(); renderStamp(); renderTicker(); renderBrief(); renderOther(); renderLatestList(); renderAgenda(); renderMap(); renderCharts(); renderTrends(); renderRedes(); renderLectura(); renderFeed(); }
 
   function init() {
     state.lang = getLang();
@@ -493,8 +661,9 @@
       fetchJSON('series.json').catch(function () { return null; }),
       fetchJSON('world-110m.json', true).catch(function () { return null; }),
       fetchJSON('heatmaps.json').catch(function () { return null; }),
-      fetchJSON('tendencias.json').catch(function () { return null; })
-    ]).then(function (res) { state.latest = res[0]; state.index = res[1]; state.series = res[2]; state.world = res[3]; state.heat = res[4]; state.trends = res[5]; renderAll(); })
+      fetchJSON('tendencias.json').catch(function () { return null; }),
+      fetchJSON('redes.json').catch(function () { return null; })
+    ]).then(function (res) { state.latest = res[0]; state.index = res[1]; state.series = res[2]; state.world = res[3]; state.heat = res[4]; state.trends = res[5]; state.redes = res[6]; renderAll(); })
       .catch(function () { var b = document.getElementById('nx-brief'); if (b) b.textContent = t('err'); });
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
