@@ -12,7 +12,7 @@
     en: { scm: 'For supply chain', wk: 'For the weekend', wkk: 'Weekend edition', src: 'Sources', upd: 'Updated', none: 'No earlier briefs yet.', err: 'News could not be loaded. Please try again in a few minutes.', by: 'Mr. Supply Chain markets desk', read: 'Read the story', figG: 'Stock markets today', figM: 'Mexico today', noag: 'No upcoming events listed.', tasa: 'Rate', infl: 'Inflation', banx: 'Banxico rate' }
   };
   var COLORS = ['#1e5fa8', '#a83246', '#1f8a5b', '#b87514', '#5b3fb8'];
-  var CITY = { 'IPC BMV': [-99.13, 19.43, 'CDMX'], 'S&P 500': [-74.0, 40.71, 'Nueva York'], 'Euro Stoxx 50': [8.68, 50.11, 'Fráncfort'], 'Nikkei 225': [139.69, 35.69, 'Tokio'], 'KOSPI': [126.98, 37.57, 'Seúl'] };
+  var CITY = { 'IPC BMV': [-99.13, 19.43, 'CDMX'], 'S&P 500': [-74.0, 40.71, 'Nueva York'], 'Euro Stoxx 50': [8.68, 50.11, 'Fráncfort'], 'Nikkei 225': [139.69, 35.69, 'Tokio'], 'KOSPI': [126.98, 37.57, 'Seúl', 'left', -16] };
   var CITY_EN = { 'CDMX': 'Mexico City', 'Nueva York': 'New York', 'Fráncfort': 'Frankfurt', 'Tokio': 'Tokyo', 'Seúl': 'Seoul' };
   var HL = { '484': 1, '840': 1, '392': 1, '410': 1, '276': 1, '250': 1, '380': 1, '724': 1, '528': 1, '056': 1, '040': 1, '620': 1, '372': 1, '246': 1, '300': 1 };
 
@@ -177,9 +177,9 @@
       var rad = 7 + Math.abs(r.cambio) / max * 16;
       svg.appendChild(sv('circle', { cx: p[0], cy: p[1], r: rad, 'class': 'ring ' + cls }));
       svg.appendChild(sv('circle', { cx: p[0], cy: p[1], r: rad * 0.62, 'class': 'bub ' + cls }));
-      var right = p[0] < W * 0.8; var x = p[0] + (right ? rad + 6 : -rad - 6); var anchor = right ? 'start' : 'end';
-      svg.appendChild(sv('text', { x: x, y: p[1] - 3, 'text-anchor': anchor, 'class': 'lbl' }, (state.lang === 'en' ? (r.name_en || r.nombre) : r.nombre) + ' · ' + (state.lang === 'en' ? CITY_EN[c[2]] : c[2])));
-      svg.appendChild(sv('text', { x: x, y: p[1] + 13, 'text-anchor': anchor, 'class': 'lbl2 ' + cls }, fmtChg(r)));
+      var right = c[3] ? c[3] !== 'left' : p[0] < W * 0.8; var dy = c[4] || 0; var x = p[0] + (right ? rad + 6 : -rad - 6); var anchor = right ? 'start' : 'end';
+      svg.appendChild(sv('text', { x: x, y: p[1] - 3 + dy, 'text-anchor': anchor, 'class': 'lbl' }, (state.lang === 'en' ? (r.name_en || r.nombre) : r.nombre) + ' · ' + (state.lang === 'en' ? CITY_EN[c[2]] : c[2])));
+      svg.appendChild(sv('text', { x: x, y: p[1] + 13 + dy, 'text-anchor': anchor, 'class': 'lbl2 ' + cls }, fmtChg(r)));
     });
     box.appendChild(svg);
   }
