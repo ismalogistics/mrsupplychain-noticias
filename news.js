@@ -114,6 +114,22 @@
     frag.appendChild(body);
     return frag;
   }
+  function shareRow(b, L) {
+    var url = 'https://mrsupplychain.ai/noticias/brief/' + b.id + '/';
+    var u = function (src) { return url + '?utm_source=' + src + '&utm_medium=social&utm_campaign=noticias'; };
+    var e = encodeURIComponent, row = el('div', 'nx-share');
+    [['LinkedIn', 'https://www.linkedin.com/sharing/share-offsite/?url=' + e(u('linkedin'))],
+     ['X', 'https://x.com/intent/post?text=' + e(L.titular) + '&url=' + e(u('x')) + '&hashtags=MrSupplyChainMexico'],
+     ['WhatsApp', 'https://wa.me/?text=' + e(L.titular + ' ' + u('whatsapp'))],
+     ['Telegram', 'https://t.me/share/url?url=' + e(u('telegram')) + '&text=' + e(L.titular)]].forEach(function (x) {
+      var a = el('a', null, x[0]); a.href = x[1]; a.target = '_blank'; a.rel = 'noopener'; row.appendChild(a);
+    });
+    var c = el('button', null, state.lang === 'en' ? 'Copy link' : 'Copiar enlace'); c.type = 'button';
+    c.addEventListener('click', function () { try { navigator.clipboard.writeText(u('copy')); c.textContent = state.lang === 'en' ? 'Copied' : 'Copiado'; } catch (err) {} });
+    row.appendChild(c);
+    var p = el('a', null, state.lang === 'en' ? 'Story page →' : 'Página de la nota →'); p.href = 'brief/' + b.id + '/'; row.appendChild(p);
+    return row;
+  }
   function renderBrief() {
     var box = document.getElementById('nx-brief'); if (!box || !state.latest) return;
     box.replaceChildren();
@@ -127,6 +143,7 @@
     box.appendChild(k);
     box.appendChild(el('h1', 'nx-hl', L.titular));
     var by = el('div', 'nx-byline'); by.appendChild(el('b', null, t('by'))); by.appendChild(document.createTextNode('· ' + fmtDate(b.fecha) + ' · ' + b.hora)); box.appendChild(by);
+    box.appendChild(shareRow(b, L));
     var fig = barsFigure(b.mercado); if (fig) box.appendChild(fig);
     box.appendChild(briefBody(b));
   }

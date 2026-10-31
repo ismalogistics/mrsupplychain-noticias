@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Noticias · Mr. Supply Chain® México</title>
+  <link>https://mrsupplychain.ai/noticias/</link>
+  <atom:link href="https://mrsupplychain.ai/noticias/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Briefs diarios de mercados (apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
+  <language>es-MX</language>
+  <lastBuildDate>Fri, 30 Oct 2026 20:10:00 -0600</lastBuildDate>
+  <item>
+    <title>América Latina sigue a Wall Street a la baja; Perú, Argentina y Chile, los más golpeados</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-latam/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-latam/</guid>
+    <pubDate>Fri, 30 Oct 2026 20:10:00 -0600</pubDate>
+    <category>Cierre · LATAM</category>
+    <description>El Ibovespa cayó 0.75% y el S&amp;P/TSX de Canadá 1.74%. Los fondos que replican a las bolsas de Perú (−4.2%), Argentina (−2.8%), Chile (−2.2%) y Colombia (−1.2%) también bajaron en Nueva York. La excepción fue el IPC mexicano (+0.1%). Dentro del Ibovespa, B3 (−5.4%) y BTG Pactual (−4.7%) fueron las que más cayeron, mientras Cosan (+3.6%) y Vale (+3.3%) subieron. La región siguió la venta global en tecnología y la expectativa de tasas altas por más tiempo en EE. UU., luego de que la Fed mantuviera su tasa en 3.75–4.00% con dos votos a favor de subir. La caída del cobre (−2.0%) y del oro (−3.4%) pesó sobre los mercados más ligados a la minería, como Perú y Chile. — Para el fin de semana: si compras o vendes en reales, pesos chilenos, colombianos o soles, revisa tus cotizaciones en moneda local, porque el tipo de cambio ya movió el costo en dólares; con el cobre a la baja, puede haber una ventana para cotizar cable y componentes de cobre; y con el real más débil, pide a tus proveedores brasileños que actualicen sus precios en dólares.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-latam/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>La Bolsa mexicana resiste y va hacia su mejor mes en tres años; el peso sigue presionado</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-mexico/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-mexico/</guid>
+    <pubDate>Fri, 30 Oct 2026 14:40:00 -0600</pubDate>
+    <category>Cierre · México</category>
+    <description>Mientras Wall Street caía, el IPC se mantuvo cerca de 69,860 puntos (+0.1% en el último dato disponible). El peso operó cerca de 18.90 por dólar, y el FIX del 29 de octubre (18.81) fue el más alto desde agosto de 2025. INEGI reportó que el PIB del 3T creció 0.9% trimestral y 3.2% anual. La economía muestra fuerza exportadora (exportaciones +37.9% en septiembre), pero el diferencial de tasas con EE. UU. (6.50% contra 4.00%) es el más estrecho en una década y le quita atractivo al peso. — Para el fin de semana: si tienes pagos en dólares en noviembre, evalúa cubrir una parte desde ahora; y presupuesta las importaciones con un tipo de cambio más alto que el de inicios de octubre (cerca de 18.0).</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-mexico/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>Viernes rojo en tecnología: Wall Street cierra octubre con dudas sobre las tasas</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-global/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-global/</guid>
+    <pubDate>Fri, 30 Oct 2026 14:40:00 -0600</pubDate>
+    <category>Cierre · Global</category>
+    <description>S&amp;P 500 −2.1%, Nasdaq −2.9% y Dow −1.3% en cierre preliminar, en una venta liderada por tecnología. Asia ya había caído (KOSPI −3.5%, Nikkei −2.1%) y Europa también (Euro Stoxx 50 cerca de −1.1%). El oro bajó 3.4% y Bitcoin tocó su mínimo en cinco semanas, mientras el WTI subió a 103 dólares. El mercado parece ajustarse a tasas altas por más tiempo: la Fed mantuvo 3.75–4.00% el 28 de octubre con dos votos a favor de subir, y la inflación de EE. UU. va en 3.7%. — Para el fin de semana: recalcula el costo de lo que importas con el peso cerca de 18.90; revisa los recargos por combustible con el petróleo arriba de 100 dólares; y deja listo un plan para pagos en dólares por si el peso se mueve con las elecciones del martes.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-global/og.png" type="image/png" length="0"/>
+  </item>
+</channel>
+</rss>

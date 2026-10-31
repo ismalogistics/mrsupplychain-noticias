@@ -285,3 +285,26 @@ a { color: inherit; }
 .nx-watch li span { color: #4a4f57; }
 .nx-brand .nx-mx { font-size: .55em; font-weight: 700; letter-spacing: .02em; }
 .nx-themes:has(.deep) { grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); gap: 20px; }
+
+/* Páginas estáticas: brief y archivo */
+.nx-static div[data-lang="en"] { display: none; }
+.nx-back { font-size: 13px; color: var(--accent); text-decoration: none; font-weight: 600; }
+.nx-name { text-decoration: none; }
+.nx-article { max-width: 780px; padding-top: 28px; padding-bottom: 48px; }
+.nx-article .nx-hl { margin-top: 6px; }
+.nx-share { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 22px; }
+.nx-share a, .nx-share button { font: inherit; font-size: 12.5px; font-weight: 700; padding: 6px 12px; border-radius: 999px; border: 1px solid var(--line); background: var(--panel); color: var(--ink); text-decoration: none; cursor: pointer; }
+.nx-share a:hover, .nx-share button:hover { border-color: var(--accent); color: var(--accent); }
+.nx-cta { margin: 28px 0 0; padding: 14px 16px; background: #eef3fb; border-radius: 6px; font-weight: 600; }
+.nx-cta a { color: var(--accent); text-decoration: none; }
+.nx-pn { display: flex; justify-content: space-between; gap: 16px; margin-top: 28px; border-top: 1px solid var(--line); padding-top: 14px; font-size: 13.5px; }
+.nx-pn a { color: var(--ink); text-decoration: none; max-width: 48%; }
+.nx-pn a:hover { color: var(--accent); }
+.nx-pn .next { margin-left: auto; text-align: right; }
+.nx-arch-d { font-size: 12px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin: 26px 0 8px; }
+.nx-arch { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+.nx-arch li a { display: grid; grid-template-columns: 11em 1fr; gap: 12px; padding: 12px 0; border-bottom: 1px solid var(--line); text-decoration: none; color: var(--ink); }
+.nx-arch .m { font-size: 12.5px; color: var(--muted); }
+.nx-arch .t { font-family: var(--serif); font-size: 1.05rem; font-weight: 600; }
+.nx-arch li a:hover .t { color: var(--accent); }
+@media (max-width: 640px) { .nx-arch li a { grid-template-columns: 1fr; gap: 2px; } }
