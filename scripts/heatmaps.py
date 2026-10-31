@@ -90,6 +90,18 @@ INDICES = [
         ('005490.KS', 'POSCO Holdings', 'mat'), ('051910.KS', 'LG Chem', 'mat'), ('010130.KS', 'Korea Zinc', 'mat'),
         ('015760.KS', 'KEPCO', 'util'),
     ]},
+    {'id': 'ibovespa', 'es': 'Ibovespa · B3', 'en': 'Ibovespa · B3', 'mercado': 'latam', 'acciones': [
+        ('PETR4.SA', 'Petrobras', 'ener'), ('PRIO3.SA', 'PRIO', 'ener'), ('CSAN3.SA', 'Cosan', 'ener'), ('UGPA3.SA', 'Ultrapar', 'ener'),
+        ('VALE3.SA', 'Vale', 'mat'), ('SUZB3.SA', 'Suzano', 'mat'), ('GGBR4.SA', 'Gerdau', 'mat'), ('KLBN11.SA', 'Klabin', 'mat'),
+        ('ITUB4.SA', 'Itaú Unibanco', 'fin'), ('BBDC4.SA', 'Bradesco', 'fin'), ('BBAS3.SA', 'Banco do Brasil', 'fin'), ('B3SA3.SA', 'B3', 'fin'),
+        ('ITSA4.SA', 'Itaúsa', 'fin'), ('BPAC11.SA', 'BTG Pactual', 'fin'),
+        ('ABEV3.SA', 'Ambev', 'basic'), ('RADL3.SA', 'Raia Drogasil', 'basic'),
+        ('LREN3.SA', 'Lojas Renner', 'cons'), ('MGLU3.SA', 'Magazine Luiza', 'cons'),
+        ('WEGE3.SA', 'WEG', 'ind'), ('EMBR3.SA', 'Embraer', 'ind'), ('RENT3.SA', 'Localiza', 'ind'), ('RAIL3.SA', 'Rumo', 'ind'),
+        ('VIVT3.SA', 'Telefônica Brasil', 'com'), ('TIMS3.SA', 'TIM Brasil', 'com'), ('TOTS3.SA', 'Totvs', 'tec'),
+        ('RDOR3.SA', "Rede D'Or", 'salud'), ('HAPV3.SA', 'Hapvida', 'salud'),
+        ('SBSP3.SA', 'Sabesp', 'util'), ('ELET3.SA', 'Eletrobras', 'util'), ('EQTL3.SA', 'Equatorial', 'util'), ('CMIG4.SA', 'Cemig', 'util'),
+    ]},
     {'id': 'ipc', 'es': 'IPC · BMV', 'en': 'S&P/BMV IPC', 'mercado': 'mexico', 'acciones': [
         ('AMXB.MX', 'América Móvil', 'com'), ('TLEVISACPO.MX', 'Televisa', 'com'),
         ('WALMEX.MX', 'Walmex', 'basic'), ('FEMSAUBD.MX', 'FEMSA', 'basic'), ('AC.MX', 'Arca Continental', 'basic'), ('KOFUBL.MX', 'Coca-Cola FEMSA', 'basic'),
@@ -113,6 +125,7 @@ SESIONES = {
     'nasdaq100': ('America/New_York', (9, 30), (16, 0)),
     'dow': ('America/New_York', (9, 30), (16, 0)),
     'ipc': ('America/New_York', (9, 30), (16, 0)),
+    'ibovespa': ('America/Sao_Paulo', (10, 0), (17, 0)),
     'eurostoxx50': ('Europe/Berlin', (9, 0), (17, 30)),
     'nikkei225': ('Asia/Tokyo', (9, 0), (15, 30)),
     'kospi': ('Asia/Seoul', (9, 0), (15, 30)),
@@ -134,6 +147,39 @@ MAPA = [
     {'id': 'bvl', 'nombre': 'S&P/BVL Perú', 'name_en': 'S&P/BVL Peru', 'ciudad': 'Lima', 'ciudad_en': 'Lima', 'lon': -77.04, 'lat': -12.05,
      'tickers': ['^SPBLPGPT', ('EPU', 'MSCI Perú (ETF EPU)', 'MSCI Peru (EPU ETF)')], 'tz': 'America/Lima', 'h': ((9, 0), (16, 0))},
 ]
+
+
+# Monedas de América frente al dólar (pesos por dólar, etc.). Se actualizan en horario de Nueva York.
+DIVISAS = [
+    ('USD/MXN', 'MXN=X', 'Peso mexicano', 'Mexican peso'),
+    ('USD/BRL', 'BRL=X', 'Real brasileño', 'Brazilian real'),
+    ('USD/CLP', 'CLP=X', 'Peso chileno', 'Chilean peso'),
+    ('USD/COP', 'COP=X', 'Peso colombiano', 'Colombian peso'),
+    ('USD/PEN', 'PEN=X', 'Sol peruano', 'Peruvian sol'),
+    ('USD/ARS', 'ARS=X', 'Peso argentino', 'Argentine peso'),
+    ('USD/CAD', 'CAD=X', 'Dólar canadiense', 'Canadian dollar'),
+]
+
+
+def actualizar_divisas(prev_doc, now, force):
+    loc = now.astimezone(ZoneInfo('America/New_York'))
+    activa = loc.weekday() < 5 and 8 <= loc.hour < 18
+    prev = {d['par']: d for d in prev_doc.get('divisas', [])}
+    if not (activa or force or not prev):
+        return prev_doc.get('divisas', []), 0
+    out, cambios = [], 0
+    for par, tk, es, en in DIVISAS:
+        try:
+            c = yf.Ticker(tk).history(period='10d', interval='1d', auto_adjust=False)['Close'].dropna()
+            last, before = float(c.iloc[-1]), float(c.iloc[-2])
+            out.append({'par': par, 'es': es, 'en': en, 'valor': round(last, 4), 'cambio': round((last / before - 1) * 100, 2),
+                        'fecha': c.index[-1].strftime('%Y-%m-%d'), 'actualizado': iso(now)})
+            cambios += 1
+        except Exception:
+            if par in prev:
+                out.append(prev[par])
+            print('divisa sin datos', par, file=sys.stderr)
+    return out, cambios
 
 
 def actualizar_mapa(prev_doc, now, force):
@@ -214,9 +260,12 @@ def main():
         if activa or force or idx['id'] not in prev_idx:
             vivos[idx['id']] = (hoy, abre, cierra, activa)
     mapa, cambios_mapa = actualizar_mapa(prev_doc, now, force)
+    divisas, cambios_fx = actualizar_divisas(prev_doc, now, force)
+    cambios_mapa += cambios_fx
     if not vivos:
         if cambios_mapa:
             prev_doc['mapa'] = mapa
+            prev_doc['divisas'] = divisas
             prev_doc['actualizado'] = iso(now)
             with open(OUT, 'w', encoding='utf-8') as f:
                 json.dump(prev_doc, f, ensure_ascii=False, separators=(',', ':'))
@@ -270,7 +319,7 @@ def main():
         else:
             print('sin valor de mercado:', t, file=sys.stderr)
 
-    out = {'actualizado': iso(now), 'fuente': 'Yahoo Finance', 'indices': [], 'mapa': mapa}
+    out = {'actualizado': iso(now), 'fuente': 'Yahoo Finance', 'indices': [], 'mapa': mapa, 'divisas': divisas}
     cambios = 0
     for idx in INDICES:
         if idx['id'] not in vivos:
