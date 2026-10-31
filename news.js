@@ -3,10 +3,10 @@
   'use strict';
   var BASE = 'data/';
   var NS = 'http://www.w3.org/2000/svg';
-  var state = { lang: 'es', tab: 'global', latest: null, index: null, series: null, world: null, heat: null, trends: null, heatIdx: { global: 'sp500', mexico: 'ipc' }, cache: {} };
+  var state = { lang: 'es', tab: 'global', latest: null, index: null, series: null, world: null, heat: null, trends: null, heatIdx: { global: 'sp500', latam: 'ibovespa', mexico: 'ipc' }, cache: {} };
   var MES = { es: ['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'], en: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'] };
   var MOM = { es: { apertura: 'Apertura', mediodia: 'Mediodía', cierre: 'Cierre' }, en: { apertura: 'Open', mediodia: 'Midday', cierre: 'Close' } };
-  var MKT = { es: { global: 'Global', mexico: 'México' }, en: { global: 'Global', mexico: 'Mexico' } };
+  var MKT = { es: { global: 'Global', latam: 'LATAM', mexico: 'México' }, en: { global: 'Global', latam: 'LATAM', mexico: 'Mexico' } };
   var TXT = {
     es: { scm: 'Para supply chain', wk: 'Para el fin de semana', wkk: 'Edición de fin de semana', src: 'Fuentes', upd: 'Actualizado', none: 'Todavía no hay briefs anteriores.', err: 'No se pudieron cargar las noticias. Intenta de nuevo en unos minutos.', by: 'Mesa de mercados Mr. Supply Chain México', read: 'Leer la nota', figG: 'Bolsas del día', figM: 'México hoy', noag: 'Sin eventos próximos registrados.', tasa: 'Tasa', infl: 'Inflación', banx: 'Tasa Banxico' },
     en: { scm: 'For supply chain', wk: 'For the weekend', wkk: 'Weekend edition', src: 'Sources', upd: 'Updated', none: 'No earlier briefs yet.', err: 'News could not be loaded. Please try again in a few minutes.', by: 'Mr. Supply Chain México markets desk', read: 'Read the story', figG: 'Stock markets today', figM: 'Mexico today', noag: 'No upcoming events listed.', tasa: 'Rate', infl: 'Inflation', banx: 'Banxico rate' }
@@ -75,13 +75,19 @@
   }
 
   /* ---------- Nota principal ---------- */
+  function latamRows() {
+    var out = [], en = state.lang === 'en';
+    (state.latest.mercados || []).forEach(function (r) { if (r.nombre === 'IPC BMV' && r.cambio != null) out.push({ nombre: r.nombre, name_en: r.name_en, cambio: r.cambio, grupo: 'bolsa' }); });
+    ((state.heat && state.heat.mapa) || []).forEach(function (m) { if (m.cambio != null) out.push({ nombre: m.nombre, name_en: m.name_en, cambio: m.cambio, grupo: 'bolsa' }); });
+    return out;
+  }
   function barsFigure(mercado) {
-    var rows = (state.latest.mercados || []).filter(function (r) { return r.cambio != null && (mercado === 'global' ? r.grupo === 'bolsa' : ['IPC BMV', 'USD/MXN', 'Mezcla mexicana', 'Bono M 10 años', 'Cetes 28 días'].indexOf(r.nombre) >= 0); });
+    var rows = mercado === 'latam' ? latamRows() : (state.latest.mercados || []).filter(function (r) { return r.cambio != null && (mercado === 'global' ? r.grupo === 'bolsa' : ['IPC BMV', 'USD/MXN', 'Mezcla mexicana', 'Bono M 10 años', 'Cetes 28 días'].indexOf(r.nombre) >= 0); });
     if (!rows.length) return null;
     var pct = rows.filter(function (r) { return r.grupo !== 'bono'; });
     var max = Math.max.apply(null, pct.map(function (r) { return Math.abs(r.cambio); }).concat([0.5]));
     var fig = el('figure', 'nx-figure');
-    fig.appendChild(el('div', 'fh', mercado === 'global' ? t('figG') : t('figM')));
+    fig.appendChild(el('div', 'fh', mercado === 'global' ? t('figG') : mercado === 'latam' ? (state.lang === 'en' ? 'Latin America today' : 'América Latina hoy') : t('figM')));
     var g = el('div', 'nx-bars');
     rows.slice().sort(function (a, b) { return b.cambio - a.cambio; }).forEach(function (r) {
       var cls = r.cambio >= 0 ? 'up' : 'down';
@@ -127,8 +133,8 @@
   function renderOther() {
     var box = document.getElementById('nx-other'); if (!box || !state.latest) return;
     box.replaceChildren();
-    var other = state.tab === 'global' ? 'mexico' : 'global';
-    var b = state.latest.briefs && state.latest.briefs[other]; if (!b) { box.hidden = true; return; }
+    var order = ['global', 'latam', 'mexico'].filter(function (k) { return k !== state.tab && state.latest.briefs && state.latest.briefs[k]; }); var other = order[0];
+    var b = other && state.latest.briefs[other]; if (!b) { box.hidden = true; return; }
     box.hidden = false;
     var L = b[state.lang] || b.es;
     box.appendChild(el('h3', 'nx-boxh', MKT[state.lang][other]));
@@ -163,7 +169,7 @@
   function renderMap() {
     var box = document.getElementById('nx-map'); if (!box || !state.latest || !state.world || !window.d3 || !window.topojson || !d3.geoNaturalEarth1) return;
     box.replaceChildren();
-    var en0 = state.lang === 'en', view = state.mapView || 'americas';
+    var en0 = state.lang === 'en', view = state.mapView || 'mundo';
     var tabs = document.getElementById('nx-map-tabs');
     if (tabs) {
       tabs.replaceChildren();
@@ -431,11 +437,51 @@
     if (mxn) bits.push(mxn.cambio > 0 ? (en ? 'a weaker peso makes dollar-priced imports more expensive' : 'el peso más débil encarece lo que compras en dólares') : (en ? 'a stronger peso lowers the cost of dollar purchases' : 'el peso más fuerte abarata lo que compras en dólares'));
     interp('nx-ch-cmd', t1, bits.length ? bits.join('; ') + '.' : '');
   }
+  function barsInto(boxId, rows, fmt) {
+    var box = document.getElementById(boxId); if (!box) return;
+    box.replaceChildren(); if (!rows.length) return;
+    var max = Math.max.apply(null, rows.map(function (r) { return Math.abs(r.v); }).concat([0.5]));
+    var g = el('div', 'nx-bars');
+    rows.slice().sort(function (a, b) { return b.v - a.v; }).forEach(function (r) {
+      var cls = r.good == null ? (r.v >= 0 ? 'up' : 'down') : (r.good ? 'up' : 'down');
+      g.appendChild(el('span', 'lb', r.l));
+      var tr = el('span', 'tr'), br = el('span', 'br ' + cls), w = Math.abs(r.v) / max * 50;
+      br.style.width = w + '%'; br.style.left = r.v >= 0 ? '50%' : (50 - w) + '%'; tr.appendChild(br); g.appendChild(tr);
+      g.appendChild(el('span', 'vl ' + cls, fmt ? fmt(r) : pc(r.v)));
+    });
+    box.appendChild(g);
+  }
+  function renderLatamCharts() {
+    var en = state.lang === 'en';
+    var idx = latamRows().map(function (r) { return { l: en ? (r.name_en || r.nombre) : r.nombre, v: r.cambio }; });
+    barsInto('nx-ch-latidx', idx);
+    if (idx.length) {
+      var srt = idx.slice().sort(function (a, b) { return b.v - a.v; }), ups = idx.filter(function (r) { return r.v > 0; }).length;
+      interp('nx-ch-latidx', en ? ups + ' of ' + idx.length + ' markets rose. Best: ' + srt[0].l + ' (' + pc(srt[0].v) + '); weakest: ' + srt[srt.length - 1].l + ' (' + pc(srt[srt.length - 1].v) + ').'
+                                : ups + ' de ' + idx.length + ' mercados subieron. El mejor: ' + srt[0].l + ' (' + pc(srt[0].v) + '); el más débil: ' + srt[srt.length - 1].l + ' (' + pc(srt[srt.length - 1].v) + ').',
+        en ? 'Regional markets move with commodities and the dollar: weakness in copper, oil-exporter or retail stocks often precedes tighter credit and stretched payment terms among suppliers in the region.'
+           : 'Las bolsas de la región se mueven con materias primas y el dólar: la debilidad en mineras, petroleras o retail suele anticipar crédito más caro y plazos de pago más largos entre proveedores de la región.');
+    }
+    var mxn = (state.latest.mercados || []).filter(function (r) { return r.nombre === 'USD/MXN' && r.cambio != null; })[0];
+    var fx = ((state.heat && state.heat.divisas) || []).filter(function (d) { return d.cambio != null; }).map(function (d) {
+      var v = d.par === 'USD/MXN' && mxn ? mxn.cambio : d.cambio; // el peso usa el mismo dato que el resto de la página
+      return { l: (en ? d.en : d.es) + ' (' + d.par + ')', v: v, good: v <= 0, d: d };
+    });
+    barsInto('nx-ch-latfx', fx, function (r) { return sgn(r.v, 2) + '%'; });
+    if (fx.length) {
+      var weak = fx.slice().sort(function (a, b) { return b.v - a.v; })[0], strong = fx.slice().sort(function (a, b) { return a.v - b.v; })[0];
+      interp('nx-ch-latfx', en ? 'Weakest against the dollar: ' + weak.d.en + ' (' + pc(weak.v) + '); strongest: ' + strong.d.en + ' (' + pc(strong.v) + ').'
+                               : 'La moneda que más se debilitó: ' + weak.d.es + ' (' + pc(weak.v) + '); la que mejor se sostuvo: ' + strong.d.es + ' (' + pc(strong.v) + ').',
+        en ? 'If you buy or sell between Latin American countries, currency moves change landed costs and margins even when dollar prices stay the same; review invoicing currency and FX clauses by country.'
+           : 'Si compras o vendes entre países de la región, el tipo de cambio mueve costos y márgenes aunque el precio en dólares no cambie; revisa la moneda de facturación y las cláusulas cambiarias por país.');
+    }
+  }
   function renderCharts() {
     var views = document.querySelectorAll('.nx-chgrid[data-view]');
     for (var i = 0; i < views.length; i++) views[i].hidden = views[i].getAttribute('data-view') !== state.tab;
     renderHeat();
     var S = state.series;
+    if (state.tab === 'latam') { renderLatamCharts(); return; }
     if (state.tab === 'mexico') {
       if (!S) return;
       var d2 = function (iso) { var p = iso.split('-'); return (+p[2]) + ' ' + MES[state.lang][+p[1] - 1]; };
@@ -483,6 +529,7 @@
     var all = document.querySelectorAll('.nx-tabs button[data-tab]');
     for (var m = 0; m < all.length; m++) all[m].setAttribute('aria-selected', String(all[m].getAttribute('data-tab') === tab));
     renderBrief(); renderOther(); renderCharts(); renderTrends();
+    state.mapView = tab === 'global' ? 'mundo' : 'americas'; renderMap();
   }
 
 
@@ -498,6 +545,7 @@
     var DIR = { up: [en ? 'Rising' : 'Al alza', '▲'], down: [en ? 'Falling' : 'A la baja', '▼'], mixed: [en ? 'Mixed' : 'Mixta', '◆'] };
     var items = T.items.slice();
     if (state.tab === 'mexico') items.sort(function (a, b) { return (b.mx ? 1 : 0) - (a.mx ? 1 : 0); });
+    if (state.tab === 'latam') items.sort(function (a, b) { return ((b.latam || b.mx) ? 1 : 0) - ((a.latam || a.mx) ? 1 : 0); });
     items.forEach(function (it) {
       var c = el('article', 'nx-tr ' + (it.dir || 'mixed'));
       var top = el('div', 'nx-trh');
@@ -524,9 +572,9 @@
   function renderSectors() {
     var box = document.getElementById('nx-sect'), h = document.getElementById('nx-sect-h'); if (!box) return;
     box.replaceChildren();
-    var H = state.heat; var id = state.tab === 'mexico' ? 'ipc' : 'sp500';
+    var H = state.heat; var id = state.tab === 'mexico' ? 'ipc' : state.tab === 'latam' ? 'ibovespa' : 'sp500';
     var idx = H && H.indices ? H.indices.filter(function (x) { return x.id === id; })[0] : null;
-    if (h) h.textContent = (state.lang === 'en' ? 'Sectors in the market today · ' : 'Sectores en bolsa hoy · ') + (idx ? (state.lang === 'en' ? idx.en : idx.es) : (id === 'ipc' ? 'IPC' : 'S&P 500'));
+    if (h) h.textContent = (state.lang === 'en' ? 'Sectors in the market today · ' : 'Sectores en bolsa hoy · ') + (idx ? (state.lang === 'en' ? idx.en : idx.es) : (id === 'ipc' ? 'IPC' : id === 'ibovespa' ? 'Ibovespa' : 'S&P 500'));
     if (!idx) return;
     var agg = {}; idx.acciones.forEach(function (a) { var g = agg[a.s] = agg[a.s] || { w: 0, v: 0 }; g.w += a.cap; g.v += a.cap * a.chg; });
     var rows = Object.keys(agg).map(function (k) { return { k: k, chg: agg[k].v / agg[k].w }; }).sort(function (a, b) { return b.chg - a.chg; });
@@ -620,7 +668,7 @@
   function renderFeed() {
     var ul = document.getElementById('nx-feed'); if (!ul || !state.index) return;
     ul.replaceChildren();
-    var current = state.latest && state.latest.briefs ? [state.latest.briefs.global && state.latest.briefs.global.id, state.latest.briefs.mexico && state.latest.briefs.mexico.id] : [];
+    var current = state.latest && state.latest.briefs ? Object.keys(state.latest.briefs).map(function (k) { return state.latest.briefs[k] && state.latest.briefs[k].id; }) : [];
     var items = (state.index.items || []).filter(function (x) { return current.indexOf(x.id) < 0; });
     if (!items.length) { ul.appendChild(el('li', 'nx-empty', t('none'))); return; }
     items.forEach(function (x) {

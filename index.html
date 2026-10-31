@@ -13,7 +13,7 @@
   <meta property="og:locale" content="es_MX">
   <meta property="og:locale:alternate" content="en_US">
   <meta name="twitter:card" content="summary">
-  <link rel="stylesheet" href="news.css?v=7">
+  <link rel="stylesheet" href="news.css?v=8">
   <script type="application/ld+json">
   {"@context":"https://schema.org","@graph":[
     {"@type":"CollectionPage","@id":"https://mrsupplychain.ai/noticias/#page","url":"https://mrsupplychain.ai/noticias/","name":"Noticias · Pulso de mercados para supply chain · Mr. Supply Chain México","inLanguage":["es-MX","en-US"],"isPartOf":{"@id":"https://mrsupplychain.ai/#website"},"author":{"@id":"https://mrsupplychain.ai/#person"},"about":["Supply chain","Mercados financieros","Economía de México"]}
@@ -23,7 +23,7 @@
   <script src="vendor/d3-geo.min.js" defer></script>
   <script src="vendor/topojson-client.min.js" defer></script>
   <script src="vendor/d3-hierarchy.min.js" defer></script>
-  <script src="news.js?v=9" defer></script>
+  <script src="news.js?v=10" defer></script>
 </head>
 <body>
   <div class="nx-util">
@@ -63,6 +63,7 @@
     <article class="nx-lead">
       <div class="nx-tabs" role="tablist">
         <button role="tab" aria-selected="true" data-tab="global"><span data-lang="es">Global</span><span data-lang="en">Global</span></button>
+        <button role="tab" aria-selected="false" data-tab="latam"><span data-lang="es">LATAM</span><span data-lang="en">LATAM</span></button>
         <button role="tab" aria-selected="false" data-tab="mexico"><span data-lang="es">México</span><span data-lang="en">Mexico</span></button>
       </div>
       <div id="nx-brief" aria-live="polite"></div>
@@ -99,8 +100,9 @@
   <section class="nx-wrap nx-charts" id="graficos">
     <div class="nx-chhead">
       <h2 class="nx-h2"><span data-lang="es">Gráficos</span><span data-lang="en">Charts</span></h2>
-      <div class="nx-tabs nx-ctabs" role="tablist" aria-label="Global / México">
+      <div class="nx-tabs nx-ctabs" role="tablist" aria-label="Global / LATAM / México">
         <button role="tab" aria-selected="true" data-tab="global"><span data-lang="es">Global</span><span data-lang="en">Global</span></button>
+        <button role="tab" aria-selected="false" data-tab="latam"><span data-lang="es">LATAM</span><span data-lang="en">LATAM</span></button>
         <button role="tab" aria-selected="false" data-tab="mexico"><span data-lang="es">México</span><span data-lang="en">Mexico</span></button>
       </div>
     </div>
@@ -116,6 +118,10 @@
     <div class="nx-chgrid" data-view="global">
       <figure class="nx-chart"><div class="fh"><span data-lang="es">Tasa de política contra inflación</span><span data-lang="en">Policy rate vs. inflation</span></div><p class="fs"><span data-lang="es">Si la tasa supera a la inflación, el crédito sigue caro.</span><span data-lang="en">When the rate is above inflation, credit stays expensive.</span></p><div class="cv" id="nx-ch-rates"></div></figure>
       <figure class="nx-chart"><div class="fh"><span data-lang="es">Materias primas y divisas hoy</span><span data-lang="en">Commodities and currencies today</span></div><p class="fs"><span data-lang="es">Variación del día de los insumos y monedas que mueven costos.</span><span data-lang="en">Daily change of the inputs and currencies that move costs.</span></p><div class="cv nx-cvbars" id="nx-ch-cmd"></div></figure>
+    </div>
+    <div class="nx-chgrid" data-view="latam" hidden>
+      <figure class="nx-chart"><div class="fh"><span data-lang="es">Bolsas de América hoy</span><span data-lang="en">Americas stock markets today</span></div><p class="fs"><span data-lang="es">Variación del día del índice principal de cada país.</span><span data-lang="en">Daily change of each country's main index.</span></p><div class="cv nx-cvbars" id="nx-ch-latidx"></div></figure>
+      <figure class="nx-chart"><div class="fh"><span data-lang="es">Monedas de América frente al dólar</span><span data-lang="en">Americas currencies vs. the dollar</span></div><p class="fs"><span data-lang="es">Variación del día del tipo de cambio; positivo = la moneda se debilita.</span><span data-lang="en">Daily change in the exchange rate; positive = the currency weakens.</span></p><div class="cv nx-cvbars" id="nx-ch-latfx"></div></figure>
     </div>
     <div class="nx-chgrid" data-view="mexico" hidden>
       <figure class="nx-chart"><div class="fh"><span data-lang="es">Peso frente al dólar</span><span data-lang="en">Peso vs. dollar</span></div><p class="fs"><span data-lang="es">Tipo de cambio publicado por Banxico, pesos por dólar.</span><span data-lang="en">Banxico published rate, pesos per dollar.</span></p><div class="cv" id="nx-ch-usd"></div></figure>

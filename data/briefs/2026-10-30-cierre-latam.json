@@ -1,0 +1,78 @@
+{
+ "id": "2026-10-30-cierre-latam",
+ "fecha": "2026-10-30",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "20:10 CDMX",
+ "fin_de_semana": true,
+ "es": {
+  "titular": "América Latina sigue a Wall Street a la baja; Perú, Argentina y Chile, los más golpeados",
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El Ibovespa cayó 0.75% y el S&P/TSX de Canadá 1.74%. Los fondos que replican a las bolsas de Perú (−4.2%), Argentina (−2.8%), Chile (−2.2%) y Colombia (−1.2%) también bajaron en Nueva York. La excepción fue el IPC mexicano (+0.1%). Dentro del Ibovespa, B3 (−5.4%) y BTG Pactual (−4.7%) fueron las que más cayeron, mientras Cosan (+3.6%) y Vale (+3.3%) subieron."
+   },
+   {
+    "t": "Por qué",
+    "x": "La región siguió la venta global en tecnología y la expectativa de tasas altas por más tiempo en EE. UU., luego de que la Fed mantuviera su tasa en 3.75–4.00% con dos votos a favor de subir. La caída del cobre (−2.0%) y del oro (−3.4%) pesó sobre los mercados más ligados a la minería, como Perú y Chile."
+   },
+   {
+    "t": "Monedas",
+    "x": "El real brasileño se debilitó 0.7%, a 5.38 por dólar; el peso colombiano (−0.25%) y el sol peruano (−0.23%) también cedieron, mientras el peso chileno quedó estable cerca de 988 por dólar y el peso argentino se apreció 0.2%."
+   },
+   {
+    "t": "La próxima semana",
+    "x": "Las elecciones intermedias de EE. UU. del martes 3 de noviembre y el reporte de empleo de octubre (que suele salir el primer viernes del mes) marcarán el apetito por activos de la región. El precio del cobre y del petróleo seguirá definiendo el rumbo de Chile, Perú, Colombia y Brasil."
+   }
+  ],
+  "scm": "Para el fin de semana: si compras o vendes en reales, pesos chilenos, colombianos o soles, revisa tus cotizaciones en moneda local, porque el tipo de cambio ya movió el costo en dólares; con el cobre a la baja, puede haber una ventana para cotizar cable y componentes de cobre; y con el real más débil, pide a tus proveedores brasileños que actualicen sus precios en dólares."
+ },
+ "en": {
+  "titular": "Latin America follows Wall Street lower; Peru, Argentina and Chile hit hardest",
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "Brazil's Ibovespa fell 0.75% and Canada's S&P/TSX 1.74%. Funds tracking the markets of Peru (−4.2%), Argentina (−2.8%), Chile (−2.2%) and Colombia (−1.2%) also fell in New York. Mexico's IPC (+0.1%) was the exception. Within the Ibovespa, B3 (−5.4%) and BTG Pactual (−4.7%) fell the most, while Cosan (+3.6%) and Vale (+3.3%) rose."
+   },
+   {
+    "t": "Why",
+    "x": "The region followed the global tech sell-off and expectations of higher-for-longer US rates after the Fed held at 3.75–4.00% with two votes for a hike. Falling copper (−2.0%) and gold (−3.4%) weighed on the most mining-linked markets, such as Peru and Chile."
+   },
+   {
+    "t": "Currencies",
+    "x": "The Brazilian real weakened 0.7% to 5.38 per dollar; the Colombian peso (−0.25%) and the Peruvian sol (−0.23%) also slipped, while the Chilean peso held steady near 988 per dollar and the Argentine peso gained 0.2%."
+   },
+   {
+    "t": "Next week",
+    "x": "The US midterm elections on Tuesday, November 3, and the October jobs report (usually released on the first Friday of the month) will drive appetite for regional assets. Copper and oil prices will keep setting the direction for Chile, Peru, Colombia and Brazil."
+   }
+  ],
+  "scm": "For the weekend: if you buy or sell in reais or in Chilean or Colombian pesos or soles, review local-currency quotes, because the exchange rate has already moved dollar costs; with copper lower, there may be a window to quote copper cable and components; and with a weaker real, ask Brazilian suppliers to update their dollar prices."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance — Ibovespa",
+   "u": "https://finance.yahoo.com/quote/%5EBVSP/"
+  },
+  {
+   "t": "Yahoo Finance — S&P/TSX",
+   "u": "https://finance.yahoo.com/quote/%5EGSPTSE/"
+  },
+  {
+   "t": "Yahoo Finance — USD/BRL",
+   "u": "https://finance.yahoo.com/quote/BRL%3DX/"
+  },
+  {
+   "t": "Yahoo Finance — iShares MSCI Chile (ECH)",
+   "u": "https://finance.yahoo.com/quote/ECH/"
+  },
+  {
+   "t": "Yahoo Finance — iShares MSCI Peru (EPU)",
+   "u": "https://finance.yahoo.com/quote/EPU/"
+  },
+  {
+   "t": "Yahoo Finance — cierre de Wall Street, 30 oct 2026",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html"
+  }
+ ]
+}

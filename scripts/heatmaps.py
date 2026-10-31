@@ -90,7 +90,7 @@ INDICES = [
         ('005490.KS', 'POSCO Holdings', 'mat'), ('051910.KS', 'LG Chem', 'mat'), ('010130.KS', 'Korea Zinc', 'mat'),
         ('015760.KS', 'KEPCO', 'util'),
     ]},
-    {'id': 'ibovespa', 'es': 'Ibovespa · B3', 'en': 'Ibovespa · B3', 'mercado': 'latam', 'acciones': [
+    {'id': 'ibovespa', 'es': 'Ibovespa', 'en': 'Ibovespa', 'mercado': 'latam', 'acciones': [
         ('PETR4.SA', 'Petrobras', 'ener'), ('PRIO3.SA', 'PRIO', 'ener'), ('CSAN3.SA', 'Cosan', 'ener'), ('UGPA3.SA', 'Ultrapar', 'ener'),
         ('VALE3.SA', 'Vale', 'mat'), ('SUZB3.SA', 'Suzano', 'mat'), ('GGBR4.SA', 'Gerdau', 'mat'), ('KLBN11.SA', 'Klabin', 'mat'),
         ('ITUB4.SA', 'Itaú Unibanco', 'fin'), ('BBDC4.SA', 'Bradesco', 'fin'), ('BBAS3.SA', 'Banco do Brasil', 'fin'), ('B3SA3.SA', 'B3', 'fin'),
