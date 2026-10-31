@@ -156,7 +156,7 @@
     k.appendChild(document.createTextNode(MKT[state.lang][b.mercado]));
     if (b.fin_de_semana) { k.appendChild(el('span', 'sep', '|')); k.appendChild(el('span', 'wk', t('wkk'))); }
     box.appendChild(k);
-    box.appendChild(el('h1', 'nx-hl', L.titular));
+    box.appendChild(el('h2', 'nx-hl', L.titular));
     var by = el('div', 'nx-byline'); by.appendChild(el('b', null, t('by'))); by.appendChild(document.createTextNode('· ' + fmtDate(b.fecha) + ' · ' + b.hora)); box.appendChild(by);
     box.appendChild(shareRow(b, L));
     var fig = barsFigure(b.mercado); if (fig) box.appendChild(fig);
