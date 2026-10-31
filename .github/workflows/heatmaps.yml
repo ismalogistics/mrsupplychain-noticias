@@ -2,7 +2,8 @@ name: Heatmap de acciones
 
 on:
   schedule:
-    - cron: '25 0-21 * * 1-5'
+    # Cada hora en días hábiles; el script sólo actualiza las bolsas abiertas (y la hora siguiente a su cierre).
+    - cron: '50 * * * 1-5'
   workflow_dispatch:
   push:
     branches: [main]
@@ -28,8 +29,11 @@ jobs:
           python-version: '3.12'
       - run: pip install --quiet yfinance
       - run: python scripts/heatmaps.py
+        env:
+          FORZAR: ${{ github.event_name != 'schedule' && '1' || '0' }}
       - name: Commit
         run: |
+          [ -f data/heatmaps.json ] || exit 0
           python -c "import json; json.load(open('data/heatmaps.json'))"
           git config user.name "Mr. Supply Chain bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

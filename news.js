@@ -3,7 +3,7 @@
   'use strict';
   var BASE = 'data/';
   var NS = 'http://www.w3.org/2000/svg';
-  var state = { lang: 'es', tab: 'global', latest: null, index: null, series: null, world: null, heat: null, heatIdx: { global: 'sp500', mexico: 'ipc' }, cache: {} };
+  var state = { lang: 'es', tab: 'global', latest: null, index: null, series: null, world: null, heat: null, trends: null, heatIdx: { global: 'sp500', mexico: 'ipc' }, cache: {} };
   var MES = { es: ['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'], en: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'] };
   var MOM = { es: { apertura: 'Apertura', mediodia: 'Mediodía', cierre: 'Cierre' }, en: { apertura: 'Open', mediodia: 'Midday', cierre: 'Close' } };
   var MKT = { es: { global: 'Global', mexico: 'México' }, en: { global: 'Global', mexico: 'Mexico' } };
@@ -308,22 +308,41 @@
       var a = n.data, w = n.x1 - n.x0, h = n.y1 - n.y0; if (w <= 0 || h <= 0) return;
       var g = sv('g', { 'class': 'nx-hcell' });
       g.appendChild(sv('rect', { x: n.x0, y: n.y0, width: w, height: h, fill: heatColor(a.chg) }));
-      var lbl = /^\d+$/.test(a.t) ? a.n : a.t; var dark = Math.abs(a.chg) >= 1.2; var col = dark ? '#fff' : '#15171b';
-      var fs = Math.max(8, Math.min(22, Math.sqrt(w * h) / 4.6, (w - 6) / (lbl.length * 0.74)));
+      var dark = Math.abs(a.chg) >= 1.2; var col = dark ? '#fff' : '#15171b';
       if (w > 30 && h > 20) {
-        var cx = n.x0 + w / 2, cy = n.y0 + h / 2;
-        var showChg = h > fs * 2.4 && w > 40;
-        g.appendChild(sv('text', { x: cx, y: showChg ? cy - fs * 0.15 : cy + fs * 0.35, 'text-anchor': 'middle', 'class': 'nx-htk', style: 'font-size:' + fs.toFixed(1) + 'px;fill:' + col }, w - 4 > fs * lbl.length * 0.74 ? lbl : lbl.slice(0, Math.max(2, Math.floor((w - 4) / (fs * 0.74))))));
-        if (showChg) g.appendChild(sv('text', { x: cx, y: cy + fs * 0.95, 'text-anchor': 'middle', 'class': 'nx-hch', style: 'font-size:' + (fs * 0.68).toFixed(1) + 'px;fill:' + col }, sgn(a.chg, 2) + '%'));
+        var CW = 0.62, base = Math.min(20, Math.sqrt(w * h) / 5);
+        var fit = function (lines) { var L = Math.max.apply(null, lines.map(function (x) { return x.length; })); return Math.min(base, (w - 8) / (L * CW), (h - 6) / (lines.length * 1.15 + 1)); };
+        var lines = [a.n], fs = fit(lines);
+        var sp = a.n.indexOf(' ');
+        if (sp > 0) {
+          var mid = a.n.length / 2, best = -1;
+          for (var k = 0; k < a.n.length; k++) if (a.n[k] === ' ' && (best < 0 || Math.abs(k - mid) < Math.abs(best - mid))) best = k;
+          var two = [a.n.slice(0, best), a.n.slice(best + 1)], fs2 = fit(two);
+          if (fs2 > fs * 1.15) { lines = two; fs = fs2; }
+        }
+        if (fs < 8) { fs = 8; var maxc = Math.max(2, Math.floor((w - 8) / (fs * CW))); lines = [a.n.length > maxc ? a.n.slice(0, maxc - 1) + '…' : a.n]; }
+        var showChg = h > fs * (lines.length * 1.15 + 1.3) && w > 36;
+        var cx = n.x0 + w / 2, blockH = fs * 1.15 * lines.length + (showChg ? fs * 0.95 : 0);
+        var y0 = n.y0 + h / 2 - blockH / 2 + fs * 0.85;
+        lines.forEach(function (ln, i) { g.appendChild(sv('text', { x: cx, y: y0 + i * fs * 1.15, 'text-anchor': 'middle', 'class': 'nx-htk', style: 'font-size:' + fs.toFixed(1) + 'px;fill:' + col }, ln)); });
+        if (showChg) g.appendChild(sv('text', { x: cx, y: y0 + lines.length * fs * 1.15 + fs * 0.1, 'text-anchor': 'middle', 'class': 'nx-hch', style: 'font-size:' + (fs * 0.75).toFixed(1) + 'px;fill:' + col }, sgn(a.chg, 2) + '%'));
       }
-      var txt = a.n + ' (' + a.t + ') · ' + sgn(a.chg, 2) + '% · ' + num(a.p, 2);
+      var txt = a.n + ' · ' + sgn(a.chg, 2) + '% · ' + num(a.p, 2);
       g.addEventListener('mouseenter', function () { tip.textContent = txt; tip.style.display = 'block'; var hw = tip.offsetWidth / 2, bw = box.clientWidth; tip.style.left = Math.max(hw, Math.min(bw - hw, (n.x0 + w / 2) / W * bw)) + 'px'; tip.style.top = (n.y0 / Hh * box.clientHeight + 6) + 'px'; });
       g.addEventListener('mouseleave', function () { tip.style.display = 'none'; });
       svg.appendChild(g);
     });
     if (src) {
+      src.replaceChildren();
       var up = idx.acciones.filter(function (a) { return a.chg > 0; }).length;
-      src.textContent = (state.lang === 'en' ? up + ' of ' + idx.acciones.length + ' up · Session ' : up + ' de ' + idx.acciones.length + ' suben · Sesión ') + fmtDate(idx.fecha) + ' · ' + (state.lang === 'en' ? 'Data: ' : 'Datos: ') + (H.fuente || 'Yahoo Finance') + (state.lang === 'en' ? ', ~15 min delay' : ', retraso ~15 min');
+      var now = Date.now(), live = idx.abre && idx.cierra && now >= Date.parse(idx.abre) && now < Date.parse(idx.cierra);
+      var hh = function (iso) { return new Date(iso).toLocaleTimeString(loc(), { hour: '2-digit', minute: '2-digit', timeZone: 'America/Mexico_City' }); };
+      var badge = el('span', 'nx-hbadge' + (live ? ' live' : ''), live ? (state.lang === 'en' ? 'Live' : 'En vivo') : (state.lang === 'en' ? 'Close' : 'Cierre'));
+      src.appendChild(badge);
+      src.appendChild(document.createTextNode(' ' + (live
+        ? (state.lang === 'en' ? 'Updated ' : 'Actualizado ') + hh(idx.actualizado || H.actualizado) + ' CDMX · '
+        : (state.lang === 'en' ? 'Session of ' : 'Sesión del ') + fmtDate(idx.fecha) + ' · ')
+        + (state.lang === 'en' ? up + ' of ' + idx.acciones.length + ' up · Data: ' : up + ' de ' + idx.acciones.length + ' suben · Datos: ') + (H.fuente || 'Yahoo Finance') + (state.lang === 'en' ? ', ~15 min delay' : ', retraso ~15 min')));
     }
   }
   function cmdChart(boxId) {
@@ -361,7 +380,64 @@
     state.tab = tab;
     var all = document.querySelectorAll('.nx-tabs button[data-tab]');
     for (var m = 0; m < all.length; m++) all[m].setAttribute('aria-selected', String(all[m].getAttribute('data-tab') === tab));
-    renderBrief(); renderOther(); renderCharts();
+    renderBrief(); renderOther(); renderCharts(); renderTrends();
+  }
+
+
+  /* ---------- Tendencias por industria ---------- */
+  function renderTrends() {
+    var T = state.trends, grid = document.getElementById('nx-trends'); if (!grid) return;
+    var hl = document.getElementById('nx-trhl'), note = document.getElementById('nx-trnote');
+    grid.replaceChildren();
+    if (!T || !T.items) { if (hl) hl.textContent = ''; return; }
+    var en = state.lang === 'en';
+    if (hl) hl.textContent = T.titular ? (T.titular[state.lang] || T.titular.es) : '';
+    if (note) note.textContent = (en ? 'What the day\'s news says about each industry, read for supply chain · ' : 'Lo que dicen las noticias del día de cada industria, leído para supply chain · ') + fmtDate(T.fecha);
+    var DIR = { up: [en ? 'Rising' : 'Al alza', '▲'], down: [en ? 'Falling' : 'A la baja', '▼'], mixed: [en ? 'Mixed' : 'Mixta', '◆'] };
+    var items = T.items.slice();
+    if (state.tab === 'mexico') items.sort(function (a, b) { return (b.mx ? 1 : 0) - (a.mx ? 1 : 0); });
+    items.forEach(function (it) {
+      var c = el('article', 'nx-tr ' + (it.dir || 'mixed'));
+      var top = el('div', 'nx-trh');
+      top.appendChild(el('span', 'nx-trn', en ? it.en : it.es));
+      var d = DIR[it.dir] || DIR.mixed;
+      var chip = el('span', 'nx-trd', d[1] + ' ' + d[0]); top.appendChild(chip);
+      c.appendChild(top);
+      var heat = el('div', 'nx-trheat'); heat.setAttribute('title', en ? 'Weight in today\'s news' : 'Peso en las noticias de hoy');
+      for (var i = 1; i <= 3; i++) heat.appendChild(el('i', i <= (it.calor || 1) ? 'on' : null));
+      heat.appendChild(el('span', null, en ? ['Low', 'Medium', 'High'][(it.calor || 1) - 1] + ' buzz' : 'Relevancia ' + ['baja', 'media', 'alta'][(it.calor || 1) - 1]));
+      c.appendChild(heat);
+      c.appendChild(el('h3', null, it.titular[state.lang] || it.titular.es));
+      c.appendChild(el('p', null, it.x[state.lang] || it.x.es));
+      var s = el('aside', 'nx-trscm'); s.appendChild(el('b', null, t('scm'))); s.appendChild(el('span', null, it.scm[state.lang] || it.scm.es)); c.appendChild(s);
+      if (it.fuentes && it.fuentes.length) {
+        var f = el('p', 'nx-trsrc');
+        it.fuentes.forEach(function (x, j) { var a = el('a', null, x.t); a.href = x.u; a.target = '_blank'; a.rel = 'noopener nofollow'; f.appendChild(a); if (j < it.fuentes.length - 1) f.appendChild(document.createTextNode(' · ')); });
+        c.appendChild(f);
+      }
+      grid.appendChild(c);
+    });
+    renderSectors();
+  }
+  function renderSectors() {
+    var box = document.getElementById('nx-sect'), h = document.getElementById('nx-sect-h'); if (!box) return;
+    box.replaceChildren();
+    var H = state.heat; var id = state.tab === 'mexico' ? 'ipc' : 'sp500';
+    var idx = H && H.indices ? H.indices.filter(function (x) { return x.id === id; })[0] : null;
+    if (h) h.textContent = (state.lang === 'en' ? 'Sectors in the market today · ' : 'Sectores en bolsa hoy · ') + (idx ? (state.lang === 'en' ? idx.en : idx.es) : (id === 'ipc' ? 'IPC' : 'S&P 500'));
+    if (!idx) return;
+    var agg = {}; idx.acciones.forEach(function (a) { var g = agg[a.s] = agg[a.s] || { w: 0, v: 0 }; g.w += a.cap; g.v += a.cap * a.chg; });
+    var rows = Object.keys(agg).map(function (k) { return { k: k, chg: agg[k].v / agg[k].w }; }).sort(function (a, b) { return b.chg - a.chg; });
+    var max = Math.max.apply(null, rows.map(function (r) { return Math.abs(r.chg); }).concat([0.5]));
+    var g = el('div', 'nx-bars');
+    rows.forEach(function (r) {
+      var cls = r.chg >= 0 ? 'up' : 'down';
+      g.appendChild(el('span', 'lb', SECT[state.lang][r.k] || r.k));
+      var tr = el('span', 'tr'), br = el('span', 'br ' + cls), w = Math.abs(r.chg) / max * 50;
+      br.style.width = w + '%'; br.style.left = r.chg >= 0 ? '50%' : (50 - w) + '%'; tr.appendChild(br); g.appendChild(tr);
+      g.appendChild(el('span', 'vl ' + cls, sgn(r.chg, 2) + '%'));
+    });
+    box.appendChild(g);
   }
 
   /* ---------- Lectura y archivo ---------- */
@@ -396,7 +472,7 @@
     });
   }
 
-  function renderAll() { applyLang(); renderToday(); renderStamp(); renderTicker(); renderBrief(); renderOther(); renderLatestList(); renderAgenda(); renderMap(); renderCharts(); renderLectura(); renderFeed(); }
+  function renderAll() { applyLang(); renderToday(); renderStamp(); renderTicker(); renderBrief(); renderOther(); renderLatestList(); renderAgenda(); renderMap(); renderCharts(); renderTrends(); renderLectura(); renderFeed(); }
 
   function init() {
     state.lang = getLang();
@@ -416,8 +492,9 @@
       fetchJSON('index.json').catch(function () { return { items: [] }; }),
       fetchJSON('series.json').catch(function () { return null; }),
       fetchJSON('world-110m.json', true).catch(function () { return null; }),
-      fetchJSON('heatmaps.json').catch(function () { return null; })
-    ]).then(function (res) { state.latest = res[0]; state.index = res[1]; state.series = res[2]; state.world = res[3]; state.heat = res[4]; renderAll(); })
+      fetchJSON('heatmaps.json').catch(function () { return null; }),
+      fetchJSON('tendencias.json').catch(function () { return null; })
+    ]).then(function (res) { state.latest = res[0]; state.index = res[1]; state.series = res[2]; state.world = res[3]; state.heat = res[4]; state.trends = res[5]; renderAll(); })
       .catch(function () { var b = document.getElementById('nx-brief'); if (b) b.textContent = t('err'); });
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();

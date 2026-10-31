@@ -7,7 +7,8 @@ import json
 import math
 import os
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 
 import yfinance as yf
 
@@ -105,18 +106,56 @@ INDICES = [
 ]
 
 
+# Horario de cada bolsa (hora local). Sólo se actualiza un índice mientras su bolsa está abierta
+# y durante la hora siguiente al cierre (para dejar el dato de cierre). La BMV opera en el horario de Nueva York.
+SESIONES = {
+    'sp500': ('America/New_York', (9, 30), (16, 0)),
+    'nasdaq100': ('America/New_York', (9, 30), (16, 0)),
+    'dow': ('America/New_York', (9, 30), (16, 0)),
+    'ipc': ('America/New_York', (9, 30), (16, 0)),
+    'eurostoxx50': ('Europe/Berlin', (9, 0), (17, 30)),
+    'nikkei225': ('Asia/Tokyo', (9, 0), (15, 30)),
+    'kospi': ('Asia/Seoul', (9, 0), (15, 30)),
+}
+GRACIA = timedelta(minutes=60)
+
+
+def sesion(idx_id, now):
+    tz, (h1, m1), (h2, m2) = SESIONES[idx_id]
+    loc = now.astimezone(ZoneInfo(tz))
+    abre = loc.replace(hour=h1, minute=m1, second=0, microsecond=0)
+    cierra = loc.replace(hour=h2, minute=m2, second=0, microsecond=0)
+    activa = loc.weekday() < 5 and abre <= loc < cierra + GRACIA
+    return activa, loc.strftime('%Y-%m-%d'), abre, cierra
+
+
+def iso(d):
+    return d.astimezone(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+
+
 def load_prev():
     try:
         with open(OUT, encoding='utf-8') as f:
-            prev = json.load(f)
-        return {(i['id'], a['t']): a for i in prev.get('indices', []) for a in i.get('acciones', [])}
+            return json.load(f)
     except Exception:
         return {}
 
 
 def main():
-    prev = load_prev()
-    tickers = sorted({a[0] for idx in INDICES for a in idx['acciones']})
+    now = datetime.now(timezone.utc)
+    force = os.environ.get('FORZAR') == '1'
+    prev_doc = load_prev()
+    prev_idx = {i['id']: i for i in prev_doc.get('indices', [])}
+    prev = {(i['id'], a['t']): a for i in prev_doc.get('indices', []) for a in i.get('acciones', [])}
+    vivos = {}
+    for idx in INDICES:
+        activa, hoy, abre, cierra = sesion(idx['id'], now)
+        if activa or force or idx['id'] not in prev_idx:
+            vivos[idx['id']] = (hoy, abre, cierra, activa)
+    if not vivos:
+        print('Ninguna bolsa abierta; no hay nada que actualizar.', file=sys.stderr)
+        return
+    tickers = sorted({a[0] for idx in INDICES if idx['id'] in vivos for a in idx['acciones']})
     hist = yf.download(tickers, period='10d', interval='1d', group_by='ticker', auto_adjust=False, threads=True, progress=False)
 
     quotes = {}
@@ -163,28 +202,47 @@ def main():
         else:
             print('sin valor de mercado:', t, file=sys.stderr)
 
-    out = {'actualizado': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'), 'fuente': 'Yahoo Finance', 'indices': []}
+    out = {'actualizado': iso(now), 'fuente': 'Yahoo Finance', 'indices': []}
+    cambios = 0
     for idx in INDICES:
+        if idx['id'] not in vivos:
+            if idx['id'] in prev_idx:
+                out['indices'].append(prev_idx[idx['id']])
+            continue
+        hoy, abre, cierra, activa = vivos[idx['id']]
         rows, fechas = [], []
         for t, n, s in idx['acciones']:
             q = quotes.get(t)
             if not q:
                 continue
-            cap = caps.get(t) or (prev.get((idx['id'], t)) or {}).get('cap')
+            cap = caps.get(t) or (prev.get((idx['id'], t.split('.')[0])) or {}).get('cap')
+            if cap and t in caps:
+                cap = round(cap / 1e6)
             if not cap:
                 continue
-            rows.append({'t': t.split('.')[0], 'n': n, 's': s, 'cap': round(cap / 1e6), 'p': q['p'], 'chg': q['chg']})
+            rows.append({'t': t.split('.')[0], 'n': n, 's': s, 'cap': cap, 'p': q['p'], 'chg': q['chg']})
             fechas.append(q['fecha'])
-        if rows:
-            out['indices'].append({'id': idx['id'], 'es': idx['es'], 'en': idx['en'], 'mercado': idx['mercado'], 'fecha': max(fechas), 'acciones': rows})
+        fecha = max(fechas) if fechas else None
+        # Feriado o sin datos del día: se conserva lo anterior.
+        if not rows or (activa and not force and fecha != hoy and idx['id'] in prev_idx):
+            print(idx['id'], 'sin sesión hoy; se conserva el dato anterior', file=sys.stderr)
+            if idx['id'] in prev_idx:
+                out['indices'].append(prev_idx[idx['id']])
+            continue
+        tz = SESIONES[idx['id']][0]
+        rec = {'id': idx['id'], 'es': idx['es'], 'en': idx['en'], 'mercado': idx['mercado'], 'fecha': fecha,
+               'actualizado': iso(now), 'acciones': rows}
+        if fecha == hoy:
+            rec['abre'], rec['cierra'] = iso(abre), iso(cierra)
+        out['indices'].append(rec)
+        cambios += 1
         print(idx['id'], len(rows), 'de', len(idx['acciones']), file=sys.stderr)
 
-    if not out['indices']:
-        print('Sin datos; no se escribe el archivo.', file=sys.stderr)
-        sys.exit(1)
+    if not cambios:
+        print('Sin cambios que escribir.', file=sys.stderr)
+        return
     with open(OUT, 'w', encoding='utf-8') as f:
         json.dump(out, f, ensure_ascii=False, separators=(',', ':'))
-
 
 if __name__ == '__main__':
     main()
