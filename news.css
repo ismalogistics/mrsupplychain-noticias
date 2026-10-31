@@ -329,3 +329,13 @@ a { color: inherit; }
   .nx-themes .deep:last-child:nth-child(odd) { grid-column: span 2; }
 }
 .nx-tm { margin: 8px 0 0; font-size: 12px; color: #9a9ea6; line-height: 1.5; }
+
+/* Newsletter CTA */
+.nx-nl{display:grid;grid-template-columns:96px 1fr auto;gap:20px;align-items:center;margin:32px 0 8px;padding:20px 22px;border-radius:16px;background:linear-gradient(135deg,#163e86,#0b1f47);color:#fff}
+.nx-nl-logo{width:96px;height:96px;border-radius:12px;display:block}
+.nx-nl-k{margin:0 0 4px;font:600 12px/1.2 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.14em;text-transform:uppercase;color:#9fc0ff}
+.nx-nl-h{margin:0 0 6px;font-weight:800;font-size:22px;line-height:1.15;letter-spacing:-.01em;color:#fff}
+.nx-nl-p{margin:0;font-size:15px;line-height:1.5;color:#dbe7ff}
+.nx-nl-btn{white-space:nowrap;display:inline-block;padding:11px 18px;border-radius:999px;background:#fff;color:#0b1f47;font-weight:700;font-size:15px;text-decoration:none}
+.nx-nl-btn:hover{background:#dbe7ff}
+@media (max-width:720px){.nx-nl{grid-template-columns:64px 1fr;gap:14px;padding:18px}.nx-nl-logo{width:64px;height:64px}.nx-nl-btn{grid-column:1/-1;text-align:center}}

@@ -2,10 +2,11 @@
 (function () {
   'use strict';
   var BASE = '/noticias/';
+  var NL = 'https://www.linkedin.com/newsletters/cadena-de-noticias-scm-7522126738555072512/';
   var T = {
-    es: { k: 'Noticias', h: 'El pulso de mercados de hoy, leído para supply chain', all: 'Ver el portal de noticias', read: 'Leer', mom: { apertura: 'Apertura', mediodia: 'Mediodía', cierre: 'Cierre' }, mkt: { global: 'Global', latam: 'LATAM', mexico: 'México' }, upd: 'Actualizado' },
-    en: { k: 'News', h: 'Today’s market pulse, read for supply chain', all: 'Go to the news portal', read: 'Read', mom: { apertura: 'Open', mediodia: 'Midday', cierre: 'Close' }, mkt: { global: 'Global', latam: 'LATAM', mexico: 'Mexico' }, upd: 'Updated' },
-    pt: { k: 'Notícias', h: 'O pulso dos mercados de hoje, lido para supply chain', all: 'Ver o portal de notícias', read: 'Ler', mom: { apertura: 'Abertura', mediodia: 'Meio-dia', cierre: 'Fechamento' }, mkt: { global: 'Global', latam: 'LATAM', mexico: 'México' }, upd: 'Atualizado' }
+    es: { k: 'Noticias', h: 'El pulso de mercados de hoy, leído para supply chain', all: 'Ver el portal de noticias', read: 'Leer', mom: { apertura: 'Apertura', mediodia: 'Mediodía', cierre: 'Cierre' }, mkt: { global: 'Global', latam: 'LATAM', mexico: 'México' }, upd: 'Actualizado', nl: 'Cada viernes, los mercados de la semana leídos eslabón por eslabón para supply chain.', nlb: 'Recibir Cadena de Noticias SCM en LinkedIn' },
+    en: { k: 'News', h: 'Today’s market pulse, read for supply chain', all: 'Go to the news portal', read: 'Read', mom: { apertura: 'Open', mediodia: 'Midday', cierre: 'Close' }, mkt: { global: 'Global', latam: 'LATAM', mexico: 'Mexico' }, upd: 'Updated', nl: 'Every Friday, the week’s markets read link by link for supply chain.', nlb: 'Get Cadena de Noticias SCM on LinkedIn' },
+    pt: { k: 'Notícias', h: 'O pulso dos mercados de hoje, lido para supply chain', all: 'Ver o portal de notícias', read: 'Ler', mom: { apertura: 'Abertura', mediodia: 'Meio-dia', cierre: 'Fechamento' }, mkt: { global: 'Global', latam: 'LATAM', mexico: 'México' }, upd: 'Atualizado', nl: 'Toda sexta-feira, os mercados da semana lidos elo por elo para supply chain.', nlb: 'Receber Cadena de Noticias SCM no LinkedIn' }
   };
   var data = null, cur = null, box = null;
   function lang() { try { var l = localStorage.getItem('lang'); if (l === 'en' || l === 'es' || l === 'pt') return l; } catch (e) {} var d = (document.documentElement.lang || navigator.language || 'es').slice(0, 2); return d === 'en' || d === 'pt' ? d : 'es'; }
@@ -44,6 +45,7 @@
       g.appendChild(c);
     });
     w.appendChild(g);
+    var nl = el('div', 'msn-nl'); nl.appendChild(el('span', null, L.nl)); var nb = el('a', 'msn-nlb', L.nlb + ' →'); nb.href = NL; nb.target = '_blank'; nb.rel = 'noopener'; nl.appendChild(nb); w.appendChild(nl);
     box.appendChild(w);
   }
   function init() {
@@ -54,7 +56,7 @@
       box = document.createElement('section'); box.id = 'msc-news'; box.setAttribute('aria-label', 'Noticias');
       anchor.parentNode.insertBefore(box, anchor.nextSibling);
     }
-    var css = document.createElement('link'); css.rel = 'stylesheet'; css.href = BASE + 'teaser.css?v=1'; document.head.appendChild(css);
+    var css = document.createElement('link'); css.rel = 'stylesheet'; css.href = BASE + 'teaser.css?v=2'; document.head.appendChild(css);
     fetch(BASE + 'data/latest.json?v=' + Math.floor(Date.now() / 300000)).then(function (r) { return r.json(); }).then(function (j) { data = j; render(); }).catch(function () { box.remove(); });
     setInterval(render, 800);
   }

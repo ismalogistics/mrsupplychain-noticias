@@ -194,7 +194,7 @@ def pagina_brief(b, prev_b, next_b):
   <meta name="twitter:title" content="{E(es['titular'])}">
   <meta name="twitter:description" content="{E(desc)}">
   <meta name="twitter:image" content="{url}og.png">
-  <link rel="stylesheet" href="../../news.css?v=11">
+  <link rel="stylesheet" href="../../news.css?v=12">
   <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
   <script src="../../static.js?v=2" defer></script>
 </head>
@@ -218,6 +218,15 @@ def pagina_brief(b, prev_b, next_b):
       <div data-lang="pt"><div class="nx-body">{bloques_html(pt)}{sc_pt}</div></div>
       <p class="nx-src"><span data-lang="es">Fuentes</span><span data-lang="en">Sources</span><span data-lang="pt">Fontes</span>: {fuentes}</p>
       <p class="nx-cta"><a href="../../"><span data-lang="es">Ver el portal completo: mercados en vivo, mapa de calor, tendencias por industria y lectura para supply chain →</span><span data-lang="en">See the full portal: live markets, heatmap, industry trends and the supply chain read →</span><span data-lang="pt">Ver o portal completo: mercados ao vivo, mapa de calor, tendências por indústria e leitura para supply chain →</span></a></p>
+      <aside class="nx-nl" aria-label="Cadena de Noticias SCM">
+      <img class="nx-nl-logo" src="../../newsletter/cadena-logo-192.jpg" width="96" height="96" alt="" loading="lazy">
+      <div class="nx-nl-txt">
+        <p class="nx-nl-k"><span data-lang="es">Newsletter semanal en LinkedIn</span><span data-lang="en">Weekly newsletter on LinkedIn</span><span data-lang="pt">Newsletter semanal no LinkedIn</span></p>
+        <p class="nx-nl-h">Cadena de Noticias SCM</p>
+        <p class="nx-nl-p"><span data-lang="es">Cada viernes, los mercados de la semana leídos eslabón por eslabón: costos, fletes, inventario y decisiones para supply chain en México y LATAM.</span><span data-lang="en">Every Friday, the week’s markets read link by link: costs, freight, inventory and decisions for supply chain in Mexico and LATAM.</span><span data-lang="pt">Toda sexta-feira, os mercados da semana lidos elo por elo: custos, fretes, estoques e decisões para supply chain no México e na América Latina.</span></p>
+      </div>
+      <a class="nx-nl-btn" href="https://www.linkedin.com/newsletters/cadena-de-noticias-scm-7522126738555072512/" target="_blank" rel="noopener"><span data-lang="es">Recibirlo en LinkedIn →</span><span data-lang="en">Get it on LinkedIn →</span><span data-lang="pt">Receber no LinkedIn →</span></a>
+    </aside>
       <nav class="nx-pn">{''.join(nav)}</nav>
     </article>
   </main>
@@ -256,7 +265,7 @@ def pagina_archivo(lista):
   <meta property="og:locale" content="es_MX">
   <meta property="og:locale:alternate" content="en_US">
   <meta property="og:locale:alternate" content="pt_BR">
-  <link rel="stylesheet" href="../news.css?v=11">
+  <link rel="stylesheet" href="../news.css?v=12">
   <script src="../static.js?v=2" defer></script>
 </head>
 <body class="nx-static">
