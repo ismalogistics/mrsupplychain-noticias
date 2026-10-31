@@ -188,3 +188,26 @@ a { color: inherit; }
 .nx-leg { display: flex; gap: 14px; font-size: 12px; color: var(--muted); margin-top: 8px; flex-wrap: wrap; }
 .nx-leg i { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; vertical-align: -1px; }
 .nx-tipc { position: absolute; pointer-events: none; background: var(--ink); color: #fff; font-size: 12px; padding: 5px 8px; border-radius: 4px; white-space: nowrap; transform: translate(-50%, -120%); display: none; font-variant-numeric: tabular-nums; }
+
+/* Gráficos por pestaña y mapa de calor */
+.nx-chhead { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; flex-wrap: wrap; border-bottom: 3px double var(--ink); margin-bottom: 18px; }
+.nx-chhead .nx-h2 { border-bottom: 0; margin: 0; }
+.nx-ctabs { border-bottom: 0; margin: 0; }
+.nx-heat { margin-bottom: 22px; }
+.nx-heathead { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px 20px; flex-wrap: wrap; }
+.nx-pills { display: flex; flex-wrap: wrap; gap: 6px; }
+.nx-pills button { font: inherit; font-size: 12px; font-weight: 700; padding: 5px 11px; border-radius: 999px; border: 1px solid var(--line); background: var(--paper); color: var(--muted); cursor: pointer; white-space: nowrap; }
+.nx-pills button[aria-selected="true"] { background: var(--ink); border-color: var(--ink); color: #fff; }
+.nx-heatcv { min-height: 380px; margin-top: 6px; }
+.nx-hsec { fill: #c9c6be; }
+.nx-hsl { font: 700 10.5px var(--sans); fill: #3d4148; letter-spacing: .04em; text-transform: uppercase; }
+.nx-hcell rect { stroke: none; transition: opacity .15s; }
+.nx-hcell:hover rect { opacity: .82; }
+.nx-htk { font-family: var(--sans); font-weight: 800; pointer-events: none; }
+.nx-hch { font-family: var(--sans); font-weight: 600; font-variant-numeric: tabular-nums; pointer-events: none; }
+.nx-tiph { transform: translate(-50%, 0); z-index: 2; }
+.nx-heatfoot { display: flex; justify-content: space-between; align-items: center; gap: 10px 18px; flex-wrap: wrap; margin-top: 10px; font-size: 12px; color: var(--muted); }
+.nx-scale { display: flex; align-items: center; gap: 8px; font-variant-numeric: tabular-nums; }
+.nx-scale i { display: block; width: 140px; height: 10px; border-radius: 2px; background: linear-gradient(90deg, #b3261e, #e4e2dc 50%, #13804f); }
+.nx-cvbars { min-height: 0; }
+.nx-chgrid[hidden] { display: none; }

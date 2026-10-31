@@ -3,7 +3,7 @@
   'use strict';
   var BASE = 'data/';
   var NS = 'http://www.w3.org/2000/svg';
-  var state = { lang: 'es', tab: 'global', latest: null, index: null, series: null, world: null, cache: {} };
+  var state = { lang: 'es', tab: 'global', latest: null, index: null, series: null, world: null, heat: null, heatIdx: { global: 'sp500', mexico: 'ipc' }, cache: {} };
   var MES = { es: ['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'], en: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'] };
   var MOM = { es: { apertura: 'Apertura', mediodia: 'Mediodía', cierre: 'Cierre' }, en: { apertura: 'Open', mediodia: 'Midday', cierre: 'Close' } };
   var MKT = { es: { global: 'Global', mexico: 'México' }, en: { global: 'Global', mexico: 'Mexico' } };
@@ -269,12 +269,99 @@
     [['#1e4f9c', t('tasa')], ['#b87514', t('infl')]].forEach(function (s) { var sp = el('span'); var i = el('i'); i.style.background = s[0]; sp.appendChild(i); sp.appendChild(document.createTextNode(s[1])); leg.appendChild(sp); });
     f.box.appendChild(leg);
   }
+  /* Mapa de calor de acciones (treemap por sector; tamaño = valor de mercado, color = variación del día) */
+  var SECT = {
+    es: { tec: 'Tecnología', com: 'Comunicaciones', cons: 'Consumo discrecional', basic: 'Consumo básico', fin: 'Financiero', salud: 'Salud', ind: 'Industrial', ener: 'Energía', mat: 'Materiales', util: 'Servicios públicos', inmo: 'Inmobiliario' },
+    en: { tec: 'Technology', com: 'Communication', cons: 'Consumer discretionary', basic: 'Consumer staples', fin: 'Financials', salud: 'Health care', ind: 'Industrials', ener: 'Energy', mat: 'Materials', util: 'Utilities', inmo: 'Real estate' }
+  };
+  function mix(a, b, k) { var pa = [parseInt(a.slice(1, 3), 16), parseInt(a.slice(3, 5), 16), parseInt(a.slice(5, 7), 16)], pb = [parseInt(b.slice(1, 3), 16), parseInt(b.slice(3, 5), 16), parseInt(b.slice(5, 7), 16)]; return 'rgb(' + pa.map(function (v, i) { return Math.round(v + (pb[i] - v) * k); }).join(',') + ')'; }
+  function heatColor(c) { var k = Math.min(1, Math.abs(c) / 3); return c >= 0 ? mix('#e4e2dc', '#13804f', Math.pow(k, 0.8)) : mix('#e4e2dc', '#b3261e', Math.pow(k, 0.8)); }
+  function renderHeat() {
+    var box = document.getElementById('nx-heat'), pills = document.getElementById('nx-heat-tabs'), src = document.getElementById('nx-heat-src');
+    if (!box || !pills) return;
+    box.replaceChildren(); pills.replaceChildren(); if (src) src.textContent = '';
+    var H = state.heat;
+    var list = H && H.indices ? H.indices.filter(function (x) { return x.mercado === state.tab; }) : [];
+    if (!list.length || !window.d3 || !d3.treemap) { box.appendChild(el('p', 'nx-empty', state.lang === 'en' ? 'The stock heatmap is being generated; it will appear in a few minutes.' : 'El mapa de calor se está generando; aparecerá en unos minutos.')); return; }
+    var cur = state.heatIdx[state.tab]; if (!list.some(function (x) { return x.id === cur; })) cur = state.heatIdx[state.tab] = list[0].id;
+    if (list.length > 1) list.forEach(function (x) {
+      var b = el('button', null, state.lang === 'en' ? x.en : x.es); b.type = 'button'; b.setAttribute('role', 'tab'); b.setAttribute('aria-selected', String(x.id === cur));
+      b.addEventListener('click', function () { state.heatIdx[state.tab] = x.id; renderHeat(); });
+      pills.appendChild(b);
+    });
+    var idx = list.filter(function (x) { return x.id === cur; })[0];
+    var W = Math.max(300, box.clientWidth || 340), narrow = W < 560, Hh = narrow ? 460 : Math.round(Math.min(560, Math.max(380, W * 0.46)));
+    var groups = {}; idx.acciones.forEach(function (a) { (groups[a.s] = groups[a.s] || []).push(a); });
+    var root = d3.hierarchy({ children: Object.keys(groups).map(function (k) { return { s: k, children: groups[k] }; }) }).sum(function (d) { return d.cap || 0; }).sort(function (a, b) { return b.value - a.value; });
+    d3.treemap().size([W, Hh]).paddingOuter(1).paddingTop(function (d) { return d.depth === 1 ? 17 : 0; }).paddingInner(1.5).round(true).tile(d3.treemapSquarify.ratio(1.2))(root);
+    var svg = sv('svg', { viewBox: '0 0 ' + W + ' ' + Hh, role: 'img', 'aria-label': (state.lang === 'en' ? idx.en : idx.es) }); box.appendChild(svg);
+    var tip = el('div', 'nx-tipc nx-tiph'); box.appendChild(tip);
+    (root.children || []).forEach(function (g) {
+      var gw = g.x1 - g.x0;
+      svg.appendChild(sv('rect', { x: g.x0, y: g.y0, width: gw, height: g.y1 - g.y0, 'class': 'nx-hsec' }));
+      if (gw > 44) {
+        var name = SECT[state.lang][g.data.s] || g.data.s; var maxc = Math.floor((gw - 8) / 6.4);
+        svg.appendChild(sv('text', { x: g.x0 + 4, y: g.y0 + 12, 'class': 'nx-hsl' }, name.length > maxc ? name.slice(0, Math.max(1, maxc - 1)) + '…' : name));
+      }
+    });
+    root.leaves().forEach(function (n) {
+      var a = n.data, w = n.x1 - n.x0, h = n.y1 - n.y0; if (w <= 0 || h <= 0) return;
+      var g = sv('g', { 'class': 'nx-hcell' });
+      g.appendChild(sv('rect', { x: n.x0, y: n.y0, width: w, height: h, fill: heatColor(a.chg) }));
+      var dark = Math.abs(a.chg) >= 1.2; var col = dark ? '#fff' : '#15171b';
+      var fs = Math.max(8, Math.min(22, Math.sqrt(w * h) / 4.6, (w - 6) / (a.t.length * 0.74)));
+      if (w > 30 && h > 20) {
+        var cx = n.x0 + w / 2, cy = n.y0 + h / 2;
+        var showChg = h > fs * 2.4 && w > 40;
+        g.appendChild(sv('text', { x: cx, y: showChg ? cy - fs * 0.15 : cy + fs * 0.35, 'text-anchor': 'middle', 'class': 'nx-htk', style: 'font-size:' + fs.toFixed(1) + 'px;fill:' + col }, w - 4 > fs * a.t.length * 0.74 ? a.t : a.t.slice(0, Math.max(2, Math.floor((w - 4) / (fs * 0.74))))));
+        if (showChg) g.appendChild(sv('text', { x: cx, y: cy + fs * 0.95, 'text-anchor': 'middle', 'class': 'nx-hch', style: 'font-size:' + (fs * 0.68).toFixed(1) + 'px;fill:' + col }, sgn(a.chg, 2) + '%'));
+      }
+      var txt = a.n + ' (' + a.t + ') · ' + sgn(a.chg, 2) + '% · ' + num(a.p, 2);
+      g.addEventListener('mouseenter', function () { tip.textContent = txt; tip.style.display = 'block'; var hw = tip.offsetWidth / 2, bw = box.clientWidth; tip.style.left = Math.max(hw, Math.min(bw - hw, (n.x0 + w / 2) / W * bw)) + 'px'; tip.style.top = (n.y0 / Hh * box.clientHeight + 6) + 'px'; });
+      g.addEventListener('mouseleave', function () { tip.style.display = 'none'; });
+      svg.appendChild(g);
+    });
+    if (src) {
+      var up = idx.acciones.filter(function (a) { return a.chg > 0; }).length;
+      src.textContent = (state.lang === 'en' ? up + ' of ' + idx.acciones.length + ' up · Session ' : up + ' de ' + idx.acciones.length + ' suben · Sesión ') + fmtDate(idx.fecha) + ' · ' + (state.lang === 'en' ? 'Data: ' : 'Datos: ') + (H.fuente || 'Yahoo Finance') + (state.lang === 'en' ? ', ~15 min delay' : ', retraso ~15 min');
+    }
+  }
+  function cmdChart(boxId) {
+    var box = document.getElementById(boxId); if (!box || !state.latest) return;
+    box.replaceChildren();
+    var rows = (state.latest.mercados || []).filter(function (r) { return r.cambio != null && (r.grupo === 'materia_prima' || r.grupo === 'divisa'); });
+    if (!rows.length) return;
+    var max = Math.max.apply(null, rows.map(function (r) { return Math.abs(r.cambio); }).concat([0.5]));
+    var g = el('div', 'nx-bars');
+    rows.slice().sort(function (a, b) { return b.cambio - a.cambio; }).forEach(function (r) {
+      var cls = r.cambio >= 0 ? 'up' : 'down';
+      g.appendChild(el('span', 'lb', state.lang === 'en' ? (r.name_en || r.nombre) : r.nombre));
+      var tr = el('span', 'tr'); var br = el('span', 'br ' + cls); var w = Math.abs(r.cambio) / max * 50;
+      br.style.width = w + '%'; br.style.left = r.cambio >= 0 ? '50%' : (50 - w) + '%'; tr.appendChild(br); g.appendChild(tr);
+      g.appendChild(el('span', 'vl ' + cls, fmtChg(r)));
+    });
+    box.appendChild(g);
+  }
   function renderCharts() {
-    var S = state.series; if (!S) return;
-    var d2 = function (iso) { var p = iso.split('-'); return (+p[2]) + ' ' + MES[state.lang][+p[1] - 1]; };
-    lineChart('nx-ch-usd', S.usdmxn || [], { series: [{ k: 'v', c: '#1e4f9c', area: true }], fx: function (p) { return d2(p.fecha); }, fy: function (v) { return num(v, 2); } });
-    dumbbell('nx-ch-rates', S.economias || []);
-    lineChart('nx-ch-banxico', S.banxico || [], { series: [{ k: 'tasa', c: '#1e4f9c', step: true, name: t('banx') }, { k: 'inflacion', c: '#b87514', dots: true, name: t('infl') }], fx: function (p) { var q = p.mes.split('-'); return MES[state.lang][+q[1] - 1] + (q[1] === '01' || q[1] === '12' ? ' ' + q[0].slice(2) : ''); }, fy: function (v) { return num(v, 2) + '%'; } });
+    var views = document.querySelectorAll('.nx-chgrid[data-view]');
+    for (var i = 0; i < views.length; i++) views[i].hidden = views[i].getAttribute('data-view') !== state.tab;
+    renderHeat();
+    var S = state.series;
+    if (state.tab === 'mexico') {
+      if (!S) return;
+      var d2 = function (iso) { var p = iso.split('-'); return (+p[2]) + ' ' + MES[state.lang][+p[1] - 1]; };
+      lineChart('nx-ch-usd', S.usdmxn || [], { series: [{ k: 'v', c: '#1e4f9c', area: true }], fx: function (p) { return d2(p.fecha); }, fy: function (v) { return num(v, 2); } });
+      lineChart('nx-ch-banxico', S.banxico || [], { series: [{ k: 'tasa', c: '#1e4f9c', step: true, name: t('banx') }, { k: 'inflacion', c: '#b87514', dots: true, name: t('infl') }], fx: function (p) { var q = p.mes.split('-'); return MES[state.lang][+q[1] - 1] + (q[1] === '01' || q[1] === '12' ? ' ' + q[0].slice(2) : ''); }, fy: function (v) { return num(v, 2) + '%'; } });
+    } else {
+      if (S) dumbbell('nx-ch-rates', S.economias || []);
+      cmdChart('nx-ch-cmd');
+    }
+  }
+  function setTab(tab) {
+    state.tab = tab;
+    var all = document.querySelectorAll('.nx-tabs button[data-tab]');
+    for (var m = 0; m < all.length; m++) all[m].setAttribute('aria-selected', String(all[m].getAttribute('data-tab') === tab));
+    renderBrief(); renderOther(); renderCharts();
   }
 
   /* ---------- Lectura y archivo ---------- */
@@ -320,20 +407,17 @@
       try { localStorage.setItem('lang', state.lang); } catch (err) {}
       renderAll();
     });
-    var tabs = document.querySelectorAll('.nx-tabs button');
-    for (var k = 0; k < tabs.length; k++) tabs[k].addEventListener('click', function (e) {
-      state.tab = e.currentTarget.getAttribute('data-tab');
-      for (var m = 0; m < tabs.length; m++) tabs[m].setAttribute('aria-selected', String(tabs[m] === e.currentTarget));
-      renderBrief(); renderOther();
-    });
+    var tabs = document.querySelectorAll('.nx-tabs button[data-tab]');
+    for (var k = 0; k < tabs.length; k++) tabs[k].addEventListener('click', function (e) { setTab(e.currentTarget.getAttribute('data-tab')); });
     window.addEventListener('storage', function (e) { if (e.key === 'lang' && (e.newValue === 'es' || e.newValue === 'en')) { state.lang = e.newValue; renderAll(); } });
     var rt; window.addEventListener('resize', function () { clearTimeout(rt); rt = setTimeout(renderCharts, 200); });
     Promise.all([
       fetchJSON('latest.json'),
       fetchJSON('index.json').catch(function () { return { items: [] }; }),
       fetchJSON('series.json').catch(function () { return null; }),
-      fetchJSON('world-110m.json', true).catch(function () { return null; })
-    ]).then(function (res) { state.latest = res[0]; state.index = res[1]; state.series = res[2]; state.world = res[3]; renderAll(); })
+      fetchJSON('world-110m.json', true).catch(function () { return null; }),
+      fetchJSON('heatmaps.json').catch(function () { return null; })
+    ]).then(function (res) { state.latest = res[0]; state.index = res[1]; state.series = res[2]; state.world = res[3]; state.heat = res[4]; renderAll(); })
       .catch(function () { var b = document.getElementById('nx-brief'); if (b) b.textContent = t('err'); });
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();

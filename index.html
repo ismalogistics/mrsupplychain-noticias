@@ -13,7 +13,7 @@
   <meta property="og:locale" content="es_MX">
   <meta property="og:locale:alternate" content="en_US">
   <meta name="twitter:card" content="summary">
-  <link rel="stylesheet" href="news.css?v=4">
+  <link rel="stylesheet" href="news.css?v=5">
   <script type="application/ld+json">
   {"@context":"https://schema.org","@graph":[
     {"@type":"CollectionPage","@id":"https://mrsupplychain.ai/noticias/#page","url":"https://mrsupplychain.ai/noticias/","name":"Noticias · Pulso de mercados para supply chain","inLanguage":["es-MX","en-US"],"isPartOf":{"@id":"https://mrsupplychain.ai/#website"},"author":{"@id":"https://mrsupplychain.ai/#person"},"about":["Supply chain","Mercados financieros","Economía de México"]}
@@ -22,7 +22,8 @@
   <script src="vendor/d3-array.min.js" defer></script>
   <script src="vendor/d3-geo.min.js" defer></script>
   <script src="vendor/topojson-client.min.js" defer></script>
-  <script src="news.js?v=5" defer></script>
+  <script src="vendor/d3-hierarchy.min.js" defer></script>
+  <script src="news.js?v=6" defer></script>
 </head>
 <body>
   <div class="nx-util">
@@ -93,10 +94,28 @@
   </section>
 
   <section class="nx-wrap nx-charts" id="graficos">
-    <h2 class="nx-h2"><span data-lang="es">Gráficos</span><span data-lang="en">Charts</span></h2>
-    <div class="nx-chgrid">
-      <figure class="nx-chart"><div class="fh"><span data-lang="es">Peso frente al dólar</span><span data-lang="en">Peso vs. dollar</span></div><p class="fs"><span data-lang="es">Tipo de cambio publicado por Banxico, pesos por dólar.</span><span data-lang="en">Banxico published rate, pesos per dollar.</span></p><div class="cv" id="nx-ch-usd"></div></figure>
+    <div class="nx-chhead">
+      <h2 class="nx-h2"><span data-lang="es">Gráficos</span><span data-lang="en">Charts</span></h2>
+      <div class="nx-tabs nx-ctabs" role="tablist" aria-label="Global / México">
+        <button role="tab" aria-selected="true" data-tab="global"><span data-lang="es">Global</span><span data-lang="en">Global</span></button>
+        <button role="tab" aria-selected="false" data-tab="mexico"><span data-lang="es">México</span><span data-lang="en">Mexico</span></button>
+      </div>
+    </div>
+    <figure class="nx-chart nx-heat">
+      <div class="nx-heathead">
+        <div><div class="fh"><span data-lang="es">Mapa de calor de acciones</span><span data-lang="en">Stock heatmap</span></div>
+        <p class="fs"><span data-lang="es">Principales emisoras de cada índice. Tamaño = valor de mercado; color = variación del día.</span><span data-lang="en">Top constituents of each index. Size = market value; color = daily change.</span></p></div>
+        <div class="nx-pills" id="nx-heat-tabs" role="tablist"></div>
+      </div>
+      <div class="cv nx-heatcv" id="nx-heat"></div>
+      <div class="nx-heatfoot"><div class="nx-scale" aria-hidden="true"><span>−3%</span><i></i><span>+3%</span></div><span class="nx-heatsrc" id="nx-heat-src"></span></div>
+    </figure>
+    <div class="nx-chgrid" data-view="global">
       <figure class="nx-chart"><div class="fh"><span data-lang="es">Tasa de política contra inflación</span><span data-lang="en">Policy rate vs. inflation</span></div><p class="fs"><span data-lang="es">Si la tasa supera a la inflación, el crédito sigue caro.</span><span data-lang="en">When the rate is above inflation, credit stays expensive.</span></p><div class="cv" id="nx-ch-rates"></div></figure>
+      <figure class="nx-chart"><div class="fh"><span data-lang="es">Materias primas y divisas hoy</span><span data-lang="en">Commodities and currencies today</span></div><p class="fs"><span data-lang="es">Variación del día de los insumos y monedas que mueven costos.</span><span data-lang="en">Daily change of the inputs and currencies that move costs.</span></p><div class="cv nx-cvbars" id="nx-ch-cmd"></div></figure>
+    </div>
+    <div class="nx-chgrid" data-view="mexico" hidden>
+      <figure class="nx-chart"><div class="fh"><span data-lang="es">Peso frente al dólar</span><span data-lang="en">Peso vs. dollar</span></div><p class="fs"><span data-lang="es">Tipo de cambio publicado por Banxico, pesos por dólar.</span><span data-lang="en">Banxico published rate, pesos per dollar.</span></p><div class="cv" id="nx-ch-usd"></div></figure>
       <figure class="nx-chart"><div class="fh"><span data-lang="es">Banxico e inflación en México</span><span data-lang="en">Banxico and Mexican inflation</span></div><p class="fs"><span data-lang="es">Tasa objetivo al cierre de mes e inflación anual de los meses con dato.</span><span data-lang="en">Month-end target rate and annual inflation for months with data.</span></p><div class="cv" id="nx-ch-banxico"></div></figure>
     </div>
   </section>
