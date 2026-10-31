@@ -74,5 +74,27 @@
    "t": "Yahoo Finance — cierre de Wall Street, 30 oct 2026",
    "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html"
   }
- ]
+ ],
+ "pt": {
+  "titular": "América Latina acompanha Wall Street em queda; Peru, Argentina e Chile são os mais atingidos",
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O Ibovespa caiu 0.75% e o S&P/TSX do Canadá, 1.74%. Os fundos que replicam as bolsas do Peru (−4.2%), Argentina (−2.8%), Chile (−2.2%) e Colômbia (−1.2%) também recuaram em Nova York. A exceção foi o IPC mexicano (+0.1%). Dentro do Ibovespa, B3 (−5.4%) e BTG Pactual (−4.7%) foram as que mais caíram, enquanto Cosan (+3.6%) e Vale (+3.3%) subiram."
+   },
+   {
+    "t": "Por quê",
+    "x": "A região acompanhou a venda global em tecnologia e a expectativa de juros altos por mais tempo nos EUA, depois que o Fed manteve sua taxa em 3.75–4.00% com dois votos a favor de uma alta. A queda do cobre (−2.0%) e do ouro (−3.4%) pesou sobre os mercados mais ligados à mineração, como Peru e Chile."
+   },
+   {
+    "t": "Moedas",
+    "x": "O real se desvalorizou 0.7%, para 5.38 por dólar; o peso colombiano (−0.25%) e o sol peruano (−0.23%) também cederam, enquanto o peso chileno ficou estável perto de 988 por dólar e o peso argentino se valorizou 0.2%."
+   },
+   {
+    "t": "A próxima semana",
+    "x": "As eleições de meio de mandato dos EUA, na terça-feira, 3 de novembro, e o relatório de emprego de outubro (que costuma sair na primeira sexta-feira do mês) vão definir o apetite por ativos da região. O preço do cobre e do petróleo continuará ditando o rumo de Chile, Peru, Colômbia e Brasil."
+   }
+  ],
+  "scm": "Para o fim de semana: se você compra ou vende em reais, pesos chilenos, pesos colombianos ou soles, revise suas cotações em moeda local, porque o câmbio já mexeu no custo em dólares; com o cobre em queda, pode haver uma janela para cotar cabos e componentes de cobre; e, com o real mais fraco, peça aos seus fornecedores brasileiros que atualizem seus preços em dólares."
+ }
 }

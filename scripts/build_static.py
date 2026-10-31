@@ -1,6 +1,6 @@
 """Genera las páginas estáticas del portal para buscadores y redes sociales.
 
-- brief/<id>/index.html : una página por brief (NewsArticle, Open Graph, bilingüe).
+- brief/<id>/index.html : una página por brief (NewsArticle, Open Graph, trilingüe ES/EN/PT; si falta 'pt' usa 'es').
 - brief/<id>/og.png     : imagen para compartir (1200x630).
 - archivo/index.html    : archivo navegable de todos los briefs.
 - feed.xml              : RSS 2.0 con los últimos briefs.
@@ -20,11 +20,14 @@ DATA = os.path.join(ROOT, 'data')
 SITE = 'https://mrsupplychain.ai/noticias/'
 MARCA = 'Mr. Supply Chain® México'
 MOM = {'es': {'apertura': 'Apertura', 'mediodia': 'Mediodía', 'cierre': 'Cierre'},
-       'en': {'apertura': 'Open', 'mediodia': 'Midday', 'cierre': 'Close'}}
+       'en': {'apertura': 'Open', 'mediodia': 'Midday', 'cierre': 'Close'},
+       'pt': {'apertura': 'Abertura', 'mediodia': 'Meio-dia', 'cierre': 'Fechamento'}}
 MKT = {'es': {'global': 'Global', 'latam': 'LATAM', 'mexico': 'México'},
-       'en': {'global': 'Global', 'latam': 'LATAM', 'mexico': 'Mexico'}}
+       'en': {'global': 'Global', 'latam': 'LATAM', 'mexico': 'Mexico'},
+       'pt': {'global': 'Global', 'latam': 'LATAM', 'mexico': 'México'}}
 MES = ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic']
 MES_EN = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+MES_PT = ['jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez']
 E = html.escape
 
 
@@ -36,6 +39,16 @@ def fecha_es(f):
 def fecha_en(f):
     y, m, d = f.split('-')
     return f'{MES_EN[int(m) - 1]} {int(d)}, {y}'
+
+
+def fecha_pt(f):
+    y, m, d = f.split('-')
+    return f'{int(d)} {MES_PT[int(m) - 1]} {y}'
+
+
+def lang_pt(b):
+    """Bloque en portugués; si el brief no lo trae (datos anteriores), se usa el español."""
+    return b.get('pt') or b['es']
 
 
 def iso_pub(b):
@@ -130,13 +143,13 @@ def bloques_html(L):
 
 def pagina_brief(b, prev_b, next_b):
     url = f'{SITE}brief/{b["id"]}/'
-    es, en = b['es'], b.get('en', b['es'])
+    es, en, pt = b['es'], b.get('en', b['es']), lang_pt(b)
     pub = iso_pub(b)
     desc = (es.get('scm') or (es.get('bloques') or [{'x': ''}])[0]['x'])[:200]
     titulo = f'{es["titular"]} | Noticias {MARCA}'
     ld = {
         '@context': 'https://schema.org', '@type': 'NewsArticle', 'headline': es['titular'][:110],
-        'alternativeHeadline': en['titular'][:110], 'description': desc, 'inLanguage': ['es-MX', 'en-US'],
+        'alternativeHeadline': en['titular'][:110], 'description': desc, 'inLanguage': ['es-MX', 'en-US', 'pt-BR'],
         'datePublished': pub.isoformat(), 'dateModified': pub.isoformat(), 'url': url, 'mainEntityOfPage': url,
         'image': [url + 'og.png'], 'articleSection': f"{MOM['es'][b['momento']]} · {MKT['es'][b['mercado']]}",
         'author': {'@type': 'Organization', 'name': f'Mesa de mercados {MARCA}', 'url': SITE},
@@ -147,6 +160,7 @@ def pagina_brief(b, prev_b, next_b):
     fuentes = ' · '.join(f'<a href="{E(f["u"])}" target="_blank" rel="noopener nofollow">{E(f["t"])}</a>' for f in b.get('fuentes', []))
     sc_es = f'<aside class="nx-scm{" wk" if b.get("fin_de_semana") else ""}"><h4>{"Para el fin de semana" if b.get("fin_de_semana") else "Para supply chain"}</h4><p>{E(es.get("scm", ""))}</p></aside>' if es.get('scm') else ''
     sc_en = f'<aside class="nx-scm{" wk" if b.get("fin_de_semana") else ""}"><h4>{"For the weekend" if b.get("fin_de_semana") else "For supply chain"}</h4><p>{E(en.get("scm", ""))}</p></aside>' if en.get('scm') else ''
+    sc_pt = f'<aside class="nx-scm{" wk" if b.get("fin_de_semana") else ""}"><h4>{"Para o fim de semana" if b.get("fin_de_semana") else "Para supply chain"}</h4><p>{E(pt.get("scm", ""))}</p></aside>' if pt.get('scm') else ''
     share_t = E(es['titular'])
     nav = []
     if prev_b:
@@ -173,26 +187,27 @@ def pagina_brief(b, prev_b, next_b):
   <meta property="og:image:height" content="630">
   <meta property="og:locale" content="es_MX">
   <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:locale:alternate" content="pt_BR">
   <meta property="article:published_time" content="{pub.isoformat()}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@MrSupplyChainX">
   <meta name="twitter:title" content="{E(es['titular'])}">
   <meta name="twitter:description" content="{E(desc)}">
   <meta name="twitter:image" content="{url}og.png">
-  <link rel="stylesheet" href="../../news.css">
+  <link rel="stylesheet" href="../../news.css?v=11">
   <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
-  <script src="../../static.js" defer></script>
+  <script src="../../static.js?v=2" defer></script>
 </head>
 <body class="nx-static">
-  <div class="nx-util"><div class="nx-wrap nx-utilin"><a class="nx-back" href="../../"><span data-lang="es">← Portada de Noticias</span><span data-lang="en">← News front page</span></a><span></span>
-    <nav class="nx-lang" aria-label="Idioma / Language"><button type="button" data-setlang="es">ES</button><button type="button" data-setlang="en">EN</button></nav></div></div>
-  <header class="nx-mast"><div class="nx-wrap"><div class="nx-plate"><a class="nx-brand" href="/">Mr. Supply Chain<sup>®</sup> <span class="nx-mx">México</span></a><a class="nx-name" href="../../"><span data-lang="es">Noticias</span><span data-lang="en">News</span></a></div></div></header>
+  <div class="nx-util"><div class="nx-wrap nx-utilin"><a class="nx-back" href="../../"><span data-lang="es">← Portada de Noticias</span><span data-lang="en">← News front page</span><span data-lang="pt">← Capa de Notícias</span></a><span></span>
+    <nav class="nx-lang" aria-label="Idioma / Language / Idioma"><button type="button" data-setlang="es">ES</button><button type="button" data-setlang="en">EN</button><button type="button" data-setlang="pt">PT</button></nav></div></div>
+  <header class="nx-mast"><div class="nx-wrap"><div class="nx-plate"><a class="nx-brand" href="/">Mr. Supply Chain<sup>®</sup> <span class="nx-mx">México</span></a><a class="nx-name" href="../../"><span data-lang="es">Noticias</span><span data-lang="en">News</span><span data-lang="pt">Notícias</span></a></div></div></header>
   <main class="nx-wrap nx-article">
     <article>
-      <p class="nx-kick"><span data-lang="es">{MOM['es'][b['momento']]}</span><span data-lang="en">{MOM['en'][b['momento']]}</span><span class="sep">|</span><span data-lang="es">{MKT['es'][b['mercado']]}</span><span data-lang="en">{MKT['en'][b['mercado']]}</span></p>
-      <h1 class="nx-hl"><span data-lang="es">{E(es['titular'])}</span><span data-lang="en">{E(en['titular'])}</span></h1>
-      <div class="nx-byline"><b><span data-lang="es">Mesa de mercados {E(MARCA)}</span><span data-lang="en">{E(MARCA)} markets desk</span></b> · <time datetime="{pub.isoformat()}"><span data-lang="es">{fecha_es(b['fecha'])}</span><span data-lang="en">{fecha_en(b['fecha'])}</span> · {E(b.get('hora', ''))}</time></div>
-      <div class="nx-share" aria-label="Compartir">
+      <p class="nx-kick"><span data-lang="es">{MOM['es'][b['momento']]}</span><span data-lang="en">{MOM['en'][b['momento']]}</span><span data-lang="pt">{MOM['pt'][b['momento']]}</span><span class="sep">|</span><span data-lang="es">{MKT['es'][b['mercado']]}</span><span data-lang="en">{MKT['en'][b['mercado']]}</span><span data-lang="pt">{MKT['pt'][b['mercado']]}</span></p>
+      <h1 class="nx-hl"><span data-lang="es">{E(es['titular'])}</span><span data-lang="en">{E(en['titular'])}</span><span data-lang="pt">{E(pt['titular'])}</span></h1>
+      <div class="nx-byline"><b><span data-lang="es">Mesa de mercados {E(MARCA)}</span><span data-lang="en">{E(MARCA)} markets desk</span><span data-lang="pt">Mesa de mercados {E(MARCA)}</span></b> · <time datetime="{pub.isoformat()}"><span data-lang="es">{fecha_es(b['fecha'])}</span><span data-lang="en">{fecha_en(b['fecha'])}</span><span data-lang="pt">{fecha_pt(b['fecha'])}</span> · {E(b.get('hora', ''))}</time></div>
+      <div class="nx-share" aria-label="Compartir / Share / Compartilhar">
         <a href="https://www.linkedin.com/sharing/share-offsite/?url={quote(utm(url, 'linkedin'), safe='')}" target="_blank" rel="noopener">LinkedIn</a>
         <a href="https://x.com/intent/post?text={quote(es['titular'], safe='')}&url={quote(utm(url, 'x'), safe='')}&hashtags=MrSupplyChainMexico" target="_blank" rel="noopener">X</a>
         <a href="https://wa.me/?text={quote(es['titular'] + ' ' + utm(url, 'whatsapp'), safe='')}" target="_blank" rel="noopener">WhatsApp</a>
@@ -200,13 +215,14 @@ def pagina_brief(b, prev_b, next_b):
       </div>
       <div data-lang="es"><div class="nx-body">{bloques_html(es)}{sc_es}</div></div>
       <div data-lang="en"><div class="nx-body">{bloques_html(en)}{sc_en}</div></div>
-      <p class="nx-src"><span data-lang="es">Fuentes</span><span data-lang="en">Sources</span>: {fuentes}</p>
-      <p class="nx-cta"><a href="../../"><span data-lang="es">Ver el portal completo: mercados en vivo, mapa de calor, tendencias por industria y lectura para supply chain →</span><span data-lang="en">See the full portal: live markets, heatmap, industry trends and the supply chain read →</span></a></p>
+      <div data-lang="pt"><div class="nx-body">{bloques_html(pt)}{sc_pt}</div></div>
+      <p class="nx-src"><span data-lang="es">Fuentes</span><span data-lang="en">Sources</span><span data-lang="pt">Fontes</span>: {fuentes}</p>
+      <p class="nx-cta"><a href="../../"><span data-lang="es">Ver el portal completo: mercados en vivo, mapa de calor, tendencias por industria y lectura para supply chain →</span><span data-lang="en">See the full portal: live markets, heatmap, industry trends and the supply chain read →</span><span data-lang="pt">Ver o portal completo: mercados ao vivo, mapa de calor, tendências por indústria e leitura para supply chain →</span></a></p>
       <nav class="nx-pn">{''.join(nav)}</nav>
     </article>
   </main>
-  <footer class="nx-foot"><div class="nx-wrap"><p><a href="/">{E(MARCA)}</a> · <a href="../../archivo/"><span data-lang="es">Archivo</span><span data-lang="en">Archive</span></a> · <a href="../../feed.xml">RSS</a></p>
-    <p class="nx-disc"><span data-lang="es">Contenido informativo elaborado con apoyo de IA a partir de las fuentes públicas citadas. No es recomendación de inversión.</span><span data-lang="en">Informational content prepared with AI assistance from the public sources cited. Not investment advice.</span></p><p class="nx-tm"><span data-lang="es">Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</span><span data-lang="en">Mr. Supply Chain® is a trademark registered with the Mexican Institute of Industrial Property (IMPI) and is used exclusively in Mexico. It is not affiliated with brands, people or companies using similar names in other countries.</span></p></div></footer>
+  <footer class="nx-foot"><div class="nx-wrap"><p><a href="/">{E(MARCA)}</a> · <a href="../../archivo/"><span data-lang="es">Archivo</span><span data-lang="en">Archive</span><span data-lang="pt">Arquivo</span></a> · <a href="../../feed.xml">RSS</a></p>
+    <p class="nx-disc"><span data-lang="es">Contenido informativo elaborado con apoyo de IA a partir de las fuentes públicas citadas. No es recomendación de inversión.</span><span data-lang="en">Informational content prepared with AI assistance from the public sources cited. Not investment advice.</span><span data-lang="pt">Conteúdo informativo elaborado com apoio de IA a partir das fontes públicas citadas. Não é recomendação de investimento.</span></p><p class="nx-tm"><span data-lang="es">Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</span><span data-lang="en">Mr. Supply Chain® is a trademark registered with the Mexican Institute of Industrial Property (IMPI) and is used exclusively in Mexico. It is not affiliated with brands, people or companies using similar names in other countries.</span><span data-lang="pt">Mr. Supply Chain® é uma marca registrada no Instituto Mexicano da Propriedade Industrial (IMPI) e é usada exclusivamente nos Estados Unidos Mexicanos. Não é afiliada nem tem relação com marcas, pessoas ou empresas que usem nomes semelhantes em outros países.</span></p></div></footer>
 </body>
 </html>
 '''
@@ -220,8 +236,8 @@ def pagina_archivo(lista):
             if fecha_act:
                 filas.append('</ul>')
             fecha_act = b['fecha']
-            filas.append(f'<h2 class="nx-arch-d"><span data-lang="es">{fecha_es(b["fecha"])}</span><span data-lang="en">{fecha_en(b["fecha"])}</span></h2><ul class="nx-arch">')
-        filas.append(f'<li><a href="../brief/{b["id"]}/"><span class="m"><span data-lang="es">{MOM["es"][b["momento"]]} · {MKT["es"][b["mercado"]]}</span><span data-lang="en">{MOM["en"][b["momento"]]} · {MKT["en"][b["mercado"]]}</span></span><span class="t"><span data-lang="es">{E(b["es"]["titular"])}</span><span data-lang="en">{E(b.get("en", b["es"])["titular"])}</span></span></a></li>')
+            filas.append(f'<h2 class="nx-arch-d"><span data-lang="es">{fecha_es(b["fecha"])}</span><span data-lang="en">{fecha_en(b["fecha"])}</span><span data-lang="pt">{fecha_pt(b["fecha"])}</span></h2><ul class="nx-arch">')
+        filas.append(f'<li><a href="../brief/{b["id"]}/"><span class="m"><span data-lang="es">{MOM["es"][b["momento"]]} · {MKT["es"][b["mercado"]]}</span><span data-lang="en">{MOM["en"][b["momento"]]} · {MKT["en"][b["mercado"]]}</span><span data-lang="pt">{MOM["pt"][b["momento"]]} · {MKT["pt"][b["mercado"]]}</span></span><span class="t"><span data-lang="es">{E(b["es"]["titular"])}</span><span data-lang="en">{E(b.get("en", b["es"])["titular"])}</span><span data-lang="pt">{E(lang_pt(b)["titular"])}</span></span></a></li>')
     if fecha_act:
         filas.append('</ul>')
     return f'''<!doctype html>
@@ -237,18 +253,21 @@ def pagina_archivo(lista):
   <meta property="og:title" content="Archivo de briefs · Noticias {E(MARCA)}">
   <meta property="og:url" content="{SITE}archivo/">
   <meta property="og:image" content="{SITE}og.png">
-  <link rel="stylesheet" href="../news.css">
-  <script src="../static.js" defer></script>
+  <meta property="og:locale" content="es_MX">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:locale:alternate" content="pt_BR">
+  <link rel="stylesheet" href="../news.css?v=11">
+  <script src="../static.js?v=2" defer></script>
 </head>
 <body class="nx-static">
-  <div class="nx-util"><div class="nx-wrap nx-utilin"><a class="nx-back" href="../"><span data-lang="es">← Portada de Noticias</span><span data-lang="en">← News front page</span></a><span></span>
-    <nav class="nx-lang" aria-label="Idioma / Language"><button type="button" data-setlang="es">ES</button><button type="button" data-setlang="en">EN</button></nav></div></div>
-  <header class="nx-mast"><div class="nx-wrap"><div class="nx-plate"><a class="nx-brand" href="/">Mr. Supply Chain<sup>®</sup> <span class="nx-mx">México</span></a><a class="nx-name" href="../"><span data-lang="es">Noticias</span><span data-lang="en">News</span></a></div></div></header>
+  <div class="nx-util"><div class="nx-wrap nx-utilin"><a class="nx-back" href="../"><span data-lang="es">← Portada de Noticias</span><span data-lang="en">← News front page</span><span data-lang="pt">← Capa de Notícias</span></a><span></span>
+    <nav class="nx-lang" aria-label="Idioma / Language / Idioma"><button type="button" data-setlang="es">ES</button><button type="button" data-setlang="en">EN</button><button type="button" data-setlang="pt">PT</button></nav></div></div>
+  <header class="nx-mast"><div class="nx-wrap"><div class="nx-plate"><a class="nx-brand" href="/">Mr. Supply Chain<sup>®</sup> <span class="nx-mx">México</span></a><a class="nx-name" href="../"><span data-lang="es">Noticias</span><span data-lang="en">News</span><span data-lang="pt">Notícias</span></a></div></div></header>
   <main class="nx-wrap nx-article">
-    <h1 class="nx-h2"><span data-lang="es">Archivo de briefs</span><span data-lang="en">Brief archive</span></h1>
+    <h1 class="nx-h2"><span data-lang="es">Archivo de briefs</span><span data-lang="en">Brief archive</span><span data-lang="pt">Arquivo de briefs</span></h1>
     {''.join(filas)}
   </main>
-  <footer class="nx-foot"><div class="nx-wrap"><p><a href="/">{E(MARCA)}</a> · <a href="../feed.xml">RSS</a></p><p class="nx-tm"><span data-lang="es">Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</span><span data-lang="en">Mr. Supply Chain® is a trademark registered with the Mexican Institute of Industrial Property (IMPI) and is used exclusively in Mexico. It is not affiliated with brands, people or companies using similar names in other countries.</span></p></div></footer>
+  <footer class="nx-foot"><div class="nx-wrap"><p><a href="/">{E(MARCA)}</a> · <a href="../feed.xml">RSS</a></p><p class="nx-tm"><span data-lang="es">Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</span><span data-lang="en">Mr. Supply Chain® is a trademark registered with the Mexican Institute of Industrial Property (IMPI) and is used exclusively in Mexico. It is not affiliated with brands, people or companies using similar names in other countries.</span><span data-lang="pt">Mr. Supply Chain® é uma marca registrada no Instituto Mexicano da Propriedade Industrial (IMPI) e é usada exclusivamente nos Estados Unidos Mexicanos. Não é afiliada nem tem relação com marcas, pessoas ou empresas que usem nomes semelhantes em outros países.</span></p></div></footer>
 </body>
 </html>
 '''

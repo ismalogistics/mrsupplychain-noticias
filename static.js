@@ -1,7 +1,7 @@
 /* Mr. Supply Chain® México · Noticias — idioma en páginas estáticas (brief y archivo). */
 (function () {
   'use strict';
-  function get() { try { var l = localStorage.getItem('lang'); if (l === 'en' || l === 'es') return l; } catch (e) {} return (navigator.language || 'es').slice(0, 2) === 'en' ? 'en' : 'es'; }
+  function get() { try { var l = localStorage.getItem('lang'); if (l === 'en' || l === 'es' || l === 'pt') return l; } catch (e) {} var n = (navigator.language || 'es').slice(0, 2); return n === 'en' ? 'en' : n === 'pt' ? 'pt' : 'es'; }
   function apply(l) {
     document.documentElement.lang = l;
     var n = document.querySelectorAll('[data-lang]');

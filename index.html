@@ -12,6 +12,7 @@
   <meta property="og:url" content="https://mrsupplychain.ai/noticias/">
   <meta property="og:locale" content="es_MX">
   <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:locale:alternate" content="pt_BR">
   <meta property="og:image" content="https://mrsupplychain.ai/noticias/og.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
@@ -19,26 +20,27 @@
   <meta name="twitter:site" content="@MrSupplyChainX">
   <meta name="twitter:image" content="https://mrsupplychain.ai/noticias/og.png">
   <link rel="alternate" type="application/rss+xml" title="Noticias · Mr. Supply Chain® México" href="https://mrsupplychain.ai/noticias/feed.xml">
-  <link rel="stylesheet" href="news.css?v=10">
+  <link rel="stylesheet" href="news.css?v=11">
   <script type="application/ld+json">
   {"@context":"https://schema.org","@graph":[
-    {"@type":"CollectionPage","@id":"https://mrsupplychain.ai/noticias/#page","url":"https://mrsupplychain.ai/noticias/","name":"Noticias · Pulso de mercados para supply chain · Mr. Supply Chain México","inLanguage":["es-MX","en-US"],"isPartOf":{"@id":"https://mrsupplychain.ai/#website"},"author":{"@id":"https://mrsupplychain.ai/#person"},"about":["Supply chain","Mercados financieros","Economía de México"]}
+    {"@type":"CollectionPage","@id":"https://mrsupplychain.ai/noticias/#page","url":"https://mrsupplychain.ai/noticias/","name":"Noticias · Pulso de mercados para supply chain · Mr. Supply Chain México","inLanguage":["es-MX","en-US","pt-BR"],"isPartOf":{"@id":"https://mrsupplychain.ai/#website"},"author":{"@id":"https://mrsupplychain.ai/#person"},"about":["Supply chain","Mercados financieros","Economía de México"]}
   ]}
   </script>
   <script src="vendor/d3-array.min.js" defer></script>
   <script src="vendor/d3-geo.min.js" defer></script>
   <script src="vendor/topojson-client.min.js" defer></script>
   <script src="vendor/d3-hierarchy.min.js" defer></script>
-  <script src="news.js?v=12" defer></script>
+  <script src="news.js?v=13" defer></script>
 </head>
 <body>
   <div class="nx-util">
     <div class="nx-wrap nx-utilin">
       <span class="nx-today" id="nx-today"></span>
       <span class="nx-live" id="nx-stamp"></span>
-      <nav class="nx-lang" aria-label="Idioma / Language">
+      <nav class="nx-lang" aria-label="Idioma / Language / Idioma">
         <button type="button" data-setlang="es">ES</button>
         <button type="button" data-setlang="en">EN</button>
+        <button type="button" data-setlang="pt">PT</button>
       </nav>
     </div>
   </div>
@@ -47,18 +49,18 @@
     <div class="nx-wrap">
       <div class="nx-plate">
         <a class="nx-brand" href="/">Mr. Supply Chain<sup>®</sup> <span class="nx-mx">México</span></a>
-        <span class="nx-name"><span data-lang="es">Noticias</span><span data-lang="en">News</span></span>
+        <span class="nx-name"><span data-lang="es">Noticias</span><span data-lang="en">News</span><span data-lang="pt">Notícias</span></span>
       </div>
-      <p class="nx-tag"><span data-lang="es">Lo que mueve a los mercados, leído desde supply chain y operaciones.</span><span data-lang="en">What moves the markets, read through a supply chain and operations lens.</span></p>
+      <p class="nx-tag"><span data-lang="es">Lo que mueve a los mercados, leído desde supply chain y operaciones.</span><span data-lang="en">What moves the markets, read through a supply chain and operations lens.</span><span data-lang="pt">O que move os mercados, lido a partir de supply chain e operações.</span></p>
       <nav class="nx-sections" aria-label="Secciones">
-        <a href="#portada"><span data-lang="es">Portada</span><span data-lang="en">Front page</span></a>
-        <a href="#mapa"><span data-lang="es">Mapa</span><span data-lang="en">Map</span></a>
-        <a href="#graficos"><span data-lang="es">Gráficos</span><span data-lang="en">Charts</span></a>
-        <a href="#tendencias"><span data-lang="es">Tendencias</span><span data-lang="en">Trends</span></a>
-        <a href="#redes"><span data-lang="es">Redes</span><span data-lang="en">Social</span></a>
-        <a href="#lectura"><span data-lang="es">Lectura para supply chain</span><span data-lang="en">Supply chain read</span></a>
-        <a href="#archivo"><span data-lang="es">Archivo</span><span data-lang="en">Archive</span></a>
-        <a href="/"><span data-lang="es">Ir a mrsupplychain.ai</span><span data-lang="en">Go to mrsupplychain.ai</span></a>
+        <a href="#portada"><span data-lang="es">Portada</span><span data-lang="en">Front page</span><span data-lang="pt">Capa</span></a>
+        <a href="#mapa"><span data-lang="es">Mapa</span><span data-lang="en">Map</span><span data-lang="pt">Mapa</span></a>
+        <a href="#graficos"><span data-lang="es">Gráficos</span><span data-lang="en">Charts</span><span data-lang="pt">Gráficos</span></a>
+        <a href="#tendencias"><span data-lang="es">Tendencias</span><span data-lang="en">Trends</span><span data-lang="pt">Tendências</span></a>
+        <a href="#redes"><span data-lang="es">Redes</span><span data-lang="en">Social</span><span data-lang="pt">Redes</span></a>
+        <a href="#lectura"><span data-lang="es">Lectura para supply chain</span><span data-lang="en">Supply chain read</span><span data-lang="pt">Leitura para supply chain</span></a>
+        <a href="#archivo"><span data-lang="es">Archivo</span><span data-lang="en">Archive</span><span data-lang="pt">Arquivo</span></a>
+        <a href="/"><span data-lang="es">Ir a mrsupplychain.ai</span><span data-lang="en">Go to mrsupplychain.ai</span><span data-lang="pt">Ir para mrsupplychain.ai</span></a>
       </nav>
     </div>
   </header>
@@ -68,9 +70,9 @@
   <main class="nx-wrap nx-grid" id="portada">
     <article class="nx-lead">
       <div class="nx-tabs" role="tablist">
-        <button role="tab" aria-selected="true" data-tab="global"><span data-lang="es">Global</span><span data-lang="en">Global</span></button>
-        <button role="tab" aria-selected="false" data-tab="latam"><span data-lang="es">LATAM</span><span data-lang="en">LATAM</span></button>
-        <button role="tab" aria-selected="false" data-tab="mexico"><span data-lang="es">México</span><span data-lang="en">Mexico</span></button>
+        <button role="tab" aria-selected="true" data-tab="global"><span data-lang="es">Global</span><span data-lang="en">Global</span><span data-lang="pt">Global</span></button>
+        <button role="tab" aria-selected="false" data-tab="latam"><span data-lang="es">LATAM</span><span data-lang="en">LATAM</span><span data-lang="pt">LATAM</span></button>
+        <button role="tab" aria-selected="false" data-tab="mexico"><span data-lang="es">México</span><span data-lang="en">Mexico</span><span data-lang="pt">México</span></button>
       </div>
       <div id="nx-brief" aria-live="polite"></div>
     </article>
@@ -78,17 +80,17 @@
     <aside class="nx-side">
       <section class="nx-box" id="nx-other"></section>
       <section class="nx-box">
-        <h3 class="nx-boxh"><span data-lang="es">Lo más reciente</span><span data-lang="en">Latest</span></h3>
+        <h3 class="nx-boxh"><span data-lang="es">Lo más reciente</span><span data-lang="en">Latest</span><span data-lang="pt">Mais recentes</span></h3>
         <ol class="nx-latest" id="nx-latest"></ol>
       </section>
       <section class="nx-box">
-        <h3 class="nx-boxh"><span data-lang="es">Agenda</span><span data-lang="en">Calendar</span></h3>
+        <h3 class="nx-boxh"><span data-lang="es">Agenda</span><span data-lang="en">Calendar</span><span data-lang="pt">Agenda</span></h3>
         <ul class="nx-agenda" id="nx-agenda"></ul>
       </section>
       <section class="nx-box nx-social">
-        <h3 class="nx-boxh"><span data-lang="es">Síguenos</span><span data-lang="en">Follow</span></h3>
-        <p><span data-lang="es">Hilos diarios, análisis y conversación de supply chain.</span><span data-lang="en">Daily threads, analysis and supply chain conversation.</span></p>
-        <a class="nx-soc x" href="https://x.com/MrSupplyChainX" target="_blank" rel="noopener"><span class="ic">𝕏</span><span><b>@MrSupplyChainX</b><small><span data-lang="es">Hilos de negocios y supply chain</span><span data-lang="en">Business and supply chain threads</span></small></span></a>
+        <h3 class="nx-boxh"><span data-lang="es">Síguenos</span><span data-lang="en">Follow</span><span data-lang="pt">Siga-nos</span></h3>
+        <p><span data-lang="es">Hilos diarios, análisis y conversación de supply chain.</span><span data-lang="en">Daily threads, analysis and supply chain conversation.</span><span data-lang="pt">Threads diárias, análises e conversa sobre supply chain.</span></p>
+        <a class="nx-soc x" href="https://x.com/MrSupplyChainX" target="_blank" rel="noopener"><span class="ic">𝕏</span><span><b>@MrSupplyChainX</b><small><span data-lang="es">Hilos de negocios y supply chain</span><span data-lang="en">Business and supply chain threads</span><span data-lang="pt">Threads de negócios e supply chain</span></small></span></a>
         <a class="nx-soc in" href="https://www.linkedin.com/in/ismaellopezh/" target="_blank" rel="noopener"><span class="ic">in</span><span><b>Ismael López</b><small>LinkedIn</small></span></a>
       </section>
     </aside>
@@ -96,58 +98,58 @@
 
   <section class="nx-wrap nx-mapsec" id="mapa">
     <div class="nx-maphead">
-      <h2 class="nx-h2"><span data-lang="es">El mapa del día</span><span data-lang="en">Today's map</span></h2>
+      <h2 class="nx-h2"><span data-lang="es">El mapa del día</span><span data-lang="en">Today's map</span><span data-lang="pt">O mapa do dia</span></h2>
       <div class="nx-pills" id="nx-map-tabs" role="tablist"></div>
-      <p class="nx-mapnote"><span data-lang="es">Variación del día de la bolsa principal de cada mercado. Verde sube, rojo baja; el tamaño indica la magnitud.</span><span data-lang="en">Daily change of each market's main stock index. Green up, red down; size shows the magnitude.</span></p>
+      <p class="nx-mapnote"><span data-lang="es">Variación del día de la bolsa principal de cada mercado. Verde sube, rojo baja; el tamaño indica la magnitud.</span><span data-lang="en">Daily change of each market's main stock index. Green up, red down; size shows the magnitude.</span><span data-lang="pt">Variação do dia da principal bolsa de cada mercado. Verde em alta, vermelho em baixa; o tamanho indica a magnitude.</span></p>
     </div>
     <figure class="nx-map" id="nx-map"></figure>
   </section>
 
   <section class="nx-wrap nx-charts" id="graficos">
     <div class="nx-chhead">
-      <h2 class="nx-h2"><span data-lang="es">Gráficos</span><span data-lang="en">Charts</span></h2>
+      <h2 class="nx-h2"><span data-lang="es">Gráficos</span><span data-lang="en">Charts</span><span data-lang="pt">Gráficos</span></h2>
       <div class="nx-tabs nx-ctabs" role="tablist" aria-label="Global / LATAM / México">
-        <button role="tab" aria-selected="true" data-tab="global"><span data-lang="es">Global</span><span data-lang="en">Global</span></button>
-        <button role="tab" aria-selected="false" data-tab="latam"><span data-lang="es">LATAM</span><span data-lang="en">LATAM</span></button>
-        <button role="tab" aria-selected="false" data-tab="mexico"><span data-lang="es">México</span><span data-lang="en">Mexico</span></button>
+        <button role="tab" aria-selected="true" data-tab="global"><span data-lang="es">Global</span><span data-lang="en">Global</span><span data-lang="pt">Global</span></button>
+        <button role="tab" aria-selected="false" data-tab="latam"><span data-lang="es">LATAM</span><span data-lang="en">LATAM</span><span data-lang="pt">LATAM</span></button>
+        <button role="tab" aria-selected="false" data-tab="mexico"><span data-lang="es">México</span><span data-lang="en">Mexico</span><span data-lang="pt">México</span></button>
       </div>
     </div>
     <figure class="nx-chart nx-heat">
       <div class="nx-heathead">
-        <div><div class="fh"><span data-lang="es">Mapa de calor de acciones</span><span data-lang="en">Stock heatmap</span></div>
-        <p class="fs"><span data-lang="es">Principales emisoras de cada índice. Tamaño = valor de mercado; color = variación del día.</span><span data-lang="en">Top constituents of each index. Size = market value; color = daily change.</span></p></div>
+        <div><div class="fh"><span data-lang="es">Mapa de calor de acciones</span><span data-lang="en">Stock heatmap</span><span data-lang="pt">Mapa de calor de ações</span></div>
+        <p class="fs"><span data-lang="es">Principales emisoras de cada índice. Tamaño = valor de mercado; color = variación del día.</span><span data-lang="en">Top constituents of each index. Size = market value; color = daily change.</span><span data-lang="pt">Principais ações de cada índice. Tamanho = valor de mercado; cor = variação do dia.</span></p></div>
         <div class="nx-pills" id="nx-heat-tabs" role="tablist"></div>
       </div>
       <div class="cv nx-heatcv" id="nx-heat"></div>
       <div class="nx-heatfoot"><div class="nx-scale" aria-hidden="true"><span>−3%</span><i></i><span>+3%</span></div><span class="nx-heatsrc" id="nx-heat-src"></span></div>
     </figure>
     <div class="nx-chgrid" data-view="global">
-      <figure class="nx-chart"><div class="fh"><span data-lang="es">Tasa de política contra inflación</span><span data-lang="en">Policy rate vs. inflation</span></div><p class="fs"><span data-lang="es">Si la tasa supera a la inflación, el crédito sigue caro.</span><span data-lang="en">When the rate is above inflation, credit stays expensive.</span></p><div class="cv" id="nx-ch-rates"></div></figure>
-      <figure class="nx-chart"><div class="fh"><span data-lang="es">Materias primas y divisas hoy</span><span data-lang="en">Commodities and currencies today</span></div><p class="fs"><span data-lang="es">Variación del día de los insumos y monedas que mueven costos.</span><span data-lang="en">Daily change of the inputs and currencies that move costs.</span></p><div class="cv nx-cvbars" id="nx-ch-cmd"></div></figure>
+      <figure class="nx-chart"><div class="fh"><span data-lang="es">Tasa de política contra inflación</span><span data-lang="en">Policy rate vs. inflation</span><span data-lang="pt">Taxa básica versus inflação</span></div><p class="fs"><span data-lang="es">Si la tasa supera a la inflación, el crédito sigue caro.</span><span data-lang="en">When the rate is above inflation, credit stays expensive.</span><span data-lang="pt">Quando a taxa supera a inflação, o crédito continua caro.</span></p><div class="cv" id="nx-ch-rates"></div></figure>
+      <figure class="nx-chart"><div class="fh"><span data-lang="es">Materias primas y divisas hoy</span><span data-lang="en">Commodities and currencies today</span><span data-lang="pt">Commodities e moedas hoje</span></div><p class="fs"><span data-lang="es">Variación del día de los insumos y monedas que mueven costos.</span><span data-lang="en">Daily change of the inputs and currencies that move costs.</span><span data-lang="pt">Variação do dia dos insumos e moedas que movem os custos.</span></p><div class="cv nx-cvbars" id="nx-ch-cmd"></div></figure>
     </div>
     <div class="nx-chgrid" data-view="latam" hidden>
-      <figure class="nx-chart"><div class="fh"><span data-lang="es">Bolsas de América hoy</span><span data-lang="en">Americas stock markets today</span></div><p class="fs"><span data-lang="es">Variación del día del índice principal de cada país.</span><span data-lang="en">Daily change of each country's main index.</span></p><div class="cv nx-cvbars" id="nx-ch-latidx"></div></figure>
-      <figure class="nx-chart"><div class="fh"><span data-lang="es">Monedas de América frente al dólar</span><span data-lang="en">Americas currencies vs. the dollar</span></div><p class="fs"><span data-lang="es">Variación del día del tipo de cambio; positivo = la moneda se debilita.</span><span data-lang="en">Daily change in the exchange rate; positive = the currency weakens.</span></p><div class="cv nx-cvbars" id="nx-ch-latfx"></div></figure>
+      <figure class="nx-chart"><div class="fh"><span data-lang="es">Bolsas de América hoy</span><span data-lang="en">Americas stock markets today</span><span data-lang="pt">Bolsas das Américas hoje</span></div><p class="fs"><span data-lang="es">Variación del día del índice principal de cada país.</span><span data-lang="en">Daily change of each country's main index.</span><span data-lang="pt">Variação do dia do principal índice de cada país.</span></p><div class="cv nx-cvbars" id="nx-ch-latidx"></div></figure>
+      <figure class="nx-chart"><div class="fh"><span data-lang="es">Monedas de América frente al dólar</span><span data-lang="en">Americas currencies vs. the dollar</span><span data-lang="pt">Moedas das Américas frente ao dólar</span></div><p class="fs"><span data-lang="es">Variación del día del tipo de cambio; positivo = la moneda se debilita.</span><span data-lang="en">Daily change in the exchange rate; positive = the currency weakens.</span><span data-lang="pt">Variação do dia na taxa de câmbio; positivo = a moeda se desvaloriza.</span></p><div class="cv nx-cvbars" id="nx-ch-latfx"></div></figure>
     </div>
     <div class="nx-chgrid" data-view="mexico" hidden>
-      <figure class="nx-chart"><div class="fh"><span data-lang="es">Peso frente al dólar</span><span data-lang="en">Peso vs. dollar</span></div><p class="fs"><span data-lang="es">Tipo de cambio publicado por Banxico, pesos por dólar.</span><span data-lang="en">Banxico published rate, pesos per dollar.</span></p><div class="cv" id="nx-ch-usd"></div></figure>
-      <figure class="nx-chart"><div class="fh"><span data-lang="es">Banxico e inflación en México</span><span data-lang="en">Banxico and Mexican inflation</span></div><p class="fs"><span data-lang="es">Tasa objetivo al cierre de mes e inflación anual de los meses con dato.</span><span data-lang="en">Month-end target rate and annual inflation for months with data.</span></p><div class="cv" id="nx-ch-banxico"></div></figure>
+      <figure class="nx-chart"><div class="fh"><span data-lang="es">Peso frente al dólar</span><span data-lang="en">Peso vs. dollar</span><span data-lang="pt">Peso mexicano frente ao dólar</span></div><p class="fs"><span data-lang="es">Tipo de cambio publicado por Banxico, pesos por dólar.</span><span data-lang="en">Banxico published rate, pesos per dollar.</span><span data-lang="pt">Câmbio publicado pelo Banxico, pesos por dólar.</span></p><div class="cv" id="nx-ch-usd"></div></figure>
+      <figure class="nx-chart"><div class="fh"><span data-lang="es">Banxico e inflación en México</span><span data-lang="en">Banxico and Mexican inflation</span><span data-lang="pt">Banxico e inflação no México</span></div><p class="fs"><span data-lang="es">Tasa objetivo al cierre de mes e inflación anual de los meses con dato.</span><span data-lang="en">Month-end target rate and annual inflation for months with data.</span><span data-lang="pt">Taxa básica no fim de cada mês e inflação anual dos meses com dados.</span></p><div class="cv" id="nx-ch-banxico"></div></figure>
     </div>
   </section>
 
   <section class="nx-wrap nx-trends" id="tendencias">
-    <h2 class="nx-h2"><span data-lang="es">Tendencias por industria</span><span data-lang="en">Industry trends</span></h2>
+    <h2 class="nx-h2"><span data-lang="es">Tendencias por industria</span><span data-lang="en">Industry trends</span><span data-lang="pt">Tendências por indústria</span></h2>
     <p class="nx-trnote" id="nx-trnote"></p>
     <div class="nx-trtop">
       <p class="nx-trhl" id="nx-trhl"></p>
-      <figure class="nx-chart nx-sect"><div class="fh" id="nx-sect-h"></div><p class="fs"><span data-lang="es">Variación promedio del día por sector, ponderada por valor de mercado.</span><span data-lang="en">Average daily change by sector, weighted by market value.</span></p><div class="cv nx-cvbars" id="nx-sect"></div></figure>
+      <figure class="nx-chart nx-sect"><div class="fh" id="nx-sect-h"></div><p class="fs"><span data-lang="es">Variación promedio del día por sector, ponderada por valor de mercado.</span><span data-lang="en">Average daily change by sector, weighted by market value.</span><span data-lang="pt">Variação média do dia por setor, ponderada pelo valor de mercado.</span></p><div class="cv nx-cvbars" id="nx-sect"></div></figure>
     </div>
     <div class="nx-trgrid" id="nx-trends"></div>
   </section>
 
   <section class="nx-wrap nx-social-feed" id="redes">
     <div class="nx-chhead">
-      <h2 class="nx-h2"><span data-lang="es">En redes y medios de supply chain</span><span data-lang="en">Supply chain social and media</span></h2>
+      <h2 class="nx-h2"><span data-lang="es">En redes y medios de supply chain</span><span data-lang="en">Supply chain social and media</span><span data-lang="pt">Nas redes e na mídia de supply chain</span></h2>
       <div class="nx-pills" id="nx-rf-tabs" role="tablist"></div>
     </div>
     <p class="nx-trnote" id="nx-rf-note"></p>
@@ -156,7 +158,7 @@
 
   <section class="nx-band" id="lectura">
     <div class="nx-wrap">
-      <p class="nx-kick"><span data-lang="es">Lectura para supply chain</span><span data-lang="en">The supply chain read</span></p>
+      <p class="nx-kick"><span data-lang="es">Lectura para supply chain</span><span data-lang="en">The supply chain read</span><span data-lang="pt">Leitura para supply chain</span></p>
       <div class="nx-lechead">
         <div><blockquote class="nx-verd" id="nx-verd"></blockquote>
         <p class="nx-exec" id="nx-exec"></p></div>
@@ -167,16 +169,16 @@
   </section>
 
   <section class="nx-wrap nx-archive" id="archivo">
-    <h2 class="nx-h2"><span data-lang="es">Archivo de briefs</span><span data-lang="en">Brief archive</span></h2>
-    <p class="nx-trnote"><a href="archivo/"><span data-lang="es">Ver el archivo completo</span><span data-lang="en">See the full archive</span></a> · <a href="feed.xml">RSS</a></p>
+    <h2 class="nx-h2"><span data-lang="es">Archivo de briefs</span><span data-lang="en">Brief archive</span><span data-lang="pt">Arquivo de briefs</span></h2>
+    <p class="nx-trnote"><a href="archivo/"><span data-lang="es">Ver el archivo completo</span><span data-lang="en">See the full archive</span><span data-lang="pt">Ver o arquivo completo</span></a> · <a href="feed.xml">RSS</a></p>
     <ul class="nx-feed" id="nx-feed"></ul>
   </section>
 
   <footer class="nx-foot">
     <div class="nx-wrap">
-      <p><a href="/">Mr. Supply Chain® México</a> · <span data-lang="es">Noticias</span><span data-lang="en">News</span> · <a href="archivo/"><span data-lang="es">Archivo</span><span data-lang="en">Archive</span></a> · <a href="feed.xml">RSS</a></p>
-      <p class="nx-disc"><span data-lang="es">Contenido informativo elaborado con apoyo de IA a partir de fuentes públicas citadas en cada brief. No es recomendación de inversión.</span><span data-lang="en">Informational content prepared with AI assistance from the public sources cited in each brief. Not investment advice.</span></p>
-      <p class="nx-tm"><span data-lang="es">Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</span><span data-lang="en">Mr. Supply Chain® is a trademark registered with the Mexican Institute of Industrial Property (IMPI) and is used exclusively in Mexico. It is not affiliated with brands, people or companies using similar names in other countries.</span></p>
+      <p><a href="/">Mr. Supply Chain® México</a> · <span data-lang="es">Noticias</span><span data-lang="en">News</span><span data-lang="pt">Notícias</span> · <a href="archivo/"><span data-lang="es">Archivo</span><span data-lang="en">Archive</span><span data-lang="pt">Arquivo</span></a> · <a href="feed.xml">RSS</a></p>
+      <p class="nx-disc"><span data-lang="es">Contenido informativo elaborado con apoyo de IA a partir de fuentes públicas citadas en cada brief. No es recomendación de inversión.</span><span data-lang="en">Informational content prepared with AI assistance from the public sources cited in each brief. Not investment advice.</span><span data-lang="pt">Conteúdo informativo elaborado com apoio de IA a partir das fontes públicas citadas em cada brief. Não é recomendação de investimento.</span></p>
+      <p class="nx-tm"><span data-lang="es">Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</span><span data-lang="en">Mr. Supply Chain® is a trademark registered with the Mexican Institute of Industrial Property (IMPI) and is used exclusively in Mexico. It is not affiliated with brands, people or companies using similar names in other countries.</span><span data-lang="pt">Mr. Supply Chain® é uma marca registrada no Instituto Mexicano da Propriedade Industrial (IMPI) e é usada exclusivamente nos Estados Unidos Mexicanos. Não é afiliada nem tem relação com marcas, pessoas ou empresas que usem nomes semelhantes em outros países.</span></p>
     </div>
   </footer>
 </body>

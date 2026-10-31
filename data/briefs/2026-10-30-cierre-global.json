@@ -66,5 +66,27 @@
    "u": "https://tradingeconomics.com/commodity/gold"
   }
  ],
- "fin_de_semana": true
+ "fin_de_semana": true,
+ "pt": {
+  "titular": "Sexta-feira vermelha em tecnologia: Wall Street fecha outubro com dúvidas sobre os juros",
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "S&P 500 −2.1%, Nasdaq −2.9% e Dow −1.3% no fechamento preliminar, em uma venda liderada pela tecnologia. A Ásia já havia caído (KOSPI −3.5%, Nikkei −2.1%) e a Europa também (Euro Stoxx 50 perto de −1.1%). O ouro caiu 3.4% e o Bitcoin tocou sua mínima em cinco semanas, enquanto o WTI subiu para 103 dólares."
+   },
+   {
+    "t": "Por quê",
+    "x": "O mercado parece se ajustar a juros altos por mais tempo: o Fed manteve 3.75–4.00% em 28 de outubro, com dois votos a favor de uma alta, e a inflação dos EUA está em 3.7%."
+   },
+   {
+    "t": "O que se espera",
+    "x": "A Ásia abre na segunda-feira depois desta queda, com a atenção voltada para os fabricantes de chips da Coreia e do Japão. No domingo, 1º de novembro, os EUA atrasam o relógio: Wall Street abrirá às 8:30 e fechará às 15:00, no horário da Cidade do México."
+   },
+   {
+    "t": "A próxima semana",
+    "x": "Na terça-feira, 3 de novembro, acontecem as eleições de meio de mandato dos EUA, que podem mexer com o dólar e as bolsas. O relatório de emprego de outubro costuma sair na primeira sexta-feira do mês. O Fed só se reúne em 9 de dezembro, então o mercado vai ler cada dado de inflação e emprego como pista de uma possível alta."
+   }
+  ],
+  "scm": "Para o fim de semana: recalcule o custo do que você importa com o peso mexicano perto de 18.90; revise as sobretaxas de combustível com o petróleo acima de 100 dólares; e deixe pronto um plano para pagamentos em dólares caso o peso oscile com as eleições de terça-feira."
+ }
 }

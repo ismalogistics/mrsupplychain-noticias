@@ -24,7 +24,7 @@
 html, body { margin: 0; }
 body { background: var(--paper); color: var(--ink); font-family: var(--sans); line-height: 1.5; -webkit-font-smoothing: antialiased; }
 a { color: inherit; }
-[data-lang="en"] { display: none; }
+[data-lang="en"], [data-lang="pt"] { display: none; }
 .nx-wrap { max-width: 1200px; margin: 0 auto; padding-left: max(20px, env(safe-area-inset-left, 0px)); padding-right: max(20px, env(safe-area-inset-right, 0px)); }
 
 /* Barra utilitaria */
@@ -287,7 +287,7 @@ a { color: inherit; }
 .nx-themes:has(.deep) { grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); gap: 20px; }
 
 /* Páginas estáticas: brief y archivo */
-.nx-static div[data-lang="en"] { display: none; }
+.nx-static div[data-lang="en"], .nx-static div[data-lang="pt"] { display: none; }
 .nx-back { font-size: 13px; color: var(--accent); text-decoration: none; font-weight: 600; }
 .nx-name { text-decoration: none; }
 .nx-article { max-width: 780px; padding-top: 28px; padding-bottom: 48px; }

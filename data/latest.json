@@ -70,7 +70,29 @@
      "u": "https://tradingeconomics.com/commodity/gold"
     }
    ],
-   "fin_de_semana": true
+   "fin_de_semana": true,
+   "pt": {
+    "titular": "Sexta-feira vermelha em tecnologia: Wall Street fecha outubro com dúvidas sobre os juros",
+    "bloques": [
+     {
+      "t": "O que aconteceu",
+      "x": "S&P 500 −2.1%, Nasdaq −2.9% e Dow −1.3% no fechamento preliminar, em uma venda liderada pela tecnologia. A Ásia já havia caído (KOSPI −3.5%, Nikkei −2.1%) e a Europa também (Euro Stoxx 50 perto de −1.1%). O ouro caiu 3.4% e o Bitcoin tocou sua mínima em cinco semanas, enquanto o WTI subiu para 103 dólares."
+     },
+     {
+      "t": "Por quê",
+      "x": "O mercado parece se ajustar a juros altos por mais tempo: o Fed manteve 3.75–4.00% em 28 de outubro, com dois votos a favor de uma alta, e a inflação dos EUA está em 3.7%."
+     },
+     {
+      "t": "O que se espera",
+      "x": "A Ásia abre na segunda-feira depois desta queda, com a atenção voltada para os fabricantes de chips da Coreia e do Japão. No domingo, 1º de novembro, os EUA atrasam o relógio: Wall Street abrirá às 8:30 e fechará às 15:00, no horário da Cidade do México."
+     },
+     {
+      "t": "A próxima semana",
+      "x": "Na terça-feira, 3 de novembro, acontecem as eleições de meio de mandato dos EUA, que podem mexer com o dólar e as bolsas. O relatório de emprego de outubro costuma sair na primeira sexta-feira do mês. O Fed só se reúne em 9 de dezembro, então o mercado vai ler cada dado de inflação e emprego como pista de uma possível alta."
+     }
+    ],
+    "scm": "Para o fim de semana: recalcule o custo do que você importa com o peso mexicano perto de 18.90; revise as sobretaxas de combustível com o petróleo acima de 100 dólares; e deixe pronto um plano para pagamentos em dólares caso o peso oscile com as eleições de terça-feira."
+   }
   },
   "latam": {
    "id": "2026-10-30-cierre-latam",
@@ -148,7 +170,29 @@
      "t": "Yahoo Finance — cierre de Wall Street, 30 oct 2026",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html"
     }
-   ]
+   ],
+   "pt": {
+    "titular": "América Latina acompanha Wall Street em queda; Peru, Argentina e Chile são os mais atingidos",
+    "bloques": [
+     {
+      "t": "O que aconteceu",
+      "x": "O Ibovespa caiu 0.75% e o S&P/TSX do Canadá, 1.74%. Os fundos que replicam as bolsas do Peru (−4.2%), Argentina (−2.8%), Chile (−2.2%) e Colômbia (−1.2%) também recuaram em Nova York. A exceção foi o IPC mexicano (+0.1%). Dentro do Ibovespa, B3 (−5.4%) e BTG Pactual (−4.7%) foram as que mais caíram, enquanto Cosan (+3.6%) e Vale (+3.3%) subiram."
+     },
+     {
+      "t": "Por quê",
+      "x": "A região acompanhou a venda global em tecnologia e a expectativa de juros altos por mais tempo nos EUA, depois que o Fed manteve sua taxa em 3.75–4.00% com dois votos a favor de uma alta. A queda do cobre (−2.0%) e do ouro (−3.4%) pesou sobre os mercados mais ligados à mineração, como Peru e Chile."
+     },
+     {
+      "t": "Moedas",
+      "x": "O real se desvalorizou 0.7%, para 5.38 por dólar; o peso colombiano (−0.25%) e o sol peruano (−0.23%) também cederam, enquanto o peso chileno ficou estável perto de 988 por dólar e o peso argentino se valorizou 0.2%."
+     },
+     {
+      "t": "A próxima semana",
+      "x": "As eleições de meio de mandato dos EUA, na terça-feira, 3 de novembro, e o relatório de emprego de outubro (que costuma sair na primeira sexta-feira do mês) vão definir o apetite por ativos da região. O preço do cobre e do petróleo continuará ditando o rumo de Chile, Peru, Colômbia e Brasil."
+     }
+    ],
+    "scm": "Para o fim de semana: se você compra ou vende em reais, pesos chilenos, pesos colombianos ou soles, revise suas cotações em moeda local, porque o câmbio já mexeu no custo em dólares; com o cobre em queda, pode haver uma janela para cotar cabos e componentes de cobre; e, com o real mais fraco, peça aos seus fornecedores brasileiros que atualizem seus preços em dólares."
+   }
   },
   "mexico": {
    "id": "2026-10-30-cierre-mexico",
@@ -218,7 +262,29 @@
      "u": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/inpc/inpc_1q2026_10.pdf"
     }
    ],
-   "fin_de_semana": true
+   "fin_de_semana": true,
+   "pt": {
+    "titular": "A Bolsa mexicana resiste e caminha para seu melhor mês em três anos; o peso segue pressionado",
+    "bloques": [
+     {
+      "t": "O que aconteceu",
+      "x": "Enquanto Wall Street caía, o IPC se manteve perto de 69,860 pontos (+0.1% no último dado disponível). O peso mexicano operou perto de 18.90 por dólar, e o FIX de 29 de outubro (18.81) foi o mais alto desde agosto de 2025. O INEGI informou que o PIB do 3º trimestre cresceu 0.9% no trimestre e 3.2% na comparação anual."
+     },
+     {
+      "t": "Por quê",
+      "x": "A economia mostra força exportadora (exportações +37.9% em setembro), mas o diferencial de juros com os EUA (6.50% contra 4.00%) é o mais estreito em uma década e tira atratividade do peso."
+     },
+     {
+      "t": "O que se espera",
+      "x": "O mercado seguirá atento aos sinais do Banxico rumo à sua próxima decisão, com uma inflação que subiu para 3.62% na primeira quinzena de outubro. Na agenda do INEGI: inflação da primeira quinzena de novembro (24 nov) e balança comercial de outubro (27 nov)."
+     },
+     {
+      "t": "A próxima semana",
+      "x": "O peso continuará muito atrelado ao que acontecer nos EUA: as eleições de meio de mandato de terça-feira, dia 3, e, como de costume, o relatório de emprego de sexta-feira."
+     }
+    ],
+    "scm": "Para o fim de semana: se você tem pagamentos em dólares em novembro, avalie fazer hedge de uma parte desde já; e orce as importações com um câmbio mais alto que o do início de outubro (perto de 18.0)."
+   }
   }
  },
  "lectura": {
@@ -455,6 +521,123 @@
      "por_que": "They set Banxico's tone and confirm whether export momentum continues."
     }
    ]
+  },
+  "pt": {
+   "titular": "Mais volume, custos mais altos: é preciso proteger a margem da cadeia",
+   "resumen": "A semana fecha com uma combinação incômoda para operações: a demanda exportadora do México segue firme, mas os três custos que mais pesam na cadeia (câmbio, energia e financiamento) se movem contra ao mesmo tempo. O peso mexicano perto de 18.90 por dólar, o petróleo acima de 100 dólares e juros reais ainda altos comprimem a margem de quem importa insumos, transporta carga por rodovia e financia estoque. Com eleições nos EUA na terça-feira, 3 de novembro, e o Fed sem reunião até 9 de dezembro, a volatilidade seguirá sendo o cenário-base de novembro: convém garantir custos agora e deixar flexibilidade no volume.",
+   "temas": [
+    {
+     "tema": "Peso e juros",
+     "nivel": "alto",
+     "palancas": [
+      "Custo de importação",
+      "Capital de giro",
+      "Contratos em dólares"
+     ],
+     "analisis": "O diferencial entre a taxa do Banxico (6.50%) e a do Fed (teto de 4.00%) é o mais estreito em uma década, e isso tira atratividade do peso para o carry trade. O FIX de 29 de outubro (18.81) foi o mais alto desde agosto de 2025, e o peso fechou a semana perto de 18.90, cerca de 4.5% mais fraco do que no fim de setembro.",
+     "implicacion": "Cada ponto de depreciação é repassado quase um a um ao custo posto na planta de insumos, peças de reposição e equipamentos cotados em dólares; em categorias com alto conteúdo importado, o impacto no custo das vendas pode aparecer no fechamento de novembro.",
+     "acciones": [
+      "Atualizar o câmbio orçamentário de novembro e dezembro para uma faixa de 18.80–19.20 e recalcular o custo-padrão dos SKUs mais expostos.",
+      "Fazer hedge com contratos a termo ou compras antecipadas de uma parte dos pagamentos em dólares das próximas 4 a 8 semanas.",
+      "Revisar cláusulas de ajuste cambial com clientes e fornecedores para dividir o risco."
+     ],
+     "horizonte": "Imediato (próximas 4 semanas)",
+     "indicador": "FIX do Banxico e diferencial de juros México–EUA"
+    },
+    {
+     "tema": "Energia e transporte",
+     "nivel": "alto",
+     "palancas": [
+      "Fretes",
+      "Sobretaxas de combustível",
+      "Custo por quilômetro"
+     ],
+     "analisis": "O WTI fechou perto de 103 dólares e o Brent perto de 112, com altas na sexta-feira mesmo com a queda das bolsas. Somam-se a isso sinais de estresse na oferta de transporte: nos EUA, já são 221 falências de pequenas transportadoras em 2026.",
+     "implicacion": "As sobretaxas de combustível são ajustadas com defasagem de uma a duas semanas, então o custo de frete de novembro já vem mais alto. Além disso, menos transportadoras pequenas significam menos capacidade spot e mais poder de negociação para as grandes.",
+     "acciones": [
+      "Auditar as fórmulas de sobretaxa de combustível (base, gatilho e periodicidade) antes da concorrência de tarifas de 2027.",
+      "Consolidar cargas e revisar frequências para reduzir quilômetros rodados vazios.",
+      "Avaliar a saúde financeira das transportadoras críticas e ter capacidade de reserva."
+     ],
+     "horizonte": "1 a 3 meses",
+     "indicador": "Preço do diesel, Brent e falências ou saídas de transportadoras"
+    },
+    {
+     "tema": "Inflação e custo do estoque",
+     "nivel": "medio",
+     "palancas": [
+      "Estoque",
+      "Custo de capital",
+      "Níveis de serviço"
+     ],
+     "analisis": "A inflação segue acima das metas: 3.7% nos EUA, 3.8% na zona do euro e 3.62% no México (primeira quinzena de outubro). O Fed manteve sua taxa em 3.75–4.00% com dois votos a favor de uma alta, o que confirma juros altos por mais tempo.",
+     "implicacion": "Com uma taxa real próxima de 2.9 pontos no México, manter estoque custa mais em capital de giro do que há um ano; o estoque de segurança \"por via das dúvidas\" fica caro justamente quando a volatilidade convida a acumular.",
+     "acciones": [
+      "Segmentar o estoque por criticidade e variabilidade: proteger só os SKUs de alto impacto e reduzir a cobertura nos de baixo giro.",
+      "Recalcular os pontos de pedido com a variabilidade real dos lead times das últimas 12 semanas.",
+      "Negociar prazos de pagamento ou estoque em consignação com fornecedores-chave."
+     ],
+     "horizonte": "Trimestre",
+     "indicador": "Inflação quinzenal do INEGI (24 nov) e tom do Banxico"
+    },
+    {
+     "tema": "Demanda, manufatura e nearshoring",
+     "nivel": "medio",
+     "palancas": [
+      "Capacidade",
+      "Travessias de fronteira",
+      "Planejamento de demanda"
+     ],
+     "analisis": "O PIB do México cresceu 0.9% no trimestre e 3.2% na comparação anual no terceiro trimestre, e as exportações subiram 37.9% em setembro. Mas a composição é desigual: a produção de veículos leves caiu 15.1% em setembro por causa das tarifas e da revisão do T-MEC (USMCA), enquanto a eletrônica e os componentes ligados à IA puxam o crescimento.",
+     "implicacion": "A demanda não cresce de forma homogênea: há pressão de capacidade nas travessias de fronteira, no transporte rodoviário e nos armazéns do norte e do Bajío para eletrônicos, enquanto a cadeia automotiva ajusta seus programas para baixo.",
+     "acciones": [
+      "Revisar o S&OP por família de produto em vez de usar um crescimento médio.",
+      "Reservar capacidade de travessia e armazenagem para o pico de novembro e dezembro nos corredores de maior uso.",
+      "No setor automotivo, alinhar compras e estoque de componentes aos programas revisados das montadoras."
+     ],
+     "horizonte": "1 a 3 meses",
+     "indicador": "Balança comercial de outubro (INEGI, 27 nov) e produção automotiva"
+    },
+    {
+     "tema": "Mercados e risco",
+     "nivel": "bajo",
+     "palancas": [
+      "Risco de fornecedores",
+      "Investimento",
+      "Tecnologia"
+     ],
+     "analisis": "Wall Street fechou outubro com uma venda em tecnologia: o Nasdaq caiu 2.9% na sexta-feira e os semicondutores recuaram com força em Seul e Nova York, mesmo com os preços de memória ainda subindo. A Bolsa mexicana resistiu (+0.1%).",
+     "implicacion": "A queda das ações não barateia os componentes: a memória continua escassa. Para supply chain, o risco está nas alocações e nos preços de eletrônicos em 2027, mais do que na bolsa.",
+     "acciones": [
+      "Garantir volumes de memória e semicondutores para 2027 com contratos de prazo mais longo.",
+      "Identificar fornecedores de segundo nível expostos a juros altos e a um dólar forte."
+     ],
+     "horizonte": "Trimestre",
+     "indicador": "Preços de DRAM/NAND e resultados de fornecedores de eletrônicos"
+    }
+   ],
+   "vigilar": [
+    {
+     "cuando": "Dom 1 nov",
+     "evento": "Mudança de horário nos EUA",
+     "por_que": "Wall Street abrirá às 8:30 e fechará às 15:00, no horário da Cidade do México; ajuste as janelas de fechamento de câmbio e de operação com os EUA."
+    },
+    {
+     "cuando": "Ter 3 nov",
+     "evento": "Eleições de meio de mandato nos EUA",
+     "por_que": "Podem mexer com o dólar, o peso e a expectativa de política comercial e tarifária."
+    },
+    {
+     "cuando": "Sex 6 nov",
+     "evento": "Relatório de emprego dos EUA (data habitual)",
+     "por_que": "Um dado forte reforça a ideia de juros altos por mais tempo e pressiona o peso."
+    },
+    {
+     "cuando": "24 e 27 nov",
+     "evento": "Inflação quinzenal e balança comercial (INEGI)",
+     "por_que": "Definem o tom do Banxico e confirmam se o impulso exportador continua."
+    }
+   ]
   }
  },
  "mercados": [
@@ -544,7 +727,8 @@
    "grupo": "materia_prima",
    "valor": 103.08,
    "cambio": 1.06,
-   "unidad": "USD/barril"
+   "unidad": "USD/barril",
+   "name_pt": "Petróleo WTI"
   },
   {
    "nombre": "Petróleo Brent",
@@ -552,7 +736,8 @@
    "grupo": "materia_prima",
    "valor": 112.4,
    "cambio": 1.44,
-   "unidad": "USD/barril"
+   "unidad": "USD/barril",
+   "name_pt": "Petróleo Brent"
   },
   {
    "nombre": "Mezcla mexicana",
@@ -560,7 +745,8 @@
    "grupo": "materia_prima",
    "valor": 103.8,
    "cambio": -0.38,
-   "unidad": "USD/barril"
+   "unidad": "USD/barril",
+   "name_pt": "Mistura mexicana"
   },
   {
    "nombre": "Oro",
@@ -568,7 +754,8 @@
    "grupo": "materia_prima",
    "valor": 3886.34,
    "cambio": -3.36,
-   "unidad": "USD/onza"
+   "unidad": "USD/onza",
+   "name_pt": "Ouro"
   },
   {
    "nombre": "Cobre",
@@ -576,7 +763,8 @@
    "grupo": "materia_prima",
    "valor": 6.45,
    "cambio": -2.0,
-   "unidad": "USD/libra"
+   "unidad": "USD/libra",
+   "name_pt": "Cobre"
   },
   {
    "nombre": "Treasury 10 años",
@@ -584,7 +772,8 @@
    "grupo": "bono",
    "valor": 4.93,
    "cambio": -1,
-   "unidad": "%"
+   "unidad": "%",
+   "name_pt": "Título do Tesouro 10 anos"
   },
   {
    "nombre": "Bono M 10 años",
@@ -592,7 +781,8 @@
    "grupo": "bono",
    "valor": 9.31,
    "cambio": -3,
-   "unidad": "%"
+   "unidad": "%",
+   "name_pt": "Mbono 10 anos"
   },
   {
    "nombre": "Cetes 28 días",
@@ -600,7 +790,8 @@
    "grupo": "bono",
    "valor": 6.22,
    "cambio": -1,
-   "unidad": "%"
+   "unidad": "%",
+   "name_pt": "Cetes 28 dias"
   },
   {
    "nombre": "Bitcoin",
@@ -615,27 +806,32 @@
   {
    "fecha": "2026-11-01",
    "es": "EE. UU. atrasa su reloj: Wall Street abre 8:30 y cierra 15:00 (CDMX)",
-   "en": "US clocks go back: Wall Street opens 8:30 and closes 15:00 (Mexico City)"
+   "en": "US clocks go back: Wall Street opens 8:30 and closes 15:00 (Mexico City)",
+   "pt": "EUA atrasam o relógio: Wall Street abre às 8:30 e fecha às 15:00 (Cidade do México)"
   },
   {
    "fecha": "2026-11-03",
    "es": "Elecciones intermedias de EE. UU.",
-   "en": "US midterm elections"
+   "en": "US midterm elections",
+   "pt": "Eleições de meio de mandato dos EUA"
   },
   {
    "fecha": "2026-11-24",
    "es": "INEGI: inflación de la 1a quincena de noviembre",
-   "en": "INEGI: first-half November inflation"
+   "en": "INEGI: first-half November inflation",
+   "pt": "INEGI: inflação da 1ª quinzena de novembro"
   },
   {
    "fecha": "2026-11-27",
    "es": "INEGI: balanza comercial de octubre",
-   "en": "INEGI: October trade balance"
+   "en": "INEGI: October trade balance",
+   "pt": "INEGI: balança comercial de outubro"
   },
   {
    "fecha": "2026-12-09",
    "es": "Decisión de la Fed, con nuevas proyecciones",
-   "en": "Fed decision, with new projections"
+   "en": "Fed decision, with new projections",
+   "pt": "Decisão do Fed, com novas projeções"
   }
  ]
 }

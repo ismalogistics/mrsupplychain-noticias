@@ -66,5 +66,27 @@
    "u": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/inpc/inpc_1q2026_10.pdf"
   }
  ],
- "fin_de_semana": true
+ "fin_de_semana": true,
+ "pt": {
+  "titular": "A Bolsa mexicana resiste e caminha para seu melhor mês em três anos; o peso segue pressionado",
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "Enquanto Wall Street caía, o IPC se manteve perto de 69,860 pontos (+0.1% no último dado disponível). O peso mexicano operou perto de 18.90 por dólar, e o FIX de 29 de outubro (18.81) foi o mais alto desde agosto de 2025. O INEGI informou que o PIB do 3º trimestre cresceu 0.9% no trimestre e 3.2% na comparação anual."
+   },
+   {
+    "t": "Por quê",
+    "x": "A economia mostra força exportadora (exportações +37.9% em setembro), mas o diferencial de juros com os EUA (6.50% contra 4.00%) é o mais estreito em uma década e tira atratividade do peso."
+   },
+   {
+    "t": "O que se espera",
+    "x": "O mercado seguirá atento aos sinais do Banxico rumo à sua próxima decisão, com uma inflação que subiu para 3.62% na primeira quinzena de outubro. Na agenda do INEGI: inflação da primeira quinzena de novembro (24 nov) e balança comercial de outubro (27 nov)."
+   },
+   {
+    "t": "A próxima semana",
+    "x": "O peso continuará muito atrelado ao que acontecer nos EUA: as eleições de meio de mandato de terça-feira, dia 3, e, como de costume, o relatório de emprego de sexta-feira."
+   }
+  ],
+  "scm": "Para o fim de semana: se você tem pagamentos em dólares em novembro, avalie fazer hedge de uma parte desde já; e orce as importações com um câmbio mais alto que o do início de outubro (perto de 18.0)."
+ }
 }
