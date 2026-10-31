@@ -1,0 +1,21 @@
+#msc-news { background: #fff; border-bottom: 1px solid #e5e5e5; padding: 44px 0 48px; }
+#msc-news .msn-wrap { max-width: 1184px; margin: 0 auto; padding: 0 20px; }
+#msc-news .msn-hd { display: flex; justify-content: space-between; align-items: flex-end; gap: 16px; flex-wrap: wrap; }
+#msc-news .msn-k { margin: 0 0 6px; font: 600 12px ui-monospace, "IBM Plex Mono", SFMono-Regular, Menlo, monospace; letter-spacing: .14em; text-transform: uppercase; color: #a83246; }
+#msc-news .msn-h { margin: 0; font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; font-size: clamp(1.5rem, 2.6vw, 2.1rem); line-height: 1.15; letter-spacing: -.015em; color: #15171b; }
+#msc-news .msn-all { font-weight: 600; font-size: 15px; color: #1e4f9c; text-decoration: none; white-space: nowrap; }
+#msc-news .msn-all:hover { text-decoration: underline; }
+#msc-news .msn-tk { display: flex; flex-wrap: wrap; gap: 8px 22px; margin: 18px 0 20px; font-size: 13.5px; color: #3d4148; font-variant-numeric: tabular-nums; }
+#msc-news .msn-tk b { font-weight: 600; color: #15171b; }
+#msc-news .msn-tk i { font-style: normal; font-weight: 700; }
+#msc-news .msn-tk i.up { color: #1f8a5b; } #msc-news .msn-tk i.down { color: #c0392b; }
+#msc-news .msn-upd { margin-left: auto; color: #6a6f77; font-size: 12.5px; }
+#msc-news .msn-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+#msc-news .msn-card { display: flex; flex-direction: column; gap: 8px; padding: 18px 20px; border: 1px solid #e3e0d8; border-top: 4px solid #1e4f9c; border-radius: 10px; background: #faf9f6; text-decoration: none; color: #15171b; transition: box-shadow .15s, transform .15s; }
+#msc-news .msn-card.latam { border-top-color: #1f8a5b; } #msc-news .msn-card.mexico { border-top-color: #a83246; }
+#msc-news .msn-card:hover { box-shadow: 0 6px 22px rgba(0,0,0,.07); transform: translateY(-2px); }
+#msc-news .msn-m { font: 600 11.5px ui-monospace, "IBM Plex Mono", SFMono-Regular, Menlo, monospace; letter-spacing: .1em; text-transform: uppercase; color: #6a6f77; }
+#msc-news .msn-t { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; font-size: 1.2rem; font-weight: 700; line-height: 1.25; }
+#msc-news .msn-s { font-size: 14px; line-height: 1.5; color: #4a4f57; }
+#msc-news .msn-r { margin-top: auto; font-size: 14px; font-weight: 600; color: #1e4f9c; }
+@media (max-width: 860px) { #msc-news .msn-grid { grid-template-columns: minmax(0, 1fr); } #msc-news .msn-upd { margin-left: 0; width: 100%; } }
