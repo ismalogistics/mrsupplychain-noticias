@@ -11,6 +11,9 @@ from datetime import datetime, timezone
 
 import yfinance as yf
 
+# Acciones en circulación aproximadas, sólo para emisoras sin valor de mercado en Yahoo (tamaño del mosaico).
+SHARES = {'GFNORTEO.MX': 2.88e9}
+
 OUT = os.path.join(os.path.dirname(__file__), '..', 'data', 'heatmaps.json')
 
 # Sectores: tec, com, cons (consumo discrecional), basic (consumo básico), fin, salud, ind, ener, mat, util, inmo
@@ -87,7 +90,7 @@ INDICES = [
         ('015760.KS', 'KEPCO', 'util'),
     ]},
     {'id': 'ipc', 'es': 'IPC · BMV', 'en': 'S&P/BMV IPC', 'mercado': 'mexico', 'acciones': [
-        ('AMXB.MX', 'América Móvil', 'com'), ('TLEVISACPO.MX', 'Televisa', 'com'), ('MEGACPO.MX', 'Megacable', 'com'),
+        ('AMXB.MX', 'América Móvil', 'com'), ('TLEVISACPO.MX', 'Televisa', 'com'),
         ('WALMEX.MX', 'Walmex', 'basic'), ('FEMSAUBD.MX', 'FEMSA', 'basic'), ('AC.MX', 'Arca Continental', 'basic'), ('KOFUBL.MX', 'Coca-Cola FEMSA', 'basic'),
         ('BIMBOA.MX', 'Bimbo', 'basic'), ('GRUMAB.MX', 'Gruma', 'basic'), ('KIMBERA.MX', 'Kimberly-Clark MX', 'basic'), ('CHDRAUIB.MX', 'Chedraui', 'basic'),
         ('CUERVO.MX', 'Becle (Cuervo)', 'basic'),
@@ -153,6 +156,8 @@ def main():
                 mc = float(tk.fast_info['shares']) * quotes[t]['p']
             except Exception:
                 mc = None
+        if not ok(mc) and t in SHARES:
+            mc = SHARES[t] * quotes[t]['p']
         if ok(mc):
             caps[t] = float(mc)
         else:
