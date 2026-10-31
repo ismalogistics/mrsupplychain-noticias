@@ -31,6 +31,8 @@ FEEDS = [
     ('mexico', 'medio', 'T21', 'https://t21.com.mx/feed/'),
 ]
 MAX_POR_FUENTE = 6
+# Publicaciones de carrera personal en Reddit (no son noticia de supply chain).
+RUIDO = re.compile(r'\b(intern(ship)?s?|resume|cv|salary|career|job offer|new role|this role|interview|hiring me|should i|advice for me|degree|college|university|graduat)', re.I)
 MAX_TOTAL = 60
 VENTANA = timedelta(days=4)
 
@@ -76,6 +78,8 @@ def main():
         for e in entries:
             f = fecha(e)
             if not f or now - f > VENTANA or not e.get('link') or not e.get('title'):
+                continue
+            if red == 'reddit' and RUIDO.search(e.title):
                 continue
             items.append({'grupo': grupo, 'red': red, 'fuente': fuente, 'titulo': limpio(e.title, 180),
                           'resumen': limpio(e.get('summary', '')), 'url': e.link,

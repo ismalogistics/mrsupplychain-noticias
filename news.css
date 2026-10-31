@@ -30,7 +30,7 @@ a { color: inherit; }
 /* Barra utilitaria */
 .nx-util { background: var(--ink); color: #d9dbe0; font-size: 12.5px; }
 .nx-utilin { display: flex; align-items: center; gap: 16px; min-height: 38px; flex-wrap: wrap; }
-.nx-today { text-transform: capitalize; }
+.nx-today { text-transform: none; }
 .nx-live { display: inline-flex; align-items: center; gap: 8px; color: #fff; }
 .nx-live::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: #e5484d; box-shadow: 0 0 0 0 rgba(229,72,77,.6); animation: nx-pulse 2s infinite; }
 @keyframes nx-pulse { 0% { box-shadow: 0 0 0 0 rgba(229,72,77,.55); } 70% { box-shadow: 0 0 0 8px rgba(229,72,77,0); } 100% { box-shadow: 0 0 0 0 rgba(229,72,77,0); } }
@@ -308,3 +308,24 @@ a { color: inherit; }
 .nx-arch .t { font-family: var(--serif); font-size: 1.05rem; font-weight: 600; }
 .nx-arch li a:hover .t { color: var(--accent); }
 @media (max-width: 640px) { .nx-arch li a { grid-template-columns: 1fr; gap: 2px; } }
+/* Lectura: veredicto + resumen a la izquierda, "En el radar" a la derecha */
+.nx-lechead { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); gap: 20px 48px; align-items: start; margin-bottom: 30px; }
+.nx-lechead .nx-exec { margin-bottom: 0; }
+.nx-lechead .nx-watch { margin-top: 6px; background: var(--paper); border: 1px solid var(--line); border-radius: 6px; padding: 18px 20px; }
+.nx-lechead .nx-watch:empty { display: none; }
+.nx-lechead .nx-watch ol { grid-template-columns: 1fr; gap: 14px; }
+@media (max-width: 960px) { .nx-lechead { grid-template-columns: minmax(0, 1fr); } }
+
+/* Lectura: sin huecos en la cuadrícula de temas */
+@media (min-width: 1100px) {
+  .nx-themes:has(.deep) { grid-template-columns: repeat(6, minmax(0, 1fr)); }
+  .nx-themes .deep { grid-column: span 2; }
+  .nx-themes .deep:nth-child(4):nth-last-child(2), .nx-themes .deep:nth-child(5):last-child { grid-column: span 3; }
+  .nx-themes .deep:first-child:nth-last-child(4), .nx-themes .deep:first-child:nth-last-child(4) ~ .deep { grid-column: span 3; }
+  .nx-themes .deep:nth-child(4):last-child { grid-column: span 6; }
+}
+@media (min-width: 700px) and (max-width: 1099px) {
+  .nx-themes:has(.deep) { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .nx-themes .deep:last-child:nth-child(odd) { grid-column: span 2; }
+}
+.nx-tm { margin: 8px 0 0; font-size: 12px; color: #9a9ea6; line-height: 1.5; }

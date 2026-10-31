@@ -41,7 +41,8 @@
   /* ---------- Encabezado ---------- */
   function renderToday() {
     var s = document.getElementById('nx-today'); if (!s) return;
-    s.textContent = new Date().toLocaleDateString(loc(), { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric', timeZone: 'America/Mexico_City' });
+    var txt = new Date().toLocaleDateString(loc(), { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric', timeZone: 'America/Mexico_City' });
+    s.textContent = txt.charAt(0).toUpperCase() + txt.slice(1);
   }
   function renderStamp() {
     var s = document.getElementById('nx-stamp'); if (!s || !state.latest) return;
@@ -186,7 +187,7 @@
   function renderMap() {
     var box = document.getElementById('nx-map'); if (!box || !state.latest || !state.world || !window.d3 || !window.topojson || !d3.geoNaturalEarth1) return;
     box.replaceChildren();
-    var en0 = state.lang === 'en', view = state.mapView || 'mundo';
+    var en0 = state.lang === 'en', view = state.mapView || (window.innerWidth < 700 ? 'americas' : 'mundo');
     var tabs = document.getElementById('nx-map-tabs');
     if (tabs) {
       tabs.replaceChildren();

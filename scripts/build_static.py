@@ -206,7 +206,7 @@ def pagina_brief(b, prev_b, next_b):
     </article>
   </main>
   <footer class="nx-foot"><div class="nx-wrap"><p><a href="/">{E(MARCA)}</a> · <a href="../../archivo/"><span data-lang="es">Archivo</span><span data-lang="en">Archive</span></a> · <a href="../../feed.xml">RSS</a></p>
-    <p class="nx-disc"><span data-lang="es">Contenido informativo elaborado con apoyo de IA a partir de las fuentes públicas citadas. No es recomendación de inversión.</span><span data-lang="en">Informational content prepared with AI assistance from the public sources cited. Not investment advice.</span></p></div></footer>
+    <p class="nx-disc"><span data-lang="es">Contenido informativo elaborado con apoyo de IA a partir de las fuentes públicas citadas. No es recomendación de inversión.</span><span data-lang="en">Informational content prepared with AI assistance from the public sources cited. Not investment advice.</span></p><p class="nx-tm"><span data-lang="es">Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</span><span data-lang="en">Mr. Supply Chain® is a trademark registered with the Mexican Institute of Industrial Property (IMPI) and is used exclusively in Mexico. It is not affiliated with brands, people or companies using similar names in other countries.</span></p></div></footer>
 </body>
 </html>
 '''
@@ -248,7 +248,7 @@ def pagina_archivo(lista):
     <h1 class="nx-h2"><span data-lang="es">Archivo de briefs</span><span data-lang="en">Brief archive</span></h1>
     {''.join(filas)}
   </main>
-  <footer class="nx-foot"><div class="nx-wrap"><p><a href="/">{E(MARCA)}</a> · <a href="../feed.xml">RSS</a></p></div></footer>
+  <footer class="nx-foot"><div class="nx-wrap"><p><a href="/">{E(MARCA)}</a> · <a href="../feed.xml">RSS</a></p><p class="nx-tm"><span data-lang="es">Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</span><span data-lang="en">Mr. Supply Chain® is a trademark registered with the Mexican Institute of Industrial Property (IMPI) and is used exclusively in Mexico. It is not affiliated with brands, people or companies using similar names in other countries.</span></p></div></footer>
 </body>
 </html>
 '''
@@ -279,6 +279,7 @@ def feed(lista, ahora):
   <atom:link href="{SITE}feed.xml" rel="self" type="application/rss+xml"/>
   <description>Briefs diarios de mercados (apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
   <language>es-MX</language>
+  <copyright>Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</copyright>
   <lastBuildDate>{format_datetime(iso_pub(lista[0]) if lista else ahora)}</lastBuildDate>
 {chr(10).join(items)}
 </channel>
