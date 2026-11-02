@@ -1,312 +1,225 @@
 {
- "actualizado": "2026-11-02T16:10:00Z",
- "momento": "apertura",
+ "actualizado": "2026-11-02T17:30:00Z",
+ "momento": "mediodia",
  "briefs": {
   "global": {
-   "id": "2026-11-02-apertura-global",
+   "id": "2026-11-02-mediodia-global",
    "fecha": "2026-11-02",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "global",
-   "hora": "09:30 CDMX",
-   "fin_de_semana": true,
+   "hora": "11:30 CDMX",
    "es": {
-    "titular": "Wall Street rebota y el petróleo baja de 100 dólares por la vía diplomática con Irán; la semana trae elecciones, Banxico y empleo",
+    "titular": "El petróleo se hunde 7% y Wall Street amplía el rebote, con el Dow arriba de 1% antes de Apple y de las elecciones",
     "bloques": [
      {
-      "t": "Premercado",
-      "x": "Fin de semana: EE. UU. e Irán hablaron en Doha con mediación de Qatar y Washington se inclinó por negociar; la OPEP+ dejó sin cambio sus cuotas de diciembre y hackers sacaron cerca de 6,300 millones de dólares de Binance. Los futuros abrieron el domingo en alza (S&P +0.5%, Nasdaq 100 +0.9%). Al abrir, el S&P 500 sube 0.45% (7,613.87), el Dow 0.78% (52,173.40) y el Nasdaq 0.63% (25,596.07). El WTI cae 6.3% a 97.58 dólares, el Treasury a 10 años baja a 4.90% y el euro sube a 1.1199 dólares."
+      "t": "Lo que se esperaba",
+      "x": "El brief de apertura anticipaba un rebote moderado (S&P 500 +0.45%) con el WTI abajo de 100 dólares por la vía diplomática con Irán, un ISM manufacturero fuerte (55.5) y la atención puesta en Apple después del cierre."
      },
      {
-      "t": "Asia y Europa",
-      "x": "Asia cerró mixta: el KOSPI rebotó 2.24% (5,859.08) con Samsung y SK hynix, mientras el Nikkei cedió 0.33% (63,081.86) por la caída de 15.8% de Kioxia; Shanghái subió 1.0% pese a que el PMI manufacturero oficial de China cayó a 49.3. Europa opera plana: la Stoxx 600 llegó a bajar 0.3% y luego quedó en +0.05%; Alstom se desplomó tras recortar su margen."
+      "t": "Cómo va",
+      "x": "A las 11:07 CDMX, el Dow sube 1.01% (52,295.40), el S&P 500 0.57% (7,622.98) y el Nasdaq 0.67% (25,607.07). El WTI cae 7.37% a 96.45 dólares y el Brent 7.51% a 104.91; el Treasury a 10 años baja a 4.88%, el oro sube 2% (3,977) y la plata 4.2% (50.93). Europa cerró al alza: el Euro Stoxx 50 ganó cerca de 0.9%."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "El ISM manufacturero de octubre salió en 55.5 (54.5 previo), con producción en 59.0, precios pagados en 75.2 y entregas de proveedores más lentas (59.1). Después del cierre reporta Apple (se esperan 2 dólares por acción e ingresos por 113,460 millones); también Palantir y Marriott. Habla Goolsbee, de la Fed. En México la BMV no opera hoy por Día de Muertos."
-     },
-     {
-      "t": "La semana que viene",
-      "x": "Martes 3: elecciones intermedias en EE. UU. Miércoles 4: decisión del Copom de Brasil (Selic 13.75%) e ISM de servicios. Jueves 5: decisión de Banxico (6.50%, se espera pausa) y Banco de Inglaterra. Viernes 6: empleo de octubre en EE. UU. (desempleo esperado 4.2%). En resultados: AMD, Qualcomm, Arm, Uber y McDonald's."
+      "t": "Lo que sorprendió",
+      "x": "La caída del crudo fue del doble de lo esperado: Irán dijo que podría reabrir Ormuz si EE. UU. acepta terminar la guerra, aunque siguen los ataques a buques. Marvell acordó comprar Lumentum, y Oracle cae cerca de 5% tras anunciar una emisión de acciones y bonos para IA. El plazo de la huelga de vigilantes en Los Ángeles–Long Beach es ahora el miércoles 4 a las 17:00 (hora del Pacífico)."
      }
     ],
-    "scm": "El petróleo abajo de 100 dólares es un alivio que todavía no llega al diésel: no renegocies recargos a la baja hasta ver dos semanas de precios estables. Con el ISM marcando entregas más lentas y precios de insumos altos, mantén el inventario de seguridad en materiales críticos y aprovecha el repunte del peso para cubrir pagos en dólares."
+    "scm": "El crudo a 96 dólares abre la puerta a recargos más bajos, pero espera a que el diésel lo refleje y a que pasen las elecciones antes de renegociar. Si tienes carga transpacífica por San Pedro, el riesgo de huelga se adelantó al miércoles: confirma hoy citas y rutas alternas (Oakland, Lázaro Cárdenas). Con plata y cobre al alza, fija precio de componentes de cobre para el primer trimestre."
    },
    "en": {
-    "titular": "Wall Street bounces and oil drops below $100 on the diplomatic track with Iran; the week brings elections, Banxico and jobs",
+    "titular": "Oil sinks 7% and Wall Street extends its rebound, with the Dow up more than 1% ahead of Apple and the elections",
     "bloques": [
      {
-      "t": "Pre-market",
-      "x": "Over the weekend, the US and Iran held talks in Doha with Qatari mediation and Washington leaned toward negotiating; OPEC+ left its December quotas unchanged, and hackers drained about $6.3 billion from Binance. Futures opened higher on Sunday (S&P +0.5%, Nasdaq 100 +0.9%). At the open, the S&P 500 is up 0.45% (7,613.87), the Dow 0.78% (52,173.40) and the Nasdaq 0.63% (25,596.07). WTI is down 6.3% at $97.58, the 10-year Treasury yield eases to 4.90% and the euro rises to $1.1199."
+      "t": "What was expected",
+      "x": "The opening brief expected a moderate rebound (S&P 500 +0.45%) with WTI below $100 on the diplomatic track with Iran, a strong ISM manufacturing reading (55.5) and focus on Apple after the close."
      },
      {
-      "t": "Asia and Europe",
-      "x": "Asia closed mixed: the KOSPI rebounded 2.24% (5,859.08) on Samsung and SK hynix, while the Nikkei slipped 0.33% (63,081.86) on a 15.8% drop in Kioxia; Shanghai rose 1.0% even as China's official manufacturing PMI fell to 49.3. Europe is flat: the Stoxx 600 was down as much as 0.3% before settling at +0.05%; Alstom plunged after cutting its margin outlook."
+      "t": "How it is going",
+      "x": "At 11:07 Mexico City time, the Dow is up 1.01% (52,295.40), the S&P 500 0.57% (7,622.98) and the Nasdaq 0.67% (25,607.07). WTI falls 7.37% to $96.45 and Brent 7.51% to $104.91; the 10-year Treasury eases to 4.88%, gold rises 2% (3,977) and silver 4.2% (50.93). Europe closed higher, with the Euro Stoxx 50 up about 0.9%."
      },
      {
-      "t": "What to expect today",
-      "x": "The October ISM manufacturing index came in at 55.5 (54.5 prior), with production at 59.0, prices paid at 75.2 and slower supplier deliveries (59.1). Apple reports after the close (expected EPS of $2 and revenue of $113.46 billion), along with Palantir and Marriott. The Fed's Goolsbee speaks. In Mexico, the BMV is closed today for Day of the Dead."
-     },
-     {
-      "t": "The week ahead",
-      "x": "Tuesday 3: US midterm elections. Wednesday 4: Brazil's Copom decision (Selic 13.75%) and the ISM services index. Thursday 5: Banxico decision (6.50%, a pause is expected) and the Bank of England. Friday 6: US October jobs report (unemployment expected at 4.2%). Earnings: AMD, Qualcomm, Arm, Uber and McDonald's."
+      "t": "What surprised",
+      "x": "The drop in crude was twice what was expected: Iran said it could reopen Hormuz if the US agrees to end the war, although attacks on ships continue. Marvell agreed to buy Lumentum, and Oracle falls about 5% after announcing a stock and bond offering for AI. The Los Angeles–Long Beach watchmen strike deadline is now Wednesday the 4th at 5 p.m. Pacific time."
      }
     ],
-    "scm": "Oil below $100 is relief that hasn't reached diesel yet: don't renegotiate surcharges lower until you see two weeks of stable prices. With the ISM showing slower deliveries and high input prices, keep safety stock on critical materials and use the peso's rebound to hedge dollar payments."
+    "scm": "Crude at $96 opens the door to lower surcharges, but wait for diesel to reflect it and for the elections to pass before renegotiating. If you have transpacific cargo through San Pedro, the strike risk moved up to Wednesday: confirm appointments and alternate routes (Oakland, Lázaro Cárdenas) today. With silver and copper rising, lock in prices for copper components for the first quarter."
    },
    "pt": {
-    "titular": "Wall Street sobe e o petróleo cai abaixo de 100 dólares com a via diplomática com o Irã; a semana traz eleições, Banxico e emprego",
+    "titular": "O petróleo afunda 7% e Wall Street amplia a alta, com o Dow acima de 1% antes da Apple e das eleições",
     "bloques": [
      {
-      "t": "Pré-mercado",
-      "x": "No fim de semana, EUA e Irã conversaram em Doha com mediação do Catar, e Washington se inclinou a negociar; a OPEP+ manteve suas cotas de dezembro, e hackers tiraram cerca de 6,300 milhões de dólares da Binance. Os futuros abriram em alta no domingo (S&P +0.5%, Nasdaq 100 +0.9%). Na abertura, o S&P 500 sobe 0.45% (7,613.87), o Dow 0.78% (52,173.40) e o Nasdaq 0.63% (25,596.07). O WTI cai 6.3%, para 97.58 dólares, o Treasury de 10 anos recua para 4.90% e o euro sobe para 1.1199 dólar."
+      "t": "O que se esperava",
+      "x": "O brief de abertura previa uma alta moderada (S&P 500 +0,45%) com o WTI abaixo de 100 dólares pela via diplomática com o Irã, um ISM industrial forte (55,5) e atenção à Apple após o fechamento."
      },
      {
-      "t": "Ásia e Europa",
-      "x": "A Ásia fechou mista: o KOSPI subiu 2.24% (5,859.08) com Samsung e SK hynix, enquanto o Nikkei cedeu 0.33% (63,081.86) pela queda de 15.8% da Kioxia; Xangai subiu 1.0%, apesar de o PMI industrial oficial da China ter caído para 49.3. A Europa opera estável: o Stoxx 600 chegou a cair 0.3% e depois ficou em +0.05%; a Alstom despencou após cortar sua margem."
+      "t": "Como está",
+      "x": "Às 11h07 (Cidade do México), o Dow sobe 1,01% (52.295,40), o S&P 500 0,57% (7.622,98) e o Nasdaq 0,67% (25.607,07). O WTI cai 7,37% para 96,45 dólares e o Brent 7,51% para 104,91; o Treasury de 10 anos recua para 4,88%, o ouro sobe 2% (3.977) e a prata 4,2% (50,93). A Europa fechou em alta, com o Euro Stoxx 50 subindo cerca de 0,9%."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "O ISM industrial de outubro saiu em 55.5 (54.5 antes), com produção em 59.0, preços pagos em 75.2 e entregas de fornecedores mais lentas (59.1). Depois do fechamento, a Apple divulga resultados (espera-se lucro de 2 dólares por ação e receita de 113,460 milhões), assim como Palantir e Marriott. Goolsbee, do Fed, discursa. No México, a BMV não opera hoje por causa do Dia dos Mortos."
-     },
-     {
-      "t": "A semana que vem",
-      "x": "Terça, 3: eleições de meio de mandato nos EUA. Quarta, 4: decisão do Copom (Selic em 13.75%) e ISM de serviços. Quinta, 5: decisão do Banxico (6.50%, espera-se pausa) e do Banco da Inglaterra. Sexta, 6: emprego de outubro nos EUA (desemprego esperado de 4.2%). Resultados: AMD, Qualcomm, Arm, Uber e McDonald's."
+      "t": "O que surpreendeu",
+      "x": "A queda do petróleo foi o dobro do esperado: o Irã disse que poderia reabrir Ormuz se os EUA aceitarem encerrar a guerra, embora os ataques a navios continuem. A Marvell fechou acordo para comprar a Lumentum, e a Oracle cai cerca de 5% após anunciar emissão de ações e títulos para IA. O prazo da greve dos vigias em Los Angeles–Long Beach passou para quarta-feira, dia 4, às 17h (horário do Pacífico)."
      }
     ],
-    "scm": "O petróleo abaixo de 100 dólares é um alívio que ainda não chegou ao diesel: não renegocie sobretaxas para baixo até ver duas semanas de preços estáveis. Com o ISM indicando entregas mais lentas e insumos caros, mantenha o estoque de segurança de materiais críticos e aproveite a recuperação do peso mexicano para fazer hedge de pagamentos em dólares."
+    "scm": "O petróleo a 96 dólares abre espaço para sobretaxas menores, mas espere o diesel refletir a queda e as eleições passarem antes de renegociar. Se você tem carga transpacífica por San Pedro, o risco de greve foi antecipado para quarta-feira: confirme hoje agendamentos e rotas alternativas (Oakland, Lázaro Cárdenas). Com prata e cobre em alta, trave o preço de componentes de cobre para o primeiro trimestre."
    },
    "fuentes": [
     {
-     "t": "Reuters vía Finwire — apertura de Wall Street, 2 nov 2026",
-     "u": "https://finwire.io/news/stock-markets-news/us-stocks-open-higher-as-ai-trade-steadies-oil-falls"
+     "t": "FreshFruitPortal: nueva fecha límite de huelga en LA–Long Beach",
+     "u": "https://www.freshfruitportal.com/news/2026/11/02/la-long-beach-strike/"
     },
     {
-     "t": "Yahoo Finance — mercados en vivo, 2 nov 2026",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+     "t": "SupplyChainBrain: el plazo de huelga en Long Beach pasa al 4 de noviembre",
+     "u": "https://www.supplychainbrain.com/articles/45135-port-workers-employers-push-long-beach-strike-threat-to-nov-4"
     },
     {
-     "t": "Aju Press — cierre de Seúl y Tokio",
-     "u": "https://www.ajupress.com/view/20261102164546165"
-    },
-    {
-     "t": "Reuters vía FMT — Europa y petróleo",
-     "u": "https://www.freemalaysiatoday.com/category/business/2026/11/02/european-stocks-flat-oil-drops-as-midterm-caution-prevails"
-    },
-    {
-     "t": "TipRanks — futuros y Brent",
-     "u": "https://tipranks.com/news/stock-market-today-nov-2-futures-rise-ahead-of-earnings-and-midterm-elections-oil-prices-fall"
+     "t": "SEC: 8-K de Marvell Technology (acuerdo con Lumentum)",
+     "u": "https://www.sec.gov/Archives/edgar/data/0001835632/000119312526442714/d81187d8k.htm"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-02-apertura-latam",
+   "id": "2026-11-02-mediodia-latam",
    "fecha": "2026-11-02",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "latam",
-   "hora": "10:10 CDMX",
-   "fin_de_semana": true,
+   "hora": "11:35 CDMX",
    "es": {
-    "titular": "Brasil y Colombia no operan por feriado; Chile crece apenas 0.2% con la minería en −12.1% y el cobre sube",
+    "titular": "Canadá y Chile acompañan el rebote; Brasil y Colombia siguen sin operar y el real y el peso colombiano se debilitan",
     "bloques": [
      {
-      "t": "Premercado",
-      "x": "Fin de semana largo en buena parte de la región: Brasil (Finados), Colombia (Todos los Santos) y México (Día de Muertos) no tienen sesión hoy, así que el Ibovespa sigue en 167,922 (−0.75% el viernes) y el fondo que replica al COLCAP en −1.15%, ambos con datos del 30 de octubre. Donde sí hay operación, el arranque es positivo: el S&P/TSX de Canadá sube 0.93% (35,952.55) y en Nueva York los fondos de Perú (EPU, +2.44%), Chile (ECH, +1.53%) y Argentina (ARGT, +1.11%) rebotan tras la venta del viernes."
+      "t": "Lo que se esperaba",
+      "x": "El brief de apertura anticipaba una sesión delgada en la región, con Brasil, Colombia y México cerrados por feriados, un arranque positivo en Canadá y en los fondos de Perú, Chile y Argentina, y al cobre apoyado por la caída de 12.1% de la minería chilena."
      },
      {
-      "t": "Contexto",
-      "x": "El viernes el Banco de la República de Colombia mantuvo su tasa en 12.25% en una decisión dividida (4 votos contra 3 que pedían subir 25 puntos). En monedas, el dólar sube 0.97% frente al real (5.4369) y 1.57% frente al peso colombiano (3,224.49), con poca liquidez por los feriados, mientras el peso chileno se aprecia 0.47% (983.27), el sol queda estable (3.4567) y el peso argentino cede 0.29% (1,543). El petróleo abajo de 100 dólares (WTI 97.58) alivia a los importadores de combustible de la región."
+      "t": "Cómo va",
+      "x": "A las 11:28 CDMX, el S&P/TSX de Canadá sube 1.14% (36,027.2) y el fondo de Argentina (ARGT) 0.24%; el Ibovespa sigue en 167,922 (cierre del 30 de octubre). En monedas, el peso chileno se aprecia 1.12% (976.8 por dólar) y el peso mexicano 1.61% (18.55), mientras el real se debilita 0.97% (5.44) y el peso colombiano 1.57% (3,224) con poca liquidez por los feriados. El cobre sube 1.4% a 6.55 dólares por libra."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "Chile publicó el Imacec de septiembre: +0.2% anual, con la minería en −12.1% por menores leyes de cobre y la suspensión temporal de algunas faenas, mientras la actividad no minera creció 2.0%. Esa menor oferta chilena empuja al cobre, que sube 0.78% a 6.51 dólares por libra. Brasil y Colombia reabren mañana."
-     },
-     {
-      "t": "La semana que viene",
-      "x": "Miércoles 4: el Copom de Brasil decide con la Selic en 13.75%. Jueves 5: Banxico (6.50%). En EE. UU., las elecciones intermedias del martes y el reporte de empleo del viernes marcarán el apetito por activos de la región, y el cobre seguirá definiendo el rumbo de Chile y Perú."
+      "t": "Lo que sorprendió",
+      "x": "El desplome del petróleo (WTI −7.4%, Brent −7.5%) fue mayor de lo esperado: alivia a los importadores de combustible de la región, pero recorta el ingreso de los exportadores de crudo como Colombia y Brasil, lo que ayuda a explicar la debilidad de sus monedas."
      }
     ],
-    "scm": "Con Brasil, Colombia y México sin bancos hoy, mueve a mañana pagos y despachos que dependan de liquidación local. Con el cobre en 6.51 dólares por libra y Chile produciendo menos, no esperes cable ni componentes de cobre más baratos: asegura precio para el primer trimestre. Si compras en reales o pesos colombianos, revisa tus cotizaciones en dólares cuando reabran mañana."
+    "scm": "Con Brasil y Colombia reabriendo mañana, deja para el martes las liquidaciones en reales y pesos colombianos y revisa tus cotizaciones en dólares cuando haya liquidez. El peso chileno más fuerte y el cobre en 6.55 dólares encarecen las compras de cobre chileno: fija precio para el primer trimestre."
    },
    "en": {
-    "titular": "Brazil and Colombia closed for holidays; Chile grows just 0.2% as mining drops 12.1% and copper rises",
+    "titular": "Canada and Chile join the rebound; Brazil and Colombia remain closed as the real and the Colombian peso weaken",
     "bloques": [
      {
-      "t": "Pre-market",
-      "x": "A long weekend across much of the region: Brazil (All Souls' Day), Colombia (All Saints' Day) and Mexico (Day of the Dead) have no session today, so the Ibovespa stays at 167,922 (−0.75% on Friday) and the fund tracking the COLCAP at −1.15%, both with October 30 data. Where markets are open, the start is positive: Canada's S&P/TSX is up 0.93% (35,952.55), and in New York the Peru (EPU, +2.44%), Chile (ECH, +1.53%) and Argentina (ARGT, +1.11%) funds rebound after Friday's sell-off."
+      "t": "What was expected",
+      "x": "The opening brief expected a thin session in the region, with Brazil, Colombia and Mexico closed for holidays, a positive start in Canada and in the Peru, Chile and Argentina funds, and copper supported by the 12.1% drop in Chilean mining."
      },
      {
-      "t": "Context",
-      "x": "On Friday, Colombia's central bank held its rate at 12.25% in a split decision (4 votes to 3, with the minority seeking a 25-basis-point hike). In currencies, the dollar is up 0.97% against the real (5.4369) and 1.57% against the Colombian peso (3,224.49), in thin holiday trading, while the Chilean peso gains 0.47% (983.27), the sol is steady (3.4567) and the Argentine peso slips 0.29% (1,543). Oil below $100 (WTI at 97.58) brings relief to the region's fuel importers."
+      "t": "How it is going",
+      "x": "At 11:28 Mexico City time, Canada's S&P/TSX is up 1.14% (36,027.2) and the Argentina fund (ARGT) 0.24%; the Ibovespa remains at 167,922 (October 30 close). In currencies, the Chilean peso gains 1.12% (976.8 per dollar) and the Mexican peso 1.61% (18.55), while the real weakens 0.97% (5.44) and the Colombian peso 1.57% (3,224) amid thin holiday liquidity. Copper rises 1.4% to $6.55 per pound."
      },
      {
-      "t": "What to expect today",
-      "x": "Chile released its September Imacec: +0.2% year on year, with mining down 12.1% on lower copper ore grades and temporary suspensions at some operations, while non-mining activity grew 2.0%. That weaker Chilean supply is lifting copper, up 0.78% at $6.51 per pound. Brazil and Colombia reopen tomorrow."
-     },
-     {
-      "t": "The week ahead",
-      "x": "Wednesday 4: Brazil's Copom decides with the Selic at 13.75%. Thursday 5: Banxico (6.50%). In the US, Tuesday's midterm elections and Friday's jobs report will drive appetite for regional assets, and copper will keep setting the direction for Chile and Peru."
+      "t": "What surprised",
+      "x": "The slump in oil (WTI −7.4%, Brent −7.5%) was bigger than expected: it helps the region's fuel importers but cuts revenue for crude exporters such as Colombia and Brazil, which helps explain their weaker currencies."
      }
     ],
-    "scm": "With banks closed today in Brazil, Colombia and Mexico, move payments and customs clearances that depend on local settlement to tomorrow. With copper at $6.51 per pound and Chile producing less, don't expect cheaper copper cable or components: lock in prices for the first quarter. If you buy in reais or Colombian pesos, review your dollar quotes when markets reopen tomorrow."
+    "scm": "With Brazil and Colombia reopening tomorrow, leave settlements in reais and Colombian pesos for Tuesday and review your dollar quotes once liquidity returns. A stronger Chilean peso and copper at $6.55 make Chilean copper purchases more expensive: lock in prices for the first quarter."
    },
    "pt": {
-    "titular": "Brasil e Colômbia sem pregão por feriado; o Chile cresce só 0.2% com a mineração em −12.1% e o cobre sobe",
+    "titular": "Canadá e Chile acompanham a alta; Brasil e Colômbia seguem sem pregão e o real e o peso colombiano se enfraquecem",
     "bloques": [
      {
-      "t": "Pré-mercado",
-      "x": "Fim de semana prolongado em boa parte da região: Brasil (Finados), Colômbia (Todos os Santos) e México (Dia dos Mortos) não têm pregão hoje, então o Ibovespa segue em 167,922 (−0.75% na sexta-feira) e o fundo que replica o COLCAP em −1.15%, ambos com dados de 30 de outubro. Onde há negociação, o começo é positivo: o S&P/TSX do Canadá sobe 0.93% (35,952.55), e em Nova York os fundos do Peru (EPU, +2.44%), Chile (ECH, +1.53%) e Argentina (ARGT, +1.11%) se recuperam da venda de sexta-feira."
+      "t": "O que se esperava",
+      "x": "O brief de abertura previa uma sessão fraca na região, com Brasil, Colômbia e México fechados por feriados, início positivo no Canadá e nos fundos de Peru, Chile e Argentina, e o cobre apoiado pela queda de 12,1% da mineração chilena."
      },
      {
-      "t": "Contexto",
-      "x": "Na sexta-feira, o Banco de la República da Colômbia manteve sua taxa em 12.25% em uma decisão dividida (4 votos contra 3 que pediam alta de 25 pontos). Nas moedas, o dólar sobe 0.97% frente ao real (5.4369) e 1.57% frente ao peso colombiano (3,224.49), com pouca liquidez por causa dos feriados, enquanto o peso chileno se valoriza 0.47% (983.27), o sol fica estável (3.4567) e o peso argentino cede 0.29% (1,543). O petróleo abaixo de 100 dólares (WTI a 97.58) alivia os importadores de combustível da região."
+      "t": "Como está",
+      "x": "Às 11h28 (Cidade do México), o S&P/TSX do Canadá sobe 1,14% (36.027,2) e o fundo da Argentina (ARGT) 0,24%; o Ibovespa segue em 167.922 (fechamento de 30 de outubro). Nas moedas, o peso chileno se valoriza 1,12% (976,8 por dólar) e o peso mexicano 1,61% (18,55), enquanto o real se desvaloriza 0,97% (5,44) e o peso colombiano 1,57% (3.224), com pouca liquidez pelos feriados. O cobre sobe 1,4% para 6,55 dólares por libra."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "O Chile divulgou o Imacec de setembro: +0.2% na comparação anual, com a mineração em −12.1% por teores de cobre mais baixos e a suspensão temporária de algumas operações, enquanto a atividade não mineradora cresceu 2.0%. Essa oferta chilena menor impulsiona o cobre, que sobe 0.78%, para 6.51 dólares por libra. Brasil e Colômbia reabrem amanhã."
-     },
-     {
-      "t": "A semana que vem",
-      "x": "Quarta, 4: o Copom decide com a Selic em 13.75%. Quinta, 5: Banxico (6.50%). Nos EUA, as eleições de meio de mandato de terça e o relatório de emprego de sexta vão definir o apetite por ativos da região, e o cobre continuará ditando o rumo de Chile e Peru."
+      "t": "O que surpreendeu",
+      "x": "O tombo do petróleo (WTI −7,4%, Brent −7,5%) foi maior que o esperado: alivia os importadores de combustível da região, mas reduz a receita de exportadores de petróleo como Colômbia e Brasil, o que ajuda a explicar a fraqueza de suas moedas."
      }
     ],
-    "scm": "Com bancos fechados hoje no Brasil, na Colômbia e no México, passe para amanhã pagamentos e desembaraços que dependam de liquidação local. Com o cobre a 6.51 dólares por libra e o Chile produzindo menos, não espere cabos nem componentes de cobre mais baratos: trave preços para o primeiro trimestre. Se você compra em reais ou pesos colombianos, revise suas cotações em dólares quando os mercados reabrirem amanhã."
+    "scm": "Com Brasil e Colômbia reabrindo amanhã, deixe para terça-feira as liquidações em reais e pesos colombianos e revise suas cotações em dólar quando houver liquidez. O peso chileno mais forte e o cobre a 6,55 dólares encarecem as compras de cobre chileno: trave o preço para o primeiro trimestre."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance — Ibovespa",
-     "u": "https://finance.yahoo.com/quote/%5EBVSP/"
-    },
-    {
-     "t": "Yahoo Finance — S&P/TSX",
-     "u": "https://finance.yahoo.com/quote/%5EGSPTSE/"
-    },
-    {
-     "t": "Yahoo Finance — iShares MSCI Peru (EPU)",
-     "u": "https://finance.yahoo.com/quote/EPU/"
-    },
-    {
-     "t": "Yahoo Finance — USD/BRL",
-     "u": "https://finance.yahoo.com/quote/BRL%3DX/"
-    },
-    {
-     "t": "Radio Universidad de Chile — Imacec de septiembre",
-     "u": "https://radio.uchile.cl/2026/11/02/sigue-el-estancamiento-de-la-economia-imacec-de-septiembre-crecio-02/"
-    },
-    {
-     "t": "The Clinic — Imacec y minería −12.1%",
-     "u": "https://www.theclinic.cl/2026/11/02/imacec-crece-apenas-02-en-septiembre-caida-del-121-de-la-mineria-frena-la-actividad-economica/"
-    },
-    {
-     "t": "Cambio — Banco de la República mantiene 12.25%",
-     "u": "https://cambiocolombia.com/economia/articulo/2026/10/en-una-decision-dividida-el-banco-de-la-republica-pausa-los-aumentos-en-la-tasa-de-interes-en-su-reunion-de-octubre"
-    },
-    {
-     "t": "Trading Economics — cobre",
-     "u": "https://tradingeconomics.com/commodity/copper"
+     "t": "Mr. Supply Chain México: índices y monedas de América (data/heatmaps.json)",
+     "u": "https://mrsupplychain.ai/noticias/data/heatmaps.json"
     }
    ]
   },
   "mexico": {
-   "id": "2026-11-02-apertura-mexico",
+   "id": "2026-11-02-mediodia-mexico",
    "fecha": "2026-11-02",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "mexico",
-   "hora": "09:30 CDMX",
-   "fin_de_semana": true,
+   "hora": "11:30 CDMX",
    "es": {
-    "titular": "Sin Bolsa por Día de Muertos, el peso arranca la semana con una recuperación de 0.85% rumbo a la decisión de Banxico del jueves",
+    "titular": "Con la BMV cerrada, el peso amplía su avance a 18.55 por dólar con el crudo a la baja y el dólar débil",
     "bloques": [
      {
-      "t": "Premercado",
-      "x": "La BMV y los bancos no operan hoy por Día de Muertos, así que no hay FIX; el último, del 30 de octubre, fue de 18.7962 y se publica mañana en el DOF. El peso se aprecia: abrió cerca de 18.74–18.76 y hacia las 9:00 cotiza en 18.63 por dólar, 0.85% mejor que el cierre del viernes (18.79). El IPC cerró el viernes en 69,779.20 (−0.01%) y reabre el martes."
+      "t": "Lo que se esperaba",
+      "x": "El brief de apertura veía al peso en 18.63 (+0.85%), sin BMV, bancos ni FIX por Día de Muertos, y una semana definida por las elecciones de EE. UU. del martes y la decisión de Banxico del jueves 5."
      },
      {
-      "t": "Contexto",
-      "x": "El peso viene de ocho semanas seguidas de depreciación, una racha que no se veía desde 2018, presionado por un diferencial de tasas con EE. UU. de unos 250 puntos, de los más estrechos desde 2016. Hoy lo ayudan la caída del petróleo, el rebote de Wall Street y el tono de las pláticas comerciales en Norteamérica: Carney calificó de constructiva su llamada con Trump. En comercio, EE. UU. fijó hoy márgenes antidumping de 14.29% al acero resistente a la corrosión de México."
+      "t": "Cómo va",
+      "x": "El peso cotiza en 18.55 por dólar, 1.26% mejor que el cierre del viernes y por debajo de cualquier FIX desde el 21 de octubre (18.42). El IPC sigue en 69,779.20 y el Bono M a 10 años en 9.31% (cierres del 30 de octubre); la subasta de Cetes pasa al martes. No hay FIX hoy; el del 30 de octubre (18.7962) rige para liquidar mañana."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "Sin indicadores ni subasta hoy. Martes: remesas de septiembre, IMEF de octubre, encuesta de Banxico a especialistas y reportes del 3T de Banorte. Miércoles: venta de vehículos ligeros de octubre. Jueves 5: decisión de Banxico, con el mercado esperando que mantenga 6.50%, además de consumo privado e inversión fija de INEGI."
-     },
-     {
-      "t": "La semana que viene",
-      "x": "La semana se define afuera y adentro: elecciones en EE. UU. el martes, Banxico el jueves y empleo de EE. UU. el viernes. El lunes 16 de noviembre vuelve a cerrar el mercado por el Día de la Revolución, y el 9 de noviembre EE. UU. decide si investiga carros tanque fabricados en México."
+      "t": "Lo que sorprendió",
+      "x": "El peso ganó casi el doble de lo esperado, ayudado por el desplome del crudo (Brent −7.5%), que también bajará el precio de la mezcla mexicana y el ingreso petrolero. En comercio, el Federal Register publicó hoy los márgenes antidumping al acero resistente a la corrosión: 14.54% para Galvasid y 14.29% para el resto de los exportadores mexicanos."
      }
     ],
-    "scm": "Aprovecha el peso en 18.63 para cubrir parte de los pagos en dólares de noviembre antes de las elecciones del martes. Planea hoy tus pagos para mañana: no habrá liquidaciones bancarias ni FIX nuevo. Si exportas acero galvanizado a EE. UU., recalcula tu costo puesto con el arancel de 14.29% y revisa tus cruces del 13 y 17 de noviembre, alrededor del feriado del 16."
+    "scm": "El peso en 18.55 mejora la ventana de la mañana: ejecuta hoy la cobertura de una parte de los pagos en dólares de noviembre y programa las liquidaciones del martes con el FIX de 18.7962. Si exportas acero galvanizado, actualiza tu costo puesto en EE. UU. con 14.29% (14.54% si compras a Galvasid). Si importas por Long Beach, prepara el desvío a Lázaro Cárdenas antes del miércoles."
    },
    "en": {
-    "titular": "With the stock exchange shut for Day of the Dead, the peso starts the week up 0.85% ahead of Thursday's Banxico decision",
+    "titular": "With the BMV closed, the peso extends its gain to 18.55 per dollar as crude falls and the dollar weakens",
     "bloques": [
      {
-      "t": "Pre-market",
-      "x": "The BMV and banks are closed today for Day of the Dead, so there is no FIX; the last one, from October 30, was 18.7962 and will be published tomorrow in the Official Gazette (DOF). The peso is strengthening: it opened around 18.74–18.76 and by 9:00 was trading at 18.63 per dollar, 0.85% better than Friday's close (18.79). The IPC closed Friday at 69,779.20 (−0.01%) and reopens Tuesday."
+      "t": "What was expected",
+      "x": "The opening brief had the peso at 18.63 (+0.85%), with no BMV, banks or FIX for the Day of the Dead, and a week shaped by Tuesday's US elections and Banxico's decision on Thursday the 5th."
      },
      {
-      "t": "Context",
-      "x": "The peso is coming off eight straight weeks of depreciation, a streak not seen since 2018, pressured by a rate gap with the US of about 250 basis points, among the narrowest since 2016. Today it is helped by falling oil, Wall Street's rebound and the tone of North American trade talks: Carney called his call with Trump constructive. On trade, the US today set antidumping margins of 14.29% on corrosion-resistant steel from Mexico."
+      "t": "How it is going",
+      "x": "The peso trades at 18.55 per dollar, 1.26% stronger than Friday's close and below any FIX since October 21 (18.42). The IPC remains at 69,779.20 and the 10-year Mbono at 9.31% (October 30 closes); the Cetes auction moves to Tuesday. There is no FIX today; the October 30 FIX (18.7962) applies to tomorrow's settlements."
      },
      {
-      "t": "What to expect today",
-      "x": "No indicators or auction today. Tuesday: September remittances, the October IMEF index, Banxico's survey of economists and Banorte's Q3 results. Wednesday: October light-vehicle sales. Thursday 5: Banxico decision, with markets expecting a hold at 6.50%, plus INEGI's private consumption and fixed investment data."
-     },
-     {
-      "t": "The week ahead",
-      "x": "The week will be decided at home and abroad: US elections on Tuesday, Banxico on Thursday and US jobs on Friday. The market closes again on Monday, November 16, for Revolution Day, and on November 9 the US decides whether to investigate tank cars made in Mexico."
+      "t": "What surprised",
+      "x": "The peso gained almost twice as much as expected, helped by the slump in crude (Brent −7.5%), which will also lower the price of the Mexican oil blend and oil revenue. On trade, the Federal Register published today antidumping margins on corrosion-resistant steel: 14.54% for Galvasid and 14.29% for all other Mexican exporters."
      }
     ],
-    "scm": "Use the peso at 18.63 to hedge part of November's dollar payments ahead of Tuesday's elections. Plan tomorrow's payments today: there will be no bank settlements or new FIX. If you export galvanized steel to the US, recalculate your landed cost with the 14.29% duty and review your border crossings on November 13 and 17, around the holiday on the 16th."
+    "scm": "The peso at 18.55 improves on the morning window: hedge part of November's dollar payments today and schedule Tuesday's settlements with the 18.7962 FIX. If you export galvanized steel, update your landed cost in the US with 14.29% (14.54% if you buy from Galvasid). If you import through Long Beach, prepare the diversion to Lázaro Cárdenas before Wednesday."
    },
    "pt": {
-    "titular": "Sem Bolsa por causa do Dia dos Mortos, o peso começa a semana com alta de 0.85% antes da decisão do Banxico na quinta-feira",
+    "titular": "Com a BMV fechada, o peso amplia o ganho para 18,55 por dólar com o petróleo em queda e o dólar fraco",
     "bloques": [
      {
-      "t": "Pré-mercado",
-      "x": "A BMV e os bancos não operam hoje por causa do Dia dos Mortos, então não há FIX; o último, de 30 de outubro, foi de 18.7962 e será publicado amanhã no DOF. O peso se valoriza: abriu perto de 18.74–18.76 e por volta das 9:00 era cotado a 18.63 por dólar, 0.85% melhor que o fechamento de sexta-feira (18.79). O IPC fechou a sexta-feira em 69,779.20 (−0.01%) e reabre na terça-feira."
+      "t": "O que se esperava",
+      "x": "O brief de abertura via o peso em 18,63 (+0,85%), sem BMV, bancos nem FIX pelo Dia de Finados, e uma semana definida pelas eleições dos EUA na terça e pela decisão do Banxico na quinta, dia 5."
      },
      {
-      "t": "Contexto",
-      "x": "O peso vem de oito semanas seguidas de desvalorização, uma sequência que não se via desde 2018, pressionado por um diferencial de juros com os EUA de cerca de 250 pontos, um dos mais estreitos desde 2016. Hoje ele é ajudado pela queda do petróleo, pela alta de Wall Street e pelo tom das negociações comerciais na América do Norte: Carney classificou como construtiva sua ligação com Trump. No comércio, os EUA fixaram hoje margens antidumping de 14.29% para o aço resistente à corrosão do México."
+      "t": "Como está",
+      "x": "O peso é cotado a 18,55 por dólar, 1,26% melhor que o fechamento de sexta e abaixo de qualquer FIX desde 21 de outubro (18,42). O IPC segue em 69.779,20 e o Mbono de 10 anos em 9,31% (fechamentos de 30 de outubro); o leilão de Cetes passa para terça. Não há FIX hoje; o de 30 de outubro (18,7962) vale para as liquidações de amanhã."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Sem indicadores nem leilão hoje. Terça: remessas de setembro, índice IMEF de outubro, pesquisa do Banxico com especialistas e resultados do 3º trimestre do Banorte. Quarta: venda de veículos leves de outubro. Quinta, 5: decisão do Banxico, com o mercado esperando manutenção em 6.50%, além de consumo privado e investimento fixo do INEGI."
-     },
-     {
-      "t": "A semana que vem",
-      "x": "A semana se define dentro e fora do país: eleições nos EUA na terça, Banxico na quinta e emprego dos EUA na sexta. Na segunda-feira, 16 de novembro, o mercado volta a fechar pelo Dia da Revolução, e em 9 de novembro os EUA decidem se investigam vagões-tanque fabricados no México."
+      "t": "O que surpreendeu",
+      "x": "O peso ganhou quase o dobro do esperado, ajudado pelo tombo do petróleo (Brent −7,5%), que também reduzirá o preço da mistura mexicana e a receita petrolífera. No comércio, o Federal Register publicou hoje as margens antidumping sobre o aço resistente à corrosão: 14,54% para a Galvasid e 14,29% para os demais exportadores mexicanos."
      }
     ],
-    "scm": "Aproveite o peso a 18.63 para fazer hedge de parte dos pagamentos em dólares de novembro antes das eleições de terça-feira. Planeje hoje os pagamentos de amanhã: não haverá liquidações bancárias nem novo FIX. Se você exporta aço galvanizado para os EUA, recalcule o custo posto com a tarifa de 14.29% e revise suas travessias de fronteira de 13 e 17 de novembro, em torno do feriado do dia 16."
+    "scm": "O peso a 18,55 melhora a janela da manhã: faça hoje o hedge de parte dos pagamentos em dólar de novembro e programe as liquidações de terça com o FIX de 18,7962. Se você exporta aço galvanizado, atualize o custo posto nos EUA com 14,29% (14,54% se compra da Galvasid). Se importa por Long Beach, prepare o desvio para Lázaro Cárdenas antes de quarta."
    },
    "fuentes": [
     {
-     "t": "Banxico — tipo de cambio FIX",
-     "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+     "t": "Federal Register: aviso del Departamento de Comercio de EE. UU.",
+     "u": "https://www.federalregister.gov/"
     },
     {
-     "t": "Trading Economics — peso mexicano",
-     "u": "https://tradingeconomics.com/mexico/currency"
-    },
-    {
-     "t": "The Rio Times — Latin American Pulse, 2 nov 2026",
-     "u": "https://www.riotimesonline.com/latin-american-pulse-for-monday-november-2-2026"
-    },
-    {
-     "t": "BMV — calendario de días festivos",
-     "u": "https://bmv.com.mx/es/grupo-bmv/calendario-de-dias-festivos"
-    },
-    {
-     "t": "N+ — bancos cerrados el 2 de noviembre",
-     "u": "https://www.nmas.com.mx/economia/bancos-trabajan-el-lunes-2-de-noviembre-2026-asi-sera-el-servicio-por-dia-de-muertos/"
+     "t": "Banxico: tipo de cambio FIX",
+     "u": "https://www.banxico.org.mx/tipcamb/main.do?page=tip&idioma=sp"
     }
    ]
   }
  },
  "lectura": {
   "es": {
-   "titular": "El petróleo da un respiro, pero la cadena sigue cara: fletes, insumos y tipo de cambio piden cobertura, no relajación",
-   "resumen": "La semana arranca con alivio en precios: el WTI cae 6.3% a 97.58 dólares por las pláticas entre EE. UU. e Irán, Wall Street rebota (S&P 500 +0.45% al abrir) y el peso se recupera a 18.63 por dólar. El alivio todavía no llega a la operación: el ISM manufacturero confirma insumos caros (precios pagados en 75.2) y entregas más lentas (59.1), y el diésel en EE. UU. sigue en 6.35 dólares por galón. La demanda de EE. UU. se mantiene firme, con producción manufacturera en 59.0, su nivel más alto desde 2021. En México no hay BMV ni bancos por Día de Muertos, y la semana concentra tres eventos que pueden mover costos: elecciones en EE. UU. el martes, Banxico el jueves y empleo de EE. UU. el viernes. La prioridad es fijar costos mientras los precios ceden, sin trasladar todavía el alivio a tarifas ni inventarios.",
+   "titular": "El crudo cae 7% y el peso gana 1.3%: el alivio de costos es real, pero aún no llega al diésel ni resuelve Ormuz",
+   "resumen": "A media sesión el alivio en precios se amplía: el WTI cae 7.4% a 96.45 dólares y el Brent 7.5% a 104.91 después de que Irán ofreció reabrir Ormuz si EE. UU. termina la guerra, Wall Street extiende el rebote (Dow +1.01%) y el peso se aprecia a 18.55 por dólar. El alivio todavía no llega a la operación: el diésel se ajusta con una a dos semanas de rezago, los ataques a buques continúan y los metales suben (plata +4.2%, cobre +1.4%). La demanda de EE. UU. sigue firme, con el ISM manufacturero en 55.5. En logística, el plazo de la huelga de vigilantes en Los Ángeles–Long Beach se movió al miércoles 4 a las 17:00, hora del Pacífico. La prioridad es aprovechar la ventana cambiaria y de energía para fijar costos, sin trasladar todavía el alivio a tarifas ni inventarios.",
    "temas": [
     {
      "tema": "Peso y tasas",
@@ -316,10 +229,10 @@
       "Contratos en dólares",
       "Capital de trabajo"
      ],
-     "analisis": "El peso cotiza en 18.63 por dólar (+0.85%) tras ocho semanas seguidas de depreciación, una racha que no se veía desde 2018. El último FIX, del 30 de octubre, fue 18.7962 y hoy no hay FIX por día inhábil. El diferencial de tasas con EE. UU. ronda 250 puntos base, de los más estrechos desde 2016, y Banxico decide el jueves 5 con la tasa en 6.50%.",
-     "implicacion": "Con un colchón de tasas tan delgado, un dato fuerte de empleo en EE. UU. o un tono suave de Banxico puede devolver al peso arriba de 18.80; el nivel actual es una ventana, no una tendencia.",
+     "analisis": "El peso cotiza en 18.55 por dólar (+1.26%) tras ocho semanas seguidas de depreciación, una racha que no se veía desde 2018, con el índice dólar en 101.69 (−0.19%). El último FIX, del 30 de octubre, fue 18.7962 y hoy no hay FIX por día inhábil. El diferencial de tasas con EE. UU. ronda 250 puntos base, de los más estrechos desde 2016, y Banxico decide el jueves 5 con la tasa en 6.50%.",
+     "implicacion": "El avance depende del petróleo y del ánimo de riesgo: un dato fuerte de empleo en EE. UU. el viernes o un tono suave de Banxico pueden devolver al peso arriba de 18.80. El nivel actual es una ventana, no una tendencia.",
      "acciones": [
-      "Cubrir antes del martes una parte definida (por ejemplo, 30% a 50%) de los pagos en dólares de noviembre.",
+      "Cubrir hoy una parte definida (por ejemplo, 30% a 50%) de los pagos en dólares de noviembre.",
       "Mantener 18.80–19.20 como tipo de cambio presupuestal de noviembre y diciembre en el costo estándar."
      ],
      "horizonte": "Inmediato (esta semana)",
@@ -333,7 +246,7 @@
       "Fletes",
       "Costo por kilómetro"
      ],
-     "analisis": "El WTI cae 6.28% a 97.58 dólares y el Brent 4.27% a 108.68 por las pláticas de Doha, mientras la OPEP+ dejó sin cambio sus cuotas de diciembre. El diésel en EE. UU. sigue en 6.35 dólares por galón. Los recargos por combustible se ajustan con una a dos semanas de rezago.",
+     "analisis": "El WTI cae 7.37% a 96.45 dólares y el Brent 7.51% a 104.91 después de que Irán dijo que podría reabrir Ormuz si EE. UU. acepta terminar la guerra; la gasolina en futuros cae 7.6% y el diésel de calefacción 5%. Los ataques a buques continúan y la OPEP+ dejó sin cambio sus cuotas de diciembre. Los recargos por combustible se ajustan con una a dos semanas de rezago.",
      "implicacion": "Si el precio se sostiene, el alivio llegará a los fletes a mediados de noviembre; si el conflicto se reactiva tras las elecciones, se revierte, así que bajar tarifas hoy deja el riesgo del lado del embarcador.",
      "acciones": [
       "No renegociar recargos a la baja hasta tener dos semanas de precios de diésel estables.",
@@ -350,7 +263,7 @@
       "Costo de capital",
       "Abasto crítico"
      ],
-     "analisis": "El índice de precios pagados del ISM bajó de 77.9 a 75.2, todavía en zona de inflación de insumos, y las entregas de proveedores se alargan (59.1). La inflación sigue en 3.7% en EE. UU., 3.8% en la zona euro y 3.62% en México. Con Cetes a 28 días en 6.22% y el Treasury a 10 años en 4.90%, mantener inventario sigue siendo caro.",
+     "analisis": "El índice de precios pagados del ISM bajó de 77.9 a 75.2, todavía en zona de inflación de insumos, y las entregas de proveedores se alargan (59.1). La inflación sigue en 3.7% en EE. UU., 3.8% en la zona euro y 3.62% en México. Con Cetes a 28 días en 6.22% y el Treasury a 10 años en 4.88%, mantener inventario sigue siendo caro.",
      "implicacion": "Los bancos centrales tienen poco espacio para recortar, así que el costo de financiar inventario no bajará pronto, mientras los plazos de entrega piden más colchón en materiales críticos.",
      "acciones": [
       "Segmentar el inventario por criticidad y elevar días de cobertura sólo en los artículos A con proveedor único.",
@@ -383,7 +296,7 @@
       "Precio de componentes",
       "Contratos de suministro"
      ],
-     "analisis": "El cobre sube 0.78% a 6.51 dólares por libra después de que la minería de Chile cayó 12.1% anual en septiembre. La plata sube 2.4% a 50.08 dólares por onza. En memoria, el KOSPI rebotó 2.24% con Samsung y SK hynix, mientras Kioxia cayó 15.8% en Tokio.",
+     "analisis": "El cobre sube 1.42% a 6.55 dólares por libra después de que la minería de Chile cayó 12.1% anual en septiembre, y la plata 4.15% a 50.93 dólares por onza. En memoria, el KOSPI cerró con alza de 2.24% por Samsung y SK hynix, mientras Kioxia cayó 15.8% en Tokio. En ópticos, Marvell acordó comprar Lumentum, lo que concentra aún más la oferta de componentes para centros de datos.",
      "implicacion": "La volatilidad está en las acciones, no en la disponibilidad: los precios de cobre, plata y memoria siguen altos y no dan señales de corrección.",
      "acciones": [
       "Fijar precio de cable y componentes de cobre para el primer trimestre de 2027.",
@@ -405,6 +318,11 @@
      "por_que": "Define el costo del crédito y el tipo de cambio para quien compra o vende en reales."
     },
     {
+     "cuando": "Mié 4 nov",
+     "evento": "Plazo de huelga de vigilantes en Los Ángeles–Long Beach (17:00, hora del Pacífico)",
+     "por_que": "Una huelga detendría terminales que mueven más de la mitad de la carga de ambos puertos."
+    },
+    {
      "cuando": "Jue 5 nov",
      "evento": "Decisión de Banxico (6.50%)",
      "por_que": "Un tono suave estrecharía más el diferencial y presionaría al peso."
@@ -413,17 +331,12 @@
      "cuando": "Vie 6 nov",
      "evento": "Empleo de octubre en EE. UU.",
      "por_que": "Un dato fuerte refuerza tasas altas por más tiempo y encarece financiar inventario."
-    },
-    {
-     "cuando": "Lun 16 nov",
-     "evento": "Día de la Revolución: BMV y bancos cerrados",
-     "por_que": "Sin liquidaciones ni FIX; planea pagos y cruces del 13 y el 17."
     }
    ]
   },
   "en": {
-   "titular": "Oil offers a breather, but the supply chain is still expensive: freight, inputs and FX call for hedging, not easing",
-   "resumen": "The week starts with price relief: WTI falls 6.3% to $97.58 on US–Iran talks, Wall Street rebounds (S&P 500 +0.45% at the open) and the peso recovers to 18.63 per dollar. The relief has not reached operations yet: the ISM manufacturing index confirms expensive inputs (prices paid at 75.2) and slower deliveries (59.1), and US diesel remains at $6.35 per gallon. US demand holds firm, with manufacturing production at 59.0, its highest since 2021. Mexico's stock exchange and banks are closed for Day of the Dead, and the week packs three events that can move costs: US elections on Tuesday, Banxico on Thursday and US jobs on Friday. The priority is to lock in costs while prices ease, without passing the relief on to rates or inventories yet.",
+   "titular": "Crude falls 7% and the peso gains 1.3%: the cost relief is real, but it has not reached diesel or resolved Hormuz",
+   "resumen": "By midday the price relief widens: WTI falls 7.4% to $96.45 and Brent 7.5% to $104.91 after Iran offered to reopen Hormuz if the US ends the war, Wall Street extends its rebound (Dow +1.01%) and the peso strengthens to 18.55 per dollar. The relief has not yet reached operations: diesel adjusts with a one- to two-week lag, attacks on ships continue and metals are rising (silver +4.2%, copper +1.4%). US demand remains firm, with ISM manufacturing at 55.5. In logistics, the deadline for the watchmen strike at Los Angeles–Long Beach moved to Wednesday the 4th at 5 p.m. Pacific time. The priority is to use the currency and energy window to lock in costs, without yet passing the relief on to rates or inventories.",
    "temas": [
     {
      "tema": "Peso and rates",
@@ -433,10 +346,10 @@
       "Dollar contracts",
       "Working capital"
      ],
-     "analisis": "The peso trades at 18.63 per dollar (+0.85%) after eight straight weeks of depreciation, a streak not seen since 2018. The last FIX, from October 30, was 18.7962, and there is no FIX today because of the holiday. The rate gap with the US is about 250 basis points, among the narrowest since 2016, and Banxico decides on Thursday 5 with its rate at 6.50%.",
-     "implicacion": "With such a thin rate cushion, a strong US jobs figure or a soft tone from Banxico could push the peso back above 18.80; the current level is a window, not a trend.",
+     "analisis": "The peso trades at 18.55 per dollar (+1.26%) after eight straight weeks of depreciation, a streak not seen since 2018, with the dollar index at 101.69 (−0.19%). The last FIX, from October 30, was 18.7962, and there is no FIX today because of the holiday. The rate gap with the US is about 250 basis points, among the narrowest since 2016, and Banxico decides on Thursday the 5th with its rate at 6.50%.",
+     "implicacion": "The gain depends on oil and risk appetite: a strong US jobs report on Friday or a dovish Banxico could push the peso back above 18.80. Today's level is a window, not a trend.",
      "acciones": [
-      "Hedge a defined share (for example, 30% to 50%) of November dollar payments before Tuesday.",
+      "Hedge a defined share (for example, 30% to 50%) of November's dollar payments today.",
       "Keep 18.80–19.20 as the budget exchange rate for November and December in standard costs."
      ],
      "horizonte": "Immediate (this week)",
@@ -450,8 +363,8 @@
       "Freight",
       "Cost per mile"
      ],
-     "analisis": "WTI falls 6.28% to $97.58 and Brent 4.27% to $108.68 on the Doha talks, while OPEC+ left its December quotas unchanged. US diesel remains at $6.35 per gallon. Fuel surcharges adjust with a one- to two-week lag.",
-     "implicacion": "If prices hold, relief will reach freight in mid-November; if the conflict flares up again after the elections, it will reverse, so cutting rates today leaves the risk with the shipper.",
+     "analisis": "WTI falls 7.37% to $96.45 and Brent 7.51% to $104.91 after Iran said it could reopen Hormuz if the US agrees to end the war; gasoline futures fall 7.6% and heating oil 5%. Attacks on ships continue and OPEC+ left its December quotas unchanged. Fuel surcharges adjust with a one- to two-week lag.",
+     "implicacion": "If prices hold, relief will reach freight in mid-November; if the conflict flares again after the elections, it reverses, so cutting rates today leaves the risk on the shipper's side.",
      "acciones": [
       "Don't renegotiate surcharges lower until diesel prices have been stable for two weeks.",
       "Agree with carriers on a December surcharge cap tied to published diesel prices."
@@ -467,7 +380,7 @@
       "Cost of capital",
       "Critical supply"
      ],
-     "analisis": "The ISM prices-paid index fell from 77.9 to 75.2, still signaling input inflation, and supplier deliveries are slowing (59.1). Inflation stands at 3.7% in the US, 3.8% in the euro area and 3.62% in Mexico. With 28-day Cetes at 6.22% and the 10-year Treasury at 4.90%, holding inventory remains expensive.",
+     "analisis": "The ISM prices-paid index fell from 77.9 to 75.2, still signaling input inflation, and supplier deliveries are slowing (59.1). Inflation stands at 3.7% in the US, 3.8% in the euro area and 3.62% in Mexico. With 28-day Cetes at 6.22% and the 10-year Treasury at 4.88%, holding inventory remains expensive.",
      "implicacion": "Central banks have little room to cut, so the cost of financing inventory won't fall soon, while lead times call for more buffer on critical materials.",
      "acciones": [
       "Segment inventory by criticality and raise days of cover only on A items with a single supplier.",
@@ -500,7 +413,7 @@
       "Component prices",
       "Supply contracts"
      ],
-     "analisis": "Copper rises 0.78% to $6.51 per pound after Chile's mining output fell 12.1% year on year in September. Silver is up 2.4% at $50.08 per ounce. In memory, the KOSPI rebounded 2.24% on Samsung and SK hynix, while Kioxia fell 15.8% in Tokyo.",
+     "analisis": "Copper rises 1.42% to $6.55 per pound after Chilean mining fell 12.1% year over year in September, and silver 4.15% to $50.93 per ounce. In memory, the KOSPI closed up 2.24% on Samsung and SK hynix, while Kioxia fell 15.8% in Tokyo. In optics, Marvell agreed to buy Lumentum, further concentrating the supply of data center components.",
      "implicacion": "The volatility is in the stocks, not in availability: copper, silver and memory prices remain high with no sign of a correction.",
      "acciones": [
       "Lock in prices for copper cable and components for Q1 2027.",
@@ -522,6 +435,11 @@
      "por_que": "Sets credit costs and the exchange rate for anyone buying or selling in reais."
     },
     {
+     "cuando": "Wed Nov 4",
+     "evento": "Watchmen strike deadline at Los Angeles–Long Beach (5 p.m. Pacific)",
+     "por_que": "A strike would stop terminals that handle more than half of both ports' cargo."
+    },
+    {
      "cuando": "Thu Nov 5",
      "evento": "Banxico decision (6.50%)",
      "por_que": "A soft tone would narrow the rate gap further and pressure the peso."
@@ -530,17 +448,12 @@
      "cuando": "Fri Nov 6",
      "evento": "US October jobs report",
      "por_que": "A strong figure reinforces higher-for-longer rates and makes financing inventory more expensive."
-    },
-    {
-     "cuando": "Mon Nov 16",
-     "evento": "Revolution Day: BMV and banks closed",
-     "por_que": "No settlements or FIX; plan payments and crossings for the 13th and 17th."
     }
    ]
   },
   "pt": {
-   "titular": "O petróleo dá um respiro, mas a cadeia segue cara: fretes, insumos e câmbio pedem proteção, não relaxamento",
-   "resumen": "A semana começa com alívio nos preços: o WTI cai 6.3%, para 97.58 dólares, com as conversas entre EUA e Irã, Wall Street sobe (S&P 500 +0.45% na abertura) e o peso mexicano se recupera para 18.63 por dólar. O alívio ainda não chegou à operação: o ISM industrial confirma insumos caros (preços pagos em 75.2) e entregas mais lentas (59.1), e o diesel nos EUA segue em 6.35 dólares por galão. A demanda dos EUA continua firme, com a produção industrial em 59.0, o nível mais alto desde 2021. No México não há BMV nem bancos por causa do Dia dos Mortos, e a semana concentra três eventos que podem mexer nos custos: eleições nos EUA na terça, Banxico na quinta e emprego dos EUA na sexta. A prioridade é travar custos enquanto os preços cedem, sem repassar ainda o alívio para tarifas nem estoques.",
+   "titular": "O petróleo cai 7% e o peso ganha 1,3%: o alívio de custos é real, mas ainda não chegou ao diesel nem resolve Ormuz",
+   "resumen": "No meio da sessão o alívio de preços aumenta: o WTI cai 7,4% para 96,45 dólares e o Brent 7,5% para 104,91 depois que o Irã ofereceu reabrir Ormuz se os EUA encerrarem a guerra, Wall Street amplia a alta (Dow +1,01%) e o peso se valoriza para 18,55 por dólar. O alívio ainda não chegou à operação: o diesel se ajusta com uma a duas semanas de atraso, os ataques a navios continuam e os metais sobem (prata +4,2%, cobre +1,4%). A demanda dos EUA segue firme, com o ISM industrial em 55,5. Na logística, o prazo da greve dos vigias em Los Angeles–Long Beach passou para quarta-feira, dia 4, às 17h (horário do Pacífico). A prioridade é aproveitar a janela cambial e de energia para travar custos, sem repassar ainda o alívio para tarifas ou estoques.",
    "temas": [
     {
      "tema": "Peso e juros",
@@ -550,11 +463,11 @@
       "Contratos em dólares",
       "Capital de giro"
      ],
-     "analisis": "O peso é cotado a 18.63 por dólar (+0.85%) depois de oito semanas seguidas de desvalorização, uma sequência que não se via desde 2018. O último FIX, de 30 de outubro, foi 18.7962, e hoje não há FIX por ser feriado. O diferencial de juros com os EUA está em cerca de 250 pontos-base, um dos mais estreitos desde 2016, e o Banxico decide na quinta-feira, 5, com a taxa em 6.50%.",
-     "implicacion": "Com uma margem de juros tão estreita, um dado forte de emprego nos EUA ou um tom brando do Banxico pode levar o peso de volta acima de 18.80; o nível atual é uma janela, não uma tendência.",
+     "analisis": "O peso é cotado a 18,55 por dólar (+1,26%) após oito semanas seguidas de desvalorização, uma sequência que não se via desde 2018, com o índice dólar em 101,69 (−0,19%). O último FIX, de 30 de outubro, foi 18,7962 e hoje não há FIX por ser dia não útil. O diferencial de juros com os EUA está em cerca de 250 pontos-base, um dos mais estreitos desde 2016, e o Banxico decide na quinta, dia 5, com a taxa em 6,50%.",
+     "implicacion": "O ganho depende do petróleo e do apetite a risco: um dado forte de emprego nos EUA na sexta ou um tom brando do Banxico podem levar o peso de volta acima de 18,80. O nível atual é uma janela, não uma tendência.",
      "acciones": [
-      "Fazer hedge, antes de terça-feira, de uma parcela definida (por exemplo, 30% a 50%) dos pagamentos em dólares de novembro.",
-      "Manter 18.80–19.20 como câmbio orçamentário de novembro e dezembro no custo-padrão."
+      "Fazer hoje o hedge de uma parcela definida (por exemplo, 30% a 50%) dos pagamentos em dólar de novembro.",
+      "Manter 18,80–19,20 como câmbio orçamentário de novembro e dezembro no custo padrão."
      ],
      "horizonte": "Imediato (esta semana)",
      "indicador": "FIX do Banxico e decisão de quinta-feira"
@@ -567,8 +480,8 @@
       "Fretes",
       "Custo por quilômetro"
      ],
-     "analisis": "O WTI cai 6.28%, para 97.58 dólares, e o Brent 4.27%, para 108.68, com as conversas de Doha, enquanto a OPEP+ manteve suas cotas de dezembro. O diesel nos EUA segue em 6.35 dólares por galão. As sobretaxas de combustível se ajustam com uma a duas semanas de defasagem.",
-     "implicacion": "Se o preço se sustentar, o alívio chegará aos fretes em meados de novembro; se o conflito se reacender depois das eleições, ele se reverte, então baixar tarifas hoje deixa o risco com o embarcador.",
+     "analisis": "O WTI cai 7,37% para 96,45 dólares e o Brent 7,51% para 104,91 depois que o Irã disse que poderia reabrir Ormuz se os EUA aceitarem encerrar a guerra; a gasolina no mercado futuro cai 7,6% e o óleo de aquecimento 5%. Os ataques a navios continuam e a OPEP+ manteve suas cotas de dezembro. As sobretaxas de combustível se ajustam com uma a duas semanas de atraso.",
+     "implicacion": "Se o preço se sustentar, o alívio chegará aos fretes em meados de novembro; se o conflito voltar após as eleições, ele se reverte, então reduzir tarifas hoje deixa o risco do lado do embarcador.",
      "acciones": [
       "Não renegociar sobretaxas para baixo até ter duas semanas de preços de diesel estáveis.",
       "Acordar com as transportadoras um teto de sobretaxa para dezembro atrelado ao diesel publicado."
@@ -584,7 +497,7 @@
       "Custo de capital",
       "Abastecimento crítico"
      ],
-     "analisis": "O índice de preços pagos do ISM caiu de 77.9 para 75.2, ainda em zona de inflação de insumos, e as entregas de fornecedores estão mais lentas (59.1). A inflação está em 3.7% nos EUA, 3.8% na zona do euro e 3.62% no México. Com os Cetes de 28 dias em 6.22% e o Treasury de 10 anos em 4.90%, manter estoque continua caro.",
+     "analisis": "O índice de preços pagos do ISM caiu de 77.9 para 75.2, ainda em zona de inflação de insumos, e as entregas de fornecedores estão mais lentas (59.1). A inflação está em 3.7% nos EUA, 3.8% na zona do euro e 3.62% no México. Com os Cetes de 28 dias em 6.22% e o Treasury de 10 anos em 4.88%, manter estoque continua caro.",
      "implicacion": "Os bancos centrais têm pouco espaço para cortar, então o custo de financiar estoque não vai cair tão cedo, enquanto os prazos de entrega pedem mais margem em materiais críticos.",
      "acciones": [
       "Segmentar o estoque por criticidade e aumentar os dias de cobertura só nos itens A com fornecedor único.",
@@ -617,7 +530,7 @@
       "Preço de componentes",
       "Contratos de fornecimento"
      ],
-     "analisis": "O cobre sobe 0.78%, para 6.51 dólares por libra, depois que a mineração do Chile caiu 12.1% na comparação anual em setembro. A prata sobe 2.4%, para 50.08 dólares por onça. Em memória, o KOSPI subiu 2.24% com Samsung e SK hynix, enquanto a Kioxia caiu 15.8% em Tóquio.",
+     "analisis": "O cobre sobe 1,42% para 6,55 dólares por libra depois que a mineração do Chile caiu 12,1% na comparação anual em setembro, e a prata 4,15% para 50,93 dólares por onça. Em memória, o KOSPI fechou em alta de 2,24% com Samsung e SK hynix, enquanto a Kioxia caiu 15,8% em Tóquio. Em ópticos, a Marvell fechou acordo para comprar a Lumentum, o que concentra ainda mais a oferta de componentes para data centers.",
      "implicacion": "A volatilidade está nas ações, não na disponibilidade: os preços de cobre, prata e memória seguem altos, sem sinal de correção.",
      "acciones": [
       "Travar o preço de cabos e componentes de cobre para o primeiro trimestre de 2027.",
@@ -639,6 +552,11 @@
      "por_que": "Define o custo do crédito e o câmbio para quem compra ou vende em reais."
     },
     {
+     "cuando": "Qua 4 nov",
+     "evento": "Prazo da greve dos vigias em Los Angeles–Long Beach (17h, horário do Pacífico)",
+     "por_que": "Uma greve pararia terminais que movimentam mais da metade da carga dos dois portos."
+    },
+    {
      "cuando": "Qui 5 nov",
      "evento": "Decisão do Banxico (6.50%)",
      "por_que": "Um tom brando estreitaria ainda mais o diferencial e pressionaria o peso."
@@ -647,11 +565,6 @@
      "cuando": "Sex 6 nov",
      "evento": "Emprego de outubro nos EUA",
      "por_que": "Um dado forte reforça juros altos por mais tempo e encarece o financiamento de estoques."
-    },
-    {
-     "cuando": "Seg 16 nov",
-     "evento": "Dia da Revolução: BMV e bancos fechados",
-     "por_que": "Sem liquidações nem FIX; planeje pagamentos e travessias para os dias 13 e 17."
     }
    ]
   }
@@ -670,8 +583,8 @@
    "nombre": "S&P 500",
    "name_en": "S&P 500",
    "grupo": "bolsa",
-   "valor": 7613.87,
-   "cambio": 0.45,
+   "valor": 7622.98,
+   "cambio": 0.57,
    "unidad": "puntos",
    "name_pt": "S&P 500"
   },
@@ -679,8 +592,8 @@
    "nombre": "Nasdaq",
    "name_en": "Nasdaq",
    "grupo": "bolsa",
-   "valor": 25596.07,
-   "cambio": 0.63,
+   "valor": 25607.07,
+   "cambio": 0.67,
    "unidad": "puntos",
    "name_pt": "Nasdaq"
   },
@@ -688,8 +601,8 @@
    "nombre": "Dow Jones",
    "name_en": "Dow Jones",
    "grupo": "bolsa",
-   "valor": 52173.4,
-   "cambio": 0.78,
+   "valor": 52295.4,
+   "cambio": 1.01,
    "unidad": "puntos",
    "name_pt": "Dow Jones"
   },
@@ -697,8 +610,8 @@
    "nombre": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
    "grupo": "bolsa",
-   "valor": 6131.31,
-   "cambio": -1.22,
+   "valor": 6186,
+   "cambio": 0.9,
    "unidad": "puntos",
    "name_pt": "Euro Stoxx 50"
   },
@@ -724,8 +637,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 18.63,
-   "cambio": -0.85,
+   "valor": 18.55,
+   "cambio": -1.26,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -733,8 +646,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.1199,
-   "cambio": 0.37,
+   "valor": 1.12,
+   "cambio": 0.38,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -742,7 +655,7 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 157.72,
+   "valor": 157.88,
    "cambio": 0.2,
    "unidad": "",
    "name_pt": "USD/JPY"
@@ -751,8 +664,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 97.58,
-   "cambio": -6.28,
+   "valor": 96.45,
+   "cambio": -7.37,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -760,8 +673,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 108.68,
-   "cambio": -4.27,
+   "valor": 104.91,
+   "cambio": -7.51,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -778,8 +691,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3960.0,
-   "cambio": 2.2,
+   "valor": 3977.0,
+   "cambio": 2.0,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -787,8 +700,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 6.51,
-   "cambio": 0.78,
+   "valor": 6.55,
+   "cambio": 1.42,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -796,8 +709,8 @@
    "nombre": "Treasury 10 años",
    "name_en": "10-yr Treasury",
    "grupo": "bono",
-   "valor": 4.9,
-   "cambio": -3,
+   "valor": 4.88,
+   "cambio": -4.5,
    "unidad": "%",
    "name_pt": "Título do Tesouro 10 anos"
   },
@@ -823,8 +736,8 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 77813,
-   "cambio": -0.14,
+   "valor": 77337.75,
+   "cambio": -0.66,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }

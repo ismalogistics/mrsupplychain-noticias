@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-02T16:53:00Z",
+ "actualizado": "2026-11-02T17:30:00Z",
  "fecha": "2026-11-02",
  "titular": {
-  "es": "Huelga en vilo en Los Ángeles, petróleo más barato y minería chilena a la baja: lo que mueve a las industrias este 2 de noviembre",
-  "en": "A strike threat in Los Angeles, cheaper oil and weaker Chilean mining: what is moving industries on November 2",
-  "pt": "Greve ameaçada em Los Angeles, petróleo mais barato e mineração chilena em queda: o que movimenta as indústrias neste 2 de novembro"
+  "es": "Huelga adelantada en Los Ángeles, crudo 7% más barato y una compra gigante en ópticos: lo que mueve a las industrias este 2 de noviembre a mediodía",
+  "en": "An earlier strike deadline in Los Angeles, crude 7% cheaper and a giant optics deal: what is moving industries at midday on November 2",
+  "pt": "Prazo de greve antecipado em Los Angeles, petróleo 7% mais barato e uma compra gigante em ópticos: o que movimenta as indústrias ao meio-dia de 2 de novembro"
  },
  "items": [
   {
@@ -16,34 +16,34 @@
    "en": "Maritime and ports",
    "pt": "Marítimo e portos",
    "titular": {
-    "es": "Los Ángeles–Long Beach aplazan al 5 de noviembre el plazo de una posible huelga",
-    "en": "Los Angeles–Long Beach push a possible strike deadline to November 5",
-    "pt": "Los Angeles–Long Beach adiam para 5 de novembro o prazo de uma possível greve"
+    "es": "Los Ángeles–Long Beach: el plazo de una posible huelga es ahora el miércoles 4 a las 17:00",
+    "en": "Los Angeles–Long Beach: a possible strike deadline is now Wednesday the 4th at 5 p.m.",
+    "pt": "Los Angeles–Long Beach: o prazo de uma possível greve agora é quarta-feira, dia 4, às 17h"
    },
    "x": {
-    "es": "Los empleadores (PMA) y el sindicato de vigilantes ILWU Local 26 extendieron las pláticas del 1 al 5 de noviembre. Son unos 250 trabajadores, pero operan en terminales que mueven cerca de 85% de la carga de Long Beach y 33% de la de Los Ángeles, y la PMA advierte que otros estibadores no cruzarían sus piquetes.",
-    "en": "Employers (PMA) and the ILWU Local 26 watchmen's union extended talks from November 1 to November 5. They are about 250 workers, but they work at terminals handling roughly 85% of Long Beach's cargo and 33% of Los Angeles', and the PMA warns other dockworkers would not cross their picket lines.",
-    "pt": "Os empregadores (PMA) e o sindicato de vigias ILWU Local 26 estenderam as negociações de 1º para 5 de novembro. São cerca de 250 trabalhadores, mas atuam em terminais que movimentam perto de 85% da carga de Long Beach e 33% da de Los Angeles, e a PMA alerta que outros estivadores não cruzariam seus piquetes."
+    "es": "Los empleadores (PMA) y el sindicato de vigilantes ILWU Local 26 volvieron a extender el contrato, ahora hasta el miércoles 4 de noviembre a las 17:00 (hora del Pacífico), y siguen negociando con el Servicio Federal de Mediación. Son unos 250 trabajadores, cerca de 2% de la plantilla sindicalizada, pero la PMA dice que manejan más de la mitad de la carga combinada de ambos puertos, y se espera que el resto del ILWU los respalde.",
+    "en": "Employers (PMA) and the ILWU Local 26 watchmen's union extended the contract again, now until Wednesday, November 4 at 5 p.m. Pacific time, and keep negotiating with the Federal Mediation and Conciliation Service. They are about 250 workers, roughly 2% of the unionized workforce, but the PMA says they handle more than half of the two ports' combined cargo, and the rest of the ILWU is expected to back them.",
+    "pt": "Os empregadores (PMA) e o sindicato de vigias ILWU Local 26 voltaram a estender o contrato, agora até quarta-feira, 4 de novembro, às 17h (horário do Pacífico), e seguem negociando com o Serviço Federal de Mediação. São cerca de 250 trabalhadores, perto de 2% da força sindicalizada, mas a PMA diz que movimentam mais da metade da carga combinada dos dois portos, e espera-se que o restante do ILWU os apoie."
    },
    "scm": {
-    "es": "Si tienes contenedores transpacíficos por San Pedro esta semana, prepara desvíos a Oakland o Lázaro Cárdenas y avisa a clientes de posibles retrasos.",
-    "en": "If you have transpacific containers via San Pedro Bay this week, prepare diversions to Oakland or Lázaro Cárdenas and warn customers of possible delays.",
-    "pt": "Se você tem contêineres transpacíficos por San Pedro nesta semana, prepare desvios para Oakland ou Lázaro Cárdenas e avise os clientes sobre possíveis atrasos."
+    "es": "Si tienes contenedores transpacíficos por San Pedro, confirma hoy citas para retirarlos antes del miércoles y deja listo el desvío a Oakland o Lázaro Cárdenas.",
+    "en": "If you have transpacific containers through San Pedro, confirm pickup appointments before Wednesday today and have the diversion to Oakland or Lázaro Cárdenas ready.",
+    "pt": "Se você tem contêineres transpacíficos por San Pedro, confirme hoje agendamentos de retirada antes de quarta-feira e deixe pronto o desvio para Oakland ou Lázaro Cárdenas."
    },
    "fuentes": [
     {
-     "t": "FreightWaves — huelga en el puerto más activo de EE. UU.",
-     "u": "https://www.freightwaves.com/news/strike-at-busiest-us-port-just-days-away-as-talks-continue"
+     "t": "FreshFruitPortal: nueva fecha límite de huelga en LA–Long Beach",
+     "u": "https://www.freshfruitportal.com/news/2026/11/02/la-long-beach-strike/"
     },
     {
-     "t": "gCaptain — se aplaza la amenaza de huelga",
-     "u": "https://gcaptain.com/strike-threat-at-los-angeles-long-beach-ports-delayed-as-union-and-employers-extend-talks/"
+     "t": "SupplyChainBrain: el plazo de huelga en Long Beach pasa al 4 de noviembre",
+     "u": "https://www.supplychainbrain.com/articles/45135-port-workers-employers-push-long-beach-strike-threat-to-nov-4"
     }
    ]
   },
   {
    "id": "energia",
-   "dir": "mixed",
+   "dir": "down",
    "calor": 3,
    "mx": true,
    "latam": true,
@@ -51,19 +51,19 @@
    "en": "Energy and fuel",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El petróleo baja de 100 dólares, pero Goldman sube sus pronósticos por riesgos de oferta",
-    "en": "Oil drops below $100, but Goldman raises its forecasts on supply risks",
-    "pt": "O petróleo cai abaixo de 100 dólares, mas o Goldman eleva suas projeções por riscos de oferta"
+    "es": "El crudo se desploma más de 7% con la oferta iraní sobre Ormuz; el diésel todavía no lo refleja",
+    "en": "Crude slumps more than 7% on Iran's Hormuz offer; diesel does not reflect it yet",
+    "pt": "O petróleo despenca mais de 7% com a oferta iraniana sobre Ormuz; o diesel ainda não reflete a queda"
    },
    "x": {
-    "es": "El WTI cae 6.28% a 97.58 dólares y el Brent 4.27% a 108.68 por las pláticas entre EE. UU. e Irán en Doha, y la OPEP+ dejó sin cambio sus cuotas de diciembre. Aun así, Goldman Sachs elevó sus pronósticos de cierre de año y de 2027 por riesgos “sustanciales” al suministro, y el diésel en EE. UU. sigue en 6.35 dólares por galón.",
-    "en": "WTI falls 6.28% to $97.58 and Brent 4.27% to $108.68 on US–Iran talks in Doha, and OPEC+ left its December quotas unchanged. Even so, Goldman Sachs raised its year-end and 2027 forecasts on “substantial” supply risks, and US diesel remains at $6.35 per gallon.",
-    "pt": "O WTI cai 6.28%, para 97.58 dólares, e o Brent 4.27%, para 108.68, com as conversas entre EUA e Irã em Doha, e a OPEP+ manteve suas cotas de dezembro. Mesmo assim, o Goldman Sachs elevou suas projeções para o fim do ano e para 2027 por riscos “substanciais” à oferta, e o diesel nos EUA segue em 6.35 dólares por galão."
+    "es": "A media sesión, el WTI cae 7.37% a 96.45 dólares y el Brent 7.51% a 104.91, después de que Irán dijo que podría reabrir Ormuz si EE. UU. acepta terminar la guerra. Los ataques a buques continúan, y en futuros la gasolina cae 7.6% y el diésel de calefacción 5%.",
+    "en": "At midday, WTI falls 7.37% to $96.45 and Brent 7.51% to $104.91, after Iran said it could reopen Hormuz if the US agrees to end the war. Attacks on ships continue, and in futures gasoline falls 7.6% and heating oil 5%.",
+    "pt": "No meio da sessão, o WTI cai 7,37% para 96,45 dólares e o Brent 7,51% para 104,91, depois que o Irã disse que poderia reabrir Ormuz se os EUA aceitarem encerrar a guerra. Os ataques a navios continuam e, nos futuros, a gasolina cai 7,6% e o óleo de aquecimento 5%."
    },
    "scm": {
-    "es": "No bajes todavía los recargos por combustible: espera dos semanas de diésel estable y pacta un tope para diciembre.",
-    "en": "Don't cut fuel surcharges yet: wait for two weeks of stable diesel and agree on a December cap.",
-    "pt": "Não reduza ainda as sobretaxas de combustível: espere duas semanas de diesel estável e acorde um teto para dezembro."
+    "es": "No bajes todavía los recargos por combustible: pacta con transportistas un tope para diciembre referido al precio publicado del diésel.",
+    "en": "Do not cut fuel surcharges yet: agree a December cap with carriers tied to the published diesel price.",
+    "pt": "Não reduza ainda as sobretaxas de combustível: negocie com transportadoras um teto para dezembro vinculado ao preço publicado do diesel."
    },
    "fuentes": [
     {
@@ -73,6 +73,37 @@
     {
      "t": "Yahoo Finance — mercados en vivo, 2 nov 2026",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    }
+   ]
+  },
+  {
+   "id": "semis",
+   "dir": "mixed",
+   "calor": 2,
+   "mx": false,
+   "latam": false,
+   "es": "Semiconductores y electrónica",
+   "en": "Semiconductors and electronics",
+   "pt": "Semicondutores e eletrônicos",
+   "titular": {
+    "es": "Marvell acuerda comprar Lumentum y la oferta de ópticos para IA se concentra",
+    "en": "Marvell agrees to buy Lumentum, concentrating the supply of AI optics",
+    "pt": "Marvell fecha acordo para comprar a Lumentum e a oferta de ópticos para IA se concentra"
+   },
+   "x": {
+    "es": "Marvell informó a la SEC su acuerdo para comprar Lumentum, proveedor de láseres y componentes ópticos para centros de datos; las acciones de Lumentum caen cerca de 10%. En memoria, el KOSPI cerró con alza de 2.24% por Samsung y SK hynix, mientras Kioxia cayó 15.8% en Tokio.",
+    "en": "Marvell disclosed to the SEC its agreement to buy Lumentum, a supplier of lasers and optical components for data centers; Lumentum shares fall about 10%. In memory, the KOSPI closed up 2.24% on Samsung and SK hynix, while Kioxia fell 15.8% in Tokyo.",
+    "pt": "A Marvell informou à SEC o acordo para comprar a Lumentum, fornecedora de lasers e componentes ópticos para data centers; as ações da Lumentum caem cerca de 10%. Em memória, o KOSPI fechou em alta de 2,24% com Samsung e SK hynix, enquanto a Kioxia caiu 15,8% em Tóquio."
+   },
+   "scm": {
+    "es": "Si compras transceptores u ópticos, revisa la exposición a un solo proveedor y asegura volumen 2027 con contratos de mayor plazo.",
+    "en": "If you buy transceivers or optics, review single-supplier exposure and secure 2027 volume with longer-term contracts.",
+    "pt": "Se você compra transceptores ou ópticos, revise a exposição a um único fornecedor e garanta volume de 2027 com contratos de prazo maior."
+   },
+   "fuentes": [
+    {
+     "t": "SEC: 8-K de Marvell Technology (acuerdo con Lumentum)",
+     "u": "https://www.sec.gov/Archives/edgar/data/0001835632/000119312526442714/d81187d8k.htm"
     }
    ]
   },
@@ -275,40 +306,6 @@
     {
      "t": "FreightWaves — Boeing 767 convertido a carguero",
      "u": "https://www.freightwaves.com/news/boeing-secures-lessor-order-for-767-passenger-to-freighter-conversion"
-    }
-   ]
-  },
-  {
-   "id": "software",
-   "dir": "up",
-   "calor": 2,
-   "mx": false,
-   "es": "Software e IA para supply chain",
-   "en": "Supply chain software and AI",
-   "pt": "Software e IA para supply chain",
-   "titular": {
-    "es": "Flexport mueve 40% más volumen con sólo 5% más personal gracias a la IA",
-    "en": "Flexport moves 40% more volume with only 5% more staff thanks to AI",
-    "pt": "A Flexport movimenta 40% mais volume com só 5% mais pessoal graças à IA"
-   },
-   "x": {
-    "es": "El CEO de Flexport dijo que sus volúmenes marítimos crecieron 40% mientras su plantilla sólo aumentó 5%, y que evalúa equipos de ingeniería más pequeños porque la IA acelera los lanzamientos. En retail, Runnings despliega por fases la plataforma de IA de Relex para unir pronóstico y reabasto.",
-    "en": "Flexport's CEO said ocean volumes grew 40% while headcount rose only 5%, and that the company is weighing smaller engineering teams as AI speeds up releases. In retail, Runnings is rolling out Relex's AI platform in phases to unite forecasting and replenishment.",
-    "pt": "O CEO da Flexport disse que os volumes marítimos cresceram 40% enquanto o quadro de pessoal aumentou só 5%, e que avalia equipes de engenharia menores porque a IA acelera os lançamentos. No varejo, a Runnings implanta em fases a plataforma de IA da Relex para unir previsão e reabastecimento."
-   },
-   "scm": {
-    "es": "Mide la productividad por operación (embarques o pedidos por persona) antes y después de automatizar para saber si la IA realmente libera capacidad.",
-    "en": "Measure productivity per operation (shipments or orders per person) before and after automating to know whether AI really frees up capacity.",
-    "pt": "Meça a produtividade por operação (embarques ou pedidos por pessoa) antes e depois de automatizar para saber se a IA realmente libera capacidade."
-   },
-   "fuentes": [
-    {
-     "t": "FreightWaves — Flexport y la IA",
-     "u": "https://www.freightwaves.com/news/flexport-volumes-up-40-ai-headcount"
-    },
-    {
-     "t": "Supply Chain Dive — Runnings y Relex",
-     "u": "https://www.supplychaindive.com/news/runnings-unites-forecasting-replenishment-with-ai/872823/"
     }
    ]
   }

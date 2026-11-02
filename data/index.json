@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-02-mediodia-global",
+   "fecha": "2026-11-02",
+   "momento": "mediodia",
+   "mercado": "global",
+   "titular_es": "El petróleo se hunde 7% y Wall Street amplía el rebote, con el Dow arriba de 1% antes de Apple y de las elecciones",
+   "titular_en": "Oil sinks 7% and Wall Street extends its rebound, with the Dow up more than 1% ahead of Apple and the elections",
+   "titular_pt": "O petróleo afunda 7% e Wall Street amplia a alta, com o Dow acima de 1% antes da Apple e das eleições"
+  },
+  {
+   "id": "2026-11-02-mediodia-latam",
+   "fecha": "2026-11-02",
+   "momento": "mediodia",
+   "mercado": "latam",
+   "titular_es": "Canadá y Chile acompañan el rebote; Brasil y Colombia siguen sin operar y el real y el peso colombiano se debilitan",
+   "titular_en": "Canada and Chile join the rebound; Brazil and Colombia remain closed as the real and the Colombian peso weaken",
+   "titular_pt": "Canadá e Chile acompanham a alta; Brasil e Colômbia seguem sem pregão e o real e o peso colombiano se enfraquecem"
+  },
+  {
+   "id": "2026-11-02-mediodia-mexico",
+   "fecha": "2026-11-02",
+   "momento": "mediodia",
+   "mercado": "mexico",
+   "titular_es": "Con la BMV cerrada, el peso amplía su avance a 18.55 por dólar con el crudo a la baja y el dólar débil",
+   "titular_en": "With the BMV closed, the peso extends its gain to 18.55 per dollar as crude falls and the dollar weakens",
+   "titular_pt": "Com a BMV fechada, o peso amplia o ganho para 18,55 por dólar com o petróleo em queda e o dólar fraco"
+  },
+  {
    "id": "2026-11-02-apertura-global",
    "fecha": "2026-11-02",
    "momento": "apertura",
