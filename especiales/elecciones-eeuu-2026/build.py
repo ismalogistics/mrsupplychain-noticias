@@ -17,11 +17,17 @@ E = html.escape
 F = {**FUENTES, **FUENTES_EEUU}
 LANGS = ('es', 'en', 'pt')
 PUBLICADO = '2026-11-02T12:00:00-06:00'
-ACTUALIZADO = PUBLICADO
+ACTUALIZADO = PUBLICADO  # se recalcula en __main__ con la última entrada de ACTUALIZACIONES
 
 # ------------------------------------------------------------------ Resultados (seguimiento del 4 de noviembre)
 # Mientras esté vacío, la página muestra el bloque "previo a la elección".
 # Para el seguimiento: llenar con texto verificado y fuentes, y poner ACTUALIZADO.
+# ------------------------------------------------------------------ Bitácora "Al momento"
+# Cada actualización programada AGREGA una entrada al final de esta lista (no borra las anteriores):
+# {'t': '2026-11-03T08:30:00-06:00', 'titulo': L(es, en, pt), 'x': L(es, en, pt), 'f': ['clave_fuente', ...]}
+# 'x' puede tener 2–4 oraciones por idioma. Las fuentes nuevas se agregan a FUENTES_EEUU (contenido_eeuu.py).
+ACTUALIZACIONES = []
+
 RESULTADOS = None  # ejemplo: {'titulo': L(...), 'parrafos': [L(...), ...], 'f': ['clave', ...]}
 
 def sp(d, cls=''):
@@ -170,9 +176,25 @@ DEK = L('Estado por estado en EE. UU., México, cada país de LATAM y cada regi�
         'Estado por estado nos EUA, México, cada país da América Latina e cada região do mundo: o que muda com o resultado de 3 de novembro, o que não muda e o que acompanhar na sua operação.')
 DESC = 'Especial: qué se juega supply chain en las elecciones intermedias de EE. UU. del 3 de noviembre de 2026, por estado, en México, LATAM y el mundo.'
 
+def fecha_hora(iso):
+    from datetime import datetime
+    d = datetime.fromisoformat(iso)
+    m = d.month - 1
+    h = d.strftime('%H:%M')
+    return L(f'{d.day} {MES["es"][m]}, {h} h (CDMX)', f'{MES["en"][m]} {d.day}, {h} (Mexico City)', f'{d.day} {MES["pt"][m]}, {h} (Cidade do México)')
+
+def bloque_vivo():
+    if not ACTUALIZACIONES:
+        return ''
+    items = []
+    for a in sorted(ACTUALIZACIONES, key=lambda a: a['t'], reverse=True):
+        items.append(f'<li><time datetime="{a["t"]}">{sp(fecha_hora(a["t"]))}</time><h3>{sp(a["titulo"])}</h3>{blk(a["x"])}<p class="ex-src">{fuentes_html(a.get("f", []))}</p></li>')
+    return (f'<section class="ex-vivo" id="al-momento"><p class="ex-vk"><span class="dot"></span>{sp(L("Al momento", "Live updates", "Ao vivo"))}</p>'
+            f'<ol>{"".join(items)}</ol></section>')
+
 def bloque_resultados():
     if not RESULTADOS:
-        return f'<aside class="ex-pend"><b>{sp(L("Previo a la elección.", "Before the vote.", "Antes da eleição."))}</b> {sp(L("Este especial se actualiza el miércoles 4 de noviembre con los resultados y su lectura para supply chain.", "This special will be updated on Wednesday, November 4 with the results and what they mean for supply chains.", "Este especial será atualizado na quarta-feira, 4 de novembro, com os resultados e sua leitura para supply chain."))}</aside>'
+        return f'<aside class="ex-pend"><b>{sp(L("Previo a la elección.", "Before the vote.", "Antes da eleição."))}</b> {sp(L("Este especial se actualiza el lunes 2 en la noche; el martes 3 en la mañana, a mediodía, en la tarde y en la noche; y el miércoles 4 con resultados y su lectura para supply chain.", "This special is updated on Monday the 2nd at night; on Tuesday the 3rd in the morning, at midday, in the afternoon and at night; and on Wednesday the 4th with results and what they mean for supply chains.", "Este especial é atualizado na segunda, dia 2, à noite; na terça, dia 3, de manhã, ao meio-dia, à tarde e à noite; e na quarta, dia 4, com resultados e sua leitura para supply chain."))}</aside>'
     pars = ''.join(blk(p) for p in RESULTADOS['parrafos'])
     return f'<section class="ex-res" id="resultados"><h2 class="nx-h2">{sp(RESULTADOS["titulo"])}</h2><div class="nx-body ex-prose">{pars}</div><p class="ex-src">{fuentes_html(RESULTADOS.get("f", []))}</p></section>'
 
@@ -408,6 +430,18 @@ CSS = '''
 @media (max-width:900px){.ex-escs{grid-template-columns:repeat(2,minmax(0,1fr))}.ex-escs .ex-esc:last-child{grid-column:1/-1}.ex-bars2{grid-template-columns:minmax(0,1fr)}.ex-fuentes{columns:1}}
 @media (max-width:520px){.ex-tiles{gap:2px}.tile{border-radius:3px}.tile.k::after{inset:2px;border-width:1.5px}.tile.w::before{width:4px;height:4px;top:2px;right:2px}.ex-bars li{grid-template-columns:minmax(0,7em) minmax(0,1fr) auto;font-size:12px}}
 @media (max-width:599px){.ex-60 p{font-size:1rem}.ex-60 li{grid-template-columns:26px 1fr;padding:10px 0}.ex-prose p{font-size:1.02rem}.ex-escs{grid-template-columns:minmax(0,1fr)}.ex-escs .ex-esc:last-child{grid-column:auto}}
+
+.ex-vivo{margin:22px 0 0;border:2px solid #a83246;border-radius:12px;background:var(--panel);padding:16px 20px;max-width:none}
+.ex-vk{margin:0 0 6px;font-size:12px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:#a83246;display:flex;align-items:center;gap:8px}
+.ex-vk .dot{width:9px;height:9px;border-radius:50%;background:#a83246;animation:exp 1.6s infinite}
+@keyframes exp{0%{box-shadow:0 0 0 0 rgba(168,50,70,.6)}70%{box-shadow:0 0 0 9px rgba(168,50,70,0)}100%{box-shadow:0 0 0 0 rgba(168,50,70,0)}}
+.ex-vivo ol{list-style:none;margin:0;padding:0;max-height:560px;overflow:auto}
+.ex-vivo li{padding:12px 0;border-top:1px solid var(--line)}
+.ex-vivo li:first-child{border-top:0}
+.ex-vivo time{font-size:12px;font-weight:700;color:var(--muted)}
+.ex-vivo h3{margin:2px 0 4px;font-family:var(--serif);font-size:1.2rem;line-height:1.25}
+.ex-vivo p{margin:0;font-size:15px;line-height:1.55}
+.ex-hero.has-img .ex-vivo,.ex-hero.has-img .ex-res{grid-column:1/-1}
 '''
 
 JS = r'''
@@ -450,6 +484,8 @@ def pagina():
            ('latam', L('LATAM', 'LATAM', 'América Latina')), ('mundo', L('Mundo', 'World', 'Mundo')),
            ('calendario', L('Calendario', 'Calendar', 'Calendário')), ('acciones', L('Qué hacer', 'What to do', 'O que fazer')),
            ('fuentes', L('Fuentes', 'Sources', 'Fontes'))]
+    if ACTUALIZACIONES:
+        toc = [('al-momento', L('Al momento', 'Live', 'Ao vivo'))] + toc
     toc_html = ''.join(f'<a href="#{i}">{sp(t)}</a>' for i, t in toc)
     acciones = ''.join(f'<li>{blk(a)}</li>' for a in ACCIONES)
     mx_pars = ''.join(blk(p) for p in MEXICO['parrafos'])
@@ -500,7 +536,7 @@ def pagina():
         <p class="ex-tagline">{sp(L("Especial · Elecciones EE. UU. 2026", "Special · US Elections 2026", "Especial · Eleições EUA 2026"))}</p>
         <h1 class="nx-hl">{sp(TITULO)}</h1>
         <p class="nx-dek">{sp(DEK)}</p>
-        <div class="nx-byline"><b><span data-lang="es">Mesa de mercados {E(MARCA)}</span><span data-lang="en">{E(MARCA)} markets desk</span><span data-lang="pt">Mesa de mercados {E(MARCA)}</span></b> · <time datetime="{ACTUALIZADO}">{sp(L("2 de noviembre de 2026" if not RESULTADOS else "Actualizado: 4 de noviembre de 2026", "November 2, 2026" if not RESULTADOS else "Updated: November 4, 2026", "2 de novembro de 2026" if not RESULTADOS else "Atualizado: 4 de novembro de 2026"))}</time></div>
+        <div class="nx-byline"><b><span data-lang="es">Mesa de mercados {E(MARCA)}</span><span data-lang="en">{E(MARCA)} markets desk</span><span data-lang="pt">Mesa de mercados {E(MARCA)}</span></b> · <time datetime="{ACTUALIZADO}">{sp(L("2 de noviembre de 2026", "November 2, 2026", "2 de novembro de 2026") if ACTUALIZADO == PUBLICADO else (lambda f: L("Actualizado: " + f["es"], "Updated: " + f["en"], "Atualizado: " + f["pt"]))(fecha_hora(ACTUALIZADO)))}</time></div>
         <div class="nx-share" aria-label="Compartir / Share / Compartilhar">
           <a href="https://www.linkedin.com/sharing/share-offsite/?url={quote(share % 'linkedin', safe='')}" target="_blank" rel="noopener">LinkedIn</a>
           <a href="https://x.com/intent/post?text={quote(t_es, safe='')}&url={quote(share % 'x', safe='')}&hashtags=MrSupplyChainMexico" target="_blank" rel="noopener">X</a>
@@ -508,6 +544,7 @@ def pagina():
           <a href="https://t.me/share/url?url={quote(share % 'telegram', safe='')}&text={quote(t_es, safe='')}" target="_blank" rel="noopener">Telegram</a>
         </div>
         {bloque_resultados()}
+        {bloque_vivo()}
       </div>
       <nav class="ex-toc" aria-label="Contenido">{toc_html}</nav>
 
@@ -621,6 +658,8 @@ def og():
     im.save(os.path.join(AQUI, 'og.png'), optimize=True)
 
 if __name__ == '__main__':
+    if ACTUALIZACIONES:
+        ACTUALIZADO = max([ACTUALIZADO] + [a['t'] for a in ACTUALIZACIONES])
     with open(os.path.join(AQUI, 'index.html'), 'w', encoding='utf-8') as fh:
         fh.write(pagina())
     og()
