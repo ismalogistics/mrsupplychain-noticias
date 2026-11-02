@@ -81,8 +81,12 @@
    "v": 18.65
   },
   {
-   "fecha": "2026-10-30",
+   "fecha": "2026-10-29",
    "v": 18.81
+  },
+  {
+   "fecha": "2026-10-30",
+   "v": 18.8
   }
  ],
  "banxico": [
@@ -140,6 +144,11 @@
    "mes": "2026-10",
    "tasa": 6.5,
    "inflacion": 3.62
+  },
+  {
+   "mes": "2026-11",
+   "tasa": 6.5,
+   "inflacion": null
   }
  ],
  "economias": [
@@ -149,7 +158,8 @@
    "tasa": 6.5,
    "inflacion": 3.62,
    "pib": 0.9,
-   "desempleo": 2.8
+   "desempleo": 2.8,
+   "pt": "México"
   },
   {
    "es": "EE. UU.",
@@ -157,7 +167,8 @@
    "tasa": 4.0,
    "inflacion": 3.7,
    "pib": 3.4,
-   "desempleo": 4.2
+   "desempleo": 4.2,
+   "pt": "EUA"
   },
   {
    "es": "Zona euro",
@@ -165,7 +176,8 @@
    "tasa": 2.5,
    "inflacion": 3.8,
    "pib": 0.4,
-   "desempleo": 6.5
+   "desempleo": 6.5,
+   "pt": "Zona do euro"
   },
   {
    "es": "Japón",
@@ -173,7 +185,8 @@
    "tasa": 1.25,
    "inflacion": 2.1,
    "pib": 0.4,
-   "desempleo": 2.4
+   "desempleo": 2.4,
+   "pt": "Japão"
   },
   {
    "es": "Corea del Sur",
@@ -181,7 +194,8 @@
    "tasa": 3.0,
    "inflacion": 2.9,
    "pib": 1.0,
-   "desempleo": 2.6
+   "desempleo": 2.6,
+   "pt": "Coreia do Sul"
   }
  ]
 }

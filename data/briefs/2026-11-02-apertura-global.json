@@ -1,0 +1,96 @@
+{
+ "id": "2026-11-02-apertura-global",
+ "fecha": "2026-11-02",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:30 CDMX",
+ "fin_de_semana": true,
+ "es": {
+  "titular": "Wall Street rebota y el petróleo baja de 100 dólares por la vía diplomática con Irán; la semana trae elecciones, Banxico y empleo",
+  "bloques": [
+   {
+    "t": "Premercado",
+    "x": "Fin de semana: EE. UU. e Irán hablaron en Doha con mediación de Qatar y Washington se inclinó por negociar; la OPEP+ dejó sin cambio sus cuotas de diciembre y hackers sacaron cerca de 6,300 millones de dólares de Binance. Los futuros abrieron el domingo en alza (S&P +0.5%, Nasdaq 100 +0.9%). Al abrir, el S&P 500 sube 0.45% (7,613.87), el Dow 0.78% (52,173.40) y el Nasdaq 0.63% (25,596.07). El WTI cae 6.3% a 97.58 dólares, el Treasury a 10 años baja a 4.90% y el euro sube a 1.1199 dólares."
+   },
+   {
+    "t": "Asia y Europa",
+    "x": "Asia cerró mixta: el KOSPI rebotó 2.24% (5,859.08) con Samsung y SK hynix, mientras el Nikkei cedió 0.33% (63,081.86) por la caída de 15.8% de Kioxia; Shanghái subió 1.0% pese a que el PMI manufacturero oficial de China cayó a 49.3. Europa opera plana: la Stoxx 600 llegó a bajar 0.3% y luego quedó en +0.05%; Alstom se desplomó tras recortar su margen."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "El ISM manufacturero de octubre salió en 55.5 (54.5 previo), con producción en 59.0, precios pagados en 75.2 y entregas de proveedores más lentas (59.1). Después del cierre reporta Apple (se esperan 2 dólares por acción e ingresos por 113,460 millones); también Palantir y Marriott. Habla Goolsbee, de la Fed. En México la BMV no opera hoy por Día de Muertos."
+   },
+   {
+    "t": "La semana que viene",
+    "x": "Martes 3: elecciones intermedias en EE. UU. Miércoles 4: decisión del Copom de Brasil (Selic 13.75%) e ISM de servicios. Jueves 5: decisión de Banxico (6.50%, se espera pausa) y Banco de Inglaterra. Viernes 6: empleo de octubre en EE. UU. (desempleo esperado 4.2%). En resultados: AMD, Qualcomm, Arm, Uber y McDonald's."
+   }
+  ],
+  "scm": "El petróleo abajo de 100 dólares es un alivio que todavía no llega al diésel: no renegocies recargos a la baja hasta ver dos semanas de precios estables. Con el ISM marcando entregas más lentas y precios de insumos altos, mantén el inventario de seguridad en materiales críticos y aprovecha el repunte del peso para cubrir pagos en dólares."
+ },
+ "en": {
+  "titular": "Wall Street bounces and oil drops below $100 on the diplomatic track with Iran; the week brings elections, Banxico and jobs",
+  "bloques": [
+   {
+    "t": "Pre-market",
+    "x": "Over the weekend, the US and Iran held talks in Doha with Qatari mediation and Washington leaned toward negotiating; OPEC+ left its December quotas unchanged, and hackers drained about $6.3 billion from Binance. Futures opened higher on Sunday (S&P +0.5%, Nasdaq 100 +0.9%). At the open, the S&P 500 is up 0.45% (7,613.87), the Dow 0.78% (52,173.40) and the Nasdaq 0.63% (25,596.07). WTI is down 6.3% at $97.58, the 10-year Treasury yield eases to 4.90% and the euro rises to $1.1199."
+   },
+   {
+    "t": "Asia and Europe",
+    "x": "Asia closed mixed: the KOSPI rebounded 2.24% (5,859.08) on Samsung and SK hynix, while the Nikkei slipped 0.33% (63,081.86) on a 15.8% drop in Kioxia; Shanghai rose 1.0% even as China's official manufacturing PMI fell to 49.3. Europe is flat: the Stoxx 600 was down as much as 0.3% before settling at +0.05%; Alstom plunged after cutting its margin outlook."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The October ISM manufacturing index came in at 55.5 (54.5 prior), with production at 59.0, prices paid at 75.2 and slower supplier deliveries (59.1). Apple reports after the close (expected EPS of $2 and revenue of $113.46 billion), along with Palantir and Marriott. The Fed's Goolsbee speaks. In Mexico, the BMV is closed today for Day of the Dead."
+   },
+   {
+    "t": "The week ahead",
+    "x": "Tuesday 3: US midterm elections. Wednesday 4: Brazil's Copom decision (Selic 13.75%) and the ISM services index. Thursday 5: Banxico decision (6.50%, a pause is expected) and the Bank of England. Friday 6: US October jobs report (unemployment expected at 4.2%). Earnings: AMD, Qualcomm, Arm, Uber and McDonald's."
+   }
+  ],
+  "scm": "Oil below $100 is relief that hasn't reached diesel yet: don't renegotiate surcharges lower until you see two weeks of stable prices. With the ISM showing slower deliveries and high input prices, keep safety stock on critical materials and use the peso's rebound to hedge dollar payments."
+ },
+ "pt": {
+  "titular": "Wall Street sobe e o petróleo cai abaixo de 100 dólares com a via diplomática com o Irã; a semana traz eleições, Banxico e emprego",
+  "bloques": [
+   {
+    "t": "Pré-mercado",
+    "x": "No fim de semana, EUA e Irã conversaram em Doha com mediação do Catar, e Washington se inclinou a negociar; a OPEP+ manteve suas cotas de dezembro, e hackers tiraram cerca de 6,300 milhões de dólares da Binance. Os futuros abriram em alta no domingo (S&P +0.5%, Nasdaq 100 +0.9%). Na abertura, o S&P 500 sobe 0.45% (7,613.87), o Dow 0.78% (52,173.40) e o Nasdaq 0.63% (25,596.07). O WTI cai 6.3%, para 97.58 dólares, o Treasury de 10 anos recua para 4.90% e o euro sobe para 1.1199 dólar."
+   },
+   {
+    "t": "Ásia e Europa",
+    "x": "A Ásia fechou mista: o KOSPI subiu 2.24% (5,859.08) com Samsung e SK hynix, enquanto o Nikkei cedeu 0.33% (63,081.86) pela queda de 15.8% da Kioxia; Xangai subiu 1.0%, apesar de o PMI industrial oficial da China ter caído para 49.3. A Europa opera estável: o Stoxx 600 chegou a cair 0.3% e depois ficou em +0.05%; a Alstom despencou após cortar sua margem."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "O ISM industrial de outubro saiu em 55.5 (54.5 antes), com produção em 59.0, preços pagos em 75.2 e entregas de fornecedores mais lentas (59.1). Depois do fechamento, a Apple divulga resultados (espera-se lucro de 2 dólares por ação e receita de 113,460 milhões), assim como Palantir e Marriott. Goolsbee, do Fed, discursa. No México, a BMV não opera hoje por causa do Dia dos Mortos."
+   },
+   {
+    "t": "A semana que vem",
+    "x": "Terça, 3: eleições de meio de mandato nos EUA. Quarta, 4: decisão do Copom (Selic em 13.75%) e ISM de serviços. Quinta, 5: decisão do Banxico (6.50%, espera-se pausa) e do Banco da Inglaterra. Sexta, 6: emprego de outubro nos EUA (desemprego esperado de 4.2%). Resultados: AMD, Qualcomm, Arm, Uber e McDonald's."
+   }
+  ],
+  "scm": "O petróleo abaixo de 100 dólares é um alívio que ainda não chegou ao diesel: não renegocie sobretaxas para baixo até ver duas semanas de preços estáveis. Com o ISM indicando entregas mais lentas e insumos caros, mantenha o estoque de segurança de materiais críticos e aproveite a recuperação do peso mexicano para fazer hedge de pagamentos em dólares."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters vía Finwire — apertura de Wall Street, 2 nov 2026",
+   "u": "https://finwire.io/news/stock-markets-news/us-stocks-open-higher-as-ai-trade-steadies-oil-falls"
+  },
+  {
+   "t": "Yahoo Finance — mercados en vivo, 2 nov 2026",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+  },
+  {
+   "t": "Aju Press — cierre de Seúl y Tokio",
+   "u": "https://www.ajupress.com/view/20261102164546165"
+  },
+  {
+   "t": "Reuters vía FMT — Europa y petróleo",
+   "u": "https://www.freemalaysiatoday.com/category/business/2026/11/02/european-stocks-flat-oil-drops-as-midterm-caution-prevails"
+  },
+  {
+   "t": "TipRanks — futuros y Brent",
+   "u": "https://tipranks.com/news/stock-market-today-nov-2-futures-rise-ahead-of-earnings-and-midterm-elections-oil-prices-fall"
+  }
+ ]
+}

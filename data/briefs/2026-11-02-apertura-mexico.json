@@ -1,0 +1,96 @@
+{
+ "id": "2026-11-02-apertura-mexico",
+ "fecha": "2026-11-02",
+ "momento": "apertura",
+ "mercado": "mexico",
+ "hora": "09:30 CDMX",
+ "fin_de_semana": true,
+ "es": {
+  "titular": "Sin Bolsa por Día de Muertos, el peso arranca la semana con una recuperación de 0.85% rumbo a la decisión de Banxico del jueves",
+  "bloques": [
+   {
+    "t": "Premercado",
+    "x": "La BMV y los bancos no operan hoy por Día de Muertos, así que no hay FIX; el último, del 30 de octubre, fue de 18.7962 y se publica mañana en el DOF. El peso se aprecia: abrió cerca de 18.74–18.76 y hacia las 9:00 cotiza en 18.63 por dólar, 0.85% mejor que el cierre del viernes (18.79). El IPC cerró el viernes en 69,779.20 (−0.01%) y reabre el martes."
+   },
+   {
+    "t": "Contexto",
+    "x": "El peso viene de ocho semanas seguidas de depreciación, una racha que no se veía desde 2018, presionado por un diferencial de tasas con EE. UU. de unos 250 puntos, de los más estrechos desde 2016. Hoy lo ayudan la caída del petróleo, el rebote de Wall Street y el tono de las pláticas comerciales en Norteamérica: Carney calificó de constructiva su llamada con Trump. En comercio, EE. UU. fijó hoy márgenes antidumping de 14.29% al acero resistente a la corrosión de México."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Sin indicadores ni subasta hoy. Martes: remesas de septiembre, IMEF de octubre, encuesta de Banxico a especialistas y reportes del 3T de Banorte. Miércoles: venta de vehículos ligeros de octubre. Jueves 5: decisión de Banxico, con el mercado esperando que mantenga 6.50%, además de consumo privado e inversión fija de INEGI."
+   },
+   {
+    "t": "La semana que viene",
+    "x": "La semana se define afuera y adentro: elecciones en EE. UU. el martes, Banxico el jueves y empleo de EE. UU. el viernes. El lunes 16 de noviembre vuelve a cerrar el mercado por el Día de la Revolución, y el 9 de noviembre EE. UU. decide si investiga carros tanque fabricados en México."
+   }
+  ],
+  "scm": "Aprovecha el peso en 18.63 para cubrir parte de los pagos en dólares de noviembre antes de las elecciones del martes. Planea hoy tus pagos para mañana: no habrá liquidaciones bancarias ni FIX nuevo. Si exportas acero galvanizado a EE. UU., recalcula tu costo puesto con el arancel de 14.29% y revisa tus cruces del 13 y 17 de noviembre, alrededor del feriado del 16."
+ },
+ "en": {
+  "titular": "With the stock exchange shut for Day of the Dead, the peso starts the week up 0.85% ahead of Thursday's Banxico decision",
+  "bloques": [
+   {
+    "t": "Pre-market",
+    "x": "The BMV and banks are closed today for Day of the Dead, so there is no FIX; the last one, from October 30, was 18.7962 and will be published tomorrow in the Official Gazette (DOF). The peso is strengthening: it opened around 18.74–18.76 and by 9:00 was trading at 18.63 per dollar, 0.85% better than Friday's close (18.79). The IPC closed Friday at 69,779.20 (−0.01%) and reopens Tuesday."
+   },
+   {
+    "t": "Context",
+    "x": "The peso is coming off eight straight weeks of depreciation, a streak not seen since 2018, pressured by a rate gap with the US of about 250 basis points, among the narrowest since 2016. Today it is helped by falling oil, Wall Street's rebound and the tone of North American trade talks: Carney called his call with Trump constructive. On trade, the US today set antidumping margins of 14.29% on corrosion-resistant steel from Mexico."
+   },
+   {
+    "t": "What to expect today",
+    "x": "No indicators or auction today. Tuesday: September remittances, the October IMEF index, Banxico's survey of economists and Banorte's Q3 results. Wednesday: October light-vehicle sales. Thursday 5: Banxico decision, with markets expecting a hold at 6.50%, plus INEGI's private consumption and fixed investment data."
+   },
+   {
+    "t": "The week ahead",
+    "x": "The week will be decided at home and abroad: US elections on Tuesday, Banxico on Thursday and US jobs on Friday. The market closes again on Monday, November 16, for Revolution Day, and on November 9 the US decides whether to investigate tank cars made in Mexico."
+   }
+  ],
+  "scm": "Use the peso at 18.63 to hedge part of November's dollar payments ahead of Tuesday's elections. Plan tomorrow's payments today: there will be no bank settlements or new FIX. If you export galvanized steel to the US, recalculate your landed cost with the 14.29% duty and review your border crossings on November 13 and 17, around the holiday on the 16th."
+ },
+ "pt": {
+  "titular": "Sem Bolsa por causa do Dia dos Mortos, o peso começa a semana com alta de 0.85% antes da decisão do Banxico na quinta-feira",
+  "bloques": [
+   {
+    "t": "Pré-mercado",
+    "x": "A BMV e os bancos não operam hoje por causa do Dia dos Mortos, então não há FIX; o último, de 30 de outubro, foi de 18.7962 e será publicado amanhã no DOF. O peso se valoriza: abriu perto de 18.74–18.76 e por volta das 9:00 era cotado a 18.63 por dólar, 0.85% melhor que o fechamento de sexta-feira (18.79). O IPC fechou a sexta-feira em 69,779.20 (−0.01%) e reabre na terça-feira."
+   },
+   {
+    "t": "Contexto",
+    "x": "O peso vem de oito semanas seguidas de desvalorização, uma sequência que não se via desde 2018, pressionado por um diferencial de juros com os EUA de cerca de 250 pontos, um dos mais estreitos desde 2016. Hoje ele é ajudado pela queda do petróleo, pela alta de Wall Street e pelo tom das negociações comerciais na América do Norte: Carney classificou como construtiva sua ligação com Trump. No comércio, os EUA fixaram hoje margens antidumping de 14.29% para o aço resistente à corrosão do México."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Sem indicadores nem leilão hoje. Terça: remessas de setembro, índice IMEF de outubro, pesquisa do Banxico com especialistas e resultados do 3º trimestre do Banorte. Quarta: venda de veículos leves de outubro. Quinta, 5: decisão do Banxico, com o mercado esperando manutenção em 6.50%, além de consumo privado e investimento fixo do INEGI."
+   },
+   {
+    "t": "A semana que vem",
+    "x": "A semana se define dentro e fora do país: eleições nos EUA na terça, Banxico na quinta e emprego dos EUA na sexta. Na segunda-feira, 16 de novembro, o mercado volta a fechar pelo Dia da Revolução, e em 9 de novembro os EUA decidem se investigam vagões-tanque fabricados no México."
+   }
+  ],
+  "scm": "Aproveite o peso a 18.63 para fazer hedge de parte dos pagamentos em dólares de novembro antes das eleições de terça-feira. Planeje hoje os pagamentos de amanhã: não haverá liquidações bancárias nem novo FIX. Se você exporta aço galvanizado para os EUA, recalcule o custo posto com a tarifa de 14.29% e revise suas travessias de fronteira de 13 e 17 de novembro, em torno do feriado do dia 16."
+ },
+ "fuentes": [
+  {
+   "t": "Banxico — tipo de cambio FIX",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Trading Economics — peso mexicano",
+   "u": "https://tradingeconomics.com/mexico/currency"
+  },
+  {
+   "t": "The Rio Times — Latin American Pulse, 2 nov 2026",
+   "u": "https://www.riotimesonline.com/latin-american-pulse-for-monday-november-2-2026"
+  },
+  {
+   "t": "BMV — calendario de días festivos",
+   "u": "https://bmv.com.mx/es/grupo-bmv/calendario-de-dias-festivos"
+  },
+  {
+   "t": "N+ — bancos cerrados el 2 de noviembre",
+   "u": "https://www.nmas.com.mx/economia/bancos-trabajan-el-lunes-2-de-noviembre-2026-asi-sera-el-servicio-por-dia-de-muertos/"
+  }
+ ]
+}

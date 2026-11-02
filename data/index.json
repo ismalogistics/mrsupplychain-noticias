@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-02-apertura-global",
+   "fecha": "2026-11-02",
+   "momento": "apertura",
+   "mercado": "global",
+   "titular_es": "Wall Street rebota y el petróleo baja de 100 dólares por la vía diplomática con Irán; la semana trae elecciones, Banxico y empleo",
+   "titular_en": "Wall Street bounces and oil drops below $100 on the diplomatic track with Iran; the week brings elections, Banxico and jobs",
+   "titular_pt": "Wall Street sobe e o petróleo cai abaixo de 100 dólares com a via diplomática com o Irã; a semana traz eleições, Banxico e emprego"
+  },
+  {
+   "id": "2026-11-02-apertura-latam",
+   "fecha": "2026-11-02",
+   "momento": "apertura",
+   "mercado": "latam",
+   "titular_es": "Brasil y Colombia no operan por feriado; Chile crece apenas 0.2% con la minería en −12.1% y el cobre sube",
+   "titular_en": "Brazil and Colombia closed for holidays; Chile grows just 0.2% as mining drops 12.1% and copper rises",
+   "titular_pt": "Brasil e Colômbia sem pregão por feriado; o Chile cresce só 0.2% com a mineração em −12.1% e o cobre sobe"
+  },
+  {
+   "id": "2026-11-02-apertura-mexico",
+   "fecha": "2026-11-02",
+   "momento": "apertura",
+   "mercado": "mexico",
+   "titular_es": "Sin Bolsa por Día de Muertos, el peso arranca la semana con una recuperación de 0.85% rumbo a la decisión de Banxico del jueves",
+   "titular_en": "With the stock exchange shut for Day of the Dead, the peso starts the week up 0.85% ahead of Thursday's Banxico decision",
+   "titular_pt": "Sem Bolsa por causa do Dia dos Mortos, o peso começa a semana com alta de 0.85% antes da decisão do Banxico na quinta-feira"
+  },
+  {
    "id": "2026-10-30-cierre-global",
    "fecha": "2026-10-30",
    "momento": "cierre",
