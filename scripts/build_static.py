@@ -19,6 +19,8 @@ ROOT = os.path.join(os.path.dirname(__file__), '..')
 DATA = os.path.join(ROOT, 'data')
 SITE = 'https://mrsupplychain.ai/noticias/'
 MARCA = 'Mr. Supply Chain® México'
+# Páginas especiales (carpeta, fecha de última modificación ISO)
+ESPECIALES = [('elecciones-eeuu-2026', '2026-11-02T12:00:00-06:00')]
 MOM = {'es': {'apertura': 'Apertura', 'mediodia': 'Mediodía', 'cierre': 'Cierre'},
        'en': {'apertura': 'Open', 'mediodia': 'Midday', 'cierre': 'Close'},
        'pt': {'apertura': 'Abertura', 'mediodia': 'Meio-dia', 'cierre': 'Fechamento'}}
@@ -329,6 +331,8 @@ def sitemap(lista, ahora):
     ult = iso_pub(lista[0]).isoformat() if lista else ahora.isoformat()
     urls = [f'  <url><loc>{SITE}</loc><lastmod>{ult}</lastmod><changefreq>hourly</changefreq></url>',
             f'  <url><loc>{SITE}archivo/</loc><lastmod>{ult}</lastmod><changefreq>daily</changefreq></url>']
+    for esp in ESPECIALES:
+        urls.append(f'  <url><loc>{SITE}especiales/{esp[0]}/</loc><lastmod>{esp[1]}</lastmod><changefreq>daily</changefreq></url>')
     limite = ahora - timedelta(days=2)
     for b in lista:
         pub = iso_pub(b)

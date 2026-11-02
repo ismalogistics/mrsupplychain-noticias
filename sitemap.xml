@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url><loc>https://mrsupplychain.ai/noticias/</loc><lastmod>2026-10-30T20:10:00-06:00</lastmod><changefreq>hourly</changefreq></url>
   <url><loc>https://mrsupplychain.ai/noticias/archivo/</loc><lastmod>2026-10-30T20:10:00-06:00</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://mrsupplychain.ai/noticias/especiales/elecciones-eeuu-2026/</loc><lastmod>2026-11-02T12:00:00-06:00</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-latam/</loc><lastmod>2026-10-30T20:10:00-06:00</lastmod></url>
   <url><loc>https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-mexico/</loc><lastmod>2026-10-30T14:40:00-06:00</lastmod></url>
   <url><loc>https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-global/</loc><lastmod>2026-10-30T14:40:00-06:00</lastmod></url>
