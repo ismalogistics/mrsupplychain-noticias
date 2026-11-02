@@ -139,7 +139,7 @@ def fecha_corta(f):
     return L(f'{d} {MES["es"][m - 1]}', f'{MES["en"][m - 1]} {d}', f'{d} {MES["pt"][m - 1]}')
 
 def calendario_html():
-    return '<ol class="ex-cal">' + ''.join(f'<li><time datetime="{f}">{sp(fecha_corta(f))}</time>{blk(t)}</li>' for f, t in CALENDARIO) + '</ol>'
+    return '<ol class="ex-cal">' + ''.join(f'<li{" class=hoy" if f in ("2026-11-03", "2026-11-04") else ""}><time datetime="{f}">{sp(fecha_corta(f))}</time>{blk(t)}</li>' for f, t in CALENDARIO) + '</ol>'
 
 ACCIONES = [
     L('No planees con una baja de aranceles: el resultado no cambia la 232 ni la 301. Usa las tasas actuales como escenario base para 2027.',
@@ -193,9 +193,75 @@ def todas_fuentes():
         add(RESULTADOS.get('f', []))
     return '<ol class="ex-fuentes">' + ''.join(f'<li><a href="{E(F[k][1])}" target="_blank" rel="noopener nofollow">{E(F[k][0])}</a></li>' for k in usadas) + '</ol>'
 
+def hbar(rows, unit='', cls='', maxv=None, fmt='{:,.1f}'):
+    """rows: [(label_dict_or_str, value, color, extra_label_or_None)]"""
+    mx = maxv or max(r[1] for r in rows)
+    out = []
+    for lab, v, col, extra in rows:
+        lb = sp(lab) if isinstance(lab, dict) else E(lab)
+        ex = f' <span class="x">{sp(extra) if isinstance(extra, dict) else E(extra)}</span>' if extra else ''
+        out.append(f'<li><span class="n">{lb}</span><span class="b"><i style="width:{max(v / mx * 100, 1.5):.1f}%;background:{col}"></i></span><span class="v">{E(fmt.format(v))}{unit}{ex}</span></li>')
+    return f'<ul class="ex-hb {cls}">' + ''.join(out) + '</ul>'
+
+def congreso_html():
+    def barra(nombre, segs, total, linea, nota):
+        x = 0; partes = []
+        for n, col, lab in segs:
+            partes.append(f'<i style="left:{x / total * 100:.2f}%;width:{n / total * 100:.2f}%;background:{col}" title="{n}"></i>')
+            x += n
+        leg = ''.join(f'<span><b style="background:{col}"></b>{sp(lab)} <strong>{n}</strong></span>' for n, col, lab in segs)
+        return (f'<div class="ex-seat"><div class="h"><b>{sp(nombre)}</b><span>{sp(nota)}</span></div>'
+                f'<div class="bar">{"".join(partes)}<em style="left:{linea / total * 100:.2f}%"></em></div><div class="leg">{leg}</div></div>')
+    R, D, O = '#c0392b', '#1e4f9c', '#c9ccd1'
+    camara = barra(L('Cámara de Representantes', 'House of Representatives', 'Câmara dos Representantes'),
+                   [(218, R, L('Republicanos', 'Republicans', 'Republicanos')), (214, D, L('Demócratas', 'Democrats', 'Democratas')), (3, O, L('Indep. y vacantes', 'Indep. and vacant', 'Indep. e vagas'))],
+                   435, 218, L('mayoría: 218 · en juego: 435', 'majority: 218 · up: 435', 'maioria: 218 · em disputa: 435'))
+    senado = barra(L('Senado', 'Senate', 'Senado'),
+                   [(53, R, L('Republicanos', 'Republicans', 'Republicanos')), (47, D, L('Demócratas e indep.', 'Democrats and indep.', 'Democratas e indep.'))],
+                   100, 50, L('control: 51 (o 50 + vicepresidente) · en juego: 35', 'control: 51 (or 50 + VP) · up: 35', 'controle: 51 (ou 50 + vice) · em disputa: 35'))
+    def gauge(lab, lo, hi):
+        return (f'<div class="ex-g"><div class="ring" style="--p:{(lo + hi) / 2:.1f}"><span>{lo}–{hi}%</span></div>'
+                f'<p>{sp(lab)}</p></div>')
+    g = gauge(L('Probabilidad de mayoría demócrata en la Cámara (Kalshi / Polymarket)', 'Odds of a Democratic House majority (Kalshi / Polymarket)', 'Probabilidade de maioria democrata na Câmara (Kalshi / Polymarket)'), 93, 95) + \
+        gauge(L('Probabilidad de mayoría demócrata en el Senado (Kalshi / Polymarket)', 'Odds of a Democratic Senate majority (Kalshi / Polymarket)', 'Probabilidade de maioria democrata no Senado (Kalshi / Polymarket)'), 71, 72)
+    return (f'<div class="ex-panelc"><p class="ex-ct">{sp(L("El Congreso hoy y lo que dicen los mercados", "Congress today and what markets say", "O Congresso hoje e o que dizem os mercados"))}</p>'
+            f'{camara}{senado}<div class="ex-gs">{g}</div>'
+            f'<p class="ex-src">Al Jazeera (26 oct) · WION (2 nov 2026)</p></div>')
+
+def comercio_mx_html():
+    rows = [(L('México', 'Mexico', 'México'), 682.8, '#1e4f9c', '+17.5%'), (L('Canadá', 'Canada', 'Canadá'), 503.8, '#5b3fb8', None), (L('China', 'China', 'China'), 257.4, '#a3a8b0', '−12%')]
+    return (f'<figure class="ex-fig"><figcaption>{sp(L("Comercio con EE. UU., enero–agosto 2026 (US$ mil millones)", "Trade with the US, January–August 2026 (US$ bn)", "Comércio com os EUA, janeiro–agosto 2026 (US$ bi)"))}</figcaption>'
+            f'{hbar(rows)}<p class="ex-src">Census vía FreightWaves (7 oct 2026)</p></figure>')
+
+def aranceles_latam_html():
+    A, B = '#a83246', '#d98a97'
+    rows = [(L('Brasil*', 'Brazil*', 'Brasil*'), 12.5, A, L('+25% en parte', '+25% on some', '+25% em parte')), ('Colombia', 12.5, A, None), ('Chile', 12.5, A, None), (L('Perú', 'Peru', 'Peru'), 12.5, A, None),
+            ('Venezuela', 12.5, A, None), (L('Rep. Dominicana', 'Dominican Rep.', 'Rep. Dominicana'), 12.5, A, None), ('Uruguay', 12.5, A, None), ('Costa Rica · Nicaragua', 12.5, A, None),
+            ('Argentina', 10, B, None), (L('Ecuador', 'Ecuador', 'Equador'), 10, B, None), ('Guatemala · El Salvador · Honduras', 10, B, None),
+            (L('México (no T-MEC)', 'Mexico (non-USMCA)', 'México (não USMCA)'), 10, B, L('T-MEC: 0%', 'USMCA: 0%', 'USMCA: 0%'))]
+    return (f'<figure class="ex-fig wide"><figcaption>{sp(L("Arancel general de EE. UU. (Sección 301), desde el 24 de julio de 2026", "General US tariff (Section 301), since July 24, 2026", "Tarifa geral dos EUA (Seção 301), desde 24 de julho de 2026"))}</figcaption>'
+            f'{hbar(rows, unit="%", maxv=15, fmt="{:g}", cls="cols2")}'
+            f'<p class="ex-src">{sp(L("* Brasil paga además 25% (Sección 301 específica) en ~18% de sus ventas. Productos ya sujetos a la Sección 232 quedan fuera. Fuentes: CargoTrans, EY, Reuters.", "* Brazil also pays 25% (country-specific Section 301) on ~18% of its sales. Goods already under Section 232 are excluded. Sources: CargoTrans, EY, Reuters.", "* O Brasil paga também 25% (Seção 301 específica) sobre ~18% de suas vendas. Produtos já sujeitos à Seção 232 ficam de fora. Fontes: CargoTrans, EY, Reuters."))}</p></figure>')
+
+def fletes_html():
+    C1, C2 = '#0e7490', '#1e4f9c'
+    rows = [(L('Asia → Costa Este EE. UU. (FBX)', 'Asia → US East Coast (FBX)', 'Ásia → Costa Leste EUA (FBX)'), 10565, C1, L('+9% · máx. del año', '+9% · year high', '+9% · máx. do ano')),
+            (L('Shanghái → Nueva York (WCI)', 'Shanghai → New York (WCI)', 'Xangai → Nova York (WCI)'), 9631, C2, '−5%'),
+            (L('Asia → Costa Oeste EE. UU. (FBX)', 'Asia → US West Coast (FBX)', 'Ásia → Costa Oeste EUA (FBX)'), 8368, C1, '+3%'),
+            (L('Shanghái → Los Ángeles (WCI)', 'Shanghai → Los Angeles (WCI)', 'Xangai → Los Angeles (WCI)'), 7514, C2, '−6%'),
+            (L('Shanghái → Génova (WCI)', 'Shanghai → Genoa (WCI)', 'Xangai → Gênova (WCI)'), 4151, C2, '0%'),
+            (L('Shanghái → Rotterdam (WCI)', 'Shanghai → Rotterdam (WCI)', 'Xangai → Roterdã (WCI)'), 3686, C2, '+1%')]
+    return (f'<figure class="ex-fig"><figcaption>{sp(L("Flete por contenedor de 40 pies (US$), última semana de octubre", "Freight per 40-ft container (US$), last week of October", "Frete por contêiner de 40 pés (US$), última semana de outubro"))}</figcaption>'
+            f'{hbar(rows, fmt="{:,.0f}")}<p class="ex-src">Drewry WCI (30 oct) · Freightos FBX vía AJOT (28 oct 2026)</p></figure>')
+
 CSS = '''
 .ex-page .nx-article{max-width:1120px}
 .ex-hero{padding:8px 0 4px}
+.ex-hero.has-img{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.05fr);column-gap:36px;align-items:start}
+.ex-hero.has-img>*{grid-column:1}
+.ex-himg{grid-column:2!important;grid-row:1/span 6;margin:0;align-self:center}
+.ex-himg img{display:block;width:100%;height:auto;border-radius:14px;box-shadow:0 12px 40px rgba(11,31,71,.25)}
+@media (max-width:900px){.ex-hero.has-img{display:block}.ex-himg{margin:0 0 18px}}
 .ex-hero .nx-hl{max-width:24ch}
 .ex-tagline{display:inline-block;background:#a83246;color:#fff;font-size:11.5px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;padding:4px 9px;border-radius:3px;margin:0 0 12px}
 .ex-sec{margin:44px 0 0}
@@ -285,8 +351,63 @@ CSS = '''
 .ex-toc a{font-size:13px;font-weight:700;text-decoration:none;white-space:nowrap;color:var(--ink)}
 .ex-toc a:hover{color:var(--accent)}
 .ex-method{font-size:13px;color:var(--muted);max-width:72ch;line-height:1.55}
-@media (max-width:900px){.ex-escs{grid-template-columns:minmax(0,1fr)}.ex-map{grid-template-columns:minmax(0,1fr)}.ex-bars2{grid-template-columns:minmax(0,1fr)}.ex-fuentes{columns:1}}
+
+.ex-intro{max-width:none}
+.ex-two{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:28px;align-items:start}
+.ex-two.mx{grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);margin-top:22px}
+.ex-two.fl{grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);margin-top:22px}
+.ex-60{max-width:none}
+.ex-panelc{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px 20px}
+.ex-ct{margin:0 0 12px;font-size:12px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+.ex-seat{margin:0 0 16px}
+.ex-seat .h{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font-size:13px;margin:0 0 6px}
+.ex-seat .h span{color:var(--muted);font-size:12px}
+.ex-seat .bar{position:relative;height:26px;border-radius:6px;overflow:hidden;background:#eee}
+.ex-seat .bar i{position:absolute;top:0;bottom:0}
+.ex-seat .bar em{position:absolute;top:-3px;bottom:-3px;width:2px;background:#15171b;box-shadow:0 0 0 2px #fff}
+.ex-seat .leg{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:12.5px;margin-top:6px;color:#3d4148}
+.ex-seat .leg b{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px}
+.ex-gs{display:grid;grid-template-columns:1fr 1fr;gap:12px;border-top:1px solid var(--line);padding-top:14px}
+.ex-g{display:flex;gap:12px;align-items:center}
+.ex-g .ring{--p:50;flex:none;width:76px;height:76px;border-radius:50%;background:conic-gradient(#1e4f9c calc(var(--p)*1%),#e9e7e1 0);display:grid;place-items:center}
+.ex-g .ring span{width:58px;height:58px;border-radius:50%;background:var(--panel);display:grid;place-items:center;font:700 13px/1 var(--sans);font-variant-numeric:tabular-nums}
+.ex-g p{margin:0;font-size:12.5px;line-height:1.4;color:#3d4148}
+.ex-kpis.six{grid-template-columns:repeat(6,minmax(0,1fr))}.ex-kpis.six .ex-kpi b{font-size:1.2rem}
+.ex-kpis.stack{grid-template-columns:minmax(0,1fr);margin:0}
+.ex-kpis.stack .ex-kpi b{font-size:1.8rem}
+.ex-side{display:flex;flex-direction:column;gap:18px}
+.ex-side .ex-vig{max-width:none}
+.ex-fig{margin:0;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px 18px;min-width:0}
+.ex-fig.wide{margin:0 0 20px}
+.ex-fig figcaption{font-size:13px;font-weight:800;margin:0 0 12px;line-height:1.35}
+.ex-hb{list-style:none;padding:0;margin:0}
+.ex-hb li{display:grid;grid-template-columns:minmax(0,13em) minmax(0,1fr) 11em;gap:10px;align-items:center;font-size:13.5px;padding:5px 0}
+.ex-hb .n{line-height:1.25}
+.ex-hb .b{height:16px;background:var(--soft);border-radius:4px;overflow:hidden}
+.ex-hb .b i{display:block;height:100%;border-radius:4px}
+.ex-hb .v{font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap}
+.ex-hb .v .x{font-weight:500;color:var(--muted);font-size:12px;margin-left:4px}
+.ex-hb.cols2{columns:2;column-gap:32px}
+.ex-hb.cols2 li{break-inside:avoid;grid-template-columns:minmax(0,10em) minmax(0,1fr) 9.5em}
+.ex-cal{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;border:0;max-width:none}
+.ex-cal li{padding:14px 16px;background:var(--panel);border:1px solid var(--line);border-top:4px solid var(--accent);border-radius:10px}
+.ex-cal li::before{display:none}
+.ex-cal li.hoy{border-top-color:#a83246;background:#fbf4f5}
+.ex-cal li.hoy time{color:#a83246}
+.ex-cal time{font-family:var(--serif);font-size:1.3rem;letter-spacing:0;text-transform:none;display:block;margin-bottom:4px}
+.ex-acc{list-style:none;padding:0;max-width:none;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;counter-reset:a}
+.ex-acc li{counter-increment:a;margin:0;background:var(--soft);border-radius:10px;padding:16px 18px 16px 58px;position:relative;font-size:15px}
+.ex-acc li::before{content:counter(a);position:absolute;left:16px;top:12px;font-family:var(--serif);font-size:2rem;font-weight:600;color:var(--accent);line-height:1}
+.ex-keys{grid-template-columns:repeat(3,minmax(0,1fr))}
+.ex-esc{display:flex;flex-direction:column}.ex-esc .ex-scm{margin-top:auto}
+@media (max-width:1100px){.ex-kpis.six{grid-template-columns:repeat(3,minmax(0,1fr))}.ex-keys{grid-template-columns:repeat(2,minmax(0,1fr))}.ex-acc{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:900px){.ex-two,.ex-two.mx,.ex-two.fl{grid-template-columns:minmax(0,1fr)}.ex-cal{grid-template-columns:repeat(2,minmax(0,1fr))}.ex-hb.cols2{columns:1}.ex-kpis.stack{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media (min-width:600px) and (max-width:900px){.ex-escs{grid-template-columns:repeat(2,minmax(0,1fr))}.ex-escs .ex-esc:last-child{grid-column:1/-1}.ex-tiles{max-width:620px}}
+@media (max-width:600px){.ex-kpis.six,.ex-kpis.stack{grid-template-columns:repeat(2,minmax(0,1fr))}.ex-keys,.ex-acc{grid-template-columns:minmax(0,1fr)}.ex-cal{grid-template-columns:minmax(0,1fr)}.ex-gs{grid-template-columns:minmax(0,1fr)}.ex-hb li,.ex-hb.cols2 li{grid-template-columns:minmax(0,1fr) auto;row-gap:3px}.ex-hb .b{grid-column:1/-1;grid-row:2}.ex-kpi b{font-size:1.2rem}.ex-panelc,.ex-fig{padding:14px}.ex-esc{padding:16px}}
+@media (max-width:760px){.ex-map{grid-template-columns:minmax(0,1fr)}}
+@media (max-width:900px){.ex-escs{grid-template-columns:repeat(2,minmax(0,1fr))}.ex-escs .ex-esc:last-child{grid-column:1/-1}.ex-bars2{grid-template-columns:minmax(0,1fr)}.ex-fuentes{columns:1}}
 @media (max-width:520px){.ex-tiles{gap:2px}.tile{border-radius:3px}.tile.k::after{inset:2px;border-width:1.5px}.tile.w::before{width:4px;height:4px;top:2px;right:2px}.ex-bars li{grid-template-columns:minmax(0,7em) minmax(0,1fr) auto;font-size:12px}}
+@media (max-width:599px){.ex-60 p{font-size:1rem}.ex-60 li{grid-template-columns:26px 1fr;padding:10px 0}.ex-prose p{font-size:1.02rem}.ex-escs{grid-template-columns:minmax(0,1fr)}.ex-escs .ex-esc:last-child{grid-column:auto}}
 '''
 
 JS = r'''
@@ -308,7 +429,7 @@ JS = r'''
     panel.innerHTML=h;
     var b=document.querySelectorAll('.tile');for(var i=0;i<b.length;i++)b[i].setAttribute('aria-pressed',String(b[i].getAttribute('data-st')===st));
   }
-  document.querySelector('.ex-tiles').addEventListener('click',function(e){var t=e.target.closest('.tile');if(t)show(t.getAttribute('data-st'));});
+  document.querySelector('.ex-tiles').addEventListener('click',function(e){var t=e.target.closest('.tile');if(!t)return;show(t.getAttribute('data-st'));if(window.innerWidth<900){var r=panel.getBoundingClientRect();if(r.top>window.innerHeight*0.6||r.bottom<0)panel.scrollIntoView({behavior:'smooth',block:'start'});}});
   var lb=document.querySelectorAll('[data-setlang]');for(var j=0;j<lb.length;j++)lb[j].addEventListener('click',function(){setTimeout(function(){show(cur);},0);});
   if(document.readyState==='complete')show(cur);else window.addEventListener('load',function(){show(cur);});
   show(cur);
@@ -374,7 +495,8 @@ def pagina():
   <header class="nx-mast"><div class="nx-wrap"><div class="nx-plate"><a class="nx-brand" href="/">Mr. Supply Chain<sup>®</sup> <span class="nx-mx">México</span></a><a class="nx-name" href="../../"><span data-lang="es">Noticias</span><span data-lang="en">News</span><span data-lang="pt">Notícias</span></a></div></div></header>
   <main class="nx-wrap nx-article">
     <article>
-      <div class="ex-hero">
+      <div class="ex-hero{' has-img' if os.path.exists(os.path.join(AQUI, 'hero.jpg')) else ''}">
+        {'<figure class="ex-himg"><img src="hero.jpg?v=1" width="1232" height="941" alt="" fetchpriority="high"></figure>' if os.path.exists(os.path.join(AQUI, 'hero.jpg')) else ''}
         <p class="ex-tagline">{sp(L("Especial · Elecciones EE. UU. 2026", "Special · US Elections 2026", "Especial · Eleições EUA 2026"))}</p>
         <h1 class="nx-hl">{sp(TITULO)}</h1>
         <p class="nx-dek">{sp(DEK)}</p>
@@ -391,8 +513,7 @@ def pagina():
 
       <section class="ex-sec" id="resumen">
         <h2 class="nx-h2">{sp(L("En 60 segundos", "In 60 seconds", "Em 60 segundos"))}</h2>
-        <ol class="ex-60">{''.join(f"<li>{blk(r)}</li>" for r in RESUMEN)}</ol>
-        {cifras_html(PANORAMA['cifras'])}
+        <div class="ex-two"><ol class="ex-60">{''.join(f"<li>{blk(r)}</li>" for r in RESUMEN)}</ol>{congreso_html()}</div>
         <p class="ex-src">{fuentes_html(['alj_map', 'forbes', 'sabato', 'rollcall', 'silver', 'wion', 'star', 'pwbm'])}</p>
       </section>
 
@@ -415,15 +536,15 @@ def pagina():
 
       <section class="ex-sec" id="mexico">
         <h2 class="nx-h2">{sp(MEXICO["titulo"])}</h2>
-        {cifras_html([(a, b) for a, b, _ in MEXICO['datos']])}
-        <div class="ex-prose" style="margin-top:22px">{mx_pars}</div>
-        <div class="ex-vig">{blk(MEXICO["vigilar"])}</div>
+        {cifras_html([(a, b) for a, b, _ in MEXICO['datos']], cls='ex-kpis six')}
+        <div class="ex-two mx"><div class="ex-prose">{mx_pars}</div><div class="ex-side">{comercio_mx_html()}<div class="ex-vig">{blk(MEXICO["vigilar"])}</div></div></div>
         <p class="ex-src">{fuentes_html(MEXICO['fuentes'])}</p>
       </section>
 
       <section class="ex-sec" id="latam">
         <h2 class="nx-h2">{sp(L("América Latina, país por país", "Latin America, country by country", "América Latina, país por país"))}</h2>
         {blk(L("Desde el 24 de julio, unas 60 economías pagan 10% o 12.5% adicional bajo la Sección 301 (lo que ya paga 232 queda fuera). La etiqueta de cada tarjeta muestra esa tasa general.", "Since July 24, about 60 economies pay an extra 10% or 12.5% under Section 301 (goods already under 232 are excluded). Each card’s tag shows that general rate.", "Desde 24 de julho, cerca de 60 economias pagam 10% ou 12,5% adicionais pela Seção 301 (o que já paga a 232 fica de fora). A etiqueta de cada cartão mostra essa tarifa geral."), cls='ex-intro')}
+        {aranceles_latam_html()}
         {tarjetas_html(LATAM, 'pais')}
       </section>
 
@@ -431,7 +552,7 @@ def pagina():
         <h2 class="nx-h2">{sp(L("El mundo, región por región", "The world, region by region", "O mundo, região por região"))}</h2>
         {tarjetas_html(MUNDO, 'reg')}
         <h3 style="font-family:var(--serif);font-size:1.35rem;margin:30px 0 0">{sp(L("Termómetros logísticos al cierre de octubre", "Logistics gauges at the end of October", "Termômetros logísticos no fim de outubro"))}</h3>
-        {cifras_html(INDICADORES)}
+        <div class="ex-two fl">{fletes_html()}{cifras_html([INDICADORES[3], INDICADORES[4], INDICADORES[5]], cls='ex-kpis stack')}</div>
         <p class="ex-src">{fuentes_html(['drewry', 'ajot', 'fortune', 'nrf', 'wto'])}</p>
       </section>
 
@@ -476,29 +597,27 @@ def pagina():
 def og():
     from PIL import Image, ImageDraw, ImageFont
     W, H = 1200, 630
-    im = Image.new('RGB', (W, H), '#0b1f47')
-    d = ImageDraw.Draw(im)
     def font(name, size):
         for p in (f'/usr/share/fonts/truetype/dejavu/{name}.ttf', f'/usr/share/fonts/dejavu/{name}.ttf'):
             if os.path.exists(p):
                 return ImageFont.truetype(p, size)
         return ImageFont.load_default()
-    # mosaico de estados a la derecha
-    cell, gap, x0, y0 = 30, 4, 760, 150
-    cols = {k: v[1] for k, v in PERFILES.items()}
-    for s, c, r in GRID:
-        x, y = x0 + c * (cell + gap), y0 + r * (cell + gap)
-        d.rounded_rectangle([x, y, x + cell, y + cell], 4, fill=cols[PERFIL[s]])
-        if ESTADOS.get(s, {}).get('reñida'):
-            d.rounded_rectangle([x + 3, y + 3, x + cell - 3, y + cell - 3], 3, outline='#ffffff', width=2)
+    src = os.path.join(AQUI, 'hero-full.jpg')
+    im = Image.new('RGB', (W, H), '#0b1f47')
+    if os.path.exists(src):
+        h = Image.open(src).convert('RGB')
+        h = h.resize((W, int(h.size[1] * W / h.size[0])))
+        im.paste(h, (0, (H - h.size[1]) // 2))
+    d = ImageDraw.Draw(im)
     d.rectangle([60, 60, 380, 96], fill='#a83246')
     d.text((74, 66), 'ESPECIAL · 3 NOV 2026', font=font('DejaVuSans-Bold', 22), fill='#ffffff')
-    f1 = font('DejaVuSerif-Bold', 50)
-    y = 130
-    for line in ['Elecciones en EE. UU.:', 'lo que se juega', 'supply chain']:
-        d.text((60, y), line, font=f1, fill='#ffffff'); y += 64
-    d.text((60, y + 14), 'Por estado · México · LATAM · Mundo', font=font('DejaVuSans', 26), fill='#9fc0ff')
-    d.text((60, 560), 'Mr. Supply Chain® México · Noticias', font=font('DejaVuSans-Bold', 24), fill='#ffffff')
+    f1 = font('DejaVuSerif-Bold', 44)
+    y = 128
+    for line in ['Elecciones', 'en EE. UU.:', 'lo que se juega', 'supply chain']:
+        d.text((60, y), line, font=f1, fill='#ffffff'); y += 56
+    d.text((60, y + 16), 'Por estado · México', font=font('DejaVuSans', 22), fill='#9fc0ff')
+    d.text((60, y + 46), 'LATAM · Mundo', font=font('DejaVuSans', 22), fill='#9fc0ff')
+    d.text((60, 566), 'Mr. Supply Chain® México · Noticias', font=font('DejaVuSans-Bold', 20), fill='#ffffff')
     im.save(os.path.join(AQUI, 'og.png'), optimize=True)
 
 if __name__ == '__main__':
