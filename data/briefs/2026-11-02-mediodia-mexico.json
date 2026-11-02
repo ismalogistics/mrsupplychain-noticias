@@ -3,62 +3,66 @@
  "fecha": "2026-11-02",
  "momento": "mediodia",
  "mercado": "mexico",
- "hora": "11:30 CDMX",
+ "hora": "12:51 CDMX",
  "es": {
-  "titular": "Con la BMV cerrada, el peso amplía su avance a 18.55 por dólar con el crudo a la baja y el dólar débil",
+  "titular": "El peso amplía su avance a 1.5% y cotiza en 18.57 por dólar, con la BMV cerrada y el crudo a la baja",
   "bloques": [
    {
     "t": "Lo que se esperaba",
-    "x": "El brief de apertura veía al peso en 18.63 (+0.85%), sin BMV, bancos ni FIX por Día de Muertos, y una semana definida por las elecciones de EE. UU. del martes y la decisión de Banxico del jueves 5."
+    "x": "El brief de apertura veía al peso en 18.63 (+0.85%), sin BMV, bancos ni FIX por Día de Muertos, y una semana definida por las elecciones de EE. UU. del martes y la decisión de Banxico del jueves 5. A las 11:30 CDMX ya estaba en 18.55."
    },
    {
     "t": "Cómo va",
-    "x": "El peso cotiza en 18.55 por dólar, 1.26% mejor que el cierre del viernes y por debajo de cualquier FIX desde el 21 de octubre (18.42). El IPC sigue en 69,779.20 y el Bono M a 10 años en 9.31% (cierres del 30 de octubre); la subasta de Cetes pasa al martes. No hay FIX hoy; el del 30 de octubre (18.7962) rige para liquidar mañana."
+    "x": "A las 12:51 CDMX el peso cotiza en 18.5678 por dólar, 1.51% mejor que el cierre del viernes. El IPC sigue en 69,779.20 y el Bono M a 10 años en 9.31% (cierres del 30 de octubre); la subasta de Cetes pasa al martes. No hay FIX hoy; el del 30 de octubre (18.7962) rige para liquidar mañana."
    },
    {
     "t": "Lo que sorprendió",
-    "x": "El peso ganó casi el doble de lo esperado, ayudado por el desplome del crudo (Brent −7.5%), que también bajará el precio de la mezcla mexicana y el ingreso petrolero. En comercio, el Federal Register publicó hoy los márgenes antidumping al acero resistente a la corrosión: 14.54% para Galvasid y 14.29% para el resto de los exportadores mexicanos."
+    "x": "El peso sostuvo la ganancia aunque Wall Street perdió fuerza en la tarde: lo apoyan el crudo (WTI −7.5%) y un dólar más débil. En comercio sigue vigente lo de la mañana: EE. UU. fijó márgenes antidumping de 14.29% al acero resistente a la corrosión de México (14.54% para Galvasid)."
    }
   ],
-  "scm": "El peso en 18.55 mejora la ventana de la mañana: ejecuta hoy la cobertura de una parte de los pagos en dólares de noviembre y programa las liquidaciones del martes con el FIX de 18.7962. Si exportas acero galvanizado, actualiza tu costo puesto en EE. UU. con 14.29% (14.54% si compras a Galvasid). Si importas por Long Beach, prepara el desvío a Lázaro Cárdenas antes del miércoles."
+  "scm": "Con el peso en 18.57, la ventana para cubrir pagos en dólares de noviembre sigue abierta: ejecuta hoy una parte y deja el resto para después de las elecciones. Las liquidaciones del martes usan el FIX de 18.7962. Si importas por Long Beach, ten listo el desvío a Lázaro Cárdenas antes del miércoles."
  },
  "en": {
-  "titular": "With the BMV closed, the peso extends its gain to 18.55 per dollar as crude falls and the dollar weakens",
+  "titular": "The peso extends its gain to 1.5% at 18.57 per dollar, with the BMV closed and crude falling",
   "bloques": [
    {
     "t": "What was expected",
-    "x": "The opening brief had the peso at 18.63 (+0.85%), with no BMV, banks or FIX for the Day of the Dead, and a week shaped by Tuesday's US elections and Banxico's decision on Thursday the 5th."
+    "x": "The opening brief saw the peso at 18.63 (+0.85%), with no BMV trading, banks or FIX for the Day of the Dead, and a week shaped by Tuesday's US elections and Banxico's decision on Thursday the 5th. By 11:30 Mexico City time it was already at 18.55."
    },
    {
     "t": "How it is going",
-    "x": "The peso trades at 18.55 per dollar, 1.26% stronger than Friday's close and below any FIX since October 21 (18.42). The IPC remains at 69,779.20 and the 10-year Mbono at 9.31% (October 30 closes); the Cetes auction moves to Tuesday. There is no FIX today; the October 30 FIX (18.7962) applies to tomorrow's settlements."
+    "x": "At 12:51 Mexico City time the peso trades at 18.5678 per dollar, 1.51% stronger than Friday's close. The IPC stays at 69,779.20 and the 10-year M Bono at 9.31% (October 30 closes); the Cetes auction moves to Tuesday. There is no FIX today; the October 30 FIX (18.7962) applies to tomorrow's settlements."
    },
    {
     "t": "What surprised",
-    "x": "The peso gained almost twice as much as expected, helped by the slump in crude (Brent −7.5%), which will also lower the price of the Mexican oil blend and oil revenue. On trade, the Federal Register published today antidumping margins on corrosion-resistant steel: 14.54% for Galvasid and 14.29% for all other Mexican exporters."
+    "x": "The peso held its gain even as Wall Street lost steam in the afternoon, supported by crude (WTI −7.5%) and a weaker dollar. On trade, the morning news still stands: the US set antidumping margins of 14.29% on Mexican corrosion-resistant steel (14.54% for Galvasid)."
    }
   ],
-  "scm": "The peso at 18.55 improves on the morning window: hedge part of November's dollar payments today and schedule Tuesday's settlements with the 18.7962 FIX. If you export galvanized steel, update your landed cost in the US with 14.29% (14.54% if you buy from Galvasid). If you import through Long Beach, prepare the diversion to Lázaro Cárdenas before Wednesday."
+  "scm": "With the peso at 18.57, the window to hedge November dollar payments is still open: execute part today and leave the rest until after the elections. Tuesday's settlements use the 18.7962 FIX. If you import through Long Beach, have the Lázaro Cárdenas diversion ready before Wednesday."
  },
  "pt": {
-  "titular": "Com a BMV fechada, o peso amplia o ganho para 18,55 por dólar com o petróleo em queda e o dólar fraco",
+  "titular": "O peso amplia o ganho para 1,5% e é cotado a 18,57 por dólar, com a BMV fechada e o petróleo em queda",
   "bloques": [
    {
     "t": "O que se esperava",
-    "x": "O brief de abertura via o peso em 18,63 (+0,85%), sem BMV, bancos nem FIX pelo Dia de Finados, e uma semana definida pelas eleições dos EUA na terça e pela decisão do Banxico na quinta, dia 5."
+    "x": "O brief de abertura via o peso em 18,63 (+0,85%), sem pregão na BMV, bancos ou FIX pelo Dia dos Mortos, e uma semana marcada pelas eleições dos EUA de terça e pela decisão do Banxico na quinta, dia 5. Às 11h30 (Cidade do México) já estava em 18,55."
    },
    {
     "t": "Como está",
-    "x": "O peso é cotado a 18,55 por dólar, 1,26% melhor que o fechamento de sexta e abaixo de qualquer FIX desde 21 de outubro (18,42). O IPC segue em 69.779,20 e o Mbono de 10 anos em 9,31% (fechamentos de 30 de outubro); o leilão de Cetes passa para terça. Não há FIX hoje; o de 30 de outubro (18,7962) vale para as liquidações de amanhã."
+    "x": "Às 12h51 (Cidade do México) o peso é cotado a 18,5678 por dólar, 1,51% melhor que o fechamento de sexta. O IPC segue em 69.779,20 e o Bono M de 10 anos em 9,31% (fechamentos de 30 de outubro); o leilão de Cetes passa para terça. Não há FIX hoje; o de 30 de outubro (18,7962) vale para as liquidações de amanhã."
    },
    {
     "t": "O que surpreendeu",
-    "x": "O peso ganhou quase o dobro do esperado, ajudado pelo tombo do petróleo (Brent −7,5%), que também reduzirá o preço da mistura mexicana e a receita petrolífera. No comércio, o Federal Register publicou hoje as margens antidumping sobre o aço resistente à corrosão: 14,54% para a Galvasid e 14,29% para os demais exportadores mexicanos."
+    "x": "O peso manteve o ganho mesmo com Wall Street perdendo força à tarde, apoiado pelo petróleo (WTI −7,5%) e por um dólar mais fraco. No comércio, segue valendo a notícia da manhã: os EUA fixaram margens antidumping de 14,29% para o aço resistente à corrosão do México (14,54% para a Galvasid)."
    }
   ],
-  "scm": "O peso a 18,55 melhora a janela da manhã: faça hoje o hedge de parte dos pagamentos em dólar de novembro e programe as liquidações de terça com o FIX de 18,7962. Se você exporta aço galvanizado, atualize o custo posto nos EUA com 14,29% (14,54% se compra da Galvasid). Se importa por Long Beach, prepare o desvio para Lázaro Cárdenas antes de quarta."
+  "scm": "Com o peso a 18,57, a janela para proteger pagamentos em dólares de novembro segue aberta: execute uma parte hoje e deixe o resto para depois das eleições. As liquidações de terça usam o FIX de 18,7962. Se você importa por Long Beach, tenha pronto o desvio para Lázaro Cárdenas antes de quarta."
  },
  "fuentes": [
+  {
+   "t": "El Cronista: el peso gana frente al dólar por señales de paz",
+   "u": "https://www.cronista.com/mexico/dolar-peso-mexicano/peso-mexicano-gana-casi-1-frente-al-dolar-ante-senales-de-paz-en-medio-oriente/"
+  },
   {
    "t": "Federal Register: aviso del Departamento de Comercio de EE. UU.",
    "u": "https://www.federalregister.gov/"

@@ -3,62 +3,70 @@
  "fecha": "2026-11-02",
  "momento": "mediodia",
  "mercado": "global",
- "hora": "11:30 CDMX",
+ "hora": "13:08 CDMX",
  "es": {
-  "titular": "El petróleo se hunde 7% y Wall Street amplía el rebote, con el Dow arriba de 1% antes de Apple y de las elecciones",
+  "titular": "El rebote de Wall Street pierde fuerza: el Dow conserva 0.8% por el crudo barato, pero el Nasdaq ya baja antes de Apple",
   "bloques": [
    {
     "t": "Lo que se esperaba",
-    "x": "El brief de apertura anticipaba un rebote moderado (S&P 500 +0.45%) con el WTI abajo de 100 dólares por la vía diplomática con Irán, un ISM manufacturero fuerte (55.5) y la atención puesta en Apple después del cierre."
+    "x": "El brief de apertura anticipaba un rebote moderado (S&P 500 +0.45%) con el WTI abajo de 100 dólares por la vía diplomática con Irán. A las 11:07 CDMX el rebote incluso se había ampliado, con el Dow arriba de 1% y el S&P 500 en +0.57%."
    },
    {
     "t": "Cómo va",
-    "x": "A las 11:07 CDMX, el Dow sube 1.01% (52,295.40), el S&P 500 0.57% (7,622.98) y el Nasdaq 0.67% (25,607.07). El WTI cae 7.37% a 96.45 dólares y el Brent 7.51% a 104.91; el Treasury a 10 años baja a 4.88%, el oro sube 2% (3,977) y la plata 4.2% (50.93). Europa cerró al alza: el Euro Stoxx 50 ganó cerca de 0.9%."
+    "x": "A las 13:08 CDMX el Dow sube 0.83% (52,200.75), pero el S&P 500 apenas avanza 0.08% (7,586.36) y el Nasdaq cae 0.16% (25,396.47). El WTI pierde 7.49% a 96.32 dólares y el Brent ronda 104 dólares, con baja de más de 7%. El Treasury a 10 años está en 4.89%, el oro sube 1.67% (3,964.20) y el Bitcoin cae 1.13% (76,807)."
    },
    {
     "t": "Lo que sorprendió",
-    "x": "La caída del crudo fue del doble de lo esperado: Irán dijo que podría reabrir Ormuz si EE. UU. acepta terminar la guerra, aunque siguen los ataques a buques. Marvell acordó comprar Lumentum, y Oracle cae cerca de 5% tras anunciar una emisión de acciones y bonos para IA. El plazo de la huelga de vigilantes en Los Ángeles–Long Beach es ahora el miércoles 4 a las 17:00 (hora del Pacífico)."
+    "x": "La tecnología frenó el rebote: Marvell cae 9.5% y Lumentum 15% tras anunciar su compra, y Oracle 6.4% por su plan de levantar 20,000 millones de dólares para IA. Del otro lado, United sube 5%, American 4.3% y Amazon 4.2% con el combustible más barato, mientras Occidental (−4.7%) y Exxon (−3.1%) caen. Apple reporta después del cierre."
    }
   ],
-  "scm": "El crudo a 96 dólares abre la puerta a recargos más bajos, pero espera a que el diésel lo refleje y a que pasen las elecciones antes de renegociar. Si tienes carga transpacífica por San Pedro, el riesgo de huelga se adelantó al miércoles: confirma hoy citas y rutas alternas (Oakland, Lázaro Cárdenas). Con plata y cobre al alza, fija precio de componentes de cobre para el primer trimestre."
+  "scm": "El mercado ya separa ganadores y perdedores del crudo barato: transportistas y aerolíneas suben, petroleras bajan. Usa el WTI en 96 dólares para negociar recargos de combustible en la siguiente revisión, pero no comprometas tarifas antes de las elecciones del martes ni del plazo de huelga en Los Ángeles–Long Beach del miércoles."
  },
  "en": {
-  "titular": "Oil sinks 7% and Wall Street extends its rebound, with the Dow up more than 1% ahead of Apple and the elections",
+  "titular": "Wall Street's rebound fades: the Dow holds a 0.8% gain on cheaper crude, but the Nasdaq slips ahead of Apple",
   "bloques": [
    {
     "t": "What was expected",
-    "x": "The opening brief expected a moderate rebound (S&P 500 +0.45%) with WTI below $100 on the diplomatic track with Iran, a strong ISM manufacturing reading (55.5) and focus on Apple after the close."
+    "x": "The opening brief expected a moderate rebound (S&P 500 +0.45%) with WTI below $100 on the diplomatic track with Iran. By 11:07 Mexico City time the rebound had widened, with the Dow up more than 1% and the S&P 500 up 0.57%."
    },
    {
     "t": "How it is going",
-    "x": "At 11:07 Mexico City time, the Dow is up 1.01% (52,295.40), the S&P 500 0.57% (7,622.98) and the Nasdaq 0.67% (25,607.07). WTI falls 7.37% to $96.45 and Brent 7.51% to $104.91; the 10-year Treasury eases to 4.88%, gold rises 2% (3,977) and silver 4.2% (50.93). Europe closed higher, with the Euro Stoxx 50 up about 0.9%."
+    "x": "At 13:08 Mexico City time the Dow is up 0.83% (52,200.75), but the S&P 500 is barely up 0.08% (7,586.36) and the Nasdaq is down 0.16% (25,396.47). WTI is down 7.49% at $96.32 and Brent is around $104, down more than 7%. The 10-year Treasury yields 4.89%, gold is up 1.67% (3,964.20) and Bitcoin is down 1.13% (76,807)."
    },
    {
     "t": "What surprised",
-    "x": "The drop in crude was twice what was expected: Iran said it could reopen Hormuz if the US agrees to end the war, although attacks on ships continue. Marvell agreed to buy Lumentum, and Oracle falls about 5% after announcing a stock and bond offering for AI. The Los Angeles–Long Beach watchmen strike deadline is now Wednesday the 4th at 5 p.m. Pacific time."
+    "x": "Tech stalled the rally: Marvell is down 9.5% and Lumentum 15% after announcing their deal, and Oracle 6.4% on its plan to raise $20 billion for AI. On the other side, United is up 5%, American 4.3% and Amazon 4.2% on cheaper fuel, while Occidental (−4.7%) and Exxon (−3.1%) fall. Apple reports after the close."
    }
   ],
-  "scm": "Crude at $96 opens the door to lower surcharges, but wait for diesel to reflect it and for the elections to pass before renegotiating. If you have transpacific cargo through San Pedro, the strike risk moved up to Wednesday: confirm appointments and alternate routes (Oakland, Lázaro Cárdenas) today. With silver and copper rising, lock in prices for copper components for the first quarter."
+  "scm": "The market is already sorting winners and losers from cheap crude: carriers and airlines rise, oil producers fall. Use WTI at $96 to negotiate fuel surcharges at the next review, but do not lock in rates before Tuesday's elections or Wednesday's Los Angeles–Long Beach strike deadline."
  },
  "pt": {
-  "titular": "O petróleo afunda 7% e Wall Street amplia a alta, com o Dow acima de 1% antes da Apple e das eleições",
+  "titular": "A alta de Wall Street perde força: o Dow mantém 0,8% com o petróleo mais barato, mas o Nasdaq já cai antes da Apple",
   "bloques": [
    {
     "t": "O que se esperava",
-    "x": "O brief de abertura previa uma alta moderada (S&P 500 +0,45%) com o WTI abaixo de 100 dólares pela via diplomática com o Irã, um ISM industrial forte (55,5) e atenção à Apple após o fechamento."
+    "x": "O brief de abertura previa uma alta moderada (S&P 500 +0,45%) com o WTI abaixo de 100 dólares pela via diplomática com o Irã. Às 11h07 (Cidade do México) a alta chegou a se ampliar, com o Dow acima de 1% e o S&P 500 em +0,57%."
    },
    {
     "t": "Como está",
-    "x": "Às 11h07 (Cidade do México), o Dow sobe 1,01% (52.295,40), o S&P 500 0,57% (7.622,98) e o Nasdaq 0,67% (25.607,07). O WTI cai 7,37% para 96,45 dólares e o Brent 7,51% para 104,91; o Treasury de 10 anos recua para 4,88%, o ouro sobe 2% (3.977) e a prata 4,2% (50,93). A Europa fechou em alta, com o Euro Stoxx 50 subindo cerca de 0,9%."
+    "x": "Às 13h08 (Cidade do México) o Dow sobe 0,83% (52.200,75), mas o S&P 500 avança só 0,08% (7.586,36) e o Nasdaq cai 0,16% (25.396,47). O WTI recua 7,49% a 96,32 dólares e o Brent gira em torno de 104 dólares, em queda de mais de 7%. O título do Tesouro de 10 anos está em 4,89%, o ouro sobe 1,67% (3.964,20) e o Bitcoin cai 1,13% (76.807)."
    },
    {
     "t": "O que surpreendeu",
-    "x": "A queda do petróleo foi o dobro do esperado: o Irã disse que poderia reabrir Ormuz se os EUA aceitarem encerrar a guerra, embora os ataques a navios continuem. A Marvell fechou acordo para comprar a Lumentum, e a Oracle cai cerca de 5% após anunciar emissão de ações e títulos para IA. O prazo da greve dos vigias em Los Angeles–Long Beach passou para quarta-feira, dia 4, às 17h (horário do Pacífico)."
+    "x": "A tecnologia freou a alta: Marvell cai 9,5% e Lumentum 15% após anunciarem a compra, e Oracle 6,4% pelo plano de captar 20 bilhões de dólares para IA. Do outro lado, United sobe 5%, American 4,3% e Amazon 4,2% com o combustível mais barato, enquanto Occidental (−4,7%) e Exxon (−3,1%) caem. A Apple divulga resultados após o fechamento."
    }
   ],
-  "scm": "O petróleo a 96 dólares abre espaço para sobretaxas menores, mas espere o diesel refletir a queda e as eleições passarem antes de renegociar. Se você tem carga transpacífica por San Pedro, o risco de greve foi antecipado para quarta-feira: confirme hoje agendamentos e rotas alternativas (Oakland, Lázaro Cárdenas). Com prata e cobre em alta, trave o preço de componentes de cobre para o primeiro trimestre."
+  "scm": "O mercado já separa vencedores e perdedores do petróleo barato: transportadoras e aéreas sobem, petroleiras caem. Use o WTI a 96 dólares para negociar sobretaxas de combustível na próxima revisão, mas não feche tarifas antes das eleições de terça nem do prazo de greve em Los Angeles–Long Beach na quarta."
  },
  "fuentes": [
+  {
+   "t": "Yahoo Finance: mercados en vivo, 2 de noviembre de 2026",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+  },
+  {
+   "t": "Stock Titan: mercado en vivo, 2 de noviembre de 2026",
+   "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-2-2026"
+  },
   {
    "t": "FreshFruitPortal: nueva fecha límite de huelga en LA–Long Beach",
    "u": "https://www.freshfruitportal.com/news/2026/11/02/la-long-beach-strike/"
