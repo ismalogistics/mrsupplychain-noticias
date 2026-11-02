@@ -1,0 +1,71 @@
+{
+ "id": "2026-11-02-cierre-mexico",
+ "fecha": "2026-11-02",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "15:20 CDMX",
+ "es": {
+  "titular": "El peso cierra en 18.57 por dólar, su mejor nivel en semanas, en un día sin BMV ni FIX; mañana reabre el mercado local",
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El peso cerró en 18.57 por dólar, 1.19% mejor que el cierre del viernes (18.79), con datos de Dow Jones citados por Infobae, y suma dos días de ganancias. La BMV, los bancos y Banxico no operaron por Día de Muertos: el IPC sigue en 69,779.20 y el Bono M a 10 años en 9.31% (cierres del 30 de octubre), y no hubo FIX."
+   },
+   {
+    "t": "Por qué",
+    "x": "El desplome del petróleo (WTI −7.4%) por la vía diplomática con Irán y un dólar más débil (índice en 101.61) impulsaron a las monedas emergentes. El peso sostuvo la ganancia aunque Wall Street terminó dividido."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "El martes reabren la BMV y los bancos, regresa el FIX y se realiza la subasta de Cetes que se movió del lunes, con las elecciones de EE. UU. como factor principal para el peso. El jueves 5 decide Banxico, con la tasa en 6.50%."
+   }
+  ],
+  "scm": "El peso en 18.57 es la mejor ventana en semanas para cubrir pagos en dólares de noviembre: si no lo hiciste hoy, cubre una parte con la apertura del martes, antes de los resultados electorales, y deja el resto para después de Banxico. Las liquidaciones del martes usan el FIX de 18.7962."
+ },
+ "en": {
+  "titular": "The peso closes at 18.57 per dollar, its best level in weeks, on a day with no BMV or FIX; the local market reopens tomorrow",
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The peso closed at 18.57 per dollar, 1.19% stronger than Friday's close (18.79), per Dow Jones data cited by Infobae, and has gained for two days. The BMV, banks and Banxico were closed for the Day of the Dead: the IPC stays at 69,779.20 and the 10-year M Bono at 9.31% (October 30 closes), and there was no FIX."
+   },
+   {
+    "t": "Why",
+    "x": "Oil's plunge (WTI −7.4%) on the diplomatic track with Iran and a weaker dollar (index at 101.61) lifted emerging-market currencies. The peso held its gain even though Wall Street ended split."
+   },
+   {
+    "t": "What to expect",
+    "x": "On Tuesday the BMV and banks reopen, the FIX returns and the Cetes auction moved from Monday takes place, with the US elections as the main driver for the peso. Banxico decides on Thursday the 5th, with the rate at 6.50%."
+   }
+  ],
+  "scm": "The peso at 18.57 is the best window in weeks to hedge November dollar payments: if you did not do it today, hedge part at Tuesday's open, before the election results, and leave the rest until after Banxico. Tuesday's settlements use the 18.7962 FIX."
+ },
+ "pt": {
+  "titular": "O peso fecha a 18,57 por dólar, seu melhor nível em semanas, num dia sem BMV nem FIX; o mercado local reabre amanhã",
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O peso fechou a 18,57 por dólar, 1,19% melhor que o fechamento de sexta (18,79), com dados da Dow Jones citados pela Infobae, e soma dois dias de ganhos. A BMV, os bancos e o Banxico não operaram pelo Dia dos Mortos: o IPC segue em 69.779,20 e o Bono M de 10 anos em 9,31% (fechamentos de 30 de outubro), e não houve FIX."
+   },
+   {
+    "t": "Por quê",
+    "x": "O tombo do petróleo (WTI −7,4%) pela via diplomática com o Irã e um dólar mais fraco (índice em 101,61) impulsionaram as moedas emergentes. O peso manteve o ganho mesmo com Wall Street fechando dividida."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Na terça reabrem a BMV e os bancos, volta o FIX e acontece o leilão de Cetes adiado de segunda, com as eleições dos EUA como principal fator para o peso. Na quinta, dia 5, decide o Banxico, com a taxa em 6,50%."
+   }
+  ],
+  "scm": "O peso a 18,57 é a melhor janela em semanas para proteger pagamentos em dólares de novembro: se não fez hoje, proteja uma parte na abertura de terça, antes dos resultados eleitorais, e deixe o resto para depois do Banxico. As liquidações de terça usam o FIX de 18,7962."
+ },
+ "fuentes": [
+  {
+   "t": "Infobae: cotización de cierre del dólar en México, 2 de noviembre",
+   "u": "https://www.infobae.com/mexico/2026/11/02/precio-del-dolar-hoy-en-mexico-cotizacion-de-cierre-del-2-de-noviembre/"
+  },
+  {
+   "t": "The Private Banker: el petróleo cae más de 7% y el WTI rompe los 100 dólares",
+   "u": "https://leprivatebanker.com/2026/11/02/oil-sinks-more-than-7-and-wti-breaks-below-100-as-iran-signals-room-for-peace-talks/"
+  }
+ ]
+}
