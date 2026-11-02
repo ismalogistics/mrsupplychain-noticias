@@ -21,9 +21,9 @@ SITE = 'https://mrsupplychain.ai/noticias/'
 MARCA = 'Mr. Supply Chain® México'
 # Páginas especiales (carpeta, fecha de última modificación ISO)
 ESPECIALES = [('elecciones-eeuu-2026', '2026-11-02T12:00:00-06:00')]
-MOM = {'es': {'apertura': 'Apertura', 'mediodia': 'Mediodía', 'cierre': 'Cierre'},
-       'en': {'apertura': 'Open', 'mediodia': 'Midday', 'cierre': 'Close'},
-       'pt': {'apertura': 'Abertura', 'mediodia': 'Meio-dia', 'cierre': 'Fechamento'}}
+MOM = {'es': {'premercado': 'Premercado', 'apertura': 'Apertura', 'mediodia': 'Mediodía', 'cierre': 'Cierre'},
+       'en': {'premercado': 'Pre-market', 'apertura': 'Open', 'mediodia': 'Midday', 'cierre': 'Close'},
+       'pt': {'premercado': 'Pré-mercado', 'apertura': 'Abertura', 'mediodia': 'Meio-dia', 'cierre': 'Fechamento'}}
 MKT = {'es': {'global': 'Global', 'latam': 'LATAM', 'mexico': 'México'},
        'en': {'global': 'Global', 'latam': 'LATAM', 'mexico': 'Mexico'},
        'pt': {'global': 'Global', 'latam': 'LATAM', 'mexico': 'México'}}
@@ -262,7 +262,7 @@ def pagina_archivo(lista):
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Archivo de briefs de mercados para supply chain | Noticias {E(MARCA)}</title>
-  <meta name="description" content="Todos los briefs de apertura, mediodía y cierre de mercados, global, LATAM y México, con lectura para supply chain y operaciones.">
+  <meta name="description" content="Todos los briefs de premercado, apertura, mediodía y cierre de mercados, global, LATAM y México, con lectura para supply chain y operaciones.">
   <link rel="canonical" href="{SITE}archivo/">
   <link rel="alternate" type="application/rss+xml" title="Noticias {E(MARCA)}" href="{SITE}feed.xml">
   <meta property="og:type" content="website">
@@ -317,7 +317,7 @@ def feed(lista, ahora):
   <title>Noticias · {E(MARCA)}</title>
   <link>{SITE}</link>
   <atom:link href="{SITE}feed.xml" rel="self" type="application/rss+xml"/>
-  <description>Briefs diarios de mercados (apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
+  <description>Briefs diarios de mercados (premercado, apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
   <language>es-MX</language>
   <copyright>Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</copyright>
   <lastBuildDate>{format_datetime(iso_pub(lista[0]) if lista else ahora)}</lastBuildDate>

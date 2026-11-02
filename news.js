@@ -5,7 +5,7 @@
   var NS = 'http://www.w3.org/2000/svg';
   var state = { lang: 'es', tab: 'global', latest: null, index: null, series: null, world: null, heat: null, trends: null, heatIdx: { global: 'sp500', latam: 'ibovespa', mexico: 'ipc' }, cache: {} };
   var MES = { es: ['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'], en: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'], pt: ['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez'] };
-  var MOM = { es: { apertura: 'Apertura', mediodia: 'Mediodía', cierre: 'Cierre' }, en: { apertura: 'Open', mediodia: 'Midday', cierre: 'Close' }, pt: { apertura: 'Abertura', mediodia: 'Meio-dia', cierre: 'Fechamento' } };
+  var MOM = { es: { premercado: 'Premercado', apertura: 'Apertura', mediodia: 'Mediodía', cierre: 'Cierre' }, en: { premercado: 'Pre-market', apertura: 'Open', mediodia: 'Midday', cierre: 'Close' }, pt: { premercado: 'Pré-mercado', apertura: 'Abertura', mediodia: 'Meio-dia', cierre: 'Fechamento' } };
   var MKT = { es: { global: 'Global', latam: 'LATAM', mexico: 'México' }, en: { global: 'Global', latam: 'LATAM', mexico: 'Mexico' }, pt: { global: 'Global', latam: 'LATAM', mexico: 'México' } };
   var TXT = {
     es: { scm: 'Para supply chain', wk: 'Para el fin de semana', wkk: 'Edición de fin de semana', src: 'Fuentes', upd: 'Actualizado', none: 'Todavía no hay briefs anteriores.', err: 'No se pudieron cargar las noticias. Intenta de nuevo en unos minutos.', by: 'Mesa de mercados Mr. Supply Chain México', read: 'Leer la nota', figG: 'Bolsas del día', figM: 'México hoy', noag: 'Sin eventos próximos registrados.', tasa: 'Tasa', infl: 'Inflación', banx: 'Tasa Banxico' },
