@@ -22,3 +22,17 @@
 #msc-news .msn-nlb { padding: 8px 16px; border-radius: 999px; background: #fff; color: #0b1f47; font-weight: 700; font-size: 14px; text-decoration: none; white-space: nowrap; }
 #msc-news .msn-nlb:hover { background: #dbe7ff; }
 @media (max-width: 860px) { #msc-news .msn-grid { grid-template-columns: minmax(0, 1fr); } #msc-news .msn-upd { margin-left: 0; width: 100%; } }
+
+/* Especial destacado (arriba del hero) */
+#msc-esp { display: block; background: linear-gradient(135deg, #0b1f47 0%, #163e86 100%); color: #fff; text-decoration: none; border-bottom: 3px solid #a83246; }
+#msc-esp .mse-wrap { max-width: 1184px; margin: 0 auto; padding: 18px 20px; display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 22px; align-items: center; }
+#msc-esp .mse-map { display: grid; grid-template-columns: repeat(6, 11px); gap: 3px; }
+#msc-esp .mse-map i { width: 11px; height: 11px; border-radius: 2px; background: #1e4f9c; }
+#msc-esp .mse-map i.c1 { background: #5b3fb8; } #msc-esp .mse-map i.c2 { background: #1f8a5b; } #msc-esp .mse-map i.c3 { background: #0e7490; } #msc-esp .mse-map i.c4 { background: #b87514; }
+#msc-esp .mse-txt { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+#msc-esp .mse-k { align-self: flex-start; background: #a83246; color: #fff; font: 700 11px/1 ui-monospace, "IBM Plex Mono", SFMono-Regular, Menlo, monospace; letter-spacing: .12em; text-transform: uppercase; padding: 5px 8px; border-radius: 3px; }
+#msc-esp .mse-h { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; font-size: clamp(1.25rem, 2.3vw, 1.75rem); font-weight: 700; line-height: 1.15; letter-spacing: -.01em; }
+#msc-esp .mse-s { font-size: 14.5px; line-height: 1.45; color: #cfe0ff; }
+#msc-esp .mse-b { padding: 11px 18px; border-radius: 999px; background: #fff; color: #0b1f47; font-weight: 700; font-size: 15px; white-space: nowrap; }
+#msc-esp:hover .mse-b { background: #dbe7ff; }
+@media (max-width: 760px) { #msc-esp .mse-wrap { grid-template-columns: minmax(0, 1fr); gap: 12px; padding: 16px 20px; } #msc-esp .mse-map { display: none; } #msc-esp .mse-b { justify-self: start; } }

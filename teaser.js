@@ -9,7 +9,32 @@
     pt: { k: 'Notícias', h: 'O pulso dos mercados de hoje, lido para supply chain', all: 'Ver o portal de notícias', read: 'Ler', mom: { apertura: 'Abertura', mediodia: 'Meio-dia', cierre: 'Fechamento' }, mkt: { global: 'Global', latam: 'LATAM', mexico: 'México' }, upd: 'Atualizado', nl: 'Toda sexta-feira, os mercados da semana lidos elo por elo para supply chain.', nlb: 'Receber Cadena de Noticias SCM no LinkedIn' }
   };
   var data = null, cur = null, box = null;
-  function lang() { try { var l = localStorage.getItem('lang'); if (l === 'en' || l === 'es' || l === 'pt') return l; } catch (e) {} var d = (document.documentElement.lang || navigator.language || 'es').slice(0, 2); return d === 'en' || d === 'pt' ? d : 'es'; }
+  // Especial destacado arriba del hero (se oculta solo después de HASTA).
+  var ESP = { url: BASE + 'especiales/elecciones-eeuu-2026/?utm_source=home&utm_medium=banner&utm_campaign=elecciones2026', hasta: '2026-11-30T23:59:00-06:00',
+    es: { k: 'Especial · Elecciones EE. UU. 2026', h: 'Lo que se juega supply chain, eslabón por eslabón', s: 'Estado por estado, México, cada país de LATAM y cada región del mundo: qué cambia con el resultado y qué no.', b: 'Ver el especial' },
+    en: { k: 'Special · US Elections 2026', h: 'What’s at stake for supply chains, link by link', s: 'State by state, Mexico, each LATAM country and each world region: what the result changes and what it doesn’t.', b: 'See the special' },
+    pt: { k: 'Especial · Eleições EUA 2026', h: 'O que está em jogo para supply chain, elo por elo', s: 'Estado por estado, México, cada país da América Latina e cada região do mundo: o que o resultado muda e o que não muda.', b: 'Ver o especial' } };
+  var espBox = null, espCur = null;
+  function renderEsp() {
+    var l = lang(); if (!espBox || l === espCur) return; espCur = l; var E = ESP[l];
+    espBox.replaceChildren();
+    var w = el('div', 'mse-wrap');
+    var t = el('div', 'mse-txt'); t.appendChild(el('span', 'mse-k', E.k)); t.appendChild(el('span', 'mse-h', E.h)); t.appendChild(el('span', 'mse-s', E.s)); w.appendChild(t);
+    w.appendChild(el('span', 'mse-b', E.b + ' →'));
+    var g = el('span', 'mse-map'); g.setAttribute('aria-hidden', 'true');
+    for (var i = 0; i < 24; i++) g.appendChild(el('i', 'c' + ((i * 7) % 5)));
+    w.insertBefore(g, w.firstChild);
+    espBox.appendChild(w);
+  }
+  function initEsp() {
+    if (Date.now() > Date.parse(ESP.hasta)) return;
+    var hero = document.querySelector('main > header.hero') || document.querySelector('main > header');
+    if (!hero || document.getElementById('msc-esp')) return;
+    espBox = document.createElement('a'); espBox.id = 'msc-esp'; espBox.href = ESP.url;
+    hero.parentNode.insertBefore(espBox, hero);
+    renderEsp();
+  }
+  function lang() { if (document.documentElement.classList.contains('msc-es') && !/^\/noticias\//.test(location.pathname)) { try { if (localStorage.getItem('lang') === 'pt') return 'pt'; } catch (e) {} return 'es'; } try { var l = localStorage.getItem('lang'); if (l === 'en' || l === 'es' || l === 'pt') return l; } catch (e) {} var d = (document.documentElement.lang || navigator.language || 'es').slice(0, 2); return d === 'en' || d === 'pt' ? d : 'es'; }
   function el(t, c, x) { var n = document.createElement(t); if (c) n.className = c; if (x != null) n.textContent = x; return n; }
   function render() {
     var l = lang(); if (!data || !box || l === cur) return; cur = l;
@@ -56,9 +81,10 @@
       box = document.createElement('section'); box.id = 'msc-news'; box.setAttribute('aria-label', 'Noticias');
       anchor.parentNode.insertBefore(box, anchor.nextSibling);
     }
-    var css = document.createElement('link'); css.rel = 'stylesheet'; css.href = BASE + 'teaser.css?v=2'; document.head.appendChild(css);
+    var css = document.createElement('link'); css.rel = 'stylesheet'; css.href = BASE + 'teaser.css?v=3'; document.head.appendChild(css);
+    initEsp();
     fetch(BASE + 'data/latest.json?v=' + Math.floor(Date.now() / 300000)).then(function (r) { return r.json(); }).then(function (j) { data = j; render(); }).catch(function () { box.remove(); });
-    setInterval(render, 800);
+    setInterval(function () { render(); renderEsp(); }, 800);
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();
