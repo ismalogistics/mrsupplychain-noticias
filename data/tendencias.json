@@ -1,202 +1,282 @@
 {
- "actualizado": "2026-10-31T01:55:00Z",
- "fecha": "2026-10-30",
+ "actualizado": "2026-11-02T16:53:00Z",
+ "fecha": "2026-11-02",
  "titular": {
-  "es": "Memoria cara, autos a la baja y una última milla que se consolida: lo que movió a las industrias el 30 de octubre",
-  "en": "Pricey memory, weaker autos and a consolidating last mile: what moved industries on October 30",
-  "pt": "Memória cara, autos em queda e uma última milha que se consolida: o que movimentou as indústrias em 30 de outubro"
+  "es": "Huelga en vilo en Los Ángeles, petróleo más barato y minería chilena a la baja: lo que mueve a las industrias este 2 de noviembre",
+  "en": "A strike threat in Los Angeles, cheaper oil and weaker Chilean mining: what is moving industries on November 2",
+  "pt": "Greve ameaçada em Los Angeles, petróleo mais barato e mineração chilena em queda: o que movimenta as indústrias neste 2 de novembro"
  },
  "items": [
   {
-   "id": "semis",
-   "dir": "up",
-   "calor": 3,
-   "mx": false,
-   "es": "Semiconductores y memoria",
-   "en": "Semiconductors and memory",
-   "titular": {
-    "es": "SK Hynix reporta récord y los precios de memoria siguen subiendo",
-    "en": "SK Hynix posts a record as memory prices keep climbing",
-    "pt": "SK Hynix reporta recorde e os preços de memória continuam subindo"
-   },
-   "x": {
-    "es": "SK Hynix reportó ingresos de unos 105 billones de wones en el 3T y precios promedio de DRAM con alza cercana a 30% contra el trimestre anterior; espera que la demanda de DRAM crezca a un ritmo de mediados de 20% en 2027. Aun así, las acciones de chips cayeron fuerte el viernes en Seúl y Nueva York.",
-    "en": "SK Hynix reported Q3 revenue of about 105 trillion won and DRAM average prices up by a high-20% rate from the prior quarter; it expects 2027 DRAM demand to grow by a mid-20% rate. Even so, chip stocks fell sharply on Friday in Seoul and New York.",
-    "pt": "A SK Hynix reportou receita de cerca de 105 trilhões de wons no 3º trimestre e preços médios de DRAM com alta próxima de 30% em relação ao trimestre anterior; espera que a demanda por DRAM cresça a um ritmo em meados da faixa dos 20% em 2027. Mesmo assim, as ações de chips caíram com força na sexta-feira em Seul e Nova York."
-   },
-   "scm": {
-    "es": "Si compras electrónica o tarjetas, presupuesta memoria más cara en 2027 y asegura volumen con contratos de mayor plazo.",
-    "en": "If you buy electronics or boards, budget for pricier memory in 2027 and lock in volume with longer contracts.",
-    "pt": "Se você compra eletrônicos ou placas, orce memória mais cara em 2027 e garanta volume com contratos de prazo mais longo."
-   },
-   "fuentes": [
-    {
-     "t": "investingLive — resultados de SK Hynix 3T26",
-     "u": "https://investinglive.com/stocks/sk-hynix-q3-operating-profit-beats-at-83tn-won-unveils-100tn-won-shareholder-payout-plan/"
-    }
-   ],
-   "pt": "Semicondutores e memória"
-  },
-  {
-   "id": "autos",
+   "id": "puertos",
    "dir": "down",
    "calor": 3,
    "mx": true,
-   "es": "Automotriz",
-   "en": "Automotive",
+   "es": "Marítimo y puertos",
+   "en": "Maritime and ports",
+   "pt": "Marítimo e portos",
    "titular": {
-    "es": "México produce 15% menos autos en septiembre por aranceles y la revisión del T-MEC",
-    "en": "Mexico builds 15% fewer cars in September amid tariffs and the USMCA review",
-    "pt": "México produz 15% menos carros em setembro por causa das tarifas e da revisão do T-MEC"
+    "es": "Los Ángeles–Long Beach aplazan al 5 de noviembre el plazo de una posible huelga",
+    "en": "Los Angeles–Long Beach push a possible strike deadline to November 5",
+    "pt": "Los Angeles–Long Beach adiam para 5 de novembro o prazo de uma possível greve"
    },
    "x": {
-    "es": "Según INEGI, la producción de vehículos ligeros cayó 15.1% anual en septiembre (301,803 unidades) y la exportación 11.9%; en el año la producción baja 2.4%. EE. UU. recibe 76% de las exportaciones y los autos mexicanos pueden pagar hasta 25% de arancel.",
-    "en": "According to INEGI, light-vehicle production fell 15.1% year on year in September (301,803 units) and exports 11.9%; year to date, output is down 2.4%. The US takes 76% of exports and Mexican cars can face tariffs of up to 25%.",
-    "pt": "Segundo o INEGI, a produção de veículos leves caiu 15.1% na comparação anual em setembro (301,803 unidades) e a exportação, 11.9%; no ano, a produção recua 2.4%. Os EUA recebem 76% das exportações, e os carros mexicanos podem pagar até 25% de tarifa."
+    "es": "Los empleadores (PMA) y el sindicato de vigilantes ILWU Local 26 extendieron las pláticas del 1 al 5 de noviembre. Son unos 250 trabajadores, pero operan en terminales que mueven cerca de 85% de la carga de Long Beach y 33% de la de Los Ángeles, y la PMA advierte que otros estibadores no cruzarían sus piquetes.",
+    "en": "Employers (PMA) and the ILWU Local 26 watchmen's union extended talks from November 1 to November 5. They are about 250 workers, but they work at terminals handling roughly 85% of Long Beach's cargo and 33% of Los Angeles', and the PMA warns other dockworkers would not cross their picket lines.",
+    "pt": "Os empregadores (PMA) e o sindicato de vigias ILWU Local 26 estenderam as negociações de 1º para 5 de novembro. São cerca de 250 trabalhadores, mas atuam em terminais que movimentam perto de 85% da carga de Long Beach e 33% da de Los Angeles, e a PMA alerta que outros estivadores não cruzariam seus piquetes."
    },
    "scm": {
-    "es": "Proveedores Tier 1 y 2: revisa la cobertura de reglas de origen y ajusta inventario y capacidad a programas que vienen a la baja.",
-    "en": "Tier 1 and 2 suppliers: review rules-of-origin coverage and align inventory and capacity with programs that are trending down.",
-    "pt": "Fornecedores Tier 1 e 2: revisem a cobertura das regras de origem e ajustem estoque e capacidade a programas que vêm em queda."
+    "es": "Si tienes contenedores transpacíficos por San Pedro esta semana, prepara desvíos a Oakland o Lázaro Cárdenas y avisa a clientes de posibles retrasos.",
+    "en": "If you have transpacific containers via San Pedro Bay this week, prepare diversions to Oakland or Lázaro Cárdenas and warn customers of possible delays.",
+    "pt": "Se você tem contêineres transpacíficos por San Pedro nesta semana, prepare desvios para Oakland ou Lázaro Cárdenas e avise os clientes sobre possíveis atrasos."
    },
    "fuentes": [
     {
-     "t": "eAduana — exportaciones de autos, septiembre 2026",
-     "u": "https://www.eaduana.com/articulos/exportaciones-de-autos-en-mexico-caen-12-en-septiembre-2026"
-    }
-   ],
-   "latam": true,
-   "pt": "Automotivo"
-  },
-  {
-   "id": "retail",
-   "dir": "mixed",
-   "calor": 2,
-   "mx": false,
-   "es": "Retail y última milla",
-   "en": "Retail and last mile",
-   "titular": {
-    "es": "DoorDash va por Instacart mientras el consumidor recorta su gasto navideño",
-    "en": "DoorDash moves for Instacart as consumers trim holiday spending",
-    "pt": "DoorDash vai às compras com a Instacart enquanto o consumidor corta os gastos de fim de ano"
-   },
-   "x": {
-    "es": "DoorDash anunció que comprará Instacart para ayudar a las tiendas locales a competir. Al mismo tiempo, una encuesta de Simon-Kucher indica que los estadounidenses planean gastar 5.5% menos esta temporada, y la contratación navideña se está dejando para el último momento.",
-    "en": "DoorDash announced it will buy Instacart to help local stores compete. At the same time, a Simon-Kucher survey says Americans plan to spend 5.5% less this season, and holiday hiring is being left to the last minute.",
-    "pt": "A DoorDash anunciou que vai comprar a Instacart para ajudar as lojas locais a competir. Ao mesmo tempo, uma pesquisa da Simon-Kucher indica que os americanos planejam gastar 5.5% menos nesta temporada, e as contratações de fim de ano estão ficando para a última hora."
-   },
-   "scm": {
-    "es": "Planea el pico con pronósticos conservadores y mano de obra flexible; la entrega a domicilio se concentra en menos plataformas.",
-    "en": "Plan the peak with conservative forecasts and flexible labor; home delivery is consolidating into fewer platforms.",
-    "pt": "Planeje o pico com previsões conservadoras e mão de obra flexível; a entrega em domicílio está se concentrando em menos plataformas."
-   },
-   "fuentes": [
-    {
-     "t": "Talking Logistics — Above the Fold, 30 oct 2026",
-     "u": "https://talkinglogistics.com/2026/10/30/above-the-fold-supply-chain-logistics-news-october-30-2026/"
+     "t": "FreightWaves — huelga en el puerto más activo de EE. UU.",
+     "u": "https://www.freightwaves.com/news/strike-at-busiest-us-port-just-days-away-as-talks-continue"
     },
     {
-     "t": "Consulting.us — noticias",
-     "u": "https://www.consulting.us/news"
+     "t": "gCaptain — se aplaza la amenaza de huelga",
+     "u": "https://gcaptain.com/strike-threat-at-los-angeles-long-beach-ports-delayed-as-union-and-employers-extend-talks/"
     }
-   ],
-   "pt": "Varejo e última milha"
+   ]
+  },
+  {
+   "id": "energia",
+   "dir": "mixed",
+   "calor": 3,
+   "mx": true,
+   "latam": true,
+   "es": "Energía y combustibles",
+   "en": "Energy and fuel",
+   "pt": "Energia e combustíveis",
+   "titular": {
+    "es": "El petróleo baja de 100 dólares, pero Goldman sube sus pronósticos por riesgos de oferta",
+    "en": "Oil drops below $100, but Goldman raises its forecasts on supply risks",
+    "pt": "O petróleo cai abaixo de 100 dólares, mas o Goldman eleva suas projeções por riscos de oferta"
+   },
+   "x": {
+    "es": "El WTI cae 6.28% a 97.58 dólares y el Brent 4.27% a 108.68 por las pláticas entre EE. UU. e Irán en Doha, y la OPEP+ dejó sin cambio sus cuotas de diciembre. Aun así, Goldman Sachs elevó sus pronósticos de cierre de año y de 2027 por riesgos “sustanciales” al suministro, y el diésel en EE. UU. sigue en 6.35 dólares por galón.",
+    "en": "WTI falls 6.28% to $97.58 and Brent 4.27% to $108.68 on US–Iran talks in Doha, and OPEC+ left its December quotas unchanged. Even so, Goldman Sachs raised its year-end and 2027 forecasts on “substantial” supply risks, and US diesel remains at $6.35 per gallon.",
+    "pt": "O WTI cai 6.28%, para 97.58 dólares, e o Brent 4.27%, para 108.68, com as conversas entre EUA e Irã em Doha, e a OPEP+ manteve suas cotas de dezembro. Mesmo assim, o Goldman Sachs elevou suas projeções para o fim do ano e para 2027 por riscos “substanciais” à oferta, e o diesel nos EUA segue em 6.35 dólares por galão."
+   },
+   "scm": {
+    "es": "No bajes todavía los recargos por combustible: espera dos semanas de diésel estable y pacta un tope para diciembre.",
+    "en": "Don't cut fuel surcharges yet: wait for two weeks of stable diesel and agree on a December cap.",
+    "pt": "Não reduza ainda as sobretaxas de combustível: espere duas semanas de diesel estável e acorde um teto para dezembro."
+   },
+   "fuentes": [
+    {
+     "t": "gCaptain — Goldman sube sus pronósticos de petróleo",
+     "u": "https://gcaptain.com/goldman-hikes-oil-forecasts-on-substantial-risks-to-supply/"
+    },
+    {
+     "t": "Yahoo Finance — mercados en vivo, 2 nov 2026",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    }
+   ]
+  },
+  {
+   "id": "manufactura",
+   "dir": "up",
+   "calor": 3,
+   "mx": true,
+   "es": "Manufactura",
+   "en": "Manufacturing",
+   "pt": "Manufatura",
+   "titular": {
+    "es": "La manufactura de EE. UU. acelera: ISM en 55.5 y producción en su máximo desde 2021",
+    "en": "US manufacturing speeds up: ISM at 55.5 and output at its highest since 2021",
+    "pt": "A manufatura dos EUA acelera: ISM em 55.5 e produção no maior nível desde 2021"
+   },
+   "x": {
+    "es": "El ISM manufacturero de octubre subió a 55.5 (54.5 previo), con producción en 59.0, precios pagados en 75.2 y entregas de proveedores más lentas (59.1). Por separado, la Reshoring Initiative calcula que la relocalización y la inversión extranjera sumaron 247,000 empleos manufactureros en EE. UU. en 2025 y espera un alza de 25% en 2026.",
+    "en": "The October ISM manufacturing index rose to 55.5 (54.5 prior), with production at 59.0, prices paid at 75.2 and slower supplier deliveries (59.1). Separately, the Reshoring Initiative estimates reshoring and foreign investment added 247,000 US manufacturing jobs in 2025 and expects 25% growth in 2026.",
+    "pt": "O ISM industrial de outubro subiu para 55.5 (54.5 antes), com produção em 59.0, preços pagos em 75.2 e entregas de fornecedores mais lentas (59.1). Separadamente, a Reshoring Initiative calcula que a relocalização e o investimento estrangeiro somaram 247,000 empregos industriais nos EUA em 2025 e espera alta de 25% em 2026."
+   },
+   "scm": {
+    "es": "Para proveedores mexicanos, más demanda viene con plazos más largos: revisa capacidad de planta y lead times de insumos críticos para el primer trimestre.",
+    "en": "For Mexican suppliers, more demand comes with longer lead times: review plant capacity and critical-input lead times for the first quarter.",
+    "pt": "Para fornecedores mexicanos, mais demanda vem com prazos mais longos: revise a capacidade da planta e os lead times de insumos críticos para o primeiro trimestre."
+   },
+   "fuentes": [
+    {
+     "t": "Supply Chain Dive — reshoring sumó 247,000 empleos",
+     "u": "https://www.supplychaindive.com/news/reshoring-foreign-direct-investment-247k-jobs-2025-report-reshoring-initiative/873433/"
+    },
+    {
+     "t": "Yahoo Finance — ISM manufacturero, 2 nov 2026",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    }
+   ]
+  },
+  {
+   "id": "mineria",
+   "dir": "mixed",
+   "calor": 3,
+   "mx": true,
+   "latam": true,
+   "es": "Minería y metales",
+   "en": "Mining and metals",
+   "pt": "Mineração e metais",
+   "titular": {
+    "es": "La minería de Chile cae 12.1% y el cobre sube; EE. UU. grava 14.29% al acero galvanizado mexicano",
+    "en": "Chile's mining output falls 12.1% and copper rises; the US slaps 14.29% on Mexican galvanized steel",
+    "pt": "A mineração do Chile cai 12.1% e o cobre sobe; os EUA aplicam 14.29% ao aço galvanizado mexicano"
+   },
+   "x": {
+    "es": "La minería chilena cayó 12.1% anual en septiembre por menores leyes de cobre y la suspensión temporal de algunas faenas, y restó 1.6 puntos al Imacec, que creció apenas 0.2%. El cobre sube 0.78% a 6.51 dólares por libra. En México, EE. UU. fijó márgenes antidumping de 14.29% al acero resistente a la corrosión.",
+    "en": "Chilean mining fell 12.1% year on year in September on lower copper ore grades and temporary suspensions at some operations, subtracting 1.6 points from the Imacec, which grew just 0.2%. Copper rises 0.78% to $6.51 per pound. For Mexico, the US set antidumping margins of 14.29% on corrosion-resistant steel.",
+    "pt": "A mineração chilena caiu 12.1% na comparação anual em setembro por teores de cobre mais baixos e a suspensão temporária de algumas operações, e tirou 1.6 ponto do Imacec, que cresceu só 0.2%. O cobre sobe 0.78%, para 6.51 dólares por libra. No México, os EUA fixaram margens antidumping de 14.29% para o aço resistente à corrosão."
+   },
+   "scm": {
+    "es": "Fija precio de cable y componentes de cobre para el primer trimestre, y recalcula el costo puesto en EE. UU. de tus partidas de acero galvanizado.",
+    "en": "Lock in prices for copper cable and components for the first quarter, and recalculate the US landed cost of your galvanized steel items.",
+    "pt": "Trave o preço de cabos e componentes de cobre para o primeiro trimestre e recalcule o custo posto nos EUA dos seus itens de aço galvanizado."
+   },
+   "fuentes": [
+    {
+     "t": "The Clinic — Imacec y minería −12.1%",
+     "u": "https://www.theclinic.cl/2026/11/02/imacec-crece-apenas-02-en-septiembre-caida-del-121-de-la-mineria-frena-la-actividad-economica/"
+    },
+    {
+     "t": "Trading Economics — cobre",
+     "u": "https://tradingeconomics.com/commodity/copper"
+    }
+   ]
+  },
+  {
+   "id": "agro",
+   "dir": "down",
+   "calor": 2,
+   "mx": true,
+   "latam": true,
+   "es": "Agroalimentos",
+   "en": "Agrifood",
+   "pt": "Agroalimentos",
+   "titular": {
+    "es": "Queman 52 toneladas de aguacate en Michoacán por una presunta plaga",
+    "en": "52 tons of avocados burned in Michoacán over a suspected pest",
+    "pt": "52 toneladas de abacate são queimadas em Michoacán por uma suposta praga"
+   },
+   "x": {
+    "es": "Productores de Peribán, Michoacán, destruyeron más de 52 toneladas de aguacate procedentes de Jalisco, Colima y Nayarit que iban a una empacadora de Uruapan, por una presunta infestación de gusano barrenador. El caso reaviva la preocupación por la sanidad del fruto que se exporta a EE. UU.",
+    "en": "Growers in Peribán, Michoacán, destroyed more than 52 tons of avocados from Jalisco, Colima and Nayarit bound for a packing house in Uruapan, over a suspected fruit-borer infestation. The case revives concerns about the plant health of fruit exported to the US.",
+    "pt": "Produtores de Peribán, em Michoacán, destruíram mais de 52 toneladas de abacate vindas de Jalisco, Colima e Nayarit que seguiam para uma empacotadora em Uruapan, por uma suposta infestação de broca do fruto. O caso reacende a preocupação com a sanidade da fruta exportada para os EUA."
+   },
+   "scm": {
+    "es": "Si compras o exportas aguacate, exige trazabilidad por huerto de origen y considera días extra de inspección en tus programas a EE. UU.",
+    "en": "If you buy or export avocados, require orchard-level traceability and build extra inspection days into US programs.",
+    "pt": "Se você compra ou exporta abacate, exija rastreabilidade por pomar de origem e considere dias extras de inspeção nos seus programas para os EUA."
+   },
+   "fuentes": [
+    {
+     "t": "FreightWaves — México destruye 52 toneladas de aguacate",
+     "u": "https://www.freightwaves.com/news/mexico-destroys-52-tons-of-avocados-after-pest-discovery-raises-export-concerns"
+    },
+    {
+     "t": "UnoTV — destruyen aguacate en Michoacán",
+     "u": "https://www.unotv.com/estados/michoacan/michoacan-destruyen-toneladas-aguacate-de-jalisco-colima-y-nayarit-por-gusano/"
+    }
+   ]
   },
   {
    "id": "truck",
-   "dir": "down",
+   "dir": "mixed",
    "calor": 2,
    "mx": true,
    "es": "Autotransporte",
    "en": "Trucking",
+   "pt": "Transporte rodoviário",
    "titular": {
-    "es": "221 quiebras de transportistas pequeños en 2026 y avanzan los camiones sin conductor",
-    "en": "221 small-carrier bankruptcies in 2026 as driverless trucks advance",
-    "pt": "221 falências de pequenas transportadoras em 2026 e os caminhões sem motorista avançam"
+    "es": "Más vigilancia al cabotaje en EE. UU. y peaje 50% más barato en el Puente Colombia",
+    "en": "Tighter US cabotage enforcement and a 50% toll cut at the Colombia Bridge",
+    "pt": "Mais fiscalização de cabotagem nos EUA e pedágio 50% mais barato na Ponte Colômbia"
    },
    "x": {
-    "es": "Las empresas pequeñas de autotransporte en EE. UU. suman 221 quiebras en el año. En paralelo, Kodiak AI y DTL Transport firmaron el despliegue de 75 camiones autónomos, un compromiso comercial que la empresa describe como el primero de su tipo.",
-    "en": "Small US trucking companies have filed 221 bankruptcies this year. In parallel, Kodiak AI and DTL Transport signed a deployment of 75 autonomous trucks, a commercial commitment the company calls the first of its kind.",
-    "pt": "As pequenas empresas de transporte rodoviário dos EUA somam 221 falências no ano. Em paralelo, a Kodiak AI e a DTL Transport assinaram a implantação de 75 caminhões autônomos, um compromisso comercial que a empresa descreve como o primeiro do tipo."
+    "es": "La aplicación más estricta de las reglas de cabotaje en EE. UU. amenaza a los transportistas mexicanos que operan rutas transfronterizas. Del lado mexicano, Nuevo León recortó 50% las tarifas de peaje del Puente Colombia para atraer más cruces de carga.",
+    "en": "Stricter enforcement of US cabotage rules threatens Mexican carriers running cross-border routes. On the Mexican side, Nuevo León cut toll fees at the Colombia Bridge by 50% to attract more freight crossings.",
+    "pt": "A aplicação mais rigorosa das regras de cabotagem nos EUA ameaça as transportadoras mexicanas que operam rotas transfronteiriças. Do lado mexicano, Nuevo León reduziu em 50% as tarifas de pedágio da Ponte Colômbia para atrair mais travessias de carga."
    },
    "scm": {
-    "es": "Revisa la salud financiera de tus transportistas y ten respaldo de capacidad: con el diésel caro, los más chicos son los más frágiles.",
-    "en": "Check your carriers' financial health and keep backup capacity: with expensive diesel, the smallest are the most fragile.",
-    "pt": "Revise a saúde financeira das suas transportadoras e tenha capacidade de reserva: com o diesel caro, as menores são as mais frágeis."
+    "es": "Confirma que tus transportistas cumplen las reglas de cabotaje en sus movimientos dentro de EE. UU. y evalúa el Puente Colombia como alternativa a Laredo.",
+    "en": "Confirm your carriers comply with cabotage rules on moves inside the US, and evaluate the Colombia Bridge as an alternative to Laredo.",
+    "pt": "Confirme que suas transportadoras cumprem as regras de cabotagem nos movimentos dentro dos EUA e avalie a Ponte Colômbia como alternativa a Laredo."
    },
    "fuentes": [
     {
-     "t": "Talking Logistics — Above the Fold, 30 oct 2026",
-     "u": "https://talkinglogistics.com/2026/10/30/above-the-fold-supply-chain-logistics-news-october-30-2026/"
+     "t": "FreightWaves — Borderlands Mexico, 1 nov 2026",
+     "u": "https://www.freightwaves.com/news/borderlands-mexico-cabotage-enforcements-threatening-cross-border-trucking"
     }
-   ],
-   "latam": true,
-   "pt": "Transporte rodoviário"
+   ]
   },
   {
-   "id": "energia",
+   "id": "retail",
    "dir": "up",
-   "calor": 3,
-   "mx": true,
-   "es": "Energía y combustibles",
-   "en": "Energy and fuel",
-   "titular": {
-    "es": "El petróleo se sostiene arriba de 100 dólares",
-    "en": "Oil holds above $100",
-    "pt": "O petróleo se mantém acima de 100 dólares"
-   },
-   "x": {
-    "es": "El WTI subió 1.1% hasta cerca de 103 dólares y el Brent 1.4% el viernes, aun con la venta generalizada en bolsas. El combustible sigue siendo el costo que más presiona fletes y recargos.",
-    "en": "WTI rose 1.1% to about $103 and Brent 1.4% on Friday, even amid the broad stock sell-off. Fuel remains the cost putting the most pressure on freight rates and surcharges.",
-    "pt": "O WTI subiu 1.1%, para perto de 103 dólares, e o Brent 1.4% na sexta-feira, mesmo com a venda generalizada nas bolsas. O combustível continua sendo o custo que mais pressiona fretes e sobretaxas."
-   },
-   "scm": {
-    "es": "Revisa las cláusulas de recargo por combustible y el costo por kilómetro de tus rutas antes de cerrar tarifas de 2027.",
-    "en": "Review fuel-surcharge clauses and cost per mile on your lanes before closing 2027 rates.",
-    "pt": "Revise as cláusulas de sobretaxa de combustível e o custo por quilômetro das suas rotas antes de fechar as tarifas de 2027."
-   },
-   "fuentes": [
-    {
-     "t": "Trading Economics — materias primas",
-     "u": "https://tradingeconomics.com/commodity/gold"
-    },
-    {
-     "t": "Yahoo Finance — cierre de Wall Street, 30 oct 2026",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html"
-    }
-   ],
-   "latam": true,
-   "pt": "Energia e combustíveis"
-  },
-  {
-   "id": "puertos",
-   "dir": "mixed",
    "calor": 2,
    "mx": false,
-   "es": "Puertos y comercio exterior",
-   "en": "Ports and trade",
+   "es": "Retail y última milla",
+   "en": "Retail and last mile",
+   "pt": "Varejo e última milha",
    "titular": {
-    "es": "Los Ángeles–Long Beach cerca de evitar huelga; EE. UU. ajusta aranceles y cuotas portuarias",
-    "en": "LA–Long Beach close to averting a strike; US adjusts tariffs and port fees",
-    "pt": "Los Angeles–Long Beach perto de evitar greve; EUA ajustam tarifas e taxas portuárias"
+    "es": "Walmart compromete 6,000 millones de dólares en automatización y Amazon abre su red de entregas",
+    "en": "Walmart commits $6 billion to automation as Amazon opens its delivery network",
+    "pt": "Walmart compromete 6 bilhões de dólares em automação e a Amazon abre sua rede de entregas"
    },
    "x": {
-    "es": "Los empleadores de Los Ángeles y Long Beach estarían cerca de un acuerdo para aplazar una posible huelga. El Departamento de Transporte anunció unos 500 millones de dólares para modernizar puertos, la USTR propuso extender hasta enero la suspensión de cuotas a buques ligados a China, y algunos aranceles a Canadá se retiran pero se sustituyen por otros.",
-    "en": "Los Angeles and Long Beach employers are reportedly close to a deal to delay a possible strike. The Transportation Department announced about $500 million to modernize ports, the USTR proposed extending the suspension of fees on China-linked ships to January, and some tariffs on Canada are being dropped but replaced with others.",
-    "pt": "Os empregadores de Los Angeles e Long Beach estariam perto de um acordo para adiar uma possível greve. O Departamento de Transportes anunciou cerca de 500 milhões de dólares para modernizar portos, o USTR propôs estender até janeiro a suspensão das taxas a navios ligados à China, e algumas tarifas sobre o Canadá são retiradas, mas substituídas por outras."
+    "es": "Walmart amplió su acuerdo con Symbotic con unos 6,000 millones de dólares en varios años para automatizar 25 centros de distribución regionales en EE. UU. Al mismo tiempo, Amazon Logistics ya vende su transporte, almacenaje y entrega a cualquier empresa.",
+    "en": "Walmart expanded its deal with Symbotic with about $6 billion over several years to automate 25 regional distribution centers in the US. At the same time, Amazon Logistics now sells its freight, warehousing and delivery to any business.",
+    "pt": "O Walmart ampliou seu acordo com a Symbotic com cerca de 6 bilhões de dólares em vários anos para automatizar 25 centros de distribuição regionais nos EUA. Ao mesmo tempo, a Amazon Logistics passou a vender transporte, armazenagem e entrega para qualquer empresa."
    },
    "scm": {
-    "es": "Mantén rutas alternas para carga transpacífica hasta que el acuerdo laboral se firme, y revisa las fracciones arancelarias que cambian.",
-    "en": "Keep alternate routings for transpacific cargo until the labor deal is signed, and review the tariff lines that are changing.",
-    "pt": "Mantenha rotas alternativas para a carga transpacífica até que o acordo trabalhista seja assinado e revise as classificações tarifárias que mudam."
+    "es": "Si surtes a grandes cadenas, prepárate para exigencias más estrictas de empaque y etiquetado compatibles con sistemas automatizados.",
+    "en": "If you supply big retailers, prepare for stricter packaging and labeling requirements compatible with automated systems.",
+    "pt": "Se você abastece grandes redes, prepare-se para exigências mais rígidas de embalagem e etiquetagem compatíveis com sistemas automatizados."
    },
    "fuentes": [
     {
-     "t": "Talking Logistics — Above the Fold, 30 oct 2026",
-     "u": "https://talkinglogistics.com/2026/10/30/above-the-fold-supply-chain-logistics-news-october-30-2026/"
+     "t": "Supply Chain Dive — Walmart y Symbotic",
+     "u": "https://www.supplychaindive.com/news/walmart-commits-6b-to-up-distribution-center-automation-with-symbotic/873356/"
+    },
+    {
+     "t": "The Loadstar — Amazon abre su red de entregas",
+     "u": "https://theloadstar.com/amazon-opens-delivery-network-to-all-just-as-ai-shopping-agents-reward-the-quickest/"
     }
-   ],
-   "pt": "Portos e comércio exterior"
+   ]
+  },
+  {
+   "id": "aereo",
+   "dir": "mixed",
+   "calor": 1,
+   "mx": false,
+   "es": "Carga aérea",
+   "en": "Air cargo",
+   "pt": "Carga aérea",
+   "titular": {
+    "es": "DSV: los problemas en el mar no se traducen en un boom de carga aérea",
+    "en": "DSV: ocean disruption isn't turning into an air cargo boom",
+    "pt": "DSV: os problemas no mar não se traduzem em um boom de carga aérea"
+   },
+   "x": {
+    "es": "DSV advirtió que las disrupciones marítimas no están provocando un cambio masivo a la carga aérea, porque el costo del transporte urgente mantiene a la mayoría de los embarcadores en el mar. En flota, Boeing convertirá un 767-300 de pasajeros en carguero para Icelease, que tomó opciones por hasta dos conversiones más.",
+    "en": "DSV warned that ocean disruptions are not triggering a large-scale switch to air cargo, because the cost of emergency lift keeps most shippers at sea. On the fleet side, Boeing will convert a 767-300 passenger jet into a freighter for Icelease, which took options for up to two more conversions.",
+    "pt": "A DSV alertou que as disrupções marítimas não estão provocando uma migração em massa para a carga aérea, porque o custo do transporte urgente mantém a maioria dos embarcadores no mar. Na frota, a Boeing converterá um 767-300 de passageiros em cargueiro para a Icelease, que tomou opções para até mais duas conversões."
+   },
+   "scm": {
+    "es": "Reserva el aéreo para urgencias reales y negocia tarifas por bloque para el pico de fin de año en lugar de comprar spot.",
+    "en": "Save air for genuine emergencies and negotiate block rates for the year-end peak instead of buying spot.",
+    "pt": "Reserve o aéreo para urgências reais e negocie tarifas por bloco para o pico de fim de ano em vez de comprar spot."
+   },
+   "fuentes": [
+    {
+     "t": "The Loadstar — DSV sobre carga aérea",
+     "u": "https://theloadstar.com/ocean-disruption-offers-no-easy-windfall-for-airfreight-warns-dsv/"
+    },
+    {
+     "t": "FreightWaves — Boeing 767 convertido a carguero",
+     "u": "https://www.freightwaves.com/news/boeing-secures-lessor-order-for-767-passenger-to-freighter-conversion"
+    }
+   ]
   },
   {
    "id": "software",
@@ -205,58 +285,32 @@
    "mx": false,
    "es": "Software e IA para supply chain",
    "en": "Supply chain software and AI",
+   "pt": "Software e IA para supply chain",
    "titular": {
-    "es": "Oracle lanza aplicaciones con agentes de IA para supply chain",
-    "en": "Oracle launches AI-agent applications for supply chain",
-    "pt": "Oracle lança aplicações com agentes de IA para supply chain"
+    "es": "Flexport mueve 40% más volumen con sólo 5% más personal gracias a la IA",
+    "en": "Flexport moves 40% more volume with only 5% more staff thanks to AI",
+    "pt": "A Flexport movimenta 40% mais volume com só 5% mais pessoal graças à IA"
    },
    "x": {
-    "es": "Oracle presentó aplicaciones agénticas en Fusion para supply chain e IBM lanzó herramientas de identidad y control para agentes de IA empresariales. La conversación pasa de pilotos a agentes en operación.",
-    "en": "Oracle unveiled agentic Fusion applications for supply chain and IBM launched identity and control tools for enterprise AI agents. The conversation is moving from pilots to agents in production.",
-    "pt": "A Oracle apresentou aplicações agênticas no Fusion para supply chain, e a IBM lançou ferramentas de identidade e controle para agentes de IA corporativos. A conversa passa dos pilotos para agentes em operação."
+    "es": "El CEO de Flexport dijo que sus volúmenes marítimos crecieron 40% mientras su plantilla sólo aumentó 5%, y que evalúa equipos de ingeniería más pequeños porque la IA acelera los lanzamientos. En retail, Runnings despliega por fases la plataforma de IA de Relex para unir pronóstico y reabasto.",
+    "en": "Flexport's CEO said ocean volumes grew 40% while headcount rose only 5%, and that the company is weighing smaller engineering teams as AI speeds up releases. In retail, Runnings is rolling out Relex's AI platform in phases to unite forecasting and replenishment.",
+    "pt": "O CEO da Flexport disse que os volumes marítimos cresceram 40% enquanto o quadro de pessoal aumentou só 5%, e que avalia equipes de engenharia menores porque a IA acelera os lançamentos. No varejo, a Runnings implanta em fases a plataforma de IA da Relex para unir previsão e reabastecimento."
    },
    "scm": {
-    "es": "Antes de activar agentes, define qué decisiones pueden tomar solos y con qué límites (montos, proveedores, inventario).",
-    "en": "Before turning on agents, define which decisions they can make alone and within what limits (amounts, suppliers, inventory).",
-    "pt": "Antes de ativar agentes, defina quais decisões eles podem tomar sozinhos e com quais limites (valores, fornecedores, estoque)."
+    "es": "Mide la productividad por operación (embarques o pedidos por persona) antes y después de automatizar para saber si la IA realmente libera capacidad.",
+    "en": "Measure productivity per operation (shipments or orders per person) before and after automating to know whether AI really frees up capacity.",
+    "pt": "Meça a produtividade por operação (embarques ou pedidos por pessoa) antes e depois de automatizar para saber se a IA realmente libera capacidade."
    },
    "fuentes": [
     {
-     "t": "Talking Logistics — Above the Fold, 30 oct 2026",
-     "u": "https://talkinglogistics.com/2026/10/30/above-the-fold-supply-chain-logistics-news-october-30-2026/"
-    }
-   ],
-   "pt": "Software e IA para supply chain"
-  },
-  {
-   "id": "consultoria",
-   "dir": "mixed",
-   "calor": 1,
-   "mx": false,
-   "es": "Consultoría",
-   "en": "Consulting",
-   "titular": {
-    "es": "La consultoría de operaciones se alía con software de diseño de redes",
-    "en": "Operations consulting teams up with network-design software",
-    "pt": "A consultoria de operações se alia a softwares de desenho de redes"
-   },
-   "x": {
-    "es": "Maine Pointe se asoció con Sophus Technology, proveedor de software de diseño de cadena de suministro, y Accenture compró Avicado (gestión de proyectos de capital). Las firmas buscan vender soluciones con tecnología propia, no sólo horas.",
-    "en": "Maine Pointe partnered with Sophus Technology, a supply chain design software provider, and Accenture bought Avicado (capital project delivery). Firms are looking to sell solutions with their own technology, not just hours.",
-    "pt": "A Maine Pointe se associou à Sophus Technology, fornecedora de software de desenho de cadeia de suprimentos, e a Accenture comprou a Avicado (gestão de projetos de capital). As firmas buscam vender soluções com tecnologia própria, não só horas."
-   },
-   "scm": {
-    "es": "Al contratar consultoría, pide que el entregable incluya el modelo o la herramienta que se queda operando, no sólo el reporte.",
-    "en": "When hiring consultants, ask for the deliverable to include the model or tool that stays in operation, not just the report.",
-    "pt": "Ao contratar consultoria, peça que a entrega inclua o modelo ou a ferramenta que fica operando, não só o relatório."
-   },
-   "fuentes": [
+     "t": "FreightWaves — Flexport y la IA",
+     "u": "https://www.freightwaves.com/news/flexport-volumes-up-40-ai-headcount"
+    },
     {
-     "t": "Consulting.us — noticias",
-     "u": "https://www.consulting.us/news"
+     "t": "Supply Chain Dive — Runnings y Relex",
+     "u": "https://www.supplychaindive.com/news/runnings-unites-forecasting-replenishment-with-ai/872823/"
     }
-   ],
-   "pt": "Consultoria"
+   ]
   }
  ]
 }
