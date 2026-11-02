@@ -1,0 +1,67 @@
+{
+ "id": "2026-11-02-mediodia-latam",
+ "fecha": "2026-11-02",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:35 CDMX",
+ "es": {
+  "titular": "Canadá y Chile acompañan el rebote; Brasil y Colombia siguen sin operar y el real y el peso colombiano se debilitan",
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "El brief de apertura anticipaba una sesión delgada en la región, con Brasil, Colombia y México cerrados por feriados, un arranque positivo en Canadá y en los fondos de Perú, Chile y Argentina, y al cobre apoyado por la caída de 12.1% de la minería chilena."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:28 CDMX, el S&P/TSX de Canadá sube 1.14% (36,027.2) y el fondo de Argentina (ARGT) 0.24%; el Ibovespa sigue en 167,922 (cierre del 30 de octubre). En monedas, el peso chileno se aprecia 1.12% (976.8 por dólar) y el peso mexicano 1.61% (18.55), mientras el real se debilita 0.97% (5.44) y el peso colombiano 1.57% (3,224) con poca liquidez por los feriados. El cobre sube 1.4% a 6.55 dólares por libra."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El desplome del petróleo (WTI −7.4%, Brent −7.5%) fue mayor de lo esperado: alivia a los importadores de combustible de la región, pero recorta el ingreso de los exportadores de crudo como Colombia y Brasil, lo que ayuda a explicar la debilidad de sus monedas."
+   }
+  ],
+  "scm": "Con Brasil y Colombia reabriendo mañana, deja para el martes las liquidaciones en reales y pesos colombianos y revisa tus cotizaciones en dólares cuando haya liquidez. El peso chileno más fuerte y el cobre en 6.55 dólares encarecen las compras de cobre chileno: fija precio para el primer trimestre."
+ },
+ "en": {
+  "titular": "Canada and Chile join the rebound; Brazil and Colombia remain closed as the real and the Colombian peso weaken",
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "The opening brief expected a thin session in the region, with Brazil, Colombia and Mexico closed for holidays, a positive start in Canada and in the Peru, Chile and Argentina funds, and copper supported by the 12.1% drop in Chilean mining."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:28 Mexico City time, Canada's S&P/TSX is up 1.14% (36,027.2) and the Argentina fund (ARGT) 0.24%; the Ibovespa remains at 167,922 (October 30 close). In currencies, the Chilean peso gains 1.12% (976.8 per dollar) and the Mexican peso 1.61% (18.55), while the real weakens 0.97% (5.44) and the Colombian peso 1.57% (3,224) amid thin holiday liquidity. Copper rises 1.4% to $6.55 per pound."
+   },
+   {
+    "t": "What surprised",
+    "x": "The slump in oil (WTI −7.4%, Brent −7.5%) was bigger than expected: it helps the region's fuel importers but cuts revenue for crude exporters such as Colombia and Brazil, which helps explain their weaker currencies."
+   }
+  ],
+  "scm": "With Brazil and Colombia reopening tomorrow, leave settlements in reais and Colombian pesos for Tuesday and review your dollar quotes once liquidity returns. A stronger Chilean peso and copper at $6.55 make Chilean copper purchases more expensive: lock in prices for the first quarter."
+ },
+ "pt": {
+  "titular": "Canadá e Chile acompanham a alta; Brasil e Colômbia seguem sem pregão e o real e o peso colombiano se enfraquecem",
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "O brief de abertura previa uma sessão fraca na região, com Brasil, Colômbia e México fechados por feriados, início positivo no Canadá e nos fundos de Peru, Chile e Argentina, e o cobre apoiado pela queda de 12,1% da mineração chilena."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h28 (Cidade do México), o S&P/TSX do Canadá sobe 1,14% (36.027,2) e o fundo da Argentina (ARGT) 0,24%; o Ibovespa segue em 167.922 (fechamento de 30 de outubro). Nas moedas, o peso chileno se valoriza 1,12% (976,8 por dólar) e o peso mexicano 1,61% (18,55), enquanto o real se desvaloriza 0,97% (5,44) e o peso colombiano 1,57% (3.224), com pouca liquidez pelos feriados. O cobre sobe 1,4% para 6,55 dólares por libra."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O tombo do petróleo (WTI −7,4%, Brent −7,5%) foi maior que o esperado: alivia os importadores de combustível da região, mas reduz a receita de exportadores de petróleo como Colômbia e Brasil, o que ajuda a explicar a fraqueza de suas moedas."
+   }
+  ],
+  "scm": "Com Brasil e Colômbia reabrindo amanhã, deixe para terça-feira as liquidações em reais e pesos colombianos e revise suas cotações em dólar quando houver liquidez. O peso chileno mais forte e o cobre a 6,55 dólares encarecem as compras de cobre chileno: trave o preço para o primeiro trimestre."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: índices y monedas de América (data/heatmaps.json)",
+   "u": "https://mrsupplychain.ai/noticias/data/heatmaps.json"
+  }
+ ]
+}

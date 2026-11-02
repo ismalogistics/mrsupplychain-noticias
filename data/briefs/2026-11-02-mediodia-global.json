@@ -1,0 +1,75 @@
+{
+ "id": "2026-11-02-mediodia-global",
+ "fecha": "2026-11-02",
+ "momento": "mediodia",
+ "mercado": "global",
+ "hora": "11:30 CDMX",
+ "es": {
+  "titular": "El petróleo se hunde 7% y Wall Street amplía el rebote, con el Dow arriba de 1% antes de Apple y de las elecciones",
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "El brief de apertura anticipaba un rebote moderado (S&P 500 +0.45%) con el WTI abajo de 100 dólares por la vía diplomática con Irán, un ISM manufacturero fuerte (55.5) y la atención puesta en Apple después del cierre."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:07 CDMX, el Dow sube 1.01% (52,295.40), el S&P 500 0.57% (7,622.98) y el Nasdaq 0.67% (25,607.07). El WTI cae 7.37% a 96.45 dólares y el Brent 7.51% a 104.91; el Treasury a 10 años baja a 4.88%, el oro sube 2% (3,977) y la plata 4.2% (50.93). Europa cerró al alza: el Euro Stoxx 50 ganó cerca de 0.9%."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "La caída del crudo fue del doble de lo esperado: Irán dijo que podría reabrir Ormuz si EE. UU. acepta terminar la guerra, aunque siguen los ataques a buques. Marvell acordó comprar Lumentum, y Oracle cae cerca de 5% tras anunciar una emisión de acciones y bonos para IA. El plazo de la huelga de vigilantes en Los Ángeles–Long Beach es ahora el miércoles 4 a las 17:00 (hora del Pacífico)."
+   }
+  ],
+  "scm": "El crudo a 96 dólares abre la puerta a recargos más bajos, pero espera a que el diésel lo refleje y a que pasen las elecciones antes de renegociar. Si tienes carga transpacífica por San Pedro, el riesgo de huelga se adelantó al miércoles: confirma hoy citas y rutas alternas (Oakland, Lázaro Cárdenas). Con plata y cobre al alza, fija precio de componentes de cobre para el primer trimestre."
+ },
+ "en": {
+  "titular": "Oil sinks 7% and Wall Street extends its rebound, with the Dow up more than 1% ahead of Apple and the elections",
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "The opening brief expected a moderate rebound (S&P 500 +0.45%) with WTI below $100 on the diplomatic track with Iran, a strong ISM manufacturing reading (55.5) and focus on Apple after the close."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:07 Mexico City time, the Dow is up 1.01% (52,295.40), the S&P 500 0.57% (7,622.98) and the Nasdaq 0.67% (25,607.07). WTI falls 7.37% to $96.45 and Brent 7.51% to $104.91; the 10-year Treasury eases to 4.88%, gold rises 2% (3,977) and silver 4.2% (50.93). Europe closed higher, with the Euro Stoxx 50 up about 0.9%."
+   },
+   {
+    "t": "What surprised",
+    "x": "The drop in crude was twice what was expected: Iran said it could reopen Hormuz if the US agrees to end the war, although attacks on ships continue. Marvell agreed to buy Lumentum, and Oracle falls about 5% after announcing a stock and bond offering for AI. The Los Angeles–Long Beach watchmen strike deadline is now Wednesday the 4th at 5 p.m. Pacific time."
+   }
+  ],
+  "scm": "Crude at $96 opens the door to lower surcharges, but wait for diesel to reflect it and for the elections to pass before renegotiating. If you have transpacific cargo through San Pedro, the strike risk moved up to Wednesday: confirm appointments and alternate routes (Oakland, Lázaro Cárdenas) today. With silver and copper rising, lock in prices for copper components for the first quarter."
+ },
+ "pt": {
+  "titular": "O petróleo afunda 7% e Wall Street amplia a alta, com o Dow acima de 1% antes da Apple e das eleições",
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "O brief de abertura previa uma alta moderada (S&P 500 +0,45%) com o WTI abaixo de 100 dólares pela via diplomática com o Irã, um ISM industrial forte (55,5) e atenção à Apple após o fechamento."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h07 (Cidade do México), o Dow sobe 1,01% (52.295,40), o S&P 500 0,57% (7.622,98) e o Nasdaq 0,67% (25.607,07). O WTI cai 7,37% para 96,45 dólares e o Brent 7,51% para 104,91; o Treasury de 10 anos recua para 4,88%, o ouro sobe 2% (3.977) e a prata 4,2% (50,93). A Europa fechou em alta, com o Euro Stoxx 50 subindo cerca de 0,9%."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A queda do petróleo foi o dobro do esperado: o Irã disse que poderia reabrir Ormuz se os EUA aceitarem encerrar a guerra, embora os ataques a navios continuem. A Marvell fechou acordo para comprar a Lumentum, e a Oracle cai cerca de 5% após anunciar emissão de ações e títulos para IA. O prazo da greve dos vigias em Los Angeles–Long Beach passou para quarta-feira, dia 4, às 17h (horário do Pacífico)."
+   }
+  ],
+  "scm": "O petróleo a 96 dólares abre espaço para sobretaxas menores, mas espere o diesel refletir a queda e as eleições passarem antes de renegociar. Se você tem carga transpacífica por San Pedro, o risco de greve foi antecipado para quarta-feira: confirme hoje agendamentos e rotas alternativas (Oakland, Lázaro Cárdenas). Com prata e cobre em alta, trave o preço de componentes de cobre para o primeiro trimestre."
+ },
+ "fuentes": [
+  {
+   "t": "FreshFruitPortal: nueva fecha límite de huelga en LA–Long Beach",
+   "u": "https://www.freshfruitportal.com/news/2026/11/02/la-long-beach-strike/"
+  },
+  {
+   "t": "SupplyChainBrain: el plazo de huelga en Long Beach pasa al 4 de noviembre",
+   "u": "https://www.supplychainbrain.com/articles/45135-port-workers-employers-push-long-beach-strike-threat-to-nov-4"
+  },
+  {
+   "t": "SEC: 8-K de Marvell Technology (acuerdo con Lumentum)",
+   "u": "https://www.sec.gov/Archives/edgar/data/0001835632/000119312526442714/d81187d8k.htm"
+  }
+ ]
+}
