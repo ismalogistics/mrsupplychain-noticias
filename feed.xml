@@ -7,7 +7,34 @@
   <description>Briefs diarios de mercados (premercado, apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
   <language>es-MX</language>
   <copyright>Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</copyright>
-  <lastBuildDate>Mon, 02 Nov 2026 13:08:00 -0600</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 15:20:00 -0600</lastBuildDate>
+  <item>
+    <title>El peso cierra en 18.57 por dólar, su mejor nivel en semanas, en un día sin BMV ni FIX; mañana reabre el mercado local</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-mexico/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-mexico/</guid>
+    <pubDate>Mon, 02 Nov 2026 15:20:00 -0600</pubDate>
+    <category>Cierre · México</category>
+    <description>El peso cerró en 18.57 por dólar, 1.19% mejor que el cierre del viernes (18.79), con datos de Dow Jones citados por Infobae, y suma dos días de ganancias. La BMV, los bancos y Banxico no operaron por Día de Muertos: el IPC sigue en 69,779.20 y el Bono M a 10 años en 9.31% (cierres del 30 de octubre), y no hubo FIX. El desplome del petróleo (WTI −7.4%) por la vía diplomática con Irán y un dólar más débil (índice en 101.61) impulsaron a las monedas emergentes. El peso sostuvo la ganancia aunque Wall Street terminó dividido. — El peso en 18.57 es la mejor ventana en semanas para cubrir pagos en dólares de noviembre: si no lo hiciste hoy, cubre una parte con la apertura del martes, antes de los resultados electorales, y deja el resto para después de Banxico. Las liquidaciones del martes usan el FIX de 18.7962.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-mexico/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>Chile y Perú encabezan la región con alzas cercanas a 2% y Canadá sube 0.7%; Argentina cae y el real y el peso colombiano se debilitan</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-latam/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-latam/</guid>
+    <pubDate>Mon, 02 Nov 2026 15:20:00 -0600</pubDate>
+    <category>Cierre · LATAM</category>
+    <description>Con el último dato disponible (13:45 CDMX), el fondo de Chile (ECH) subió 1.9% y el de Perú 1.86%, el S&amp;P/TSX de Canadá 0.71% (35,872.12) y el fondo de Argentina (ARGT) bajó 1.16%. Brasil y Colombia no operaron por feriado: el Ibovespa sigue en 167,922 y el COLCAP con su cierre del 30 de octubre. Los mercados mineros se apoyaron en el cobre y en un dólar débil, mientras la caída del crudo (WTI −7.4%) pesa sobre los exportadores de petróleo de la región. — Programa para el martes, con liquidez, las liquidaciones en reales y pesos colombianos que quedaron pendientes. Si compras cobre o concentrados de Chile y Perú, fija el precio del primer trimestre antes de que el peso chileno y el cobre sigan subiendo.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-latam/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>Wall Street cierra dividido: el Dow sube 0.45% por el crudo barato, pero la tecnología hunde al Nasdaq 1.1% antes de Apple</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-global/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-global/</guid>
+    <pubDate>Mon, 02 Nov 2026 15:20:00 -0600</pubDate>
+    <category>Cierre · Global</category>
+    <description>Cerca del cierre, el Dow ganó 0.45% (52,005.65), mientras el S&amp;P 500 perdió 0.50% (7,542.52) y el Nasdaq 1.11% (25,153.73): no se cumplió el rebote amplio que anticipaba la apertura. El WTI liquidó en 96.46 dólares (−7.4%) y el Brent en 104.77 (−7.6%); el Treasury a 10 años quedó en 4.89%, el oro subió 1.4% (3,953) y el VIX saltó 10% a 21.45. El crudo amplió su caída en la tarde después de que el presidente de Irán dijo tener más margen para negociar la paz, y Trump afirmó que Irán quiere un acuerdo. Eso favoreció a aerolíneas, consumo e industriales, pero la tecnología siguió vendiéndose por dudas sobre el gasto en IA: Intel cayó 8.9% y Marvell, Lumentum y Oracle siguieron a la baja. IDEXX subió 21.4% tras sus resultados. — El día confirma que el alivio en energía es real (WTI en 96 dólares), pero el mercado no lo lee como fin del riesgo: la volatilidad subió 10%. Pide a tus transportistas la revisión de recargos de combustible para la próxima quincena y no cierres compromisos de tarifa ni de inventario hasta conocer el resultado electoral.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-global/og.png" type="image/png" length="0"/>
+  </item>
   <item>
     <title>El rebote de Wall Street pierde fuerza: el Dow conserva 0.8% por el crudo barato, pero el Nasdaq ya baja antes de Apple</title>
     <link>https://mrsupplychain.ai/noticias/brief/2026-11-02-mediodia-global/</link>
