@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-03-premercado-global",
+   "fecha": "2026-11-03",
+   "momento": "premercado",
+   "mercado": "global",
+   "titular_es": "Día de elección en EE. UU.: Apple cae 3% fuera de horario, el crudo rebota casi 2% por ataques en Ormuz y Europa abre a la baja",
+   "titular_en": "US election day: Apple falls 3% after hours, crude rebounds nearly 2% on Hormuz strikes and Europe opens lower",
+   "titular_pt": "Dia de eleição nos EUA: a Apple cai 3% fora do horário, o petróleo sobe quase 2% por ataques em Ormuz e a Europa abre em queda"
+  },
+  {
+   "id": "2026-11-03-premercado-latam",
+   "fecha": "2026-11-03",
+   "momento": "premercado",
+   "mercado": "latam",
+   "titular_es": "Brasil, Colombia y México reabren tras los feriados; Chile y Perú vienen de subir cerca de 2% y el Copom decide mañana",
+   "titular_en": "Brazil, Colombia and Mexico reopen after the holidays; Chile and Peru come off gains near 2% and Copom decides tomorrow",
+   "titular_pt": "Brasil, Colômbia e México reabrem após os feriados; Chile e Peru vêm de altas perto de 2% e o Copom decide amanhã"
+  },
+  {
+   "id": "2026-11-03-premercado-mexico",
+   "fecha": "2026-11-03",
+   "momento": "premercado",
+   "mercado": "mexico",
+   "titular_es": "Reabre la BMV con el peso en 18.57 por dólar y la elección de EE. UU. como factor del día; hoy hay subasta de Cetes",
+   "titular_en": "The BMV reopens with the peso at 18.57 per dollar and the US election as the day's driver; Cetes auction today",
+   "titular_pt": "A BMV reabre com o peso a 18,57 por dólar e a eleição dos EUA como fator do dia; hoje há leilão de Cetes"
+  },
+  {
    "id": "2026-11-02-cierre-global",
    "fecha": "2026-11-02",
    "momento": "cierre",

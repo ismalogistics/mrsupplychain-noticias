@@ -1,157 +1,155 @@
 {
- "actualizado": "2026-11-02T21:20:24Z",
- "momento": "cierre",
+ "actualizado": "2026-11-03T11:09:55Z",
+ "momento": "premercado",
  "briefs": {
   "global": {
-   "id": "2026-11-02-cierre-global",
-   "fecha": "2026-11-02",
-   "momento": "cierre",
+   "id": "2026-11-03-premercado-global",
+   "fecha": "2026-11-03",
+   "momento": "premercado",
    "mercado": "global",
-   "hora": "15:20 CDMX",
+   "hora": "05:15 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "Wall Street cierra dividido: el Dow sube 0.45% por el crudo barato, pero la tecnología hunde al Nasdaq 1.1% antes de Apple",
+    "titular": "Día de elección en EE. UU.: Apple cae 3% fuera de horario, el crudo rebota casi 2% por ataques en Ormuz y Europa abre a la baja",
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "Cerca del cierre, el Dow ganó 0.45% (52,005.65), mientras el S&P 500 perdió 0.50% (7,542.52) y el Nasdaq 1.11% (25,153.73): no se cumplió el rebote amplio que anticipaba la apertura. El WTI liquidó en 96.46 dólares (−7.4%) y el Brent en 104.77 (−7.6%); el Treasury a 10 años quedó en 4.89%, el oro subió 1.4% (3,953) y el VIX saltó 10% a 21.45."
+      "t": "Lo que pasó desde el cierre",
+      "x": "Apple cayó cerca de 3% después del cierre por una guía de margen más débil y la desaceleración en China, y Palantir alrededor de 3% pese a superar estimados. Reportes de ataques de EE. UU. en la isla iraní de Qeshm devolvieron prima de riesgo al crudo, aunque las pláticas mediadas por Qatar siguen. Kalshi daba el lunes 74% de probabilidad a un Senado demócrata y 94% a una Cámara demócrata."
      },
      {
-      "t": "Por qué",
-      "x": "El crudo amplió su caída en la tarde después de que el presidente de Irán dijo tener más margen para negociar la paz, y Trump afirmó que Irán quiere un acuerdo. Eso favoreció a aerolíneas, consumo e industriales, pero la tecnología siguió vendiéndose por dudas sobre el gasto en IA: Intel cayó 8.9% y Marvell, Lumentum y Oracle siguieron a la baja. IDEXX subió 21.4% tras sus resultados."
+      "t": "Asia, Europa y futuros",
+      "x": "El KOSPI cayó cerca de 3.3% (5,666) arrastrado por tecnología; Hong Kong subió 0.57% y Shanghái bajó 0.82%, y Japón no operó por feriado. Europa abrió a la baja: Euro Stoxx −0.9% y DAX −0.9%. A las 4:40 CDMX, los futuros del Dow perdían 0.54%, los del S&P 500 0.05% y los del Nasdaq 100 subían 0.40%. El Brent sube 1.76% a 106.61 dólares y el WTI 1.66% a 98.06; el Treasury a 10 años está en 4.91%."
      },
      {
-      "t": "Qué se espera",
-      "x": "Apple reporta después del cierre y su resultado marcará los futuros y la apertura de Asia. El martes son las elecciones intermedias de EE. UU. y AMD reporta después del cierre; el miércoles decide el Copom de Brasil y vence el plazo de huelga en Los Ángeles–Long Beach, el jueves decide Banxico y el viernes sale el empleo de octubre."
+      "t": "Qué se espera hoy",
+      "x": "Votación de las elecciones intermedias todo el día: los primeros estados cierran casillas a las 18:00 CDMX. A las 9:00 CDMX salen la encuesta JOLTS (consenso 7.164 millones de vacantes) y los pedidos de fábrica de septiembre (+1.2% esperado). Pfizer reporta antes de la apertura; AMD, Arista, Amgen y Booking después del cierre."
      }
     ],
-    "scm": "El día confirma que el alivio en energía es real (WTI en 96 dólares), pero el mercado no lo lee como fin del riesgo: la volatilidad subió 10%. Pide a tus transportistas la revisión de recargos de combustible para la próxima quincena y no cierres compromisos de tarifa ni de inventario hasta conocer el resultado electoral."
+    "scm": "Día de alta volatilidad: no cierres compras de combustible ni tarifas con base en el crudo de ayer, porque ya recuperó parte de la caída. Deja listas tus coberturas cambiarias para ejecutarlas después de los resultados y vigila el plazo de huelga en Los Ángeles–Long Beach de mañana."
    },
    "en": {
-    "titular": "Wall Street ends split: the Dow gains 0.45% on cheap crude, but tech drags the Nasdaq down 1.1% ahead of Apple",
+    "titular": "US election day: Apple falls 3% after hours, crude rebounds nearly 2% on Hormuz strikes and Europe opens lower",
     "bloques": [
      {
-      "t": "What happened",
-      "x": "Near the close, the Dow gained 0.45% (52,005.65), while the S&P 500 lost 0.50% (7,542.52) and the Nasdaq 1.11% (25,153.73): the broad rebound expected at the open did not hold. WTI settled at $96.46 (−7.4%) and Brent at $104.77 (−7.6%); the 10-year Treasury ended at 4.89%, gold rose 1.4% (3,953) and the VIX jumped 10% to 21.45."
+      "t": "What happened since the close",
+      "x": "Apple fell about 3% after the close on weaker margin guidance and slowing China sales, and Palantir about 3% despite beating estimates. Reports of US strikes on Iran's Qeshm Island added risk premium back to crude, although the Qatar-mediated talks continue. On Monday, Kalshi gave a 74% chance of a Democratic Senate and 94% of a Democratic House."
      },
      {
-      "t": "Why",
-      "x": "Crude extended its fall in the afternoon after Iran's president said he had more room to negotiate peace, and Trump said Iran wants a deal. That helped airlines, consumer and industrial stocks, but tech kept selling off on doubts about AI spending: Intel fell 8.9% and Marvell, Lumentum and Oracle stayed lower. IDEXX rose 21.4% after its results."
+      "t": "Asia, Europe and futures",
+      "x": "The KOSPI fell about 3.3% (5,666) on tech; Hong Kong rose 0.57% and Shanghai fell 0.82%, and Japan was closed for a holiday. Europe opened lower: Euro Stoxx −0.9% and DAX −0.9%. At 4:40 Mexico City time, Dow futures were down 0.54%, S&P 500 futures 0.05%, and Nasdaq 100 futures up 0.40%. Brent is up 1.76% at $106.61 and WTI 1.66% at $98.06; the 10-year Treasury is at 4.91%."
      },
      {
-      "t": "What to expect",
-      "x": "Apple reports after the close, and its results will set futures and the Asian open. Tuesday brings the US midterm elections and AMD's results after the close; on Wednesday Brazil's Copom decides and the Los Angeles–Long Beach strike deadline expires, Banxico decides on Thursday and the October jobs report comes out Friday."
+      "t": "What to expect today",
+      "x": "Midterm voting all day: the first states close polls at 6:00 p.m. Mexico City time. At 9:00 a.m. Mexico City time come the JOLTS survey (consensus 7.164 million openings) and September factory orders (+1.2% expected). Pfizer reports before the open; AMD, Arista, Amgen and Booking after the close."
      }
     ],
-    "scm": "The day confirms the energy relief is real (WTI at $96), but the market does not read it as the end of the risk: volatility rose 10%. Ask your carriers for a fuel-surcharge review for the next two weeks and do not lock in rate or inventory commitments until the election result is known."
+    "scm": "A high-volatility day: do not lock in fuel purchases or rates based on yesterday's crude, since it has already recovered part of the drop. Have your currency hedges ready to execute after the results and watch tomorrow's Los Angeles–Long Beach strike deadline."
    },
    "pt": {
-    "titular": "Wall Street fecha dividida: o Dow sobe 0,45% com o petróleo barato, mas a tecnologia derruba o Nasdaq em 1,1% antes da Apple",
+    "titular": "Dia de eleição nos EUA: a Apple cai 3% fora do horário, o petróleo sobe quase 2% por ataques em Ormuz e a Europa abre em queda",
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "Perto do fechamento, o Dow ganhou 0,45% (52.005,65), enquanto o S&P 500 perdeu 0,50% (7.542,52) e o Nasdaq 1,11% (25.153,73): a alta ampla prevista na abertura não se sustentou. O WTI fechou a 96,46 dólares (−7,4%) e o Brent a 104,77 (−7,6%); o título do Tesouro de 10 anos ficou em 4,89%, o ouro subiu 1,4% (3.953) e o VIX saltou 10%, para 21,45."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "A Apple caiu cerca de 3% após o fechamento por uma projeção de margem mais fraca e a desaceleração na China, e a Palantir cerca de 3% apesar de superar as estimativas. Relatos de ataques dos EUA na ilha iraniana de Qeshm devolveram prêmio de risco ao petróleo, embora as conversas mediadas pelo Catar continuem. Na segunda, a Kalshi dava 74% de probabilidade a um Senado democrata e 94% a uma Câmara democrata."
      },
      {
-      "t": "Por quê",
-      "x": "O petróleo ampliou a queda à tarde depois que o presidente do Irã disse ter mais margem para negociar a paz, e Trump afirmou que o Irã quer um acordo. Isso favoreceu aéreas, consumo e indústria, mas a tecnologia seguiu em queda por dúvidas sobre o gasto em IA: a Intel caiu 8,9% e Marvell, Lumentum e Oracle seguiram em baixa. A IDEXX subiu 21,4% após seus resultados."
+      "t": "Ásia, Europa e futuros",
+      "x": "O KOSPI caiu cerca de 3,3% (5.666) puxado pela tecnologia; Hong Kong subiu 0,57% e Xangai caiu 0,82%, e o Japão não operou por feriado. A Europa abriu em queda: Euro Stoxx −0,9% e DAX −0,9%. Às 4h40 (Cidade do México), os futuros do Dow perdiam 0,54%, os do S&P 500 0,05% e os do Nasdaq 100 subiam 0,40%. O Brent sobe 1,76% a 106,61 dólares e o WTI 1,66% a 98,06; o título do Tesouro de 10 anos está em 4,91%."
      },
      {
-      "t": "O que se espera",
-      "x": "A Apple divulga resultados após o fechamento, e eles vão marcar os futuros e a abertura da Ásia. Na terça são as eleições de meio de mandato dos EUA e a AMD divulga resultados após o fechamento; na quarta decide o Copom e vence o prazo da greve em Los Angeles–Long Beach, na quinta decide o Banxico e na sexta sai o emprego de outubro."
+      "t": "O que se espera hoje",
+      "x": "Votação das eleições de meio de mandato o dia todo: os primeiros estados fecham as urnas às 18h (Cidade do México). Às 9h (Cidade do México) saem a pesquisa JOLTS (consenso de 7,164 milhões de vagas) e as encomendas à indústria de setembro (+1,2% esperado). A Pfizer divulga antes da abertura; AMD, Arista, Amgen e Booking após o fechamento."
      }
     ],
-    "scm": "O dia confirma que o alívio na energia é real (WTI a 96 dólares), mas o mercado não o lê como fim do risco: a volatilidade subiu 10%. Peça às transportadoras a revisão das sobretaxas de combustível para a próxima quinzena e não feche compromissos de tarifa nem de estoque até conhecer o resultado eleitoral."
+    "scm": "Dia de alta volatilidade: não feche compras de combustível nem tarifas com base no petróleo de ontem, porque ele já recuperou parte da queda. Deixe prontas as proteções cambiais para executar depois dos resultados e acompanhe o prazo da greve em Los Angeles–Long Beach de amanhã."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: mercados en vivo, 2 de noviembre de 2026",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+     "t": "TipRanks: futuros mixtos en el día de la elección; Apple y Palantir caen tras sus reportes",
+     "u": "https://www.tipranks.com/news/stock-market-today-nov-3-futures-mixed-on-midterm-election-day-apple-and-palantir-shares-slide-after-earnings"
     },
     {
-     "t": "Investing.com: cierre de las bolsas de EE. UU., 2 de noviembre de 2026",
-     "u": "https://mx.investing.com/news/stock-market-news/las-bolsas-de-valores-de-estados-unidos-se-mostraron-sin-cambios-al-cierre-el-dow-jones-industrial-average-gano-un-058-3827400"
+     "t": "Saxo: Asia Market Quick Take, 3 de noviembre de 2026",
+     "u": "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take-03-november-2026-03112026"
     },
     {
-     "t": "The Private Banker: el petróleo cae más de 7% y el WTI rompe los 100 dólares",
-     "u": "https://leprivatebanker.com/2026/11/02/oil-sinks-more-than-7-and-wti-breaks-below-100-as-iran-signals-room-for-peace-talks/"
+     "t": "investingLive: apertura de las bolsas europeas, 3 de noviembre",
+     "u": "https://investinglive.com/stocks/european-stock-market-open-stocks-tumble-across-the-board-as-risk-sentiment-sours/"
     },
     {
-     "t": "TheStreet: Stock Market Today, 2 de noviembre de 2026",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026"
+     "t": "Grafa: el petróleo sube por ataques en la isla de Qeshm",
+     "u": "https://grafa.com/en/news/united-states/oil-prices-rise-iran-qeshm-island-strikes-peace-talks"
+    },
+    {
+     "t": "XTB: calendario económico del 3 de noviembre de 2026",
+     "u": "https://www.xtb.com/int/market-analysis/news-and-research/economic-calendar-us-midterms-jolts-and-factory-orders-take-center-stage-03-11-2026"
+    },
+    {
+     "t": "Kalshi: momios finales antes de la elección",
+     "u": "https://news.kalshi.com/p/final-2026-midterm-odds"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-02-cierre-latam",
-   "fecha": "2026-11-02",
-   "momento": "cierre",
+   "id": "2026-11-03-premercado-latam",
+   "fecha": "2026-11-03",
+   "momento": "premercado",
    "mercado": "latam",
-   "hora": "15:20 CDMX",
+   "hora": "05:15 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "Chile y Perú encabezan la región con alzas cercanas a 2% y Canadá sube 0.7%; Argentina cae y el real y el peso colombiano se debilitan",
+    "titular": "Brasil, Colombia y México reabren tras los feriados; Chile y Perú vienen de subir cerca de 2% y el Copom decide mañana",
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "Con el último dato disponible (13:45 CDMX), el fondo de Chile (ECH) subió 1.9% y el de Perú 1.86%, el S&P/TSX de Canadá 0.71% (35,872.12) y el fondo de Argentina (ARGT) bajó 1.16%. Brasil y Colombia no operaron por feriado: el Ibovespa sigue en 167,922 y el COLCAP con su cierre del 30 de octubre."
+      "t": "Lo que pasó desde el cierre",
+      "x": "El lunes, el fondo de Chile (ECH) cerró con alza de 2.1% y el de Perú 1.35%, el S&P/TSX de Canadá subió 0.51% (35,801.09) y el fondo de Argentina (ARGT) cayó 1.28%. Brasil y Colombia no operaron: el Ibovespa sigue en 167,922 y el COLCAP en su cierre del 30 de octubre."
      },
      {
-      "t": "Por qué",
-      "x": "Los mercados mineros se apoyaron en el cobre y en un dólar débil, mientras la caída del crudo (WTI −7.4%) pesa sobre los exportadores de petróleo de la región."
+      "t": "Contexto",
+      "x": "El crudo rebota casi 2% (Brent 106.61) por los ataques en Qeshm, lo que da algo de alivio a los exportadores de petróleo de la región después de la caída de 7% del lunes. Europa y Asia abren con aversión al riesgo, y la elección de EE. UU. definirá el tono de las monedas emergentes."
      },
      {
-      "t": "Monedas",
-      "x": "El peso mexicano ganó 1.46% (18.58) y el chileno 1.06% (977.35); el real perdió 0.97% (5.44) y el peso colombiano 1.65% (3,227), en una sesión de poca liquidez por los feriados. El sol peruano y el peso argentino casi no se movieron (3.46 y 1,545)."
-     },
-     {
-      "t": "Qué se espera",
-      "x": "El martes reabren Brasil, Colombia y México. El miércoles el Copom de Brasil decide la Selic (13.75%) y el jueves Banxico; las elecciones de EE. UU. del martes marcarán el tono para todas las monedas de la región."
+      "t": "Qué se espera hoy",
+      "x": "Reabren Brasil, Colombia y México, con ajustes pendientes del lunes en sus bolsas y monedas. El miércoles 4 el Copom de Brasil decide la Selic (13.75%), y el jueves 5 Banxico."
      }
     ],
-    "scm": "Programa para el martes, con liquidez, las liquidaciones en reales y pesos colombianos que quedaron pendientes. Si compras cobre o concentrados de Chile y Perú, fija el precio del primer trimestre antes de que el peso chileno y el cobre sigan subiendo."
+    "scm": "Con Brasil y Colombia reabriendo, hoy es el día para liquidar las operaciones en reales y pesos colombianos que quedaron pendientes, de preferencia en la mañana, antes de los resultados electorales. Si compras cobre o concentrados de Chile y Perú, mantén la idea de fijar el precio del primer trimestre."
    },
    "en": {
-    "titular": "Chile and Peru lead the region with gains near 2% and Canada rises 0.7%; Argentina falls and the real and Colombian peso weaken",
+    "titular": "Brazil, Colombia and Mexico reopen after the holidays; Chile and Peru come off gains near 2% and Copom decides tomorrow",
     "bloques": [
      {
-      "t": "What happened",
-      "x": "With the latest data available (13:45 Mexico City time), the Chile fund (ECH) rose 1.9% and the Peru fund 1.86%, Canada's S&P/TSX 0.71% (35,872.12), and the Argentina fund (ARGT) fell 1.16%. Brazil and Colombia were closed for holidays: the Ibovespa stays at 167,922 and the COLCAP at its October 30 close."
+      "t": "What happened since the close",
+      "x": "On Monday, the Chile fund (ECH) closed up 2.1% and the Peru fund 1.35%, Canada's S&P/TSX rose 0.51% (35,801.09) and the Argentina fund (ARGT) fell 1.28%. Brazil and Colombia were closed: the Ibovespa stays at 167,922 and the COLCAP at its October 30 close."
      },
      {
-      "t": "Why",
-      "x": "Mining markets were supported by copper and a weak dollar, while crude's fall (WTI −7.4%) weighs on the region's oil exporters."
+      "t": "Context",
+      "x": "Crude rebounds nearly 2% (Brent $106.61) on the Qeshm strikes, giving some relief to the region's oil exporters after Monday's 7% drop. Europe and Asia open risk-off, and the US election will set the tone for emerging-market currencies."
      },
      {
-      "t": "Currencies",
-      "x": "The Mexican peso gained 1.46% (18.58) and the Chilean peso 1.06% (977.35); the real lost 0.97% (5.44) and the Colombian peso 1.65% (3,227) in a thin holiday session. The Peruvian sol and the Argentine peso barely moved (3.46 and 1,545)."
-     },
-     {
-      "t": "What to expect",
-      "x": "Brazil, Colombia and Mexico reopen on Tuesday. On Wednesday Brazil's Copom decides the Selic (13.75%) and on Thursday Banxico; Tuesday's US elections will set the tone for every currency in the region."
+      "t": "What to expect today",
+      "x": "Brazil, Colombia and Mexico reopen, with Monday's adjustments still pending for their stocks and currencies. On Wednesday the 4th, Brazil's Copom decides the Selic (13.75%), and Banxico on Thursday the 5th."
      }
     ],
-    "scm": "Schedule for Tuesday, with liquidity, the settlements in reais and Colombian pesos that were left pending. If you buy copper or concentrates from Chile and Peru, lock in first-quarter prices before the Chilean peso and copper climb further."
+    "scm": "With Brazil and Colombia reopening, today is the day to settle the operations in reais and Colombian pesos left pending, preferably in the morning, before the election results. If you buy copper or concentrates from Chile and Peru, stick with the plan to lock in first-quarter prices."
    },
    "pt": {
-    "titular": "Chile e Peru lideram a região com altas perto de 2% e o Canadá sobe 0,7%; a Argentina cai e o real e o peso colombiano se enfraquecem",
+    "titular": "Brasil, Colômbia e México reabrem após os feriados; Chile e Peru vêm de altas perto de 2% e o Copom decide amanhã",
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "Com o último dado disponível (13h45 da Cidade do México), o fundo do Chile (ECH) subiu 1,9% e o do Peru 1,86%, o S&P/TSX do Canadá 0,71% (35.872,12) e o fundo da Argentina (ARGT) caiu 1,16%. Brasil e Colômbia não operaram por feriado: o Ibovespa segue em 167.922 e o COLCAP com o fechamento de 30 de outubro."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "Na segunda, o fundo do Chile (ECH) fechou em alta de 2,1% e o do Peru 1,35%, o S&P/TSX do Canadá subiu 0,51% (35.801,09) e o fundo da Argentina (ARGT) caiu 1,28%. Brasil e Colômbia não operaram: o Ibovespa segue em 167.922 e o COLCAP no fechamento de 30 de outubro."
      },
      {
-      "t": "Por quê",
-      "x": "Os mercados de mineração se apoiaram no cobre e no dólar fraco, enquanto a queda do petróleo (WTI −7,4%) pesa sobre os exportadores de petróleo da região."
+      "t": "Contexto",
+      "x": "O petróleo sobe quase 2% (Brent a 106,61) pelos ataques em Qeshm, o que dá algum alívio aos exportadores de petróleo da região após a queda de 7% de segunda. Europa e Ásia abrem com aversão ao risco, e a eleição dos EUA vai definir o tom das moedas emergentes."
      },
      {
-      "t": "Moedas",
-      "x": "O peso mexicano ganhou 1,46% (18,58) e o chileno 1,06% (977,35); o real perdeu 0,97% (5,44) e o peso colombiano 1,65% (3.227), numa sessão de pouca liquidez pelos feriados. O sol peruano e o peso argentino quase não se moveram (3,46 e 1.545)."
-     },
-     {
-      "t": "O que se espera",
-      "x": "Na terça reabrem Brasil, Colômbia e México. Na quarta o Copom decide a Selic (13,75%) e na quinta o Banxico; as eleições dos EUA de terça vão ditar o tom para todas as moedas da região."
+      "t": "O que se espera hoje",
+      "x": "Reabrem Brasil, Colômbia e México, com ajustes pendentes de segunda em suas bolsas e moedas. Na quarta, dia 4, o Copom decide a Selic (13,75%), e na quinta, dia 5, o Banxico."
      }
     ],
-    "scm": "Programe para terça, com liquidez, as liquidações em reais e pesos colombianos que ficaram pendentes. Se você compra cobre ou concentrados do Chile e do Peru, fixe o preço do primeiro trimestre antes que o peso chileno e o cobre continuem subindo."
+    "scm": "Com Brasil e Colômbia reabrindo, hoje é o dia de liquidar as operações em reais e pesos colombianos que ficaram pendentes, de preferência pela manhã, antes dos resultados eleitorais. Se você compra cobre ou concentrados do Chile e do Peru, mantenha o plano de fixar o preço do primeiro trimestre."
    },
    "fuentes": [
     {
@@ -159,79 +157,84 @@
      "u": "https://mrsupplychain.ai/noticias/"
     },
     {
-     "t": "The Private Banker: el petróleo cae más de 7% y el WTI rompe los 100 dólares",
-     "u": "https://leprivatebanker.com/2026/11/02/oil-sinks-more-than-7-and-wti-breaks-below-100-as-iran-signals-room-for-peace-talks/"
+     "t": "Grafa: el petróleo sube por ataques en la isla de Qeshm",
+     "u": "https://grafa.com/en/news/united-states/oil-prices-rise-iran-qeshm-island-strikes-peace-talks"
     }
    ]
   },
   "mexico": {
-   "id": "2026-11-02-cierre-mexico",
-   "fecha": "2026-11-02",
-   "momento": "cierre",
+   "id": "2026-11-03-premercado-mexico",
+   "fecha": "2026-11-03",
+   "momento": "premercado",
    "mercado": "mexico",
-   "hora": "15:20 CDMX",
+   "hora": "05:15 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "El peso cierra en 18.57 por dólar, su mejor nivel en semanas, en un día sin BMV ni FIX; mañana reabre el mercado local",
+    "titular": "Reabre la BMV con el peso en 18.57 por dólar y la elección de EE. UU. como factor del día; hoy hay subasta de Cetes",
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "El peso cerró en 18.57 por dólar, 1.19% mejor que el cierre del viernes (18.79), con datos de Dow Jones citados por Infobae, y suma dos días de ganancias. La BMV, los bancos y Banxico no operaron por Día de Muertos: el IPC sigue en 69,779.20 y el Bono M a 10 años en 9.31% (cierres del 30 de octubre), y no hubo FIX."
+      "t": "Lo que pasó desde el cierre",
+      "x": "El peso se mantuvo en la noche cerca de 18.57 por dólar, el nivel con el que cerró el lunes (+1.19%). Para hoy rige un FIX de 18.7962 (el del 30 de octubre, publicado en el DOF), porque el lunes no hubo operación bancaria; en ventanilla los bancos cotizan alrededor de 18.50 a la compra y 18.95 a la venta."
      },
      {
-      "t": "Por qué",
-      "x": "El desplome del petróleo (WTI −7.4%) por la vía diplomática con Irán y un dólar más débil (índice en 101.61) impulsaron a las monedas emergentes. El peso sostuvo la ganancia aunque Wall Street terminó dividido."
+      "t": "Contexto",
+      "x": "Afuera, el tono es más cauteloso que el lunes: Europa abre con caídas cercanas a 1%, Apple pesa en los futuros de EE. UU. y el crudo rebota casi 2% por los ataques en Qeshm, lo que puede frenar el impulso del peso. La BMV reabre después del feriado con el IPC en 69,779.20 (cierre del 30 de octubre) y tendrá que ajustarse al rebote de Wall Street del lunes y a la caída de la tecnología."
      },
      {
-      "t": "Qué se espera",
-      "x": "El martes reabren la BMV y los bancos, regresa el FIX y se realiza la subasta de Cetes que se movió del lunes, con las elecciones de EE. UU. como factor principal para el peso. El jueves 5 decide Banxico, con la tasa en 6.50%."
+      "t": "Qué se espera hoy",
+      "x": "Reabren la BMV y los bancos y se realiza la subasta de Cetes que se movió del lunes. El resultado electoral en EE. UU. empezará a conocerse desde las 18:00 CDMX. El jueves 5 decide Banxico, con la tasa en 6.50%."
      }
     ],
-    "scm": "El peso en 18.57 es la mejor ventana en semanas para cubrir pagos en dólares de noviembre: si no lo hiciste hoy, cubre una parte con la apertura del martes, antes de los resultados electorales, y deja el resto para después de Banxico. Las liquidaciones del martes usan el FIX de 18.7962."
+    "scm": "Si necesitas comprar dólares esta semana, el peso en 18.57 sigue en una buena zona: ejecuta una parte en la mañana, antes de que se conozcan resultados electorales, y programa el resto después de Banxico. Las liquidaciones de hoy usan el FIX de 18.7962."
    },
    "en": {
-    "titular": "The peso closes at 18.57 per dollar, its best level in weeks, on a day with no BMV or FIX; the local market reopens tomorrow",
+    "titular": "The BMV reopens with the peso at 18.57 per dollar and the US election as the day's driver; Cetes auction today",
     "bloques": [
      {
-      "t": "What happened",
-      "x": "The peso closed at 18.57 per dollar, 1.19% stronger than Friday's close (18.79), per Dow Jones data cited by Infobae, and has gained for two days. The BMV, banks and Banxico were closed for the Day of the Dead: the IPC stays at 69,779.20 and the 10-year M Bono at 9.31% (October 30 closes), and there was no FIX."
+      "t": "What happened since the close",
+      "x": "The peso held overnight near 18.57 per dollar, the level at which it closed Monday (+1.19%). Today's FIX is 18.7962 (the October 30 rate, published in the DOF), since there was no banking activity on Monday; at bank branches, quotes are around 18.50 to buy and 18.95 to sell."
      },
      {
-      "t": "Why",
-      "x": "Oil's plunge (WTI −7.4%) on the diplomatic track with Iran and a weaker dollar (index at 101.61) lifted emerging-market currencies. The peso held its gain even though Wall Street ended split."
+      "t": "Context",
+      "x": "Abroad, the tone is more cautious than on Monday: Europe opens down about 1%, Apple weighs on US futures and crude rebounds nearly 2% on the Qeshm strikes, which may slow the peso's momentum. The BMV reopens after the holiday with the IPC at 69,779.20 (October 30 close) and will have to adjust to Monday's Wall Street moves and the tech sell-off."
      },
      {
-      "t": "What to expect",
-      "x": "On Tuesday the BMV and banks reopen, the FIX returns and the Cetes auction moved from Monday takes place, with the US elections as the main driver for the peso. Banxico decides on Thursday the 5th, with the rate at 6.50%."
+      "t": "What to expect today",
+      "x": "The BMV and banks reopen and the Cetes auction moved from Monday takes place. US election results will start coming in from 6:00 p.m. Mexico City time. Banxico decides on Thursday the 5th, with the rate at 6.50%."
      }
     ],
-    "scm": "The peso at 18.57 is the best window in weeks to hedge November dollar payments: if you did not do it today, hedge part at Tuesday's open, before the election results, and leave the rest until after Banxico. Tuesday's settlements use the 18.7962 FIX."
+    "scm": "If you need to buy dollars this week, the peso at 18.57 is still in a good zone: execute part in the morning, before election results come in, and schedule the rest after Banxico. Today's settlements use the 18.7962 FIX."
    },
    "pt": {
-    "titular": "O peso fecha a 18,57 por dólar, seu melhor nível em semanas, num dia sem BMV nem FIX; o mercado local reabre amanhã",
+    "titular": "A BMV reabre com o peso a 18,57 por dólar e a eleição dos EUA como fator do dia; hoje há leilão de Cetes",
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "O peso fechou a 18,57 por dólar, 1,19% melhor que o fechamento de sexta (18,79), com dados da Dow Jones citados pela Infobae, e soma dois dias de ganhos. A BMV, os bancos e o Banxico não operaram pelo Dia dos Mortos: o IPC segue em 69.779,20 e o Bono M de 10 anos em 9,31% (fechamentos de 30 de outubro), e não houve FIX."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "O peso se manteve à noite perto de 18,57 por dólar, o nível com que fechou a segunda (+1,19%). Para hoje vale um FIX de 18,7962 (o de 30 de outubro, publicado no DOF), porque na segunda não houve operação bancária; nas agências, os bancos cotam cerca de 18,50 na compra e 18,95 na venda."
      },
      {
-      "t": "Por quê",
-      "x": "O tombo do petróleo (WTI −7,4%) pela via diplomática com o Irã e um dólar mais fraco (índice em 101,61) impulsionaram as moedas emergentes. O peso manteve o ganho mesmo com Wall Street fechando dividida."
+      "t": "Contexto",
+      "x": "Lá fora, o tom é mais cauteloso que na segunda: a Europa abre com quedas perto de 1%, a Apple pesa nos futuros dos EUA e o petróleo sobe quase 2% pelos ataques em Qeshm, o que pode frear o impulso do peso. A BMV reabre após o feriado com o IPC em 69.779,20 (fechamento de 30 de outubro) e terá de se ajustar à sessão de Wall Street de segunda e à queda da tecnologia."
      },
      {
-      "t": "O que se espera",
-      "x": "Na terça reabrem a BMV e os bancos, volta o FIX e acontece o leilão de Cetes adiado de segunda, com as eleições dos EUA como principal fator para o peso. Na quinta, dia 5, decide o Banxico, com a taxa em 6,50%."
+      "t": "O que se espera hoje",
+      "x": "Reabrem a BMV e os bancos e acontece o leilão de Cetes adiado de segunda. O resultado eleitoral nos EUA começará a ser conhecido a partir das 18h (Cidade do México). Na quinta, dia 5, decide o Banxico, com a taxa em 6,50%."
      }
     ],
-    "scm": "O peso a 18,57 é a melhor janela em semanas para proteger pagamentos em dólares de novembro: se não fez hoje, proteja uma parte na abertura de terça, antes dos resultados eleitorais, e deixe o resto para depois do Banxico. As liquidações de terça usam o FIX de 18,7962."
+    "scm": "Se você precisa comprar dólares nesta semana, o peso a 18,57 segue numa boa zona: execute uma parte pela manhã, antes dos resultados eleitorais, e programe o resto para depois do Banxico. As liquidações de hoje usam o FIX de 18,7962."
    },
    "fuentes": [
     {
-     "t": "Infobae: cotización de cierre del dólar en México, 2 de noviembre",
-     "u": "https://www.infobae.com/mexico/2026/11/02/precio-del-dolar-hoy-en-mexico-cotizacion-de-cierre-del-2-de-noviembre/"
+     "t": "N+: tipo de cambio y FIX del martes 3 de noviembre",
+     "u": "https://www.nmas.com.mx/economia/dolar/como-esta-el-tipo-de-cambio-del-peso-con-el-dolar-estadounidense-este-martes-3-noviembre-2026/"
     },
     {
-     "t": "The Private Banker: el petróleo cae más de 7% y el WTI rompe los 100 dólares",
-     "u": "https://leprivatebanker.com/2026/11/02/oil-sinks-more-than-7-and-wti-breaks-below-100-as-iran-signals-room-for-peace-talks/"
+     "t": "investingLive: apertura de las bolsas europeas, 3 de noviembre",
+     "u": "https://investinglive.com/stocks/european-stock-market-open-stocks-tumble-across-the-board-as-risk-sentiment-sours/"
+    },
+    {
+     "t": "Grafa: el petróleo sube por ataques en la isla de Qeshm",
+     "u": "https://grafa.com/en/news/united-states/oil-prices-rise-iran-qeshm-island-strikes-peace-talks"
     }
    ]
   }
@@ -648,8 +651,8 @@
    "nombre": "KOSPI",
    "name_en": "KOSPI",
    "grupo": "bolsa",
-   "valor": 5859.08,
-   "cambio": 2.24,
+   "valor": 5666,
+   "cambio": -3.3,
    "unidad": "puntos",
    "name_pt": "KOSPI"
   },
@@ -684,8 +687,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 96.46,
-   "cambio": -7.4,
+   "valor": 98.06,
+   "cambio": 1.66,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -693,8 +696,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 104.77,
-   "cambio": -7.6,
+   "valor": 106.61,
+   "cambio": 1.76,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -711,8 +714,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3953.4,
-   "cambio": 1.4,
+   "valor": 3950,
+   "cambio": 0.1,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -729,8 +732,8 @@
    "nombre": "Treasury 10 años",
    "name_en": "10-yr Treasury",
    "grupo": "bono",
-   "valor": 4.89,
-   "cambio": -3.5,
+   "valor": 4.91,
+   "cambio": 2,
    "unidad": "%",
    "name_pt": "Título do Tesouro 10 anos"
   },

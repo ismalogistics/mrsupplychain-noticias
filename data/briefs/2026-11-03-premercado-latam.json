@@ -1,0 +1,72 @@
+{
+ "id": "2026-11-03-premercado-latam",
+ "fecha": "2026-11-03",
+ "momento": "premercado",
+ "mercado": "latam",
+ "hora": "05:15 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Brasil, Colombia y México reabren tras los feriados; Chile y Perú vienen de subir cerca de 2% y el Copom decide mañana",
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El lunes, el fondo de Chile (ECH) cerró con alza de 2.1% y el de Perú 1.35%, el S&P/TSX de Canadá subió 0.51% (35,801.09) y el fondo de Argentina (ARGT) cayó 1.28%. Brasil y Colombia no operaron: el Ibovespa sigue en 167,922 y el COLCAP en su cierre del 30 de octubre."
+   },
+   {
+    "t": "Contexto",
+    "x": "El crudo rebota casi 2% (Brent 106.61) por los ataques en Qeshm, lo que da algo de alivio a los exportadores de petróleo de la región después de la caída de 7% del lunes. Europa y Asia abren con aversión al riesgo, y la elección de EE. UU. definirá el tono de las monedas emergentes."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Reabren Brasil, Colombia y México, con ajustes pendientes del lunes en sus bolsas y monedas. El miércoles 4 el Copom de Brasil decide la Selic (13.75%), y el jueves 5 Banxico."
+   }
+  ],
+  "scm": "Con Brasil y Colombia reabriendo, hoy es el día para liquidar las operaciones en reales y pesos colombianos que quedaron pendientes, de preferencia en la mañana, antes de los resultados electorales. Si compras cobre o concentrados de Chile y Perú, mantén la idea de fijar el precio del primer trimestre."
+ },
+ "en": {
+  "titular": "Brazil, Colombia and Mexico reopen after the holidays; Chile and Peru come off gains near 2% and Copom decides tomorrow",
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Monday, the Chile fund (ECH) closed up 2.1% and the Peru fund 1.35%, Canada's S&P/TSX rose 0.51% (35,801.09) and the Argentina fund (ARGT) fell 1.28%. Brazil and Colombia were closed: the Ibovespa stays at 167,922 and the COLCAP at its October 30 close."
+   },
+   {
+    "t": "Context",
+    "x": "Crude rebounds nearly 2% (Brent $106.61) on the Qeshm strikes, giving some relief to the region's oil exporters after Monday's 7% drop. Europe and Asia open risk-off, and the US election will set the tone for emerging-market currencies."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Brazil, Colombia and Mexico reopen, with Monday's adjustments still pending for their stocks and currencies. On Wednesday the 4th, Brazil's Copom decides the Selic (13.75%), and Banxico on Thursday the 5th."
+   }
+  ],
+  "scm": "With Brazil and Colombia reopening, today is the day to settle the operations in reais and Colombian pesos left pending, preferably in the morning, before the election results. If you buy copper or concentrates from Chile and Peru, stick with the plan to lock in first-quarter prices."
+ },
+ "pt": {
+  "titular": "Brasil, Colômbia e México reabrem após os feriados; Chile e Peru vêm de altas perto de 2% e o Copom decide amanhã",
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na segunda, o fundo do Chile (ECH) fechou em alta de 2,1% e o do Peru 1,35%, o S&P/TSX do Canadá subiu 0,51% (35.801,09) e o fundo da Argentina (ARGT) caiu 1,28%. Brasil e Colômbia não operaram: o Ibovespa segue em 167.922 e o COLCAP no fechamento de 30 de outubro."
+   },
+   {
+    "t": "Contexto",
+    "x": "O petróleo sobe quase 2% (Brent a 106,61) pelos ataques em Qeshm, o que dá algum alívio aos exportadores de petróleo da região após a queda de 7% de segunda. Europa e Ásia abrem com aversão ao risco, e a eleição dos EUA vai definir o tom das moedas emergentes."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Reabrem Brasil, Colômbia e México, com ajustes pendentes de segunda em suas bolsas e moedas. Na quarta, dia 4, o Copom decide a Selic (13,75%), e na quinta, dia 5, o Banxico."
+   }
+  ],
+  "scm": "Com Brasil e Colômbia reabrindo, hoje é o dia de liquidar as operações em reais e pesos colombianos que ficaram pendentes, de preferência pela manhã, antes dos resultados eleitorais. Se você compra cobre ou concentrados do Chile e do Peru, mantenha o plano de fixar o preço do primeiro trimestre."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "Grafa: el petróleo sube por ataques en la isla de Qeshm",
+   "u": "https://grafa.com/en/news/united-states/oil-prices-rise-iran-qeshm-island-strikes-peace-talks"
+  }
+ ]
+}
