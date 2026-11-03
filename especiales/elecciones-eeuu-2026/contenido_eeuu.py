@@ -276,4 +276,6 @@ FUENTES_EEUU = {
     'elceo_1103': ('El CEO · BMV y Wall Street hoy (3 nov 2026)', 'https://elceo.com/mercados/bmv-ipc-wall-street-hoy-3-de-noviembre-de-2026-apertura/'),
     'rio_ebrard_1028': ('The Rio Times · Ebrard no prevé un cambio rápido en aranceles (28 oct 2026)', 'https://www.riotimesonline.com/ebrard-no-quick-us-tariff-shift/'),
     'eilan_1031': ('Eilan Trade · alerta comercial México–EE. UU., noviembre 2026', 'https://eilantrade.com/en/trade-alert-us-mexico-trade-november-2026/'),
+    'forbes_exit_1103': ('Forbes · encuesta de salida de CNN: 90% dice que el costo de vida pesó en su voto (3 nov 2026)', 'https://www.forbes.com/sites/saradorn/2026/11/03/midterm-election-live-updates-exit-poll-finds-90-say-cost-of-living-was-major-factor-in-their-votes/'),
+    'ef_peso_1103': ('El Financiero · el peso pierde ganancias en día de elecciones (3 nov 2026)', 'https://www.elfinanciero.com.mx/mercados/2026/11/03/peso-dolar-tipo-de-cambio-hoy-3-de-noviembre-de-2026/'),
 }
