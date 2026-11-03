@@ -267,4 +267,8 @@ FUENTES_EEUU = {
     'pb_crudo_1102': ('The Private Banker · el crudo cae más de 7% (2 nov 2026)', 'https://leprivatebanker.com/2026/11/02/oil-sinks-more-than-7-and-wti-breaks-below-100-as-iran-signals-room-for-peace-talks/'),
     'yf_1102': ('Yahoo Finance · mercados del 2 nov 2026', 'https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html'),
     'infobae_ebrard_1023': ('Infobae · Ebrard reporta avances en aranceles a autos, acero y aluminio (23 oct 2026)', 'https://www.infobae.com/mexico/2026/10/23/marcelo-ebrard-revela-que-hay-avances-en-las-negociaciones-con-eeuu-sobre-aranceles-a-autos-aranceles-y-aluminio/'),
+    'cbs_1103': ('CBS News · en vivo, día de la elección (3 nov 2026)', 'https://www.cbsnews.com/live-updates/election-day-2026-midterms/'),
+    'inv_peso_1103': ('Investing.com · el peso se aprecia bajo 18.60 (3 nov 2026)', 'https://mx.investing.com/news/forex-news/precio-del-dolar-hoy-atento-a-elecciones-eeuu-peso-mexicano-se-aprecia-bajo-1860-3829088'),
+    'yf_1103': ('Yahoo Finance · mercados del 3 nov 2026', 'https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-090846378.html'),
+    'grafa_1103': ('Grafa · el crudo y los ataques en la isla de Qeshm (3 nov 2026)', 'https://grafa.com/en/news/united-states/oil-prices-rise-iran-qeshm-island-strikes-peace-talks'),
 }
