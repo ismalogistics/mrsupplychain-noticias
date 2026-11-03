@@ -20,7 +20,7 @@ DATA = os.path.join(ROOT, 'data')
 SITE = 'https://mrsupplychain.ai/noticias/'
 MARCA = 'Mr. Supply Chain® México'
 # Páginas especiales (carpeta, fecha de última modificación ISO)
-ESPECIALES = [('elecciones-eeuu-2026', '2026-11-02T12:00:00-06:00')]
+ESPECIALES = [('elecciones-eeuu-2026', '2026-11-02T21:01:00-06:00')]
 MOM = {'es': {'premercado': 'Premercado', 'apertura': 'Apertura', 'mediodia': 'Mediodía', 'cierre': 'Cierre'},
        'en': {'premercado': 'Pre-market', 'apertura': 'Open', 'mediodia': 'Midday', 'cierre': 'Close'},
        'pt': {'premercado': 'Pré-mercado', 'apertura': 'Abertura', 'mediodia': 'Meio-dia', 'cierre': 'Fechamento'}}

@@ -261,4 +261,10 @@ FUENTES_EEUU = {
     'jbh': ('J.B. Hunt · inmigración y transporte (24 mar 2026)', 'https://www.jbhunt.com/blog/enterprise/immigration-policy-impact'),
     'thine': ('Thompson Hine · de minimis postal (15 oct 2026)', 'https://www.thompsonhinesmartrade.com/2026/10/cbp-delays-implementation-date-of-de-minimis-exemption-for-mail-shipments/'),
     'ff': ('FreightFigures · tregua EE. UU.–China y plazos del 9–10 nov (sep 2026)', 'https://www.freightfigures.com/articles/us-china-truce-extended-january-10-2027-november-10-exclusions-port-fees-excess-capacity-importer-playbook'),
+    'kalshi_final': ('Kalshi · momios finales antes de la elección (2 nov 2026)', 'https://news.kalshi.com/p/final-2026-midterm-odds'),
+    'forbes_final': ('Forbes · últimas encuestas NYT/Siena y Silver Bulletin (2 nov 2026)', 'https://www.forbes.com/sites/saradorn/2026/11/02/final-2026-midterm-polls-democrats-lead-key-senate-races-in-last-new-york-times-poll/'),
+    'infobae_cierre_1102': ('Infobae · cierre del dólar en México (2 nov 2026)', 'https://www.infobae.com/mexico/2026/11/02/precio-del-dolar-hoy-en-mexico-cotizacion-de-cierre-del-2-de-noviembre/'),
+    'pb_crudo_1102': ('The Private Banker · el crudo cae más de 7% (2 nov 2026)', 'https://leprivatebanker.com/2026/11/02/oil-sinks-more-than-7-and-wti-breaks-below-100-as-iran-signals-room-for-peace-talks/'),
+    'yf_1102': ('Yahoo Finance · mercados del 2 nov 2026', 'https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html'),
+    'infobae_ebrard_1023': ('Infobae · Ebrard reporta avances en aranceles a autos, acero y aluminio (23 oct 2026)', 'https://www.infobae.com/mexico/2026/10/23/marcelo-ebrard-revela-que-hay-avances-en-las-negociaciones-con-eeuu-sobre-aranceles-a-autos-aranceles-y-aluminio/'),
 }
