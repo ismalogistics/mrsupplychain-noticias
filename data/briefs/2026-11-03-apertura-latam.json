@@ -1,0 +1,75 @@
+{
+ "id": "2026-11-03-apertura-latam",
+ "fecha": "2026-11-03",
+ "momento": "apertura",
+ "mercado": "latam",
+ "hora": "09:15 CDMX",
+ "es": {
+  "titular": "Brasil reabre con el Ibovespa 1.45% abajo y el real cerca de 5.50; la región arranca en rojo con la elección de EE. UU. de fondo",
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "Al volver del feriado, el Ibovespa caía 1.45% a 165,488 puntos a las 10:22 de Brasilia y el dólar subía 0.71% a 5.483 reales. Con los primeros datos (8:32 CDMX), el S&P/TSX de Canadá bajaba 0.55% (35,605.68) y los fondos de Chile (−0.48%), Perú (−0.46%) y Argentina (−0.32%) también; el peso chileno ganaba alrededor de 1.1% (981.6 por dólar) y el mexicano cedía a 18.66. Colombia reabre hoy; el COLCAP aún muestra su cierre del 30 de octubre."
+   },
+   {
+    "t": "Contexto",
+    "x": "En Brasil pesan la cautela fiscal tras la reelección de Lula y la pausa de las bolsas globales por la presión en tecnología. Afuera, el JOLTS de EE. UU. salió muy arriba de lo esperado (7.5 millones de vacantes), lo que respalda al dólar."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "El Copom de Brasil inició hoy su reunión y anuncia la Selic el miércoles 4 (13.75%). Banxico decide el jueves 5. Los resultados electorales de EE. UU. llegarán desde las 18:00 CDMX."
+   }
+  ],
+  "scm": "Si tienes pagos en reales, el dólar cerca de 5.50 los encarece: liquida sólo lo urgente hoy y espera la decisión del Copom para el resto. Con el peso chileno más fuerte, las compras de cobre y fruta chilena en dólares rinden menos: revisa tus cotizaciones del trimestre."
+ },
+ "en": {
+  "titular": "Brazil reopens with the Ibovespa down 1.45% and the real near 5.50; the region starts in the red with the US election in the background",
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "Back from the holiday, the Ibovespa was down 1.45% at 165,488 points at 10:22 Brasília time and the dollar rose 0.71% to 5.483 reais. With the first data (8:32 a.m. Mexico City time), Canada's S&P/TSX was down 0.55% (35,605.68) and the Chile (−0.48%), Peru (−0.46%) and Argentina (−0.32%) funds were too; the Chilean peso gained about 1.1% (981.6 per dollar) and the Mexican peso eased to 18.66. Colombia reopens today; the COLCAP still shows its October 30 close."
+   },
+   {
+    "t": "Context",
+    "x": "In Brazil, fiscal caution after Lula's re-election and the pause in global stocks on tech pressure weigh. Abroad, US JOLTS came in well above expectations (7.5 million openings), supporting the dollar."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Brazil's Copom started its meeting today and announces the Selic on Wednesday the 4th (13.75%). Banxico decides on Thursday the 5th. US election results will come in from 6:00 p.m. Mexico City time."
+   }
+  ],
+  "scm": "If you have payments in reais, the dollar near 5.50 makes them more expensive: settle only what is urgent today and wait for the Copom decision for the rest. With a stronger Chilean peso, dollar purchases of Chilean copper and fruit buy less: review your quarterly quotes."
+ },
+ "pt": {
+  "titular": "O Brasil reabre com o Ibovespa em queda de 1,45% e o dólar perto de R$ 5,50; a região começa no vermelho com a eleição dos EUA ao fundo",
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Na volta do feriado, o Ibovespa caía 1,45%, aos 165.488 pontos, às 10h22 de Brasília, e o dólar subia 0,71%, a R$ 5,483. Com os primeiros dados (8h32, Cidade do México), o S&P/TSX do Canadá caía 0,55% (35.605,68) e os fundos do Chile (−0,48%), Peru (−0,46%) e Argentina (−0,32%) também; o peso chileno ganhava cerca de 1,1% (981,6 por dólar) e o mexicano recuava a 18,66. A Colômbia reabre hoje; o COLCAP ainda mostra o fechamento de 30 de outubro."
+   },
+   {
+    "t": "Contexto",
+    "x": "No Brasil pesam a cautela fiscal após a reeleição de Lula e a pausa das bolsas globais pela pressão na tecnologia. Lá fora, o JOLTS dos EUA veio bem acima do esperado (7,5 milhões de vagas), o que sustenta o dólar."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "O Copom começou hoje sua reunião e anuncia a Selic na quarta, dia 4 (13,75%). O Banxico decide na quinta, dia 5. Os resultados eleitorais dos EUA chegarão a partir das 18h (Cidade do México)."
+   }
+  ],
+  "scm": "Se você tem pagamentos em reais, o dólar perto de R$ 5,50 os encarece: liquide só o urgente hoje e espere a decisão do Copom para o resto. Com o peso chileno mais forte, as compras de cobre e frutas chilenas em dólares rendem menos: revise suas cotações do trimestre."
+ },
+ "fuentes": [
+  {
+   "t": "Portal do Agronegócio: Ibovespa cai na abertura e dólar se aproxima de R$ 5,50",
+   "u": "https://www.portaldoagronegocio.com.br/economia/mercado-financeiro/noticias/ibovespa-cai-na-abertura-e-bolsas-globais-recuam-com-pressao-sobre-tecnologia-dolar-se-aproxima-de-r-5-50"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "Trading Economics: JOLTS de septiembre de 2026",
+   "u": "https://tradingeconomics.com/united-states/job-offers"
+  }
+ ]
+}

@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-03-apertura-global",
+   "fecha": "2026-11-03",
+   "momento": "apertura",
+   "mercado": "global",
+   "titular_es": "Wall Street abre mixta en día de elección: la tecnología rebota, el Dow cae 0.4% y el JOLTS sorprende al alza con 7.5 millones de vacantes",
+   "titular_en": "Wall Street opens mixed on election day: tech rebounds, the Dow falls 0.4% and JOLTS surprises higher at 7.5 million openings",
+   "titular_pt": "Wall Street abre mista no dia da eleição: a tecnologia sobe, o Dow cai 0,4% e o JOLTS surpreende com 7,5 milhões de vagas"
+  },
+  {
+   "id": "2026-11-03-apertura-latam",
+   "fecha": "2026-11-03",
+   "momento": "apertura",
+   "mercado": "latam",
+   "titular_es": "Brasil reabre con el Ibovespa 1.45% abajo y el real cerca de 5.50; la región arranca en rojo con la elección de EE. UU. de fondo",
+   "titular_en": "Brazil reopens with the Ibovespa down 1.45% and the real near 5.50; the region starts in the red with the US election in the background",
+   "titular_pt": "O Brasil reabre com o Ibovespa em queda de 1,45% e o dólar perto de R$ 5,50; a região começa no vermelho com a eleição dos EUA ao fundo"
+  },
+  {
+   "id": "2026-11-03-apertura-mexico",
+   "fecha": "2026-11-03",
+   "momento": "apertura",
+   "mercado": "mexico",
+   "titular_es": "El peso cede a 18.66 por dólar al reabrir el mercado local y la BMV regresa tras el feriado, con la elección de EE. UU. de fondo",
+   "titular_en": "The peso eases to 18.66 per dollar as the local market reopens and the BMV returns from the holiday, with the US election in the background",
+   "titular_pt": "O peso recua a 18,66 por dólar com a reabertura do mercado local e a BMV volta do feriado, com a eleição dos EUA ao fundo"
+  },
+  {
    "id": "2026-11-03-premercado-global",
    "fecha": "2026-11-03",
    "momento": "premercado",

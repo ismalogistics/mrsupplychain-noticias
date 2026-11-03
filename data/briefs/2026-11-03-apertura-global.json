@@ -1,0 +1,91 @@
+{
+ "id": "2026-11-03-apertura-global",
+ "fecha": "2026-11-03",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:15 CDMX",
+ "es": {
+  "titular": "Wall Street abre mixta en día de elección: la tecnología rebota, el Dow cae 0.4% y el JOLTS sorprende al alza con 7.5 millones de vacantes",
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "El premercado anticipaba futuros mixtos tras la caída de Apple (−3% fuera de horario) y un crudo volátil por los ataques en Qeshm. Al abrir, el Nasdaq subió 0.39% (25,263.01) y el S&P 500 0.10% (7,549.17), mientras el Dow perdió 0.40% (51,777.23); los chips rebotan (Micron casi +4%, AMD e Intel más de 3% en premercado) y Shopify cae cerca de 16% por un GMV debajo de lo esperado. El Brent pasó de subir casi 2% en la madrugada a caer 3% a 101.54 dólares, y el Treasury a 10 años está en 4.91%. A las 9:00 CDMX, el JOLTS de septiembre marcó 7.523 millones de vacantes, muy arriba de los 7.10 millones esperados y de los 7.19 millones de agosto."
+   },
+   {
+    "t": "Asia y Europa",
+    "x": "Asia cerró mixta: el KOSPI cayó cerca de 3.3% (5,666) por tecnología, Hong Kong subió 0.57% y Shanghái bajó 0.82%; Japón no operó por feriado. Europa abrió con caídas de 0.9% en el Euro Stoxx y el DAX por cautela ante las elecciones y la presión en tecnología."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Las casillas cierran en los primeros estados a las 18:00 CDMX y los resultados llegarán durante la noche. Después del cierre reportan AMD, Arista, Amgen y Booking; a las 14:30 CDMX salen los inventarios de crudo del API."
+   }
+  ],
+  "scm": "Un mercado laboral más fuerte de lo esperado (7.5 millones de vacantes) sostiene la demanda, pero también las tasas altas: no cuentes con crédito más barato para financiar inventario. El crudo sigue oscilando varios puntos al día, así que espera a que se asiente antes de negociar recargos."
+ },
+ "en": {
+  "titular": "Wall Street opens mixed on election day: tech rebounds, the Dow falls 0.4% and JOLTS surprises higher at 7.5 million openings",
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "Pre-market pointed to mixed futures after Apple's drop (−3% after hours) and volatile crude on the Qeshm strikes. At the open, the Nasdaq rose 0.39% (25,263.01) and the S&P 500 0.10% (7,549.17), while the Dow lost 0.40% (51,777.23); chips rebound (Micron nearly +4%, AMD and Intel more than 3% pre-market) and Shopify falls about 16% on GMV below expectations. Brent swung from a nearly 2% gain overnight to a 3% drop at $101.54, and the 10-year Treasury is at 4.91%. At 9:00 a.m. Mexico City time, September JOLTS showed 7.523 million openings, well above the 7.10 million expected and August's 7.19 million."
+   },
+   {
+    "t": "Asia and Europe",
+    "x": "Asia closed mixed: the KOSPI fell about 3.3% (5,666) on tech, Hong Kong rose 0.57% and Shanghai fell 0.82%; Japan was closed for a holiday. Europe opened down 0.9% on the Euro Stoxx and the DAX on caution ahead of the elections and pressure on tech."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Polls close in the first states at 6:00 p.m. Mexico City time and results will come in overnight. After the close, AMD, Arista, Amgen and Booking report; API crude inventories come out at 2:30 p.m. Mexico City time."
+   }
+  ],
+  "scm": "A stronger-than-expected labor market (7.5 million openings) supports demand, but also high rates: do not count on cheaper credit to finance inventory. Crude keeps swinging several points a day, so wait for it to settle before negotiating surcharges."
+ },
+ "pt": {
+  "titular": "Wall Street abre mista no dia da eleição: a tecnologia sobe, o Dow cai 0,4% e o JOLTS surpreende com 7,5 milhões de vagas",
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "O pré-mercado apontava futuros mistos após a queda da Apple (−3% fora do horário) e um petróleo volátil pelos ataques em Qeshm. Na abertura, o Nasdaq subiu 0,39% (25.263,01) e o S&P 500 0,10% (7.549,17), enquanto o Dow perdeu 0,40% (51.777,23); os chips sobem (Micron quase +4%, AMD e Intel mais de 3% no pré-mercado) e a Shopify cai cerca de 16% por um GMV abaixo do esperado. O Brent passou de uma alta de quase 2% na madrugada para uma queda de 3%, a 101,54 dólares, e o título do Tesouro de 10 anos está em 4,91%. Às 9h (Cidade do México), o JOLTS de setembro marcou 7,523 milhões de vagas, bem acima dos 7,10 milhões esperados e dos 7,19 milhões de agosto."
+   },
+   {
+    "t": "Ásia e Europa",
+    "x": "A Ásia fechou mista: o KOSPI caiu cerca de 3,3% (5.666) pela tecnologia, Hong Kong subiu 0,57% e Xangai caiu 0,82%; o Japão não operou por feriado. A Europa abriu com quedas de 0,9% no Euro Stoxx e no DAX por cautela antes das eleições e pressão na tecnologia."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "As urnas fecham nos primeiros estados às 18h (Cidade do México) e os resultados chegarão durante a noite. Após o fechamento divulgam AMD, Arista, Amgen e Booking; às 14h30 (Cidade do México) saem os estoques de petróleo do API."
+   }
+  ],
+  "scm": "Um mercado de trabalho mais forte que o esperado (7,5 milhões de vagas) sustenta a demanda, mas também os juros altos: não conte com crédito mais barato para financiar estoque. O petróleo segue oscilando vários pontos por dia, então espere ele se estabilizar antes de negociar sobretaxas."
+ },
+ "fuentes": [
+  {
+   "t": "fvbb: Wall Street abre con alzas en S&P 500 y Nasdaq (3 nov 2026)",
+   "u": "https://fvbb.com/ns/us-stocks-today-s-p-500-nasdaq-open-higher-2/328520"
+  },
+  {
+   "t": "Trading Economics: JOLTS de septiembre de 2026",
+   "u": "https://tradingeconomics.com/united-states/job-offers"
+  },
+  {
+   "t": "Stock Titan: mercado en vivo, 3 de noviembre de 2026",
+   "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
+  },
+  {
+   "t": "TheStreet: Stock Market Today, 3 de noviembre de 2026",
+   "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026"
+  },
+  {
+   "t": "Saxo: Asia Market Quick Take, 3 de noviembre de 2026",
+   "u": "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take-03-november-2026-03112026"
+  },
+  {
+   "t": "investingLive: apertura de las bolsas europeas, 3 de noviembre",
+   "u": "https://investinglive.com/stocks/european-stock-market-open-stocks-tumble-across-the-board-as-risk-sentiment-sours/"
+  },
+  {
+   "t": "TipRanks: futuros y reportes de Apple y Palantir",
+   "u": "https://www.tipranks.com/news/stock-market-today-nov-3-futures-mixed-on-midterm-election-day-apple-and-palantir-shares-slide-after-earnings"
+  }
+ ]
+}

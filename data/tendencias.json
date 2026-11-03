@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-02T21:20:24Z",
- "fecha": "2026-11-02",
+ "actualizado": "2026-11-03T15:14:36Z",
+ "fecha": "2026-11-03",
  "titular": {
-  "es": "Crudo 7% más barato, huelga en Los Ángeles el miércoles y venta en tecnología: el cierre del 2 de noviembre para las industrias",
-  "en": "Crude 7% cheaper, a Los Angeles strike deadline on Wednesday and a tech sell-off: the November 2 close for industries",
-  "pt": "Petróleo 7% mais barato, greve em Los Angeles na quarta e venda em tecnologia: o fechamento de 2 de novembro para as indústrias"
+  "es": "Crudo volátil, Shopify y Zebra a la baja y transportistas con pérdidas: lo que mueve a las industrias en la apertura del día de la elección",
+  "en": "Volatile crude, Shopify and Zebra down and carriers losing money: what moves industries at the election-day open",
+  "pt": "Petróleo volátil, Shopify e Zebra em queda e transportadoras com prejuízo: o que move as indústrias na abertura do dia da eleição"
  },
  "items": [
   {
@@ -43,40 +43,137 @@
   },
   {
    "id": "energia",
-   "dir": "down",
+   "dir": "mixed",
    "calor": 3,
    "mx": true,
    "latam": true,
    "es": "Energía y combustibles",
-   "en": "Energy and fuel",
+   "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo cierra con caída de más de 7%: WTI en 96.46 y Brent en 104.77 dólares",
-    "en": "Crude closes down more than 7%: WTI at $96.46 and Brent at $104.77",
-    "pt": "O petróleo fecha em queda de mais de 7%: WTI a 96,46 e Brent a 104,77 dólares"
+    "es": "El crudo oscila 5 dólares en horas: sube por los ataques en Qeshm y cae 3% al abrir Wall Street",
+    "en": "Crude swings $5 in hours: up on the Qeshm strikes, down 3% at the Wall Street open",
+    "pt": "O petróleo oscila 5 dólares em horas: sobe pelos ataques em Qeshm e cai 3% na abertura de Wall Street"
    },
    "x": {
-    "es": "El WTI liquidó en 96.46 dólares (−7.4%) y el Brent en 104.77 (−7.6%), después de que el presidente de Irán dijo tener más margen para negociar la paz y Trump afirmó que Irán quiere un acuerdo. La caída borró buena parte de la prima de guerra que el crudo acumuló en octubre, aunque los ataques a buques continúan.",
-    "en": "WTI settled at $96.46 (−7.4%) and Brent at $104.77 (−7.6%), after Iran's president said he had more room to negotiate peace and Trump said Iran wants a deal. The drop erased much of the war premium crude built up in October, although attacks on ships continue.",
-    "pt": "O WTI fechou a 96,46 dólares (−7,4%) e o Brent a 104,77 (−7,6%), depois que o presidente do Irã disse ter mais margem para negociar a paz e Trump afirmou que o Irã quer um acordo. A queda apagou boa parte do prêmio de guerra que o petróleo acumulou em outubro, embora os ataques a navios continuem."
+    "es": "El Brent llegó a subir 1.76% a 106.61 dólares en la madrugada por reportes de ataques de EE. UU. en la isla iraní de Qeshm, y al abrir Wall Street caía 3% a 101.54. El lunes había cerrado en 104.77 (−7.6%) por la vía diplomática; un funcionario iraní dijo que la negociación sigue lejos de un acuerdo.",
+    "en": "Brent rose as much as 1.76% to $106.61 overnight on reports of US strikes on Iran's Qeshm Island, and at the Wall Street open it was down 3% at $101.54. On Monday it closed at $104.77 (−7.6%) on the diplomatic track; an Iranian official said the talks remain far from a deal.",
+    "pt": "O Brent chegou a subir 1,76%, a 106,61 dólares, na madrugada por relatos de ataques dos EUA na ilha iraniana de Qeshm, e na abertura de Wall Street caía 3%, a 101,54. Na segunda havia fechado a 104,77 (−7,6%) pela via diplomática; um funcionário iraniano disse que a negociação segue longe de um acordo."
    },
    "scm": {
-    "es": "No bajes todavía los recargos por combustible: pacta con transportistas un tope para diciembre referido al precio publicado del diésel.",
-    "en": "Do not cut fuel surcharges yet: agree a December cap with carriers tied to the published diesel price.",
-    "pt": "Não reduza ainda as sobretaxas de combustível: negocie com transportadoras um teto para dezembro vinculado ao preço publicado do diesel."
+    "es": "No ajustes recargos de combustible con el precio de un solo día: usa el promedio de las próximas dos semanas como referencia.",
+    "en": "Do not adjust fuel surcharges on a single day's price: use the average of the next two weeks as the reference.",
+    "pt": "Não ajuste sobretaxas de combustível com o preço de um só dia: use a média das próximas duas semanas como referência."
    },
    "fuentes": [
     {
-     "t": "The Private Banker: el petróleo cae más de 7% y el WTI rompe los 100 dólares",
-     "u": "https://leprivatebanker.com/2026/11/02/oil-sinks-more-than-7-and-wti-breaks-below-100-as-iran-signals-room-for-peace-talks/"
+     "t": "Grafa: el petróleo sube por ataques en la isla de Qeshm",
+     "u": "https://grafa.com/en/news/united-states/oil-prices-rise-iran-qeshm-island-strikes-peace-talks"
     },
     {
-     "t": "gCaptain — Goldman sube sus pronósticos de petróleo",
-     "u": "https://gcaptain.com/goldman-hikes-oil-forecasts-on-substantial-risks-to-supply/"
+     "t": "Stock Titan: mercado en vivo, 3 de noviembre de 2026",
+     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
+    }
+   ]
+  },
+  {
+   "id": "retail",
+   "dir": "down",
+   "calor": 3,
+   "mx": false,
+   "latam": false,
+   "es": "Retail y última milla",
+   "en": "Retail and last mile",
+   "pt": "Varejo e última milha",
+   "titular": {
+    "es": "Shopify cae cerca de 16%: su GMV de 119 mil millones de dólares quedó debajo de lo esperado",
+    "en": "Shopify falls about 16%: its $119 billion GMV came in below expectations",
+    "pt": "A Shopify cai cerca de 16%: seu GMV de 119 bilhões de dólares ficou abaixo do esperado"
+   },
+   "x": {
+    "es": "Shopify reportó ingresos 32% mayores y un volumen bruto de mercancía (GMV) de 119 mil millones de dólares en el tercer trimestre, pero el mercado esperaba unos 120 mil millones y la acción caía cerca de 16% antes de la apertura. Para el cuarto trimestre anticipa un crecimiento de ingresos de \"low thirties\".",
+    "en": "Shopify reported 32% higher revenue and gross merchandise volume (GMV) of $119 billion in the third quarter, but the market expected about $120 billion and the stock was down about 16% before the open. For the fourth quarter it expects revenue growth in the low thirties.",
+    "pt": "A Shopify reportou receita 32% maior e volume bruto de mercadorias (GMV) de 119 bilhões de dólares no terceiro trimestre, mas o mercado esperava cerca de 120 bilhões e a ação caía cerca de 16% antes da abertura. Para o quarto trimestre prevê crescimento de receita na casa dos 30%."
+   },
+   "scm": {
+    "es": "Si vendes por comercio electrónico, no recortes inventario de temporada por esta señal: el crecimiento sigue arriba de 30%; ajusta sólo los pedidos de reposición rápida.",
+    "en": "If you sell through e-commerce, do not cut holiday inventory on this signal: growth is still above 30%; adjust only fast-replenishment orders.",
+    "pt": "Se você vende por comércio eletrônico, não corte estoque de temporada por esse sinal: o crescimento segue acima de 30%; ajuste só os pedidos de reposição rápida."
+   },
+   "fuentes": [
+    {
+     "t": "Shopify: resultados del tercer trimestre de 2026",
+     "u": "https://www.shopify.com/news/shopify-q3-2026-financial-results"
     },
     {
-     "t": "Yahoo Finance — mercados en vivo, 2 nov 2026",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+     "t": "24/7 Wall St.: Shopify cae 17% por GMV y suscripciones",
+     "u": "https://247wallst.com/investing/2026/11/03/shopify-plunges-17-as-gmv-and-subscription-revenue-miss-estimates-wix-drops-3-etsy-dips/"
+    },
+    {
+     "t": "TheStreet: Stock Market Today, 3 de noviembre de 2026",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026"
+    }
+   ]
+  },
+  {
+   "id": "software",
+   "dir": "down",
+   "calor": 2,
+   "mx": false,
+   "latam": false,
+   "es": "Software e IA para supply chain",
+   "en": "Software and AI for supply chain",
+   "pt": "Software e IA para supply chain",
+   "titular": {
+    "es": "Zebra cae 13% pese a crecer 22%: la memoria más cara presiona sus márgenes",
+    "en": "Zebra falls 13% despite 22% growth: pricier memory squeezes its margins",
+    "pt": "A Zebra cai 13% apesar de crescer 22%: a memória mais cara pressiona suas margens"
+   },
+   "x": {
+    "es": "Zebra Technologies, que fabrica lectores, impresoras de etiquetas y equipos para almacén, vendió 1,610 millones de dólares en el tercer trimestre (+22.3%), pero su margen bruto bajó a 45.7% desde 48.0% por el mayor costo de los componentes de memoria, y su guía para el cuarto trimestre quedó apenas debajo del consenso. La acción caía 13% antes de la apertura.",
+    "en": "Zebra Technologies, which makes scanners, label printers and warehouse devices, sold $1.61 billion in the third quarter (+22.3%), but its gross margin fell to 45.7% from 48.0% on higher memory component costs, and its fourth-quarter guidance came in just below consensus. The stock was down 13% before the open.",
+    "pt": "A Zebra Technologies, que fabrica leitores, impressoras de etiquetas e equipamentos para armazém, vendeu 1,61 bilhão de dólares no terceiro trimestre (+22,3%), mas sua margem bruta caiu para 45,7% de 48,0% pelo maior custo dos componentes de memória, e sua projeção para o quarto trimestre ficou um pouco abaixo do consenso. A ação caía 13% antes da abertura."
+   },
+   "scm": {
+    "es": "Si planeas renovar escáneres o terminales de almacén, pide cotización ya: el alza en memoria puede trasladarse a precios en 2027.",
+    "en": "If you plan to replace warehouse scanners or terminals, request quotes now: the rise in memory costs may pass through to prices in 2027.",
+    "pt": "Se você planeja renovar leitores ou terminais de armazém, peça cotação já: a alta da memória pode ser repassada aos preços em 2027."
+   },
+   "fuentes": [
+    {
+     "t": "Tradingpedia: Zebra cae pese a superar estimados",
+     "u": "https://www.tradingpedia.com/2026/11/03/zebra-slips-as-cautious-outlook-overshadows-strong-beat/"
+    }
+   ]
+  },
+  {
+   "id": "truck",
+   "dir": "down",
+   "calor": 2,
+   "mx": true,
+   "latam": false,
+   "es": "Autotransporte",
+   "en": "Trucking",
+   "pt": "Transporte rodoviário",
+   "titular": {
+    "es": "PAM Transport suma su 12.º trimestre con pérdida operativa en carga completa: el costo de choferes y diésel supera las tarifas",
+    "en": "PAM Transport posts its 12th straight truckload operating loss: driver and diesel costs outpace rates",
+    "pt": "A PAM Transport soma o 12.º trimestre com prejuízo operacional em carga completa: o custo de motoristas e diesel supera as tarifas"
+   },
+   "x": {
+    "es": "El transportista PAMT perdió 8.1 millones de dólares en el tercer trimestre y su división de carga completa operó con un índice de 109.1% (gasta 1.09 dólares por cada dólar que cobra), 240 puntos base peor que hace un año. Su presidente dijo que los aumentos acumulados de costos siguen por encima de las mejoras de tarifa logradas.",
+    "en": "Carrier PAMT lost $8.1 million in the third quarter and its truckload division ran a 109.1% operating ratio (spending $1.09 for every dollar it bills), 240 basis points worse than a year ago. Its president said cumulative cost increases continue to outpace the rate improvements achieved.",
+    "pt": "A transportadora PAMT perdeu 8,1 milhões de dólares no terceiro trimestre e sua divisão de carga completa operou com índice de 109,1% (gasta 1,09 dólar para cada dólar que fatura), 240 pontos-base pior que há um ano. Seu presidente disse que os aumentos acumulados de custos seguem acima das melhorias de tarifa obtidas."
+   },
+   "scm": {
+    "es": "Espera presión al alza en tarifas de carga completa transfronteriza en 2027: asegura capacidad con contratos y no sólo con mercado spot.",
+    "en": "Expect upward pressure on cross-border truckload rates in 2027: secure capacity with contracts, not just the spot market.",
+    "pt": "Espere pressão de alta nas tarifas de carga completa transfronteiriça em 2027: garanta capacidade com contratos, não só no mercado spot."
+   },
+   "fuentes": [
+    {
+     "t": "Yahoo Finance/FreightWaves: Pamt Corp. reporta pérdida en el 3T",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/pamt-corp-sees-q3-net-001626610.html"
     }
    ]
   },
@@ -90,24 +187,28 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Marvell acuerda comprar Lumentum y la oferta de ópticos para IA se concentra",
-    "en": "Marvell agrees to buy Lumentum, concentrating the supply of AI optics",
-    "pt": "Marvell fecha acordo para comprar a Lumentum e a oferta de ópticos para IA se concentra"
+    "es": "Apple cae por su guía de margen mientras los chips rebotan: Micron casi +4%, AMD e Intel más de 3%",
+    "en": "Apple falls on margin guidance as chips rebound: Micron nearly +4%, AMD and Intel over 3%",
+    "pt": "A Apple cai pela projeção de margem enquanto os chips sobem: Micron quase +4%, AMD e Intel mais de 3%"
    },
    "x": {
-    "es": "Marvell informó a la SEC su acuerdo para comprar Lumentum, proveedor de láseres y componentes ópticos para centros de datos; las acciones de Lumentum caen cerca de 10%. En memoria, el KOSPI cerró con alza de 2.24% por Samsung y SK hynix, mientras Kioxia cayó 15.8% en Tokio.",
-    "en": "Marvell disclosed to the SEC its agreement to buy Lumentum, a supplier of lasers and optical components for data centers; Lumentum shares fall about 10%. In memory, the KOSPI closed up 2.24% on Samsung and SK hynix, while Kioxia fell 15.8% in Tokyo.",
-    "pt": "A Marvell informou à SEC o acordo para comprar a Lumentum, fornecedora de lasers e componentes ópticos para data centers; as ações da Lumentum caem cerca de 10%. Em memória, o KOSPI fechou em alta de 2,24% com Samsung e SK hynix, enquanto a Kioxia caiu 15,8% em Tóquio."
+    "es": "Apple caía cerca de 4% antes de la apertura por una guía de margen más débil y menores ventas en China, con el costo de la memoria como presión. Al mismo tiempo, los fabricantes de chips rebotaban en premercado después de la venta del lunes; AMD reporta hoy después del cierre.",
+    "en": "Apple was down about 4% before the open on weaker margin guidance and lower China sales, with memory costs as a pressure. At the same time, chipmakers were rebounding pre-market after Monday's sell-off; AMD reports today after the close.",
+    "pt": "A Apple caía cerca de 4% antes da abertura por uma projeção de margem mais fraca e menores vendas na China, com o custo da memória como pressão. Ao mesmo tempo, os fabricantes de chips subiam no pré-mercado após a venda de segunda; a AMD divulga hoje após o fechamento."
    },
    "scm": {
-    "es": "Si compras transceptores u ópticos, revisa la exposición a un solo proveedor y asegura volumen 2027 con contratos de mayor plazo.",
-    "en": "If you buy transceivers or optics, review single-supplier exposure and secure 2027 volume with longer-term contracts.",
-    "pt": "Se você compra transceptores ou ópticos, revise a exposição a um único fornecedor e garanta volume de 2027 com contratos de prazo maior."
+    "es": "El costo de la memoria ya pesa en Apple y Zebra: si compras electrónica con memoria, adelanta pedidos del primer trimestre o fija precio.",
+    "en": "Memory costs are already weighing on Apple and Zebra: if you buy electronics with memory, pull forward first-quarter orders or lock in prices.",
+    "pt": "O custo da memória já pesa na Apple e na Zebra: se você compra eletrônicos com memória, antecipe pedidos do primeiro trimestre ou fixe o preço."
    },
    "fuentes": [
     {
-     "t": "SEC: 8-K de Marvell Technology (acuerdo con Lumentum)",
-     "u": "https://www.sec.gov/Archives/edgar/data/0001835632/000119312526442714/d81187d8k.htm"
+     "t": "TheStreet: Stock Market Today, 3 de noviembre de 2026",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026"
+    },
+    {
+     "t": "Stock Titan: mercado en vivo, 3 de noviembre de 2026",
+     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
     }
    ]
   },
@@ -177,139 +278,6 @@
     {
      "t": "Trading Economics — cobre",
      "u": "https://tradingeconomics.com/commodity/copper"
-    }
-   ]
-  },
-  {
-   "id": "agro",
-   "dir": "down",
-   "calor": 2,
-   "mx": true,
-   "latam": true,
-   "es": "Agroalimentos",
-   "en": "Agrifood",
-   "pt": "Agroalimentos",
-   "titular": {
-    "es": "Queman 52 toneladas de aguacate en Michoacán por una presunta plaga",
-    "en": "52 tons of avocados burned in Michoacán over a suspected pest",
-    "pt": "52 toneladas de abacate são queimadas em Michoacán por uma suposta praga"
-   },
-   "x": {
-    "es": "Productores de Peribán, Michoacán, destruyeron más de 52 toneladas de aguacate procedentes de Jalisco, Colima y Nayarit que iban a una empacadora de Uruapan, por una presunta infestación de gusano barrenador. El caso reaviva la preocupación por la sanidad del fruto que se exporta a EE. UU.",
-    "en": "Growers in Peribán, Michoacán, destroyed more than 52 tons of avocados from Jalisco, Colima and Nayarit bound for a packing house in Uruapan, over a suspected fruit-borer infestation. The case revives concerns about the plant health of fruit exported to the US.",
-    "pt": "Produtores de Peribán, em Michoacán, destruíram mais de 52 toneladas de abacate vindas de Jalisco, Colima e Nayarit que seguiam para uma empacotadora em Uruapan, por uma suposta infestação de broca do fruto. O caso reacende a preocupação com a sanidade da fruta exportada para os EUA."
-   },
-   "scm": {
-    "es": "Si compras o exportas aguacate, exige trazabilidad por huerto de origen y considera días extra de inspección en tus programas a EE. UU.",
-    "en": "If you buy or export avocados, require orchard-level traceability and build extra inspection days into US programs.",
-    "pt": "Se você compra ou exporta abacate, exija rastreabilidade por pomar de origem e considere dias extras de inspeção nos seus programas para os EUA."
-   },
-   "fuentes": [
-    {
-     "t": "FreightWaves — México destruye 52 toneladas de aguacate",
-     "u": "https://www.freightwaves.com/news/mexico-destroys-52-tons-of-avocados-after-pest-discovery-raises-export-concerns"
-    },
-    {
-     "t": "UnoTV — destruyen aguacate en Michoacán",
-     "u": "https://www.unotv.com/estados/michoacan/michoacan-destruyen-toneladas-aguacate-de-jalisco-colima-y-nayarit-por-gusano/"
-    }
-   ]
-  },
-  {
-   "id": "truck",
-   "dir": "mixed",
-   "calor": 2,
-   "mx": true,
-   "es": "Autotransporte",
-   "en": "Trucking",
-   "pt": "Transporte rodoviário",
-   "titular": {
-    "es": "Más vigilancia al cabotaje en EE. UU. y peaje 50% más barato en el Puente Colombia",
-    "en": "Tighter US cabotage enforcement and a 50% toll cut at the Colombia Bridge",
-    "pt": "Mais fiscalização de cabotagem nos EUA e pedágio 50% mais barato na Ponte Colômbia"
-   },
-   "x": {
-    "es": "La aplicación más estricta de las reglas de cabotaje en EE. UU. amenaza a los transportistas mexicanos que operan rutas transfronterizas. Del lado mexicano, Nuevo León recortó 50% las tarifas de peaje del Puente Colombia para atraer más cruces de carga.",
-    "en": "Stricter enforcement of US cabotage rules threatens Mexican carriers running cross-border routes. On the Mexican side, Nuevo León cut toll fees at the Colombia Bridge by 50% to attract more freight crossings.",
-    "pt": "A aplicação mais rigorosa das regras de cabotagem nos EUA ameaça as transportadoras mexicanas que operam rotas transfronteiriças. Do lado mexicano, Nuevo León reduziu em 50% as tarifas de pedágio da Ponte Colômbia para atrair mais travessias de carga."
-   },
-   "scm": {
-    "es": "Confirma que tus transportistas cumplen las reglas de cabotaje en sus movimientos dentro de EE. UU. y evalúa el Puente Colombia como alternativa a Laredo.",
-    "en": "Confirm your carriers comply with cabotage rules on moves inside the US, and evaluate the Colombia Bridge as an alternative to Laredo.",
-    "pt": "Confirme que suas transportadoras cumprem as regras de cabotagem nos movimentos dentro dos EUA e avalie a Ponte Colômbia como alternativa a Laredo."
-   },
-   "fuentes": [
-    {
-     "t": "FreightWaves — Borderlands Mexico, 1 nov 2026",
-     "u": "https://www.freightwaves.com/news/borderlands-mexico-cabotage-enforcements-threatening-cross-border-trucking"
-    }
-   ]
-  },
-  {
-   "id": "retail",
-   "dir": "up",
-   "calor": 2,
-   "mx": false,
-   "es": "Retail y última milla",
-   "en": "Retail and last mile",
-   "pt": "Varejo e última milha",
-   "titular": {
-    "es": "Walmart compromete 6,000 millones de dólares en automatización y Amazon abre su red de entregas",
-    "en": "Walmart commits $6 billion to automation as Amazon opens its delivery network",
-    "pt": "Walmart compromete 6 bilhões de dólares em automação e a Amazon abre sua rede de entregas"
-   },
-   "x": {
-    "es": "Walmart amplió su acuerdo con Symbotic con unos 6,000 millones de dólares en varios años para automatizar 25 centros de distribución regionales en EE. UU. Al mismo tiempo, Amazon Logistics ya vende su transporte, almacenaje y entrega a cualquier empresa.",
-    "en": "Walmart expanded its deal with Symbotic with about $6 billion over several years to automate 25 regional distribution centers in the US. At the same time, Amazon Logistics now sells its freight, warehousing and delivery to any business.",
-    "pt": "O Walmart ampliou seu acordo com a Symbotic com cerca de 6 bilhões de dólares em vários anos para automatizar 25 centros de distribuição regionais nos EUA. Ao mesmo tempo, a Amazon Logistics passou a vender transporte, armazenagem e entrega para qualquer empresa."
-   },
-   "scm": {
-    "es": "Si surtes a grandes cadenas, prepárate para exigencias más estrictas de empaque y etiquetado compatibles con sistemas automatizados.",
-    "en": "If you supply big retailers, prepare for stricter packaging and labeling requirements compatible with automated systems.",
-    "pt": "Se você abastece grandes redes, prepare-se para exigências mais rígidas de embalagem e etiquetagem compatíveis com sistemas automatizados."
-   },
-   "fuentes": [
-    {
-     "t": "Supply Chain Dive — Walmart y Symbotic",
-     "u": "https://www.supplychaindive.com/news/walmart-commits-6b-to-up-distribution-center-automation-with-symbotic/873356/"
-    },
-    {
-     "t": "The Loadstar — Amazon abre su red de entregas",
-     "u": "https://theloadstar.com/amazon-opens-delivery-network-to-all-just-as-ai-shopping-agents-reward-the-quickest/"
-    }
-   ]
-  },
-  {
-   "id": "aereo",
-   "dir": "mixed",
-   "calor": 1,
-   "mx": false,
-   "es": "Carga aérea",
-   "en": "Air cargo",
-   "pt": "Carga aérea",
-   "titular": {
-    "es": "DSV: los problemas en el mar no se traducen en un boom de carga aérea",
-    "en": "DSV: ocean disruption isn't turning into an air cargo boom",
-    "pt": "DSV: os problemas no mar não se traduzem em um boom de carga aérea"
-   },
-   "x": {
-    "es": "DSV advirtió que las disrupciones marítimas no están provocando un cambio masivo a la carga aérea, porque el costo del transporte urgente mantiene a la mayoría de los embarcadores en el mar. En flota, Boeing convertirá un 767-300 de pasajeros en carguero para Icelease, que tomó opciones por hasta dos conversiones más.",
-    "en": "DSV warned that ocean disruptions are not triggering a large-scale switch to air cargo, because the cost of emergency lift keeps most shippers at sea. On the fleet side, Boeing will convert a 767-300 passenger jet into a freighter for Icelease, which took options for up to two more conversions.",
-    "pt": "A DSV alertou que as disrupções marítimas não estão provocando uma migração em massa para a carga aérea, porque o custo do transporte urgente mantém a maioria dos embarcadores no mar. Na frota, a Boeing converterá um 767-300 de passageiros em cargueiro para a Icelease, que tomou opções para até mais duas conversões."
-   },
-   "scm": {
-    "es": "Reserva el aéreo para urgencias reales y negocia tarifas por bloque para el pico de fin de año en lugar de comprar spot.",
-    "en": "Save air for genuine emergencies and negotiate block rates for the year-end peak instead of buying spot.",
-    "pt": "Reserve o aéreo para urgências reais e negocie tarifas por bloco para o pico de fim de ano em vez de comprar spot."
-   },
-   "fuentes": [
-    {
-     "t": "The Loadstar — DSV sobre carga aérea",
-     "u": "https://theloadstar.com/ocean-disruption-offers-no-easy-windfall-for-airfreight-warns-dsv/"
-    },
-    {
-     "t": "FreightWaves — Boeing 767 convertido a carguero",
-     "u": "https://www.freightwaves.com/news/boeing-secures-lessor-order-for-767-passenger-to-freighter-conversion"
     }
    ]
   }

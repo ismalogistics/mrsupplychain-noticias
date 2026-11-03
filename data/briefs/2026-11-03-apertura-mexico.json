@@ -1,0 +1,75 @@
+{
+ "id": "2026-11-03-apertura-mexico",
+ "fecha": "2026-11-03",
+ "momento": "apertura",
+ "mercado": "mexico",
+ "hora": "09:15 CDMX",
+ "es": {
+  "titular": "El peso cede a 18.66 por dólar al reabrir el mercado local y la BMV regresa tras el feriado, con la elección de EE. UU. de fondo",
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "El peso abrió el día en 18.54 por dólar (7:30 CDMX) y hacia las 8:30 cedía a 18.66, después de cerrar el lunes en 18.57. Para las liquidaciones de hoy rige un FIX de 18.7962. La BMV reabre tras el feriado con el IPC en 69,779.20 como referencia (cierre del 30 de octubre)."
+   },
+   {
+    "t": "Contexto",
+    "x": "El JOLTS de EE. UU. salió muy arriba de lo esperado (7.523 millones de vacantes contra 7.10 millones), lo que respalda tasas altas en EE. UU. y presiona al peso. Banorte describe a los inversionistas como cautelosos ante la elección; un Congreso con mayoría demócrata podría frenar un endurecimiento de la política comercial, aunque el presidente conserva facultades para imponer aranceles."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Subasta de Cetes (movida del lunes) y nuevo FIX al mediodía. Los resultados electorales empezarán a llegar a partir de las 18:00 CDMX. Banxico decide el jueves 5 con la tasa en 6.50%."
+   }
+  ],
+  "scm": "El peso ya devolvió parte de la ganancia del lunes: si tienes pagos en dólares de noviembre sin cubrir, cubre una parte hoy en la mañana y deja el resto para después de Banxico. Evita cerrar contratos en dólares con vencimiento esta semana durante la noche electoral."
+ },
+ "en": {
+  "titular": "The peso eases to 18.66 per dollar as the local market reopens and the BMV returns from the holiday, with the US election in the background",
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "The peso started the day at 18.54 per dollar (7:30 a.m. Mexico City time) and by 8:30 had eased to 18.66, after closing Monday at 18.57. Today's settlements use a FIX of 18.7962. The BMV reopens after the holiday with the IPC at 69,779.20 as the reference (October 30 close)."
+   },
+   {
+    "t": "Context",
+    "x": "US JOLTS came in well above expectations (7.523 million openings vs. 7.10 million), which supports high US rates and pressures the peso. Banorte describes investors as cautious ahead of the election; a Democratic-majority Congress could slow a tightening of trade policy, although the president keeps the power to impose tariffs."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Cetes auction (moved from Monday) and a new FIX at midday. Election results will start coming in from 6:00 p.m. Mexico City time. Banxico decides on Thursday the 5th with the rate at 6.50%."
+   }
+  ],
+  "scm": "The peso has already given back part of Monday's gain: if you have unhedged November dollar payments, hedge part this morning and leave the rest until after Banxico. Avoid closing dollar contracts maturing this week during election night."
+ },
+ "pt": {
+  "titular": "O peso recua a 18,66 por dólar com a reabertura do mercado local e a BMV volta do feriado, com a eleição dos EUA ao fundo",
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "O peso começou o dia a 18,54 por dólar (7h30, Cidade do México) e por volta das 8h30 recuava a 18,66, após fechar a segunda a 18,57. Para as liquidações de hoje vale um FIX de 18,7962. A BMV reabre após o feriado com o IPC em 69.779,20 como referência (fechamento de 30 de outubro)."
+   },
+   {
+    "t": "Contexto",
+    "x": "O JOLTS dos EUA veio bem acima do esperado (7,523 milhões de vagas contra 7,10 milhões), o que sustenta juros altos nos EUA e pressiona o peso. O Banorte descreve os investidores como cautelosos antes da eleição; um Congresso de maioria democrata poderia frear um endurecimento da política comercial, embora o presidente mantenha o poder de impor tarifas."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Leilão de Cetes (adiado de segunda) e novo FIX ao meio-dia. Os resultados eleitorais começarão a chegar a partir das 18h (Cidade do México). O Banxico decide na quinta, dia 5, com a taxa em 6,50%."
+   }
+  ],
+  "scm": "O peso já devolveu parte do ganho de segunda: se você tem pagamentos em dólares de novembro sem proteção, proteja uma parte hoje de manhã e deixe o resto para depois do Banxico. Evite fechar contratos em dólares com vencimento nesta semana durante a noite eleitoral."
+ },
+ "fuentes": [
+  {
+   "t": "Investing.com: el peso se aprecia bajo 18.60 ante las elecciones",
+   "u": "https://mx.investing.com/news/forex-news/precio-del-dolar-hoy-atento-a-elecciones-eeuu-peso-mexicano-se-aprecia-bajo-1860-3829088"
+  },
+  {
+   "t": "N+: tipo de cambio y FIX del martes 3 de noviembre",
+   "u": "https://www.nmas.com.mx/economia/dolar/como-esta-el-tipo-de-cambio-del-peso-con-el-dolar-estadounidense-este-martes-3-noviembre-2026/"
+  },
+  {
+   "t": "Trading Economics: JOLTS de septiembre de 2026",
+   "u": "https://tradingeconomics.com/united-states/job-offers"
+  }
+ ]
+}
