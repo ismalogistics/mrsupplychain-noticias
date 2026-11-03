@@ -7,7 +7,34 @@
   <description>Briefs diarios de mercados (premercado, apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
   <language>es-MX</language>
   <copyright>Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</copyright>
-  <lastBuildDate>Tue, 03 Nov 2026 11:40:00 -0600</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 15:20:00 -0600</lastBuildDate>
+  <item>
+    <title>El peso se debilita a 18.84 por dólar y borra la ganancia del lunes, mientras la BMV reabre con alza de más de 1%</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-03-cierre-mexico/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-03-cierre-mexico/</guid>
+    <pubDate>Tue, 03 Nov 2026 15:20:00 -0600</pubDate>
+    <category>Cierre · México</category>
+    <description>El peso cotizaba en 18.84 por dólar con el último dato disponible (13:00 CDMX), 1.4% más débil que el cierre del lunes (18.57). La BMV reabrió con alza de 1.14% (70,575.5 a las 9:10 CDMX), impulsada por Volaris, GAP y Asur; no confirmé su nivel de cierre a esta hora. El JOLTS fuerte en EE. UU. subió el Treasury a 4.95% y fortaleció al dólar, y la cautela ante el resultado electoral pesó sobre las monedas emergentes. En la bolsa, aerolíneas y aeropuertos reaccionaron al crudo más barato del lunes. — Con el peso en 18.84, los pagos en dólares ya cuestan más de 1% más que el lunes: si no cubriste, no persigas el tipo de cambio durante la noche electoral; espera la apertura del miércoles y cubre por tramos. Revisa tus listas de precios en pesos para productos importados.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-03-cierre-mexico/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>Brasil cae 1.5% en su regreso del feriado y el real cierra cerca de 5.49; Colombia y Argentina son la excepción con alzas</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-03-cierre-latam/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-03-cierre-latam/</guid>
+    <pubDate>Tue, 03 Nov 2026 15:20:00 -0600</pubDate>
+    <category>Cierre · LATAM</category>
+    <description>Con el último dato disponible (13:00 CDMX), el Ibovespa perdía 1.46% (165,468), el fondo de Perú 1.21%, el de Chile 0.71% y el S&amp;P/TSX de Canadá 0.57% (35,597.28); en cambio, el COLCAP subía 0.82% (24,660.5) en su regreso del feriado y el fondo de Argentina 0.36%. En Brasil pesaron la incertidumbre fiscal tras la reelección de Lula y la reunión del Copom, que inició hoy. A la región la frenaron también la cautela previa a la elección de EE. UU. y el dólar más fuerte tras el JOLTS. — Programa para después del Copom las liquidaciones en reales que no sean urgentes: la decisión puede mover al real con fuerza. Si compras a Chile en dólares, el peso chileno fuerte reduce tu poder de compra: revisa precios del primer trimestre con tus proveedores.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-03-cierre-latam/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>Wall Street cierra mixta en día de elección: los chips llevan al Nasdaq a +0.83% y el Dow cae 0.38%; el Treasury sube a 4.95%</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-03-cierre-global/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-03-cierre-global/</guid>
+    <pubDate>Tue, 03 Nov 2026 15:20:00 -0600</pubDate>
+    <category>Cierre · Global</category>
+    <description>Al cierre, el Nasdaq ganó 0.83% (25,372.01) y el S&amp;P 500 0.36% (7,568.92), y cortó tres días de pérdidas, mientras el Dow perdió 0.38% (51,786.72). Se cumplió lo que anticipaba la apertura: rebote en chips y presión de Apple. El WTI terminó en 96.57 dólares (+0.11%) y el Brent rondó 103; el Treasury a 10 años subió 6 pb a 4.95%, el oro bajó 0.96% (3,931.50) y el Bitcoin subió 1.48% (77,834). Los semiconductores rebotaron después de que el lunes su índice entró en mercado bajista, y AMD subió 3.65% antes de su reporte. El JOLTS de septiembre (7.523 millones de vacantes, contra 7.10 millones esperados) empujó las tasas. El crudo se calmó tras oscilar en la mañana por los ataques en Qeshm, mientras la AAA reportó un récord de diésel para un día de elección (6.29 dólares por galón). — El diésel en récord y el Treasury en 4.95% dicen lo mismo: el costo de mover y de financiar inventario sigue alto aunque el crudo baje. Mantén pausadas las renegociaciones de tarifa hasta ver el resultado electoral y el desenlace en Long Beach mañana, y ten listo el plan B de puertos.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-03-cierre-global/og.png" type="image/png" length="0"/>
+  </item>
   <item>
     <title>El IPC rebota más de 1% al reabrir, impulsado por aerolíneas y aeropuertos, mientras el peso sigue debilitándose hacia 18.72</title>
     <link>https://mrsupplychain.ai/noticias/brief/2026-11-03-mediodia-mexico/</link>
