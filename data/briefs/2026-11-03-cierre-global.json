@@ -1,0 +1,75 @@
+{
+ "id": "2026-11-03-cierre-global",
+ "fecha": "2026-11-03",
+ "momento": "cierre",
+ "mercado": "global",
+ "hora": "15:20 CDMX",
+ "es": {
+  "titular": "Wall Street cierra mixta en día de elección: los chips llevan al Nasdaq a +0.83% y el Dow cae 0.38%; el Treasury sube a 4.95%",
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "Al cierre, el Nasdaq ganó 0.83% (25,372.01) y el S&P 500 0.36% (7,568.92), y cortó tres días de pérdidas, mientras el Dow perdió 0.38% (51,786.72). Se cumplió lo que anticipaba la apertura: rebote en chips y presión de Apple. El WTI terminó en 96.57 dólares (+0.11%) y el Brent rondó 103; el Treasury a 10 años subió 6 pb a 4.95%, el oro bajó 0.96% (3,931.50) y el Bitcoin subió 1.48% (77,834)."
+   },
+   {
+    "t": "Por qué",
+    "x": "Los semiconductores rebotaron después de que el lunes su índice entró en mercado bajista, y AMD subió 3.65% antes de su reporte. El JOLTS de septiembre (7.523 millones de vacantes, contra 7.10 millones esperados) empujó las tasas. El crudo se calmó tras oscilar en la mañana por los ataques en Qeshm, mientras la AAA reportó un récord de diésel para un día de elección (6.29 dólares por galón)."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Esta noche llegan los resultados electorales de EE. UU. y los reportes de AMD y Super Micro; ambos marcarán la apertura de Asia. El miércoles 4 vence el plazo de huelga en Los Ángeles–Long Beach (17:00 del Pacífico), el Copom anuncia la Selic y el Tesoro presenta su plan trimestral de emisión; el jueves decide Banxico."
+   }
+  ],
+  "scm": "El diésel en récord y el Treasury en 4.95% dicen lo mismo: el costo de mover y de financiar inventario sigue alto aunque el crudo baje. Mantén pausadas las renegociaciones de tarifa hasta ver el resultado electoral y el desenlace en Long Beach mañana, y ten listo el plan B de puertos."
+ },
+ "en": {
+  "titular": "Wall Street ends mixed on election day: chips lift the Nasdaq 0.83% and the Dow falls 0.38%; the Treasury rises to 4.95%",
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "At the close, the Nasdaq gained 0.83% (25,372.01) and the S&P 500 0.36% (7,568.92), snapping a three-day losing streak, while the Dow lost 0.38% (51,786.72). The open's call held: a chip rebound and pressure from Apple. WTI ended at $96.57 (+0.11%) and Brent around $103; the 10-year Treasury rose 6 bp to 4.95%, gold fell 0.96% (3,931.50) and Bitcoin rose 1.48% (77,834)."
+   },
+   {
+    "t": "Why",
+    "x": "Semiconductors rebounded after their index entered a bear market on Monday, and AMD rose 3.65% ahead of its report. September JOLTS (7.523 million openings vs. 7.10 million expected) pushed rates higher. Crude calmed after swinging in the morning on the Qeshm strikes, while AAA reported a record diesel price for an Election Day ($6.29 per gallon)."
+   },
+   {
+    "t": "What to expect",
+    "x": "Tonight bring the US election results and the AMD and Super Micro reports; both will set the Asian open. On Wednesday the 4th the Los Angeles–Long Beach strike deadline expires (5 p.m. Pacific), Copom announces the Selic and the Treasury presents its quarterly refunding plan; Banxico decides on Thursday."
+   }
+  ],
+  "scm": "Record diesel and a 4.95% Treasury say the same thing: the cost of moving and financing inventory stays high even as crude falls. Keep rate renegotiations on hold until the election result and the Long Beach outcome tomorrow, and have a backup port plan ready."
+ },
+ "pt": {
+  "titular": "Wall Street fecha mista no dia da eleição: os chips levam o Nasdaq a +0,83% e o Dow cai 0,38%; o Tesouro sobe a 4,95%",
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "No fechamento, o Nasdaq ganhou 0,83% (25.372,01) e o S&P 500 0,36% (7.568,92), interrompendo três dias de perdas, enquanto o Dow perdeu 0,38% (51.786,72). Confirmou-se o que a abertura antecipava: alta nos chips e pressão da Apple. O WTI terminou a 96,57 dólares (+0,11%) e o Brent em torno de 103; o título do Tesouro de 10 anos subiu 6 pb a 4,95%, o ouro caiu 0,96% (3.931,50) e o Bitcoin subiu 1,48% (77.834)."
+   },
+   {
+    "t": "Por quê",
+    "x": "Os semicondutores subiram depois que seu índice entrou em mercado de baixa na segunda, e a AMD subiu 3,65% antes do seu balanço. O JOLTS de setembro (7,523 milhões de vagas, contra 7,10 milhões esperados) empurrou os juros. O petróleo se acalmou após oscilar pela manhã pelos ataques em Qeshm, enquanto a AAA reportou um recorde de diesel para um dia de eleição (6,29 dólares por galão)."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Esta noite chegam os resultados eleitorais dos EUA e os balanços de AMD e Super Micro; ambos vão marcar a abertura da Ásia. Na quarta, dia 4, vence o prazo da greve em Los Angeles–Long Beach (17h do Pacífico), o Copom anuncia a Selic e o Tesouro apresenta seu plano trimestral de emissões; na quinta decide o Banxico."
+   }
+  ],
+  "scm": "O diesel em recorde e o Tesouro a 4,95% dizem o mesmo: o custo de movimentar e de financiar estoque segue alto mesmo com o petróleo em queda. Mantenha pausadas as renegociações de tarifa até ver o resultado eleitoral e o desfecho em Long Beach amanhã, e tenha pronto o plano B de portos."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: mercados en vivo y cierre, 3 de noviembre de 2026",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html"
+  },
+  {
+   "t": "Trading Economics: JOLTS de septiembre de 2026",
+   "u": "https://tradingeconomics.com/united-states/job-offers"
+  },
+  {
+   "t": "Price Futures Group: The Energy Report, 3 de noviembre de 2026",
+   "u": "https://blog.pricegroup.com/2026/11/03/diplomacy-and-barrels-the-energy-report-11-03-2026/"
+  }
+ ]
+}

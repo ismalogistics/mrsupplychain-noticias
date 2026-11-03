@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-03-cierre-global",
+   "fecha": "2026-11-03",
+   "momento": "cierre",
+   "mercado": "global",
+   "titular_es": "Wall Street cierra mixta en día de elección: los chips llevan al Nasdaq a +0.83% y el Dow cae 0.38%; el Treasury sube a 4.95%",
+   "titular_en": "Wall Street ends mixed on election day: chips lift the Nasdaq 0.83% and the Dow falls 0.38%; the Treasury rises to 4.95%",
+   "titular_pt": "Wall Street fecha mista no dia da eleição: os chips levam o Nasdaq a +0,83% e o Dow cai 0,38%; o Tesouro sobe a 4,95%"
+  },
+  {
+   "id": "2026-11-03-cierre-latam",
+   "fecha": "2026-11-03",
+   "momento": "cierre",
+   "mercado": "latam",
+   "titular_es": "Brasil cae 1.5% en su regreso del feriado y el real cierra cerca de 5.49; Colombia y Argentina son la excepción con alzas",
+   "titular_en": "Brazil falls 1.5% on its return from the holiday and the real ends near 5.49; Colombia and Argentina are the exceptions with gains",
+   "titular_pt": "O Brasil cai 1,5% na volta do feriado e o dólar fecha perto de R$ 5,49; Colômbia e Argentina são a exceção, com altas"
+  },
+  {
+   "id": "2026-11-03-cierre-mexico",
+   "fecha": "2026-11-03",
+   "momento": "cierre",
+   "mercado": "mexico",
+   "titular_es": "El peso se debilita a 18.84 por dólar y borra la ganancia del lunes, mientras la BMV reabre con alza de más de 1%",
+   "titular_en": "The peso weakens to 18.84 per dollar, erasing Monday's gain, while the BMV reopens up more than 1%",
+   "titular_pt": "O peso se enfraquece a 18,84 por dólar e apaga o ganho de segunda, enquanto a BMV reabre em alta de mais de 1%"
+  },
+  {
    "id": "2026-11-03-mediodia-global",
    "fecha": "2026-11-03",
    "momento": "mediodia",

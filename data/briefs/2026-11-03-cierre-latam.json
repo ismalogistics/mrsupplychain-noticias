@@ -1,0 +1,83 @@
+{
+ "id": "2026-11-03-cierre-latam",
+ "fecha": "2026-11-03",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "15:20 CDMX",
+ "es": {
+  "titular": "Brasil cae 1.5% en su regreso del feriado y el real cierra cerca de 5.49; Colombia y Argentina son la excepción con alzas",
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "Con el último dato disponible (13:00 CDMX), el Ibovespa perdía 1.46% (165,468), el fondo de Perú 1.21%, el de Chile 0.71% y el S&P/TSX de Canadá 0.57% (35,597.28); en cambio, el COLCAP subía 0.82% (24,660.5) en su regreso del feriado y el fondo de Argentina 0.36%."
+   },
+   {
+    "t": "Por qué",
+    "x": "En Brasil pesaron la incertidumbre fiscal tras la reelección de Lula y la reunión del Copom, que inició hoy. A la región la frenaron también la cautela previa a la elección de EE. UU. y el dólar más fuerte tras el JOLTS."
+   },
+   {
+    "t": "Monedas",
+    "x": "El real se debilitó 0.99% a 5.49 por dólar y el peso mexicano a 18.84, mientras el chileno se mantuvo fuerte (981.1, +1.14% frente a su referencia previa). El peso argentino cotizó en 1,550.5."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "El miércoles 4 el Copom anuncia la Selic (13.75%) y el jueves 5 decide Banxico. Los resultados electorales de EE. UU. de esta noche marcarán la apertura de las monedas de la región."
+   }
+  ],
+  "scm": "Programa para después del Copom las liquidaciones en reales que no sean urgentes: la decisión puede mover al real con fuerza. Si compras a Chile en dólares, el peso chileno fuerte reduce tu poder de compra: revisa precios del primer trimestre con tus proveedores."
+ },
+ "en": {
+  "titular": "Brazil falls 1.5% on its return from the holiday and the real ends near 5.49; Colombia and Argentina are the exceptions with gains",
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "With the latest data available (1:00 p.m. Mexico City time), the Ibovespa was down 1.46% (165,468), the Peru fund 1.21%, the Chile fund 0.71% and Canada's S&P/TSX 0.57% (35,597.28); by contrast, the COLCAP rose 0.82% (24,660.5) on its return from the holiday and the Argentina fund 0.36%."
+   },
+   {
+    "t": "Why",
+    "x": "In Brazil, fiscal uncertainty after Lula's re-election and the Copom meeting, which began today, weighed. The region was also held back by caution ahead of the US election and a stronger dollar after JOLTS."
+   },
+   {
+    "t": "Currencies",
+    "x": "The real weakened 0.99% to 5.49 per dollar and the Mexican peso to 18.84, while the Chilean peso stayed strong (981.1, +1.14% versus its prior reference). The Argentine peso traded at 1,550.5."
+   },
+   {
+    "t": "What to expect",
+    "x": "On Wednesday the 4th Copom announces the Selic (13.75%) and on Thursday the 5th Banxico decides. Tonight's US election results will set the open for the region's currencies."
+   }
+  ],
+  "scm": "Schedule non-urgent settlements in reais for after Copom: the decision may move the real sharply. If you buy from Chile in dollars, the strong Chilean peso reduces your purchasing power: review first-quarter prices with your suppliers."
+ },
+ "pt": {
+  "titular": "O Brasil cai 1,5% na volta do feriado e o dólar fecha perto de R$ 5,49; Colômbia e Argentina são a exceção, com altas",
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "Com o último dado disponível (13h, Cidade do México), o Ibovespa perdia 1,46% (165.468), o fundo do Peru 1,21%, o do Chile 0,71% e o S&P/TSX do Canadá 0,57% (35.597,28); em compensação, o COLCAP subia 0,82% (24.660,5) na volta do feriado e o fundo da Argentina 0,36%."
+   },
+   {
+    "t": "Por quê",
+    "x": "No Brasil pesaram a incerteza fiscal após a reeleição de Lula e a reunião do Copom, iniciada hoje. A região também foi freada pela cautela antes da eleição dos EUA e pelo dólar mais forte após o JOLTS."
+   },
+   {
+    "t": "Moedas",
+    "x": "O real se enfraqueceu 0,99%, a R$ 5,49 por dólar, e o peso mexicano a 18,84, enquanto o chileno se manteve forte (981,1, +1,14% frente à referência anterior). O peso argentino foi cotado a 1.550,5."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Na quarta, dia 4, o Copom anuncia a Selic (13,75%) e na quinta, dia 5, decide o Banxico. Os resultados eleitorais dos EUA desta noite vão marcar a abertura das moedas da região."
+   }
+  ],
+  "scm": "Programe para depois do Copom as liquidações em reais que não sejam urgentes: a decisão pode mover o real com força. Se você compra do Chile em dólares, o peso chileno forte reduz seu poder de compra: revise os preços do primeiro trimestre com seus fornecedores."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "CNN Brasil: bolsa cai mais de 1% com incerteza fiscal e Copom; dólar ronda R$ 5,50",
+   "u": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-3-novembro-2026-2/"
+  }
+ ]
+}

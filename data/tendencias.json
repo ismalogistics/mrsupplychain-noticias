@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-03T17:42:29Z",
+ "actualizado": "2026-11-03T21:19:04Z",
  "fecha": "2026-11-03",
  "titular": {
-  "es": "Diésel en récord, chips al rebote y transportistas con pérdidas: lo que mueve a las industrias a mediodía del día de la elección",
-  "en": "Record diesel, a chip rebound and carriers losing money: what moves industries at midday on Election Day",
-  "pt": "Diesel em recorde, alta dos chips e transportadoras com prejuízo: o que move as indústrias no meio do dia da eleição"
+  "es": "Diésel en récord, chips al rebote y pérdidas en el autotransporte: el resumen de las industrias en el día de la elección",
+  "en": "Record diesel, a chip rebound and trucking losses: the industry summary for Election Day",
+  "pt": "Diesel em recorde, alta dos chips e prejuízo no transporte rodoviário: o resumo das indústrias no dia da eleição"
  },
  "items": [
   {
@@ -183,7 +183,7 @@
   },
   {
    "id": "semis",
-   "dir": "mixed",
+   "dir": "up",
    "calor": 2,
    "mx": false,
    "latam": false,
@@ -191,14 +191,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Apple cae por su guía de margen mientras los chips rebotan: Micron casi +4%, AMD e Intel más de 3%",
-    "en": "Apple falls on margin guidance as chips rebound: Micron nearly +4%, AMD and Intel over 3%",
-    "pt": "A Apple cai pela projeção de margem enquanto os chips sobem: Micron quase +4%, AMD e Intel mais de 3%"
+    "es": "Los chips rebotan tras entrar en mercado bajista: AMD sube 3.65% antes de su reporte y el Nasdaq gana 0.83%",
+    "en": "Chips rebound after entering a bear market: AMD rises 3.65% ahead of its report and the Nasdaq gains 0.83%",
+    "pt": "Os chips sobem após entrar em mercado de baixa: AMD sobe 3,65% antes do balanço e o Nasdaq ganha 0,83%"
    },
    "x": {
-    "es": "Apple caía cerca de 4% antes de la apertura por una guía de margen más débil y menores ventas en China, con el costo de la memoria como presión. Al mismo tiempo, los fabricantes de chips rebotaban en premercado después de la venta del lunes; AMD reporta hoy después del cierre.",
-    "en": "Apple was down about 4% before the open on weaker margin guidance and lower China sales, with memory costs as a pressure. At the same time, chipmakers were rebounding pre-market after Monday's sell-off; AMD reports today after the close.",
-    "pt": "A Apple caía cerca de 4% antes da abertura por uma projeção de margem mais fraca e menores vendas na China, com o custo da memória como pressão. Ao mesmo tempo, os fabricantes de chips subiam no pré-mercado após a venda de segunda; a AMD divulga hoje após o fechamento."
+    "es": "Los semiconductores rebotaron después de que el lunes su índice entró en mercado bajista; AMD cerró con alza de 3.65% (483.90 dólares) antes de reportar, y el Nasdaq ganó 0.83%. Apple, en cambio, siguió presionada por su guía de margen y el costo de la memoria.",
+    "en": "Semiconductors rebounded after their index entered a bear market on Monday; AMD closed up 3.65% ($483.90) before reporting, and the Nasdaq gained 0.83%. Apple, by contrast, stayed under pressure from its margin guidance and memory costs.",
+    "pt": "Os semicondutores subiram depois que seu índice entrou em mercado de baixa na segunda; a AMD fechou em alta de 3,65% (483,90 dólares) antes do balanço, e o Nasdaq ganhou 0,83%. A Apple, por outro lado, seguiu pressionada pela projeção de margem e pelo custo da memória."
    },
    "scm": {
     "es": "El costo de la memoria ya pesa en Apple y Zebra: si compras electrónica con memoria, adelanta pedidos del primer trimestre o fija precio.",
@@ -206,6 +206,10 @@
     "pt": "O custo da memória já pesa na Apple e na Zebra: se você compra eletrônicos com memória, antecipe pedidos do primeiro trimestre ou fixe o preço."
    },
    "fuentes": [
+    {
+     "t": "Yahoo Finance: mercados en vivo y cierre, 3 de noviembre de 2026",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html"
+    },
     {
      "t": "TheStreet: Stock Market Today, 3 de noviembre de 2026",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026"
