@@ -271,4 +271,9 @@ FUENTES_EEUU = {
     'inv_peso_1103': ('Investing.com · el peso se aprecia bajo 18.60 (3 nov 2026)', 'https://mx.investing.com/news/forex-news/precio-del-dolar-hoy-atento-a-elecciones-eeuu-peso-mexicano-se-aprecia-bajo-1860-3829088'),
     'yf_1103': ('Yahoo Finance · mercados del 3 nov 2026', 'https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-090846378.html'),
     'grafa_1103': ('Grafa · el crudo y los ataques en la isla de Qeshm (3 nov 2026)', 'https://grafa.com/en/news/united-states/oil-prices-rise-iran-qeshm-island-strikes-peace-talks'),
+    'spectrum_1103': ('Spectrum News · el día de la elección tras un récord de voto anticipado (3 nov 2026)', 'https://spectrumlocalnews.com/us/snplus/politics/2026/11/03/election-day-arrives-after-a-surge-in-early-voting'),
+    'yf_1103b': ('Yahoo Finance · mercados a media sesión (3 nov 2026)', 'https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html'),
+    'elceo_1103': ('El CEO · BMV y Wall Street hoy (3 nov 2026)', 'https://elceo.com/mercados/bmv-ipc-wall-street-hoy-3-de-noviembre-de-2026-apertura/'),
+    'rio_ebrard_1028': ('The Rio Times · Ebrard no prevé un cambio rápido en aranceles (28 oct 2026)', 'https://www.riotimesonline.com/ebrard-no-quick-us-tariff-shift/'),
+    'eilan_1031': ('Eilan Trade · alerta comercial México–EE. UU., noviembre 2026', 'https://eilantrade.com/en/trade-alert-us-mexico-trade-november-2026/'),
 }
