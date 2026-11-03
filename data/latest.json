@@ -1,253 +1,229 @@
 {
- "actualizado": "2026-11-03T15:14:36Z",
- "momento": "apertura",
+ "actualizado": "2026-11-03T17:42:29Z",
+ "momento": "mediodia",
  "briefs": {
   "global": {
-   "id": "2026-11-03-apertura-global",
+   "id": "2026-11-03-mediodia-global",
    "fecha": "2026-11-03",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "global",
-   "hora": "09:15 CDMX",
+   "hora": "11:40 CDMX",
    "es": {
-    "titular": "Wall Street abre mixta en día de elección: la tecnología rebota, el Dow cae 0.4% y el JOLTS sorprende al alza con 7.5 millones de vacantes",
+    "titular": "La tecnología sostiene a Wall Street a media sesión (Nasdaq +0.9%) mientras el Dow cae 0.5% por Apple; el diésel marca récord para un día de elección",
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "El premercado anticipaba futuros mixtos tras la caída de Apple (−3% fuera de horario) y un crudo volátil por los ataques en Qeshm. Al abrir, el Nasdaq subió 0.39% (25,263.01) y el S&P 500 0.10% (7,549.17), mientras el Dow perdió 0.40% (51,777.23); los chips rebotan (Micron casi +4%, AMD e Intel más de 3% en premercado) y Shopify cae cerca de 16% por un GMV debajo de lo esperado. El Brent pasó de subir casi 2% en la madrugada a caer 3% a 101.54 dólares, y el Treasury a 10 años está en 4.91%. A las 9:00 CDMX, el JOLTS de septiembre marcó 7.523 millones de vacantes, muy arriba de los 7.10 millones esperados y de los 7.19 millones de agosto."
+      "t": "Lo que se esperaba",
+      "x": "El brief de apertura veía una sesión mixta: rebote en chips, presión de Apple y Shopify, un crudo muy volátil por los ataques en Qeshm y un JOLTS fuerte (7.523 millones de vacantes) que sostiene las tasas altas."
      },
      {
-      "t": "Asia y Europa",
-      "x": "Asia cerró mixta: el KOSPI cayó cerca de 3.3% (5,666) por tecnología, Hong Kong subió 0.57% y Shanghái bajó 0.82%; Japón no operó por feriado. Europa abrió con caídas de 0.9% en el Euro Stoxx y el DAX por cautela ante las elecciones y la presión en tecnología."
+      "t": "Cómo va",
+      "x": "A las 11:36 CDMX, el Nasdaq sube 0.93% (25,399.29) y el S&P 500 0.43% (7,573.75), mientras el Dow cae 0.50% (51,722.83). El WTI baja 0.39% a 96.08 dólares y el Brent ronda 103; el Treasury a 10 años sube a 4.96% (+6 pb), el oro cae 0.78% (3,938.70) y el Bitcoin sube 0.74% (77,600)."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "Las casillas cierran en los primeros estados a las 18:00 CDMX y los resultados llegarán durante la noche. Después del cierre reportan AMD, Arista, Amgen y Booking; a las 14:30 CDMX salen los inventarios de crudo del API."
+      "t": "Lo que sorprendió",
+      "x": "El rebote en tecnología fue más amplio de lo esperado: los chips se recuperan después de que el índice de semiconductores entró en mercado bajista el lunes, y CrowdStrike acordó comprar dos empresas de seguridad con IA por 495 millones de dólares. La AAA reportó precios récord para un día de elección: gasolina en 4.14 y diésel en 6.29 dólares por galón. El alza de 6 pb en el Treasury tras el JOLTS es otra señal de tasas altas por más tiempo."
      }
     ],
-    "scm": "Un mercado laboral más fuerte de lo esperado (7.5 millones de vacantes) sostiene la demanda, pero también las tasas altas: no cuentes con crédito más barato para financiar inventario. El crudo sigue oscilando varios puntos al día, así que espera a que se asiente antes de negociar recargos."
+    "scm": "El diésel en 6.29 dólares por galón confirma que el alivio del crudo del lunes todavía no llega a la bomba: no aceptes bajas de recargo de combustible sin ver el índice semanal de diésel. Con el Treasury en 4.96%, financiar inventario sigue caro: revisa tus días de cobertura antes de la temporada alta."
    },
    "en": {
-    "titular": "Wall Street opens mixed on election day: tech rebounds, the Dow falls 0.4% and JOLTS surprises higher at 7.5 million openings",
+    "titular": "Tech holds up Wall Street at midday (Nasdaq +0.9%) while the Dow falls 0.5% on Apple; diesel hits a record for an Election Day",
     "bloques": [
      {
-      "t": "Open",
-      "x": "Pre-market pointed to mixed futures after Apple's drop (−3% after hours) and volatile crude on the Qeshm strikes. At the open, the Nasdaq rose 0.39% (25,263.01) and the S&P 500 0.10% (7,549.17), while the Dow lost 0.40% (51,777.23); chips rebound (Micron nearly +4%, AMD and Intel more than 3% pre-market) and Shopify falls about 16% on GMV below expectations. Brent swung from a nearly 2% gain overnight to a 3% drop at $101.54, and the 10-year Treasury is at 4.91%. At 9:00 a.m. Mexico City time, September JOLTS showed 7.523 million openings, well above the 7.10 million expected and August's 7.19 million."
+      "t": "What was expected",
+      "x": "The opening brief saw a mixed session: a rebound in chips, pressure from Apple and Shopify, very volatile crude on the Qeshm strikes and a strong JOLTS reading (7.523 million openings) that supports high rates."
      },
      {
-      "t": "Asia and Europe",
-      "x": "Asia closed mixed: the KOSPI fell about 3.3% (5,666) on tech, Hong Kong rose 0.57% and Shanghai fell 0.82%; Japan was closed for a holiday. Europe opened down 0.9% on the Euro Stoxx and the DAX on caution ahead of the elections and pressure on tech."
+      "t": "How it is going",
+      "x": "At 11:36 a.m. Mexico City time, the Nasdaq is up 0.93% (25,399.29) and the S&P 500 0.43% (7,573.75), while the Dow is down 0.50% (51,722.83). WTI is down 0.39% at $96.08 and Brent is around $103; the 10-year Treasury rises to 4.96% (+6 bp), gold falls 0.78% (3,938.70) and Bitcoin rises 0.74% (77,600)."
      },
      {
-      "t": "What to expect today",
-      "x": "Polls close in the first states at 6:00 p.m. Mexico City time and results will come in overnight. After the close, AMD, Arista, Amgen and Booking report; API crude inventories come out at 2:30 p.m. Mexico City time."
+      "t": "What surprised",
+      "x": "The tech rebound was broader than expected: chips are recovering after the semiconductor index entered a bear market on Monday, and CrowdStrike agreed to buy two AI security startups for $495 million. AAA reported record prices for an Election Day: gasoline at $4.14 and diesel at $6.29 per gallon. The 6 bp rise in the Treasury after JOLTS is another sign of higher-for-longer rates."
      }
     ],
-    "scm": "A stronger-than-expected labor market (7.5 million openings) supports demand, but also high rates: do not count on cheaper credit to finance inventory. Crude keeps swinging several points a day, so wait for it to settle before negotiating surcharges."
+    "scm": "Diesel at $6.29 per gallon confirms Monday's crude relief has not reached the pump yet: do not accept fuel-surcharge cuts without seeing the weekly diesel index. With the Treasury at 4.96%, financing inventory is still expensive: review your days of cover before peak season."
    },
    "pt": {
-    "titular": "Wall Street abre mista no dia da eleição: a tecnologia sobe, o Dow cai 0,4% e o JOLTS surpreende com 7,5 milhões de vagas",
+    "titular": "A tecnologia sustenta Wall Street no meio da sessão (Nasdaq +0,9%) enquanto o Dow cai 0,5% pela Apple; o diesel bate recorde para um dia de eleição",
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "O pré-mercado apontava futuros mistos após a queda da Apple (−3% fora do horário) e um petróleo volátil pelos ataques em Qeshm. Na abertura, o Nasdaq subiu 0,39% (25.263,01) e o S&P 500 0,10% (7.549,17), enquanto o Dow perdeu 0,40% (51.777,23); os chips sobem (Micron quase +4%, AMD e Intel mais de 3% no pré-mercado) e a Shopify cai cerca de 16% por um GMV abaixo do esperado. O Brent passou de uma alta de quase 2% na madrugada para uma queda de 3%, a 101,54 dólares, e o título do Tesouro de 10 anos está em 4,91%. Às 9h (Cidade do México), o JOLTS de setembro marcou 7,523 milhões de vagas, bem acima dos 7,10 milhões esperados e dos 7,19 milhões de agosto."
+      "t": "O que se esperava",
+      "x": "O brief de abertura via uma sessão mista: alta nos chips, pressão da Apple e da Shopify, um petróleo muito volátil pelos ataques em Qeshm e um JOLTS forte (7,523 milhões de vagas) que sustenta os juros altos."
      },
      {
-      "t": "Ásia e Europa",
-      "x": "A Ásia fechou mista: o KOSPI caiu cerca de 3,3% (5.666) pela tecnologia, Hong Kong subiu 0,57% e Xangai caiu 0,82%; o Japão não operou por feriado. A Europa abriu com quedas de 0,9% no Euro Stoxx e no DAX por cautela antes das eleições e pressão na tecnologia."
+      "t": "Como está",
+      "x": "Às 11h36 (Cidade do México), o Nasdaq sobe 0,93% (25.399,29) e o S&P 500 0,43% (7.573,75), enquanto o Dow cai 0,50% (51.722,83). O WTI recua 0,39% a 96,08 dólares e o Brent gira em torno de 103; o título do Tesouro de 10 anos sobe a 4,96% (+6 pb), o ouro cai 0,78% (3.938,70) e o Bitcoin sobe 0,74% (77.600)."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "As urnas fecham nos primeiros estados às 18h (Cidade do México) e os resultados chegarão durante a noite. Após o fechamento divulgam AMD, Arista, Amgen e Booking; às 14h30 (Cidade do México) saem os estoques de petróleo do API."
+      "t": "O que surpreendeu",
+      "x": "A alta na tecnologia foi mais ampla que o esperado: os chips se recuperam depois que o índice de semicondutores entrou em mercado de baixa na segunda, e a CrowdStrike fechou a compra de duas empresas de segurança com IA por 495 milhões de dólares. A AAA reportou preços recorde para um dia de eleição: gasolina a 4,14 e diesel a 6,29 dólares por galão. A alta de 6 pb no Tesouro após o JOLTS é outro sinal de juros altos por mais tempo."
      }
     ],
-    "scm": "Um mercado de trabalho mais forte que o esperado (7,5 milhões de vagas) sustenta a demanda, mas também os juros altos: não conte com crédito mais barato para financiar estoque. O petróleo segue oscilando vários pontos por dia, então espere ele se estabilizar antes de negociar sobretaxas."
+    "scm": "O diesel a 6,29 dólares por galão confirma que o alívio do petróleo de segunda ainda não chegou à bomba: não aceite cortes de sobretaxa de combustível sem ver o índice semanal de diesel. Com o Tesouro a 4,96%, financiar estoque segue caro: revise seus dias de cobertura antes da alta temporada."
    },
    "fuentes": [
     {
-     "t": "fvbb: Wall Street abre con alzas en S&P 500 y Nasdaq (3 nov 2026)",
-     "u": "https://fvbb.com/ns/us-stocks-today-s-p-500-nasdaq-open-higher-2/328520"
+     "t": "Yahoo Finance: mercados en vivo, 3 de noviembre de 2026",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html"
     },
     {
      "t": "Trading Economics: JOLTS de septiembre de 2026",
      "u": "https://tradingeconomics.com/united-states/job-offers"
-    },
-    {
-     "t": "Stock Titan: mercado en vivo, 3 de noviembre de 2026",
-     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
-    },
-    {
-     "t": "TheStreet: Stock Market Today, 3 de noviembre de 2026",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026"
-    },
-    {
-     "t": "Saxo: Asia Market Quick Take, 3 de noviembre de 2026",
-     "u": "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take-03-november-2026-03112026"
-    },
-    {
-     "t": "investingLive: apertura de las bolsas europeas, 3 de noviembre",
-     "u": "https://investinglive.com/stocks/european-stock-market-open-stocks-tumble-across-the-board-as-risk-sentiment-sours/"
-    },
-    {
-     "t": "TipRanks: futuros y reportes de Apple y Palantir",
-     "u": "https://www.tipranks.com/news/stock-market-today-nov-3-futures-mixed-on-midterm-election-day-apple-and-palantir-shares-slide-after-earnings"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-03-apertura-latam",
+   "id": "2026-11-03-mediodia-latam",
    "fecha": "2026-11-03",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "latam",
-   "hora": "09:15 CDMX",
+   "hora": "11:40 CDMX",
    "es": {
-    "titular": "Brasil reabre con el Ibovespa 1.45% abajo y el real cerca de 5.50; la región arranca en rojo con la elección de EE. UU. de fondo",
+    "titular": "América Latina sigue en rojo a media sesión: el Ibovespa pierde 1.6% y el real pasa de 5.50; Colombia reabre con ligera alza",
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "Al volver del feriado, el Ibovespa caía 1.45% a 165,488 puntos a las 10:22 de Brasilia y el dólar subía 0.71% a 5.483 reales. Con los primeros datos (8:32 CDMX), el S&P/TSX de Canadá bajaba 0.55% (35,605.68) y los fondos de Chile (−0.48%), Perú (−0.46%) y Argentina (−0.32%) también; el peso chileno ganaba alrededor de 1.1% (981.6 por dólar) y el mexicano cedía a 18.66. Colombia reabre hoy; el COLCAP aún muestra su cierre del 30 de octubre."
+      "t": "Lo que se esperaba",
+      "x": "El brief de apertura veía a Brasil reabriendo con el Ibovespa 1.45% abajo y el real cerca de 5.50, y a la región arrancando en rojo con la elección de EE. UU. de fondo."
      },
      {
-      "t": "Contexto",
-      "x": "En Brasil pesan la cautela fiscal tras la reelección de Lula y la pausa de las bolsas globales por la presión en tecnología. Afuera, el JOLTS de EE. UU. salió muy arriba de lo esperado (7.5 millones de vacantes), lo que respalda al dólar."
+      "t": "Cómo va",
+      "x": "Con los datos de las 9:30 CDMX, el Ibovespa cae 1.59% (165,260), el S&P/TSX de Canadá 0.58% (35,594.27) y los fondos de Perú (−0.92%), Chile (−0.61%) y Argentina (−0.59%) también bajan; el COLCAP sube 0.3% (24,535) al reabrir. En monedas, el real se debilita 1.2% a 5.50 por dólar y el peso mexicano a 18.72, mientras el chileno se mantiene fuerte (981.7)."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "El Copom de Brasil inició hoy su reunión y anuncia la Selic el miércoles 4 (13.75%). Banxico decide el jueves 5. Los resultados electorales de EE. UU. llegarán desde las 18:00 CDMX."
+      "t": "Lo que sorprendió",
+      "x": "Colombia fue la única bolsa de la región en positivo al reabrir. El real cruzó los 5.50 por dólar, con la cautela fiscal en Brasil y el Copom en reunión; la decisión de la Selic se anuncia mañana."
      }
     ],
-    "scm": "Si tienes pagos en reales, el dólar cerca de 5.50 los encarece: liquida sólo lo urgente hoy y espera la decisión del Copom para el resto. Con el peso chileno más fuerte, las compras de cobre y fruta chilena en dólares rinden menos: revisa tus cotizaciones del trimestre."
+    "scm": "Con el real arriba de 5.50, los pagos a proveedores brasileños en reales se abaratan para quien paga en dólares, pero las ventas a Brasil rinden menos: espera la decisión del Copom de mañana antes de fijar precios del trimestre."
    },
    "en": {
-    "titular": "Brazil reopens with the Ibovespa down 1.45% and the real near 5.50; the region starts in the red with the US election in the background",
+    "titular": "Latin America stays in the red at midday: the Ibovespa loses 1.6% and the real passes 5.50; Colombia reopens slightly higher",
     "bloques": [
      {
-      "t": "Open",
-      "x": "Back from the holiday, the Ibovespa was down 1.45% at 165,488 points at 10:22 Brasília time and the dollar rose 0.71% to 5.483 reais. With the first data (8:32 a.m. Mexico City time), Canada's S&P/TSX was down 0.55% (35,605.68) and the Chile (−0.48%), Peru (−0.46%) and Argentina (−0.32%) funds were too; the Chilean peso gained about 1.1% (981.6 per dollar) and the Mexican peso eased to 18.66. Colombia reopens today; the COLCAP still shows its October 30 close."
+      "t": "What was expected",
+      "x": "The opening brief saw Brazil reopening with the Ibovespa down 1.45% and the real near 5.50, and the region starting in the red with the US election in the background."
      },
      {
-      "t": "Context",
-      "x": "In Brazil, fiscal caution after Lula's re-election and the pause in global stocks on tech pressure weigh. Abroad, US JOLTS came in well above expectations (7.5 million openings), supporting the dollar."
+      "t": "How it is going",
+      "x": "With data as of 9:30 a.m. Mexico City time, the Ibovespa is down 1.59% (165,260), Canada's S&P/TSX 0.58% (35,594.27) and the Peru (−0.92%), Chile (−0.61%) and Argentina (−0.59%) funds are lower too; the COLCAP rises 0.3% (24,535) as it reopens. In currencies, the real weakens 1.2% to 5.50 per dollar and the Mexican peso to 18.72, while the Chilean peso stays strong (981.7)."
      },
      {
-      "t": "What to expect today",
-      "x": "Brazil's Copom started its meeting today and announces the Selic on Wednesday the 4th (13.75%). Banxico decides on Thursday the 5th. US election results will come in from 6:00 p.m. Mexico City time."
+      "t": "What surprised",
+      "x": "Colombia was the only market in the region in positive territory on reopening. The real crossed 5.50 per dollar on fiscal caution in Brazil with Copom meeting; the Selic decision is announced tomorrow."
      }
     ],
-    "scm": "If you have payments in reais, the dollar near 5.50 makes them more expensive: settle only what is urgent today and wait for the Copom decision for the rest. With a stronger Chilean peso, dollar purchases of Chilean copper and fruit buy less: review your quarterly quotes."
+    "scm": "With the real above 5.50, payments to Brazilian suppliers in reais get cheaper for those paying in dollars, but sales to Brazil earn less: wait for tomorrow's Copom decision before setting quarterly prices."
    },
    "pt": {
-    "titular": "O Brasil reabre com o Ibovespa em queda de 1,45% e o dólar perto de R$ 5,50; a região começa no vermelho com a eleição dos EUA ao fundo",
+    "titular": "A América Latina segue no vermelho no meio da sessão: o Ibovespa perde 1,6% e o dólar passa de R$ 5,50; a Colômbia reabre em leve alta",
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Na volta do feriado, o Ibovespa caía 1,45%, aos 165.488 pontos, às 10h22 de Brasília, e o dólar subia 0,71%, a R$ 5,483. Com os primeiros dados (8h32, Cidade do México), o S&P/TSX do Canadá caía 0,55% (35.605,68) e os fundos do Chile (−0,48%), Peru (−0,46%) e Argentina (−0,32%) também; o peso chileno ganhava cerca de 1,1% (981,6 por dólar) e o mexicano recuava a 18,66. A Colômbia reabre hoje; o COLCAP ainda mostra o fechamento de 30 de outubro."
+      "t": "O que se esperava",
+      "x": "O brief de abertura via o Brasil reabrindo com o Ibovespa em queda de 1,45% e o dólar perto de R$ 5,50, e a região começando no vermelho com a eleição dos EUA ao fundo."
      },
      {
-      "t": "Contexto",
-      "x": "No Brasil pesam a cautela fiscal após a reeleição de Lula e a pausa das bolsas globais pela pressão na tecnologia. Lá fora, o JOLTS dos EUA veio bem acima do esperado (7,5 milhões de vagas), o que sustenta o dólar."
+      "t": "Como está",
+      "x": "Com os dados das 9h30 (Cidade do México), o Ibovespa cai 1,59% (165.260), o S&P/TSX do Canadá 0,58% (35.594,27) e os fundos do Peru (−0,92%), Chile (−0,61%) e Argentina (−0,59%) também caem; o COLCAP sobe 0,3% (24.535) na reabertura. Nas moedas, o real se enfraquece 1,2%, a R$ 5,50 por dólar, e o peso mexicano a 18,72, enquanto o chileno segue forte (981,7)."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "O Copom começou hoje sua reunião e anuncia a Selic na quarta, dia 4 (13,75%). O Banxico decide na quinta, dia 5. Os resultados eleitorais dos EUA chegarão a partir das 18h (Cidade do México)."
+      "t": "O que surpreendeu",
+      "x": "A Colômbia foi a única bolsa da região no positivo na reabertura. O dólar passou de R$ 5,50 com a cautela fiscal no Brasil e o Copom reunido; a decisão da Selic sai amanhã."
      }
     ],
-    "scm": "Se você tem pagamentos em reais, o dólar perto de R$ 5,50 os encarece: liquide só o urgente hoje e espere a decisão do Copom para o resto. Com o peso chileno mais forte, as compras de cobre e frutas chilenas em dólares rendem menos: revise suas cotações do trimestre."
+    "scm": "Com o dólar acima de R$ 5,50, os pagamentos a fornecedores brasileiros em reais ficam mais baratos para quem paga em dólares, mas as vendas ao Brasil rendem menos: espere a decisão do Copom de amanhã antes de fixar os preços do trimestre."
    },
    "fuentes": [
     {
+     "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+     "u": "https://mrsupplychain.ai/noticias/"
+    },
+    {
      "t": "Portal do Agronegócio: Ibovespa cai na abertura e dólar se aproxima de R$ 5,50",
      "u": "https://www.portaldoagronegocio.com.br/economia/mercado-financeiro/noticias/ibovespa-cai-na-abertura-e-bolsas-globais-recuam-com-pressao-sobre-tecnologia-dolar-se-aproxima-de-r-5-50"
+    }
+   ]
+  },
+  "mexico": {
+   "id": "2026-11-03-mediodia-mexico",
+   "fecha": "2026-11-03",
+   "momento": "mediodia",
+   "mercado": "mexico",
+   "hora": "11:40 CDMX",
+   "es": {
+    "titular": "El IPC rebota más de 1% al reabrir, impulsado por aerolíneas y aeropuertos, mientras el peso sigue debilitándose hacia 18.72",
+    "bloques": [
+     {
+      "t": "Lo que se esperaba",
+      "x": "El brief de apertura veía al peso cediendo a 18.66 tras el JOLTS fuerte, la BMV reabriendo después del feriado, la subasta de Cetes y el FIX vigente de 18.7962 para liquidar hoy."
+     },
+     {
+      "t": "Cómo va",
+      "x": "El IPC abrió con alza de 1.14% a 70,575.5 puntos, arriba de 70,000 por primera vez desde el 21 de octubre; Volaris sube 7%, GAP 3.6% y Asur 3.1%. El peso se debilitó a 18.72 por dólar hacia las 9:30 CDMX, desde el cierre de 18.57 del lunes. El FIX de hoy se publica a mediodía."
+     },
+     {
+      "t": "Lo que sorprendió",
+      "x": "La BMV reaccionó con fuerza al reabrir, con aerolíneas y aeropuertos al frente gracias al crudo más barato del lunes, mientras el peso no siguió el optimismo: lo pesan el alza del Treasury a 4.96% y la cautela ante el resultado electoral."
+     }
+    ],
+    "scm": "El peso en 18.72 encarece tus pagos en dólares respecto al lunes: si no cubriste, hazlo antes del cierre y deja el resto para después de Banxico. El buen día de aerolíneas y aeropuertos no cambia el costo de la carga aérea: el diésel y la turbosina siguen caros."
+   },
+   "en": {
+    "titular": "The IPC rebounds more than 1% as it reopens, led by airlines and airports, while the peso keeps weakening toward 18.72",
+    "bloques": [
+     {
+      "t": "What was expected",
+      "x": "The opening brief saw the peso easing to 18.66 after strong JOLTS, the BMV reopening after the holiday, the Cetes auction and the 18.7962 FIX in effect for today's settlements."
+     },
+     {
+      "t": "How it is going",
+      "x": "The IPC opened up 1.14% at 70,575.5 points, above 70,000 for the first time since October 21; Volaris is up 7%, GAP 3.6% and Asur 3.1%. The peso weakened to 18.72 per dollar by 9:30 a.m. Mexico City time, from Monday's 18.57 close. Today's FIX is published at midday."
+     },
+     {
+      "t": "What surprised",
+      "x": "The BMV reacted strongly on reopening, led by airlines and airports thanks to Monday's cheaper crude, while the peso did not share the optimism: the rise in the Treasury to 4.96% and caution ahead of the election result weigh on it."
+     }
+    ],
+    "scm": "The peso at 18.72 makes your dollar payments more expensive than on Monday: if you have not hedged, do it before the close and leave the rest until after Banxico. The good day for airlines and airports does not change the cost of air cargo: diesel and jet fuel remain expensive."
+   },
+   "pt": {
+    "titular": "O IPC sobe mais de 1% na reabertura, puxado por aéreas e aeroportos, enquanto o peso segue se enfraquecendo rumo a 18,72",
+    "bloques": [
+     {
+      "t": "O que se esperava",
+      "x": "O brief de abertura via o peso recuando a 18,66 após o JOLTS forte, a BMV reabrindo após o feriado, o leilão de Cetes e o FIX vigente de 18,7962 para as liquidações de hoje."
+     },
+     {
+      "t": "Como está",
+      "x": "O IPC abriu em alta de 1,14%, aos 70.575,5 pontos, acima de 70.000 pela primeira vez desde 21 de outubro; Volaris sobe 7%, GAP 3,6% e Asur 3,1%. O peso se enfraqueceu a 18,72 por dólar por volta das 9h30 (Cidade do México), ante o fechamento de 18,57 de segunda. O FIX de hoje sai ao meio-dia."
+     },
+     {
+      "t": "O que surpreendeu",
+      "x": "A BMV reagiu com força na reabertura, com aéreas e aeroportos à frente graças ao petróleo mais barato de segunda, enquanto o peso não acompanhou o otimismo: pesam a alta do Tesouro a 4,96% e a cautela antes do resultado eleitoral."
+     }
+    ],
+    "scm": "O peso a 18,72 encarece seus pagamentos em dólares em relação à segunda: se não protegeu, faça antes do fechamento e deixe o resto para depois do Banxico. O bom dia de aéreas e aeroportos não muda o custo da carga aérea: diesel e querosene de aviação seguem caros."
+   },
+   "fuentes": [
+    {
+     "t": "El CEO: BMV y Wall Street hoy, 3 de noviembre de 2026",
+     "u": "https://elceo.com/mercados/bmv-ipc-wall-street-hoy-3-de-noviembre-de-2026-apertura/"
     },
     {
      "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
      "u": "https://mrsupplychain.ai/noticias/"
     },
     {
-     "t": "Trading Economics: JOLTS de septiembre de 2026",
-     "u": "https://tradingeconomics.com/united-states/job-offers"
-    }
-   ]
-  },
-  "mexico": {
-   "id": "2026-11-03-apertura-mexico",
-   "fecha": "2026-11-03",
-   "momento": "apertura",
-   "mercado": "mexico",
-   "hora": "09:15 CDMX",
-   "es": {
-    "titular": "El peso cede a 18.66 por dólar al reabrir el mercado local y la BMV regresa tras el feriado, con la elección de EE. UU. de fondo",
-    "bloques": [
-     {
-      "t": "Apertura",
-      "x": "El peso abrió el día en 18.54 por dólar (7:30 CDMX) y hacia las 8:30 cedía a 18.66, después de cerrar el lunes en 18.57. Para las liquidaciones de hoy rige un FIX de 18.7962. La BMV reabre tras el feriado con el IPC en 69,779.20 como referencia (cierre del 30 de octubre)."
-     },
-     {
-      "t": "Contexto",
-      "x": "El JOLTS de EE. UU. salió muy arriba de lo esperado (7.523 millones de vacantes contra 7.10 millones), lo que respalda tasas altas en EE. UU. y presiona al peso. Banorte describe a los inversionistas como cautelosos ante la elección; un Congreso con mayoría demócrata podría frenar un endurecimiento de la política comercial, aunque el presidente conserva facultades para imponer aranceles."
-     },
-     {
-      "t": "Qué se espera hoy",
-      "x": "Subasta de Cetes (movida del lunes) y nuevo FIX al mediodía. Los resultados electorales empezarán a llegar a partir de las 18:00 CDMX. Banxico decide el jueves 5 con la tasa en 6.50%."
-     }
-    ],
-    "scm": "El peso ya devolvió parte de la ganancia del lunes: si tienes pagos en dólares de noviembre sin cubrir, cubre una parte hoy en la mañana y deja el resto para después de Banxico. Evita cerrar contratos en dólares con vencimiento esta semana durante la noche electoral."
-   },
-   "en": {
-    "titular": "The peso eases to 18.66 per dollar as the local market reopens and the BMV returns from the holiday, with the US election in the background",
-    "bloques": [
-     {
-      "t": "Open",
-      "x": "The peso started the day at 18.54 per dollar (7:30 a.m. Mexico City time) and by 8:30 had eased to 18.66, after closing Monday at 18.57. Today's settlements use a FIX of 18.7962. The BMV reopens after the holiday with the IPC at 69,779.20 as the reference (October 30 close)."
-     },
-     {
-      "t": "Context",
-      "x": "US JOLTS came in well above expectations (7.523 million openings vs. 7.10 million), which supports high US rates and pressures the peso. Banorte describes investors as cautious ahead of the election; a Democratic-majority Congress could slow a tightening of trade policy, although the president keeps the power to impose tariffs."
-     },
-     {
-      "t": "What to expect today",
-      "x": "Cetes auction (moved from Monday) and a new FIX at midday. Election results will start coming in from 6:00 p.m. Mexico City time. Banxico decides on Thursday the 5th with the rate at 6.50%."
-     }
-    ],
-    "scm": "The peso has already given back part of Monday's gain: if you have unhedged November dollar payments, hedge part this morning and leave the rest until after Banxico. Avoid closing dollar contracts maturing this week during election night."
-   },
-   "pt": {
-    "titular": "O peso recua a 18,66 por dólar com a reabertura do mercado local e a BMV volta do feriado, com a eleição dos EUA ao fundo",
-    "bloques": [
-     {
-      "t": "Abertura",
-      "x": "O peso começou o dia a 18,54 por dólar (7h30, Cidade do México) e por volta das 8h30 recuava a 18,66, após fechar a segunda a 18,57. Para as liquidações de hoje vale um FIX de 18,7962. A BMV reabre após o feriado com o IPC em 69.779,20 como referência (fechamento de 30 de outubro)."
-     },
-     {
-      "t": "Contexto",
-      "x": "O JOLTS dos EUA veio bem acima do esperado (7,523 milhões de vagas contra 7,10 milhões), o que sustenta juros altos nos EUA e pressiona o peso. O Banorte descreve os investidores como cautelosos antes da eleição; um Congresso de maioria democrata poderia frear um endurecimento da política comercial, embora o presidente mantenha o poder de impor tarifas."
-     },
-     {
-      "t": "O que se espera hoje",
-      "x": "Leilão de Cetes (adiado de segunda) e novo FIX ao meio-dia. Os resultados eleitorais começarão a chegar a partir das 18h (Cidade do México). O Banxico decide na quinta, dia 5, com a taxa em 6,50%."
-     }
-    ],
-    "scm": "O peso já devolveu parte do ganho de segunda: se você tem pagamentos em dólares de novembro sem proteção, proteja uma parte hoje de manhã e deixe o resto para depois do Banxico. Evite fechar contratos em dólares com vencimento nesta semana durante a noite eleitoral."
-   },
-   "fuentes": [
-    {
-     "t": "Investing.com: el peso se aprecia bajo 18.60 ante las elecciones",
-     "u": "https://mx.investing.com/news/forex-news/precio-del-dolar-hoy-atento-a-elecciones-eeuu-peso-mexicano-se-aprecia-bajo-1860-3829088"
-    },
-    {
-     "t": "N+: tipo de cambio y FIX del martes 3 de noviembre",
-     "u": "https://www.nmas.com.mx/economia/dolar/como-esta-el-tipo-de-cambio-del-peso-con-el-dolar-estadounidense-este-martes-3-noviembre-2026/"
-    },
-    {
-     "t": "Trading Economics: JOLTS de septiembre de 2026",
-     "u": "https://tradingeconomics.com/united-states/job-offers"
+     "t": "UnoTV: tipo de cambio publicado por Banxico, 3 de noviembre",
+     "u": "https://www.unotv.com/dolar-hoy/dolar-cotiza-en-18-79-pesos-este-martes-3-de-noviembre-de-2026/"
     }
    ]
   }
  },
  "lectura": {
   "es": {
-   "titular": "El crudo oscila 5% en horas y el peso devuelve parte de su ganancia: el día de la elección pide cubrir lo urgente y esperar para lo demás",
-   "resumen": "La sesión abrió con el Brent cayendo 3% a 101.54 dólares después de haber subido casi 2% en la madrugada por los ataques en Qeshm, una oscilación de unos 5 dólares en horas que muestra que el precio del combustible todavía no tiene piso. El peso cedió a 18.66 por dólar tras cerrar el lunes en 18.57, y el JOLTS de EE. UU. sorprendió con 7.523 millones de vacantes (7.10 millones esperados), lo que sostiene la demanda pero también las tasas altas. Wall Street abrió mixta: rebote en chips y caídas en Apple y Shopify. El plazo de huelga en Los Ángeles–Long Beach vence mañana, el Copom decide el miércoles y Banxico el jueves. La prioridad es cubrir hoy lo urgente en dólares y reales, y dejar tarifas, inventarios y recargos para después de conocer el resultado electoral.",
+   "titular": "El diésel marca récord y el Treasury sube a 4.96%: el alivio del crudo no llega a la operación y el peso cede a 18.72",
+   "resumen": "A media sesión, la tecnología sostiene a Wall Street (Nasdaq +0.93%) mientras el Dow cae 0.50% por Apple, y el crudo se calma alrededor de 96 dólares el WTI y 103 el Brent. La AAA reportó diésel en un récord de 6.29 dólares por galón para un día de elección, prueba de que la caída del crudo del lunes no ha llegado a la bomba. El JOLTS fuerte (7.523 millones de vacantes) llevó al Treasury a 10 años a 4.96%, y el peso se debilitó a 18.72 por dólar aunque la BMV reabrió con alza de 1.14%. Mañana vence el plazo de huelga en Los Ángeles–Long Beach y decide el Copom; el jueves, Banxico. La prioridad es cubrir lo urgente en dólares, no aceptar bajas de recargo sin el índice semanal de diésel y revisar el costo de financiar inventario.",
    "temas": [
     {
      "tema": "Peso y tasas",
@@ -274,8 +250,8 @@
       "Fletes",
       "Costo por kilómetro"
      ],
-     "analisis": "El Brent cayó 3% a 101.54 dólares al abrir Wall Street después de subir casi 2% en la madrugada por los ataques de EE. UU. en la isla iraní de Qeshm; el lunes había liquidado en 104.77 (−7.6%). Un funcionario iraní dijo que la negociación sigue lejos de un acuerdo. Los recargos por combustible se ajustan con una a dos semanas de rezago.",
-     "implicacion": "Con oscilaciones de unos 5 dólares en horas, cualquier ajuste de recargos hoy se basa en un precio que puede cambiar mañana; la tendencia se aclarará después de la elección y de la siguiente ronda con Irán.",
+     "analisis": "El WTI cotiza en 96.08 dólares (−0.39%) y el Brent en 103.33 (−1.37%) después de oscilar unos 5 dólares en la mañana por los ataques en Qeshm. La AAA reportó gasolina en 4.14 y diésel en 6.29 dólares por galón, récords para un día de elección. Los recargos por combustible se ajustan con una a dos semanas de rezago.",
+     "implicacion": "El diésel en récord muestra que el alivio del crudo tarda en llegar a la bomba; cualquier ajuste de recargos debe esperar al índice semanal de diésel y al resultado de la siguiente ronda con Irán.",
      "acciones": [
       "No renegociar recargos a la baja hasta tener dos semanas de precios de diésel estables.",
       "Pactar con transportistas un tope de recargo para diciembre referido al diésel publicado."
@@ -358,8 +334,8 @@
    ]
   },
   "en": {
-   "titular": "Crude swings 5% in hours and the peso gives back part of its gain: election day calls for hedging what is urgent and waiting on the rest",
-   "resumen": "The session opened with Brent down 3% at $101.54 after rising nearly 2% overnight on the Qeshm strikes, a swing of about $5 in hours that shows fuel prices still have no floor. The peso eased to 18.66 per dollar after closing Monday at 18.57, and US JOLTS surprised with 7.523 million openings (7.10 million expected), which supports demand but also high rates. Wall Street opened mixed: a rebound in chips and drops in Apple and Shopify. The Los Angeles–Long Beach strike deadline expires tomorrow, Copom decides Wednesday and Banxico Thursday. The priority is to hedge today what is urgent in dollars and reais, and leave rates, inventories and surcharges until after the election result is known.",
+   "titular": "Diesel hits a record and the Treasury rises to 4.96%: crude relief does not reach operations and the peso eases to 18.72",
+   "resumen": "At midday, tech is holding up Wall Street (Nasdaq +0.93%) while the Dow falls 0.50% on Apple, and crude calms around $96 for WTI and $103 for Brent. AAA reported diesel at a record $6.29 per gallon for an Election Day, proof that Monday's crude drop has not reached the pump. Strong JOLTS (7.523 million openings) pushed the 10-year Treasury to 4.96%, and the peso weakened to 18.72 per dollar even though the BMV reopened up 1.14%. Tomorrow the Los Angeles–Long Beach strike deadline expires and Copom decides; on Thursday, Banxico. The priority is to hedge what is urgent in dollars, not to accept surcharge cuts without the weekly diesel index, and to review the cost of financing inventory.",
    "temas": [
     {
      "tema": "Peso and rates",
@@ -386,8 +362,8 @@
       "Freight",
       "Cost per mile"
      ],
-     "analisis": "Brent fell 3% to $101.54 at the Wall Street open after rising nearly 2% overnight on US strikes on Iran's Qeshm Island; on Monday it settled at $104.77 (−7.6%). An Iranian official said the talks remain far from a deal. Fuel surcharges adjust with a one- to two-week lag.",
-     "implicacion": "With swings of about $5 in hours, any surcharge adjustment today rests on a price that may change tomorrow; the trend will become clearer after the election and the next round with Iran.",
+     "analisis": "WTI trades at $96.08 (−0.39%) and Brent at $103.33 (−1.37%) after swinging about $5 in the morning on the Qeshm strikes. AAA reported gasoline at $4.14 and diesel at $6.29 per gallon, records for an Election Day. Fuel surcharges adjust with a one- to two-week lag.",
+     "implicacion": "Record diesel shows crude relief takes time to reach the pump; any surcharge adjustment should wait for the weekly diesel index and the outcome of the next round with Iran.",
      "acciones": [
       "Don't renegotiate surcharges lower until diesel prices have been stable for two weeks.",
       "Agree with carriers on a December surcharge cap tied to published diesel prices."
@@ -475,8 +451,8 @@
    ]
   },
   "pt": {
-   "titular": "O petróleo oscila 5% em horas e o peso devolve parte do ganho: o dia da eleição pede proteger o urgente e esperar para o resto",
-   "resumen": "A sessão abriu com o Brent caindo 3%, a 101,54 dólares, depois de subir quase 2% na madrugada pelos ataques em Qeshm, uma oscilação de cerca de 5 dólares em horas que mostra que o preço do combustível ainda não tem piso. O peso recuou a 18,66 por dólar após fechar a segunda a 18,57, e o JOLTS dos EUA surpreendeu com 7,523 milhões de vagas (7,10 milhões esperados), o que sustenta a demanda mas também os juros altos. Wall Street abriu mista: alta nos chips e quedas na Apple e na Shopify. O prazo da greve em Los Angeles–Long Beach vence amanhã, o Copom decide na quarta e o Banxico na quinta. A prioridade é proteger hoje o urgente em dólares e reais, e deixar tarifas, estoques e sobretaxas para depois de conhecer o resultado eleitoral.",
+   "titular": "O diesel bate recorde e o Tesouro sobe a 4,96%: o alívio do petróleo não chega à operação e o peso recua a 18,72",
+   "resumen": "No meio da sessão, a tecnologia sustenta Wall Street (Nasdaq +0,93%) enquanto o Dow cai 0,50% pela Apple, e o petróleo se acalma em torno de 96 dólares o WTI e 103 o Brent. A AAA reportou o diesel em um recorde de 6,29 dólares por galão para um dia de eleição, prova de que a queda do petróleo de segunda não chegou à bomba. O JOLTS forte (7,523 milhões de vagas) levou o título do Tesouro de 10 anos a 4,96%, e o peso se enfraqueceu a 18,72 por dólar embora a BMV tenha reaberto em alta de 1,14%. Amanhã vence o prazo da greve em Los Angeles–Long Beach e decide o Copom; na quinta, o Banxico. A prioridade é proteger o urgente em dólares, não aceitar cortes de sobretaxa sem o índice semanal de diesel e revisar o custo de financiar estoque.",
    "temas": [
     {
      "tema": "Peso e juros",
@@ -503,8 +479,8 @@
       "Fretes",
       "Custo por quilômetro"
      ],
-     "analisis": "O Brent caiu 3%, a 101,54 dólares, na abertura de Wall Street depois de subir quase 2% na madrugada pelos ataques dos EUA na ilha iraniana de Qeshm; na segunda havia fechado a 104,77 (−7,6%). Um funcionário iraniano disse que a negociação segue longe de um acordo. As sobretaxas de combustível se ajustam com uma a duas semanas de defasagem.",
-     "implicacion": "Com oscilações de cerca de 5 dólares em horas, qualquer ajuste de sobretaxa hoje se baseia em um preço que pode mudar amanhã; a tendência ficará mais clara depois da eleição e da próxima rodada com o Irã.",
+     "analisis": "O WTI é cotado a 96,08 dólares (−0,39%) e o Brent a 103,33 (−1,37%) depois de oscilar cerca de 5 dólares pela manhã pelos ataques em Qeshm. A AAA reportou gasolina a 4,14 e diesel a 6,29 dólares por galão, recordes para um dia de eleição. As sobretaxas de combustível se ajustam com uma a duas semanas de defasagem.",
+     "implicacion": "O diesel em recorde mostra que o alívio do petróleo demora a chegar à bomba; qualquer ajuste de sobretaxa deve esperar o índice semanal de diesel e o resultado da próxima rodada com o Irã.",
      "acciones": [
       "Não renegociar sobretaxas para baixo até ter duas semanas de preços de diesel estáveis.",
       "Acordar com as transportadoras um teto de sobretaxa para dezembro atrelado ao diesel publicado."
@@ -592,8 +568,8 @@
    "nombre": "IPC BMV",
    "name_en": "IPC BMV",
    "grupo": "bolsa",
-   "valor": 69779.2,
-   "cambio": -0.01,
+   "valor": 70575.5,
+   "cambio": 1.14,
    "unidad": "puntos",
    "name_pt": "IPC BMV"
   },
@@ -601,8 +577,8 @@
    "nombre": "S&P 500",
    "name_en": "S&P 500",
    "grupo": "bolsa",
-   "valor": 7549.17,
-   "cambio": 0.1,
+   "valor": 7573.75,
+   "cambio": 0.43,
    "unidad": "puntos",
    "name_pt": "S&P 500"
   },
@@ -610,8 +586,8 @@
    "nombre": "Nasdaq",
    "name_en": "Nasdaq",
    "grupo": "bolsa",
-   "valor": 25263.01,
-   "cambio": 0.39,
+   "valor": 25399.29,
+   "cambio": 0.93,
    "unidad": "puntos",
    "name_pt": "Nasdaq"
   },
@@ -619,8 +595,8 @@
    "nombre": "Dow Jones",
    "name_en": "Dow Jones",
    "grupo": "bolsa",
-   "valor": 51777.23,
-   "cambio": -0.4,
+   "valor": 51722.83,
+   "cambio": -0.5,
    "unidad": "puntos",
    "name_pt": "Dow Jones"
   },
@@ -655,8 +631,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 18.66,
-   "cambio": 0.48,
+   "valor": 18.72,
+   "cambio": 0.81,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -682,8 +658,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 94.55,
-   "cambio": -1.98,
+   "valor": 96.08,
+   "cambio": -0.39,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -691,8 +667,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 101.54,
-   "cambio": -3.1,
+   "valor": 103.33,
+   "cambio": -1.37,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -709,8 +685,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3950,
-   "cambio": 0.1,
+   "valor": 3938.7,
+   "cambio": -0.78,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -727,8 +703,8 @@
    "nombre": "Treasury 10 años",
    "name_en": "10-yr Treasury",
    "grupo": "bono",
-   "valor": 4.91,
-   "cambio": 2,
+   "valor": 4.96,
+   "cambio": 6,
    "unidad": "%",
    "name_pt": "Título do Tesouro 10 anos"
   },
@@ -754,8 +730,8 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 76652.02,
-   "cambio": -1.46,
+   "valor": 77599.69,
+   "cambio": 0.74,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }

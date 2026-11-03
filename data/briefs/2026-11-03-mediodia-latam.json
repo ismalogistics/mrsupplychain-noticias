@@ -1,0 +1,71 @@
+{
+ "id": "2026-11-03-mediodia-latam",
+ "fecha": "2026-11-03",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:40 CDMX",
+ "es": {
+  "titular": "América Latina sigue en rojo a media sesión: el Ibovespa pierde 1.6% y el real pasa de 5.50; Colombia reabre con ligera alza",
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "El brief de apertura veía a Brasil reabriendo con el Ibovespa 1.45% abajo y el real cerca de 5.50, y a la región arrancando en rojo con la elección de EE. UU. de fondo."
+   },
+   {
+    "t": "Cómo va",
+    "x": "Con los datos de las 9:30 CDMX, el Ibovespa cae 1.59% (165,260), el S&P/TSX de Canadá 0.58% (35,594.27) y los fondos de Perú (−0.92%), Chile (−0.61%) y Argentina (−0.59%) también bajan; el COLCAP sube 0.3% (24,535) al reabrir. En monedas, el real se debilita 1.2% a 5.50 por dólar y el peso mexicano a 18.72, mientras el chileno se mantiene fuerte (981.7)."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "Colombia fue la única bolsa de la región en positivo al reabrir. El real cruzó los 5.50 por dólar, con la cautela fiscal en Brasil y el Copom en reunión; la decisión de la Selic se anuncia mañana."
+   }
+  ],
+  "scm": "Con el real arriba de 5.50, los pagos a proveedores brasileños en reales se abaratan para quien paga en dólares, pero las ventas a Brasil rinden menos: espera la decisión del Copom de mañana antes de fijar precios del trimestre."
+ },
+ "en": {
+  "titular": "Latin America stays in the red at midday: the Ibovespa loses 1.6% and the real passes 5.50; Colombia reopens slightly higher",
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "The opening brief saw Brazil reopening with the Ibovespa down 1.45% and the real near 5.50, and the region starting in the red with the US election in the background."
+   },
+   {
+    "t": "How it is going",
+    "x": "With data as of 9:30 a.m. Mexico City time, the Ibovespa is down 1.59% (165,260), Canada's S&P/TSX 0.58% (35,594.27) and the Peru (−0.92%), Chile (−0.61%) and Argentina (−0.59%) funds are lower too; the COLCAP rises 0.3% (24,535) as it reopens. In currencies, the real weakens 1.2% to 5.50 per dollar and the Mexican peso to 18.72, while the Chilean peso stays strong (981.7)."
+   },
+   {
+    "t": "What surprised",
+    "x": "Colombia was the only market in the region in positive territory on reopening. The real crossed 5.50 per dollar on fiscal caution in Brazil with Copom meeting; the Selic decision is announced tomorrow."
+   }
+  ],
+  "scm": "With the real above 5.50, payments to Brazilian suppliers in reais get cheaper for those paying in dollars, but sales to Brazil earn less: wait for tomorrow's Copom decision before setting quarterly prices."
+ },
+ "pt": {
+  "titular": "A América Latina segue no vermelho no meio da sessão: o Ibovespa perde 1,6% e o dólar passa de R$ 5,50; a Colômbia reabre em leve alta",
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "O brief de abertura via o Brasil reabrindo com o Ibovespa em queda de 1,45% e o dólar perto de R$ 5,50, e a região começando no vermelho com a eleição dos EUA ao fundo."
+   },
+   {
+    "t": "Como está",
+    "x": "Com os dados das 9h30 (Cidade do México), o Ibovespa cai 1,59% (165.260), o S&P/TSX do Canadá 0,58% (35.594,27) e os fundos do Peru (−0,92%), Chile (−0,61%) e Argentina (−0,59%) também caem; o COLCAP sobe 0,3% (24.535) na reabertura. Nas moedas, o real se enfraquece 1,2%, a R$ 5,50 por dólar, e o peso mexicano a 18,72, enquanto o chileno segue forte (981,7)."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A Colômbia foi a única bolsa da região no positivo na reabertura. O dólar passou de R$ 5,50 com a cautela fiscal no Brasil e o Copom reunido; a decisão da Selic sai amanhã."
+   }
+  ],
+  "scm": "Com o dólar acima de R$ 5,50, os pagamentos a fornecedores brasileiros em reais ficam mais baratos para quem paga em dólares, mas as vendas ao Brasil rendem menos: espere a decisão do Copom de amanhã antes de fixar os preços do trimestre."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "Portal do Agronegócio: Ibovespa cai na abertura e dólar se aproxima de R$ 5,50",
+   "u": "https://www.portaldoagronegocio.com.br/economia/mercado-financeiro/noticias/ibovespa-cai-na-abertura-e-bolsas-globais-recuam-com-pressao-sobre-tecnologia-dolar-se-aproxima-de-r-5-50"
+  }
+ ]
+}

@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-03-mediodia-global",
+   "fecha": "2026-11-03",
+   "momento": "mediodia",
+   "mercado": "global",
+   "titular_es": "La tecnología sostiene a Wall Street a media sesión (Nasdaq +0.9%) mientras el Dow cae 0.5% por Apple; el diésel marca récord para un día de elección",
+   "titular_en": "Tech holds up Wall Street at midday (Nasdaq +0.9%) while the Dow falls 0.5% on Apple; diesel hits a record for an Election Day",
+   "titular_pt": "A tecnologia sustenta Wall Street no meio da sessão (Nasdaq +0,9%) enquanto o Dow cai 0,5% pela Apple; o diesel bate recorde para um dia de eleição"
+  },
+  {
+   "id": "2026-11-03-mediodia-latam",
+   "fecha": "2026-11-03",
+   "momento": "mediodia",
+   "mercado": "latam",
+   "titular_es": "América Latina sigue en rojo a media sesión: el Ibovespa pierde 1.6% y el real pasa de 5.50; Colombia reabre con ligera alza",
+   "titular_en": "Latin America stays in the red at midday: the Ibovespa loses 1.6% and the real passes 5.50; Colombia reopens slightly higher",
+   "titular_pt": "A América Latina segue no vermelho no meio da sessão: o Ibovespa perde 1,6% e o dólar passa de R$ 5,50; a Colômbia reabre em leve alta"
+  },
+  {
+   "id": "2026-11-03-mediodia-mexico",
+   "fecha": "2026-11-03",
+   "momento": "mediodia",
+   "mercado": "mexico",
+   "titular_es": "El IPC rebota más de 1% al reabrir, impulsado por aerolíneas y aeropuertos, mientras el peso sigue debilitándose hacia 18.72",
+   "titular_en": "The IPC rebounds more than 1% as it reopens, led by airlines and airports, while the peso keeps weakening toward 18.72",
+   "titular_pt": "O IPC sobe mais de 1% na reabertura, puxado por aéreas e aeroportos, enquanto o peso segue se enfraquecendo rumo a 18,72"
+  },
+  {
    "id": "2026-11-03-apertura-global",
    "fecha": "2026-11-03",
    "momento": "apertura",

@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-03T15:14:36Z",
+ "actualizado": "2026-11-03T17:42:29Z",
  "fecha": "2026-11-03",
  "titular": {
-  "es": "Crudo volátil, Shopify y Zebra a la baja y transportistas con pérdidas: lo que mueve a las industrias en la apertura del día de la elección",
-  "en": "Volatile crude, Shopify and Zebra down and carriers losing money: what moves industries at the election-day open",
-  "pt": "Petróleo volátil, Shopify e Zebra em queda e transportadoras com prejuízo: o que move as indústrias na abertura do dia da eleição"
+  "es": "Diésel en récord, chips al rebote y transportistas con pérdidas: lo que mueve a las industrias a mediodía del día de la elección",
+  "en": "Record diesel, a chip rebound and carriers losing money: what moves industries at midday on Election Day",
+  "pt": "Diesel em recorde, alta dos chips e transportadoras com prejuízo: o que move as indústrias no meio do dia da eleição"
  },
  "items": [
   {
@@ -43,7 +43,7 @@
   },
   {
    "id": "energia",
-   "dir": "mixed",
+   "dir": "up",
    "calor": 3,
    "mx": true,
    "latam": true,
@@ -51,28 +51,28 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo oscila 5 dólares en horas: sube por los ataques en Qeshm y cae 3% al abrir Wall Street",
-    "en": "Crude swings $5 in hours: up on the Qeshm strikes, down 3% at the Wall Street open",
-    "pt": "O petróleo oscila 5 dólares em horas: sobe pelos ataques em Qeshm e cai 3% na abertura de Wall Street"
+    "es": "Diésel en récord para un día de elección: 6.29 dólares por galón, pese a la caída del crudo",
+    "en": "Diesel at a record for an Election Day: $6.29 per gallon despite the drop in crude",
+    "pt": "Diesel em recorde para um dia de eleição: 6,29 dólares por galão apesar da queda do petróleo"
    },
    "x": {
-    "es": "El Brent llegó a subir 1.76% a 106.61 dólares en la madrugada por reportes de ataques de EE. UU. en la isla iraní de Qeshm, y al abrir Wall Street caía 3% a 101.54. El lunes había cerrado en 104.77 (−7.6%) por la vía diplomática; un funcionario iraní dijo que la negociación sigue lejos de un acuerdo.",
-    "en": "Brent rose as much as 1.76% to $106.61 overnight on reports of US strikes on Iran's Qeshm Island, and at the Wall Street open it was down 3% at $101.54. On Monday it closed at $104.77 (−7.6%) on the diplomatic track; an Iranian official said the talks remain far from a deal.",
-    "pt": "O Brent chegou a subir 1,76%, a 106,61 dólares, na madrugada por relatos de ataques dos EUA na ilha iraniana de Qeshm, e na abertura de Wall Street caía 3%, a 101,54. Na segunda havia fechado a 104,77 (−7,6%) pela via diplomática; um funcionário iraniano disse que a negociação segue longe de um acordo."
+    "es": "La AAA reportó gasolina en 4.14 y diésel en 6.29 dólares por galón, récords para un día de elección. El crudo se calmó a media sesión (WTI 96.08, −0.39%; Brent 103.33, −1.37%) después de oscilar unos 5 dólares en la mañana por los ataques en la isla iraní de Qeshm.",
+    "en": "AAA reported gasoline at $4.14 and diesel at $6.29 per gallon, records for an Election Day. Crude calmed at midday (WTI $96.08, −0.39%; Brent $103.33, −1.37%) after swinging about $5 in the morning on the strikes on Iran's Qeshm Island.",
+    "pt": "A AAA reportou gasolina a 4,14 e diesel a 6,29 dólares por galão, recordes para um dia de eleição. O petróleo se acalmou no meio da sessão (WTI 96,08, −0,39%; Brent 103,33, −1,37%) depois de oscilar cerca de 5 dólares pela manhã pelos ataques na ilha iraniana de Qeshm."
    },
    "scm": {
-    "es": "No ajustes recargos de combustible con el precio de un solo día: usa el promedio de las próximas dos semanas como referencia.",
-    "en": "Do not adjust fuel surcharges on a single day's price: use the average of the next two weeks as the reference.",
-    "pt": "Não ajuste sobretaxas de combustível com o preço de um só dia: use a média das próximas duas semanas como referência."
+    "es": "No aceptes bajas de recargo de combustible hasta que el índice semanal de diésel lo refleje: hoy la bomba sigue en récord.",
+    "en": "Do not accept fuel-surcharge cuts until the weekly diesel index reflects them: the pump is still at a record today.",
+    "pt": "Não aceite cortes de sobretaxa de combustível até que o índice semanal de diesel os reflita: hoje a bomba segue em recorde."
    },
    "fuentes": [
     {
-     "t": "Grafa: el petróleo sube por ataques en la isla de Qeshm",
-     "u": "https://grafa.com/en/news/united-states/oil-prices-rise-iran-qeshm-island-strikes-peace-talks"
+     "t": "Yahoo Finance: mercados en vivo, 3 de noviembre de 2026",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html"
     },
     {
-     "t": "Stock Titan: mercado en vivo, 3 de noviembre de 2026",
-     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
+     "t": "El CEO: BMV y Wall Street hoy, 3 de noviembre de 2026",
+     "u": "https://elceo.com/mercados/bmv-ipc-wall-street-hoy-3-de-noviembre-de-2026-apertura/"
     }
    ]
   },
@@ -130,9 +130,9 @@
     "pt": "A Zebra cai 13% apesar de crescer 22%: a memória mais cara pressiona suas margens"
    },
    "x": {
-    "es": "Zebra Technologies, que fabrica lectores, impresoras de etiquetas y equipos para almacén, vendió 1,610 millones de dólares en el tercer trimestre (+22.3%), pero su margen bruto bajó a 45.7% desde 48.0% por el mayor costo de los componentes de memoria, y su guía para el cuarto trimestre quedó apenas debajo del consenso. La acción caía 13% antes de la apertura.",
-    "en": "Zebra Technologies, which makes scanners, label printers and warehouse devices, sold $1.61 billion in the third quarter (+22.3%), but its gross margin fell to 45.7% from 48.0% on higher memory component costs, and its fourth-quarter guidance came in just below consensus. The stock was down 13% before the open.",
-    "pt": "A Zebra Technologies, que fabrica leitores, impressoras de etiquetas e equipamentos para armazém, vendeu 1,61 bilhão de dólares no terceiro trimestre (+22,3%), mas sua margem bruta caiu para 45,7% de 48,0% pelo maior custo dos componentes de memória, e sua projeção para o quarto trimestre ficou um pouco abaixo do consenso. A ação caía 13% antes da abertura."
+    "es": "Zebra Technologies, que fabrica lectores, impresoras de etiquetas y equipos para almacén, vendió 1,610 millones de dólares en el tercer trimestre (+22.3%), pero su margen bruto bajó a 45.7% desde 48.0% por el mayor costo de los componentes de memoria, y su guía para el cuarto trimestre quedó apenas debajo del consenso. La acción caía 13% antes de la apertura. Del lado de la ciberseguridad, CrowdStrike acordó comprar dos empresas de seguridad con IA por 495 millones de dólares.",
+    "en": "Zebra Technologies, which makes scanners, label printers and warehouse devices, sold $1.61 billion in the third quarter (+22.3%), but its gross margin fell to 45.7% from 48.0% on higher memory component costs, and its fourth-quarter guidance came in just below consensus. The stock was down 13% before the open. On the cybersecurity side, CrowdStrike agreed to buy two AI security startups for $495 million.",
+    "pt": "A Zebra Technologies, que fabrica leitores, impressoras de etiquetas e equipamentos para armazém, vendeu 1,61 bilhão de dólares no terceiro trimestre (+22,3%), mas sua margem bruta caiu para 45,7% de 48,0% pelo maior custo dos componentes de memória, e sua projeção para o quarto trimestre ficou um pouco abaixo do consenso. A ação caía 13% antes da abertura. No lado da cibersegurança, a CrowdStrike fechou a compra de duas empresas de segurança com IA por 495 milhões de dólares."
    },
    "scm": {
     "es": "Si planeas renovar escáneres o terminales de almacén, pide cotización ya: el alza en memoria puede trasladarse a precios en 2027.",
@@ -143,6 +143,10 @@
     {
      "t": "Tradingpedia: Zebra cae pese a superar estimados",
      "u": "https://www.tradingpedia.com/2026/11/03/zebra-slips-as-cautious-outlook-overshadows-strong-beat/"
+    },
+    {
+     "t": "Yahoo Finance: mercados en vivo, 3 de noviembre de 2026",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html"
     }
    ]
   },

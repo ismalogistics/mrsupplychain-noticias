@@ -1,0 +1,71 @@
+{
+ "id": "2026-11-03-mediodia-global",
+ "fecha": "2026-11-03",
+ "momento": "mediodia",
+ "mercado": "global",
+ "hora": "11:40 CDMX",
+ "es": {
+  "titular": "La tecnología sostiene a Wall Street a media sesión (Nasdaq +0.9%) mientras el Dow cae 0.5% por Apple; el diésel marca récord para un día de elección",
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "El brief de apertura veía una sesión mixta: rebote en chips, presión de Apple y Shopify, un crudo muy volátil por los ataques en Qeshm y un JOLTS fuerte (7.523 millones de vacantes) que sostiene las tasas altas."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:36 CDMX, el Nasdaq sube 0.93% (25,399.29) y el S&P 500 0.43% (7,573.75), mientras el Dow cae 0.50% (51,722.83). El WTI baja 0.39% a 96.08 dólares y el Brent ronda 103; el Treasury a 10 años sube a 4.96% (+6 pb), el oro cae 0.78% (3,938.70) y el Bitcoin sube 0.74% (77,600)."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El rebote en tecnología fue más amplio de lo esperado: los chips se recuperan después de que el índice de semiconductores entró en mercado bajista el lunes, y CrowdStrike acordó comprar dos empresas de seguridad con IA por 495 millones de dólares. La AAA reportó precios récord para un día de elección: gasolina en 4.14 y diésel en 6.29 dólares por galón. El alza de 6 pb en el Treasury tras el JOLTS es otra señal de tasas altas por más tiempo."
+   }
+  ],
+  "scm": "El diésel en 6.29 dólares por galón confirma que el alivio del crudo del lunes todavía no llega a la bomba: no aceptes bajas de recargo de combustible sin ver el índice semanal de diésel. Con el Treasury en 4.96%, financiar inventario sigue caro: revisa tus días de cobertura antes de la temporada alta."
+ },
+ "en": {
+  "titular": "Tech holds up Wall Street at midday (Nasdaq +0.9%) while the Dow falls 0.5% on Apple; diesel hits a record for an Election Day",
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "The opening brief saw a mixed session: a rebound in chips, pressure from Apple and Shopify, very volatile crude on the Qeshm strikes and a strong JOLTS reading (7.523 million openings) that supports high rates."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:36 a.m. Mexico City time, the Nasdaq is up 0.93% (25,399.29) and the S&P 500 0.43% (7,573.75), while the Dow is down 0.50% (51,722.83). WTI is down 0.39% at $96.08 and Brent is around $103; the 10-year Treasury rises to 4.96% (+6 bp), gold falls 0.78% (3,938.70) and Bitcoin rises 0.74% (77,600)."
+   },
+   {
+    "t": "What surprised",
+    "x": "The tech rebound was broader than expected: chips are recovering after the semiconductor index entered a bear market on Monday, and CrowdStrike agreed to buy two AI security startups for $495 million. AAA reported record prices for an Election Day: gasoline at $4.14 and diesel at $6.29 per gallon. The 6 bp rise in the Treasury after JOLTS is another sign of higher-for-longer rates."
+   }
+  ],
+  "scm": "Diesel at $6.29 per gallon confirms Monday's crude relief has not reached the pump yet: do not accept fuel-surcharge cuts without seeing the weekly diesel index. With the Treasury at 4.96%, financing inventory is still expensive: review your days of cover before peak season."
+ },
+ "pt": {
+  "titular": "A tecnologia sustenta Wall Street no meio da sessão (Nasdaq +0,9%) enquanto o Dow cai 0,5% pela Apple; o diesel bate recorde para um dia de eleição",
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "O brief de abertura via uma sessão mista: alta nos chips, pressão da Apple e da Shopify, um petróleo muito volátil pelos ataques em Qeshm e um JOLTS forte (7,523 milhões de vagas) que sustenta os juros altos."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h36 (Cidade do México), o Nasdaq sobe 0,93% (25.399,29) e o S&P 500 0,43% (7.573,75), enquanto o Dow cai 0,50% (51.722,83). O WTI recua 0,39% a 96,08 dólares e o Brent gira em torno de 103; o título do Tesouro de 10 anos sobe a 4,96% (+6 pb), o ouro cai 0,78% (3.938,70) e o Bitcoin sobe 0,74% (77.600)."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A alta na tecnologia foi mais ampla que o esperado: os chips se recuperam depois que o índice de semicondutores entrou em mercado de baixa na segunda, e a CrowdStrike fechou a compra de duas empresas de segurança com IA por 495 milhões de dólares. A AAA reportou preços recorde para um dia de eleição: gasolina a 4,14 e diesel a 6,29 dólares por galão. A alta de 6 pb no Tesouro após o JOLTS é outro sinal de juros altos por mais tempo."
+   }
+  ],
+  "scm": "O diesel a 6,29 dólares por galão confirma que o alívio do petróleo de segunda ainda não chegou à bomba: não aceite cortes de sobretaxa de combustível sem ver o índice semanal de diesel. Com o Tesouro a 4,96%, financiar estoque segue caro: revise seus dias de cobertura antes da alta temporada."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: mercados en vivo, 3 de noviembre de 2026",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html"
+  },
+  {
+   "t": "Trading Economics: JOLTS de septiembre de 2026",
+   "u": "https://tradingeconomics.com/united-states/job-offers"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "id": "2026-11-03-mediodia-mexico",
+ "fecha": "2026-11-03",
+ "momento": "mediodia",
+ "mercado": "mexico",
+ "hora": "11:40 CDMX",
+ "es": {
+  "titular": "El IPC rebota más de 1% al reabrir, impulsado por aerolíneas y aeropuertos, mientras el peso sigue debilitándose hacia 18.72",
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "El brief de apertura veía al peso cediendo a 18.66 tras el JOLTS fuerte, la BMV reabriendo después del feriado, la subasta de Cetes y el FIX vigente de 18.7962 para liquidar hoy."
+   },
+   {
+    "t": "Cómo va",
+    "x": "El IPC abrió con alza de 1.14% a 70,575.5 puntos, arriba de 70,000 por primera vez desde el 21 de octubre; Volaris sube 7%, GAP 3.6% y Asur 3.1%. El peso se debilitó a 18.72 por dólar hacia las 9:30 CDMX, desde el cierre de 18.57 del lunes. El FIX de hoy se publica a mediodía."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "La BMV reaccionó con fuerza al reabrir, con aerolíneas y aeropuertos al frente gracias al crudo más barato del lunes, mientras el peso no siguió el optimismo: lo pesan el alza del Treasury a 4.96% y la cautela ante el resultado electoral."
+   }
+  ],
+  "scm": "El peso en 18.72 encarece tus pagos en dólares respecto al lunes: si no cubriste, hazlo antes del cierre y deja el resto para después de Banxico. El buen día de aerolíneas y aeropuertos no cambia el costo de la carga aérea: el diésel y la turbosina siguen caros."
+ },
+ "en": {
+  "titular": "The IPC rebounds more than 1% as it reopens, led by airlines and airports, while the peso keeps weakening toward 18.72",
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "The opening brief saw the peso easing to 18.66 after strong JOLTS, the BMV reopening after the holiday, the Cetes auction and the 18.7962 FIX in effect for today's settlements."
+   },
+   {
+    "t": "How it is going",
+    "x": "The IPC opened up 1.14% at 70,575.5 points, above 70,000 for the first time since October 21; Volaris is up 7%, GAP 3.6% and Asur 3.1%. The peso weakened to 18.72 per dollar by 9:30 a.m. Mexico City time, from Monday's 18.57 close. Today's FIX is published at midday."
+   },
+   {
+    "t": "What surprised",
+    "x": "The BMV reacted strongly on reopening, led by airlines and airports thanks to Monday's cheaper crude, while the peso did not share the optimism: the rise in the Treasury to 4.96% and caution ahead of the election result weigh on it."
+   }
+  ],
+  "scm": "The peso at 18.72 makes your dollar payments more expensive than on Monday: if you have not hedged, do it before the close and leave the rest until after Banxico. The good day for airlines and airports does not change the cost of air cargo: diesel and jet fuel remain expensive."
+ },
+ "pt": {
+  "titular": "O IPC sobe mais de 1% na reabertura, puxado por aéreas e aeroportos, enquanto o peso segue se enfraquecendo rumo a 18,72",
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "O brief de abertura via o peso recuando a 18,66 após o JOLTS forte, a BMV reabrindo após o feriado, o leilão de Cetes e o FIX vigente de 18,7962 para as liquidações de hoje."
+   },
+   {
+    "t": "Como está",
+    "x": "O IPC abriu em alta de 1,14%, aos 70.575,5 pontos, acima de 70.000 pela primeira vez desde 21 de outubro; Volaris sobe 7%, GAP 3,6% e Asur 3,1%. O peso se enfraqueceu a 18,72 por dólar por volta das 9h30 (Cidade do México), ante o fechamento de 18,57 de segunda. O FIX de hoje sai ao meio-dia."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A BMV reagiu com força na reabertura, com aéreas e aeroportos à frente graças ao petróleo mais barato de segunda, enquanto o peso não acompanhou o otimismo: pesam a alta do Tesouro a 4,96% e a cautela antes do resultado eleitoral."
+   }
+  ],
+  "scm": "O peso a 18,72 encarece seus pagamentos em dólares em relação à segunda: se não protegeu, faça antes do fechamento e deixe o resto para depois do Banxico. O bom dia de aéreas e aeroportos não muda o custo da carga aérea: diesel e querosene de aviação seguem caros."
+ },
+ "fuentes": [
+  {
+   "t": "El CEO: BMV y Wall Street hoy, 3 de noviembre de 2026",
+   "u": "https://elceo.com/mercados/bmv-ipc-wall-street-hoy-3-de-noviembre-de-2026-apertura/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "UnoTV: tipo de cambio publicado por Banxico, 3 de noviembre",
+   "u": "https://www.unotv.com/dolar-hoy/dolar-cotiza-en-18-79-pesos-este-martes-3-de-noviembre-de-2026/"
+  }
+ ]
+}
