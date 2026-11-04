@@ -1,0 +1,75 @@
+{
+ "id": "2026-11-04-apertura-mexico",
+ "fecha": "2026-11-04",
+ "momento": "apertura",
+ "mercado": "mexico",
+ "hora": "09:10 CDMX",
+ "es": {
+  "titular": "El peso se recupera a 18.65 por dólar (+0.95%) con el dólar débil tras la elección; Banxico decide mañana",
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 7:09 CDMX el peso cotizaba en 18.6537 por dólar, 0.95% mejor que el cierre del martes, con un rango nocturno de 18.57 a 18.87; hacia las 8:30 seguía en 18.67. El FIX determinado el martes, publicado hoy en el DOF, fue 18.7592. En ventanilla, el dólar se vende entre 19.05 y 19.32 en los bancos grandes."
+   },
+   {
+    "t": "Contexto",
+    "x": "El control demócrata del Congreso debilitó al dólar (índice −0.58%, en 101.26) y devolvió atractivo a las monedas emergentes; analistas lo leen como un límite a cambios comerciales abruptos. El ADP de EE. UU. (86 mil empleos contra 67 mil esperados) no frenó la recuperación."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Sin datos relevantes de INEGI hoy. Mañana jueves decide Banxico con la tasa en 6.50%: Banco Base advierte que un recorte llevaría el diferencial con EE. UU. a mínimos y podría presionar al peso."
+   }
+  ],
+  "scm": "El peso en 18.65 recupera la mayor parte de la caída del martes: si tienes pagos en dólares de noviembre sin cubrir, cubre una parte hoy y deja el resto para después de Banxico. Ojo con las cotizaciones de ventanilla, muy por encima del interbancario: usa cobertura bancaria, no efectivo."
+ },
+ "en": {
+  "titular": "The peso recovers to 18.65 per dollar (+0.95%) as the dollar weakens after the election; Banxico decides tomorrow",
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "At 7:09 a.m. Mexico City time the peso traded at 18.6537 per dollar, 0.95% stronger than Tuesday's close, with an overnight range of 18.57 to 18.87; by 8:30 it was at 18.67. The FIX set on Tuesday, published today in the DOF, was 18.7592. At branches, big banks sell dollars between 19.05 and 19.32."
+   },
+   {
+    "t": "Context",
+    "x": "Democratic control of Congress weakened the dollar (index −0.58%, at 101.26) and restored appeal to emerging-market currencies; analysts read it as a limit on abrupt trade changes. US ADP (86,000 jobs vs. 67,000 expected) did not stop the recovery."
+   },
+   {
+    "t": "What to expect today",
+    "x": "No major INEGI data today. Banxico decides tomorrow, Thursday, with the rate at 6.50%: Banco Base warns that a cut would take the gap with the US to record lows and could pressure the peso."
+   }
+  ],
+  "scm": "The peso at 18.65 recovers most of Tuesday's drop: if you have unhedged November dollar payments, hedge part today and leave the rest until after Banxico. Watch branch quotes, well above interbank: use bank hedging, not cash."
+ },
+ "pt": {
+  "titular": "O peso se recupera a 18,65 por dólar (+0,95%) com o dólar fraco após a eleição; o Banxico decide amanhã",
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 7h09 (Cidade do México) o peso era cotado a 18,6537 por dólar, 0,95% melhor que o fechamento de terça, com faixa noturna de 18,57 a 18,87; por volta das 8h30 seguia em 18,67. O FIX determinado na terça, publicado hoje no DOF, foi 18,7592. Nas agências, os grandes bancos vendem o dólar entre 19,05 e 19,32."
+   },
+   {
+    "t": "Contexto",
+    "x": "O controle democrata do Congresso enfraqueceu o dólar (índice −0,58%, em 101,26) e devolveu atratividade às moedas emergentes; analistas leem isso como limite a mudanças comerciais abruptas. O ADP dos EUA (86 mil empregos contra 67 mil esperados) não freou a recuperação."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Sem dados relevantes do INEGI hoje. Amanhã, quinta, decide o Banxico com a taxa em 6,50%: o Banco Base alerta que um corte levaria o diferencial com os EUA a mínimos e poderia pressionar o peso."
+   }
+  ],
+  "scm": "O peso a 18,65 recupera a maior parte da queda de terça: se você tem pagamentos em dólares de novembro sem proteção, proteja uma parte hoje e deixe o resto para depois do Banxico. Atenção às cotações de agência, muito acima do interbancário: use proteção bancária, não dinheiro em espécie."
+ },
+ "fuentes": [
+  {
+   "t": "El CEO: precio del dólar hoy, 4 de noviembre de 2026",
+   "u": "https://elceo.com/mercados/precio-del-dolar-hoy-4-de-noviembre-de-2026/"
+  },
+  {
+   "t": "N+: tipo de cambio y FIX del 4 de noviembre",
+   "u": "https://www.nmas.com.mx/economia/dolar/como-esta-tipo-de-cambio-peso-dolar-estadounidense-mexico-miercoles-4-noviembre-2026/"
+  },
+  {
+   "t": "MarketScreener: ADP de octubre supera lo esperado",
+   "u": "https://www.marketscreener.com/news/october-adp-us-private-payrolls-rise-more-than-expected-ahead-of-bls-data-ce785fdfdd8df223"
+  }
+ ]
+}

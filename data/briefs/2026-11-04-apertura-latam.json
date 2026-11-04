@@ -1,0 +1,71 @@
+{
+ "id": "2026-11-04-apertura-latam",
+ "fecha": "2026-11-04",
+ "momento": "apertura",
+ "mercado": "latam",
+ "hora": "09:10 CDMX",
+ "es": {
+  "titular": "La región rebota con EE. UU.: el fondo de Chile sube 3%, Canadá 1.3% y el Ibovespa 0.8% antes del Copom",
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "Con los datos de las 8:34 CDMX, el fondo de Chile (ECH) subía 3.07%, el de Argentina 1.3%, el S&P/TSX de Canadá 1.26% (35,979.62) y el Ibovespa 0.84% (166,915). El fondo de Perú y el COLCAP aún mostraban sus cierres del martes. En monedas, el real se apreciaba a 5.47 por dólar y el peso chileno a 970.96, mientras el mexicano estaba en 18.67."
+   },
+   {
+    "t": "Contexto",
+    "x": "El Congreso demócrata en EE. UU. debilitó al dólar y dio impulso a los emergentes. En Brasil, una encuesta de Reuters apunta a que el Banco Central mantendrá la Selic y pausará los recortes; analistas ven también posible espacio para negociar aranceles con EE. UU."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "El Copom anuncia la Selic al cierre de la tarde; mañana decide Banxico. Para quien exporta por la costa oeste de EE. UU., el plazo de huelga en Long Beach vence a las 18:00 CDMX."
+   }
+  ],
+  "scm": "El dólar débil abarata hoy las compras en monedas de la región, pero el peso chileno fuerte encarece lo que pagas en pesos chilenos: revisa en qué moneda conviene cotizar el trimestre. Espera al Copom antes de liquidar reales no urgentes."
+ },
+ "en": {
+  "titular": "The region rebounds with the US: the Chile fund rises 3%, Canada 1.3% and the Ibovespa 0.8% before Copom",
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "With data as of 8:34 a.m. Mexico City time, the Chile fund (ECH) was up 3.07%, the Argentina fund 1.3%, Canada's S&P/TSX 1.26% (35,979.62) and the Ibovespa 0.84% (166,915). The Peru fund and the COLCAP still showed Tuesday's closes. In currencies, the real strengthened to 5.47 per dollar and the Chilean peso to 970.96, while the Mexican peso was at 18.67."
+   },
+   {
+    "t": "Context",
+    "x": "The Democratic Congress in the US weakened the dollar and lifted emerging markets. In Brazil, a Reuters poll points to the central bank holding the Selic and pausing cuts; analysts also see possible room to negotiate tariffs with the US."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Copom announces the Selic late in the afternoon; Banxico decides tomorrow. For those exporting through the US West Coast, the Long Beach strike deadline expires at 6:00 p.m. Mexico City time."
+   }
+  ],
+  "scm": "The weak dollar makes purchases in regional currencies cheaper today, but the strong Chilean peso makes what you pay in Chilean pesos more expensive: review which currency to quote the quarter in. Wait for Copom before settling non-urgent reais."
+ },
+ "pt": {
+  "titular": "A região sobe com os EUA: o fundo do Chile sobe 3%, o Canadá 1,3% e o Ibovespa 0,8% antes do Copom",
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Com os dados das 8h34 (Cidade do México), o fundo do Chile (ECH) subia 3,07%, o da Argentina 1,3%, o S&P/TSX do Canadá 1,26% (35.979,62) e o Ibovespa 0,84% (166.915). O fundo do Peru e o COLCAP ainda mostravam os fechamentos de terça. Nas moedas, o real se valorizava a R$ 5,47 por dólar e o peso chileno a 970,96, enquanto o mexicano estava em 18,67."
+   },
+   {
+    "t": "Contexto",
+    "x": "O Congresso democrata nos EUA enfraqueceu o dólar e impulsionou os emergentes. No Brasil, uma pesquisa da Reuters aponta que o Banco Central manterá a Selic e pausará os cortes; analistas veem também possível espaço para negociar tarifas com os EUA."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "O Copom anuncia a Selic no fim da tarde; amanhã decide o Banxico. Para quem exporta pela costa oeste dos EUA, o prazo da greve em Long Beach vence às 18h (Cidade do México)."
+   }
+  ],
+  "scm": "O dólar fraco barateia hoje as compras em moedas da região, mas o peso chileno forte encarece o que você paga em pesos chilenos: revise em qual moeda convém cotar o trimestre. Espere o Copom antes de liquidar reais não urgentes."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "InfoMoney: Ibovespa hoje ao vivo, 4 de novembro de 2026",
+   "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-04112026/"
+  }
+ ]
+}

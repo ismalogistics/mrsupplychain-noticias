@@ -1,0 +1,91 @@
+{
+ "id": "2026-11-04-apertura-global",
+ "fecha": "2026-11-04",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:10 CDMX",
+ "es": {
+  "titular": "Wall Street celebra el Congreso demócrata: el Dow sube más de 1,000 puntos al abrir, AMD gana y el oro salta casi 3%",
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "Los futuros ya subían por la victoria demócrata en ambas cámaras, y el ADP de octubre mostró 86 mil empleos privados nuevos, arriba de los 67 mil esperados. Al abrir, el Dow subía 1,009 puntos (1.9%) y el S&P 500 y el Nasdaq 1.1% cada uno. AMD ganaba cerca de 6% antes de la apertura tras un reporte con ventas de centros de datos que casi se duplicaron, mientras Amdocs (−36%) y FIS (−23%) caían por sus resultados. El WTI baja 0.85% a 95.27 dólares y el Brent 1.21% a 102.30; el oro sube 2.86% a 4,052.90 y la plata 4.94%."
+   },
+   {
+    "t": "Asia y Europa",
+    "x": "El Nikkei cerró con −1.42% (62,188.63) y el KOSPI rebotó 0.62% (5,683.80); Hong Kong y Shanghái subían más de 1% en la tarde local. Europa avanza, con bancos y renovables al frente."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "A las 18:00 CDMX vence el plazo de huelga de los guardias (ILWU Local 26) en Los Ángeles–Long Beach; si estalla, los estibadores podrían respetar los piquetes en terminales que mueven 85% de la carga de Long Beach. El Copom de Brasil anuncia la Selic al cierre de la tarde y Banxico decide mañana."
+   }
+  ],
+  "scm": "El mercado leyó al Congreso demócrata como un freno a cambios comerciales bruscos, y el dólar se debilita: es un buen día para cubrir pagos en dólares. Lo crítico es Long Beach a las 18:00 CDMX: si tienes contenedores en esas terminales, ten listo el desvío y avisa a tus clientes de posibles retrasos."
+ },
+ "en": {
+  "titular": "Wall Street cheers a Democratic Congress: the Dow jumps over 1,000 points at the open, AMD gains and gold leaps nearly 3%",
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "Futures were already rising on the Democratic win in both chambers, and October ADP showed 86,000 new private jobs, above the 67,000 expected. At the open the Dow was up 1,009 points (1.9%) and the S&P 500 and Nasdaq 1.1% each. AMD was up about 6% before the open after a report with data center sales nearly doubling, while Amdocs (−36%) and FIS (−23%) fell on their results. WTI is down 0.85% at $95.27 and Brent 1.21% at $102.30; gold is up 2.86% at 4,052.90 and silver 4.94%."
+   },
+   {
+    "t": "Asia and Europe",
+    "x": "The Nikkei closed down 1.42% (62,188.63) and the KOSPI rebounded 0.62% (5,683.80); Hong Kong and Shanghai were up more than 1% in the local afternoon. Europe is higher, led by banks and renewables."
+   },
+   {
+    "t": "What to expect today",
+    "x": "At 6:00 p.m. Mexico City time the security guards' (ILWU Local 26) strike deadline at Los Angeles–Long Beach expires; if a strike starts, dockworkers could honor picket lines at terminals handling 85% of Long Beach cargo. Brazil's Copom announces the Selic late in the afternoon and Banxico decides tomorrow."
+   }
+  ],
+  "scm": "The market read the Democratic Congress as a brake on abrupt trade changes, and the dollar is weakening: a good day to hedge dollar payments. The critical item is Long Beach at 6:00 p.m. Mexico City time: if you have containers at those terminals, have the diversion ready and warn your customers about possible delays."
+ },
+ "pt": {
+  "titular": "Wall Street comemora o Congresso democrata: o Dow sobe mais de 1.000 pontos na abertura, a AMD ganha e o ouro salta quase 3%",
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Os futuros já subiam com a vitória democrata nas duas casas, e o ADP de outubro mostrou 86 mil novos empregos privados, acima dos 67 mil esperados. Na abertura, o Dow subia 1.009 pontos (1,9%) e o S&P 500 e o Nasdaq 1,1% cada. A AMD ganhava cerca de 6% antes da abertura após um balanço com vendas de data centers que quase dobraram, enquanto Amdocs (−36%) e FIS (−23%) caíam pelos resultados. O WTI recua 0,85% a 95,27 dólares e o Brent 1,21% a 102,30; o ouro sobe 2,86% a 4.052,90 e a prata 4,94%."
+   },
+   {
+    "t": "Ásia e Europa",
+    "x": "O Nikkei fechou em −1,42% (62.188,63) e o KOSPI subiu 0,62% (5.683,80); Hong Kong e Xangai subiam mais de 1% na tarde local. A Europa avança, com bancos e renováveis à frente."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Às 18h (Cidade do México) vence o prazo da greve dos vigilantes (ILWU Local 26) em Los Angeles–Long Beach; se começar, os estivadores poderiam respeitar os piquetes em terminais que movimentam 85% da carga de Long Beach. O Copom anuncia a Selic no fim da tarde e o Banxico decide amanhã."
+   }
+  ],
+  "scm": "O mercado leu o Congresso democrata como um freio a mudanças comerciais bruscas, e o dólar se enfraquece: é um bom dia para proteger pagamentos em dólares. O crítico é Long Beach às 18h (Cidade do México): se você tem contêineres nesses terminais, deixe o desvio pronto e avise seus clientes sobre possíveis atrasos."
+ },
+ "fuentes": [
+  {
+   "t": "ABC News: el Dow sube 1,000 puntos tras el control demócrata del Congreso",
+   "u": "https://abcnews.com/Business/dow-surges-1000-points-democrats-control-congress/story?id=137842989"
+  },
+  {
+   "t": "MarketScreener: ADP de octubre supera lo esperado",
+   "u": "https://www.marketscreener.com/news/october-adp-us-private-payrolls-rise-more-than-expected-ahead-of-bls-data-ce785fdfdd8df223"
+  },
+  {
+   "t": "Yahoo Finance: futuros y AMD tras la elección (4 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html"
+  },
+  {
+   "t": "TheStreet: Stock Market Today, 4 de noviembre de 2026",
+   "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+  },
+  {
+   "t": "Aju Press: el KOSPI rebota y Asia diverge tras la elección en EE. UU.",
+   "u": "https://www.ajupress.com/view/20261104163233815"
+  },
+  {
+   "t": "Bloomberg: las bolsas europeas suben tras la victoria demócrata",
+   "u": "https://www.bloomberg.com/news/articles/2026-11-04/european-stocks-set-to-dip-as-democrat-sweep-stokes-ai-worries"
+  },
+  {
+   "t": "IAM: el plazo de huelga en Los Ángeles–Long Beach se mueve al 4 de noviembre",
+   "u": "https://iamovers.org/news/l-a-long-beach-port-strike-deadline-pushed-to-4-november-as-talks-continue/"
+  }
+ ]
+}

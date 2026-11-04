@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-03T21:19:04Z",
- "fecha": "2026-11-03",
+ "actualizado": "2026-11-04T15:13:52Z",
+ "fecha": "2026-11-04",
  "titular": {
-  "es": "Diésel en récord, chips al rebote y pérdidas en el autotransporte: el resumen de las industrias en el día de la elección",
-  "en": "Record diesel, a chip rebound and trucking losses: the industry summary for Election Day",
-  "pt": "Diesel em recorde, alta dos chips e prejuízo no transporte rodoviário: o resumo das indústrias no dia da eleição"
+  "es": "Long Beach al filo de la huelga, AMD al alza y metales con el dólar débil: lo que mueve a las industrias tras la elección",
+  "en": "Long Beach on the brink of a strike, AMD higher and metals on a weak dollar: what moves industries after the election",
+  "pt": "Long Beach à beira da greve, AMD em alta e metais com o dólar fraco: o que move as indústrias após a eleição"
  },
  "items": [
   {
@@ -16,49 +16,81 @@
    "en": "Maritime and ports",
    "pt": "Marítimo e portos",
    "titular": {
-    "es": "Los Ángeles–Long Beach: el plazo de una posible huelga es ahora el miércoles 4 a las 17:00",
-    "en": "Los Angeles–Long Beach: a possible strike deadline is now Wednesday the 4th at 5 p.m.",
-    "pt": "Los Angeles–Long Beach: o prazo de uma possível greve agora é quarta-feira, dia 4, às 17h"
+    "es": "Hoy vence el plazo de huelga en Los Ángeles–Long Beach: seis terminales en riesgo desde las 18:00 CDMX",
+    "en": "The Los Angeles–Long Beach strike deadline expires today: six terminals at risk from 6:00 p.m. Mexico City time",
+    "pt": "Hoje vence o prazo da greve em Los Angeles–Long Beach: seis terminais em risco a partir das 18h (Cidade do México)"
    },
    "x": {
-    "es": "Los empleadores (PMA) y el sindicato de vigilantes ILWU Local 26 volvieron a extender el contrato, ahora hasta el miércoles 4 de noviembre a las 17:00 (hora del Pacífico), y siguen negociando con el Servicio Federal de Mediación. Son unos 250 trabajadores, cerca de 2% de la plantilla sindicalizada, pero la PMA dice que manejan más de la mitad de la carga combinada de ambos puertos, y se espera que el resto del ILWU los respalde.",
-    "en": "Employers (PMA) and the ILWU Local 26 watchmen's union extended the contract again, now until Wednesday, November 4 at 5 p.m. Pacific time, and keep negotiating with the Federal Mediation and Conciliation Service. They are about 250 workers, roughly 2% of the unionized workforce, but the PMA says they handle more than half of the two ports' combined cargo, and the rest of the ILWU is expected to back them.",
-    "pt": "Os empregadores (PMA) e o sindicato de vigias ILWU Local 26 voltaram a estender o contrato, agora até quarta-feira, 4 de novembro, às 17h (horário do Pacífico), e seguem negociando com o Serviço Federal de Mediação. São cerca de 250 trabalhadores, perto de 2% da força sindicalizada, mas a PMA diz que movimentam mais da metade da carga combinada dos dois portos, e espera-se que o restante do ILWU os apoie."
+    "es": "Los cerca de 250 guardias de ILWU Local 26 pospusieron su huelga hasta las 17:00 del Pacífico de este miércoles mientras negocian con la PMA con un mediador federal. Si estalla, la PMA espera que los estibadores respeten los piquetes en seis terminales, que mueven cerca de 85% de la carga de Long Beach y un tercio de la de Los Ángeles.",
+    "en": "About 250 ILWU Local 26 watchmen postponed their strike until 5 p.m. Pacific this Wednesday while they negotiate with the PMA with a federal mediator. If it starts, the PMA expects dockworkers to honor picket lines at six terminals handling about 85% of Long Beach cargo and a third of Los Angeles cargo.",
+    "pt": "Os cerca de 250 vigilantes do ILWU Local 26 adiaram a greve até as 17h do Pacífico desta quarta enquanto negociam com a PMA com um mediador federal. Se começar, a PMA espera que os estivadores respeitem os piquetes em seis terminais, que movimentam cerca de 85% da carga de Long Beach e um terço da de Los Angeles."
    },
    "scm": {
-    "es": "Si tienes contenedores transpacíficos por San Pedro, confirma hoy citas para retirarlos antes del miércoles y deja listo el desvío a Oakland o Lázaro Cárdenas.",
-    "en": "If you have transpacific containers through San Pedro, confirm pickup appointments before Wednesday today and have the diversion to Oakland or Lázaro Cárdenas ready.",
-    "pt": "Se você tem contêineres transpacíficos por San Pedro, confirme hoje agendamentos de retirada antes de quarta-feira e deixe pronto o desvio para Oakland ou Lázaro Cárdenas."
+    "es": "Confirma hoy con tu agente qué contenedores tienes en APM, LBCT, TTI, SSA y PCT, y ten reservado el desvío a Oakland o a Lázaro Cárdenas.",
+    "en": "Confirm today with your agent which containers you have at APM, LBCT, TTI, SSA and PCT, and have the diversion to Oakland or Lázaro Cárdenas booked.",
+    "pt": "Confirme hoje com seu agente quais contêineres você tem em APM, LBCT, TTI, SSA e PCT, e deixe reservado o desvio para Oakland ou Lázaro Cárdenas."
    },
    "fuentes": [
     {
-     "t": "FreshFruitPortal: nueva fecha límite de huelga en LA–Long Beach",
-     "u": "https://www.freshfruitportal.com/news/2026/11/02/la-long-beach-strike/"
+     "t": "IAM: el plazo de huelga en Los Ángeles–Long Beach se mueve al 4 de noviembre",
+     "u": "https://iamovers.org/news/l-a-long-beach-port-strike-deadline-pushed-to-4-november-as-talks-continue/"
+    }
+   ],
+   "latam": true
+  },
+  {
+   "id": "semis",
+   "dir": "up",
+   "calor": 3,
+   "mx": false,
+   "latam": false,
+   "es": "Semiconductores y electrónica",
+   "en": "Semiconductors and electronics",
+   "pt": "Semicondutores e eletrônicos",
+   "titular": {
+    "es": "AMD sube cerca de 6% tras un reporte con ventas de centros de datos que casi se duplicaron",
+    "en": "AMD rises about 6% after a report with data center sales nearly doubling",
+    "pt": "A AMD sobe cerca de 6% após um balanço com vendas de data centers que quase dobraram"
+   },
+   "x": {
+    "es": "AMD superó estimados en el tercer trimestre y sus ventas de centros de datos casi se duplicaron; la acción subía cerca de 6% antes de la apertura. En cambio, Nvidia y Micron caían más de 1% en premercado por la preocupación de una regulación más estricta de la IA con un Congreso demócrata.",
+    "en": "AMD beat estimates in the third quarter and its data center sales nearly doubled; the stock was up about 6% before the open. By contrast, Nvidia and Micron fell more than 1% pre-market on concerns about tighter AI regulation under a Democratic Congress.",
+    "pt": "A AMD superou as estimativas no terceiro trimestre e suas vendas de data centers quase dobraram; a ação subia cerca de 6% antes da abertura. Já Nvidia e Micron caíam mais de 1% no pré-mercado pela preocupação com uma regulação mais rígida da IA com um Congresso democrata."
+   },
+   "scm": {
+    "es": "La demanda de centros de datos sigue absorbiendo chips y memoria: asegura asignaciones del primer trimestre con tus distribuidores de electrónica.",
+    "en": "Data center demand keeps absorbing chips and memory: secure first-quarter allocations with your electronics distributors.",
+    "pt": "A demanda de data centers segue absorvendo chips e memória: garanta alocações do primeiro trimestre com seus distribuidores de eletrônicos."
+   },
+   "fuentes": [
+    {
+     "t": "Yahoo Finance: futuros y AMD tras la elección (4 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html"
     },
     {
-     "t": "SupplyChainBrain: el plazo de huelga en Long Beach pasa al 4 de noviembre",
-     "u": "https://www.supplychainbrain.com/articles/45135-port-workers-employers-push-long-beach-strike-threat-to-nov-4"
+     "t": "TheStreet: Stock Market Today, 4 de noviembre de 2026",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
     }
    ]
   },
   {
    "id": "energia",
-   "dir": "up",
-   "calor": 3,
+   "dir": "mixed",
+   "calor": 2,
    "mx": true,
    "latam": true,
    "es": "Energía y combustibles",
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "Diésel en récord para un día de elección: 6.29 dólares por galón, pese a la caída del crudo",
-    "en": "Diesel at a record for an Election Day: $6.29 per gallon despite the drop in crude",
-    "pt": "Diesel em recorde para um dia de eleição: 6,29 dólares por galão apesar da queda do petróleo"
+    "es": "El crudo cede tras la elección (WTI 95.27, Brent 102.30), pero el diésel sigue en récord",
+    "en": "Crude eases after the election (WTI $95.27, Brent $102.30), but diesel remains at a record",
+    "pt": "O petróleo recua após a eleição (WTI 95,27, Brent 102,30), mas o diesel segue em recorde"
    },
    "x": {
-    "es": "La AAA reportó gasolina en 4.14 y diésel en 6.29 dólares por galón, récords para un día de elección. El crudo se calmó a media sesión (WTI 96.08, −0.39%; Brent 103.33, −1.37%) después de oscilar unos 5 dólares en la mañana por los ataques en la isla iraní de Qeshm.",
-    "en": "AAA reported gasoline at $4.14 and diesel at $6.29 per gallon, records for an Election Day. Crude calmed at midday (WTI $96.08, −0.39%; Brent $103.33, −1.37%) after swinging about $5 in the morning on the strikes on Iran's Qeshm Island.",
-    "pt": "A AAA reportou gasolina a 4,14 e diesel a 6,29 dólares por galão, recordes para um dia de eleição. O petróleo se acalmou no meio da sessão (WTI 96,08, −0,39%; Brent 103,33, −1,37%) depois de oscilar cerca de 5 dólares pela manhã pelos ataques na ilha iraniana de Qeshm."
+    "es": "A las 7:27 de Nueva York, el WTI bajaba 0.85% a 95.27 dólares y el Brent 1.21% a 102.30. El martes, la AAA reportó diésel en 6.29 dólares por galón, récord para un día de elección; los recargos se ajustan con una a dos semanas de rezago.",
+    "en": "At 7:27 a.m. New York time, WTI was down 0.85% at $95.27 and Brent 1.21% at $102.30. On Tuesday, AAA reported diesel at $6.29 per gallon, a record for an Election Day; surcharges adjust with a one- to two-week lag.",
+    "pt": "Às 7h27 de Nova York, o WTI caía 0,85% a 95,27 dólares e o Brent 1,21% a 102,30. Na terça, a AAA reportou diesel a 6,29 dólares por galão, recorde para um dia de eleição; as sobretaxas se ajustam com uma a duas semanas de defasagem."
    },
    "scm": {
     "es": "No aceptes bajas de recargo de combustible hasta que el índice semanal de diésel lo refleje: hoy la bomba sigue en récord.",
@@ -67,12 +99,74 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: mercados en vivo, 3 de noviembre de 2026",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html"
+     "t": "TheStreet: Stock Market Today, 4 de noviembre de 2026",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+    }
+   ]
+  },
+  {
+   "id": "mineria",
+   "dir": "up",
+   "calor": 2,
+   "mx": true,
+   "latam": true,
+   "es": "Minería y metales",
+   "en": "Mining and metals",
+   "pt": "Mineração e metais",
+   "titular": {
+    "es": "El oro sube casi 3% a 4,052.90 y la plata 4.9% con el dólar débil tras la elección",
+    "en": "Gold rises nearly 3% to 4,052.90 and silver 4.9% on the weak dollar after the election",
+    "pt": "O ouro sobe quase 3% a 4.052,90 e a prata 4,9% com o dólar fraco após a eleição"
+   },
+   "x": {
+    "es": "A las 9:05 de Nueva York, el oro subía 2.86% a 4,052.90 dólares la onza y la plata 4.94% a 52.21, impulsados por la caída del dólar tras el triunfo demócrata. México y Perú, grandes productores de plata, son los más expuestos al movimiento.",
+    "en": "At 9:05 a.m. New York time, gold was up 2.86% at $4,052.90 an ounce and silver 4.94% at $52.21, driven by the weaker dollar after the Democratic win. Mexico and Peru, major silver producers, are the most exposed to the move.",
+    "pt": "Às 9h05 de Nova York, o ouro subia 2,86% a 4.052,90 dólares a onça e a prata 4,94% a 52,21, impulsionados pela queda do dólar após a vitória democrata. México e Peru, grandes produtores de prata, são os mais expostos ao movimento."
+   },
+   "scm": {
+    "es": "Si compras insumos con plata o cobre (electrónica, soldadura, contactos), revisa las cláusulas de ajuste por metales de tus contratos.",
+    "en": "If you buy inputs containing silver or copper (electronics, solder, contacts), review the metal adjustment clauses in your contracts.",
+    "pt": "Se você compra insumos com prata ou cobre (eletrônicos, solda, contatos), revise as cláusulas de reajuste por metais dos seus contratos."
+   },
+   "fuentes": [
+    {
+     "t": "TheStreet: Stock Market Today, 4 de noviembre de 2026",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+    }
+   ]
+  },
+  {
+   "id": "software",
+   "dir": "down",
+   "calor": 2,
+   "mx": false,
+   "latam": false,
+   "es": "Software e IA para supply chain",
+   "en": "Software and AI for supply chain",
+   "pt": "Software e IA para supply chain",
+   "titular": {
+    "es": "Zebra cae 13% pese a crecer 22%: la memoria más cara presiona sus márgenes",
+    "en": "Zebra falls 13% despite 22% growth: pricier memory squeezes its margins",
+    "pt": "A Zebra cai 13% apesar de crescer 22%: a memória mais cara pressiona suas margens"
+   },
+   "x": {
+    "es": "Zebra Technologies, que fabrica lectores, impresoras de etiquetas y equipos para almacén, vendió 1,610 millones de dólares en el tercer trimestre (+22.3%), pero su margen bruto bajó a 45.7% desde 48.0% por el mayor costo de los componentes de memoria, y su guía para el cuarto trimestre quedó apenas debajo del consenso. La acción caía 13% antes de la apertura. Del lado de la ciberseguridad, CrowdStrike acordó comprar dos empresas de seguridad con IA por 495 millones de dólares.",
+    "en": "Zebra Technologies, which makes scanners, label printers and warehouse devices, sold $1.61 billion in the third quarter (+22.3%), but its gross margin fell to 45.7% from 48.0% on higher memory component costs, and its fourth-quarter guidance came in just below consensus. The stock was down 13% before the open. On the cybersecurity side, CrowdStrike agreed to buy two AI security startups for $495 million.",
+    "pt": "A Zebra Technologies, que fabrica leitores, impressoras de etiquetas e equipamentos para armazém, vendeu 1,61 bilhão de dólares no terceiro trimestre (+22,3%), mas sua margem bruta caiu para 45,7% de 48,0% pelo maior custo dos componentes de memória, e sua projeção para o quarto trimestre ficou um pouco abaixo do consenso. A ação caía 13% antes da abertura. No lado da cibersegurança, a CrowdStrike fechou a compra de duas empresas de segurança com IA por 495 milhões de dólares."
+   },
+   "scm": {
+    "es": "Si planeas renovar escáneres o terminales de almacén, pide cotización ya: el alza en memoria puede trasladarse a precios en 2027.",
+    "en": "If you plan to replace warehouse scanners or terminals, request quotes now: the rise in memory costs may pass through to prices in 2027.",
+    "pt": "Se você planeja renovar leitores ou terminais de armazém, peça cotação já: a alta da memória pode ser repassada aos preços em 2027."
+   },
+   "fuentes": [
+    {
+     "t": "Tradingpedia: Zebra cae pese a superar estimados",
+     "u": "https://www.tradingpedia.com/2026/11/03/zebra-slips-as-cautious-outlook-overshadows-strong-beat/"
     },
     {
-     "t": "El CEO: BMV y Wall Street hoy, 3 de noviembre de 2026",
-     "u": "https://elceo.com/mercados/bmv-ipc-wall-street-hoy-3-de-noviembre-de-2026-apertura/"
+     "t": "Yahoo Finance: mercados en vivo, 3 de noviembre de 2026",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html"
     }
    ]
   },
@@ -116,41 +210,6 @@
    ]
   },
   {
-   "id": "software",
-   "dir": "down",
-   "calor": 2,
-   "mx": false,
-   "latam": false,
-   "es": "Software e IA para supply chain",
-   "en": "Software and AI for supply chain",
-   "pt": "Software e IA para supply chain",
-   "titular": {
-    "es": "Zebra cae 13% pese a crecer 22%: la memoria más cara presiona sus márgenes",
-    "en": "Zebra falls 13% despite 22% growth: pricier memory squeezes its margins",
-    "pt": "A Zebra cai 13% apesar de crescer 22%: a memória mais cara pressiona suas margens"
-   },
-   "x": {
-    "es": "Zebra Technologies, que fabrica lectores, impresoras de etiquetas y equipos para almacén, vendió 1,610 millones de dólares en el tercer trimestre (+22.3%), pero su margen bruto bajó a 45.7% desde 48.0% por el mayor costo de los componentes de memoria, y su guía para el cuarto trimestre quedó apenas debajo del consenso. La acción caía 13% antes de la apertura. Del lado de la ciberseguridad, CrowdStrike acordó comprar dos empresas de seguridad con IA por 495 millones de dólares.",
-    "en": "Zebra Technologies, which makes scanners, label printers and warehouse devices, sold $1.61 billion in the third quarter (+22.3%), but its gross margin fell to 45.7% from 48.0% on higher memory component costs, and its fourth-quarter guidance came in just below consensus. The stock was down 13% before the open. On the cybersecurity side, CrowdStrike agreed to buy two AI security startups for $495 million.",
-    "pt": "A Zebra Technologies, que fabrica leitores, impressoras de etiquetas e equipamentos para armazém, vendeu 1,61 bilhão de dólares no terceiro trimestre (+22,3%), mas sua margem bruta caiu para 45,7% de 48,0% pelo maior custo dos componentes de memória, e sua projeção para o quarto trimestre ficou um pouco abaixo do consenso. A ação caía 13% antes da abertura. No lado da cibersegurança, a CrowdStrike fechou a compra de duas empresas de segurança com IA por 495 milhões de dólares."
-   },
-   "scm": {
-    "es": "Si planeas renovar escáneres o terminales de almacén, pide cotización ya: el alza en memoria puede trasladarse a precios en 2027.",
-    "en": "If you plan to replace warehouse scanners or terminals, request quotes now: the rise in memory costs may pass through to prices in 2027.",
-    "pt": "Se você planeja renovar leitores ou terminais de armazém, peça cotação já: a alta da memória pode ser repassada aos preços em 2027."
-   },
-   "fuentes": [
-    {
-     "t": "Tradingpedia: Zebra cae pese a superar estimados",
-     "u": "https://www.tradingpedia.com/2026/11/03/zebra-slips-as-cautious-outlook-overshadows-strong-beat/"
-    },
-    {
-     "t": "Yahoo Finance: mercados en vivo, 3 de noviembre de 2026",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html"
-    }
-   ]
-  },
-  {
    "id": "truck",
    "dir": "down",
    "calor": 2,
@@ -178,114 +237,6 @@
     {
      "t": "Yahoo Finance/FreightWaves: Pamt Corp. reporta pérdida en el 3T",
      "u": "https://finance.yahoo.com/markets/stocks/articles/pamt-corp-sees-q3-net-001626610.html"
-    }
-   ]
-  },
-  {
-   "id": "semis",
-   "dir": "up",
-   "calor": 2,
-   "mx": false,
-   "latam": false,
-   "es": "Semiconductores y electrónica",
-   "en": "Semiconductors and electronics",
-   "pt": "Semicondutores e eletrônicos",
-   "titular": {
-    "es": "Los chips rebotan tras entrar en mercado bajista: AMD sube 3.65% antes de su reporte y el Nasdaq gana 0.83%",
-    "en": "Chips rebound after entering a bear market: AMD rises 3.65% ahead of its report and the Nasdaq gains 0.83%",
-    "pt": "Os chips sobem após entrar em mercado de baixa: AMD sobe 3,65% antes do balanço e o Nasdaq ganha 0,83%"
-   },
-   "x": {
-    "es": "Los semiconductores rebotaron después de que el lunes su índice entró en mercado bajista; AMD cerró con alza de 3.65% (483.90 dólares) antes de reportar, y el Nasdaq ganó 0.83%. Apple, en cambio, siguió presionada por su guía de margen y el costo de la memoria.",
-    "en": "Semiconductors rebounded after their index entered a bear market on Monday; AMD closed up 3.65% ($483.90) before reporting, and the Nasdaq gained 0.83%. Apple, by contrast, stayed under pressure from its margin guidance and memory costs.",
-    "pt": "Os semicondutores subiram depois que seu índice entrou em mercado de baixa na segunda; a AMD fechou em alta de 3,65% (483,90 dólares) antes do balanço, e o Nasdaq ganhou 0,83%. A Apple, por outro lado, seguiu pressionada pela projeção de margem e pelo custo da memória."
-   },
-   "scm": {
-    "es": "El costo de la memoria ya pesa en Apple y Zebra: si compras electrónica con memoria, adelanta pedidos del primer trimestre o fija precio.",
-    "en": "Memory costs are already weighing on Apple and Zebra: if you buy electronics with memory, pull forward first-quarter orders or lock in prices.",
-    "pt": "O custo da memória já pesa na Apple e na Zebra: se você compra eletrônicos com memória, antecipe pedidos do primeiro trimestre ou fixe o preço."
-   },
-   "fuentes": [
-    {
-     "t": "Yahoo Finance: mercados en vivo y cierre, 3 de noviembre de 2026",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html"
-    },
-    {
-     "t": "TheStreet: Stock Market Today, 3 de noviembre de 2026",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026"
-    },
-    {
-     "t": "Stock Titan: mercado en vivo, 3 de noviembre de 2026",
-     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
-    }
-   ]
-  },
-  {
-   "id": "manufactura",
-   "dir": "up",
-   "calor": 3,
-   "mx": true,
-   "es": "Manufactura",
-   "en": "Manufacturing",
-   "pt": "Manufatura",
-   "titular": {
-    "es": "La manufactura de EE. UU. acelera: ISM en 55.5 y producción en su máximo desde 2021",
-    "en": "US manufacturing speeds up: ISM at 55.5 and output at its highest since 2021",
-    "pt": "A manufatura dos EUA acelera: ISM em 55.5 e produção no maior nível desde 2021"
-   },
-   "x": {
-    "es": "El ISM manufacturero de octubre subió a 55.5 (54.5 previo), con producción en 59.0, precios pagados en 75.2 y entregas de proveedores más lentas (59.1). Por separado, la Reshoring Initiative calcula que la relocalización y la inversión extranjera sumaron 247,000 empleos manufactureros en EE. UU. en 2025 y espera un alza de 25% en 2026.",
-    "en": "The October ISM manufacturing index rose to 55.5 (54.5 prior), with production at 59.0, prices paid at 75.2 and slower supplier deliveries (59.1). Separately, the Reshoring Initiative estimates reshoring and foreign investment added 247,000 US manufacturing jobs in 2025 and expects 25% growth in 2026.",
-    "pt": "O ISM industrial de outubro subiu para 55.5 (54.5 antes), com produção em 59.0, preços pagos em 75.2 e entregas de fornecedores mais lentas (59.1). Separadamente, a Reshoring Initiative calcula que a relocalização e o investimento estrangeiro somaram 247,000 empregos industriais nos EUA em 2025 e espera alta de 25% em 2026."
-   },
-   "scm": {
-    "es": "Para proveedores mexicanos, más demanda viene con plazos más largos: revisa capacidad de planta y lead times de insumos críticos para el primer trimestre.",
-    "en": "For Mexican suppliers, more demand comes with longer lead times: review plant capacity and critical-input lead times for the first quarter.",
-    "pt": "Para fornecedores mexicanos, mais demanda vem com prazos mais longos: revise a capacidade da planta e os lead times de insumos críticos para o primeiro trimestre."
-   },
-   "fuentes": [
-    {
-     "t": "Supply Chain Dive — reshoring sumó 247,000 empleos",
-     "u": "https://www.supplychaindive.com/news/reshoring-foreign-direct-investment-247k-jobs-2025-report-reshoring-initiative/873433/"
-    },
-    {
-     "t": "Yahoo Finance — ISM manufacturero, 2 nov 2026",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
-    }
-   ]
-  },
-  {
-   "id": "mineria",
-   "dir": "mixed",
-   "calor": 3,
-   "mx": true,
-   "latam": true,
-   "es": "Minería y metales",
-   "en": "Mining and metals",
-   "pt": "Mineração e metais",
-   "titular": {
-    "es": "La minería de Chile cae 12.1% y el cobre sube; EE. UU. grava 14.29% al acero galvanizado mexicano",
-    "en": "Chile's mining output falls 12.1% and copper rises; the US slaps 14.29% on Mexican galvanized steel",
-    "pt": "A mineração do Chile cai 12.1% e o cobre sobe; os EUA aplicam 14.29% ao aço galvanizado mexicano"
-   },
-   "x": {
-    "es": "La minería chilena cayó 12.1% anual en septiembre por menores leyes de cobre y la suspensión temporal de algunas faenas, y restó 1.6 puntos al Imacec, que creció apenas 0.2%. El cobre sube 0.78% a 6.51 dólares por libra. En México, EE. UU. fijó márgenes antidumping de 14.29% al acero resistente a la corrosión.",
-    "en": "Chilean mining fell 12.1% year on year in September on lower copper ore grades and temporary suspensions at some operations, subtracting 1.6 points from the Imacec, which grew just 0.2%. Copper rises 0.78% to $6.51 per pound. For Mexico, the US set antidumping margins of 14.29% on corrosion-resistant steel.",
-    "pt": "A mineração chilena caiu 12.1% na comparação anual em setembro por teores de cobre mais baixos e a suspensão temporária de algumas operações, e tirou 1.6 ponto do Imacec, que cresceu só 0.2%. O cobre sobe 0.78%, para 6.51 dólares por libra. No México, os EUA fixaram margens antidumping de 14.29% para o aço resistente à corrosão."
-   },
-   "scm": {
-    "es": "Fija precio de cable y componentes de cobre para el primer trimestre, y recalcula el costo puesto en EE. UU. de tus partidas de acero galvanizado.",
-    "en": "Lock in prices for copper cable and components for the first quarter, and recalculate the US landed cost of your galvanized steel items.",
-    "pt": "Trave o preço de cabos e componentes de cobre para o primeiro trimestre e recalcule o custo posto nos EUA dos seus itens de aço galvanizado."
-   },
-   "fuentes": [
-    {
-     "t": "The Clinic — Imacec y minería −12.1%",
-     "u": "https://www.theclinic.cl/2026/11/02/imacec-crece-apenas-02-en-septiembre-caida-del-121-de-la-mineria-frena-la-actividad-economica/"
-    },
-    {
-     "t": "Trading Economics — cobre",
-     "u": "https://tradingeconomics.com/commodity/copper"
     }
    ]
   }
