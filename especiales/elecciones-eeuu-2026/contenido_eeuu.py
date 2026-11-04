@@ -278,4 +278,12 @@ FUENTES_EEUU = {
     'eilan_1031': ('Eilan Trade · alerta comercial México–EE. UU., noviembre 2026', 'https://eilantrade.com/en/trade-alert-us-mexico-trade-november-2026/'),
     'forbes_exit_1103': ('Forbes · encuesta de salida de CNN: 90% dice que el costo de vida pesó en su voto (3 nov 2026)', 'https://www.forbes.com/sites/saradorn/2026/11/03/midterm-election-live-updates-exit-poll-finds-90-say-cost-of-living-was-major-factor-in-their-votes/'),
     'ef_peso_1103': ('El Financiero · el peso pierde ganancias en día de elecciones (3 nov 2026)', 'https://www.elfinanciero.com.mx/mercados/2026/11/03/peso-dolar-tipo-de-cambio-hoy-3-de-noviembre-de-2026/'),
+    'wsaz_nbc_1104': ('WSAZ · NBC News: los demócratas ganan el control de la Cámara y el Senado (4 nov 2026)', 'https://www.wsaz.com/2026/11/04/nbc-news-democrats-win-control-us-house/'),
+    'nbc_live_1103': ('NBC News · en vivo: los demócratas ganan la Cámara y el Senado, proyecta NBC (3 nov 2026)', 'https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763'),
+    'thewrap_house_1103': ('TheWrap · Decision Desk HQ, CNN y MS NOW proyectan Cámara demócrata (3 nov 2026)', 'https://www.thewrap.com/media-platforms/tv/democrats-flip-house-2026-midterm-election-results/'),
+    'gv_brown_1103': ('GV Wire · Sherrod Brown gana la elección especial de Ohio, según AP (3 nov 2026)', 'https://gvwire.com/2026/11/03/sherrod-brown-wins-ohio-senate-special-election-ap-says/'),
+    'abc_live_1103': ('ABC News · en vivo: Talarico gana Texas; Hinojosa vence a Abbott (3 nov 2026)', 'https://abcnews.com/Politics/live-updates/midterm-elections-live-updates/?id=137782085'),
+    'nbc_ks_1103': ('NBC News · Adam Hamilton vence al senador Roger Marshall en Kansas (3 nov 2026)', 'https://www.nbcnews.com/politics/2026-election/adam-hamilton-kansas-senate-democrat-winner-upset-roger-marshall-rcna603310'),
+    'nbc_ga_gob_1103': ('NBC News · resultados de la gubernatura de Georgia (3 nov 2026)', 'https://www.nbcnews.com/politics/2026-elections/georgia-governor-results'),
+    'publimetro_peso_1103': ('Publimetro · el peso cierra en 18.83 por dólar (3 nov 2026)', 'https://www.publimetro.com.mx/noticias/2026/11/04/elecciones-ee-uu-golpean-peso-dolar-roza-19-pesos/'),
 }
