@@ -1,157 +1,141 @@
 {
- "actualizado": "2026-11-04T15:13:52Z",
- "momento": "apertura",
+ "actualizado": "2026-11-04T17:42:09Z",
+ "momento": "mediodia",
  "briefs": {
   "global": {
-   "id": "2026-11-04-apertura-global",
+   "id": "2026-11-04-mediodia-global",
    "fecha": "2026-11-04",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "global",
-   "hora": "09:10 CDMX",
+   "hora": "11:40 CDMX",
    "es": {
-    "titular": "Wall Street celebra el Congreso demócrata: el Dow sube más de 1,000 puntos al abrir, AMD gana y el oro salta casi 3%",
+    "titular": "El rally se amplía a media sesión: el S&P 500 sube 1.8% y el Dow más de 1,200 puntos; el ISM de servicios muestra entregas más lentas",
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "Los futuros ya subían por la victoria demócrata en ambas cámaras, y el ADP de octubre mostró 86 mil empleos privados nuevos, arriba de los 67 mil esperados. Al abrir, el Dow subía 1,009 puntos (1.9%) y el S&P 500 y el Nasdaq 1.1% cada uno. AMD ganaba cerca de 6% antes de la apertura tras un reporte con ventas de centros de datos que casi se duplicaron, mientras Amdocs (−36%) y FIS (−23%) caían por sus resultados. El WTI baja 0.85% a 95.27 dólares y el Brent 1.21% a 102.30; el oro sube 2.86% a 4,052.90 y la plata 4.94%."
+      "t": "Lo que se esperaba",
+      "x": "El brief de apertura veía un arranque con el Dow +1.9% y el S&P 500 y el Nasdaq +1.1% por el Congreso demócrata, el ADP arriba de lo esperado (86 mil) y el plazo de huelga en Long Beach como riesgo de la tarde."
      },
      {
-      "t": "Asia y Europa",
-      "x": "El Nikkei cerró con −1.42% (62,188.63) y el KOSPI rebotó 0.62% (5,683.80); Hong Kong y Shanghái subían más de 1% en la tarde local. Europa avanza, con bancos y renovables al frente."
+      "t": "Cómo va",
+      "x": "A las 11:26 CDMX el S&P 500 subía 1.83%, más que en la apertura, y CNN reportaba al Dow con un alza de más de 1,200 puntos. McDonald's ganaba 4.7% tras sus resultados y FIS perdía 24.7% por la salida de su director financiero y una baja de recomendación. El oro sigue arriba de 4,000 dólares y el crudo cede (WTI ~95)."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "A las 18:00 CDMX vence el plazo de huelga de los guardias (ILWU Local 26) en Los Ángeles–Long Beach; si estalla, los estibadores podrían respetar los piquetes en terminales que mueven 85% de la carga de Long Beach. El Copom de Brasil anuncia la Selic al cierre de la tarde y Banxico decide mañana."
+      "t": "Lo que sorprendió",
+      "x": "El ISM de servicios de octubre bajó a 54.5 (se esperaban 54.7), con nuevos pedidos en 55.9 (−3.9 puntos). El dato clave para supply chain: el índice de entregas de proveedores subió 3.5 puntos a 56.7, lo que significa entregas más lentas, y los precios pagados siguen altos en 73.0. Además, los demócratas van camino a 55 escaños en el Senado, con Alaska y Mississippi sin definir."
      }
     ],
-    "scm": "El mercado leyó al Congreso demócrata como un freno a cambios comerciales bruscos, y el dólar se debilita: es un buen día para cubrir pagos en dólares. Lo crítico es Long Beach a las 18:00 CDMX: si tienes contenedores en esas terminales, ten listo el desvío y avisa a tus clientes de posibles retrasos."
+    "scm": "Las entregas más lentas en servicios (56.7) y los precios en 73 son señal de presión en la cadena antes de la temporada alta: revisa los tiempos de entrega prometidos a tus clientes y aumenta un poco el inventario de seguridad en los artículos con proveedores lentos. El plazo de Long Beach sigue a las 18:00 CDMX."
    },
    "en": {
-    "titular": "Wall Street cheers a Democratic Congress: the Dow jumps over 1,000 points at the open, AMD gains and gold leaps nearly 3%",
+    "titular": "The rally widens at midday: the S&P 500 rises 1.8% and the Dow over 1,200 points; ISM services shows slower deliveries",
     "bloques": [
      {
-      "t": "Open",
-      "x": "Futures were already rising on the Democratic win in both chambers, and October ADP showed 86,000 new private jobs, above the 67,000 expected. At the open the Dow was up 1,009 points (1.9%) and the S&P 500 and Nasdaq 1.1% each. AMD was up about 6% before the open after a report with data center sales nearly doubling, while Amdocs (−36%) and FIS (−23%) fell on their results. WTI is down 0.85% at $95.27 and Brent 1.21% at $102.30; gold is up 2.86% at 4,052.90 and silver 4.94%."
+      "t": "What was expected",
+      "x": "The opening brief saw a start with the Dow +1.9% and the S&P 500 and Nasdaq +1.1% on the Democratic Congress, ADP above expectations (86,000) and the Long Beach strike deadline as the afternoon risk."
      },
      {
-      "t": "Asia and Europe",
-      "x": "The Nikkei closed down 1.42% (62,188.63) and the KOSPI rebounded 0.62% (5,683.80); Hong Kong and Shanghai were up more than 1% in the local afternoon. Europe is higher, led by banks and renewables."
+      "t": "How it is going",
+      "x": "At 11:26 a.m. Mexico City time the S&P 500 was up 1.83%, more than at the open, and CNN reported the Dow up more than 1,200 points. McDonald's gained 4.7% after its results and FIS lost 24.7% on its CFO's departure and a downgrade. Gold stays above $4,000 and crude eases (WTI ~95)."
      },
      {
-      "t": "What to expect today",
-      "x": "At 6:00 p.m. Mexico City time the security guards' (ILWU Local 26) strike deadline at Los Angeles–Long Beach expires; if a strike starts, dockworkers could honor picket lines at terminals handling 85% of Long Beach cargo. Brazil's Copom announces the Selic late in the afternoon and Banxico decides tomorrow."
+      "t": "What surprised",
+      "x": "October ISM services fell to 54.5 (54.7 expected), with new orders at 55.9 (−3.9 points). The key data point for supply chain: the supplier deliveries index rose 3.5 points to 56.7, meaning slower deliveries, and prices paid remain high at 73.0. Also, Democrats are on track for 55 Senate seats, with Alaska and Mississippi undecided."
      }
     ],
-    "scm": "The market read the Democratic Congress as a brake on abrupt trade changes, and the dollar is weakening: a good day to hedge dollar payments. The critical item is Long Beach at 6:00 p.m. Mexico City time: if you have containers at those terminals, have the diversion ready and warn your customers about possible delays."
+    "scm": "Slower service deliveries (56.7) and prices at 73 signal supply-chain pressure ahead of peak season: review delivery times promised to customers and slightly raise safety stock for items with slow suppliers. The Long Beach deadline is still 6:00 p.m. Mexico City time."
    },
    "pt": {
-    "titular": "Wall Street comemora o Congresso democrata: o Dow sobe mais de 1.000 pontos na abertura, a AMD ganha e o ouro salta quase 3%",
+    "titular": "A alta se amplia no meio da sessão: o S&P 500 sobe 1,8% e o Dow mais de 1.200 pontos; o ISM de serviços mostra entregas mais lentas",
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Os futuros já subiam com a vitória democrata nas duas casas, e o ADP de outubro mostrou 86 mil novos empregos privados, acima dos 67 mil esperados. Na abertura, o Dow subia 1.009 pontos (1,9%) e o S&P 500 e o Nasdaq 1,1% cada. A AMD ganhava cerca de 6% antes da abertura após um balanço com vendas de data centers que quase dobraram, enquanto Amdocs (−36%) e FIS (−23%) caíam pelos resultados. O WTI recua 0,85% a 95,27 dólares e o Brent 1,21% a 102,30; o ouro sobe 2,86% a 4.052,90 e a prata 4,94%."
+      "t": "O que se esperava",
+      "x": "O brief de abertura via um início com o Dow +1,9% e o S&P 500 e o Nasdaq +1,1% pelo Congresso democrata, o ADP acima do esperado (86 mil) e o prazo da greve em Long Beach como risco da tarde."
      },
      {
-      "t": "Ásia e Europa",
-      "x": "O Nikkei fechou em −1,42% (62.188,63) e o KOSPI subiu 0,62% (5.683,80); Hong Kong e Xangai subiam mais de 1% na tarde local. A Europa avança, com bancos e renováveis à frente."
+      "t": "Como está",
+      "x": "Às 11h26 (Cidade do México) o S&P 500 subia 1,83%, mais que na abertura, e a CNN reportava o Dow em alta de mais de 1.200 pontos. O McDonald's ganhava 4,7% após seus resultados e a FIS perdia 24,7% pela saída do seu diretor financeiro e um rebaixamento. O ouro segue acima de 4.000 dólares e o petróleo recua (WTI ~95)."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Às 18h (Cidade do México) vence o prazo da greve dos vigilantes (ILWU Local 26) em Los Angeles–Long Beach; se começar, os estivadores poderiam respeitar os piquetes em terminais que movimentam 85% da carga de Long Beach. O Copom anuncia a Selic no fim da tarde e o Banxico decide amanhã."
+      "t": "O que surpreendeu",
+      "x": "O ISM de serviços de outubro caiu para 54,5 (esperava-se 54,7), com novos pedidos em 55,9 (−3,9 pontos). O dado-chave para supply chain: o índice de entregas de fornecedores subiu 3,5 pontos para 56,7, o que significa entregas mais lentas, e os preços pagos seguem altos em 73,0. Além disso, os democratas caminham para 55 cadeiras no Senado, com Alasca e Mississippi indefinidos."
      }
     ],
-    "scm": "O mercado leu o Congresso democrata como um freio a mudanças comerciais bruscas, e o dólar se enfraquece: é um bom dia para proteger pagamentos em dólares. O crítico é Long Beach às 18h (Cidade do México): se você tem contêineres nesses terminais, deixe o desvio pronto e avise seus clientes sobre possíveis atrasos."
+    "scm": "As entregas mais lentas nos serviços (56,7) e os preços em 73 sinalizam pressão na cadeia antes da alta temporada: revise os prazos de entrega prometidos aos clientes e aumente um pouco o estoque de segurança nos itens com fornecedores lentos. O prazo de Long Beach segue às 18h (Cidade do México)."
    },
    "fuentes": [
-    {
-     "t": "ABC News: el Dow sube 1,000 puntos tras el control demócrata del Congreso",
-     "u": "https://abcnews.com/Business/dow-surges-1000-points-democrats-control-congress/story?id=137842989"
-    },
-    {
-     "t": "MarketScreener: ADP de octubre supera lo esperado",
-     "u": "https://www.marketscreener.com/news/october-adp-us-private-payrolls-rise-more-than-expected-ahead-of-bls-data-ce785fdfdd8df223"
-    },
-    {
-     "t": "Yahoo Finance: futuros y AMD tras la elección (4 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html"
-    },
     {
      "t": "TheStreet: Stock Market Today, 4 de noviembre de 2026",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
     },
     {
-     "t": "Aju Press: el KOSPI rebota y Asia diverge tras la elección en EE. UU.",
-     "u": "https://www.ajupress.com/view/20261104163233815"
+     "t": "CNN: el Dow sube 1,200 puntos tras el control demócrata del Congreso",
+     "u": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections"
     },
     {
-     "t": "Bloomberg: las bolsas europeas suben tras la victoria demócrata",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-04/european-stocks-set-to-dip-as-democrat-sweep-stokes-ai-worries"
-    },
-    {
-     "t": "IAM: el plazo de huelga en Los Ángeles–Long Beach se mueve al 4 de noviembre",
-     "u": "https://iamovers.org/news/l-a-long-beach-port-strike-deadline-pushed-to-4-november-as-talks-continue/"
+     "t": "ISM: Services PMI de octubre de 2026 en 54.5%",
+     "u": "https://www.prnewswire.com/news-releases/services-pmi-at-54-5-october-2026-ism-services-pmi-report-302928112.html"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-04-apertura-latam",
+   "id": "2026-11-04-mediodia-latam",
    "fecha": "2026-11-04",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "latam",
-   "hora": "09:10 CDMX",
+   "hora": "11:40 CDMX",
    "es": {
-    "titular": "La región rebota con EE. UU.: el fondo de Chile sube 3%, Canadá 1.3% y el Ibovespa 0.8% antes del Copom",
+    "titular": "Toda América Latina en verde a media sesión: Chile +3.3%, Perú y Colombia cerca de 2% y el Ibovespa +0.7% antes del Copom",
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "Con los datos de las 8:34 CDMX, el fondo de Chile (ECH) subía 3.07%, el de Argentina 1.3%, el S&P/TSX de Canadá 1.26% (35,979.62) y el Ibovespa 0.84% (166,915). El fondo de Perú y el COLCAP aún mostraban sus cierres del martes. En monedas, el real se apreciaba a 5.47 por dólar y el peso chileno a 970.96, mientras el mexicano estaba en 18.67."
+      "t": "Lo que se esperaba",
+      "x": "El brief de apertura veía a la región rebotar con EE. UU.: el fondo de Chile +3%, Canadá +1.3% y el Ibovespa +0.8% antes de la decisión del Copom."
      },
      {
-      "t": "Contexto",
-      "x": "El Congreso demócrata en EE. UU. debilitó al dólar y dio impulso a los emergentes. En Brasil, una encuesta de Reuters apunta a que el Banco Central mantendrá la Selic y pausará los recortes; analistas ven también posible espacio para negociar aranceles con EE. UU."
+      "t": "Cómo va",
+      "x": "Con los datos de las 10:38 CDMX, el fondo de Chile (ECH) sube 3.33%, el de Perú 1.85%, el COLCAP 1.78% (25,055.5), el S&P/TSX de Canadá 1.74% (36,152.25), el fondo de Argentina 0.79% y el Ibovespa 0.68% (166,651.7). En monedas, el peso chileno sigue fuerte (969) y el real está en 5.49 por dólar."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "El Copom anuncia la Selic al cierre de la tarde; mañana decide Banxico. Para quien exporta por la costa oeste de EE. UU., el plazo de huelga en Long Beach vence a las 18:00 CDMX."
+      "t": "Lo que sorprendió",
+      "x": "Perú y Colombia, rezagados en la apertura, se sumaron al rally. El Ibovespa moderó su alza antes de la decisión del Copom, y el real no acompañó la debilidad global del dólar."
      }
     ],
-    "scm": "El dólar débil abarata hoy las compras en monedas de la región, pero el peso chileno fuerte encarece lo que pagas en pesos chilenos: revisa en qué moneda conviene cotizar el trimestre. Espera al Copom antes de liquidar reales no urgentes."
+    "scm": "Con toda la región al alza y el dólar débil, las monedas latinoamericanas se fortalecen: revisa hoy qué pagos en monedas locales conviene adelantar. Espera al Copom de esta tarde antes de liquidar reales no urgentes."
    },
    "en": {
-    "titular": "The region rebounds with the US: the Chile fund rises 3%, Canada 1.3% and the Ibovespa 0.8% before Copom",
+    "titular": "All of Latin America in the green at midday: Chile +3.3%, Peru and Colombia near 2% and the Ibovespa +0.7% before Copom",
     "bloques": [
      {
-      "t": "Open",
-      "x": "With data as of 8:34 a.m. Mexico City time, the Chile fund (ECH) was up 3.07%, the Argentina fund 1.3%, Canada's S&P/TSX 1.26% (35,979.62) and the Ibovespa 0.84% (166,915). The Peru fund and the COLCAP still showed Tuesday's closes. In currencies, the real strengthened to 5.47 per dollar and the Chilean peso to 970.96, while the Mexican peso was at 18.67."
+      "t": "What was expected",
+      "x": "The opening brief saw the region rebound with the US: the Chile fund +3%, Canada +1.3% and the Ibovespa +0.8% before the Copom decision."
      },
      {
-      "t": "Context",
-      "x": "The Democratic Congress in the US weakened the dollar and lifted emerging markets. In Brazil, a Reuters poll points to the central bank holding the Selic and pausing cuts; analysts also see possible room to negotiate tariffs with the US."
+      "t": "How it is going",
+      "x": "With data as of 10:38 a.m. Mexico City time, the Chile fund (ECH) is up 3.33%, the Peru fund 1.85%, the COLCAP 1.78% (25,055.5), Canada's S&P/TSX 1.74% (36,152.25), the Argentina fund 0.79% and the Ibovespa 0.68% (166,651.7). In currencies, the Chilean peso stays strong (969) and the real is at 5.49 per dollar."
      },
      {
-      "t": "What to expect today",
-      "x": "Copom announces the Selic late in the afternoon; Banxico decides tomorrow. For those exporting through the US West Coast, the Long Beach strike deadline expires at 6:00 p.m. Mexico City time."
+      "t": "What surprised",
+      "x": "Peru and Colombia, laggards at the open, joined the rally. The Ibovespa trimmed its gain ahead of the Copom decision, and the real did not follow the dollar's global weakness."
      }
     ],
-    "scm": "The weak dollar makes purchases in regional currencies cheaper today, but the strong Chilean peso makes what you pay in Chilean pesos more expensive: review which currency to quote the quarter in. Wait for Copom before settling non-urgent reais."
+    "scm": "With the whole region up and the dollar weak, Latin American currencies strengthen: review today which local-currency payments are worth pulling forward. Wait for this afternoon's Copom before settling non-urgent reais."
    },
    "pt": {
-    "titular": "A região sobe com os EUA: o fundo do Chile sobe 3%, o Canadá 1,3% e o Ibovespa 0,8% antes do Copom",
+    "titular": "Toda a América Latina no verde no meio da sessão: Chile +3,3%, Peru e Colômbia perto de 2% e o Ibovespa +0,7% antes do Copom",
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Com os dados das 8h34 (Cidade do México), o fundo do Chile (ECH) subia 3,07%, o da Argentina 1,3%, o S&P/TSX do Canadá 1,26% (35.979,62) e o Ibovespa 0,84% (166.915). O fundo do Peru e o COLCAP ainda mostravam os fechamentos de terça. Nas moedas, o real se valorizava a R$ 5,47 por dólar e o peso chileno a 970,96, enquanto o mexicano estava em 18,67."
+      "t": "O que se esperava",
+      "x": "O brief de abertura via a região subir com os EUA: o fundo do Chile +3%, o Canadá +1,3% e o Ibovespa +0,8% antes da decisão do Copom."
      },
      {
-      "t": "Contexto",
-      "x": "O Congresso democrata nos EUA enfraqueceu o dólar e impulsionou os emergentes. No Brasil, uma pesquisa da Reuters aponta que o Banco Central manterá a Selic e pausará os cortes; analistas veem também possível espaço para negociar tarifas com os EUA."
+      "t": "Como está",
+      "x": "Com os dados das 10h38 (Cidade do México), o fundo do Chile (ECH) sobe 3,33%, o do Peru 1,85%, o COLCAP 1,78% (25.055,5), o S&P/TSX do Canadá 1,74% (36.152,25), o fundo da Argentina 0,79% e o Ibovespa 0,68% (166.651,7). Nas moedas, o peso chileno segue forte (969) e o dólar está em R$ 5,49."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "O Copom anuncia a Selic no fim da tarde; amanhã decide o Banxico. Para quem exporta pela costa oeste dos EUA, o prazo da greve em Long Beach vence às 18h (Cidade do México)."
+      "t": "O que surpreendeu",
+      "x": "Peru e Colômbia, atrasados na abertura, aderiram à alta. O Ibovespa moderou o ganho antes da decisão do Copom, e o real não acompanhou a fraqueza global do dólar."
      }
     ],
-    "scm": "O dólar fraco barateia hoje as compras em moedas da região, mas o peso chileno forte encarece o que você paga em pesos chilenos: revise em qual moeda convém cotar o trimestre. Espere o Copom antes de liquidar reais não urgentes."
+    "scm": "Com toda a região em alta e o dólar fraco, as moedas latino-americanas se fortalecem: revise hoje quais pagamentos em moeda local convém antecipar. Espere o Copom desta tarde antes de liquidar reais não urgentes."
    },
    "fuentes": [
     {
@@ -165,85 +149,85 @@
    ]
   },
   "mexico": {
-   "id": "2026-11-04-apertura-mexico",
+   "id": "2026-11-04-mediodia-mexico",
    "fecha": "2026-11-04",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "mexico",
-   "hora": "09:10 CDMX",
+   "hora": "11:40 CDMX",
    "es": {
-    "titular": "El peso se recupera a 18.65 por dólar (+0.95%) con el dólar débil tras la elección; Banxico decide mañana",
+    "titular": "El peso se fortalece a 18.62 por dólar con el dólar débil; Banxico decide mañana",
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "A las 7:09 CDMX el peso cotizaba en 18.6537 por dólar, 0.95% mejor que el cierre del martes, con un rango nocturno de 18.57 a 18.87; hacia las 8:30 seguía en 18.67. El FIX determinado el martes, publicado hoy en el DOF, fue 18.7592. En ventanilla, el dólar se vende entre 19.05 y 19.32 en los bancos grandes."
+      "t": "Lo que se esperaba",
+      "x": "El brief de apertura veía al peso recuperándose a 18.65 por dólar con el dólar débil tras la elección y el FIX determinado el martes en 18.7592."
      },
      {
-      "t": "Contexto",
-      "x": "El control demócrata del Congreso debilitó al dólar (índice −0.58%, en 101.26) y devolvió atractivo a las monedas emergentes; analistas lo leen como un límite a cambios comerciales abruptos. El ADP de EE. UU. (86 mil empleos contra 67 mil esperados) no frenó la recuperación."
+      "t": "Cómo va",
+      "x": "A las 10:38 CDMX el peso cotizaba en 18.62 por dólar, un poco mejor que en la apertura y 1.1% arriba del cierre del martes (18.83). No confirmé el nivel del IPC a esta hora. El FIX de hoy se determina a mediodía."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "Sin datos relevantes de INEGI hoy. Mañana jueves decide Banxico con la tasa en 6.50%: Banco Base advierte que un recorte llevaría el diferencial con EE. UU. a mínimos y podría presionar al peso."
+      "t": "Lo que sorprendió",
+      "x": "El peso mantuvo la recuperación aunque el ISM de servicios de EE. UU. salió un poco debajo de lo esperado. La expectativa de un recorte de Banxico mañana todavía no lo presiona."
      }
     ],
-    "scm": "El peso en 18.65 recupera la mayor parte de la caída del martes: si tienes pagos en dólares de noviembre sin cubrir, cubre una parte hoy y deja el resto para después de Banxico. Ojo con las cotizaciones de ventanilla, muy por encima del interbancario: usa cobertura bancaria, no efectivo."
+    "scm": "El peso en 18.62 es mejor nivel que el de la apertura: si cubres pagos en dólares, esta es buena hora. Las entregas más lentas en EE. UU. (ISM de servicios) pueden alargar tus tiempos de reposición: revisa tus inventarios de seguridad de importados."
    },
    "en": {
-    "titular": "The peso recovers to 18.65 per dollar (+0.95%) as the dollar weakens after the election; Banxico decides tomorrow",
+    "titular": "The peso strengthens to 18.62 per dollar on a weak dollar; Banxico decides tomorrow",
     "bloques": [
      {
-      "t": "Open",
-      "x": "At 7:09 a.m. Mexico City time the peso traded at 18.6537 per dollar, 0.95% stronger than Tuesday's close, with an overnight range of 18.57 to 18.87; by 8:30 it was at 18.67. The FIX set on Tuesday, published today in the DOF, was 18.7592. At branches, big banks sell dollars between 19.05 and 19.32."
+      "t": "What was expected",
+      "x": "The opening brief saw the peso recovering to 18.65 per dollar on the weak dollar after the election, with Tuesday's FIX at 18.7592."
      },
      {
-      "t": "Context",
-      "x": "Democratic control of Congress weakened the dollar (index −0.58%, at 101.26) and restored appeal to emerging-market currencies; analysts read it as a limit on abrupt trade changes. US ADP (86,000 jobs vs. 67,000 expected) did not stop the recovery."
+      "t": "How it is going",
+      "x": "At 10:38 a.m. Mexico City time the peso traded at 18.62 per dollar, slightly better than at the open and 1.1% above Tuesday's close (18.83). I could not confirm the IPC level at this hour. Today's FIX is set at midday."
      },
      {
-      "t": "What to expect today",
-      "x": "No major INEGI data today. Banxico decides tomorrow, Thursday, with the rate at 6.50%: Banco Base warns that a cut would take the gap with the US to record lows and could pressure the peso."
+      "t": "What surprised",
+      "x": "The peso held its recovery even though US ISM services came in slightly below expectations. The expected Banxico cut tomorrow is not yet pressuring it."
      }
     ],
-    "scm": "The peso at 18.65 recovers most of Tuesday's drop: if you have unhedged November dollar payments, hedge part today and leave the rest until after Banxico. Watch branch quotes, well above interbank: use bank hedging, not cash."
+    "scm": "The peso at 18.62 is a better level than at the open: if you hedge dollar payments, now is a good time. Slower US deliveries (ISM services) may lengthen your replenishment times: review safety stock for imported items."
    },
    "pt": {
-    "titular": "O peso se recupera a 18,65 por dólar (+0,95%) com o dólar fraco após a eleição; o Banxico decide amanhã",
+    "titular": "O peso se fortalece a 18,62 por dólar com o dólar fraco; o Banxico decide amanhã",
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Às 7h09 (Cidade do México) o peso era cotado a 18,6537 por dólar, 0,95% melhor que o fechamento de terça, com faixa noturna de 18,57 a 18,87; por volta das 8h30 seguia em 18,67. O FIX determinado na terça, publicado hoje no DOF, foi 18,7592. Nas agências, os grandes bancos vendem o dólar entre 19,05 e 19,32."
+      "t": "O que se esperava",
+      "x": "O brief de abertura via o peso se recuperando a 18,65 por dólar com o dólar fraco após a eleição e o FIX determinado na terça em 18,7592."
      },
      {
-      "t": "Contexto",
-      "x": "O controle democrata do Congresso enfraqueceu o dólar (índice −0,58%, em 101,26) e devolveu atratividade às moedas emergentes; analistas leem isso como limite a mudanças comerciais abruptas. O ADP dos EUA (86 mil empregos contra 67 mil esperados) não freou a recuperação."
+      "t": "Como está",
+      "x": "Às 10h38 (Cidade do México) o peso era cotado a 18,62 por dólar, um pouco melhor que na abertura e 1,1% acima do fechamento de terça (18,83). Não confirmei o nível do IPC a esta hora. O FIX de hoje é determinado ao meio-dia."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Sem dados relevantes do INEGI hoje. Amanhã, quinta, decide o Banxico com a taxa em 6,50%: o Banco Base alerta que um corte levaria o diferencial com os EUA a mínimos e poderia pressionar o peso."
+      "t": "O que surpreendeu",
+      "x": "O peso manteve a recuperação mesmo com o ISM de serviços dos EUA um pouco abaixo do esperado. A expectativa de um corte do Banxico amanhã ainda não o pressiona."
      }
     ],
-    "scm": "O peso a 18,65 recupera a maior parte da queda de terça: se você tem pagamentos em dólares de novembro sem proteção, proteja uma parte hoje e deixe o resto para depois do Banxico. Atenção às cotações de agência, muito acima do interbancário: use proteção bancária, não dinheiro em espécie."
+    "scm": "O peso a 18,62 é um nível melhor que o da abertura: se você protege pagamentos em dólares, esta é uma boa hora. As entregas mais lentas nos EUA (ISM de serviços) podem alongar seus prazos de reposição: revise os estoques de segurança de importados."
    },
    "fuentes": [
+    {
+     "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+     "u": "https://mrsupplychain.ai/noticias/"
+    },
     {
      "t": "El CEO: precio del dólar hoy, 4 de noviembre de 2026",
      "u": "https://elceo.com/mercados/precio-del-dolar-hoy-4-de-noviembre-de-2026/"
     },
     {
-     "t": "N+: tipo de cambio y FIX del 4 de noviembre",
-     "u": "https://www.nmas.com.mx/economia/dolar/como-esta-tipo-de-cambio-peso-dolar-estadounidense-mexico-miercoles-4-noviembre-2026/"
-    },
-    {
-     "t": "MarketScreener: ADP de octubre supera lo esperado",
-     "u": "https://www.marketscreener.com/news/october-adp-us-private-payrolls-rise-more-than-expected-ahead-of-bls-data-ce785fdfdd8df223"
+     "t": "ISM: Services PMI de octubre de 2026 en 54.5%",
+     "u": "https://www.prnewswire.com/news-releases/services-pmi-at-54-5-october-2026-ism-services-pmi-report-302928112.html"
     }
    ]
   }
  },
  "lectura": {
   "es": {
-   "titular": "El Congreso demócrata debilita al dólar y el peso recupera 18.65: buen día para cubrir, con Long Beach como el riesgo de la tarde",
-   "resumen": "Wall Street abrió con el Dow 1.9% arriba (más de 1,000 puntos) y el S&P 500 y el Nasdaq 1.1%, en una lectura de mercado de que el Congreso demócrata frenará cambios comerciales abruptos. El dólar se debilitó (índice −0.58%) y el peso se recuperó a 18.65 por dólar tras perder 1.4% el martes; el oro saltó casi 3%. El ADP de octubre (86 mil empleos contra 67 mil esperados) confirma una demanda laboral sólida. En energía, el WTI baja a 95.27 y el Brent a 102.30, pero el diésel sigue en récord. El riesgo operativo del día es el plazo de huelga en Los Ángeles–Long Beach a las 18:00 CDMX; el Copom decide hoy y Banxico mañana. La prioridad es aprovechar el dólar débil para cubrir pagos y dejar listo el plan de desvío portuario.",
+   "titular": "El rally del Congreso demócrata se amplía, pero el ISM de servicios avisa: entregas más lentas y precios altos antes de la temporada alta",
+   "resumen": "A media sesión el S&P 500 sube 1.83% y el Dow más de 1,200 puntos, mientras el peso se fortalece a 18.62 por dólar con el dólar débil. El ISM de servicios de octubre bajó a 54.5 y trajo una señal para supply chain: el índice de entregas de proveedores subió 3.5 puntos a 56.7 (entregas más lentas) y los precios pagados siguen en 73.0. El crudo cede (WTI ~95), pero el diésel sigue en récord. A las 18:00 CDMX vence el plazo de huelga en Los Ángeles–Long Beach; el Copom decide esta tarde y Banxico mañana. La prioridad es cubrir pagos en dólares con el peso fuerte, revisar inventarios de seguridad de artículos con proveedores lentos y tener listo el desvío portuario.",
    "temas": [
     {
      "tema": "Peso y tasas",
@@ -354,8 +338,8 @@
    ]
   },
   "en": {
-   "titular": "A Democratic Congress weakens the dollar and the peso recovers to 18.65: a good day to hedge, with Long Beach as the afternoon risk",
-   "resumen": "Wall Street opened with the Dow up 1.9% (more than 1,000 points) and the S&P 500 and Nasdaq up 1.1%, as the market reads the Democratic Congress as a brake on abrupt trade changes. The dollar weakened (index −0.58%) and the peso recovered to 18.65 per dollar after losing 1.4% on Tuesday; gold jumped nearly 3%. October ADP (86,000 jobs vs. 67,000 expected) confirms solid labor demand. In energy, WTI falls to $95.27 and Brent to $102.30, but diesel remains at a record. The day's operational risk is the Los Angeles–Long Beach strike deadline at 6:00 p.m. Mexico City time; Copom decides today and Banxico tomorrow. The priority is to use the weak dollar to hedge payments and have the port diversion plan ready.",
+   "titular": "The Democratic Congress rally widens, but ISM services warns: slower deliveries and high prices ahead of peak season",
+   "resumen": "At midday the S&P 500 is up 1.83% and the Dow over 1,200 points, while the peso strengthens to 18.62 per dollar on the weak dollar. October ISM services fell to 54.5 and brought a signal for supply chain: the supplier deliveries index rose 3.5 points to 56.7 (slower deliveries) and prices paid remain at 73.0. Crude eases (WTI ~95), but diesel remains at a record. At 6:00 p.m. Mexico City time the Los Angeles–Long Beach strike deadline expires; Copom decides this afternoon and Banxico tomorrow. The priority is to hedge dollar payments with the strong peso, review safety stock for items with slow suppliers and have the port diversion ready.",
    "temas": [
     {
      "tema": "Peso and rates",
@@ -471,8 +455,8 @@
    ]
   },
   "pt": {
-   "titular": "O Congresso democrata enfraquece o dólar e o peso recupera 18,65: bom dia para proteger, com Long Beach como risco da tarde",
-   "resumen": "Wall Street abriu com o Dow 1,9% acima (mais de 1.000 pontos) e o S&P 500 e o Nasdaq 1,1%, numa leitura de mercado de que o Congresso democrata vai frear mudanças comerciais abruptas. O dólar se enfraqueceu (índice −0,58%) e o peso se recuperou a 18,65 por dólar após perder 1,4% na terça; o ouro saltou quase 3%. O ADP de outubro (86 mil empregos contra 67 mil esperados) confirma uma demanda de trabalho sólida. Na energia, o WTI cai a 95,27 e o Brent a 102,30, mas o diesel segue em recorde. O risco operacional do dia é o prazo da greve em Los Angeles–Long Beach às 18h (Cidade do México); o Copom decide hoje e o Banxico amanhã. A prioridade é aproveitar o dólar fraco para proteger pagamentos e deixar pronto o plano de desvio portuário.",
+   "titular": "A alta do Congresso democrata se amplia, mas o ISM de serviços alerta: entregas mais lentas e preços altos antes da alta temporada",
+   "resumen": "No meio da sessão o S&P 500 sobe 1,83% e o Dow mais de 1.200 pontos, enquanto o peso se fortalece a 18,62 por dólar com o dólar fraco. O ISM de serviços de outubro caiu para 54,5 e trouxe um sinal para supply chain: o índice de entregas de fornecedores subiu 3,5 pontos para 56,7 (entregas mais lentas) e os preços pagos seguem em 73,0. O petróleo recua (WTI ~95), mas o diesel segue em recorde. Às 18h (Cidade do México) vence o prazo da greve em Los Angeles–Long Beach; o Copom decide esta tarde e o Banxico amanhã. A prioridade é proteger pagamentos em dólares com o peso forte, revisar estoques de segurança de itens com fornecedores lentos e deixar pronto o desvio portuário.",
    "temas": [
     {
      "tema": "Peso e juros",
@@ -597,8 +581,8 @@
    "nombre": "S&P 500",
    "name_en": "S&P 500",
    "grupo": "bolsa",
-   "valor": 7652.2,
-   "cambio": 1.1,
+   "valor": 7707.6,
+   "cambio": 1.83,
    "unidad": "puntos",
    "name_pt": "S&P 500"
   },
@@ -651,8 +635,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 18.65,
-   "cambio": -0.95,
+   "valor": 18.62,
+   "cambio": -1.12,
    "unidad": "",
    "name_pt": "USD/MXN"
   },

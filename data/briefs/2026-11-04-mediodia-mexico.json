@@ -1,0 +1,75 @@
+{
+ "id": "2026-11-04-mediodia-mexico",
+ "fecha": "2026-11-04",
+ "momento": "mediodia",
+ "mercado": "mexico",
+ "hora": "11:40 CDMX",
+ "es": {
+  "titular": "El peso se fortalece a 18.62 por dólar con el dólar débil; Banxico decide mañana",
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "El brief de apertura veía al peso recuperándose a 18.65 por dólar con el dólar débil tras la elección y el FIX determinado el martes en 18.7592."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 10:38 CDMX el peso cotizaba en 18.62 por dólar, un poco mejor que en la apertura y 1.1% arriba del cierre del martes (18.83). No confirmé el nivel del IPC a esta hora. El FIX de hoy se determina a mediodía."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El peso mantuvo la recuperación aunque el ISM de servicios de EE. UU. salió un poco debajo de lo esperado. La expectativa de un recorte de Banxico mañana todavía no lo presiona."
+   }
+  ],
+  "scm": "El peso en 18.62 es mejor nivel que el de la apertura: si cubres pagos en dólares, esta es buena hora. Las entregas más lentas en EE. UU. (ISM de servicios) pueden alargar tus tiempos de reposición: revisa tus inventarios de seguridad de importados."
+ },
+ "en": {
+  "titular": "The peso strengthens to 18.62 per dollar on a weak dollar; Banxico decides tomorrow",
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "The opening brief saw the peso recovering to 18.65 per dollar on the weak dollar after the election, with Tuesday's FIX at 18.7592."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 10:38 a.m. Mexico City time the peso traded at 18.62 per dollar, slightly better than at the open and 1.1% above Tuesday's close (18.83). I could not confirm the IPC level at this hour. Today's FIX is set at midday."
+   },
+   {
+    "t": "What surprised",
+    "x": "The peso held its recovery even though US ISM services came in slightly below expectations. The expected Banxico cut tomorrow is not yet pressuring it."
+   }
+  ],
+  "scm": "The peso at 18.62 is a better level than at the open: if you hedge dollar payments, now is a good time. Slower US deliveries (ISM services) may lengthen your replenishment times: review safety stock for imported items."
+ },
+ "pt": {
+  "titular": "O peso se fortalece a 18,62 por dólar com o dólar fraco; o Banxico decide amanhã",
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "O brief de abertura via o peso se recuperando a 18,65 por dólar com o dólar fraco após a eleição e o FIX determinado na terça em 18,7592."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 10h38 (Cidade do México) o peso era cotado a 18,62 por dólar, um pouco melhor que na abertura e 1,1% acima do fechamento de terça (18,83). Não confirmei o nível do IPC a esta hora. O FIX de hoje é determinado ao meio-dia."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O peso manteve a recuperação mesmo com o ISM de serviços dos EUA um pouco abaixo do esperado. A expectativa de um corte do Banxico amanhã ainda não o pressiona."
+   }
+  ],
+  "scm": "O peso a 18,62 é um nível melhor que o da abertura: se você protege pagamentos em dólares, esta é uma boa hora. As entregas mais lentas nos EUA (ISM de serviços) podem alongar seus prazos de reposição: revise os estoques de segurança de importados."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "El CEO: precio del dólar hoy, 4 de noviembre de 2026",
+   "u": "https://elceo.com/mercados/precio-del-dolar-hoy-4-de-noviembre-de-2026/"
+  },
+  {
+   "t": "ISM: Services PMI de octubre de 2026 en 54.5%",
+   "u": "https://www.prnewswire.com/news-releases/services-pmi-at-54-5-october-2026-ism-services-pmi-report-302928112.html"
+  }
+ ]
+}

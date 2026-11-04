@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-04-mediodia-global",
+   "fecha": "2026-11-04",
+   "momento": "mediodia",
+   "mercado": "global",
+   "titular_es": "El rally se amplía a media sesión: el S&P 500 sube 1.8% y el Dow más de 1,200 puntos; el ISM de servicios muestra entregas más lentas",
+   "titular_en": "The rally widens at midday: the S&P 500 rises 1.8% and the Dow over 1,200 points; ISM services shows slower deliveries",
+   "titular_pt": "A alta se amplia no meio da sessão: o S&P 500 sobe 1,8% e o Dow mais de 1.200 pontos; o ISM de serviços mostra entregas mais lentas"
+  },
+  {
+   "id": "2026-11-04-mediodia-latam",
+   "fecha": "2026-11-04",
+   "momento": "mediodia",
+   "mercado": "latam",
+   "titular_es": "Toda América Latina en verde a media sesión: Chile +3.3%, Perú y Colombia cerca de 2% y el Ibovespa +0.7% antes del Copom",
+   "titular_en": "All of Latin America in the green at midday: Chile +3.3%, Peru and Colombia near 2% and the Ibovespa +0.7% before Copom",
+   "titular_pt": "Toda a América Latina no verde no meio da sessão: Chile +3,3%, Peru e Colômbia perto de 2% e o Ibovespa +0,7% antes do Copom"
+  },
+  {
+   "id": "2026-11-04-mediodia-mexico",
+   "fecha": "2026-11-04",
+   "momento": "mediodia",
+   "mercado": "mexico",
+   "titular_es": "El peso se fortalece a 18.62 por dólar con el dólar débil; Banxico decide mañana",
+   "titular_en": "The peso strengthens to 18.62 per dollar on a weak dollar; Banxico decides tomorrow",
+   "titular_pt": "O peso se fortalece a 18,62 por dólar com o dólar fraco; o Banxico decide amanhã"
+  },
+  {
    "id": "2026-11-04-apertura-global",
    "fecha": "2026-11-04",
    "momento": "apertura",

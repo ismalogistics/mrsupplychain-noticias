@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T15:13:52Z",
+ "actualizado": "2026-11-04T17:42:09Z",
  "fecha": "2026-11-04",
  "titular": {
   "es": "Long Beach al filo de la huelga, AMD al alza y metales con el dólar débil: lo que mueve a las industrias tras la elección",
@@ -37,6 +37,37 @@
     }
    ],
    "latam": true
+  },
+  {
+   "id": "servicios",
+   "dir": "down",
+   "calor": 2,
+   "mx": true,
+   "latam": false,
+   "es": "Servicios y logística",
+   "en": "Services and logistics",
+   "pt": "Serviços e logística",
+   "titular": {
+    "es": "ISM de servicios: las entregas de proveedores se hacen más lentas (56.7) y los precios siguen en 73",
+    "en": "ISM services: supplier deliveries slow down (56.7) and prices stay at 73",
+    "pt": "ISM de serviços: as entregas de fornecedores ficam mais lentas (56,7) e os preços seguem em 73"
+   },
+   "x": {
+    "es": "El ISM de servicios de octubre bajó a 54.5 (de 54.9), con nuevos pedidos en 55.9 (−3.9 puntos). El índice de entregas de proveedores subió 3.5 puntos a 56.7, lo que indica entregas más lentas, y el de precios pagados quedó en 73.0.",
+    "en": "October ISM services fell to 54.5 (from 54.9), with new orders at 55.9 (−3.9 points). The supplier deliveries index rose 3.5 points to 56.7, indicating slower deliveries, and prices paid came in at 73.0.",
+    "pt": "O ISM de serviços de outubro caiu para 54,5 (de 54,9), com novos pedidos em 55,9 (−3,9 pontos). O índice de entregas de fornecedores subiu 3,5 pontos para 56,7, o que indica entregas mais lentas, e o de preços pagos ficou em 73,0."
+   },
+   "scm": {
+    "es": "Revisa los tiempos de entrega de tus proveedores de servicios logísticos y ajusta el inventario de seguridad antes de la temporada alta.",
+    "en": "Review lead times from your logistics service providers and adjust safety stock before peak season.",
+    "pt": "Revise os prazos dos seus fornecedores de serviços logísticos e ajuste o estoque de segurança antes da alta temporada."
+   },
+   "fuentes": [
+    {
+     "t": "ISM: Services PMI de octubre de 2026 en 54.5%",
+     "u": "https://www.prnewswire.com/news-releases/services-pmi-at-54-5-october-2026-ism-services-pmi-report-302928112.html"
+    }
+   ]
   },
   {
    "id": "semis",

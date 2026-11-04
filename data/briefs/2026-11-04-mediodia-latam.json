@@ -1,0 +1,71 @@
+{
+ "id": "2026-11-04-mediodia-latam",
+ "fecha": "2026-11-04",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:40 CDMX",
+ "es": {
+  "titular": "Toda América Latina en verde a media sesión: Chile +3.3%, Perú y Colombia cerca de 2% y el Ibovespa +0.7% antes del Copom",
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "El brief de apertura veía a la región rebotar con EE. UU.: el fondo de Chile +3%, Canadá +1.3% y el Ibovespa +0.8% antes de la decisión del Copom."
+   },
+   {
+    "t": "Cómo va",
+    "x": "Con los datos de las 10:38 CDMX, el fondo de Chile (ECH) sube 3.33%, el de Perú 1.85%, el COLCAP 1.78% (25,055.5), el S&P/TSX de Canadá 1.74% (36,152.25), el fondo de Argentina 0.79% y el Ibovespa 0.68% (166,651.7). En monedas, el peso chileno sigue fuerte (969) y el real está en 5.49 por dólar."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "Perú y Colombia, rezagados en la apertura, se sumaron al rally. El Ibovespa moderó su alza antes de la decisión del Copom, y el real no acompañó la debilidad global del dólar."
+   }
+  ],
+  "scm": "Con toda la región al alza y el dólar débil, las monedas latinoamericanas se fortalecen: revisa hoy qué pagos en monedas locales conviene adelantar. Espera al Copom de esta tarde antes de liquidar reales no urgentes."
+ },
+ "en": {
+  "titular": "All of Latin America in the green at midday: Chile +3.3%, Peru and Colombia near 2% and the Ibovespa +0.7% before Copom",
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "The opening brief saw the region rebound with the US: the Chile fund +3%, Canada +1.3% and the Ibovespa +0.8% before the Copom decision."
+   },
+   {
+    "t": "How it is going",
+    "x": "With data as of 10:38 a.m. Mexico City time, the Chile fund (ECH) is up 3.33%, the Peru fund 1.85%, the COLCAP 1.78% (25,055.5), Canada's S&P/TSX 1.74% (36,152.25), the Argentina fund 0.79% and the Ibovespa 0.68% (166,651.7). In currencies, the Chilean peso stays strong (969) and the real is at 5.49 per dollar."
+   },
+   {
+    "t": "What surprised",
+    "x": "Peru and Colombia, laggards at the open, joined the rally. The Ibovespa trimmed its gain ahead of the Copom decision, and the real did not follow the dollar's global weakness."
+   }
+  ],
+  "scm": "With the whole region up and the dollar weak, Latin American currencies strengthen: review today which local-currency payments are worth pulling forward. Wait for this afternoon's Copom before settling non-urgent reais."
+ },
+ "pt": {
+  "titular": "Toda a América Latina no verde no meio da sessão: Chile +3,3%, Peru e Colômbia perto de 2% e o Ibovespa +0,7% antes do Copom",
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "O brief de abertura via a região subir com os EUA: o fundo do Chile +3%, o Canadá +1,3% e o Ibovespa +0,8% antes da decisão do Copom."
+   },
+   {
+    "t": "Como está",
+    "x": "Com os dados das 10h38 (Cidade do México), o fundo do Chile (ECH) sobe 3,33%, o do Peru 1,85%, o COLCAP 1,78% (25.055,5), o S&P/TSX do Canadá 1,74% (36.152,25), o fundo da Argentina 0,79% e o Ibovespa 0,68% (166.651,7). Nas moedas, o peso chileno segue forte (969) e o dólar está em R$ 5,49."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "Peru e Colômbia, atrasados na abertura, aderiram à alta. O Ibovespa moderou o ganho antes da decisão do Copom, e o real não acompanhou a fraqueza global do dólar."
+   }
+  ],
+  "scm": "Com toda a região em alta e o dólar fraco, as moedas latino-americanas se fortalecem: revise hoje quais pagamentos em moeda local convém antecipar. Espere o Copom desta tarde antes de liquidar reais não urgentes."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "InfoMoney: Ibovespa hoje ao vivo, 4 de novembro de 2026",
+   "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-04112026/"
+  }
+ ]
+}
