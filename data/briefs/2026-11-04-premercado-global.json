@@ -1,0 +1,96 @@
+{
+ "id": "2026-11-04-premercado-global",
+ "fecha": "2026-11-04",
+ "momento": "premercado",
+ "mercado": "global",
+ "hora": "05:20 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Congreso demócrata: los futuros suben, AMD gana 6% y Europa abre al alza; hoy vence el plazo de huelga en Long Beach",
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "Los demócratas ganaron el control de la Cámara y del Senado según las proyecciones de NBC y CBS; Susan Collins reconoció su derrota en Maine y Abdul El-Sayed ganó en Michigan, mientras Iowa y Alaska no estaban confirmadas a este corte. AMD sube cerca de 6% antes de la apertura después de superar estimados, con ventas de centros de datos que casi se duplicaron."
+   },
+   {
+    "t": "Asia, Europa y futuros",
+    "x": "El Nikkei cerró con −1.42% (62,188.63) y el KOSPI rebotó 0.62% (5,683.80); Hong Kong subía 1.28% y Shanghái 1.44% en la tarde local. Europa abrió al alza, con renovables y Novo Nordisk al frente. Hacia las 3:20 CDMX, los futuros del Dow subían 0.70%, los del S&P 500 0.33% y los del Nasdaq 100 0.26%. El WTI cotiza en 95.89 dólares (−0.21%), el oro en 3,958.50 (+0.5%) y el Treasury a 10 años en 4.95%."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "A las 7:15 CDMX sale el empleo privado ADP de octubre (consenso +70 mil, previo +90 mil) y a las 9:00 el ISM de servicios (54.7 esperado, previo 54.9). A las 18:00 CDMX vence el plazo de huelga de los guardias de seguridad en Los Ángeles–Long Beach, y el Copom de Brasil anuncia la Selic al cierre de la tarde."
+   }
+  ],
+  "scm": "El resultado electoral ya está en el precio: aprovecha la calma de la mañana para cerrar coberturas cambiarias pendientes. Lo urgente del día es Long Beach: confirma hoy con tus agentes el plan de desvío y la capacidad disponible por si hay huelga a partir de esta noche."
+ },
+ "en": {
+  "titular": "Democratic Congress: futures rise, AMD gains 6% and Europe opens higher; the Long Beach strike deadline expires today",
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "Democrats won control of the House and the Senate according to NBC and CBS projections; Susan Collins conceded in Maine and Abdul El-Sayed won in Michigan, while Iowa and Alaska were not confirmed as of this update. AMD is up about 6% before the open after beating estimates, with data center sales nearly doubling."
+   },
+   {
+    "t": "Asia, Europe and futures",
+    "x": "The Nikkei closed down 1.42% (62,188.63) and the KOSPI rebounded 0.62% (5,683.80); Hong Kong was up 1.28% and Shanghai 1.44% in the local afternoon. Europe opened higher, led by renewables and Novo Nordisk. Around 3:20 a.m. Mexico City time, Dow futures were up 0.70%, S&P 500 futures 0.33% and Nasdaq 100 futures 0.26%. WTI trades at $95.89 (−0.21%), gold at 3,958.50 (+0.5%) and the 10-year Treasury at 4.95%."
+   },
+   {
+    "t": "What to expect today",
+    "x": "At 7:15 a.m. Mexico City time comes October ADP private payrolls (consensus +70,000, prior +90,000) and at 9:00 the ISM services index (54.7 expected, prior 54.9). At 6:00 p.m. Mexico City time the Los Angeles–Long Beach security guards strike deadline expires, and Brazil's Copom announces the Selic late in the afternoon."
+   }
+  ],
+  "scm": "The election result is already priced in: use the calm morning to close pending currency hedges. The urgent item today is Long Beach: confirm the diversion plan and available capacity with your agents today in case a strike starts tonight."
+ },
+ "pt": {
+  "titular": "Congresso democrata: os futuros sobem, a AMD ganha 6% e a Europa abre em alta; hoje vence o prazo da greve em Long Beach",
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Os democratas ganharam o controle da Câmara e do Senado segundo as projeções da NBC e da CBS; Susan Collins reconheceu a derrota no Maine e Abdul El-Sayed venceu em Michigan, enquanto Iowa e Alasca não estavam confirmados nesta atualização. A AMD sobe cerca de 6% antes da abertura após superar as estimativas, com vendas de data centers que quase dobraram."
+   },
+   {
+    "t": "Ásia, Europa e futuros",
+    "x": "O Nikkei fechou em −1,42% (62.188,63) e o KOSPI subiu 0,62% (5.683,80); Hong Kong subia 1,28% e Xangai 1,44% na tarde local. A Europa abriu em alta, com renováveis e Novo Nordisk à frente. Por volta das 3h20 (Cidade do México), os futuros do Dow subiam 0,70%, os do S&P 500 0,33% e os do Nasdaq 100 0,26%. O WTI é cotado a 95,89 dólares (−0,21%), o ouro a 3.958,50 (+0,5%) e o título do Tesouro de 10 anos a 4,95%."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Às 7h15 (Cidade do México) sai o emprego privado ADP de outubro (consenso +70 mil, anterior +90 mil) e às 9h o ISM de serviços (54,7 esperado, anterior 54,9). Às 18h (Cidade do México) vence o prazo da greve dos vigilantes em Los Angeles–Long Beach, e o Copom anuncia a Selic no fim da tarde."
+   }
+  ],
+  "scm": "O resultado eleitoral já está no preço: aproveite a calma da manhã para fechar proteções cambiais pendentes. O urgente do dia é Long Beach: confirme hoje com seus agentes o plano de desvio e a capacidade disponível caso haja greve a partir desta noite."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: futuros tras el control demócrata de la Cámara y el Senado (4 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html"
+  },
+  {
+   "t": "Aju Press: el KOSPI rebota y Asia diverge tras la elección en EE. UU.",
+   "u": "https://www.ajupress.com/view/20261104163233815"
+  },
+  {
+   "t": "Euronews: acciones asiáticas y dólar caen con los avances demócratas",
+   "u": "https://www.euronews.com/2026/11/04/asian-stocks-and-dollar-fall-as-democrats-gain-ground-in-us-midterms"
+  },
+  {
+   "t": "Bloomberg: las bolsas europeas suben tras la victoria demócrata; renovables al alza",
+   "u": "https://www.bloomberg.com/news/articles/2026-11-04/european-stocks-set-to-dip-as-democrat-sweep-stokes-ai-worries"
+  },
+  {
+   "t": "Investing.com: las acciones europeas suben con Novo; los mercados evalúan la elección",
+   "u": "https://www.investing.com/news/stock-market-news/european-shares-gain-on-novos-results-markets-weigh-us-midterms-4997607"
+  },
+  {
+   "t": "CBS News: los demócratas ganan el control de la Cámara y el Senado",
+   "u": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+  },
+  {
+   "t": "ABC News: Susan Collins reconoce su derrota en Maine",
+   "u": "https://abcnews.com/Politics/maine-2026-live-midterm-election-results/story?id=136761571"
+  },
+  {
+   "t": "CBS News: resultados del Senado; El-Sayed gana en Michigan",
+   "u": "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+  }
+ ]
+}

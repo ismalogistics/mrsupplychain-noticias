@@ -1,153 +1,163 @@
 {
- "actualizado": "2026-11-03T21:19:04Z",
- "momento": "cierre",
+ "actualizado": "2026-11-04T11:09:40Z",
+ "momento": "premercado",
  "briefs": {
   "global": {
-   "id": "2026-11-03-cierre-global",
-   "fecha": "2026-11-03",
-   "momento": "cierre",
+   "id": "2026-11-04-premercado-global",
+   "fecha": "2026-11-04",
+   "momento": "premercado",
    "mercado": "global",
-   "hora": "15:20 CDMX",
+   "hora": "05:20 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "Wall Street cierra mixta en día de elección: los chips llevan al Nasdaq a +0.83% y el Dow cae 0.38%; el Treasury sube a 4.95%",
+    "titular": "Congreso demócrata: los futuros suben, AMD gana 6% y Europa abre al alza; hoy vence el plazo de huelga en Long Beach",
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "Al cierre, el Nasdaq ganó 0.83% (25,372.01) y el S&P 500 0.36% (7,568.92), y cortó tres días de pérdidas, mientras el Dow perdió 0.38% (51,786.72). Se cumplió lo que anticipaba la apertura: rebote en chips y presión de Apple. El WTI terminó en 96.57 dólares (+0.11%) y el Brent rondó 103; el Treasury a 10 años subió 6 pb a 4.95%, el oro bajó 0.96% (3,931.50) y el Bitcoin subió 1.48% (77,834)."
+      "t": "Lo que pasó desde el cierre",
+      "x": "Los demócratas ganaron el control de la Cámara y del Senado según las proyecciones de NBC y CBS; Susan Collins reconoció su derrota en Maine y Abdul El-Sayed ganó en Michigan, mientras Iowa y Alaska no estaban confirmadas a este corte. AMD sube cerca de 6% antes de la apertura después de superar estimados, con ventas de centros de datos que casi se duplicaron."
      },
      {
-      "t": "Por qué",
-      "x": "Los semiconductores rebotaron después de que el lunes su índice entró en mercado bajista, y AMD subió 3.65% antes de su reporte. El JOLTS de septiembre (7.523 millones de vacantes, contra 7.10 millones esperados) empujó las tasas. El crudo se calmó tras oscilar en la mañana por los ataques en Qeshm, mientras la AAA reportó un récord de diésel para un día de elección (6.29 dólares por galón)."
+      "t": "Asia, Europa y futuros",
+      "x": "El Nikkei cerró con −1.42% (62,188.63) y el KOSPI rebotó 0.62% (5,683.80); Hong Kong subía 1.28% y Shanghái 1.44% en la tarde local. Europa abrió al alza, con renovables y Novo Nordisk al frente. Hacia las 3:20 CDMX, los futuros del Dow subían 0.70%, los del S&P 500 0.33% y los del Nasdaq 100 0.26%. El WTI cotiza en 95.89 dólares (−0.21%), el oro en 3,958.50 (+0.5%) y el Treasury a 10 años en 4.95%."
      },
      {
-      "t": "Qué se espera",
-      "x": "Esta noche llegan los resultados electorales de EE. UU. y los reportes de AMD y Super Micro; ambos marcarán la apertura de Asia. El miércoles 4 vence el plazo de huelga en Los Ángeles–Long Beach (17:00 del Pacífico), el Copom anuncia la Selic y el Tesoro presenta su plan trimestral de emisión; el jueves decide Banxico."
+      "t": "Qué se espera hoy",
+      "x": "A las 7:15 CDMX sale el empleo privado ADP de octubre (consenso +70 mil, previo +90 mil) y a las 9:00 el ISM de servicios (54.7 esperado, previo 54.9). A las 18:00 CDMX vence el plazo de huelga de los guardias de seguridad en Los Ángeles–Long Beach, y el Copom de Brasil anuncia la Selic al cierre de la tarde."
      }
     ],
-    "scm": "El diésel en récord y el Treasury en 4.95% dicen lo mismo: el costo de mover y de financiar inventario sigue alto aunque el crudo baje. Mantén pausadas las renegociaciones de tarifa hasta ver el resultado electoral y el desenlace en Long Beach mañana, y ten listo el plan B de puertos."
+    "scm": "El resultado electoral ya está en el precio: aprovecha la calma de la mañana para cerrar coberturas cambiarias pendientes. Lo urgente del día es Long Beach: confirma hoy con tus agentes el plan de desvío y la capacidad disponible por si hay huelga a partir de esta noche."
    },
    "en": {
-    "titular": "Wall Street ends mixed on election day: chips lift the Nasdaq 0.83% and the Dow falls 0.38%; the Treasury rises to 4.95%",
+    "titular": "Democratic Congress: futures rise, AMD gains 6% and Europe opens higher; the Long Beach strike deadline expires today",
     "bloques": [
      {
-      "t": "What happened",
-      "x": "At the close, the Nasdaq gained 0.83% (25,372.01) and the S&P 500 0.36% (7,568.92), snapping a three-day losing streak, while the Dow lost 0.38% (51,786.72). The open's call held: a chip rebound and pressure from Apple. WTI ended at $96.57 (+0.11%) and Brent around $103; the 10-year Treasury rose 6 bp to 4.95%, gold fell 0.96% (3,931.50) and Bitcoin rose 1.48% (77,834)."
+      "t": "What happened since the close",
+      "x": "Democrats won control of the House and the Senate according to NBC and CBS projections; Susan Collins conceded in Maine and Abdul El-Sayed won in Michigan, while Iowa and Alaska were not confirmed as of this update. AMD is up about 6% before the open after beating estimates, with data center sales nearly doubling."
      },
      {
-      "t": "Why",
-      "x": "Semiconductors rebounded after their index entered a bear market on Monday, and AMD rose 3.65% ahead of its report. September JOLTS (7.523 million openings vs. 7.10 million expected) pushed rates higher. Crude calmed after swinging in the morning on the Qeshm strikes, while AAA reported a record diesel price for an Election Day ($6.29 per gallon)."
+      "t": "Asia, Europe and futures",
+      "x": "The Nikkei closed down 1.42% (62,188.63) and the KOSPI rebounded 0.62% (5,683.80); Hong Kong was up 1.28% and Shanghai 1.44% in the local afternoon. Europe opened higher, led by renewables and Novo Nordisk. Around 3:20 a.m. Mexico City time, Dow futures were up 0.70%, S&P 500 futures 0.33% and Nasdaq 100 futures 0.26%. WTI trades at $95.89 (−0.21%), gold at 3,958.50 (+0.5%) and the 10-year Treasury at 4.95%."
      },
      {
-      "t": "What to expect",
-      "x": "Tonight bring the US election results and the AMD and Super Micro reports; both will set the Asian open. On Wednesday the 4th the Los Angeles–Long Beach strike deadline expires (5 p.m. Pacific), Copom announces the Selic and the Treasury presents its quarterly refunding plan; Banxico decides on Thursday."
+      "t": "What to expect today",
+      "x": "At 7:15 a.m. Mexico City time comes October ADP private payrolls (consensus +70,000, prior +90,000) and at 9:00 the ISM services index (54.7 expected, prior 54.9). At 6:00 p.m. Mexico City time the Los Angeles–Long Beach security guards strike deadline expires, and Brazil's Copom announces the Selic late in the afternoon."
      }
     ],
-    "scm": "Record diesel and a 4.95% Treasury say the same thing: the cost of moving and financing inventory stays high even as crude falls. Keep rate renegotiations on hold until the election result and the Long Beach outcome tomorrow, and have a backup port plan ready."
+    "scm": "The election result is already priced in: use the calm morning to close pending currency hedges. The urgent item today is Long Beach: confirm the diversion plan and available capacity with your agents today in case a strike starts tonight."
    },
    "pt": {
-    "titular": "Wall Street fecha mista no dia da eleição: os chips levam o Nasdaq a +0,83% e o Dow cai 0,38%; o Tesouro sobe a 4,95%",
+    "titular": "Congresso democrata: os futuros sobem, a AMD ganha 6% e a Europa abre em alta; hoje vence o prazo da greve em Long Beach",
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "No fechamento, o Nasdaq ganhou 0,83% (25.372,01) e o S&P 500 0,36% (7.568,92), interrompendo três dias de perdas, enquanto o Dow perdeu 0,38% (51.786,72). Confirmou-se o que a abertura antecipava: alta nos chips e pressão da Apple. O WTI terminou a 96,57 dólares (+0,11%) e o Brent em torno de 103; o título do Tesouro de 10 anos subiu 6 pb a 4,95%, o ouro caiu 0,96% (3.931,50) e o Bitcoin subiu 1,48% (77.834)."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "Os democratas ganharam o controle da Câmara e do Senado segundo as projeções da NBC e da CBS; Susan Collins reconheceu a derrota no Maine e Abdul El-Sayed venceu em Michigan, enquanto Iowa e Alasca não estavam confirmados nesta atualização. A AMD sobe cerca de 6% antes da abertura após superar as estimativas, com vendas de data centers que quase dobraram."
      },
      {
-      "t": "Por quê",
-      "x": "Os semicondutores subiram depois que seu índice entrou em mercado de baixa na segunda, e a AMD subiu 3,65% antes do seu balanço. O JOLTS de setembro (7,523 milhões de vagas, contra 7,10 milhões esperados) empurrou os juros. O petróleo se acalmou após oscilar pela manhã pelos ataques em Qeshm, enquanto a AAA reportou um recorde de diesel para um dia de eleição (6,29 dólares por galão)."
+      "t": "Ásia, Europa e futuros",
+      "x": "O Nikkei fechou em −1,42% (62.188,63) e o KOSPI subiu 0,62% (5.683,80); Hong Kong subia 1,28% e Xangai 1,44% na tarde local. A Europa abriu em alta, com renováveis e Novo Nordisk à frente. Por volta das 3h20 (Cidade do México), os futuros do Dow subiam 0,70%, os do S&P 500 0,33% e os do Nasdaq 100 0,26%. O WTI é cotado a 95,89 dólares (−0,21%), o ouro a 3.958,50 (+0,5%) e o título do Tesouro de 10 anos a 4,95%."
      },
      {
-      "t": "O que se espera",
-      "x": "Esta noite chegam os resultados eleitorais dos EUA e os balanços de AMD e Super Micro; ambos vão marcar a abertura da Ásia. Na quarta, dia 4, vence o prazo da greve em Los Angeles–Long Beach (17h do Pacífico), o Copom anuncia a Selic e o Tesouro apresenta seu plano trimestral de emissões; na quinta decide o Banxico."
+      "t": "O que se espera hoje",
+      "x": "Às 7h15 (Cidade do México) sai o emprego privado ADP de outubro (consenso +70 mil, anterior +90 mil) e às 9h o ISM de serviços (54,7 esperado, anterior 54,9). Às 18h (Cidade do México) vence o prazo da greve dos vigilantes em Los Angeles–Long Beach, e o Copom anuncia a Selic no fim da tarde."
      }
     ],
-    "scm": "O diesel em recorde e o Tesouro a 4,95% dizem o mesmo: o custo de movimentar e de financiar estoque segue alto mesmo com o petróleo em queda. Mantenha pausadas as renegociações de tarifa até ver o resultado eleitoral e o desfecho em Long Beach amanhã, e tenha pronto o plano B de portos."
+    "scm": "O resultado eleitoral já está no preço: aproveite a calma da manhã para fechar proteções cambiais pendentes. O urgente do dia é Long Beach: confirme hoje com seus agentes o plano de desvio e a capacidade disponível caso haja greve a partir desta noite."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: mercados en vivo y cierre, 3 de noviembre de 2026",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html"
+     "t": "Yahoo Finance: futuros tras el control demócrata de la Cámara y el Senado (4 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html"
     },
     {
-     "t": "Trading Economics: JOLTS de septiembre de 2026",
-     "u": "https://tradingeconomics.com/united-states/job-offers"
+     "t": "Aju Press: el KOSPI rebota y Asia diverge tras la elección en EE. UU.",
+     "u": "https://www.ajupress.com/view/20261104163233815"
     },
     {
-     "t": "Price Futures Group: The Energy Report, 3 de noviembre de 2026",
-     "u": "https://blog.pricegroup.com/2026/11/03/diplomacy-and-barrels-the-energy-report-11-03-2026/"
+     "t": "Euronews: acciones asiáticas y dólar caen con los avances demócratas",
+     "u": "https://www.euronews.com/2026/11/04/asian-stocks-and-dollar-fall-as-democrats-gain-ground-in-us-midterms"
+    },
+    {
+     "t": "Bloomberg: las bolsas europeas suben tras la victoria demócrata; renovables al alza",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-04/european-stocks-set-to-dip-as-democrat-sweep-stokes-ai-worries"
+    },
+    {
+     "t": "Investing.com: las acciones europeas suben con Novo; los mercados evalúan la elección",
+     "u": "https://www.investing.com/news/stock-market-news/european-shares-gain-on-novos-results-markets-weigh-us-midterms-4997607"
+    },
+    {
+     "t": "CBS News: los demócratas ganan el control de la Cámara y el Senado",
+     "u": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+    },
+    {
+     "t": "ABC News: Susan Collins reconoce su derrota en Maine",
+     "u": "https://abcnews.com/Politics/maine-2026-live-midterm-election-results/story?id=136761571"
+    },
+    {
+     "t": "CBS News: resultados del Senado; El-Sayed gana en Michigan",
+     "u": "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-03-cierre-latam",
-   "fecha": "2026-11-03",
-   "momento": "cierre",
+   "id": "2026-11-04-premercado-latam",
+   "fecha": "2026-11-04",
+   "momento": "premercado",
    "mercado": "latam",
-   "hora": "15:20 CDMX",
+   "hora": "05:20 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "Brasil cae 1.5% en su regreso del feriado y el real cierra cerca de 5.49; Colombia y Argentina son la excepción con alzas",
+    "titular": "Brasil espera la Selic tras caer 1.4% y el real en 5.49; Colombia y Argentina cerraron el martes con alzas",
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "Con el último dato disponible (13:00 CDMX), el Ibovespa perdía 1.46% (165,468), el fondo de Perú 1.21%, el de Chile 0.71% y el S&P/TSX de Canadá 0.57% (35,597.28); en cambio, el COLCAP subía 0.82% (24,660.5) en su regreso del feriado y el fondo de Argentina 0.36%."
+      "t": "Lo que pasó desde el cierre",
+      "x": "El martes, el Ibovespa cerró con −1.43% (165,529), el fondo de Perú −1.27%, el de Chile −0.82% y el S&P/TSX de Canadá −0.75% (35,532.28); el COLCAP subió 0.64% (24,617) y el fondo de Argentina 0.15%. En monedas, el real cerró en 5.49 por dólar (−0.95%) y el peso mexicano en 18.86, mientras el chileno se fortaleció a 977."
      },
      {
-      "t": "Por qué",
-      "x": "En Brasil pesaron la incertidumbre fiscal tras la reelección de Lula y la reunión del Copom, que inició hoy. A la región la frenaron también la cautela previa a la elección de EE. UU. y el dólar más fuerte tras el JOLTS."
+      "t": "Contexto",
+      "x": "Un Congreso demócrata en EE. UU. y los futuros al alza dan un respiro a los mercados emergentes esta mañana. El crudo estable (WTI 95.89) no presiona a los exportadores de la región."
      },
      {
-      "t": "Monedas",
-      "x": "El real se debilitó 0.99% a 5.49 por dólar y el peso mexicano a 18.84, mientras el chileno se mantuvo fuerte (981.1, +1.14% frente a su referencia previa). El peso argentino cotizó en 1,550.5."
-     },
-     {
-      "t": "Qué se espera",
-      "x": "El miércoles 4 el Copom anuncia la Selic (13.75%) y el jueves 5 decide Banxico. Los resultados electorales de EE. UU. de esta noche marcarán la apertura de las monedas de la región."
+      "t": "Qué se espera hoy",
+      "x": "El Copom de Brasil anuncia la Selic (13.75%) al cierre de la tarde, en medio de la cautela fiscal; mañana jueves decide Banxico."
      }
     ],
-    "scm": "Programa para después del Copom las liquidaciones en reales que no sean urgentes: la decisión puede mover al real con fuerza. Si compras a Chile en dólares, el peso chileno fuerte reduce tu poder de compra: revisa precios del primer trimestre con tus proveedores."
+    "scm": "Deja para después del Copom las liquidaciones en reales que no sean urgentes: la decisión puede mover al real con fuerza esta noche. Si tus importaciones de la región salen por la costa oeste de EE. UU., revisa hoy el plan B por el plazo de huelga en Long Beach."
    },
    "en": {
-    "titular": "Brazil falls 1.5% on its return from the holiday and the real ends near 5.49; Colombia and Argentina are the exceptions with gains",
+    "titular": "Brazil awaits the Selic after falling 1.4% with the real at 5.49; Colombia and Argentina closed Tuesday higher",
     "bloques": [
      {
-      "t": "What happened",
-      "x": "With the latest data available (1:00 p.m. Mexico City time), the Ibovespa was down 1.46% (165,468), the Peru fund 1.21%, the Chile fund 0.71% and Canada's S&P/TSX 0.57% (35,597.28); by contrast, the COLCAP rose 0.82% (24,660.5) on its return from the holiday and the Argentina fund 0.36%."
+      "t": "What happened since the close",
+      "x": "On Tuesday, the Ibovespa closed down 1.43% (165,529), the Peru fund −1.27%, the Chile fund −0.82% and Canada's S&P/TSX −0.75% (35,532.28); the COLCAP rose 0.64% (24,617) and the Argentina fund 0.15%. In currencies, the real closed at 5.49 per dollar (−0.95%) and the Mexican peso at 18.86, while the Chilean peso strengthened to 977."
      },
      {
-      "t": "Why",
-      "x": "In Brazil, fiscal uncertainty after Lula's re-election and the Copom meeting, which began today, weighed. The region was also held back by caution ahead of the US election and a stronger dollar after JOLTS."
+      "t": "Context",
+      "x": "A Democratic Congress in the US and rising futures give emerging markets some relief this morning. Steady crude (WTI $95.89) does not pressure the region's exporters."
      },
      {
-      "t": "Currencies",
-      "x": "The real weakened 0.99% to 5.49 per dollar and the Mexican peso to 18.84, while the Chilean peso stayed strong (981.1, +1.14% versus its prior reference). The Argentine peso traded at 1,550.5."
-     },
-     {
-      "t": "What to expect",
-      "x": "On Wednesday the 4th Copom announces the Selic (13.75%) and on Thursday the 5th Banxico decides. Tonight's US election results will set the open for the region's currencies."
+      "t": "What to expect today",
+      "x": "Brazil's Copom announces the Selic (13.75%) late in the afternoon amid fiscal caution; Banxico decides tomorrow, Thursday."
      }
     ],
-    "scm": "Schedule non-urgent settlements in reais for after Copom: the decision may move the real sharply. If you buy from Chile in dollars, the strong Chilean peso reduces your purchasing power: review first-quarter prices with your suppliers."
+    "scm": "Leave non-urgent settlements in reais until after Copom: the decision may move the real sharply tonight. If your imports from the region move through the US West Coast, review your backup plan today given the Long Beach strike deadline."
    },
    "pt": {
-    "titular": "O Brasil cai 1,5% na volta do feriado e o dólar fecha perto de R$ 5,49; Colômbia e Argentina são a exceção, com altas",
+    "titular": "O Brasil espera a Selic após cair 1,4% e o dólar a R$ 5,49; Colômbia e Argentina fecharam a terça em alta",
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "Com o último dado disponível (13h, Cidade do México), o Ibovespa perdia 1,46% (165.468), o fundo do Peru 1,21%, o do Chile 0,71% e o S&P/TSX do Canadá 0,57% (35.597,28); em compensação, o COLCAP subia 0,82% (24.660,5) na volta do feriado e o fundo da Argentina 0,36%."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "Na terça, o Ibovespa fechou em −1,43% (165.529), o fundo do Peru −1,27%, o do Chile −0,82% e o S&P/TSX do Canadá −0,75% (35.532,28); o COLCAP subiu 0,64% (24.617) e o fundo da Argentina 0,15%. Nas moedas, o dólar fechou a R$ 5,49 (−0,95% para o real) e o peso mexicano a 18,86, enquanto o chileno se fortaleceu a 977."
      },
      {
-      "t": "Por quê",
-      "x": "No Brasil pesaram a incerteza fiscal após a reeleição de Lula e a reunião do Copom, iniciada hoje. A região também foi freada pela cautela antes da eleição dos EUA e pelo dólar mais forte após o JOLTS."
+      "t": "Contexto",
+      "x": "Um Congresso democrata nos EUA e os futuros em alta dão um respiro aos mercados emergentes nesta manhã. O petróleo estável (WTI a 95,89) não pressiona os exportadores da região."
      },
      {
-      "t": "Moedas",
-      "x": "O real se enfraqueceu 0,99%, a R$ 5,49 por dólar, e o peso mexicano a 18,84, enquanto o chileno se manteve forte (981,1, +1,14% frente à referência anterior). O peso argentino foi cotado a 1.550,5."
-     },
-     {
-      "t": "O que se espera",
-      "x": "Na quarta, dia 4, o Copom anuncia a Selic (13,75%) e na quinta, dia 5, decide o Banxico. Os resultados eleitorais dos EUA desta noite vão marcar a abertura das moedas da região."
+      "t": "O que se espera hoje",
+      "x": "O Copom anuncia a Selic (13,75%) no fim da tarde, em meio à cautela fiscal; amanhã, quinta, decide o Banxico."
      }
     ],
-    "scm": "Programe para depois do Copom as liquidações em reais que não sejam urgentes: a decisão pode mover o real com força. Se você compra do Chile em dólares, o peso chileno forte reduz seu poder de compra: revise os preços do primeiro trimestre com seus fornecedores."
+    "scm": "Deixe para depois do Copom as liquidações em reais que não sejam urgentes: a decisão pode mover o real com força esta noite. Se suas importações da região passam pela costa oeste dos EUA, revise hoje o plano B pelo prazo da greve em Long Beach."
    },
    "fuentes": [
     {
@@ -155,83 +165,84 @@
      "u": "https://mrsupplychain.ai/noticias/"
     },
     {
-     "t": "CNN Brasil: bolsa cai mais de 1% com incerteza fiscal e Copom; dólar ronda R$ 5,50",
-     "u": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-3-novembro-2026-2/"
+     "t": "Yahoo Finance: futuros tras el control demócrata de la Cámara y el Senado (4 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html"
     }
    ]
   },
   "mexico": {
-   "id": "2026-11-03-cierre-mexico",
-   "fecha": "2026-11-03",
-   "momento": "cierre",
+   "id": "2026-11-04-premercado-mexico",
+   "fecha": "2026-11-04",
+   "momento": "premercado",
    "mercado": "mexico",
-   "hora": "15:20 CDMX",
+   "hora": "05:20 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "El peso se debilita a 18.84 por dólar y borra la ganancia del lunes, mientras la BMV reabre con alza de más de 1%",
+    "titular": "El peso amanece en 18.86 tras perder 1.4% el martes; el FIX determinado ayer fue 18.7592 y Banxico decide mañana",
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "El peso cotizaba en 18.84 por dólar con el último dato disponible (13:00 CDMX), 1.4% más débil que el cierre del lunes (18.57). La BMV reabrió con alza de 1.14% (70,575.5 a las 9:10 CDMX), impulsada por Volaris, GAP y Asur; no confirmé su nivel de cierre a esta hora."
+      "t": "Lo que pasó desde el cierre",
+      "x": "El peso cerró el martes en 18.83 por dólar según Banxico (−1.40%), la moneda con peor desempeño de su grupo, y en la madrugada cotizaba en 18.86. El FIX determinado el martes, publicado hoy en el DOF, fue 18.7592; en ventanilla los bancos cotizan alrededor de 18.45 a la compra y 18.92 a la venta."
      },
      {
-      "t": "Por qué",
-      "x": "El JOLTS fuerte en EE. UU. subió el Treasury a 4.95% y fortaleció al dólar, y la cautela ante el resultado electoral pesó sobre las monedas emergentes. En la bolsa, aerolíneas y aeropuertos reaccionaron al crudo más barato del lunes."
+      "t": "Contexto",
+      "x": "Un Congreso demócrata no cambia los aranceles vigentes, pero el mercado lo lee como un contrapeso a la política comercial: los futuros de EE. UU. suben y el dólar se debilita frente al yen. El peso, en cambio, sigue presionado por la expectativa de un recorte de Banxico que reduciría el diferencial de tasas con EE. UU."
      },
      {
-      "t": "Qué se espera",
-      "x": "El peso enfrentará esta noche los resultados electorales de EE. UU., que pueden moverlo con fuerza en la sesión asiática. El jueves 5 decide Banxico con la tasa en 6.50%."
+      "t": "Qué se espera hoy",
+      "x": "Sin datos relevantes de INEGI hoy. Mañana jueves 5 decide Banxico, con la tasa en 6.50%; un recorte de 25 pb dejaría el diferencial con la Fed en mínimos."
      }
     ],
-    "scm": "Con el peso en 18.84, los pagos en dólares ya cuestan más de 1% más que el lunes: si no cubriste, no persigas el tipo de cambio durante la noche electoral; espera la apertura del miércoles y cubre por tramos. Revisa tus listas de precios en pesos para productos importados."
+    "scm": "Con el peso en 18.86 y Banxico mañana, no esperes una apreciación rápida: si tienes pagos en dólares de la quincena, cubre la mitad hoy y la otra después de la decisión. Revisa con tu agente aduanal el tipo de cambio de pedimento que aplicará esta semana."
    },
    "en": {
-    "titular": "The peso weakens to 18.84 per dollar, erasing Monday's gain, while the BMV reopens up more than 1%",
+    "titular": "The peso starts at 18.86 after losing 1.4% on Tuesday; yesterday's FIX was 18.7592 and Banxico decides tomorrow",
     "bloques": [
      {
-      "t": "What happened",
-      "x": "The peso traded at 18.84 per dollar with the latest available data (1:00 p.m. Mexico City time), 1.4% weaker than Monday's close (18.57). The BMV reopened up 1.14% (70,575.5 at 9:10 a.m. Mexico City time), led by Volaris, GAP and Asur; I could not confirm its closing level at this hour."
+      "t": "What happened since the close",
+      "x": "The peso closed Tuesday at 18.83 per dollar according to Banxico (−1.40%), the worst performer in its group, and overnight traded at 18.86. The FIX set on Tuesday, published today in the DOF, was 18.7592; at bank branches quotes are around 18.45 to buy and 18.92 to sell."
      },
      {
-      "t": "Why",
-      "x": "Strong US JOLTS lifted the Treasury to 4.95% and strengthened the dollar, and caution ahead of the election result weighed on emerging-market currencies. In stocks, airlines and airports reacted to Monday's cheaper crude."
+      "t": "Context",
+      "x": "A Democratic Congress does not change the tariffs in force, but the market reads it as a check on trade policy: US futures rise and the dollar weakens against the yen. The peso, however, remains under pressure from the expectation of a Banxico cut that would narrow the rate gap with the US."
      },
      {
-      "t": "What to expect",
-      "x": "Tonight the peso faces the US election results, which may move it sharply in the Asian session. Banxico decides on Thursday the 5th with the rate at 6.50%."
+      "t": "What to expect today",
+      "x": "No major INEGI data today. Tomorrow, Thursday the 5th, Banxico decides with the rate at 6.50%; a 25 bp cut would leave the gap with the Fed at a record low."
      }
     ],
-    "scm": "With the peso at 18.84, dollar payments already cost over 1% more than on Monday: if you have not hedged, do not chase the exchange rate during election night; wait for Wednesday's open and hedge in tranches. Review your peso price lists for imported products."
+    "scm": "With the peso at 18.86 and Banxico tomorrow, do not expect a quick appreciation: if you have dollar payments due this fortnight, hedge half today and the rest after the decision. Check with your customs broker which exchange rate will apply to this week's import declarations."
    },
    "pt": {
-    "titular": "O peso se enfraquece a 18,84 por dólar e apaga o ganho de segunda, enquanto a BMV reabre em alta de mais de 1%",
+    "titular": "O peso amanhece a 18,86 após perder 1,4% na terça; o FIX de ontem foi 18,7592 e o Banxico decide amanhã",
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "O peso era cotado a 18,84 por dólar com o último dado disponível (13h, Cidade do México), 1,4% mais fraco que o fechamento de segunda (18,57). A BMV reabriu em alta de 1,14% (70.575,5 às 9h10, Cidade do México), puxada por Volaris, GAP e Asur; não confirmei seu nível de fechamento a esta hora."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "O peso fechou a terça a 18,83 por dólar segundo o Banxico (−1,40%), a moeda com pior desempenho do seu grupo, e de madrugada era cotado a 18,86. O FIX determinado na terça, publicado hoje no DOF, foi 18,7592; nas agências os bancos cotam cerca de 18,45 na compra e 18,92 na venda."
      },
      {
-      "t": "Por quê",
-      "x": "O JOLTS forte nos EUA levou o Tesouro a 4,95% e fortaleceu o dólar, e a cautela antes do resultado eleitoral pesou sobre as moedas emergentes. Na bolsa, aéreas e aeroportos reagiram ao petróleo mais barato de segunda."
+      "t": "Contexto",
+      "x": "Um Congresso democrata não muda as tarifas vigentes, mas o mercado o lê como contrapeso à política comercial: os futuros dos EUA sobem e o dólar se enfraquece frente ao iene. O peso, porém, segue pressionado pela expectativa de um corte do Banxico que reduziria o diferencial de juros com os EUA."
      },
      {
-      "t": "O que se espera",
-      "x": "Esta noite o peso enfrenta os resultados eleitorais dos EUA, que podem movê-lo com força na sessão asiática. Na quinta, dia 5, decide o Banxico com a taxa em 6,50%."
+      "t": "O que se espera hoje",
+      "x": "Sem dados relevantes do INEGI hoje. Amanhã, quinta, dia 5, decide o Banxico, com a taxa em 6,50%; um corte de 25 pb deixaria o diferencial com o Fed em mínimos."
      }
     ],
-    "scm": "Com o peso a 18,84, os pagamentos em dólares já custam mais de 1% a mais que na segunda: se não protegeu, não persiga o câmbio durante a noite eleitoral; espere a abertura de quarta e proteja em parcelas. Revise suas listas de preços em pesos para produtos importados."
+    "scm": "Com o peso a 18,86 e o Banxico amanhã, não espere uma valorização rápida: se você tem pagamentos em dólares na quinzena, proteja metade hoje e o resto depois da decisão. Confirme com seu despachante aduaneiro qual câmbio será aplicado às declarações de importação desta semana."
    },
    "fuentes": [
     {
-     "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
-     "u": "https://mrsupplychain.ai/noticias/"
+     "t": "N+: tipo de cambio y FIX del miércoles 4 de noviembre",
+     "u": "https://www.nmas.com.mx/economia/dolar/como-esta-tipo-de-cambio-peso-dolar-estadounidense-mexico-miercoles-4-noviembre-2026/"
     },
     {
-     "t": "El CEO: BMV y Wall Street hoy, 3 de noviembre de 2026",
-     "u": "https://elceo.com/mercados/bmv-ipc-wall-street-hoy-3-de-noviembre-de-2026-apertura/"
+     "t": "Publimetro: el peso cierra en 18.83 por dólar",
+     "u": "https://www.publimetro.com.mx/noticias/2026/11/04/elecciones-ee-uu-golpean-peso-dolar-roza-19-pesos/"
     },
     {
-     "t": "dolar.info: tipo de cambio peso-dólar, 3 de noviembre de 2026",
-     "u": "https://dolar.info/mexico/hoy/precio/"
+     "t": "Yahoo Finance: futuros tras el control demócrata de la Cámara y el Senado (4 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html"
     }
    ]
   }
@@ -629,8 +640,8 @@
    "nombre": "Nikkei 225",
    "name_en": "Nikkei 225",
    "grupo": "bolsa",
-   "valor": 63081.86,
-   "cambio": -0.33,
+   "valor": 62188.63,
+   "cambio": -1.42,
    "unidad": "puntos",
    "name_pt": "Nikkei 225"
   },
@@ -638,8 +649,8 @@
    "nombre": "KOSPI",
    "name_en": "KOSPI",
    "grupo": "bolsa",
-   "valor": 5666,
-   "cambio": -3.3,
+   "valor": 5683.8,
+   "cambio": 0.62,
    "unidad": "puntos",
    "name_pt": "KOSPI"
   },
@@ -647,8 +658,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 18.84,
-   "cambio": 1.43,
+   "valor": 18.86,
+   "cambio": 0.16,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -674,8 +685,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 96.57,
-   "cambio": 0.11,
+   "valor": 95.89,
+   "cambio": -0.21,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -701,8 +712,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3931.5,
-   "cambio": -0.96,
+   "valor": 3958.5,
+   "cambio": 0.5,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -753,12 +764,6 @@
   }
  ],
  "agenda": [
-  {
-   "fecha": "2026-11-03",
-   "es": "Elecciones intermedias de EE. UU.",
-   "en": "US midterm elections",
-   "pt": "Eleições de meio de mandato dos EUA"
-  },
   {
    "fecha": "2026-11-04",
    "es": "Copom de Brasil: decisión de la Selic (13.75%)",

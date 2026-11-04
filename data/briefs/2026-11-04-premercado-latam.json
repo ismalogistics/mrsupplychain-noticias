@@ -1,0 +1,72 @@
+{
+ "id": "2026-11-04-premercado-latam",
+ "fecha": "2026-11-04",
+ "momento": "premercado",
+ "mercado": "latam",
+ "hora": "05:20 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Brasil espera la Selic tras caer 1.4% y el real en 5.49; Colombia y Argentina cerraron el martes con alzas",
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El martes, el Ibovespa cerró con −1.43% (165,529), el fondo de Perú −1.27%, el de Chile −0.82% y el S&P/TSX de Canadá −0.75% (35,532.28); el COLCAP subió 0.64% (24,617) y el fondo de Argentina 0.15%. En monedas, el real cerró en 5.49 por dólar (−0.95%) y el peso mexicano en 18.86, mientras el chileno se fortaleció a 977."
+   },
+   {
+    "t": "Contexto",
+    "x": "Un Congreso demócrata en EE. UU. y los futuros al alza dan un respiro a los mercados emergentes esta mañana. El crudo estable (WTI 95.89) no presiona a los exportadores de la región."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "El Copom de Brasil anuncia la Selic (13.75%) al cierre de la tarde, en medio de la cautela fiscal; mañana jueves decide Banxico."
+   }
+  ],
+  "scm": "Deja para después del Copom las liquidaciones en reales que no sean urgentes: la decisión puede mover al real con fuerza esta noche. Si tus importaciones de la región salen por la costa oeste de EE. UU., revisa hoy el plan B por el plazo de huelga en Long Beach."
+ },
+ "en": {
+  "titular": "Brazil awaits the Selic after falling 1.4% with the real at 5.49; Colombia and Argentina closed Tuesday higher",
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Tuesday, the Ibovespa closed down 1.43% (165,529), the Peru fund −1.27%, the Chile fund −0.82% and Canada's S&P/TSX −0.75% (35,532.28); the COLCAP rose 0.64% (24,617) and the Argentina fund 0.15%. In currencies, the real closed at 5.49 per dollar (−0.95%) and the Mexican peso at 18.86, while the Chilean peso strengthened to 977."
+   },
+   {
+    "t": "Context",
+    "x": "A Democratic Congress in the US and rising futures give emerging markets some relief this morning. Steady crude (WTI $95.89) does not pressure the region's exporters."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Brazil's Copom announces the Selic (13.75%) late in the afternoon amid fiscal caution; Banxico decides tomorrow, Thursday."
+   }
+  ],
+  "scm": "Leave non-urgent settlements in reais until after Copom: the decision may move the real sharply tonight. If your imports from the region move through the US West Coast, review your backup plan today given the Long Beach strike deadline."
+ },
+ "pt": {
+  "titular": "O Brasil espera a Selic após cair 1,4% e o dólar a R$ 5,49; Colômbia e Argentina fecharam a terça em alta",
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na terça, o Ibovespa fechou em −1,43% (165.529), o fundo do Peru −1,27%, o do Chile −0,82% e o S&P/TSX do Canadá −0,75% (35.532,28); o COLCAP subiu 0,64% (24.617) e o fundo da Argentina 0,15%. Nas moedas, o dólar fechou a R$ 5,49 (−0,95% para o real) e o peso mexicano a 18,86, enquanto o chileno se fortaleceu a 977."
+   },
+   {
+    "t": "Contexto",
+    "x": "Um Congresso democrata nos EUA e os futuros em alta dão um respiro aos mercados emergentes nesta manhã. O petróleo estável (WTI a 95,89) não pressiona os exportadores da região."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "O Copom anuncia a Selic (13,75%) no fim da tarde, em meio à cautela fiscal; amanhã, quinta, decide o Banxico."
+   }
+  ],
+  "scm": "Deixe para depois do Copom as liquidações em reais que não sejam urgentes: a decisão pode mover o real com força esta noite. Se suas importações da região passam pela costa oeste dos EUA, revise hoje o plano B pelo prazo da greve em Long Beach."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "Yahoo Finance: futuros tras el control demócrata de la Cámara y el Senado (4 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html"
+  }
+ ]
+}

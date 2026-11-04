@@ -1,0 +1,76 @@
+{
+ "id": "2026-11-04-premercado-mexico",
+ "fecha": "2026-11-04",
+ "momento": "premercado",
+ "mercado": "mexico",
+ "hora": "05:20 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El peso amanece en 18.86 tras perder 1.4% el martes; el FIX determinado ayer fue 18.7592 y Banxico decide mañana",
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El peso cerró el martes en 18.83 por dólar según Banxico (−1.40%), la moneda con peor desempeño de su grupo, y en la madrugada cotizaba en 18.86. El FIX determinado el martes, publicado hoy en el DOF, fue 18.7592; en ventanilla los bancos cotizan alrededor de 18.45 a la compra y 18.92 a la venta."
+   },
+   {
+    "t": "Contexto",
+    "x": "Un Congreso demócrata no cambia los aranceles vigentes, pero el mercado lo lee como un contrapeso a la política comercial: los futuros de EE. UU. suben y el dólar se debilita frente al yen. El peso, en cambio, sigue presionado por la expectativa de un recorte de Banxico que reduciría el diferencial de tasas con EE. UU."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Sin datos relevantes de INEGI hoy. Mañana jueves 5 decide Banxico, con la tasa en 6.50%; un recorte de 25 pb dejaría el diferencial con la Fed en mínimos."
+   }
+  ],
+  "scm": "Con el peso en 18.86 y Banxico mañana, no esperes una apreciación rápida: si tienes pagos en dólares de la quincena, cubre la mitad hoy y la otra después de la decisión. Revisa con tu agente aduanal el tipo de cambio de pedimento que aplicará esta semana."
+ },
+ "en": {
+  "titular": "The peso starts at 18.86 after losing 1.4% on Tuesday; yesterday's FIX was 18.7592 and Banxico decides tomorrow",
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "The peso closed Tuesday at 18.83 per dollar according to Banxico (−1.40%), the worst performer in its group, and overnight traded at 18.86. The FIX set on Tuesday, published today in the DOF, was 18.7592; at bank branches quotes are around 18.45 to buy and 18.92 to sell."
+   },
+   {
+    "t": "Context",
+    "x": "A Democratic Congress does not change the tariffs in force, but the market reads it as a check on trade policy: US futures rise and the dollar weakens against the yen. The peso, however, remains under pressure from the expectation of a Banxico cut that would narrow the rate gap with the US."
+   },
+   {
+    "t": "What to expect today",
+    "x": "No major INEGI data today. Tomorrow, Thursday the 5th, Banxico decides with the rate at 6.50%; a 25 bp cut would leave the gap with the Fed at a record low."
+   }
+  ],
+  "scm": "With the peso at 18.86 and Banxico tomorrow, do not expect a quick appreciation: if you have dollar payments due this fortnight, hedge half today and the rest after the decision. Check with your customs broker which exchange rate will apply to this week's import declarations."
+ },
+ "pt": {
+  "titular": "O peso amanhece a 18,86 após perder 1,4% na terça; o FIX de ontem foi 18,7592 e o Banxico decide amanhã",
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "O peso fechou a terça a 18,83 por dólar segundo o Banxico (−1,40%), a moeda com pior desempenho do seu grupo, e de madrugada era cotado a 18,86. O FIX determinado na terça, publicado hoje no DOF, foi 18,7592; nas agências os bancos cotam cerca de 18,45 na compra e 18,92 na venda."
+   },
+   {
+    "t": "Contexto",
+    "x": "Um Congresso democrata não muda as tarifas vigentes, mas o mercado o lê como contrapeso à política comercial: os futuros dos EUA sobem e o dólar se enfraquece frente ao iene. O peso, porém, segue pressionado pela expectativa de um corte do Banxico que reduziria o diferencial de juros com os EUA."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Sem dados relevantes do INEGI hoje. Amanhã, quinta, dia 5, decide o Banxico, com a taxa em 6,50%; um corte de 25 pb deixaria o diferencial com o Fed em mínimos."
+   }
+  ],
+  "scm": "Com o peso a 18,86 e o Banxico amanhã, não espere uma valorização rápida: se você tem pagamentos em dólares na quinzena, proteja metade hoje e o resto depois da decisão. Confirme com seu despachante aduaneiro qual câmbio será aplicado às declarações de importação desta semana."
+ },
+ "fuentes": [
+  {
+   "t": "N+: tipo de cambio y FIX del miércoles 4 de noviembre",
+   "u": "https://www.nmas.com.mx/economia/dolar/como-esta-tipo-de-cambio-peso-dolar-estadounidense-mexico-miercoles-4-noviembre-2026/"
+  },
+  {
+   "t": "Publimetro: el peso cierra en 18.83 por dólar",
+   "u": "https://www.publimetro.com.mx/noticias/2026/11/04/elecciones-ee-uu-golpean-peso-dolar-roza-19-pesos/"
+  },
+  {
+   "t": "Yahoo Finance: futuros tras el control demócrata de la Cámara y el Senado (4 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html"
+  }
+ ]
+}
