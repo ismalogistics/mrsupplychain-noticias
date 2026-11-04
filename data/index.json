@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-04-cierre-global",
+   "fecha": "2026-11-04",
+   "momento": "cierre",
+   "mercado": "global",
+   "titular_es": "El Dow sube 3% (+1,569 puntos), su mejor día desde abril de 2025, y el petróleo se desploma casi 10%: el Congreso demócrata abarata fletes y combustible",
+   "titular_en": "The Dow jumps 3% (+1,569 points), its best day since April 2025, and oil plunges almost 10%: the Democratic Congress lowers freight and fuel costs",
+   "titular_pt": "O Dow sobe 3% (+1.569 pontos), seu melhor dia desde abril de 2025, e o petróleo despenca quase 10%: o Congresso democrata barateia fretes e combustível"
+  },
+  {
+   "id": "2026-11-04-cierre-latam",
+   "fecha": "2026-11-04",
+   "momento": "cierre",
+   "mercado": "latam",
+   "titular_es": "Copom pausa: la Selic se queda en 13.75% y termina el ciclo de recortes; Chile sube 2.5% y Colombia borra sus ganancias",
+   "titular_en": "Copom pauses: the Selic stays at 13.75% and the cutting cycle ends; Chile rises 2.5% and Colombia erases its gains",
+   "titular_pt": "Copom faz pausa: a Selic fica em 13,75% e o ciclo de cortes termina; Chile sobe 2,5% e Colômbia apaga seus ganhos"
+  },
+  {
+   "id": "2026-11-04-cierre-mexico",
+   "fecha": "2026-11-04",
+   "momento": "cierre",
+   "mercado": "mexico",
+   "titular_es": "El peso cierra en 18.57 por dólar (+1.4%) y recupera lo perdido el martes; el IPC sube 0.6% antes de Banxico",
+   "titular_en": "The peso closes at 18.57 per dollar (+1.4%) and recovers Tuesday's loss; the IPC rises 0.6% ahead of Banxico",
+   "titular_pt": "O peso fecha a 18,57 por dólar (+1,4%) e recupera a perda de terça; o IPC sobe 0,6% antes do Banxico"
+  },
+  {
    "id": "2026-11-04-mediodia-global",
    "fecha": "2026-11-04",
    "momento": "mediodia",

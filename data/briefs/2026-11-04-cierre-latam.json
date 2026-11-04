@@ -1,0 +1,87 @@
+{
+ "id": "2026-11-04-cierre-latam",
+ "fecha": "2026-11-04",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "15:50 CDMX",
+ "es": {
+  "titular": "Copom pausa: la Selic se queda en 13.75% y termina el ciclo de recortes; Chile sube 2.5% y Colombia borra sus ganancias",
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "Hacia el cierre, el IPSA de Chile ganaba 2.52% (10,627.08), la Bolsa de Lima 1.68% y el Ibovespa 1.06% (167,276); el COLCAP de Colombia borró sus ganancias y cayó 1.12%. El S&P/TSX de Canadá subía 2.1% (36,290) a media sesión."
+   },
+   {
+    "t": "Por qué",
+    "x": "El dólar débil tras la elección en EE. UU. impulsó a la región. Al cierre, el Copom de Brasil mantuvo la Selic en 13.75% y terminó el ciclo de recortes que empezó en marzo: citó un entorno externo más adverso por la guerra entre EE. UU. e Irán y expectativas de inflación de 5.2% para 2026, lejos de la meta de 3%."
+   },
+   {
+    "t": "Monedas",
+    "x": "Por la tarde, el peso chileno se apreciaba 1.25% (970 por dólar), el colombiano 0.73% (3,219), el sol 0.46% (3.44) y el real 0.64% (5.45). El peso argentino mayorista estaba en 1,548."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "El mercado brasileño reaccionará mañana al comunicado del Copom. Banxico decide el jueves 5. La caída del crudo pesará en Petrobras y en las monedas de exportadores de petróleo como Colombia."
+   }
+  ],
+  "scm": "Con la Selic sin cambio el real seguirá caro de financiar: si pagas a proveedores en Brasil, revisa los plazos de pago antes de aceptar descuentos por pronto pago. Las monedas fuertes de Chile y Perú encarecen las compras en dólares a esos países, pero abaratan los pagos en moneda local."
+ },
+ "en": {
+  "titular": "Copom pauses: the Selic stays at 13.75% and the cutting cycle ends; Chile rises 2.5% and Colombia erases its gains",
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "Toward the close, Chile's IPSA gained 2.52% (10,627.08), the Lima Stock Exchange 1.68% and the Ibovespa 1.06% (167,276); Colombia's COLCAP erased its gains and fell 1.12%. Canada's S&P/TSX was up 2.1% (36,290) at midday."
+   },
+   {
+    "t": "Why",
+    "x": "The weak dollar after the US election lifted the region. At the close, Brazil's Copom kept the Selic at 13.75% and ended the cutting cycle that began in March: it cited a more adverse external environment due to the US–Iran war and inflation expectations of 5.2% for 2026, far from the 3% target."
+   },
+   {
+    "t": "Currencies",
+    "x": "In the afternoon, the Chilean peso gained 1.25% (970 per dollar), the Colombian peso 0.73% (3,219), the sol 0.46% (3.44) and the real 0.64% (5.45). The Argentine wholesale peso was at 1,548."
+   },
+   {
+    "t": "What to expect",
+    "x": "Brazil's market will react tomorrow to the Copom statement. Banxico decides Thursday the 5th. The drop in crude will weigh on Petrobras and on the currencies of oil exporters such as Colombia."
+   }
+  ],
+  "scm": "With the Selic unchanged, the real will stay expensive to finance: if you pay suppliers in Brazil, review payment terms before accepting early-payment discounts. Strong Chilean and Peruvian currencies make dollar purchases from those countries pricier, but make local-currency payments cheaper."
+ },
+ "pt": {
+  "titular": "Copom faz pausa: a Selic fica em 13,75% e o ciclo de cortes termina; Chile sobe 2,5% e Colômbia apaga seus ganhos",
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "Perto do fechamento, o IPSA do Chile ganhava 2,52% (10.627,08), a Bolsa de Lima 1,68% e o Ibovespa 1,06% (167.276); o COLCAP da Colômbia apagou seus ganhos e caiu 1,12%. O S&P/TSX do Canadá subia 2,1% (36.290) no meio da sessão."
+   },
+   {
+    "t": "Por quê",
+    "x": "O dólar fraco após a eleição nos EUA impulsionou a região. No fechamento, o Copom manteve a Selic em 13,75% e encerrou o ciclo de cortes iniciado em março: citou um ambiente externo mais adverso pela guerra entre EUA e Irã e expectativas de inflação de 5,2% para 2026, longe da meta de 3%."
+   },
+   {
+    "t": "Moedas",
+    "x": "À tarde, o peso chileno se valorizava 1,25% (970 por dólar), o colombiano 0,73% (3.219), o sol 0,46% (3,44) e o real 0,64% (R$ 5,45). O peso argentino no atacado estava em 1.548."
+   },
+   {
+    "t": "O que se espera",
+    "x": "O mercado brasileiro vai reagir amanhã ao comunicado do Copom. O Banxico decide na quinta, dia 5. A queda do petróleo vai pesar sobre a Petrobras e sobre as moedas de exportadores de petróleo como a Colômbia."
+   }
+  ],
+  "scm": "Com a Selic sem mudança, o real seguirá caro de financiar: se você paga fornecedores no Brasil, revise os prazos de pagamento antes de aceitar descontos por pagamento antecipado. As moedas fortes do Chile e do Peru encarecem as compras em dólares desses países, mas barateiam os pagamentos em moeda local."
+ },
+ "fuentes": [
+  {
+   "t": "GBM (Reuters): monedas y bolsas de América Latina suben tras la victoria demócrata, 4 de noviembre de 2026",
+   "u": "https://gbm.com/media/noticia/monedas-y-bolsas-en-a-latina-suben-tras-solida-victoria-de-democratas-en-elecciones-de-medio-termino-eeuu"
+  },
+  {
+   "t": "O Tempo: Copom mantém Selic em 13,75% e interrompe sequência de cortes",
+   "u": "https://www.otempo.com.br/economia/2026/11/4/copom-mantem-taxa-selic-em-13-75-e-interrompe-sequencia-de-cortes"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

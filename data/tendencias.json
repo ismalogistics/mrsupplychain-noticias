@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-04T17:42:09Z",
+ "actualizado": "2026-11-04T21:50:25Z",
  "fecha": "2026-11-04",
  "titular": {
-  "es": "Long Beach al filo de la huelga, AMD al alza y metales con el dólar débil: lo que mueve a las industrias tras la elección",
-  "en": "Long Beach on the brink of a strike, AMD higher and metals on a weak dollar: what moves industries after the election",
-  "pt": "Long Beach à beira da greve, AMD em alta e metais com o dólar fraco: o que move as indústrias após a eleição"
+  "es": "El petróleo se desploma, la IA cae por los centros de datos y Long Beach llega sin acuerdo: el resumen de las industrias del día después de la elección",
+  "en": "Oil plunges, AI falls on data centers and Long Beach arrives without a deal: the industry summary for the day after the election",
+  "pt": "O petróleo despenca, a IA cai pelos data centers e Long Beach chega sem acordo: o resumo das indústrias no dia seguinte à eleição"
  },
  "items": [
   {
@@ -16,14 +16,14 @@
    "en": "Maritime and ports",
    "pt": "Marítimo e portos",
    "titular": {
-    "es": "Hoy vence el plazo de huelga en Los Ángeles–Long Beach: seis terminales en riesgo desde las 18:00 CDMX",
-    "en": "The Los Angeles–Long Beach strike deadline expires today: six terminals at risk from 6:00 p.m. Mexico City time",
-    "pt": "Hoje vence o prazo da greve em Los Angeles–Long Beach: seis terminais em risco a partir das 18h (Cidade do México)"
+    "es": "Long Beach llega a la noche sin acuerdo reportado: el plazo de huelga de los vigilantes vence a las 19:00 CDMX",
+    "en": "Long Beach heads into the evening with no reported deal: the watchmen strike deadline expires at 7:00 p.m. Mexico City time",
+    "pt": "Long Beach chega à noite sem acordo reportado: o prazo da greve dos vigilantes vence às 19h (Cidade do México)"
    },
    "x": {
-    "es": "Los cerca de 250 guardias de ILWU Local 26 pospusieron su huelga hasta las 17:00 del Pacífico de este miércoles mientras negocian con la PMA con un mediador federal. Si estalla, la PMA espera que los estibadores respeten los piquetes en seis terminales, que mueven cerca de 85% de la carga de Long Beach y un tercio de la de Los Ángeles.",
-    "en": "About 250 ILWU Local 26 watchmen postponed their strike until 5 p.m. Pacific this Wednesday while they negotiate with the PMA with a federal mediator. If it starts, the PMA expects dockworkers to honor picket lines at six terminals handling about 85% of Long Beach cargo and a third of Los Angeles cargo.",
-    "pt": "Os cerca de 250 vigilantes do ILWU Local 26 adiaram a greve até as 17h do Pacífico desta quarta enquanto negociam com a PMA com um mediador federal. Se começar, a PMA espera que os estivadores respeitem os piquetes em seis terminais, que movimentam cerca de 85% da carga de Long Beach e um terço da de Los Angeles."
+    "es": "Unos 250 vigilantes de ILWU Local 26 negocian con la PMA con mediación federal; su plazo vence a las 17:00 hora del Pacífico (19:00 CDMX). Sus terminales mueven cerca de 85% de la carga de Long Beach y 33% de la de Los Ángeles, y otros estibadores podrían respetar los piquetes. Al cierre de este brief no se había reportado acuerdo ni prórroga.",
+    "en": "About 250 ILWU Local 26 watchmen are negotiating with the PMA under federal mediation; their deadline expires at 5:00 p.m. Pacific (7:00 p.m. Mexico City). Their terminals handle about 85% of Long Beach cargo and 33% of Los Angeles cargo, and other dockworkers could honor picket lines. At the time of this brief no deal or extension had been reported.",
+    "pt": "Cerca de 250 vigilantes do ILWU Local 26 negociam com a PMA com mediação federal; o prazo vence às 17h no Pacífico (19h na Cidade do México). Seus terminais movimentam cerca de 85% da carga de Long Beach e 33% da de Los Angeles, e outros estivadores poderiam respeitar os piquetes. No fechamento deste brief não havia sido reportado acordo nem prorrogação."
    },
    "scm": {
     "es": "Confirma hoy con tu agente qué contenedores tienes en APM, LBCT, TTI, SSA y PCT, y ten reservado el desvío a Oakland o a Lázaro Cárdenas.",
@@ -32,8 +32,8 @@
    },
    "fuentes": [
     {
-     "t": "IAM: el plazo de huelga en Los Ángeles–Long Beach se mueve al 4 de noviembre",
-     "u": "https://iamovers.org/news/l-a-long-beach-port-strike-deadline-pushed-to-4-november-as-talks-continue/"
+     "t": "PortX Logistics: el plazo de huelga en LA/Long Beach entra en sus horas finales",
+     "u": "https://www.portxlogistics.com/2026/11/03/la-lb-strike-threat-looms-labor-talks-final-hours/"
     }
    ],
    "latam": true
@@ -71,7 +71,7 @@
   },
   {
    "id": "semis",
-   "dir": "up",
+   "dir": "down",
    "calor": 3,
    "mx": false,
    "latam": false,
@@ -79,59 +79,59 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "AMD sube cerca de 6% tras un reporte con ventas de centros de datos que casi se duplicaron",
-    "en": "AMD rises about 6% after a report with data center sales nearly doubling",
-    "pt": "A AMD sobe cerca de 6% após um balanço com vendas de data centers que quase dobraram"
+    "es": "Los chips y la infraestructura de IA caen por el temor a restricciones a centros de datos: Nvidia −3%, CoreWeave −10%",
+    "en": "Chips and AI infrastructure fall on fears of data center restrictions: Nvidia −3%, CoreWeave −10%",
+    "pt": "Chips e infraestrutura de IA caem pelo temor de restrições a data centers: Nvidia −3%, CoreWeave −10%"
    },
    "x": {
-    "es": "AMD superó estimados en el tercer trimestre y sus ventas de centros de datos casi se duplicaron; la acción subía cerca de 6% antes de la apertura. En cambio, Nvidia y Micron caían más de 1% en premercado por la preocupación de una regulación más estricta de la IA con un Congreso demócrata.",
-    "en": "AMD beat estimates in the third quarter and its data center sales nearly doubled; the stock was up about 6% before the open. By contrast, Nvidia and Micron fell more than 1% pre-market on concerns about tighter AI regulation under a Democratic Congress.",
-    "pt": "A AMD superou as estimativas no terceiro trimestre e suas vendas de data centers quase dobraram; a ação subia cerca de 6% antes da abertura. Já Nvidia e Micron caíam mais de 1% no pré-mercado pela preocupação com uma regulação mais rígida da IA com um Congresso democrata."
+    "es": "El índice de semiconductores de Filadelfia tocó un mínimo de seis meses y AMD terminó a la baja pese a su reporte. Pesó la promesa de la gobernadora electa de Texas de una moratoria a nuevos centros de datos; Nvidia cayó 3%, Oracle casi 2% y CoreWeave casi 10%.",
+    "en": "The Philadelphia Semiconductor Index hit a six-month low and AMD ended lower despite its report. Texas' governor-elect's promise of a moratorium on new data centers weighed; Nvidia fell 3%, Oracle almost 2% and CoreWeave almost 10%.",
+    "pt": "O índice de semicondutores da Filadélfia tocou a mínima de seis meses e a AMD terminou em queda apesar do balanço. Pesou a promessa da governadora eleita do Texas de uma moratória a novos data centers; a Nvidia caiu 3%, a Oracle quase 2% e a CoreWeave quase 10%."
    },
    "scm": {
-    "es": "La demanda de centros de datos sigue absorbiendo chips y memoria: asegura asignaciones del primer trimestre con tus distribuidores de electrónica.",
-    "en": "Data center demand keeps absorbing chips and memory: secure first-quarter allocations with your electronics distributors.",
-    "pt": "A demanda de data centers segue absorvendo chips e memória: garanta alocações do primeiro trimestre com seus distribuidores de eletrônicos."
+    "es": "Si compras servidores o capacidad de nube, vigila si la moratoria en Texas retrasa proyectos y cambia los tiempos de entrega de equipo.",
+    "en": "If you buy servers or cloud capacity, watch whether the Texas moratorium delays projects and changes equipment lead times.",
+    "pt": "Se você compra servidores ou capacidade de nuvem, observe se a moratória no Texas atrasa projetos e muda os prazos de entrega de equipamentos."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: futuros y AMD tras la elección (4 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html"
+     "t": "Finwire: el Dow cierra con alza de 3% tras la victoria demócrata, 4 de noviembre de 2026",
+     "u": "https://finwire.io/news/stock-markets-news/dow-closes-3-higher-as-democrats-midterm-victory-eases-wall-street-uncertainty"
     },
     {
-     "t": "TheStreet: Stock Market Today, 4 de noviembre de 2026",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+     "t": "Forbes: el Dow gana 1,500 puntos; acciones ligadas a IA cierran a la baja, 4 de noviembre de 2026",
+     "u": "https://www.forbes.com/sites/fionariley/2026/11/04/dow-jumps-over-1500-points-after-democrats-take-congress-in-midterms/"
     }
    ]
   },
   {
    "id": "energia",
-   "dir": "mixed",
-   "calor": 2,
+   "dir": "down",
+   "calor": 3,
    "mx": true,
    "latam": true,
    "es": "Energía y combustibles",
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo cede tras la elección (WTI 95.27, Brent 102.30), pero el diésel sigue en récord",
-    "en": "Crude eases after the election (WTI $95.27, Brent $102.30), but diesel remains at a record",
-    "pt": "O petróleo recua após a eleição (WTI 95,27, Brent 102,30), mas o diesel segue em recorde"
+    "es": "El Brent se desploma 9.7% a 93.52 dólares y el WTI 8.9% a 87.56 por la expectativa de un acuerdo con Irán",
+    "en": "Brent plunges 9.7% to $93.52 and WTI 8.9% to $87.56 on hopes of an Iran deal",
+    "pt": "O Brent despenca 9,7% para 93,52 dólares e o WTI 8,9% para 87,56 pela expectativa de um acordo com o Irã"
    },
    "x": {
-    "es": "A las 7:27 de Nueva York, el WTI bajaba 0.85% a 95.27 dólares y el Brent 1.21% a 102.30. El martes, la AAA reportó diésel en 6.29 dólares por galón, récord para un día de elección; los recargos se ajustan con una a dos semanas de rezago.",
-    "en": "At 7:27 a.m. New York time, WTI was down 0.85% at $95.27 and Brent 1.21% at $102.30. On Tuesday, AAA reported diesel at $6.29 per gallon, a record for an Election Day; surcharges adjust with a one- to two-week lag.",
-    "pt": "Às 7h27 de Nova York, o WTI caía 0,85% a 95,27 dólares e o Brent 1,21% a 102,30. Na terça, a AAA reportou diesel a 6,29 dólares por galão, recorde para um dia de eleição; as sobretaxas se ajustam com uma a duas semanas de defasagem."
+    "es": "El crudo tuvo su mayor caída en meses: Trump dijo que no planea nuevos ataques contra Irán y un funcionario iraní habló de reabrir el estrecho de Ormuz si se levantan sanciones. Una baja de 900 mil barriles en los inventarios de EE. UU. no frenó la caída. Las acciones de energía y las refinadoras fueron las más castigadas de Wall Street.",
+    "en": "Crude had its biggest drop in months: Trump said he has no plans for new strikes on Iran and an Iranian official spoke of reopening the Strait of Hormuz if sanctions are lifted. A 900,000-barrel draw in US inventories did not stop the fall. Energy stocks and refiners were the hardest hit on Wall Street.",
+    "pt": "O petróleo teve sua maior queda em meses: Trump disse que não planeja novos ataques ao Irã e um funcionário iraniano falou em reabrir o estreito de Ormuz se as sanções forem suspensas. Uma queda de 900 mil barris nos estoques dos EUA não freou a baixa. As ações de energia e as refinarias foram as mais castigadas de Wall Street."
    },
    "scm": {
-    "es": "No aceptes bajas de recargo de combustible hasta que el índice semanal de diésel lo refleje: hoy la bomba sigue en récord.",
-    "en": "Do not accept fuel-surcharge cuts until the weekly diesel index reflects them: the pump is still at a record today.",
-    "pt": "Não aceite cortes de sobretaxa de combustível até que o índice semanal de diesel os reflita: hoje a bomba segue em recorde."
+    "es": "Pide a tus transportistas que el recargo por combustible se ajuste cada semana para capturar la baja del diésel cuando llegue.",
+    "en": "Ask carriers to adjust the fuel surcharge weekly so you capture the diesel drop when it arrives.",
+    "pt": "Peça às transportadoras que a sobretaxa de combustível seja ajustada toda semana para capturar a queda do diesel quando chegar."
    },
    "fuentes": [
     {
-     "t": "TheStreet: Stock Market Today, 4 de noviembre de 2026",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+     "t": "FinanceFeeds: el Brent cae 9.7% a 93.52 dólares, 4 de noviembre de 2026",
+     "u": "https://financefeeds.com/brent-crude-oil-price-93-iran-bull-105-bear-88/"
     }
    ]
   },
@@ -145,9 +145,9 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "El oro sube casi 3% a 4,052.90 y la plata 4.9% con el dólar débil tras la elección",
-    "en": "Gold rises nearly 3% to 4,052.90 and silver 4.9% on the weak dollar after the election",
-    "pt": "O ouro sobe quase 3% a 4.052,90 e a prata 4,9% com o dólar fraco após a eleição"
+    "es": "El oro sube 3.3% a 4,071.80 dólares con el dólar débil tras la elección",
+    "en": "Gold rises 3.3% to $4,071.80 on the weak dollar after the election",
+    "pt": "O ouro sobe 3,3% para 4.071,80 dólares com o dólar fraco após a eleição"
    },
    "x": {
     "es": "A las 9:05 de Nueva York, el oro subía 2.86% a 4,052.90 dólares la onza y la plata 4.94% a 52.21, impulsados por la caída del dólar tras el triunfo demócrata. México y Perú, grandes productores de plata, son los más expuestos al movimiento.",
@@ -160,6 +160,10 @@
     "pt": "Se você compra insumos com prata ou cobre (eletrônicos, solda, contatos), revise as cláusulas de reajuste por metais dos seus contratos."
    },
    "fuentes": [
+    {
+     "t": "Yahoo Finance: mercados en vivo, 4 de noviembre de 2026",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-earnings-140752043.html"
+    },
     {
      "t": "TheStreet: Stock Market Today, 4 de noviembre de 2026",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
