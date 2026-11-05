@@ -1,0 +1,76 @@
+{
+ "id": "2026-11-05-premercado-mexico",
+ "fecha": "2026-11-05",
+ "momento": "premercado",
+ "mercado": "mexico",
+ "hora": "05:25 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Banxico decide hoy a las 13:00 con la tasa en 6.50% y el peso en 18.57 tras su mejor día desde abril",
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El peso cerró el miércoles en 18.57 por dólar (+1.35%), su mayor ganancia diaria desde el 8 de abril. El FIX determinado ayer, que se publica hoy, quedó en 18.6285."
+   },
+   {
+    "t": "Contexto",
+    "x": "El dólar sigue débil tras el Congreso demócrata (el euro en 1.126 y el yen en 157.8) y el petróleo se mantiene cerca de 88 dólares el WTI, lo que baja la presión sobre la inflación. La caída de los chips en Asia puede pesar en el apetito por riesgo durante la mañana."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Banxico anuncia su decisión a las 13:00 CDMX con la tasa en 6.50%: en la encuesta Citi, 20 de 36 analistas esperan que no cambie y 6 un recorte; en las minutas, tres de cinco miembros se mostraron abiertos a recortar. A las 7:30 salen las solicitudes de subsidio por desempleo en EE. UU."
+   }
+  ],
+  "scm": "Con el peso cerca de 18.57 y Banxico a las 13:00, una sorpresa con recorte podría debilitar al peso: cubre antes de la decisión la parte de tus pagos en dólares que no puede esperar y deja el resto para después del anuncio."
+ },
+ "en": {
+  "titular": "Banxico decides today at 1:00 p.m. with the rate at 6.50% and the peso at 18.57 after its best day since April",
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "The peso closed Wednesday at 18.57 per dollar (+1.35%), its biggest daily gain since April 8. Yesterday's FIX, published today, came in at 18.6285."
+   },
+   {
+    "t": "Context",
+    "x": "The dollar stays weak after the Democratic Congress (the euro at 1.126 and the yen at 157.8), and WTI holds near $88, easing inflation pressure. The chip selloff in Asia may weigh on risk appetite during the morning."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Banxico announces its decision at 1:00 p.m. Mexico City time with the rate at 6.50%: in the Citi survey, 20 of 36 analysts expect no change and 6 a cut; in the minutes, three of five board members were open to cutting. US weekly jobless claims come out at 7:30."
+   }
+  ],
+  "scm": "With the peso near 18.57 and Banxico at 1:00 p.m., a surprise cut could weaken the peso: before the decision, hedge the portion of your dollar payments that can't wait and leave the rest for after the announcement."
+ },
+ "pt": {
+  "titular": "O Banxico decide hoje às 13h com a taxa em 6,50% e o peso a 18,57 após seu melhor dia desde abril",
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "O peso fechou a quarta a 18,57 por dólar (+1,35%), seu maior ganho diário desde 8 de abril. O FIX determinado ontem, publicado hoje, ficou em 18,6285."
+   },
+   {
+    "t": "Contexto",
+    "x": "O dólar segue fraco após o Congresso democrata (o euro a 1,126 e o iene a 157,8) e o WTI se mantém perto de 88 dólares, o que reduz a pressão sobre a inflação. A queda dos chips na Ásia pode pesar sobre o apetite por risco pela manhã."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "O Banxico anuncia sua decisão às 13h (Cidade do México) com a taxa em 6,50%: na pesquisa do Citi, 20 de 36 analistas esperam manutenção e 6 um corte; na ata, três de cinco membros se mostraram abertos a cortar. Às 7h30 saem os pedidos de seguro-desemprego dos EUA."
+   }
+  ],
+  "scm": "Com o peso perto de 18,57 e o Banxico às 13h, uma surpresa com corte poderia enfraquecer o peso: proteja antes da decisão a parte dos seus pagamentos em dólares que não pode esperar e deixe o resto para depois do anúncio."
+ },
+ "fuentes": [
+  {
+   "t": "N+: así cotiza el peso este jueves 5 de noviembre",
+   "u": "https://www.nmas.com.mx/economia/dolar/como-esta-tipo-de-cambio-peso-mexicano-dolar-estadounidense-jueves-5-noviembre-2026/"
+  },
+  {
+   "t": "Bloomberg Línea: Banxico decide su tasa este jueves; qué esperan los analistas",
+   "u": "https://www.bloomberglinea.com/latinoamerica/mexico/banxico-decide-su-tasa-este-jueves-con-el-peso-al-alza-tras-la-derrota-republicana-que-esperan-los-analistas/"
+  },
+  {
+   "t": "XTB: lo que mueve al mercado, 5 de noviembre de 2026",
+   "u": "https://xtb.com/en/market-analysis/what-drives-the-market-top-morning-news-november-5-2026"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "2026-11-05-premercado-latam",
+ "fecha": "2026-11-05",
+ "momento": "premercado",
+ "mercado": "latam",
+ "hora": "05:25 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "La región cerró al alza tras la elección y Brasil reacciona hoy a la pausa del Copom en 13.75%",
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El miércoles el Ibovespa cerró en 167,563.47 (+1.23%) y el S&P/TSX de Canadá en 36,341.4 (+2.28%); los fondos de Chile (+4.04%) y Perú (+3.1%) lideraron. Al cierre, el Copom mantuvo la Selic en 13.75% y terminó el ciclo de recortes por un entorno externo más adverso."
+   },
+   {
+    "t": "Contexto",
+    "x": "El dólar débil y el crudo cerca de 88 dólares favorecen a importadores, pero pesan en exportadores de petróleo como Colombia y en Petrobras. En la noche, el peso chileno quedó en 965.6 por dólar, el real en 5.46, el peso colombiano en 3,220 y el sol en 3.45."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "El mercado brasileño reacciona al comunicado del Copom, que dejó la puerta cerrada a más recortes por ahora. En México decide Banxico a las 13:00 CDMX. La caída de los chips en Asia puede restar apetito por riesgo en la región durante la mañana."
+   }
+  ],
+  "scm": "Con la Selic en 13.75% el financiamiento en Brasil sigue caro: revisa plazos de pago y descuentos por pronto pago con proveedores brasileños. Las monedas fuertes de Chile y Perú abaratan los pagos en moneda local; aprovecha si tienes facturas en pesos chilenos o soles."
+ },
+ "en": {
+  "titular": "The region closed higher after the election and Brazil reacts today to Copom's pause at 13.75%",
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Wednesday the Ibovespa closed at 167,563.47 (+1.23%) and Canada's S&P/TSX at 36,341.4 (+2.28%); the Chile (+4.04%) and Peru (+3.1%) funds led. At the close, Copom held the Selic at 13.75% and ended the cutting cycle, citing a more adverse external environment."
+   },
+   {
+    "t": "Context",
+    "x": "The weak dollar and crude near $88 favor importers but weigh on oil exporters such as Colombia and on Petrobras. Overnight, the Chilean peso was at 965.6 per dollar, the real at 5.46, the Colombian peso at 3,220 and the sol at 3.45."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Brazil's market reacts to the Copom statement, which closed the door to more cuts for now. In Mexico, Banxico decides at 1:00 p.m. Mexico City time. The chip selloff in Asia may sap the region's risk appetite in the morning."
+   }
+  ],
+  "scm": "With the Selic at 13.75%, financing in Brazil stays expensive: review payment terms and early-payment discounts with Brazilian suppliers. Strong Chilean and Peruvian currencies make local-currency payments cheaper; take advantage if you have invoices in Chilean pesos or soles."
+ },
+ "pt": {
+  "titular": "A região fechou em alta após a eleição e o Brasil reage hoje à pausa do Copom em 13,75%",
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na quarta o Ibovespa fechou em 167.563,47 (+1,23%) e o S&P/TSX do Canadá em 36.341,4 (+2,28%); os fundos do Chile (+4,04%) e do Peru (+3,1%) lideraram. No fechamento, o Copom manteve a Selic em 13,75% e encerrou o ciclo de cortes por um ambiente externo mais adverso."
+   },
+   {
+    "t": "Contexto",
+    "x": "O dólar fraco e o petróleo perto de 88 dólares favorecem importadores, mas pesam sobre exportadores de petróleo como a Colômbia e sobre a Petrobras. À noite, o peso chileno ficou em 965,6 por dólar, o dólar em R$ 5,46, o peso colombiano em 3.220 e o sol em 3,45."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "O mercado brasileiro reage ao comunicado do Copom, que fechou a porta para novos cortes por enquanto. No México, o Banxico decide às 13h (Cidade do México). A queda dos chips na Ásia pode reduzir o apetite por risco na região pela manhã."
+   }
+  ],
+  "scm": "Com a Selic em 13,75%, o financiamento no Brasil segue caro: revise prazos de pagamento e descontos por pagamento antecipado com fornecedores brasileiros. As moedas fortes do Chile e do Peru barateiam os pagamentos em moeda local; aproveite se tiver faturas em pesos chilenos ou soles."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "O Tempo: Copom mantém Selic em 13,75% e interrompe sequência de cortes",
+   "u": "https://www.otempo.com.br/economia/2026/11/4/copom-mantem-taxa-selic-em-13-75-e-interrompe-sequencia-de-cortes"
+  }
+ ]
+}

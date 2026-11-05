@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-05-premercado-global",
+   "fecha": "2026-11-05",
+   "momento": "premercado",
+   "mercado": "global",
+   "titular_es": "El KOSPI se desploma 5.3% por el temor a la regulación de la IA; Wall Street llega mixta y el Banco de Inglaterra podría subir tasas",
+   "titular_en": "The KOSPI plunges 5.3% on fears of AI regulation; Wall Street heads to a mixed open and the Bank of England could raise rates",
+   "titular_pt": "O KOSPI despenca 5,3% pelo temor de regulação da IA; Wall Street chega mista e o Banco da Inglaterra pode subir juros"
+  },
+  {
+   "id": "2026-11-05-premercado-latam",
+   "fecha": "2026-11-05",
+   "momento": "premercado",
+   "mercado": "latam",
+   "titular_es": "La región cerró al alza tras la elección y Brasil reacciona hoy a la pausa del Copom en 13.75%",
+   "titular_en": "The region closed higher after the election and Brazil reacts today to Copom's pause at 13.75%",
+   "titular_pt": "A região fechou em alta após a eleição e o Brasil reage hoje à pausa do Copom em 13,75%"
+  },
+  {
+   "id": "2026-11-05-premercado-mexico",
+   "fecha": "2026-11-05",
+   "momento": "premercado",
+   "mercado": "mexico",
+   "titular_es": "Banxico decide hoy a las 13:00 con la tasa en 6.50% y el peso en 18.57 tras su mejor día desde abril",
+   "titular_en": "Banxico decides today at 1:00 p.m. with the rate at 6.50% and the peso at 18.57 after its best day since April",
+   "titular_pt": "O Banxico decide hoje às 13h com a taxa em 6,50% e o peso a 18,57 após seu melhor dia desde abril"
+  },
+  {
    "id": "2026-11-04-cierre-global",
    "fecha": "2026-11-04",
    "momento": "cierre",

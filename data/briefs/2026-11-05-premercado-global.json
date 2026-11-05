@@ -1,0 +1,84 @@
+{
+ "id": "2026-11-05-premercado-global",
+ "fecha": "2026-11-05",
+ "momento": "premercado",
+ "mercado": "global",
+ "hora": "05:25 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El KOSPI se desploma 5.3% por el temor a la regulación de la IA; Wall Street llega mixta y el Banco de Inglaterra podría subir tasas",
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "Tras el mejor día del Dow desde abril de 2025, el temor a que el Congreso demócrata frene centros de datos golpeó a los chips en Asia. Qualcomm caía cerca de 7% después del cierre por una guía débil, Arm cerca de 2% y AppLovin subía cerca de 24% por sus resultados. Sobre el plazo de huelga de anoche en Los Ángeles–Long Beach no encontré todavía un reporte verificado del resultado."
+   },
+   {
+    "t": "Asia, Europa y futuros",
+    "x": "El KOSPI cerró en 5,383.80 (−5.28%), con SK hynix −9.46% y Samsung −7.57%; el Nikkei bajaba 0.5% (61,914.53) y el Hang Seng subía 2.8% (24,597.59). A las 4:25 CDMX los futuros del Dow subían 0.49%, los del S&P 500 0.05% y los del Nasdaq 100 bajaban 0.53%. El Brent está en 93.91 dólares (−0.8%) y el WTI en 87.27, el oro en 4,137 y el Treasury a 10 años en 4.89%."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "A las 6:00 CDMX decide el Banco de Inglaterra (se espera un alza de 0.25 puntos a 4%). A las 7:30 salen las solicitudes de subsidio por desempleo y la productividad del tercer trimestre (se espera 3%). Antes de la apertura reportan Toyota, ConocoPhillips y Parker-Hannifin; después del cierre, Airbnb y Cloudflare."
+   }
+  ],
+  "scm": "La venta de chips en Asia puede alargar la incertidumbre de precios en memoria y electrónica: si compras componentes, no adelantes órdenes grandes hasta ver si la caída se estabiliza. Confirma con tu agente el estatus de las terminales de Long Beach antes de programar recolecciones."
+ },
+ "en": {
+  "titular": "The KOSPI plunges 5.3% on fears of AI regulation; Wall Street heads to a mixed open and the Bank of England could raise rates",
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "After the Dow's best day since April 2025, fears that the Democratic Congress will curb data centers hit chips in Asia. Qualcomm fell about 7% after the close on weak guidance, Arm about 2%, and AppLovin rose about 24% on its results. I have not yet found a verified report on the outcome of last night's Los Angeles–Long Beach strike deadline."
+   },
+   {
+    "t": "Asia, Europe and futures",
+    "x": "The KOSPI closed at 5,383.80 (−5.28%), with SK hynix −9.46% and Samsung −7.57%; the Nikkei was down 0.5% (61,914.53) and the Hang Seng up 2.8% (24,597.59). At 4:25 a.m. Mexico City time, Dow futures were up 0.49%, S&P 500 futures 0.05% and Nasdaq 100 futures down 0.53%. Brent is at $93.91 (−0.8%) and WTI at $87.27, gold at $4,137 and the 10-year Treasury at 4.89%."
+   },
+   {
+    "t": "What to expect today",
+    "x": "At 6:00 a.m. Mexico City time the Bank of England decides (a 0.25-point hike to 4% is expected). At 7:30, weekly jobless claims and third-quarter productivity (3% expected) come out. Toyota, ConocoPhillips and Parker-Hannifin report before the open; Airbnb and Cloudflare after the close."
+   }
+  ],
+  "scm": "The chip selloff in Asia may prolong price uncertainty in memory and electronics: if you buy components, don't pull forward large orders until the drop stabilizes. Confirm the status of the Long Beach terminals with your agent before scheduling pickups."
+ },
+ "pt": {
+  "titular": "O KOSPI despenca 5,3% pelo temor de regulação da IA; Wall Street chega mista e o Banco da Inglaterra pode subir juros",
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Depois do melhor dia do Dow desde abril de 2025, o temor de que o Congresso democrata freie os data centers atingiu os chips na Ásia. A Qualcomm caía cerca de 7% após o fechamento por uma projeção fraca, a Arm cerca de 2% e a AppLovin subia cerca de 24% pelos resultados. Sobre o prazo da greve de ontem à noite em Los Angeles–Long Beach ainda não encontrei um relato verificado do resultado."
+   },
+   {
+    "t": "Ásia, Europa e futuros",
+    "x": "O KOSPI fechou em 5.383,80 (−5,28%), com SK hynix −9,46% e Samsung −7,57%; o Nikkei caía 0,5% (61.914,53) e o Hang Seng subia 2,8% (24.597,59). Às 4h25 (Cidade do México) os futuros do Dow subiam 0,49%, os do S&P 500 0,05% e os do Nasdaq 100 caíam 0,53%. O Brent está em 93,91 dólares (−0,8%) e o WTI em 87,27, o ouro em 4.137 e o título de 10 anos do Tesouro em 4,89%."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Às 6h (Cidade do México) decide o Banco da Inglaterra (espera-se alta de 0,25 ponto para 4%). Às 7h30 saem os pedidos de seguro-desemprego e a produtividade do terceiro trimestre (espera-se 3%). Antes da abertura divulgam resultados Toyota, ConocoPhillips e Parker-Hannifin; depois do fechamento, Airbnb e Cloudflare."
+   }
+  ],
+  "scm": "A venda de chips na Ásia pode prolongar a incerteza de preços em memória e eletrônicos: se você compra componentes, não antecipe pedidos grandes até ver se a queda se estabiliza. Confirme com seu agente o status dos terminais de Long Beach antes de programar coletas."
+ },
+ "fuentes": [
+  {
+   "t": "The Korea Times: el KOSPI se desploma 5.28% por el temor a la regulación de la IA",
+   "u": "https://www.koreatimes.co.kr/economy/20261105/kospi-tumbles-as-democrat-sweep-fuels-ai-infrastructure-concerns"
+  },
+  {
+   "t": "AP: las bolsas de Asia suben tras la elección, salvo el KOSPI por la venta de chips",
+   "u": "https://www.wsls.com/business/2026/11/05/asian-shares-mostly-advance-following-us-midterms-though-kospi-falls-on-selling-of-chipmakers/"
+  },
+  {
+   "t": "XTB: lo que mueve al mercado, 5 de noviembre de 2026",
+   "u": "https://xtb.com/en/market-analysis/what-drives-the-market-top-morning-news-november-5-2026"
+  },
+  {
+   "t": "TipRanks: futuros mixtos tras el rally por la victoria demócrata, 5 de noviembre",
+   "u": "https://www.tipranks.com/news/stock-market-today-nov-5-futures-mixed-after-democratic-victory-sparks-wall-street-rally"
+  },
+  {
+   "t": "Yahoo Finance: mercados en vivo, jueves 5 de noviembre",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html"
+  }
+ ]
+}
