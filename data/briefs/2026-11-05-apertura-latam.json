@@ -1,0 +1,71 @@
+{
+ "id": "2026-11-05-apertura-latam",
+ "fecha": "2026-11-05",
+ "momento": "apertura",
+ "mercado": "latam",
+ "hora": "09:15 CDMX",
+ "es": {
+  "titular": "Las monedas de la región siguen fuertes frente al dólar; Brasil digiere la pausa del Copom",
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "Con datos de las 5:12 CDMX, el peso chileno estaba en 963.6 por dólar (−1.8% el dólar), el colombiano en 3,216.78 (−1.0%), el real en 5.455 (−0.6%) y el sol en 3.442 (−0.5%). Las bolsas de la región todavía muestran el cierre del miércoles: Ibovespa 167,564 (+1.23%) y S&P/TSX 36,341.4 (+2.28%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "El Copom mantuvo ayer la Selic en 13.75% y terminó el ciclo de recortes. El rebote del petróleo a 90 dólares ayuda a Petrobras y a Colombia, mientras la caída de los chips en Asia resta apetito por riesgo."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "En México decide Banxico a las 13:00 CDMX. En Brasil, el mercado reacciona al comunicado del Copom, que no deja espacio a nuevos recortes por ahora."
+   }
+  ],
+  "scm": "Con las monedas de Chile, Colombia y Perú fuertes, adelanta pagos a proveedores locales en moneda local. Con la Selic en 13.75%, revisa plazos de pago con proveedores brasileños."
+ },
+ "en": {
+  "titular": "The region's currencies stay strong against the dollar; Brazil digests Copom's pause",
+  "bloques": [
+   {
+    "t": "Opening",
+    "x": "With data as of 5:12 a.m. Mexico City time, the Chilean peso was at 963.6 per dollar (dollar −1.8%), the Colombian peso at 3,216.78 (−1.0%), the real at 5.455 (−0.6%) and the sol at 3.442 (−0.5%). The region's exchanges still show Wednesday's close: Ibovespa 167,564 (+1.23%) and S&P/TSX 36,341.4 (+2.28%)."
+   },
+   {
+    "t": "Context",
+    "x": "Copom held the Selic at 13.75% yesterday and ended the cutting cycle. Oil's rebound to $90 helps Petrobras and Colombia, while the chip selloff in Asia saps risk appetite."
+   },
+   {
+    "t": "What to expect today",
+    "x": "In Mexico, Banxico decides at 1:00 p.m. Mexico City time. In Brazil, the market reacts to the Copom statement, which leaves no room for more cuts for now."
+   }
+  ],
+  "scm": "With strong Chilean, Colombian and Peruvian currencies, pull forward payments to local suppliers in local currency. With the Selic at 13.75%, review payment terms with Brazilian suppliers."
+ },
+ "pt": {
+  "titular": "As moedas da região seguem fortes frente ao dólar; o Brasil digere a pausa do Copom",
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Com dados das 5h12 (Cidade do México), o peso chileno estava em 963,6 por dólar (dólar −1,8%), o colombiano em 3.216,78 (−1,0%), o dólar em R$ 5,455 (−0,6%) e o sol em 3,442 (−0,5%). As bolsas da região ainda mostram o fechamento de quarta: Ibovespa 167.564 (+1,23%) e S&P/TSX 36.341,4 (+2,28%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "O Copom manteve ontem a Selic em 13,75% e encerrou o ciclo de cortes. A alta do petróleo para 90 dólares ajuda a Petrobras e a Colômbia, enquanto a queda dos chips na Ásia reduz o apetite por risco."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "No México, o Banxico decide às 13h (Cidade do México). No Brasil, o mercado reage ao comunicado do Copom, que não deixa espaço para novos cortes por enquanto."
+   }
+  ],
+  "scm": "Com as moedas do Chile, da Colômbia e do Peru fortes, antecipe pagamentos a fornecedores locais em moeda local. Com a Selic em 13,75%, revise prazos de pagamento com fornecedores brasileiros."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "O Tempo: Copom mantém Selic em 13,75%",
+   "u": "https://www.otempo.com.br/economia/2026/11/4/copom-mantem-taxa-selic-em-13-75-e-interrompe-sequencia-de-cortes"
+  }
+ ]
+}

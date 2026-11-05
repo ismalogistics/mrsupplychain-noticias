@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-05-apertura-global",
+   "fecha": "2026-11-05",
+   "momento": "apertura",
+   "mercado": "global",
+   "titular_es": "Los chips arrastran al Nasdaq tras Qualcomm (−13%) y Arm (−10%); el Dow sigue arriba y el petróleo rebota a 90 dólares",
+   "titular_en": "Chips drag the Nasdaq after Qualcomm (−13%) and Arm (−10%); the Dow stays higher and oil rebounds to $90",
+   "titular_pt": "Os chips puxam o Nasdaq após Qualcomm (−13%) e Arm (−10%); o Dow segue em alta e o petróleo volta a 90 dólares"
+  },
+  {
+   "id": "2026-11-05-apertura-latam",
+   "fecha": "2026-11-05",
+   "momento": "apertura",
+   "mercado": "latam",
+   "titular_es": "Las monedas de la región siguen fuertes frente al dólar; Brasil digiere la pausa del Copom",
+   "titular_en": "The region's currencies stay strong against the dollar; Brazil digests Copom's pause",
+   "titular_pt": "As moedas da região seguem fortes frente ao dólar; o Brasil digere a pausa do Copom"
+  },
+  {
+   "id": "2026-11-05-apertura-mexico",
+   "fecha": "2026-11-05",
+   "momento": "apertura",
+   "mercado": "mexico",
+   "titular_es": "El peso abre en 18.57 por dólar antes de Banxico; el FIX quedó en 18.6285",
+   "titular_en": "The peso opens at 18.57 per dollar ahead of Banxico; the FIX came in at 18.6285",
+   "titular_pt": "O peso abre a 18,57 por dólar antes do Banxico; o FIX ficou em 18,6285"
+  },
+  {
    "id": "2026-11-05-premercado-global",
    "fecha": "2026-11-05",
    "momento": "premercado",

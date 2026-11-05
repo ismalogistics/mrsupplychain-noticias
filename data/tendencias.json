@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-04T21:50:25Z",
- "fecha": "2026-11-04",
+ "actualizado": "2026-11-05T15:11:59Z",
+ "fecha": "2026-11-05",
  "titular": {
-  "es": "El petróleo se desploma, la IA cae por los centros de datos y Long Beach llega sin acuerdo: el resumen de las industrias del día después de la elección",
-  "en": "Oil plunges, AI falls on data centers and Long Beach arrives without a deal: the industry summary for the day after the election",
-  "pt": "O petróleo despenca, a IA cai pelos data centers e Long Beach chega sem acordo: o resumo das indústrias no dia seguinte à eleição"
+  "es": "Los chips se hunden por Qualcomm y Corea, el petróleo rebota y Long Beach gana un día más",
+  "en": "Chips sink on Qualcomm and Korea, oil rebounds and Long Beach gains another day",
+  "pt": "Os chips afundam com a Qualcomm e a Coreia, o petróleo volta a subir e Long Beach ganha mais um dia"
  },
  "items": [
   {
@@ -16,14 +16,14 @@
    "en": "Maritime and ports",
    "pt": "Marítimo e portos",
    "titular": {
-    "es": "Long Beach llega a la noche sin acuerdo reportado: el plazo de huelga de los vigilantes vence a las 19:00 CDMX",
-    "en": "Long Beach heads into the evening with no reported deal: the watchmen strike deadline expires at 7:00 p.m. Mexico City time",
-    "pt": "Long Beach chega à noite sem acordo reportado: o prazo da greve dos vigilantes vence às 19h (Cidade do México)"
+    "es": "Long Beach gana tiempo: los vigilantes extienden su plazo de huelga hasta la medianoche del viernes",
+    "en": "Long Beach buys time: the watchmen extend their strike deadline to midnight Friday",
+    "pt": "Long Beach ganha tempo: os vigilantes estendem o prazo da greve até a meia-noite de sexta"
    },
    "x": {
-    "es": "Unos 250 vigilantes de ILWU Local 26 negocian con la PMA con mediación federal; su plazo vence a las 17:00 hora del Pacífico (19:00 CDMX). Sus terminales mueven cerca de 85% de la carga de Long Beach y 33% de la de Los Ángeles, y otros estibadores podrían respetar los piquetes. Al cierre de este brief no se había reportado acuerdo ni prórroga.",
-    "en": "About 250 ILWU Local 26 watchmen are negotiating with the PMA under federal mediation; their deadline expires at 5:00 p.m. Pacific (7:00 p.m. Mexico City). Their terminals handle about 85% of Long Beach cargo and 33% of Los Angeles cargo, and other dockworkers could honor picket lines. At the time of this brief no deal or extension had been reported.",
-    "pt": "Cerca de 250 vigilantes do ILWU Local 26 negociam com a PMA com mediação federal; o prazo vence às 17h no Pacífico (19h na Cidade do México). Seus terminais movimentam cerca de 85% da carga de Long Beach e 33% da de Los Angeles, e outros estivadores poderiam respeitar os piquetes. No fechamento deste brief não havia sido reportado acordo nem prorrogação."
+    "es": "Unos 250 vigilantes de ILWU Local 26 siguen negociando con la PMA con mediación federal; las pláticas continúan el viernes. Sus terminales mueven más de la mitad de la carga combinada de Los Ángeles y Long Beach, y la PMA advirtió que estibadores y oficinistas se sumarían a una huelga.",
+    "en": "About 250 ILWU Local 26 watchmen keep negotiating with the PMA under federal mediation; talks continue Friday. Their terminals handle more than half of the combined Los Angeles–Long Beach cargo, and the PMA warned that dockworkers and clerks would join a strike.",
+    "pt": "Cerca de 250 vigilantes do ILWU Local 26 seguem negociando com a PMA com mediação federal; as conversas continuam na sexta. Seus terminais movimentam mais da metade da carga combinada de Los Angeles e Long Beach, e a PMA alertou que estivadores e escriturários adeririam a uma greve."
    },
    "scm": {
     "es": "Confirma hoy con tu agente qué contenedores tienes en APM, LBCT, TTI, SSA y PCT, y ten reservado el desvío a Oakland o a Lázaro Cárdenas.",
@@ -32,8 +32,8 @@
    },
    "fuentes": [
     {
-     "t": "PortX Logistics: el plazo de huelga en LA/Long Beach entra en sus horas finales",
-     "u": "https://www.portxlogistics.com/2026/11/03/la-lb-strike-threat-looms-labor-talks-final-hours/"
+     "t": "Insurance Journal: el riesgo de huelga en el puerto de LA se pasa al viernes",
+     "u": "https://www.insurancejournal.com/news/west/2026/11/05/891694.htm"
     }
    ],
    "latam": true
@@ -79,34 +79,34 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Los chips y la infraestructura de IA caen por el temor a restricciones a centros de datos: Nvidia −3%, CoreWeave −10%",
-    "en": "Chips and AI infrastructure fall on fears of data center restrictions: Nvidia −3%, CoreWeave −10%",
-    "pt": "Chips e infraestrutura de IA caem pelo temor de restrições a data centers: Nvidia −3%, CoreWeave −10%"
+    "es": "Qualcomm cae 13% por su guía y la memoria se hunde: SK hynix −9.5%, SanDisk −7%, Micron −5%",
+    "en": "Qualcomm falls 13% on guidance and memory sinks: SK hynix −9.5%, SanDisk −7%, Micron −5%",
+    "pt": "A Qualcomm cai 13% pela projeção e a memória afunda: SK hynix −9,5%, SanDisk −7%, Micron −5%"
    },
    "x": {
-    "es": "El índice de semiconductores de Filadelfia tocó un mínimo de seis meses y AMD terminó a la baja pese a su reporte. Pesó la promesa de la gobernadora electa de Texas de una moratoria a nuevos centros de datos; Nvidia cayó 3%, Oracle casi 2% y CoreWeave casi 10%.",
-    "en": "The Philadelphia Semiconductor Index hit a six-month low and AMD ended lower despite its report. Texas' governor-elect's promise of a moratorium on new data centers weighed; Nvidia fell 3%, Oracle almost 2% and CoreWeave almost 10%.",
-    "pt": "O índice de semicondutores da Filadélfia tocou a mínima de seis meses e a AMD terminou em queda apesar do balanço. Pesou a promessa da governadora eleita do Texas de uma moratória a novos data centers; a Nvidia caiu 3%, a Oracle quase 2% e a CoreWeave quase 10%."
+    "es": "Qualcomm caía 13% antes de la apertura por una guía de utilidades débil y la caída del mercado de teléfonos; Arm bajaba 10.5%. En Corea, el KOSPI cayó 5.28% con SK hynix −9.46% y Samsung −7.57% por el temor a que el Congreso demócrata frene los centros de datos.",
+    "en": "Qualcomm fell 13% before the open on weak profit guidance and a handset slump; Arm fell 10.5%. In Korea, the KOSPI fell 5.28% with SK hynix −9.46% and Samsung −7.57% on fears the Democratic Congress will curb data centers.",
+    "pt": "A Qualcomm caía 13% antes da abertura por uma projeção de lucro fraca e a queda do mercado de celulares; a Arm caía 10,5%. Na Coreia, o KOSPI caiu 5,28% com SK hynix −9,46% e Samsung −7,57% pelo temor de que o Congresso democrata freie os data centers."
    },
    "scm": {
-    "es": "Si compras servidores o capacidad de nube, vigila si la moratoria en Texas retrasa proyectos y cambia los tiempos de entrega de equipo.",
-    "en": "If you buy servers or cloud capacity, watch whether the Texas moratorium delays projects and changes equipment lead times.",
-    "pt": "Se você compra servidores ou capacidade de nuvem, observe se a moratória no Texas atrasa projetos e muda os prazos de entrega de equipamentos."
+    "es": "Si compras memoria o componentes, no cierres contratos grandes esta semana: los precios pueden ajustarse a la baja si sigue la venta.",
+    "en": "If you buy memory or components, don't close large contracts this week: prices may adjust lower if the selloff continues.",
+    "pt": "Se você compra memória ou componentes, não feche contratos grandes esta semana: os preços podem cair se a venda continuar."
    },
    "fuentes": [
     {
-     "t": "Finwire: el Dow cierra con alza de 3% tras la victoria demócrata, 4 de noviembre de 2026",
-     "u": "https://finwire.io/news/stock-markets-news/dow-closes-3-higher-as-democrats-midterm-victory-eases-wall-street-uncertainty"
+     "t": "Daily Markets Pulse: los chips caen, el petróleo rebota y el Banco de Inglaterra sube tasas (5 nov 2026)",
+     "u": "https://dailymarketspulse.substack.com/p/chip-stocks-slide-as-oil-rebounds"
     },
     {
-     "t": "Forbes: el Dow gana 1,500 puntos; acciones ligadas a IA cierran a la baja, 4 de noviembre de 2026",
-     "u": "https://www.forbes.com/sites/fionariley/2026/11/04/dow-jumps-over-1500-points-after-democrats-take-congress-in-midterms/"
+     "t": "The Korea Times: el KOSPI se desploma 5.28%",
+     "u": "https://www.koreatimes.co.kr/economy/20261105/kospi-tumbles-as-democrat-sweep-fuels-ai-infrastructure-concerns"
     }
    ]
   },
   {
    "id": "energia",
-   "dir": "down",
+   "dir": "up",
    "calor": 3,
    "mx": true,
    "latam": true,
@@ -114,24 +114,28 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El Brent se desploma 9.7% a 93.52 dólares y el WTI 8.9% a 87.56 por la expectativa de un acuerdo con Irán",
-    "en": "Brent plunges 9.7% to $93.52 and WTI 8.9% to $87.56 on hopes of an Iran deal",
-    "pt": "O Brent despenca 9,7% para 93,52 dólares e o WTI 8,9% para 87,56 pela expectativa de um acordo com o Irã"
+    "es": "El petróleo rebota: el WTI sube 1.9% a 89.76 dólares y el Brent 3% a 97.49 tras su desplome",
+    "en": "Oil rebounds: WTI rises 1.9% to $89.76 and Brent 3% to $97.49 after its plunge",
+    "pt": "O petróleo volta a subir: o WTI sobe 1,9% para 89,76 dólares e o Brent 3% para 97,49 após o tombo"
    },
    "x": {
-    "es": "El crudo tuvo su mayor caída en meses: Trump dijo que no planea nuevos ataques contra Irán y un funcionario iraní habló de reabrir el estrecho de Ormuz si se levantan sanciones. Una baja de 900 mil barriles en los inventarios de EE. UU. no frenó la caída. Las acciones de energía y las refinadoras fueron las más castigadas de Wall Street.",
-    "en": "Crude had its biggest drop in months: Trump said he has no plans for new strikes on Iran and an Iranian official spoke of reopening the Strait of Hormuz if sanctions are lifted. A 900,000-barrel draw in US inventories did not stop the fall. Energy stocks and refiners were the hardest hit on Wall Street.",
-    "pt": "O petróleo teve sua maior queda em meses: Trump disse que não planeja novos ataques ao Irã e um funcionário iraniano falou em reabrir o estreito de Ormuz se as sanções forem suspensas. Uma queda de 900 mil barris nos estoques dos EUA não freou a baixa. As ações de energia e as refinarias foram as mais castigadas de Wall Street."
+    "es": "Después de caer cerca de 9% el miércoles por la expectativa de un acuerdo con Irán, el crudo rebota este jueves. El Banco de Inglaterra subió su tasa a 4% y prevé inflación británica cercana a 5% a mediados de 2027 por la energía.",
+    "en": "After falling about 9% on Wednesday on hopes of an Iran deal, crude rebounds Thursday. The Bank of England raised its rate to 4% and expects UK inflation near 5% by mid-2027 due to energy.",
+    "pt": "Depois de cair cerca de 9% na quarta pela expectativa de um acordo com o Irã, o petróleo volta a subir nesta quinta. O Banco da Inglaterra subiu sua taxa para 4% e prevê inflação britânica perto de 5% em meados de 2027 pela energia."
    },
    "scm": {
-    "es": "Pide a tus transportistas que el recargo por combustible se ajuste cada semana para capturar la baja del diésel cuando llegue.",
-    "en": "Ask carriers to adjust the fuel surcharge weekly so you capture the diesel drop when it arrives.",
-    "pt": "Peça às transportadoras que a sobretaxa de combustível seja ajustada toda semana para capturar a queda do diesel quando chegar."
+    "es": "Mantén el recargo de combustible con ajuste semanal: el crudo puede moverse 5 dólares en un día.",
+    "en": "Keep the fuel surcharge on weekly adjustment: crude can move $5 in a day.",
+    "pt": "Mantenha a sobretaxa de combustível com ajuste semanal: o petróleo pode se mover 5 dólares em um dia."
    },
    "fuentes": [
     {
-     "t": "FinanceFeeds: el Brent cae 9.7% a 93.52 dólares, 4 de noviembre de 2026",
-     "u": "https://financefeeds.com/brent-crude-oil-price-93-iran-bull-105-bear-88/"
+     "t": "Daily Markets Pulse: los chips caen, el petróleo rebota y el Banco de Inglaterra sube tasas (5 nov 2026)",
+     "u": "https://dailymarketspulse.substack.com/p/chip-stocks-slide-as-oil-rebounds"
+    },
+    {
+     "t": "Euronews: el Banco de Inglaterra sube su tasa por primera vez en más de 3 años",
+     "u": "https://www.euronews.com/2026/11/05/bank-of-england-raises-key-interest-rate-for-first-time-in-over-3-years"
     }
    ]
   },

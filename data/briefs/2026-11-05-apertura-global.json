@@ -1,0 +1,83 @@
+{
+ "id": "2026-11-05-apertura-global",
+ "fecha": "2026-11-05",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:15 CDMX",
+ "es": {
+  "titular": "Los chips arrastran al Nasdaq tras Qualcomm (−13%) y Arm (−10%); el Dow sigue arriba y el petróleo rebota a 90 dólares",
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "Los futuros llegaban mixtos tras el rally del miércoles y el desplome de 5.3% del KOSPI. A las 7:30 CDMX las solicitudes de subsidio por desempleo bajaron a 189 mil (194 mil la semana previa) y la productividad del tercer trimestre creció 3.6% anual (se esperaba 3%), con costos laborales unitarios −0.7%. Justo antes de la campana, los futuros del Dow subían 0.54%, los del S&P 500 bajaban 0.08% y los del Nasdaq 100 1.18%. Qualcomm caía 13% por una guía débil, Arm 10.5%, SanDisk 7% y Micron 5%; AppLovin subía 29%. El WTI rebotaba 1.9% a 89.76 dólares, el Brent 3% a 97.49 y el Treasury a 10 años subía a 4.91%."
+   },
+   {
+    "t": "Asia y Europa",
+    "x": "El KOSPI cerró en 5,383.80 (−5.28%), con SK hynix −9.5% y Samsung −7.6%, por el temor a que el Congreso demócrata frene los centros de datos de IA. El Banco de Inglaterra subió su tasa a 4% (8 votos a 1; uno pedía 0.5 puntos), su primer alza desde agosto de 2023, y prevé que la inflación británica llegue a cerca de 5% a mediados de 2027 por la energía."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "A las 13:00 CDMX decide Banxico. Después del cierre reportan Airbnb y Cloudflare. En Los Ángeles–Long Beach los vigilantes extendieron su plazo de huelga hasta la medianoche del viernes y siguen negociando con mediación federal. Mañana sale el empleo de octubre en EE. UU."
+   }
+  ],
+  "scm": "El rebote del crudo a 90 dólares confirma que el alivio en combustible será volátil: mantén recargos de combustible con ajuste semanal. La caída de Qualcomm y de la memoria eleva la incertidumbre en electrónica; Long Beach gana un día más, pero conviene seguir con el plan de desvío listo."
+ },
+ "en": {
+  "titular": "Chips drag the Nasdaq after Qualcomm (−13%) and Arm (−10%); the Dow stays higher and oil rebounds to $90",
+  "bloques": [
+   {
+    "t": "Opening",
+    "x": "Futures came in mixed after Wednesday's rally and the KOSPI's 5.3% plunge. At 7:30 a.m. Mexico City time, jobless claims fell to 189,000 (194,000 the prior week) and third-quarter productivity grew 3.6% annualized (3% expected), with unit labor costs −0.7%. Just before the bell, Dow futures were up 0.54%, S&P 500 futures down 0.08% and Nasdaq 100 futures down 1.18%. Qualcomm fell 13% on weak guidance, Arm 10.5%, SanDisk 7% and Micron 5%; AppLovin rose 29%. WTI rebounded 1.9% to $89.76, Brent 3% to $97.49, and the 10-year Treasury rose to 4.91%."
+   },
+   {
+    "t": "Asia and Europe",
+    "x": "The KOSPI closed at 5,383.80 (−5.28%), with SK hynix −9.5% and Samsung −7.6%, on fears the Democratic Congress will curb AI data centers. The Bank of England raised its rate to 4% (8–1; one wanted 0.5 points), its first hike since August 2023, and expects UK inflation to reach about 5% by mid-2027 due to energy."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Banxico decides at 1:00 p.m. Mexico City time. Airbnb and Cloudflare report after the close. In Los Angeles–Long Beach the watchmen extended their strike deadline to midnight Friday and keep negotiating under federal mediation. The US October jobs report comes out tomorrow."
+   }
+  ],
+  "scm": "Crude's rebound to $90 confirms fuel relief will be volatile: keep fuel surcharges with weekly adjustment. Qualcomm's and memory's drop raises uncertainty in electronics; Long Beach gains another day, but keep the diversion plan ready."
+ },
+ "pt": {
+  "titular": "Os chips puxam o Nasdaq após Qualcomm (−13%) e Arm (−10%); o Dow segue em alta e o petróleo volta a 90 dólares",
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Os futuros chegavam mistos após a alta de quarta e a queda de 5,3% do KOSPI. Às 7h30 (Cidade do México) os pedidos de seguro-desemprego caíram para 189 mil (194 mil na semana anterior) e a produtividade do terceiro trimestre cresceu 3,6% anualizados (esperava-se 3%), com custos unitários do trabalho −0,7%. Pouco antes do sino, os futuros do Dow subiam 0,54%, os do S&P 500 caíam 0,08% e os do Nasdaq 100 1,18%. A Qualcomm caía 13% por uma projeção fraca, a Arm 10,5%, a SanDisk 7% e a Micron 5%; a AppLovin subia 29%. O WTI subia 1,9% para 89,76 dólares, o Brent 3% para 97,49 e o título de 10 anos do Tesouro subia para 4,91%."
+   },
+   {
+    "t": "Ásia e Europa",
+    "x": "O KOSPI fechou em 5.383,80 (−5,28%), com SK hynix −9,5% e Samsung −7,6%, pelo temor de que o Congresso democrata freie os data centers de IA. O Banco da Inglaterra subiu sua taxa para 4% (8 votos a 1; um pedia 0,5 ponto), sua primeira alta desde agosto de 2023, e prevê que a inflação britânica chegue a cerca de 5% em meados de 2027 pela energia."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Às 13h (Cidade do México) decide o Banxico. Depois do fechamento divulgam resultados Airbnb e Cloudflare. Em Los Angeles–Long Beach os vigilantes estenderam o prazo da greve até a meia-noite de sexta e seguem negociando com mediação federal. Amanhã sai o relatório de emprego de outubro dos EUA."
+   }
+  ],
+  "scm": "A alta do petróleo para 90 dólares confirma que o alívio no combustível será volátil: mantenha sobretaxas de combustível com ajuste semanal. A queda da Qualcomm e da memória aumenta a incerteza em eletrônicos; Long Beach ganha mais um dia, mas mantenha pronto o plano de desvio."
+ },
+ "fuentes": [
+  {
+   "t": "Daily Markets Pulse: los chips caen, el petróleo rebota y el Banco de Inglaterra sube tasas (5 nov 2026)",
+   "u": "https://dailymarketspulse.substack.com/p/chip-stocks-slide-as-oil-rebounds"
+  },
+  {
+   "t": "Yahoo Finance: el Dow sube, el S&P 500 y el Nasdaq bajan; el petróleo sube (5 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html"
+  },
+  {
+   "t": "Euronews: el Banco de Inglaterra sube su tasa por primera vez en más de 3 años",
+   "u": "https://www.euronews.com/2026/11/05/bank-of-england-raises-key-interest-rate-for-first-time-in-over-3-years"
+  },
+  {
+   "t": "The Korea Times: el KOSPI se desploma 5.28%",
+   "u": "https://www.koreatimes.co.kr/economy/20261105/kospi-tumbles-as-democrat-sweep-fuels-ai-infrastructure-concerns"
+  },
+  {
+   "t": "Insurance Journal: el riesgo de huelga en el puerto de LA se pasa al viernes",
+   "u": "https://www.insurancejournal.com/news/west/2026/11/05/891694.htm"
+  }
+ ]
+}
