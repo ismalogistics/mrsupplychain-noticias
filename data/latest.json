@@ -7,7 +7,7 @@
    "fecha": "2026-11-05",
    "momento": "premercado",
    "mercado": "global",
-   "hora": "05:25 CDMX",
+   "hora": "05:10 CDMX",
    "fin_de_semana": false,
    "es": {
     "titular": "El KOSPI se desploma 5.3% por el temor a la regulación de la IA; Wall Street llega mixta y el Banco de Inglaterra podría subir tasas",
@@ -91,7 +91,7 @@
    "fecha": "2026-11-05",
    "momento": "premercado",
    "mercado": "latam",
-   "hora": "05:25 CDMX",
+   "hora": "05:10 CDMX",
    "fin_de_semana": false,
    "es": {
     "titular": "La región cerró al alza tras la elección y Brasil reacciona hoy a la pausa del Copom en 13.75%",
@@ -163,7 +163,7 @@
    "fecha": "2026-11-05",
    "momento": "premercado",
    "mercado": "mexico",
-   "hora": "05:25 CDMX",
+   "hora": "05:10 CDMX",
    "fin_de_semana": false,
    "es": {
     "titular": "Banxico decide hoy a las 13:00 con la tasa en 6.50% y el peso en 18.57 tras su mejor día desde abril",
