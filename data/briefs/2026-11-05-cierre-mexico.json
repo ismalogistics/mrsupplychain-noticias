@@ -1,0 +1,71 @@
+{
+ "id": "2026-11-05-cierre-mexico",
+ "fecha": "2026-11-05",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "15:40 CDMX",
+ "es": {
+  "titular": "Banxico sorprende con un recorte a 6.25% y el peso cierra en 18.75 (−1%); anticipa una pausa prolongada",
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "Banxico bajó su tasa de 6.50% a 6.25% con votación dividida 3 a 2 (Galia Borja y Jonathan Heath votaron por mantenerla), contra lo que esperaba la mayoría del mercado. El peso cerró en 18.7499 por dólar, 0.99% más débil, tras moverse entre 18.62 y 18.97 en el día. No confirmé el cierre del IPC."
+   },
+   {
+    "t": "Por qué",
+    "x": "Banxico dijo que mantener la tasa \"por un tiempo prolongado\" en el nuevo nivel apoyará que la inflación llegue a su meta, y subió su expectativa de inflación para el cuarto trimestre de 3.5% a 3.7%. El diferencial de tasas con EE. UU. queda en un mínimo histórico, lo que presiona al peso, y la venta de IA en Wall Street restó apetito por monedas emergentes."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "El peso abrirá sensible al empleo de EE. UU. de mañana y al ánimo de Wall Street. Con la guía de pausa, el mercado ya no espera más recortes de Banxico este año."
+   }
+  ],
+  "scm": "Con la tasa en 6.25% y un diferencial récord bajo con EE. UU., el peso queda más expuesto: cubre por tramos tus pagos en dólares de noviembre y diciembre en lugar de esperar a que regrese a 18.57. El crédito en pesos para inventario se abarata un poco."
+ },
+ "en": {
+  "titular": "Banxico surprises with a cut to 6.25% and the peso closes at 18.75 (−1%); it signals a prolonged pause",
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "Banxico lowered its rate from 6.50% to 6.25% in a split 3–2 vote (Galia Borja and Jonathan Heath voted to hold), against what most of the market expected. The peso closed at 18.7499 per dollar, 0.99% weaker, after trading between 18.62 and 18.97. I could not confirm the IPC close."
+   },
+   {
+    "t": "Why",
+    "x": "Banxico said holding the rate \"for a prolonged period\" at the new level will help inflation reach its target, and raised its fourth-quarter inflation forecast from 3.5% to 3.7%. The rate gap with the US is at a record low, pressuring the peso, and the AI selloff on Wall Street sapped appetite for emerging-market currencies."
+   },
+   {
+    "t": "What to expect",
+    "x": "The peso will open sensitive to tomorrow's US jobs report and Wall Street's mood. With the pause guidance, the market no longer expects more Banxico cuts this year."
+   }
+  ],
+  "scm": "With the rate at 6.25% and a record-low gap versus the US, the peso is more exposed: hedge November and December dollar payments in tranches instead of waiting for a return to 18.57. Peso credit for inventory gets slightly cheaper."
+ },
+ "pt": {
+  "titular": "O Banxico surpreende com corte para 6,25% e o peso fecha a 18,75 (−1%); sinaliza pausa prolongada",
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O Banxico baixou sua taxa de 6,50% para 6,25% em votação dividida de 3 a 2 (Galia Borja e Jonathan Heath votaram pela manutenção), contra o que a maior parte do mercado esperava. O peso fechou a 18,7499 por dólar, 0,99% mais fraco, depois de oscilar entre 18,62 e 18,97 no dia. Não confirmei o fechamento do IPC."
+   },
+   {
+    "t": "Por quê",
+    "x": "O Banxico disse que manter a taxa \"por um tempo prolongado\" no novo nível ajudará a inflação a chegar à meta, e elevou sua expectativa de inflação para o quarto trimestre de 3,5% para 3,7%. O diferencial de juros com os EUA fica em mínima histórica, o que pressiona o peso, e a venda de IA em Wall Street reduziu o apetite por moedas emergentes."
+   },
+   {
+    "t": "O que se espera",
+    "x": "O peso vai abrir sensível ao relatório de emprego dos EUA de amanhã e ao humor de Wall Street. Com a sinalização de pausa, o mercado já não espera mais cortes do Banxico neste ano."
+   }
+  ],
+  "scm": "Com a taxa em 6,25% e um diferencial recorde baixo com os EUA, o peso fica mais exposto: proteja em parcelas seus pagamentos em dólares de novembro e dezembro em vez de esperar que volte a 18,57. O crédito em pesos para estoque fica um pouco mais barato."
+ },
+ "fuentes": [
+  {
+   "t": "El Financiero: Banxico sorprende y baja la tasa a 6.25%",
+   "u": "https://www.elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre/"
+  },
+  {
+   "t": "El CEO: el peso pierde tras el recorte de Banxico, 5 de noviembre de 2026",
+   "u": "https://elceo.com/mercados/tipo-de-cambio-peso-dolar-hoy-5-de-noviembre-de-2026/"
+  }
+ ]
+}

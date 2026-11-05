@@ -1,0 +1,79 @@
+{
+ "id": "2026-11-05-cierre-global",
+ "fecha": "2026-11-05",
+ "momento": "cierre",
+ "mercado": "global",
+ "hora": "15:40 CDMX",
+ "es": {
+  "titular": "El S&P 500 se desploma 4.4%, su peor día desde abril de 2025, y el Nasdaq (−5.5%) entra en corrección por la venta de IA",
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El S&P 500 cerró con caída de 4.4%, su peor día desde abril de 2025, y borró el rally de la elección; el Dow perdió más de 1,800 puntos (cerca de −3.4%) y el Nasdaq 5.5%, con lo que quedó más de 10% abajo de su máximo del 6 de octubre (corrección). El índice de semiconductores caía 10.65% cerca del cierre. El Brent subió 3.9% a 98.29 dólares, el WTI rondaba 90.66 y el Treasury a 10 años bajó a 4.83%. Lo que se esperaba en la apertura (Nasdaq −3%) se quedó corto."
+   },
+   {
+    "t": "Por qué",
+    "x": "El mercado castigó a las empresas ligadas a la construcción de centros de datos por el temor a que el Congreso demócrata la frene, en medio del malestar de los votantes por la IA y por el alza en las tarifas eléctricas, y por las dudas sobre una burbuja en IA. AMD cayó 14%, Nvidia 8%, CoreWeave 8.9% y GE Vernova 6.9%; AppLovin subió 29.4% por sus resultados."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Asia abrirá presionada después del desplome de Wall Street; hoy el KOSPI ya había caído 5.3% y el Nikkei 1.8%. Mañana viernes sale el empleo de octubre en EE. UU., clave para la Fed. En Los Ángeles–Long Beach el plazo de huelga de los vigilantes vence a la medianoche del viernes."
+   }
+  ],
+  "scm": "Con chips, memoria e infraestructura de IA en caída libre, los precios y plazos de servidores y componentes pueden moverse en días: no firmes contratos grandes de electrónica esta semana y pide a tus proveedores confirmación de fechas de entrega. El Brent volvió cerca de 100 dólares: mantén recargos de combustible con ajuste semanal."
+ },
+ "en": {
+  "titular": "The S&P 500 plunges 4.4%, its worst day since April 2025, and the Nasdaq (−5.5%) enters a correction on the AI selloff",
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The S&P 500 closed down 4.4%, its worst day since April 2025, erasing the election rally; the Dow lost more than 1,800 points (about −3.4%) and the Nasdaq 5.5%, leaving it more than 10% below its Oct. 6 high (a correction). The semiconductor index was down 10.65% near the close. Brent rose 3.9% to $98.29, WTI was around $90.66 and the 10-year Treasury fell to 4.83%. What was expected at the open (Nasdaq −3%) fell short."
+   },
+   {
+    "t": "Why",
+    "x": "The market punished companies tied to data center construction on fears that the Democratic Congress will curb it, amid voter unease over AI and rising power bills, and on doubts about an AI bubble. AMD fell 14%, Nvidia 8%, CoreWeave 8.9% and GE Vernova 6.9%; AppLovin rose 29.4% on its results."
+   },
+   {
+    "t": "What to expect",
+    "x": "Asia will open under pressure after Wall Street's plunge; today the KOSPI had already fallen 5.3% and the Nikkei 1.8%. The US October jobs report comes out tomorrow, key for the Fed. In Los Angeles–Long Beach the watchmen strike deadline expires at midnight Friday."
+   }
+  ],
+  "scm": "With chips, memory and AI infrastructure in free fall, server and component prices and lead times can move within days: don't sign large electronics contracts this week and ask suppliers to confirm delivery dates. Brent is back near $100: keep fuel surcharges with weekly adjustment."
+ },
+ "pt": {
+  "titular": "O S&P 500 despenca 4,4%, seu pior dia desde abril de 2025, e o Nasdaq (−5,5%) entra em correção pela venda de IA",
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O S&P 500 fechou em queda de 4,4%, seu pior dia desde abril de 2025, e apagou a alta da eleição; o Dow perdeu mais de 1.800 pontos (cerca de −3,4%) e o Nasdaq 5,5%, ficando mais de 10% abaixo da máxima de 6 de outubro (correção). O índice de semicondutores caía 10,65% perto do fechamento. O Brent subiu 3,9% para 98,29 dólares, o WTI rondava 90,66 e o título de 10 anos do Tesouro caiu para 4,83%. O esperado na abertura (Nasdaq −3%) ficou curto."
+   },
+   {
+    "t": "Por quê",
+    "x": "O mercado castigou as empresas ligadas à construção de data centers pelo temor de que o Congresso democrata a freie, em meio ao mal-estar dos eleitores com a IA e com a alta das tarifas de energia, e pelas dúvidas sobre uma bolha em IA. A AMD caiu 14%, a Nvidia 8%, a CoreWeave 8,9% e a GE Vernova 6,9%; a AppLovin subiu 29,4% pelos resultados."
+   },
+   {
+    "t": "O que se espera",
+    "x": "A Ásia vai abrir pressionada após o tombo de Wall Street; hoje o KOSPI já tinha caído 5,3% e o Nikkei 1,8%. Amanhã, sexta, sai o relatório de emprego de outubro dos EUA, chave para o Fed. Em Los Angeles–Long Beach o prazo da greve dos vigilantes vence à meia-noite de sexta."
+   }
+  ],
+  "scm": "Com chips, memória e infraestrutura de IA em queda livre, os preços e prazos de servidores e componentes podem mudar em dias: não assine contratos grandes de eletrônicos esta semana e peça aos fornecedores confirmação das datas de entrega. O Brent voltou para perto de 100 dólares: mantenha sobretaxas de combustível com ajuste semanal."
+ },
+ "fuentes": [
+  {
+   "t": "AP (vía WCAX): una venta brutal de acciones de IA sacude a Wall Street y el S&P 500 cae 4.4%",
+   "u": "https://www.wcax.com/2026/11/05/brutal-sell-off-ai-stocks-sends-wall-street-reeling-sp-500-tumbles-44/"
+  },
+  {
+   "t": "Yahoo Finance: el Dow se desploma 1,800 puntos y el Nasdaq entra en corrección",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+  },
+  {
+   "t": "Fox Business: el Nasdaq cae 5% y el Dow más de 1,600 puntos",
+   "u": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
+  },
+  {
+   "t": "Insurance Journal: el riesgo de huelga en el puerto de LA se pasa al viernes",
+   "u": "https://www.insurancejournal.com/news/west/2026/11/05/891694.htm"
+  }
+ ]
+}

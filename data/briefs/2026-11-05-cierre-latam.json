@@ -1,0 +1,83 @@
+{
+ "id": "2026-11-05-cierre-latam",
+ "fecha": "2026-11-05",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "15:40 CDMX",
+ "es": {
+  "titular": "La región cae con la venta global de IA: Argentina −6.6%, Chile −3.6% y Canadá −2.1%; el Ibovespa resiste",
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "Con datos de las 13:04 CDMX, el fondo de Argentina (ARGT) caía 6.62%, el de Chile 3.61%, el de Perú 2.56%, el S&P/TSX de Canadá 2.06% (35,593.01), el fondo de Colombia 1.5% y el Ibovespa 0.62% (166,521.2)."
+   },
+   {
+    "t": "Por qué",
+    "x": "La venta de chips e infraestructura de IA en Wall Street (S&P 500 −4.4%) se contagió a los mercados emergentes. El Ibovespa resistió mejor por el peso de Petrobras y las materias primas, con el petróleo al alza."
+   },
+   {
+    "t": "Monedas",
+    "x": "Por la tarde el peso chileno estaba en 978.4 por dólar, el colombiano en 3,237, el real en 5.49 y el sol en 3.443. El peso mexicano cerró en 18.75 tras el recorte de Banxico."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "La región abrirá sensible al empleo de EE. UU. de mañana. Brasil sigue con la Selic en 13.75% y México con la tasa en 6.25% y guía de pausa."
+   }
+  ],
+  "scm": "Las monedas de la región se debilitan: si tienes cobros en monedas locales, conviértelos pronto. Con el petróleo cerca de 98 dólares (Brent), revisa los recargos de flete en rutas con Colombia, Perú y Chile."
+ },
+ "en": {
+  "titular": "The region falls on the global AI selloff: Argentina −6.6%, Chile −3.6% and Canada −2.1%; the Ibovespa holds up",
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "With data as of 1:04 p.m. Mexico City time, the Argentina fund (ARGT) fell 6.62%, the Chile fund 3.61%, the Peru fund 2.56%, Canada's S&P/TSX 2.06% (35,593.01), the Colombia fund 1.5% and the Ibovespa 0.62% (166,521.2)."
+   },
+   {
+    "t": "Why",
+    "x": "The chip and AI infrastructure selloff on Wall Street (S&P 500 −4.4%) spilled over to emerging markets. The Ibovespa held up better thanks to Petrobras and commodities, with oil rising."
+   },
+   {
+    "t": "Currencies",
+    "x": "In the afternoon the Chilean peso was at 978.4 per dollar, the Colombian peso at 3,237, the real at 5.49 and the sol at 3.443. The Mexican peso closed at 18.75 after Banxico's cut."
+   },
+   {
+    "t": "What to expect",
+    "x": "The region will open sensitive to tomorrow's US jobs report. Brazil keeps the Selic at 13.75% and Mexico its rate at 6.25% with pause guidance."
+   }
+  ],
+  "scm": "Regional currencies are weakening: if you have local-currency receivables, convert them soon. With Brent near $98, review freight surcharges on routes with Colombia, Peru and Chile."
+ },
+ "pt": {
+  "titular": "A região cai com a venda global de IA: Argentina −6,6%, Chile −3,6% e Canadá −2,1%; o Ibovespa resiste",
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "Com dados das 13h04 (Cidade do México), o fundo da Argentina (ARGT) caía 6,62%, o do Chile 3,61%, o do Peru 2,56%, o S&P/TSX do Canadá 2,06% (35.593,01), o fundo da Colômbia 1,5% e o Ibovespa 0,62% (166.521,2)."
+   },
+   {
+    "t": "Por quê",
+    "x": "A venda de chips e infraestrutura de IA em Wall Street (S&P 500 −4,4%) contaminou os mercados emergentes. O Ibovespa resistiu melhor pelo peso da Petrobras e das commodities, com o petróleo em alta."
+   },
+   {
+    "t": "Moedas",
+    "x": "À tarde o peso chileno estava em 978,4 por dólar, o colombiano em 3.237, o dólar em R$ 5,49 e o sol em 3,443. O peso mexicano fechou a 18,75 após o corte do Banxico."
+   },
+   {
+    "t": "O que se espera",
+    "x": "A região vai abrir sensível ao relatório de emprego dos EUA de amanhã. O Brasil segue com a Selic em 13,75% e o México com a taxa em 6,25% e sinalização de pausa."
+   }
+  ],
+  "scm": "As moedas da região se enfraquecem: se você tem recebíveis em moeda local, converta logo. Com o Brent perto de 98 dólares, revise as sobretaxas de frete nas rotas com Colômbia, Peru e Chile."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "El CEO: el peso pierde tras el recorte de Banxico, 5 de noviembre de 2026",
+   "u": "https://elceo.com/mercados/tipo-de-cambio-peso-dolar-hoy-5-de-noviembre-de-2026/"
+  }
+ ]
+}

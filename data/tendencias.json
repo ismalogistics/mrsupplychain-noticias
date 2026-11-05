@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-05T17:39:21Z",
+ "actualizado": "2026-11-05T21:39:50Z",
  "fecha": "2026-11-05",
  "titular": {
-  "es": "Los chips y la IA se desploman, el petróleo rebota y Long Beach gana un día más",
-  "en": "Chips and AI plunge, oil rebounds and Long Beach gains another day",
-  "pt": "Os chips e a IA despencam, o petróleo volta a subir e Long Beach ganha mais um dia"
+  "es": "La IA arrastra a los chips y a la energía para centros de datos, el Brent vuelve cerca de 100 y Long Beach llega al viernes",
+  "en": "AI drags chips and data center power, Brent returns near 100 and Long Beach heads into Friday",
+  "pt": "A IA arrasta os chips e a energia para data centers, o Brent volta para perto de 100 e Long Beach chega à sexta"
  },
  "items": [
   {
@@ -17,14 +17,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "La memoria y el almacenamiento se desploman: SanDisk −20.6%, Western Digital −17.1%, AMD −16% y Micron −15.7%",
-    "en": "Memory and storage plunge: SanDisk −20.6%, Western Digital −17.1%, AMD −16% and Micron −15.7%",
-    "pt": "Memória e armazenamento despencam: SanDisk −20,6%, Western Digital −17,1%, AMD −16% e Micron −15,7%"
+    "es": "Los semiconductores pierden más de 10%: AMD −14% y Nvidia −8% en el peor día del S&P 500 desde abril de 2025",
+    "en": "Semiconductors lose more than 10%: AMD −14% and Nvidia −8% on the S&P 500's worst day since April 2025",
+    "pt": "Os semicondutores perdem mais de 10%: AMD −14% e Nvidia −8% no pior dia do S&P 500 desde abril de 2025"
    },
    "x": {
-    "es": "La venta que empezó con Qualcomm y el KOSPI (−5.28%) se extendió a la memoria y el almacenamiento: Seagate caía 16.3% y Astera Labs 18.4%. El Nasdaq perdía cerca de 5% hacia el mediodía y va camino a una corrección.",
-    "en": "The selloff that began with Qualcomm and the KOSPI (−5.28%) spread to memory and storage: Seagate fell 16.3% and Astera Labs 18.4%. The Nasdaq was down about 5% toward midday and is on track for a correction.",
-    "pt": "A venda que começou com a Qualcomm e o KOSPI (−5,28%) se estendeu à memória e ao armazenamento: a Seagate caía 16,3% e a Astera Labs 18,4%. O Nasdaq perdia cerca de 5% perto do meio-dia e caminha para uma correção."
+    "es": "El índice de semiconductores de Filadelfia caía 10.65% cerca del cierre. AMD perdió 14%, Nvidia 8% y CoreWeave 8.9%; la venta empezó con Qualcomm y el KOSPI (−5.3%) y llevó al Nasdaq a corrección.",
+    "en": "The Philadelphia Semiconductor Index was down 10.65% near the close. AMD lost 14%, Nvidia 8% and CoreWeave 8.9%; the selloff began with Qualcomm and the KOSPI (−5.3%) and pushed the Nasdaq into a correction.",
+    "pt": "O índice de semicondutores da Filadélfia caía 10,65% perto do fechamento. A AMD perdeu 14%, a Nvidia 8% e a CoreWeave 8,9%; a venda começou com a Qualcomm e o KOSPI (−5,3%) e levou o Nasdaq à correção."
    },
    "scm": {
     "es": "Pospón compras grandes de memoria, discos y servidores y pide cotizaciones nuevas la próxima semana.",
@@ -33,12 +33,12 @@
    },
    "fuentes": [
     {
-     "t": "Eurasia Business News: el Nasdaq cae 5% por la venta de chips y centros de datos",
-     "u": "https://eurasiabusinessnews.com/2026/11/05/stock-market-today-nasdaq-sinks-5-as-ai-selloff-hits-chip-and-data-center-stocks/"
+     "t": "AP (vía WCAX): una venta brutal de acciones de IA sacude a Wall Street y el S&P 500 cae 4.4%",
+     "u": "https://www.wcax.com/2026/11/05/brutal-sell-off-ai-stocks-sends-wall-street-reeling-sp-500-tumbles-44/"
     },
     {
-     "t": "Yahoo Finance: el Nasdaq se desploma 5% por la venta de chips (5 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html"
+     "t": "Yahoo Finance: el Dow se desploma 1,800 puntos y el Nasdaq entra en corrección",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
     }
    ]
   },
@@ -114,14 +114,14 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El petróleo rebota: el WTI sube 1.8% a 89.73 dólares y el Brent cerca de 97 tras su desplome",
-    "en": "Oil rebounds: WTI rises 1.8% to $89.73 and Brent near $97 after its plunge",
-    "pt": "O petróleo volta a subir: o WTI sobe 1,8% para 89,73 dólares e o Brent perto de 97 após o tombo"
+    "es": "El Brent sube 3.9% a 98.29 dólares y borra parte del desplome del miércoles",
+    "en": "Brent rises 3.9% to $98.29 and erases part of Wednesday's plunge",
+    "pt": "O Brent sobe 3,9% para 98,29 dólares e apaga parte do tombo de quarta"
    },
    "x": {
-    "es": "Después de caer cerca de 9% el miércoles por la expectativa de un acuerdo con Irán, el crudo rebota y la energía es el único sector que sube con fuerza en Wall Street. El Banco de Inglaterra subió su tasa a 4% y prevé inflación británica cercana a 5% a mediados de 2027 por la energía.",
-    "en": "After falling about 9% on Wednesday on hopes of an Iran deal, crude rebounds and energy is the only sector rising strongly on Wall Street. The Bank of England raised its rate to 4% and expects UK inflation near 5% by mid-2027 due to energy.",
-    "pt": "Depois de cair cerca de 9% na quarta pela expectativa de um acordo com o Irã, o petróleo volta a subir e a energia é o único setor em alta forte em Wall Street. O Banco da Inglaterra subiu sua taxa para 4% e prevê inflação britânica perto de 5% em meados de 2027 pela energia."
+    "es": "El crudo recuperó parte de su caída de casi 9% del miércoles; la guerra con Irán mantiene la incertidumbre. GE Vernova cayó 6.9% por el temor a menos centros de datos. El Banco de Inglaterra subió su tasa a 4% por la inflación de energía.",
+    "en": "Crude recovered part of Wednesday's nearly 9% drop; the Iran war keeps uncertainty high. GE Vernova fell 6.9% on fears of fewer data centers. The Bank of England raised its rate to 4% on energy inflation.",
+    "pt": "O petróleo recuperou parte da queda de quase 9% de quarta; a guerra com o Irã mantém a incerteza. A GE Vernova caiu 6,9% pelo temor de menos data centers. O Banco da Inglaterra subiu sua taxa para 4% pela inflação de energia."
    },
    "scm": {
     "es": "Mantén el recargo de combustible con ajuste semanal: el crudo puede moverse varios dólares en un día.",
@@ -130,12 +130,8 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: mercados en vivo, jueves 5 de noviembre de 2026",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html"
-    },
-    {
-     "t": "Euronews: el Banco de Inglaterra sube su tasa por primera vez en más de 3 años",
-     "u": "https://www.euronews.com/2026/11/05/bank-of-england-raises-key-interest-rate-for-first-time-in-over-3-years"
+     "t": "AP (vía WCAX): una venta brutal de acciones de IA sacude a Wall Street y el S&P 500 cae 4.4%",
+     "u": "https://www.wcax.com/2026/11/05/brutal-sell-off-ai-stocks-sends-wall-street-reeling-sp-500-tumbles-44/"
     }
    ]
   },

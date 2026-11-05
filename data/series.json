@@ -155,7 +155,7 @@
   },
   {
    "mes": "2026-11",
-   "tasa": 6.5,
+   "tasa": 6.25,
    "inflacion": null
   }
  ],
@@ -163,7 +163,7 @@
   {
    "es": "México",
    "en": "Mexico",
-   "tasa": 6.5,
+   "tasa": 6.25,
    "inflacion": 3.62,
    "pib": 0.9,
    "desempleo": 2.8,

@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-05-cierre-global",
+   "fecha": "2026-11-05",
+   "momento": "cierre",
+   "mercado": "global",
+   "titular_es": "El S&P 500 se desploma 4.4%, su peor día desde abril de 2025, y el Nasdaq (−5.5%) entra en corrección por la venta de IA",
+   "titular_en": "The S&P 500 plunges 4.4%, its worst day since April 2025, and the Nasdaq (−5.5%) enters a correction on the AI selloff",
+   "titular_pt": "O S&P 500 despenca 4,4%, seu pior dia desde abril de 2025, e o Nasdaq (−5,5%) entra em correção pela venda de IA"
+  },
+  {
+   "id": "2026-11-05-cierre-latam",
+   "fecha": "2026-11-05",
+   "momento": "cierre",
+   "mercado": "latam",
+   "titular_es": "La región cae con la venta global de IA: Argentina −6.6%, Chile −3.6% y Canadá −2.1%; el Ibovespa resiste",
+   "titular_en": "The region falls on the global AI selloff: Argentina −6.6%, Chile −3.6% and Canada −2.1%; the Ibovespa holds up",
+   "titular_pt": "A região cai com a venda global de IA: Argentina −6,6%, Chile −3,6% e Canadá −2,1%; o Ibovespa resiste"
+  },
+  {
+   "id": "2026-11-05-cierre-mexico",
+   "fecha": "2026-11-05",
+   "momento": "cierre",
+   "mercado": "mexico",
+   "titular_es": "Banxico sorprende con un recorte a 6.25% y el peso cierra en 18.75 (−1%); anticipa una pausa prolongada",
+   "titular_en": "Banxico surprises with a cut to 6.25% and the peso closes at 18.75 (−1%); it signals a prolonged pause",
+   "titular_pt": "O Banxico surpreende com corte para 6,25% e o peso fecha a 18,75 (−1%); sinaliza pausa prolongada"
+  },
+  {
    "id": "2026-11-05-mediodia-global",
    "fecha": "2026-11-05",
    "momento": "mediodia",
