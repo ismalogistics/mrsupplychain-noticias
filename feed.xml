@@ -7,7 +7,34 @@
   <description>Briefs diarios de mercados (premercado, apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
   <language>es-MX</language>
   <copyright>Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</copyright>
-  <lastBuildDate>Thu, 05 Nov 2026 11:45:00 -0600</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 15:40:00 -0600</lastBuildDate>
+  <item>
+    <title>Banxico sorprende con un recorte a 6.25% y el peso cierra en 18.75 (−1%); anticipa una pausa prolongada</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-05-cierre-mexico/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-05-cierre-mexico/</guid>
+    <pubDate>Thu, 05 Nov 2026 15:40:00 -0600</pubDate>
+    <category>Cierre · México</category>
+    <description>Banxico bajó su tasa de 6.50% a 6.25% con votación dividida 3 a 2 (Galia Borja y Jonathan Heath votaron por mantenerla), contra lo que esperaba la mayoría del mercado. El peso cerró en 18.7499 por dólar, 0.99% más débil, tras moverse entre 18.62 y 18.97 en el día. No confirmé el cierre del IPC. Banxico dijo que mantener la tasa &quot;por un tiempo prolongado&quot; en el nuevo nivel apoyará que la inflación llegue a su meta, y subió su expectativa de inflación para el cuarto trimestre de 3.5% a 3.7%. El diferencial de tasas con EE. UU. queda en un mínimo histórico, lo que presiona al peso, y la venta de IA en Wall Street restó apetito por monedas emergentes. — Con la tasa en 6.25% y un diferencial récord bajo con EE. UU., el peso queda más expuesto: cubre por tramos tus pagos en dólares de noviembre y diciembre en lugar de esperar a que regrese a 18.57. El crédito en pesos para inventario se abarata un poco.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-05-cierre-mexico/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>La región cae con la venta global de IA: Argentina −6.6%, Chile −3.6% y Canadá −2.1%; el Ibovespa resiste</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-05-cierre-latam/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-05-cierre-latam/</guid>
+    <pubDate>Thu, 05 Nov 2026 15:40:00 -0600</pubDate>
+    <category>Cierre · LATAM</category>
+    <description>Con datos de las 13:04 CDMX, el fondo de Argentina (ARGT) caía 6.62%, el de Chile 3.61%, el de Perú 2.56%, el S&amp;P/TSX de Canadá 2.06% (35,593.01), el fondo de Colombia 1.5% y el Ibovespa 0.62% (166,521.2). La venta de chips e infraestructura de IA en Wall Street (S&amp;P 500 −4.4%) se contagió a los mercados emergentes. El Ibovespa resistió mejor por el peso de Petrobras y las materias primas, con el petróleo al alza. — Las monedas de la región se debilitan: si tienes cobros en monedas locales, conviértelos pronto. Con el petróleo cerca de 98 dólares (Brent), revisa los recargos de flete en rutas con Colombia, Perú y Chile.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-05-cierre-latam/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>El S&amp;P 500 se desploma 4.4%, su peor día desde abril de 2025, y el Nasdaq (−5.5%) entra en corrección por la venta de IA</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-05-cierre-global/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-05-cierre-global/</guid>
+    <pubDate>Thu, 05 Nov 2026 15:40:00 -0600</pubDate>
+    <category>Cierre · Global</category>
+    <description>El S&amp;P 500 cerró con caída de 4.4%, su peor día desde abril de 2025, y borró el rally de la elección; el Dow perdió más de 1,800 puntos (cerca de −3.4%) y el Nasdaq 5.5%, con lo que quedó más de 10% abajo de su máximo del 6 de octubre (corrección). El índice de semiconductores caía 10.65% cerca del cierre. El Brent subió 3.9% a 98.29 dólares, el WTI rondaba 90.66 y el Treasury a 10 años bajó a 4.83%. Lo que se esperaba en la apertura (Nasdaq −3%) se quedó corto. El mercado castigó a las empresas ligadas a la construcción de centros de datos por el temor a que el Congreso demócrata la frene, en medio del malestar de los votantes por la IA y por el alza en las tarifas eléctricas, y por las dudas sobre una burbuja en IA. AMD cayó 14%, Nvidia 8%, CoreWeave 8.9% y GE Vernova 6.9%; AppLovin subió 29.4% por sus resultados. — Con chips, memoria e infraestructura de IA en caída libre, los precios y plazos de servidores y componentes pueden moverse en días: no firmes contratos grandes de electrónica esta semana y pide a tus proveedores confirmación de fechas de entrega. El Brent volvió cerca de 100 dólares: mantén recargos de combustible con ajuste semanal.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-05-cierre-global/og.png" type="image/png" length="0"/>
+  </item>
   <item>
     <title>El peso se debilita a 18.70 con la venta en Wall Street; Banxico decide a las 13:00</title>
     <link>https://mrsupplychain.ai/noticias/brief/2026-11-05-mediodia-mexico/</link>
@@ -340,33 +367,6 @@
     <category>Mediodía · Global</category>
     <description>El brief de apertura anticipaba un rebote moderado (S&amp;P 500 +0.45%) con el WTI abajo de 100 dólares por la vía diplomática con Irán. A las 11:07 CDMX el rebote incluso se había ampliado, con el Dow arriba de 1% y el S&amp;P 500 en +0.57%. A las 13:08 CDMX el Dow sube 0.83% (52,200.75), pero el S&amp;P 500 apenas avanza 0.08% (7,586.36) y el Nasdaq cae 0.16% (25,396.47). El WTI pierde 7.49% a 96.32 dólares y el Brent ronda 104 dólares, con baja de más de 7%. El Treasury a 10 años está en 4.89%, el oro sube 1.67% (3,964.20) y el Bitcoin cae 1.13% (76,807). — El mercado ya separa ganadores y perdedores del crudo barato: transportistas y aerolíneas suben, petroleras bajan. Usa el WTI en 96 dólares para negociar recargos de combustible en la siguiente revisión, pero no comprometas tarifas antes de las elecciones del martes ni del plazo de huelga en Los Ángeles–Long Beach del miércoles.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-02-mediodia-global/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>El peso amplía su avance a 1.5% y cotiza en 18.57 por dólar, con la BMV cerrada y el crudo a la baja</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-02-mediodia-mexico/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-02-mediodia-mexico/</guid>
-    <pubDate>Mon, 02 Nov 2026 12:51:00 -0600</pubDate>
-    <category>Mediodía · México</category>
-    <description>El brief de apertura veía al peso en 18.63 (+0.85%), sin BMV, bancos ni FIX por Día de Muertos, y una semana definida por las elecciones de EE. UU. del martes y la decisión de Banxico del jueves 5. A las 11:30 CDMX ya estaba en 18.55. A las 12:51 CDMX el peso cotiza en 18.5678 por dólar, 1.51% mejor que el cierre del viernes. El IPC sigue en 69,779.20 y el Bono M a 10 años en 9.31% (cierres del 30 de octubre); la subasta de Cetes pasa al martes. No hay FIX hoy; el del 30 de octubre (18.7962) rige para liquidar mañana. — Con el peso en 18.57, la ventana para cubrir pagos en dólares de noviembre sigue abierta: ejecuta hoy una parte y deja el resto para después de las elecciones. Las liquidaciones del martes usan el FIX de 18.7962. Si importas por Long Beach, ten listo el desvío a Lázaro Cárdenas antes del miércoles.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-02-mediodia-mexico/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Chile y Perú suben más de 2% y Canadá cerca de 1%; el real y el peso colombiano siguen débiles con sus bolsas cerradas</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-02-mediodia-latam/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-02-mediodia-latam/</guid>
-    <pubDate>Mon, 02 Nov 2026 12:51:00 -0600</pubDate>
-    <category>Mediodía · LATAM</category>
-    <description>El brief de apertura anticipaba una sesión delgada en la región, con Brasil, Colombia y México cerrados por feriados, un arranque positivo en Canadá y en los fondos de Perú, Chile y Argentina, y al cobre apoyado por la caída de 12.1% de la minería chilena. A las 12:51 CDMX, el fondo de Perú sube 2.13% y el de Chile (ECH) 2.02%, el S&amp;P/TSX de Canadá 0.99% (35,974.1) y el de Argentina (ARGT) baja 0.52%; el Ibovespa y el COLCAP siguen con sus cierres del 30 de octubre. En monedas, el peso mexicano gana 1.51% (18.57) y el chileno 1.1% (977), mientras el real pierde 0.96% (5.44) y el peso colombiano 1.57% (3,224). — Con Brasil y Colombia reabriendo mañana, deja para el martes las liquidaciones en reales y pesos colombianos y revisa tus cotizaciones en dólares cuando haya liquidez. Si compras cobre o concentrados de Chile y Perú, fija precio del primer trimestre antes de que el peso chileno y el cobre suban más.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-02-mediodia-latam/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Brasil y Colombia no operan por feriado; Chile crece apenas 0.2% con la minería en −12.1% y el cobre sube</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-02-apertura-latam/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-02-apertura-latam/</guid>
-    <pubDate>Mon, 02 Nov 2026 10:10:00 -0600</pubDate>
-    <category>Apertura · LATAM</category>
-    <description>Fin de semana largo en buena parte de la región: Brasil (Finados), Colombia (Todos los Santos) y México (Día de Muertos) no tienen sesión hoy, así que el Ibovespa sigue en 167,922 (−0.75% el viernes) y el fondo que replica al COLCAP en −1.15%, ambos con datos del 30 de octubre. Donde sí hay operación, el arranque es positivo: el S&amp;P/TSX de Canadá sube 0.93% (35,952.55) y en Nueva York los fondos de Perú (EPU, +2.44%), Chile (ECH, +1.53%) y Argentina (ARGT, +1.11%) rebotan tras la venta del viernes. El viernes el Banco de la República de Colombia mantuvo su tasa en 12.25% en una decisión dividida (4 votos contra 3 que pedían subir 25 puntos). En monedas, el dólar sube 0.97% frente al real (5.4369) y 1.57% frente al peso colombiano (3,224.49), con poca liquidez por los feriados, mientras el peso chileno se aprecia 0.47% (983.27), el sol queda estable (3.4567) y el peso argentino cede 0.29% (1,543). El petróleo abajo de 100 dólares (WTI 97.58) alivia a los importadores de combustible de la región. — Con Brasil, Colombia y México sin bancos hoy, mueve a mañana pagos y despachos que dependan de liquidación local. Con el cobre en 6.51 dólares por libra y Chile produciendo menos, no esperes cable ni componentes de cobre más baratos: asegura precio para el primer trimestre. Si compras en reales o pesos colombianos, revisa tus cotizaciones en dólares cuando reabran mañana.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-02-apertura-latam/og.png" type="image/png" length="0"/>
   </item>
 </channel>
 </rss>
