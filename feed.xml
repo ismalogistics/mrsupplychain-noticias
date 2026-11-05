@@ -7,7 +7,34 @@
   <description>Briefs diarios de mercados (premercado, apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
   <language>es-MX</language>
   <copyright>Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</copyright>
-  <lastBuildDate>Thu, 05 Nov 2026 05:10:00 -0600</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 09:15:00 -0600</lastBuildDate>
+  <item>
+    <title>El peso abre en 18.57 por dólar antes de Banxico; el FIX quedó en 18.6285</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-05-apertura-mexico/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-05-apertura-mexico/</guid>
+    <pubDate>Thu, 05 Nov 2026 09:15:00 -0600</pubDate>
+    <category>Apertura · México</category>
+    <description>El peso cotizaba en 18.57 por dólar a las 7:45 CDMX (+0.16%), tras cerrar el miércoles en 18.57. El FIX determinado ayer y publicado hoy fue de 18.6285. No confirmé la apertura del IPC; el miércoles subía 0.6% por la tarde (70,608.75). El dólar sigue débil tras el Congreso demócrata, pero el rebote del petróleo y la caída de los chips moderan el apetito por riesgo. En EE. UU. las solicitudes de subsidio bajaron a 189 mil y la productividad creció 3.6%, datos que no cambian la expectativa sobre la Fed. — El peso en 18.57 sigue en buen nivel: cubre antes de las 13:00 la parte de tus pagos en dólares que no puede esperar. Si Banxico recorta por sorpresa, el peso podría debilitarse en la tarde.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-05-apertura-mexico/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>Las monedas de la región siguen fuertes frente al dólar; Brasil digiere la pausa del Copom</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-05-apertura-latam/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-05-apertura-latam/</guid>
+    <pubDate>Thu, 05 Nov 2026 09:15:00 -0600</pubDate>
+    <category>Apertura · LATAM</category>
+    <description>Con datos de las 5:12 CDMX, el peso chileno estaba en 963.6 por dólar (−1.8% el dólar), el colombiano en 3,216.78 (−1.0%), el real en 5.455 (−0.6%) y el sol en 3.442 (−0.5%). Las bolsas de la región todavía muestran el cierre del miércoles: Ibovespa 167,564 (+1.23%) y S&amp;P/TSX 36,341.4 (+2.28%). El Copom mantuvo ayer la Selic en 13.75% y terminó el ciclo de recortes. El rebote del petróleo a 90 dólares ayuda a Petrobras y a Colombia, mientras la caída de los chips en Asia resta apetito por riesgo. — Con las monedas de Chile, Colombia y Perú fuertes, adelanta pagos a proveedores locales en moneda local. Con la Selic en 13.75%, revisa plazos de pago con proveedores brasileños.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-05-apertura-latam/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>Los chips arrastran al Nasdaq tras Qualcomm (−13%) y Arm (−10%); el Dow sigue arriba y el petróleo rebota a 90 dólares</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-05-apertura-global/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-05-apertura-global/</guid>
+    <pubDate>Thu, 05 Nov 2026 09:15:00 -0600</pubDate>
+    <category>Apertura · Global</category>
+    <description>Los futuros llegaban mixtos tras el rally del miércoles y el desplome de 5.3% del KOSPI. A las 7:30 CDMX las solicitudes de subsidio por desempleo bajaron a 189 mil (194 mil la semana previa) y la productividad del tercer trimestre creció 3.6% anual (se esperaba 3%), con costos laborales unitarios −0.7%. Justo antes de la campana, los futuros del Dow subían 0.54%, los del S&amp;P 500 bajaban 0.08% y los del Nasdaq 100 1.18%. Qualcomm caía 13% por una guía débil, Arm 10.5%, SanDisk 7% y Micron 5%; AppLovin subía 29%. El WTI rebotaba 1.9% a 89.76 dólares, el Brent 3% a 97.49 y el Treasury a 10 años subía a 4.91%. El KOSPI cerró en 5,383.80 (−5.28%), con SK hynix −9.5% y Samsung −7.6%, por el temor a que el Congreso demócrata frene los centros de datos de IA. El Banco de Inglaterra subió su tasa a 4% (8 votos a 1; uno pedía 0.5 puntos), su primer alza desde agosto de 2023, y prevé que la inflación británica llegue a cerca de 5% a mediados de 2027 por la energía. — El rebote del crudo a 90 dólares confirma que el alivio en combustible será volátil: mantén recargos de combustible con ajuste semanal. La caída de Qualcomm y de la memoria eleva la incertidumbre en electrónica; Long Beach gana un día más, pero conviene seguir con el plan de desvío listo.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-05-apertura-global/og.png" type="image/png" length="0"/>
+  </item>
   <item>
     <title>Banxico decide hoy a las 13:00 con la tasa en 6.50% y el peso en 18.57 tras su mejor día desde abril</title>
     <link>https://mrsupplychain.ai/noticias/brief/2026-11-05-premercado-mexico/</link>
@@ -340,24 +367,6 @@
     <category>Cierre · LATAM</category>
     <description>El Ibovespa cayó 0.75% y el S&amp;P/TSX de Canadá 1.74%. Los fondos que replican a las bolsas de Perú (−4.2%), Argentina (−2.8%), Chile (−2.2%) y Colombia (−1.2%) también bajaron en Nueva York. La excepción fue el IPC mexicano (+0.1%). Dentro del Ibovespa, B3 (−5.4%) y BTG Pactual (−4.7%) fueron las que más cayeron, mientras Cosan (+3.6%) y Vale (+3.3%) subieron. La región siguió la venta global en tecnología y la expectativa de tasas altas por más tiempo en EE. UU., luego de que la Fed mantuviera su tasa en 3.75–4.00% con dos votos a favor de subir. La caída del cobre (−2.0%) y del oro (−3.4%) pesó sobre los mercados más ligados a la minería, como Perú y Chile. — Para el fin de semana: si compras o vendes en reales, pesos chilenos, colombianos o soles, revisa tus cotizaciones en moneda local, porque el tipo de cambio ya movió el costo en dólares; con el cobre a la baja, puede haber una ventana para cotizar cable y componentes de cobre; y con el real más débil, pide a tus proveedores brasileños que actualicen sus precios en dólares.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-latam/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>La Bolsa mexicana resiste y va hacia su mejor mes en tres años; el peso sigue presionado</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-mexico/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-mexico/</guid>
-    <pubDate>Fri, 30 Oct 2026 14:40:00 -0600</pubDate>
-    <category>Cierre · México</category>
-    <description>Mientras Wall Street caía, el IPC se mantuvo cerca de 69,860 puntos (+0.1% en el último dato disponible). El peso operó cerca de 18.90 por dólar, y el FIX del 29 de octubre (18.81) fue el más alto desde agosto de 2025. INEGI reportó que el PIB del 3T creció 0.9% trimestral y 3.2% anual. La economía muestra fuerza exportadora (exportaciones +37.9% en septiembre), pero el diferencial de tasas con EE. UU. (6.50% contra 4.00%) es el más estrecho en una década y le quita atractivo al peso. — Para el fin de semana: si tienes pagos en dólares en noviembre, evalúa cubrir una parte desde ahora; y presupuesta las importaciones con un tipo de cambio más alto que el de inicios de octubre (cerca de 18.0).</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-mexico/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Viernes rojo en tecnología: Wall Street cierra octubre con dudas sobre las tasas</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-global/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-global/</guid>
-    <pubDate>Fri, 30 Oct 2026 14:40:00 -0600</pubDate>
-    <category>Cierre · Global</category>
-    <description>S&amp;P 500 −2.1%, Nasdaq −2.9% y Dow −1.3% en cierre preliminar, en una venta liderada por tecnología. Asia ya había caído (KOSPI −3.5%, Nikkei −2.1%) y Europa también (Euro Stoxx 50 cerca de −1.1%). El oro bajó 3.4% y Bitcoin tocó su mínimo en cinco semanas, mientras el WTI subió a 103 dólares. El mercado parece ajustarse a tasas altas por más tiempo: la Fed mantuvo 3.75–4.00% el 28 de octubre con dos votos a favor de subir, y la inflación de EE. UU. va en 3.7%. — Para el fin de semana: recalcula el costo de lo que importas con el peso cerca de 18.90; revisa los recargos por combustible con el petróleo arriba de 100 dólares; y deja listo un plan para pagos en dólares por si el peso se mueve con las elecciones del martes.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-global/og.png" type="image/png" length="0"/>
   </item>
 </channel>
 </rss>
