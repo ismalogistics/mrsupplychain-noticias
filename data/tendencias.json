@@ -1,17 +1,84 @@
 {
- "actualizado": "2026-11-05T15:11:59Z",
+ "actualizado": "2026-11-05T16:22:17Z",
  "fecha": "2026-11-05",
  "titular": {
-  "es": "Los chips se hunden por Qualcomm y Corea, el petróleo rebota y Long Beach gana un día más",
-  "en": "Chips sink on Qualcomm and Korea, oil rebounds and Long Beach gains another day",
-  "pt": "Os chips afundam com a Qualcomm e a Coreia, o petróleo volta a subir e Long Beach ganha mais um dia"
+  "es": "Los chips y la IA se desploman, el petróleo rebota y Long Beach gana un día más",
+  "en": "Chips and AI plunge, oil rebounds and Long Beach gains another day",
+  "pt": "Os chips e a IA despencam, o petróleo volta a subir e Long Beach ganha mais um dia"
  },
  "items": [
   {
-   "id": "puertos",
+   "id": "semis",
    "dir": "down",
    "calor": 3,
    "mx": true,
+   "latam": false,
+   "es": "Semiconductores y electrónica",
+   "en": "Semiconductors and electronics",
+   "pt": "Semicondutores e eletrônicos",
+   "titular": {
+    "es": "Los chips se desploman: el índice de semiconductores cae 7.1% y Qualcomm 9% por sus ventas de chips para celulares",
+    "en": "Chips plunge: the semiconductor index falls 7.1% and Qualcomm 9% on handset chip sales",
+    "pt": "Os chips despencam: o índice de semicondutores cai 7,1% e a Qualcomm 9% pelas vendas de chips para celulares"
+   },
+   "x": {
+    "es": "Qualcomm no alcanzó lo esperado en ventas de chips para teléfonos por la demanda débil y menores ingresos ligados a Apple. En Corea, el KOSPI cayó 5.28% con SK hynix −9.46% y Samsung −7.57%. El temor es que el Congreso demócrata frene centros de datos y con ello la demanda de memoria.",
+    "en": "Qualcomm missed handset chip sales estimates on weak demand and lower Apple-related revenue. In Korea, the KOSPI fell 5.28% with SK hynix −9.46% and Samsung −7.57%. The fear is that the Democratic Congress will curb data centers and with them memory demand.",
+    "pt": "A Qualcomm ficou abaixo do esperado em vendas de chips para celulares pela demanda fraca e menores receitas ligadas à Apple. Na Coreia, o KOSPI caiu 5,28% com SK hynix −9,46% e Samsung −7,57%. O temor é que o Congresso democrata freie data centers e, com isso, a demanda por memória."
+   },
+   "scm": {
+    "es": "No cierres contratos grandes de memoria o componentes esta semana: los precios pueden ajustarse a la baja.",
+    "en": "Don't close large memory or component contracts this week: prices may adjust lower.",
+    "pt": "Não feche contratos grandes de memória ou componentes esta semana: os preços podem cair."
+   },
+   "fuentes": [
+    {
+     "t": "Reuters (vía Investing.com): Wall Street cae y el Nasdaq va hacia una corrección por las pérdidas en tecnología",
+     "u": "https://www.investing.com/news/stock-market-news/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-on-chip-weakness-5003237"
+    },
+    {
+     "t": "The Korea Times: el KOSPI se desploma 5.28%",
+     "u": "https://www.koreatimes.co.kr/economy/20261105/kospi-tumbles-as-democrat-sweep-fuels-ai-infrastructure-concerns"
+    }
+   ]
+  },
+  {
+   "id": "software",
+   "dir": "down",
+   "calor": 3,
+   "mx": false,
+   "latam": false,
+   "es": "Software, nube e IA",
+   "en": "Software, cloud and AI",
+   "pt": "Software, nuvem e IA",
+   "titular": {
+    "es": "La infraestructura de IA se hunde: Dell −10.5%, CoreWeave −9.3% y Nebius −13.4%",
+    "en": "AI infrastructure sinks: Dell −10.5%, CoreWeave −9.3% and Nebius −13.4%",
+    "pt": "A infraestrutura de IA afunda: Dell −10,5%, CoreWeave −9,3% e Nebius −13,4%"
+   },
+   "x": {
+    "es": "Los inversores temen más escrutinio a la construcción acelerada de centros de datos, sobre todo en estados donde crece la oposición local. IREN, Hut 8 y Applied Digital caían entre 6% y 11%.",
+    "en": "Investors fear more scrutiny of the rapid data center buildout, especially in states where local opposition is growing. IREN, Hut 8 and Applied Digital fell between 6% and 11%.",
+    "pt": "Os investidores temem mais escrutínio sobre a construção acelerada de data centers, sobretudo em estados onde cresce a oposição local. IREN, Hut 8 e Applied Digital caíam entre 6% e 11%."
+   },
+   "scm": {
+    "es": "Si dependes de capacidad de nube o servidores nuevos para proyectos de IA, pide a tu proveedor fechas firmes de entrega.",
+    "en": "If you rely on new cloud capacity or servers for AI projects, ask your provider for firm delivery dates.",
+    "pt": "Se você depende de nova capacidade de nuvem ou servidores para projetos de IA, peça ao fornecedor datas firmes de entrega."
+   },
+   "fuentes": [
+    {
+     "t": "Reuters (vía Investing.com): Wall Street cae y el Nasdaq va hacia una corrección por las pérdidas en tecnología",
+     "u": "https://www.investing.com/news/stock-market-news/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-on-chip-weakness-5003237"
+    }
+   ]
+  },
+  {
+   "id": "puertos",
+   "dir": "mixed",
+   "calor": 3,
+   "mx": true,
+   "latam": true,
    "es": "Marítimo y puertos",
    "en": "Maritime and ports",
    "pt": "Marítimo e portos",
@@ -26,116 +93,111 @@
     "pt": "Cerca de 250 vigilantes do ILWU Local 26 seguem negociando com a PMA com mediação federal; as conversas continuam na sexta. Seus terminais movimentam mais da metade da carga combinada de Los Angeles e Long Beach, e a PMA alertou que estivadores e escriturários adeririam a uma greve."
    },
    "scm": {
-    "es": "Confirma hoy con tu agente qué contenedores tienes en APM, LBCT, TTI, SSA y PCT, y ten reservado el desvío a Oakland o a Lázaro Cárdenas.",
-    "en": "Confirm today with your agent which containers you have at APM, LBCT, TTI, SSA and PCT, and have the diversion to Oakland or Lázaro Cárdenas booked.",
-    "pt": "Confirme hoje com seu agente quais contêineres você tem em APM, LBCT, TTI, SSA e PCT, e deixe reservado o desvio para Oakland ou Lázaro Cárdenas."
+    "es": "Mantén listo el desvío a otros puertos y retira antes del viernes los contenedores que ya estén liberados.",
+    "en": "Keep the diversion to other ports ready and pick up released containers before Friday.",
+    "pt": "Mantenha pronto o desvio para outros portos e retire antes de sexta os contêineres já liberados."
    },
    "fuentes": [
     {
      "t": "Insurance Journal: el riesgo de huelga en el puerto de LA se pasa al viernes",
      "u": "https://www.insurancejournal.com/news/west/2026/11/05/891694.htm"
     }
-   ],
-   "latam": true
-  },
-  {
-   "id": "servicios",
-   "dir": "down",
-   "calor": 2,
-   "mx": true,
-   "latam": false,
-   "es": "Servicios y logística",
-   "en": "Services and logistics",
-   "pt": "Serviços e logística",
-   "titular": {
-    "es": "ISM de servicios: las entregas de proveedores se hacen más lentas (56.7) y los precios siguen en 73",
-    "en": "ISM services: supplier deliveries slow down (56.7) and prices stay at 73",
-    "pt": "ISM de serviços: as entregas de fornecedores ficam mais lentas (56,7) e os preços seguem em 73"
-   },
-   "x": {
-    "es": "El ISM de servicios de octubre bajó a 54.5 (de 54.9), con nuevos pedidos en 55.9 (−3.9 puntos). El índice de entregas de proveedores subió 3.5 puntos a 56.7, lo que indica entregas más lentas, y el de precios pagados quedó en 73.0.",
-    "en": "October ISM services fell to 54.5 (from 54.9), with new orders at 55.9 (−3.9 points). The supplier deliveries index rose 3.5 points to 56.7, indicating slower deliveries, and prices paid came in at 73.0.",
-    "pt": "O ISM de serviços de outubro caiu para 54,5 (de 54,9), com novos pedidos em 55,9 (−3,9 pontos). O índice de entregas de fornecedores subiu 3,5 pontos para 56,7, o que indica entregas mais lentas, e o de preços pagos ficou em 73,0."
-   },
-   "scm": {
-    "es": "Revisa los tiempos de entrega de tus proveedores de servicios logísticos y ajusta el inventario de seguridad antes de la temporada alta.",
-    "en": "Review lead times from your logistics service providers and adjust safety stock before peak season.",
-    "pt": "Revise os prazos dos seus fornecedores de serviços logísticos e ajuste o estoque de segurança antes da alta temporada."
-   },
-   "fuentes": [
-    {
-     "t": "ISM: Services PMI de octubre de 2026 en 54.5%",
-     "u": "https://www.prnewswire.com/news-releases/services-pmi-at-54-5-october-2026-ism-services-pmi-report-302928112.html"
-    }
-   ]
-  },
-  {
-   "id": "semis",
-   "dir": "down",
-   "calor": 3,
-   "mx": false,
-   "latam": false,
-   "es": "Semiconductores y electrónica",
-   "en": "Semiconductors and electronics",
-   "pt": "Semicondutores e eletrônicos",
-   "titular": {
-    "es": "Qualcomm cae 13% por su guía y la memoria se hunde: SK hynix −9.5%, SanDisk −7%, Micron −5%",
-    "en": "Qualcomm falls 13% on guidance and memory sinks: SK hynix −9.5%, SanDisk −7%, Micron −5%",
-    "pt": "A Qualcomm cai 13% pela projeção e a memória afunda: SK hynix −9,5%, SanDisk −7%, Micron −5%"
-   },
-   "x": {
-    "es": "Qualcomm caía 13% antes de la apertura por una guía de utilidades débil y la caída del mercado de teléfonos; Arm bajaba 10.5%. En Corea, el KOSPI cayó 5.28% con SK hynix −9.46% y Samsung −7.57% por el temor a que el Congreso demócrata frene los centros de datos.",
-    "en": "Qualcomm fell 13% before the open on weak profit guidance and a handset slump; Arm fell 10.5%. In Korea, the KOSPI fell 5.28% with SK hynix −9.46% and Samsung −7.57% on fears the Democratic Congress will curb data centers.",
-    "pt": "A Qualcomm caía 13% antes da abertura por uma projeção de lucro fraca e a queda do mercado de celulares; a Arm caía 10,5%. Na Coreia, o KOSPI caiu 5,28% com SK hynix −9,46% e Samsung −7,57% pelo temor de que o Congresso democrata freie os data centers."
-   },
-   "scm": {
-    "es": "Si compras memoria o componentes, no cierres contratos grandes esta semana: los precios pueden ajustarse a la baja si sigue la venta.",
-    "en": "If you buy memory or components, don't close large contracts this week: prices may adjust lower if the selloff continues.",
-    "pt": "Se você compra memória ou componentes, não feche contratos grandes esta semana: os preços podem cair se a venda continuar."
-   },
-   "fuentes": [
-    {
-     "t": "Daily Markets Pulse: los chips caen, el petróleo rebota y el Banco de Inglaterra sube tasas (5 nov 2026)",
-     "u": "https://dailymarketspulse.substack.com/p/chip-stocks-slide-as-oil-rebounds"
-    },
-    {
-     "t": "The Korea Times: el KOSPI se desploma 5.28%",
-     "u": "https://www.koreatimes.co.kr/economy/20261105/kospi-tumbles-as-democrat-sweep-fuels-ai-infrastructure-concerns"
-    }
    ]
   },
   {
    "id": "energia",
    "dir": "up",
-   "calor": 3,
+   "calor": 2,
    "mx": true,
    "latam": true,
    "es": "Energía y combustibles",
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El petróleo rebota: el WTI sube 1.9% a 89.76 dólares y el Brent 3% a 97.49 tras su desplome",
-    "en": "Oil rebounds: WTI rises 1.9% to $89.76 and Brent 3% to $97.49 after its plunge",
-    "pt": "O petróleo volta a subir: o WTI sobe 1,9% para 89,76 dólares e o Brent 3% para 97,49 após o tombo"
+    "es": "El petróleo rebota: el WTI sube 1.8% a 89.73 dólares y el Brent cerca de 97 tras su desplome",
+    "en": "Oil rebounds: WTI rises 1.8% to $89.73 and Brent near $97 after its plunge",
+    "pt": "O petróleo volta a subir: o WTI sobe 1,8% para 89,73 dólares e o Brent perto de 97 após o tombo"
    },
    "x": {
-    "es": "Después de caer cerca de 9% el miércoles por la expectativa de un acuerdo con Irán, el crudo rebota este jueves. El Banco de Inglaterra subió su tasa a 4% y prevé inflación británica cercana a 5% a mediados de 2027 por la energía.",
-    "en": "After falling about 9% on Wednesday on hopes of an Iran deal, crude rebounds Thursday. The Bank of England raised its rate to 4% and expects UK inflation near 5% by mid-2027 due to energy.",
-    "pt": "Depois de cair cerca de 9% na quarta pela expectativa de um acordo com o Irã, o petróleo volta a subir nesta quinta. O Banco da Inglaterra subiu sua taxa para 4% e prevê inflação britânica perto de 5% em meados de 2027 pela energia."
+    "es": "Después de caer cerca de 9% el miércoles por la expectativa de un acuerdo con Irán, el crudo rebota y la energía es el único sector que sube con fuerza en Wall Street. El Banco de Inglaterra subió su tasa a 4% y prevé inflación británica cercana a 5% a mediados de 2027 por la energía.",
+    "en": "After falling about 9% on Wednesday on hopes of an Iran deal, crude rebounds and energy is the only sector rising strongly on Wall Street. The Bank of England raised its rate to 4% and expects UK inflation near 5% by mid-2027 due to energy.",
+    "pt": "Depois de cair cerca de 9% na quarta pela expectativa de um acordo com o Irã, o petróleo volta a subir e a energia é o único setor em alta forte em Wall Street. O Banco da Inglaterra subiu sua taxa para 4% e prevê inflação britânica perto de 5% em meados de 2027 pela energia."
    },
    "scm": {
-    "es": "Mantén el recargo de combustible con ajuste semanal: el crudo puede moverse 5 dólares en un día.",
-    "en": "Keep the fuel surcharge on weekly adjustment: crude can move $5 in a day.",
-    "pt": "Mantenha a sobretaxa de combustível com ajuste semanal: o petróleo pode se mover 5 dólares em um dia."
+    "es": "Mantén el recargo de combustible con ajuste semanal: el crudo puede moverse varios dólares en un día.",
+    "en": "Keep the fuel surcharge on weekly adjustment: crude can move several dollars in a day.",
+    "pt": "Mantenha a sobretaxa de combustível com ajuste semanal: o petróleo pode se mover vários dólares em um dia."
    },
    "fuentes": [
     {
-     "t": "Daily Markets Pulse: los chips caen, el petróleo rebota y el Banco de Inglaterra sube tasas (5 nov 2026)",
-     "u": "https://dailymarketspulse.substack.com/p/chip-stocks-slide-as-oil-rebounds"
+     "t": "Yahoo Finance: mercados en vivo, jueves 5 de noviembre de 2026",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html"
     },
     {
      "t": "Euronews: el Banco de Inglaterra sube su tasa por primera vez en más de 3 años",
      "u": "https://www.euronews.com/2026/11/05/bank-of-england-raises-key-interest-rate-for-first-time-in-over-3-years"
+    }
+   ]
+  },
+  {
+   "id": "naviera",
+   "dir": "down",
+   "calor": 2,
+   "mx": false,
+   "latam": false,
+   "es": "Navieras",
+   "en": "Shipping lines",
+   "pt": "Armadores",
+   "titular": {
+    "es": "Maersk cae en Europa por resultados del tercer trimestre por debajo de lo esperado",
+    "en": "Maersk falls in Europe on third-quarter results below expectations",
+    "pt": "A Maersk cai na Europa por resultados do terceiro trimestre abaixo do esperado"
+   },
+   "x": {
+    "es": "La naviera danesa reportó utilidades del tercer trimestre por debajo de lo que esperaba el mercado y estuvo entre las acciones que más bajaron en Europa.",
+    "en": "The Danish carrier reported third-quarter earnings below market expectations and was among the biggest decliners in Europe.",
+    "pt": "A armadora dinamarquesa reportou lucros do terceiro trimestre abaixo do esperado pelo mercado e esteve entre as ações que mais caíram na Europa."
+   },
+   "scm": {
+    "es": "Resultados débiles de navieras suelen anticipar ajustes de capacidad: revisa tus contratos de flete marítimo para 2027 antes de que cambien las tarifas.",
+    "en": "Weak carrier results often foreshadow capacity adjustments: review your 2027 ocean freight contracts before rates change.",
+    "pt": "Resultados fracos de armadores costumam antecipar ajustes de capacidade: revise seus contratos de frete marítimo para 2027 antes que as tarifas mudem."
+   },
+   "fuentes": [
+    {
+     "t": "Yahoo Finance: las bolsas europeas suben con la baja de la energía y el alza del Banco de Inglaterra",
+     "u": "https://uk.finance.yahoo.com/news/european-shares-advance-energy-prices-141314797.html"
+    }
+   ]
+  },
+  {
+   "id": "aereo",
+   "dir": "up",
+   "calor": 1,
+   "mx": false,
+   "latam": false,
+   "es": "Carga aérea y aerolíneas",
+   "en": "Air cargo and airlines",
+   "pt": "Carga aérea e aéreas",
+   "titular": {
+    "es": "Air France-KLM supera lo esperado en su utilidad operativa del tercer trimestre",
+    "en": "Air France-KLM beats expectations on third-quarter operating profit",
+    "pt": "A Air France-KLM supera o esperado no lucro operacional do terceiro trimestre"
+   },
+   "x": {
+    "es": "La aerolínea europea subió en bolsa después de reportar una utilidad operativa del tercer trimestre mejor a lo esperado, pese al alza del combustible por la guerra con Irán.",
+    "en": "The European airline rose after reporting better-than-expected third-quarter operating profit, despite higher fuel costs from the Iran war.",
+    "pt": "A aérea europeia subiu na bolsa após reportar lucro operacional do terceiro trimestre melhor que o esperado, apesar da alta do combustível pela guerra com o Irã."
+   },
+   "scm": {
+    "es": "Si mueves carga aérea a Europa, cotiza ahora para diciembre: las aerolíneas con buenos resultados tienden a sostener tarifas en temporada alta.",
+    "en": "If you ship air cargo to Europe, quote December now: airlines with strong results tend to hold rates in peak season.",
+    "pt": "Se você envia carga aérea para a Europa, cote agora para dezembro: aéreas com bons resultados tendem a manter tarifas na alta temporada."
+   },
+   "fuentes": [
+    {
+     "t": "Yahoo Finance: las bolsas europeas suben con la baja de la energía y el alza del Banco de Inglaterra",
+     "u": "https://uk.finance.yahoo.com/news/european-shares-advance-energy-prices-141314797.html"
     }
    ]
   },
@@ -149,133 +211,102 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "El oro sube 3.3% a 4,071.80 dólares con el dólar débil tras la elección",
-    "en": "Gold rises 3.3% to $4,071.80 on the weak dollar after the election",
-    "pt": "O ouro sobe 3,3% para 4.071,80 dólares com o dólar fraco após a eleição"
+    "es": "ArcelorMittal supera lo esperado y el oro sube 1.2% a 4,123 dólares",
+    "en": "ArcelorMittal beats expectations and gold rises 1.2% to $4,123",
+    "pt": "A ArcelorMittal supera o esperado e o ouro sobe 1,2% para 4.123 dólares"
    },
    "x": {
-    "es": "A las 9:05 de Nueva York, el oro subía 2.86% a 4,052.90 dólares la onza y la plata 4.94% a 52.21, impulsados por la caída del dólar tras el triunfo demócrata. México y Perú, grandes productores de plata, son los más expuestos al movimiento.",
-    "en": "At 9:05 a.m. New York time, gold was up 2.86% at $4,052.90 an ounce and silver 4.94% at $52.21, driven by the weaker dollar after the Democratic win. Mexico and Peru, major silver producers, are the most exposed to the move.",
-    "pt": "Às 9h05 de Nova York, o ouro subia 2,86% a 4.052,90 dólares a onça e a prata 4,94% a 52,21, impulsionados pela queda do dólar após a vitória democrata. México e Peru, grandes produtores de prata, são os mais expostos ao movimento."
+    "es": "La acerera reportó una utilidad básica mejor a lo pronosticado y subió en Europa. El oro sigue al alza con el dólar débil. En la BMV, Peñoles subía y Grupo México bajaba.",
+    "en": "The steelmaker reported better-than-forecast core profit and rose in Europe. Gold keeps rising on the weak dollar. On the BMV, Peñoles rose and Grupo México fell.",
+    "pt": "A siderúrgica reportou lucro básico melhor que o previsto e subiu na Europa. O ouro segue em alta com o dólar fraco. Na BMV, a Peñoles subia e o Grupo México caía."
    },
    "scm": {
-    "es": "Si compras insumos con plata o cobre (electrónica, soldadura, contactos), revisa las cláusulas de ajuste por metales de tus contratos.",
-    "en": "If you buy inputs containing silver or copper (electronics, solder, contacts), review the metal adjustment clauses in your contracts.",
-    "pt": "Se você compra insumos com prata ou cobre (eletrônicos, solda, contatos), revise as cláusulas de reajuste por metais dos seus contratos."
+    "es": "Si compras acero, pide cotizaciones nuevas: los buenos resultados de las acereras sugieren que no habrá descuentos pronto.",
+    "en": "If you buy steel, ask for new quotes: steelmakers' strong results suggest no discounts soon.",
+    "pt": "Se você compra aço, peça novas cotações: os bons resultados das siderúrgicas sugerem que não haverá descontos tão cedo."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: mercados en vivo, 4 de noviembre de 2026",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-earnings-140752043.html"
+     "t": "Yahoo Finance: las bolsas europeas suben con la baja de la energía y el alza del Banco de Inglaterra",
+     "u": "https://uk.finance.yahoo.com/news/european-shares-advance-energy-prices-141314797.html"
     },
     {
-     "t": "TheStreet: Stock Market Today, 4 de noviembre de 2026",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+     "t": "Yahoo Finance: mercados en vivo, jueves 5 de noviembre de 2026",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html"
+    },
+    {
+     "t": "Investing.com México: la ola azul tumba acciones de chips; BMV al alza",
+     "u": "https://mx.investing.com/news/stock-market-news/sp-500-dow-jones-ipc-la-ola-azul-en-eeuu-tumba-acciones-de-chips-bmv-al-alza-3835644"
     }
    ]
   },
   {
-   "id": "software",
+   "id": "manufactura",
    "dir": "down",
-   "calor": 2,
+   "calor": 1,
    "mx": false,
    "latam": false,
-   "es": "Software e IA para supply chain",
-   "en": "Software and AI for supply chain",
-   "pt": "Software e IA para supply chain",
+   "es": "Manufactura e industria",
+   "en": "Manufacturing and industry",
+   "pt": "Manufatura e indústria",
    "titular": {
-    "es": "Zebra cae 13% pese a crecer 22%: la memoria más cara presiona sus márgenes",
-    "en": "Zebra falls 13% despite 22% growth: pricier memory squeezes its margins",
-    "pt": "A Zebra cai 13% apesar de crescer 22%: a memória mais cara pressiona suas margens"
+    "es": "Rheinmetall recorta otra vez su pronóstico de 2026 por retrasos en su programa de vehículos Boxer",
+    "en": "Rheinmetall cuts its 2026 outlook again on delays in its Boxer vehicle program",
+    "pt": "A Rheinmetall corta de novo sua projeção de 2026 por atrasos no programa de veículos Boxer"
    },
    "x": {
-    "es": "Zebra Technologies, que fabrica lectores, impresoras de etiquetas y equipos para almacén, vendió 1,610 millones de dólares en el tercer trimestre (+22.3%), pero su margen bruto bajó a 45.7% desde 48.0% por el mayor costo de los componentes de memoria, y su guía para el cuarto trimestre quedó apenas debajo del consenso. La acción caía 13% antes de la apertura. Del lado de la ciberseguridad, CrowdStrike acordó comprar dos empresas de seguridad con IA por 495 millones de dólares.",
-    "en": "Zebra Technologies, which makes scanners, label printers and warehouse devices, sold $1.61 billion in the third quarter (+22.3%), but its gross margin fell to 45.7% from 48.0% on higher memory component costs, and its fourth-quarter guidance came in just below consensus. The stock was down 13% before the open. On the cybersecurity side, CrowdStrike agreed to buy two AI security startups for $495 million.",
-    "pt": "A Zebra Technologies, que fabrica leitores, impressoras de etiquetas e equipamentos para armazém, vendeu 1,61 bilhão de dólares no terceiro trimestre (+22,3%), mas sua margem bruta caiu para 45,7% de 48,0% pelo maior custo dos componentes de memória, e sua projeção para o quarto trimestre ficou um pouco abaixo do consenso. A ação caía 13% antes da abertura. No lado da cibersegurança, a CrowdStrike fechou a compra de duas empresas de segurança com IA por 495 milhões de dólares."
+    "es": "El fabricante alemán de defensa redujo su pronóstico por segunda vez en tres meses y cayó en bolsa. En EE. UU., la productividad del tercer trimestre creció 3.6% y los costos laborales unitarios bajaron 0.7%.",
+    "en": "The German defense maker cut its outlook for the second time in three months and fell. In the US, third-quarter productivity grew 3.6% and unit labor costs fell 0.7%.",
+    "pt": "A fabricante alemã de defesa reduziu sua projeção pela segunda vez em três meses e caiu na bolsa. Nos EUA, a produtividade do terceiro trimestre cresceu 3,6% e os custos unitários do trabalho caíram 0,7%."
    },
    "scm": {
-    "es": "Si planeas renovar escáneres o terminales de almacén, pide cotización ya: el alza en memoria puede trasladarse a precios en 2027.",
-    "en": "If you plan to replace warehouse scanners or terminals, request quotes now: the rise in memory costs may pass through to prices in 2027.",
-    "pt": "Se você planeja renovar leitores ou terminais de armazém, peça cotação já: a alta da memória pode ser repassada aos preços em 2027."
+    "es": "Los retrasos de programas grandes suelen venir de proveedores: revisa la salud de tus proveedores críticos de componentes de largo plazo.",
+    "en": "Delays in large programs often come from suppliers: review the health of your critical long-lead component suppliers.",
+    "pt": "Atrasos em grandes programas costumam vir de fornecedores: revise a saúde dos seus fornecedores críticos de componentes de longo prazo."
    },
    "fuentes": [
     {
-     "t": "Tradingpedia: Zebra cae pese a superar estimados",
-     "u": "https://www.tradingpedia.com/2026/11/03/zebra-slips-as-cautious-outlook-overshadows-strong-beat/"
+     "t": "Yahoo Finance: las bolsas europeas suben con la baja de la energía y el alza del Banco de Inglaterra",
+     "u": "https://uk.finance.yahoo.com/news/european-shares-advance-energy-prices-141314797.html"
     },
     {
-     "t": "Yahoo Finance: mercados en vivo, 3 de noviembre de 2026",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html"
+     "t": "Daily Markets Pulse: los chips caen, el petróleo rebota y el Banco de Inglaterra sube tasas",
+     "u": "https://dailymarketspulse.substack.com/p/chip-stocks-slide-as-oil-rebounds"
     }
    ]
   },
   {
    "id": "retail",
-   "dir": "down",
-   "calor": 3,
-   "mx": false,
-   "latam": false,
-   "es": "Retail y última milla",
-   "en": "Retail and last mile",
-   "pt": "Varejo e última milha",
-   "titular": {
-    "es": "Shopify cae cerca de 16%: su GMV de 119 mil millones de dólares quedó debajo de lo esperado",
-    "en": "Shopify falls about 16%: its $119 billion GMV came in below expectations",
-    "pt": "A Shopify cai cerca de 16%: seu GMV de 119 bilhões de dólares ficou abaixo do esperado"
-   },
-   "x": {
-    "es": "Shopify reportó ingresos 32% mayores y un volumen bruto de mercancía (GMV) de 119 mil millones de dólares en el tercer trimestre, pero el mercado esperaba unos 120 mil millones y la acción caía cerca de 16% antes de la apertura. Para el cuarto trimestre anticipa un crecimiento de ingresos de \"low thirties\".",
-    "en": "Shopify reported 32% higher revenue and gross merchandise volume (GMV) of $119 billion in the third quarter, but the market expected about $120 billion and the stock was down about 16% before the open. For the fourth quarter it expects revenue growth in the low thirties.",
-    "pt": "A Shopify reportou receita 32% maior e volume bruto de mercadorias (GMV) de 119 bilhões de dólares no terceiro trimestre, mas o mercado esperava cerca de 120 bilhões e a ação caía cerca de 16% antes da abertura. Para o quarto trimestre prevê crescimento de receita na casa dos 30%."
-   },
-   "scm": {
-    "es": "Si vendes por comercio electrónico, no recortes inventario de temporada por esta señal: el crecimiento sigue arriba de 30%; ajusta sólo los pedidos de reposición rápida.",
-    "en": "If you sell through e-commerce, do not cut holiday inventory on this signal: growth is still above 30%; adjust only fast-replenishment orders.",
-    "pt": "Se você vende por comércio eletrônico, não corte estoque de temporada por esse sinal: o crescimento segue acima de 30%; ajuste só os pedidos de reposição rápida."
-   },
-   "fuentes": [
-    {
-     "t": "Shopify: resultados del tercer trimestre de 2026",
-     "u": "https://www.shopify.com/news/shopify-q3-2026-financial-results"
-    },
-    {
-     "t": "24/7 Wall St.: Shopify cae 17% por GMV y suscripciones",
-     "u": "https://247wallst.com/investing/2026/11/03/shopify-plunges-17-as-gmv-and-subscription-revenue-miss-estimates-wix-drops-3-etsy-dips/"
-    },
-    {
-     "t": "TheStreet: Stock Market Today, 3 de noviembre de 2026",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026"
-    }
-   ]
-  },
-  {
-   "id": "truck",
-   "dir": "down",
-   "calor": 2,
+   "dir": "up",
+   "calor": 1,
    "mx": true,
    "latam": false,
-   "es": "Autotransporte",
-   "en": "Trucking",
-   "pt": "Transporte rodoviário",
+   "es": "Retail y consumo",
+   "en": "Retail and consumer",
+   "pt": "Varejo e consumo",
    "titular": {
-    "es": "PAM Transport suma su 12.º trimestre con pérdida operativa en carga completa: el costo de choferes y diésel supera las tarifas",
-    "en": "PAM Transport posts its 12th straight truckload operating loss: driver and diesel costs outpace rates",
-    "pt": "A PAM Transport soma o 12.º trimestre com prejuízo operacional em carga completa: o custo de motoristas e diesel supera as tarifas"
+    "es": "Consumo resiste: Next mantiene su guía con ventas a precio completo +8.1% y en la BMV suben Walmex y Bimbo",
+    "en": "Consumer holds up: Next keeps guidance with full-price sales +8.1% and Walmex and Bimbo rise on the BMV",
+    "pt": "O consumo resiste: a Next mantém a projeção com vendas a preço cheio +8,1% e na BMV sobem Walmex e Bimbo"
    },
    "x": {
-    "es": "El transportista PAMT perdió 8.1 millones de dólares en el tercer trimestre y su división de carga completa operó con un índice de 109.1% (gasta 1.09 dólares por cada dólar que cobra), 240 puntos base peor que hace un año. Su presidente dijo que los aumentos acumulados de costos siguen por encima de las mejoras de tarifa logradas.",
-    "en": "Carrier PAMT lost $8.1 million in the third quarter and its truckload division ran a 109.1% operating ratio (spending $1.09 for every dollar it bills), 240 basis points worse than a year ago. Its president said cumulative cost increases continue to outpace the rate improvements achieved.",
-    "pt": "A transportadora PAMT perdeu 8,1 milhões de dólares no terceiro trimestre e sua divisão de carga completa operou com índice de 109,1% (gasta 1,09 dólar para cada dólar que fatura), 240 pontos-base pior que há um ano. Seu presidente disse que os aumentos acumulados de custos seguem acima das melhorias de tarifa obtidas."
+    "es": "La minorista británica Next mantuvo su pronóstico de utilidades tras un alza de 8.1% en ventas a precio completo, y Diageo reportó un alza inesperada en ventas. En México, Walmex y Bimbo subían cerca de 2% y 2.7%.",
+    "en": "UK retailer Next kept its profit outlook after an 8.1% rise in full-price sales, and Diageo reported an unexpected sales increase. In Mexico, Walmex and Bimbo rose about 2% and 2.7%.",
+    "pt": "A varejista britânica Next manteve sua projeção de lucro após alta de 8,1% nas vendas a preço cheio, e a Diageo reportou alta inesperada nas vendas. No México, Walmex e Bimbo subiam cerca de 2% e 2,7%."
    },
    "scm": {
-    "es": "Espera presión al alza en tarifas de carga completa transfronteriza en 2027: asegura capacidad con contratos y no sólo con mercado spot.",
-    "en": "Expect upward pressure on cross-border truckload rates in 2027: secure capacity with contracts, not just the spot market.",
-    "pt": "Espere pressão de alta nas tarifas de carga completa transfronteiriça em 2027: garanta capacidade com contratos, não só no mercado spot."
+    "es": "La demanda de consumo sigue firme antes de la temporada alta: confirma capacidad de última milla para diciembre.",
+    "en": "Consumer demand stays firm ahead of peak season: confirm last-mile capacity for December.",
+    "pt": "A demanda de consumo segue firme antes da alta temporada: confirme a capacidade de última milha para dezembro."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance/FreightWaves: Pamt Corp. reporta pérdida en el 3T",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/pamt-corp-sees-q3-net-001626610.html"
+     "t": "Yahoo Finance: las bolsas europeas suben con la baja de la energía y el alza del Banco de Inglaterra",
+     "u": "https://uk.finance.yahoo.com/news/european-shares-advance-energy-prices-141314797.html"
+    },
+    {
+     "t": "Investing.com México: la ola azul tumba acciones de chips; BMV al alza",
+     "u": "https://mx.investing.com/news/stock-market-news/sp-500-dow-jones-ipc-la-ola-azul-en-eeuu-tumba-acciones-de-chips-bmv-al-alza-3835644"
     }
    ]
   }

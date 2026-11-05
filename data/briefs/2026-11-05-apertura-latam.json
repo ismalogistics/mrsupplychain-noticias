@@ -3,60 +3,60 @@
  "fecha": "2026-11-05",
  "momento": "apertura",
  "mercado": "latam",
- "hora": "09:15 CDMX",
+ "hora": "09:10 CDMX",
  "es": {
-  "titular": "Las monedas de la región siguen fuertes frente al dólar; Brasil digiere la pausa del Copom",
+  "titular": "La región abre a la baja con la venta de tecnología: Argentina −5.3%, Perú −1.8% y Chile −1.5%; el Ibovespa, plano",
   "bloques": [
    {
     "t": "Apertura",
-    "x": "Con datos de las 5:12 CDMX, el peso chileno estaba en 963.6 por dólar (−1.8% el dólar), el colombiano en 3,216.78 (−1.0%), el real en 5.455 (−0.6%) y el sol en 3.442 (−0.5%). Las bolsas de la región todavía muestran el cierre del miércoles: Ibovespa 167,564 (+1.23%) y S&P/TSX 36,341.4 (+2.28%)."
+    "x": "Con datos de las 9:12 CDMX, el fondo de Argentina (ARGT) caía 5.29%, el de Perú 1.8%, el de Chile 1.53% y el S&P/TSX de Canadá 0.71% (36,083.48); el Ibovespa estaba plano (167,495.55, −0.04%) y el fondo de Colombia apenas subía 0.08%. El peso chileno se debilitaba a 971.9 por dólar, el colombiano a 3,231, el real a 5.47 y el sol a 3.45."
    },
    {
     "t": "Contexto",
-    "x": "El Copom mantuvo ayer la Selic en 13.75% y terminó el ciclo de recortes. El rebote del petróleo a 90 dólares ayuda a Petrobras y a Colombia, mientras la caída de los chips en Asia resta apetito por riesgo."
+    "x": "La venta de chips y de infraestructura de IA en Wall Street (Nasdaq −3%) se contagia a los mercados emergentes. El rebote del petróleo a 90 dólares ayuda a Petrobras y a Colombia. Ayer el Copom mantuvo la Selic en 13.75% y terminó el ciclo de recortes."
    },
    {
     "t": "Qué se espera hoy",
-    "x": "En México decide Banxico a las 13:00 CDMX. En Brasil, el mercado reacciona al comunicado del Copom, que no deja espacio a nuevos recortes por ahora."
+    "x": "En México decide Banxico a las 13:00 CDMX. En Brasil, el mercado sigue digiriendo el comunicado del Copom."
    }
   ],
-  "scm": "Con las monedas de Chile, Colombia y Perú fuertes, adelanta pagos a proveedores locales en moneda local. Con la Selic en 13.75%, revisa plazos de pago con proveedores brasileños."
+  "scm": "Las monedas de la región ceden parte de lo ganado ayer: si tienes pagos en pesos chilenos, soles o pesos colombianos, la ventana de ayer era mejor; no adelantes más hoy. Con la Selic en 13.75%, revisa plazos de pago con proveedores brasileños."
  },
  "en": {
-  "titular": "The region's currencies stay strong against the dollar; Brazil digests Copom's pause",
+  "titular": "The region opens lower on the tech selloff: Argentina −5.3%, Peru −1.8% and Chile −1.5%; the Ibovespa flat",
   "bloques": [
    {
     "t": "Opening",
-    "x": "With data as of 5:12 a.m. Mexico City time, the Chilean peso was at 963.6 per dollar (dollar −1.8%), the Colombian peso at 3,216.78 (−1.0%), the real at 5.455 (−0.6%) and the sol at 3.442 (−0.5%). The region's exchanges still show Wednesday's close: Ibovespa 167,564 (+1.23%) and S&P/TSX 36,341.4 (+2.28%)."
+    "x": "With data as of 9:12 a.m. Mexico City time, the Argentina fund (ARGT) fell 5.29%, the Peru fund 1.8%, the Chile fund 1.53% and Canada's S&P/TSX 0.71% (36,083.48); the Ibovespa was flat (167,495.55, −0.04%) and the Colombia fund barely rose 0.08%. The Chilean peso weakened to 971.9 per dollar, the Colombian peso to 3,231, the real to 5.47 and the sol to 3.45."
    },
    {
     "t": "Context",
-    "x": "Copom held the Selic at 13.75% yesterday and ended the cutting cycle. Oil's rebound to $90 helps Petrobras and Colombia, while the chip selloff in Asia saps risk appetite."
+    "x": "The chip and AI infrastructure selloff on Wall Street (Nasdaq −3%) spills over to emerging markets. Oil's rebound to $90 helps Petrobras and Colombia. Yesterday Copom held the Selic at 13.75% and ended the cutting cycle."
    },
    {
     "t": "What to expect today",
-    "x": "In Mexico, Banxico decides at 1:00 p.m. Mexico City time. In Brazil, the market reacts to the Copom statement, which leaves no room for more cuts for now."
+    "x": "In Mexico, Banxico decides at 1:00 p.m. Mexico City time. In Brazil, the market keeps digesting the Copom statement."
    }
   ],
-  "scm": "With strong Chilean, Colombian and Peruvian currencies, pull forward payments to local suppliers in local currency. With the Selic at 13.75%, review payment terms with Brazilian suppliers."
+  "scm": "The region's currencies give back part of yesterday's gains: if you have payments in Chilean pesos, soles or Colombian pesos, yesterday's window was better; don't pull forward more today. With the Selic at 13.75%, review payment terms with Brazilian suppliers."
  },
  "pt": {
-  "titular": "As moedas da região seguem fortes frente ao dólar; o Brasil digere a pausa do Copom",
+  "titular": "A região abre em queda com a venda de tecnologia: Argentina −5,3%, Peru −1,8% e Chile −1,5%; o Ibovespa, estável",
   "bloques": [
    {
     "t": "Abertura",
-    "x": "Com dados das 5h12 (Cidade do México), o peso chileno estava em 963,6 por dólar (dólar −1,8%), o colombiano em 3.216,78 (−1,0%), o dólar em R$ 5,455 (−0,6%) e o sol em 3,442 (−0,5%). As bolsas da região ainda mostram o fechamento de quarta: Ibovespa 167.564 (+1,23%) e S&P/TSX 36.341,4 (+2,28%)."
+    "x": "Com dados das 9h12 (Cidade do México), o fundo da Argentina (ARGT) caía 5,29%, o do Peru 1,8%, o do Chile 1,53% e o S&P/TSX do Canadá 0,71% (36.083,48); o Ibovespa estava estável (167.495,55, −0,04%) e o fundo da Colômbia subia só 0,08%. O peso chileno se enfraquecia a 971,9 por dólar, o colombiano a 3.231, o dólar a R$ 5,47 e o sol a 3,45."
    },
    {
     "t": "Contexto",
-    "x": "O Copom manteve ontem a Selic em 13,75% e encerrou o ciclo de cortes. A alta do petróleo para 90 dólares ajuda a Petrobras e a Colômbia, enquanto a queda dos chips na Ásia reduz o apetite por risco."
+    "x": "A venda de chips e de infraestrutura de IA em Wall Street (Nasdaq −3%) contamina os mercados emergentes. A alta do petróleo para 90 dólares ajuda a Petrobras e a Colômbia. Ontem o Copom manteve a Selic em 13,75% e encerrou o ciclo de cortes."
    },
    {
     "t": "O que se espera hoje",
-    "x": "No México, o Banxico decide às 13h (Cidade do México). No Brasil, o mercado reage ao comunicado do Copom, que não deixa espaço para novos cortes por enquanto."
+    "x": "No México, o Banxico decide às 13h (Cidade do México). No Brasil, o mercado segue digerindo o comunicado do Copom."
    }
   ],
-  "scm": "Com as moedas do Chile, da Colômbia e do Peru fortes, antecipe pagamentos a fornecedores locais em moeda local. Com a Selic em 13,75%, revise prazos de pagamento com fornecedores brasileiros."
+  "scm": "As moedas da região devolvem parte do ganho de ontem: se você tem pagamentos em pesos chilenos, soles ou pesos colombianos, a janela de ontem era melhor; não antecipe mais hoje. Com a Selic em 13,75%, revise prazos de pagamento com fornecedores brasileiros."
  },
  "fuentes": [
   {

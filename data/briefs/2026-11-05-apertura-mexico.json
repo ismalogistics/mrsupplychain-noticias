@@ -3,69 +3,77 @@
  "fecha": "2026-11-05",
  "momento": "apertura",
  "mercado": "mexico",
- "hora": "09:15 CDMX",
+ "hora": "09:10 CDMX",
  "es": {
-  "titular": "El peso abre en 18.57 por dólar antes de Banxico; el FIX quedó en 18.6285",
+  "titular": "El IPC abre al alza pero gira con Wall Street; el peso se debilita a 18.64 antes de Banxico",
   "bloques": [
    {
     "t": "Apertura",
-    "x": "El peso cotizaba en 18.57 por dólar a las 7:45 CDMX (+0.16%), tras cerrar el miércoles en 18.57. El FIX determinado ayer y publicado hoy fue de 18.6285. No confirmé la apertura del IPC; el miércoles subía 0.6% por la tarde (70,608.75)."
+    "x": "El peso abrió fuerte (18.57 por dólar a las 7:45 CDMX), pero se debilitó con la caída de Wall Street: a las 9:12 CDMX estaba en 18.64. El FIX publicado hoy fue de 18.6285. El S&P/BMV IPC abrió con alza de 0.28%, cerca de 71,000 puntos, y luego pasó a terreno negativo (70,609, −0.3%). Subían Bimbo, Walmex, Arca Continental, Peñoles y Banorte; bajaban Grupo México y Cemex."
    },
    {
     "t": "Contexto",
-    "x": "El dólar sigue débil tras el Congreso demócrata, pero el rebote del petróleo y la caída de los chips moderan el apetito por riesgo. En EE. UU. las solicitudes de subsidio bajaron a 189 mil y la productividad creció 3.6%, datos que no cambian la expectativa sobre la Fed."
+    "x": "La venta de chips e IA en Wall Street (Nasdaq −3%) resta apetito por riesgo y frena al peso tras su mejor día desde abril. En EE. UU. las solicitudes de subsidio bajaron a 189 mil y la productividad creció 3.6%. El petróleo rebota a cerca de 90 dólares."
    },
    {
     "t": "Qué se espera hoy",
-    "x": "Banxico anuncia su decisión a las 13:00 CDMX con la tasa en 6.50%; la mayoría de los analistas espera que no la cambie porque la inflación está en la parte alta del rango y la actividad va mejor de lo esperado."
+    "x": "Banxico anuncia su decisión a las 13:00 CDMX con la tasa en 6.50%; los analistas esperan que no la cambie, aunque Banamex y BofA ven riesgo de un recorte. Si recorta, el peso podría irse hacia 18.80, según Grupo Financiero Base."
    }
   ],
-  "scm": "El peso en 18.57 sigue en buen nivel: cubre antes de las 13:00 la parte de tus pagos en dólares que no puede esperar. Si Banxico recorta por sorpresa, el peso podría debilitarse en la tarde."
+  "scm": "El peso ya cedió de 18.57 a 18.64 y un recorte de Banxico podría llevarlo hacia 18.80: cubre antes de las 13:00 los pagos en dólares que no pueden esperar."
  },
  "en": {
-  "titular": "The peso opens at 18.57 per dollar ahead of Banxico; the FIX came in at 18.6285",
+  "titular": "The IPC opens higher but turns with Wall Street; the peso weakens to 18.64 ahead of Banxico",
   "bloques": [
    {
     "t": "Opening",
-    "x": "The peso traded at 18.57 per dollar at 7:45 a.m. Mexico City time (+0.16%), after closing Wednesday at 18.57. Yesterday's FIX, published today, was 18.6285. I could not confirm the IPC opening; on Wednesday afternoon it was up 0.6% (70,608.75)."
+    "x": "The peso opened strong (18.57 per dollar at 7:45 a.m. Mexico City time) but weakened as Wall Street fell: at 9:12 it was at 18.64. Today's published FIX was 18.6285. The S&P/BMV IPC opened up 0.28%, near 71,000 points, and then turned negative (70,609, −0.3%). Bimbo, Walmex, Arca Continental, Peñoles and Banorte rose; Grupo México and Cemex fell."
    },
    {
     "t": "Context",
-    "x": "The dollar stays weak after the Democratic Congress, but oil's rebound and the chip selloff temper risk appetite. In the US, jobless claims fell to 189,000 and productivity grew 3.6%, data that do not change Fed expectations."
+    "x": "The chip and AI selloff on Wall Street (Nasdaq −3%) saps risk appetite and halts the peso after its best day since April. In the US, jobless claims fell to 189,000 and productivity grew 3.6%. Oil rebounds to near $90."
    },
    {
     "t": "What to expect today",
-    "x": "Banxico announces its decision at 1:00 p.m. Mexico City time with the rate at 6.50%; most analysts expect no change because inflation is in the upper part of the range and activity is doing better than expected."
+    "x": "Banxico announces its decision at 1:00 p.m. Mexico City time with the rate at 6.50%; analysts expect no change, although Banamex and BofA see a risk of a cut. If it cuts, the peso could move toward 18.80, according to Grupo Financiero Base."
    }
   ],
-  "scm": "The peso at 18.57 is still at a good level: before 1:00 p.m., hedge the portion of your dollar payments that can't wait. If Banxico surprises with a cut, the peso could weaken in the afternoon."
+  "scm": "The peso has already slipped from 18.57 to 18.64 and a Banxico cut could take it toward 18.80: before 1:00 p.m., hedge the dollar payments that can't wait."
  },
  "pt": {
-  "titular": "O peso abre a 18,57 por dólar antes do Banxico; o FIX ficou em 18,6285",
+  "titular": "O IPC abre em alta mas vira com Wall Street; o peso se enfraquece a 18,64 antes do Banxico",
   "bloques": [
    {
     "t": "Abertura",
-    "x": "O peso era cotado a 18,57 por dólar às 7h45 (Cidade do México) (+0,16%), após fechar a quarta a 18,57. O FIX determinado ontem e publicado hoje foi de 18,6285. Não confirmei a abertura do IPC; na quarta à tarde subia 0,6% (70.608,75)."
+    "x": "O peso abriu forte (18,57 por dólar às 7h45, Cidade do México), mas se enfraqueceu com a queda de Wall Street: às 9h12 estava em 18,64. O FIX publicado hoje foi de 18,6285. O S&P/BMV IPC abriu em alta de 0,28%, perto de 71.000 pontos, e depois passou para o negativo (70.609, −0,3%). Subiam Bimbo, Walmex, Arca Continental, Peñoles e Banorte; caíam Grupo México e Cemex."
    },
    {
     "t": "Contexto",
-    "x": "O dólar segue fraco após o Congresso democrata, mas a alta do petróleo e a queda dos chips moderam o apetite por risco. Nos EUA, os pedidos de seguro-desemprego caíram para 189 mil e a produtividade cresceu 3,6%, dados que não mudam a expectativa sobre o Fed."
+    "x": "A venda de chips e IA em Wall Street (Nasdaq −3%) reduz o apetite por risco e freia o peso após seu melhor dia desde abril. Nos EUA, os pedidos de seguro-desemprego caíram para 189 mil e a produtividade cresceu 3,6%. O petróleo volta a perto de 90 dólares."
    },
    {
     "t": "O que se espera hoje",
-    "x": "O Banxico anuncia sua decisão às 13h (Cidade do México) com a taxa em 6,50%; a maioria dos analistas espera manutenção porque a inflação está na parte alta do intervalo e a atividade vai melhor que o esperado."
+    "x": "O Banxico anuncia sua decisão às 13h (Cidade do México) com a taxa em 6,50%; os analistas esperam manutenção, embora Banamex e BofA vejam risco de corte. Se cortar, o peso pode ir para 18,80, segundo o Grupo Financiero Base."
    }
   ],
-  "scm": "O peso a 18,57 segue em bom nível: antes das 13h, proteja a parte dos seus pagamentos em dólares que não pode esperar. Se o Banxico cortar de surpresa, o peso pode se enfraquecer à tarde."
+  "scm": "O peso já cedeu de 18,57 para 18,64 e um corte do Banxico poderia levá-lo a 18,80: antes das 13h, proteja os pagamentos em dólares que não podem esperar."
  },
  "fuentes": [
   {
-   "t": "El Informador: el peso inicia ganador este jueves 5 de noviembre",
+   "t": "Investing.com México: la ola azul tumba acciones de chips; BMV al alza",
+   "u": "https://mx.investing.com/news/stock-market-news/sp-500-dow-jones-ipc-la-ola-azul-en-eeuu-tumba-acciones-de-chips-bmv-al-alza-3835644"
+  },
+  {
+   "t": "Investing.com México: el peso se pone en modo espera de Banxico",
+   "u": "https://mx.investing.com/news/forex-news/precio-del-dolar-hoy-bajo-1860-peso-mexicano-se-pone-en-modo-espera-de-banxico-3835135"
+  },
+  {
+   "t": "El Informador: el peso inicia ganador este jueves 5 de noviembre (FIX)",
    "u": "https://www.informador.mx/economia/dolar-hoy-peso-mexicano-inicia-ganador-este-jueves-5-de-noviembre-tras-elecciones-en-estados-unidos-asi-cotiza-el-dolar-20261105-0056.html"
   },
   {
-   "t": "GBM: el peso avanza por segunda sesión en la antesala de Banxico",
-   "u": "https://gbm.com/media/noticia/peso-mexicano-avanza-por-segunda-sesion-en-antesala-decision-banxico"
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
   }
  ]
 }
