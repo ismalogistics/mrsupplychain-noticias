@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-05-mediodia-global",
+   "fecha": "2026-11-05",
+   "momento": "mediodia",
+   "mercado": "global",
+   "titular_es": "La venta se profundiza: el Nasdaq se desploma cerca de 5% y la memoria se hunde (SanDisk −20%, Micron −16%)",
+   "titular_en": "The selloff deepens: the Nasdaq plunges about 5% and memory sinks (SanDisk −20%, Micron −16%)",
+   "titular_pt": "A venda se aprofunda: o Nasdaq despenca cerca de 5% e a memória afunda (SanDisk −20%, Micron −16%)"
+  },
+  {
+   "id": "2026-11-05-mediodia-latam",
+   "fecha": "2026-11-05",
+   "momento": "mediodia",
+   "mercado": "latam",
+   "titular_es": "América Latina se tiñe de rojo: Argentina −5.6%, Perú −3.4% y Chile −2.5% con la venta global de tecnología",
+   "titular_en": "Latin America turns red: Argentina −5.6%, Peru −3.4% and Chile −2.5% on the global tech selloff",
+   "titular_pt": "A América Latina fica no vermelho: Argentina −5,6%, Peru −3,4% e Chile −2,5% com a venda global de tecnologia"
+  },
+  {
+   "id": "2026-11-05-mediodia-mexico",
+   "fecha": "2026-11-05",
+   "momento": "mediodia",
+   "mercado": "mexico",
+   "titular_es": "El peso se debilita a 18.70 con la venta en Wall Street; Banxico decide a las 13:00",
+   "titular_en": "The peso weakens to 18.70 on the Wall Street selloff; Banxico decides at 1:00 p.m.",
+   "titular_pt": "O peso se enfraquece a 18,70 com a venda em Wall Street; o Banxico decide às 13h"
+  },
+  {
    "id": "2026-11-05-apertura-global",
    "fecha": "2026-11-05",
    "momento": "apertura",

@@ -1,0 +1,67 @@
+{
+ "id": "2026-11-05-mediodia-latam",
+ "fecha": "2026-11-05",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:45 CDMX",
+ "es": {
+  "titular": "América Latina se tiñe de rojo: Argentina −5.6%, Perú −3.4% y Chile −2.5% con la venta global de tecnología",
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "El brief de apertura veía a la región abrir a la baja con la venta de tecnología: Argentina −5.3%, Perú −1.8%, Chile −1.5% y el Ibovespa plano."
+   },
+   {
+    "t": "Cómo va",
+    "x": "Con datos de las 10:23 CDMX, el fondo de Argentina (ARGT) caía 5.62%, el de Perú 3.42%, el de Chile 2.5%, el de Colombia 1.35%, el S&P/TSX de Canadá 1.31% (35,866.52) y el Ibovespa 0.51% (166,716.75). El peso chileno estaba en 974.7 por dólar, el colombiano en 3,234.7, el real en 5.48 y el sol en 3.45."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "Colombia y Brasil, que resistían en la apertura, se sumaron a la caída. Las monedas de la región ceden casi todo lo ganado ayer, aunque el petróleo cerca de 89 dólares amortigua a los exportadores."
+   }
+  ],
+  "scm": "Las monedas de la región se debilitan: si tienes cobros en pesos chilenos, soles o pesos colombianos, convierte pronto; los pagos en esas monedas pueden esperar unos días."
+ },
+ "en": {
+  "titular": "Latin America turns red: Argentina −5.6%, Peru −3.4% and Chile −2.5% on the global tech selloff",
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "The opening brief saw the region open lower on the tech selloff: Argentina −5.3%, Peru −1.8%, Chile −1.5% and the Ibovespa flat."
+   },
+   {
+    "t": "How it is going",
+    "x": "With data as of 10:23 a.m. Mexico City time, the Argentina fund (ARGT) fell 5.62%, the Peru fund 3.42%, the Chile fund 2.5%, the Colombia fund 1.35%, Canada's S&P/TSX 1.31% (35,866.52) and the Ibovespa 0.51% (166,716.75). The Chilean peso was at 974.7 per dollar, the Colombian peso at 3,234.7, the real at 5.48 and the sol at 3.45."
+   },
+   {
+    "t": "What surprised",
+    "x": "Colombia and Brazil, which held up at the open, joined the decline. The region's currencies give back almost all of yesterday's gains, although oil near $89 cushions exporters."
+   }
+  ],
+  "scm": "Regional currencies are weakening: if you have receivables in Chilean pesos, soles or Colombian pesos, convert soon; payments in those currencies can wait a few days."
+ },
+ "pt": {
+  "titular": "A América Latina fica no vermelho: Argentina −5,6%, Peru −3,4% e Chile −2,5% com a venda global de tecnologia",
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "O brief de abertura via a região abrir em queda com a venda de tecnologia: Argentina −5,3%, Peru −1,8%, Chile −1,5% e o Ibovespa estável."
+   },
+   {
+    "t": "Como está",
+    "x": "Com dados das 10h23 (Cidade do México), o fundo da Argentina (ARGT) caía 5,62%, o do Peru 3,42%, o do Chile 2,5%, o da Colômbia 1,35%, o S&P/TSX do Canadá 1,31% (35.866,52) e o Ibovespa 0,51% (166.716,75). O peso chileno estava em 974,7 por dólar, o colombiano em 3.234,7, o dólar em R$ 5,48 e o sol em 3,45."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "Colômbia e Brasil, que resistiam na abertura, aderiram à queda. As moedas da região devolvem quase todo o ganho de ontem, embora o petróleo perto de 89 dólares amorteça os exportadores."
+   }
+  ],
+  "scm": "As moedas da região se enfraquecem: se você tem recebíveis em pesos chilenos, soles ou pesos colombianos, converta logo; os pagamentos nessas moedas podem esperar alguns dias."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

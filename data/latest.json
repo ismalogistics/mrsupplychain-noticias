@@ -1,91 +1,79 @@
 {
- "actualizado": "2026-11-05T16:22:17Z",
- "momento": "apertura",
+ "actualizado": "2026-11-05T17:39:21Z",
+ "momento": "mediodia",
  "briefs": {
   "global": {
-   "id": "2026-11-05-apertura-global",
+   "id": "2026-11-05-mediodia-global",
    "fecha": "2026-11-05",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "global",
-   "hora": "09:10 CDMX",
+   "hora": "11:45 CDMX",
    "es": {
-    "titular": "Wall Street se voltea: el Nasdaq cae más de 3% y va hacia una corrección por la venta de chips e IA; el petróleo sube a 90 dólares",
+    "titular": "La venta se profundiza: el Nasdaq se desploma cerca de 5% y la memoria se hunde (SanDisk −20%, Micron −16%)",
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "Los futuros anticipaban un día mixto, pero la venta de chips se extendió en la sesión. A las 8:57 CDMX el Dow bajaba 0.66% (53,004.25), el S&P 500 1.66% (7,560.88) y el Nasdaq 3.09% (24,941.44); el índice de semiconductores caía 7.1% y unos minutos después el Nasdaq perdía 3.6% y el S&P 500 2%. Qualcomm caía 9% por sus ventas de chips para celulares, Dell 10.5%, CoreWeave 9.3%, Nebius 13.4% y Tesla 9.5%; AppLovin subía 32%. Antes de la apertura, las solicitudes de subsidio por desempleo bajaron a 189 mil y la productividad del tercer trimestre creció 3.6% (se esperaba 3%). El WTI subía 1.8% a 89.73 dólares, el Brent cerca de 97 y el Treasury a 10 años estaba en 4.87%."
+      "t": "Lo que se esperaba",
+      "x": "El brief de apertura veía al Nasdaq −3% y al S&P 500 −1.7% a las 8:57 CDMX por la venta de chips (semiconductores −7.1%) tras el −5.3% del KOSPI, el petróleo de vuelta en 90 dólares y Banxico a las 13:00 CDMX."
      },
      {
-      "t": "Asia y Europa",
-      "x": "El KOSPI cerró en 5,383.80 (−5.28%), con SK hynix −9.5% y Samsung −7.6%. Europa va en sentido contrario: a las 8:13 CDMX el DAX subía 0.7%, el CAC 40 1.1% y el FTSE 100 0.8%, con la baja previa de la energía. El Banco de Inglaterra subió su tasa a 4% (8 votos a 1), su primera alza desde 2023, y avisó que podría subir más si el conflicto en Medio Oriente no se resuelve pronto."
+      "t": "Cómo va",
+      "x": "La caída se amplió: hacia las 9:10 CDMX el S&P 500 perdía 2.03% (7,532.64), el Nasdaq 3.61% (24,806.33) y el Dow 0.94% (52,856.67), y hacia el mediodía Yahoo Finance reportaba al Nasdaq con una caída de 5%, con el S&P 500 cerca de −3.5% y el Dow unos 1,300 puntos abajo. El oro subía 0.7% (4,088.30) a las 10:08 CDMX y el WTI se mantenía cerca de 89 dólares."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "A las 13:00 CDMX decide Banxico. Después del cierre reportan Airbnb y Cloudflare. En Los Ángeles–Long Beach los vigilantes extendieron su plazo de huelga hasta la medianoche del viernes y siguen negociando con mediación federal. Mañana sale el empleo de octubre en EE. UU."
+      "t": "Lo que sorprendió",
+      "x": "La venta pasó de los chips de IA a la memoria y el almacenamiento: SanDisk caía 20.6%, Western Digital 17.1%, Seagate 16.3%, AMD 16% y Micron 15.7%. El Nasdaq va camino a una corrección (10% abajo de su máximo). El mercado descuenta más escrutinio a la construcción de centros de datos con el Congreso demócrata."
      }
     ],
-    "scm": "La venta en chips e infraestructura de IA (semiconductores −7.1%) puede cambiar rápido los precios y plazos de memoria, servidores y electrónica: no cierres contratos grandes esta semana. El petróleo volvió a 90 dólares, así que mantén los recargos de combustible con ajuste semanal."
+    "scm": "Una caída así en memoria y almacenamiento (Micron, SanDisk, Western Digital) suele preceder ajustes de precios: si compras discos, memoria o servidores, pospón compras grandes y pide cotizaciones nuevas la próxima semana. Long Beach extendió su plazo hasta la medianoche del viernes."
    },
    "en": {
-    "titular": "Wall Street flips: the Nasdaq falls more than 3% and heads toward a correction on chip and AI selling; oil rises to $90",
+    "titular": "The selloff deepens: the Nasdaq plunges about 5% and memory sinks (SanDisk −20%, Micron −16%)",
     "bloques": [
      {
-      "t": "Opening",
-      "x": "Futures pointed to a mixed day, but the chip selloff spread during the session. At 9:57 a.m. ET the Dow was down 0.66% (53,004.25), the S&P 500 1.66% (7,560.88) and the Nasdaq 3.09% (24,941.44); the semiconductor index fell 7.1% and minutes later the Nasdaq was down 3.6% and the S&P 500 2%. Qualcomm fell 9% on its handset chip sales, Dell 10.5%, CoreWeave 9.3%, Nebius 13.4% and Tesla 9.5%; AppLovin rose 32%. Before the open, jobless claims fell to 189,000 and third-quarter productivity grew 3.6% (3% expected). WTI rose 1.8% to $89.73, Brent was near $97 and the 10-year Treasury was at 4.87%."
+      "t": "What was expected",
+      "x": "The opening brief saw the Nasdaq −3% and the S&P 500 −1.7% at 9:57 a.m. ET on the chip selloff (semiconductors −7.1%) after the KOSPI's −5.3%, oil back at $90 and Banxico at 1:00 p.m. Mexico City time."
      },
      {
-      "t": "Asia and Europe",
-      "x": "The KOSPI closed at 5,383.80 (−5.28%), with SK hynix −9.5% and Samsung −7.6%. Europe moves the other way: at 9:13 a.m. ET the DAX was up 0.7%, the CAC 40 1.1% and the FTSE 100 0.8%, helped by the earlier drop in energy. The Bank of England raised its rate to 4% (8–1), its first hike since 2023, and warned it could raise more if the Middle East conflict is not resolved quickly."
+      "t": "How it is going",
+      "x": "The drop widened: around 10:10 a.m. ET the S&P 500 was down 2.03% (7,532.64), the Nasdaq 3.61% (24,806.33) and the Dow 0.94% (52,856.67), and toward midday Yahoo Finance reported the Nasdaq down 5%, with the S&P 500 near −3.5% and the Dow about 1,300 points lower. Gold rose 0.7% ($4,088.30) at 11:08 a.m. ET and WTI held near $89."
      },
      {
-      "t": "What to expect today",
-      "x": "Banxico decides at 1:00 p.m. Mexico City time. Airbnb and Cloudflare report after the close. In Los Angeles–Long Beach the watchmen extended their strike deadline to midnight Friday and keep negotiating under federal mediation. The US October jobs report comes out tomorrow."
+      "t": "What surprised",
+      "x": "The selloff spread from AI chips to memory and storage: SanDisk fell 20.6%, Western Digital 17.1%, Seagate 16.3%, AMD 16% and Micron 15.7%. The Nasdaq is on track for a correction (10% below its high). The market is pricing more scrutiny of data center construction under the Democratic Congress."
      }
     ],
-    "scm": "The selloff in chips and AI infrastructure (semiconductors −7.1%) can quickly change prices and lead times for memory, servers and electronics: don't close large contracts this week. Oil is back at $90, so keep fuel surcharges with weekly adjustment."
+    "scm": "A drop like this in memory and storage (Micron, SanDisk, Western Digital) often precedes price adjustments: if you buy drives, memory or servers, postpone large purchases and ask for new quotes next week. Long Beach extended its deadline to midnight Friday."
    },
    "pt": {
-    "titular": "Wall Street vira: o Nasdaq cai mais de 3% e caminha para uma correção pela venda de chips e IA; o petróleo sobe a 90 dólares",
+    "titular": "A venda se aprofunda: o Nasdaq despenca cerca de 5% e a memória afunda (SanDisk −20%, Micron −16%)",
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Os futuros indicavam um dia misto, mas a venda de chips se ampliou na sessão. Às 8h57 (Cidade do México) o Dow caía 0,66% (53.004,25), o S&P 500 1,66% (7.560,88) e o Nasdaq 3,09% (24.941,44); o índice de semicondutores caía 7,1% e minutos depois o Nasdaq perdia 3,6% e o S&P 500 2%. A Qualcomm caía 9% pelas vendas de chips para celulares, a Dell 10,5%, a CoreWeave 9,3%, a Nebius 13,4% e a Tesla 9,5%; a AppLovin subia 32%. Antes da abertura, os pedidos de seguro-desemprego caíram para 189 mil e a produtividade do terceiro trimestre cresceu 3,6% (esperava-se 3%). O WTI subia 1,8% para 89,73 dólares, o Brent estava perto de 97 e o título de 10 anos do Tesouro em 4,87%."
+      "t": "O que se esperava",
+      "x": "O brief de abertura via o Nasdaq −3% e o S&P 500 −1,7% às 8h57 (Cidade do México) pela venda de chips (semicondutores −7,1%) após o −5,3% do KOSPI, o petróleo de volta a 90 dólares e o Banxico às 13h."
      },
      {
-      "t": "Ásia e Europa",
-      "x": "O KOSPI fechou em 5.383,80 (−5,28%), com SK hynix −9,5% e Samsung −7,6%. A Europa vai no sentido contrário: às 8h13 (Cidade do México) o DAX subia 0,7%, o CAC 40 1,1% e o FTSE 100 0,8%, com a queda anterior da energia. O Banco da Inglaterra subiu sua taxa para 4% (8 votos a 1), sua primeira alta desde 2023, e avisou que pode subir mais se o conflito no Oriente Médio não se resolver logo."
+      "t": "Como está",
+      "x": "A queda se ampliou: por volta das 9h10 (Cidade do México) o S&P 500 perdia 2,03% (7.532,64), o Nasdaq 3,61% (24.806,33) e o Dow 0,94% (52.856,67), e perto do meio-dia o Yahoo Finance reportava o Nasdaq em queda de 5%, com o S&P 500 perto de −3,5% e o Dow cerca de 1.300 pontos abaixo. O ouro subia 0,7% (4.088,30) às 10h08 e o WTI se mantinha perto de 89 dólares."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Às 13h (Cidade do México) decide o Banxico. Depois do fechamento divulgam resultados Airbnb e Cloudflare. Em Los Angeles–Long Beach os vigilantes estenderam o prazo da greve até a meia-noite de sexta e seguem negociando com mediação federal. Amanhã sai o relatório de emprego de outubro dos EUA."
+      "t": "O que surpreendeu",
+      "x": "A venda passou dos chips de IA para memória e armazenamento: SanDisk caía 20,6%, Western Digital 17,1%, Seagate 16,3%, AMD 16% e Micron 15,7%. O Nasdaq caminha para uma correção (10% abaixo da máxima). O mercado precifica mais escrutínio à construção de data centers com o Congresso democrata."
      }
     ],
-    "scm": "A venda em chips e infraestrutura de IA (semicondutores −7,1%) pode mudar rápido os preços e prazos de memória, servidores e eletrônicos: não feche contratos grandes esta semana. O petróleo voltou a 90 dólares, então mantenha as sobretaxas de combustível com ajuste semanal."
+    "scm": "Uma queda assim em memória e armazenamento (Micron, SanDisk, Western Digital) costuma anteceder ajustes de preço: se você compra discos, memória ou servidores, adie compras grandes e peça novas cotações na próxima semana. Long Beach estendeu o prazo até a meia-noite de sexta."
    },
    "fuentes": [
     {
-     "t": "Reuters (vía Investing.com): Wall Street cae y el Nasdaq va hacia una corrección por las pérdidas en tecnología",
-     "u": "https://www.investing.com/news/stock-market-news/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-on-chip-weakness-5003237"
-    },
-    {
-     "t": "Yahoo Finance: mercados en vivo, jueves 5 de noviembre de 2026",
+     "t": "Yahoo Finance: el Nasdaq se desploma 5% por la venta de chips (5 nov 2026)",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html"
     },
     {
-     "t": "Yahoo Finance: las bolsas europeas suben con la baja de la energía y el alza del Banco de Inglaterra",
-     "u": "https://uk.finance.yahoo.com/news/european-shares-advance-energy-prices-141314797.html"
+     "t": "Eurasia Business News: el Nasdaq cae 5% por la venta de chips y centros de datos",
+     "u": "https://eurasiabusinessnews.com/2026/11/05/stock-market-today-nasdaq-sinks-5-as-ai-selloff-hits-chip-and-data-center-stocks/"
     },
     {
-     "t": "Euronews: el Banco de Inglaterra sube su tasa por primera vez en más de 3 años",
-     "u": "https://www.euronews.com/2026/11/05/bank-of-england-raises-key-interest-rate-for-first-time-in-over-3-years"
-    },
-    {
-     "t": "Daily Markets Pulse: los chips caen, el petróleo rebota y el Banco de Inglaterra sube tasas",
-     "u": "https://dailymarketspulse.substack.com/p/chip-stocks-slide-as-oil-rebounds"
-    },
-    {
-     "t": "The Korea Times: el KOSPI se desploma 5.28%",
-     "u": "https://www.koreatimes.co.kr/economy/20261105/kospi-tumbles-as-democrat-sweep-fuels-ai-infrastructure-concerns"
+     "t": "Reuters (vía BusinessDay): Wall Street cae con fuerza y el Nasdaq va hacia una corrección",
+     "u": "https://www.businessday.co.za/markets/2026-11-05-us-stocks-fall-sharply-as-nasdaq-heads-for-correction/"
     },
     {
      "t": "Insurance Journal: el riesgo de huelga en el puerto de LA se pasa al viernes",
@@ -94,160 +82,148 @@
    ]
   },
   "latam": {
-   "id": "2026-11-05-apertura-latam",
+   "id": "2026-11-05-mediodia-latam",
    "fecha": "2026-11-05",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "latam",
-   "hora": "09:10 CDMX",
+   "hora": "11:45 CDMX",
    "es": {
-    "titular": "La región abre a la baja con la venta de tecnología: Argentina −5.3%, Perú −1.8% y Chile −1.5%; el Ibovespa, plano",
+    "titular": "América Latina se tiñe de rojo: Argentina −5.6%, Perú −3.4% y Chile −2.5% con la venta global de tecnología",
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "Con datos de las 9:12 CDMX, el fondo de Argentina (ARGT) caía 5.29%, el de Perú 1.8%, el de Chile 1.53% y el S&P/TSX de Canadá 0.71% (36,083.48); el Ibovespa estaba plano (167,495.55, −0.04%) y el fondo de Colombia apenas subía 0.08%. El peso chileno se debilitaba a 971.9 por dólar, el colombiano a 3,231, el real a 5.47 y el sol a 3.45."
+      "t": "Lo que se esperaba",
+      "x": "El brief de apertura veía a la región abrir a la baja con la venta de tecnología: Argentina −5.3%, Perú −1.8%, Chile −1.5% y el Ibovespa plano."
      },
      {
-      "t": "Contexto",
-      "x": "La venta de chips y de infraestructura de IA en Wall Street (Nasdaq −3%) se contagia a los mercados emergentes. El rebote del petróleo a 90 dólares ayuda a Petrobras y a Colombia. Ayer el Copom mantuvo la Selic en 13.75% y terminó el ciclo de recortes."
+      "t": "Cómo va",
+      "x": "Con datos de las 10:23 CDMX, el fondo de Argentina (ARGT) caía 5.62%, el de Perú 3.42%, el de Chile 2.5%, el de Colombia 1.35%, el S&P/TSX de Canadá 1.31% (35,866.52) y el Ibovespa 0.51% (166,716.75). El peso chileno estaba en 974.7 por dólar, el colombiano en 3,234.7, el real en 5.48 y el sol en 3.45."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "En México decide Banxico a las 13:00 CDMX. En Brasil, el mercado sigue digiriendo el comunicado del Copom."
+      "t": "Lo que sorprendió",
+      "x": "Colombia y Brasil, que resistían en la apertura, se sumaron a la caída. Las monedas de la región ceden casi todo lo ganado ayer, aunque el petróleo cerca de 89 dólares amortigua a los exportadores."
      }
     ],
-    "scm": "Las monedas de la región ceden parte de lo ganado ayer: si tienes pagos en pesos chilenos, soles o pesos colombianos, la ventana de ayer era mejor; no adelantes más hoy. Con la Selic en 13.75%, revisa plazos de pago con proveedores brasileños."
+    "scm": "Las monedas de la región se debilitan: si tienes cobros en pesos chilenos, soles o pesos colombianos, convierte pronto; los pagos en esas monedas pueden esperar unos días."
    },
    "en": {
-    "titular": "The region opens lower on the tech selloff: Argentina −5.3%, Peru −1.8% and Chile −1.5%; the Ibovespa flat",
+    "titular": "Latin America turns red: Argentina −5.6%, Peru −3.4% and Chile −2.5% on the global tech selloff",
     "bloques": [
      {
-      "t": "Opening",
-      "x": "With data as of 9:12 a.m. Mexico City time, the Argentina fund (ARGT) fell 5.29%, the Peru fund 1.8%, the Chile fund 1.53% and Canada's S&P/TSX 0.71% (36,083.48); the Ibovespa was flat (167,495.55, −0.04%) and the Colombia fund barely rose 0.08%. The Chilean peso weakened to 971.9 per dollar, the Colombian peso to 3,231, the real to 5.47 and the sol to 3.45."
+      "t": "What was expected",
+      "x": "The opening brief saw the region open lower on the tech selloff: Argentina −5.3%, Peru −1.8%, Chile −1.5% and the Ibovespa flat."
      },
      {
-      "t": "Context",
-      "x": "The chip and AI infrastructure selloff on Wall Street (Nasdaq −3%) spills over to emerging markets. Oil's rebound to $90 helps Petrobras and Colombia. Yesterday Copom held the Selic at 13.75% and ended the cutting cycle."
+      "t": "How it is going",
+      "x": "With data as of 10:23 a.m. Mexico City time, the Argentina fund (ARGT) fell 5.62%, the Peru fund 3.42%, the Chile fund 2.5%, the Colombia fund 1.35%, Canada's S&P/TSX 1.31% (35,866.52) and the Ibovespa 0.51% (166,716.75). The Chilean peso was at 974.7 per dollar, the Colombian peso at 3,234.7, the real at 5.48 and the sol at 3.45."
      },
      {
-      "t": "What to expect today",
-      "x": "In Mexico, Banxico decides at 1:00 p.m. Mexico City time. In Brazil, the market keeps digesting the Copom statement."
+      "t": "What surprised",
+      "x": "Colombia and Brazil, which held up at the open, joined the decline. The region's currencies give back almost all of yesterday's gains, although oil near $89 cushions exporters."
      }
     ],
-    "scm": "The region's currencies give back part of yesterday's gains: if you have payments in Chilean pesos, soles or Colombian pesos, yesterday's window was better; don't pull forward more today. With the Selic at 13.75%, review payment terms with Brazilian suppliers."
+    "scm": "Regional currencies are weakening: if you have receivables in Chilean pesos, soles or Colombian pesos, convert soon; payments in those currencies can wait a few days."
    },
    "pt": {
-    "titular": "A região abre em queda com a venda de tecnologia: Argentina −5,3%, Peru −1,8% e Chile −1,5%; o Ibovespa, estável",
+    "titular": "A América Latina fica no vermelho: Argentina −5,6%, Peru −3,4% e Chile −2,5% com a venda global de tecnologia",
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Com dados das 9h12 (Cidade do México), o fundo da Argentina (ARGT) caía 5,29%, o do Peru 1,8%, o do Chile 1,53% e o S&P/TSX do Canadá 0,71% (36.083,48); o Ibovespa estava estável (167.495,55, −0,04%) e o fundo da Colômbia subia só 0,08%. O peso chileno se enfraquecia a 971,9 por dólar, o colombiano a 3.231, o dólar a R$ 5,47 e o sol a 3,45."
+      "t": "O que se esperava",
+      "x": "O brief de abertura via a região abrir em queda com a venda de tecnologia: Argentina −5,3%, Peru −1,8%, Chile −1,5% e o Ibovespa estável."
      },
      {
-      "t": "Contexto",
-      "x": "A venda de chips e de infraestrutura de IA em Wall Street (Nasdaq −3%) contamina os mercados emergentes. A alta do petróleo para 90 dólares ajuda a Petrobras e a Colômbia. Ontem o Copom manteve a Selic em 13,75% e encerrou o ciclo de cortes."
+      "t": "Como está",
+      "x": "Com dados das 10h23 (Cidade do México), o fundo da Argentina (ARGT) caía 5,62%, o do Peru 3,42%, o do Chile 2,5%, o da Colômbia 1,35%, o S&P/TSX do Canadá 1,31% (35.866,52) e o Ibovespa 0,51% (166.716,75). O peso chileno estava em 974,7 por dólar, o colombiano em 3.234,7, o dólar em R$ 5,48 e o sol em 3,45."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "No México, o Banxico decide às 13h (Cidade do México). No Brasil, o mercado segue digerindo o comunicado do Copom."
+      "t": "O que surpreendeu",
+      "x": "Colômbia e Brasil, que resistiam na abertura, aderiram à queda. As moedas da região devolvem quase todo o ganho de ontem, embora o petróleo perto de 89 dólares amorteça os exportadores."
      }
     ],
-    "scm": "As moedas da região devolvem parte do ganho de ontem: se você tem pagamentos em pesos chilenos, soles ou pesos colombianos, a janela de ontem era melhor; não antecipe mais hoje. Com a Selic em 13,75%, revise prazos de pagamento com fornecedores brasileiros."
+    "scm": "As moedas da região se enfraquecem: se você tem recebíveis em pesos chilenos, soles ou pesos colombianos, converta logo; os pagamentos nessas moedas podem esperar alguns dias."
    },
    "fuentes": [
     {
      "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
      "u": "https://mrsupplychain.ai/noticias/"
-    },
-    {
-     "t": "O Tempo: Copom mantém Selic em 13,75%",
-     "u": "https://www.otempo.com.br/economia/2026/11/4/copom-mantem-taxa-selic-em-13-75-e-interrompe-sequencia-de-cortes"
     }
    ]
   },
   "mexico": {
-   "id": "2026-11-05-apertura-mexico",
+   "id": "2026-11-05-mediodia-mexico",
    "fecha": "2026-11-05",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "mexico",
-   "hora": "09:10 CDMX",
+   "hora": "11:45 CDMX",
    "es": {
-    "titular": "El IPC abre al alza pero gira con Wall Street; el peso se debilita a 18.64 antes de Banxico",
+    "titular": "El peso se debilita a 18.70 con la venta en Wall Street; Banxico decide a las 13:00",
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "El peso abrió fuerte (18.57 por dólar a las 7:45 CDMX), pero se debilitó con la caída de Wall Street: a las 9:12 CDMX estaba en 18.64. El FIX publicado hoy fue de 18.6285. El S&P/BMV IPC abrió con alza de 0.28%, cerca de 71,000 puntos, y luego pasó a terreno negativo (70,609, −0.3%). Subían Bimbo, Walmex, Arca Continental, Peñoles y Banorte; bajaban Grupo México y Cemex."
+      "t": "Lo que se esperaba",
+      "x": "El brief de apertura veía al peso ceder de 18.57 a 18.64 por la caída de Wall Street y al IPC pasar de +0.28% a −0.3%, con Banxico a las 13:00 CDMX."
      },
      {
-      "t": "Contexto",
-      "x": "La venta de chips e IA en Wall Street (Nasdaq −3%) resta apetito por riesgo y frena al peso tras su mejor día desde abril. En EE. UU. las solicitudes de subsidio bajaron a 189 mil y la productividad creció 3.6%. El petróleo rebota a cerca de 90 dólares."
+      "t": "Cómo va",
+      "x": "A las 10:23 CDMX el peso estaba en 18.70 por dólar, 0.7% más débil que el cierre del miércoles (18.57). No confirmé el nivel del IPC a esta hora. El FIX publicado hoy es 18.6285 y el de hoy se determina hacia el mediodía."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "Banxico anuncia su decisión a las 13:00 CDMX con la tasa en 6.50%; los analistas esperan que no la cambie, aunque Banamex y BofA ven riesgo de un recorte. Si recorta, el peso podría irse hacia 18.80, según Grupo Financiero Base."
+      "t": "Lo que sorprendió",
+      "x": "La caída de Wall Street pasó de los chips a todo el mercado (S&P 500 cerca de −3.5%), lo que borra parte de la ganancia del peso de ayer antes de Banxico. Los analistas esperan que Banxico deje la tasa en 6.50%; si recorta, el peso podría irse hacia 18.80, según Grupo Financiero Base."
      }
     ],
-    "scm": "El peso ya cedió de 18.57 a 18.64 y un recorte de Banxico podría llevarlo hacia 18.80: cubre antes de las 13:00 los pagos en dólares que no pueden esperar."
+    "scm": "El peso ya pasó de 18.57 a 18.70: si todavía tienes pagos en dólares urgentes, cúbrelos antes de las 13:00. Lo que pueda esperar, déjalo para después del anuncio de Banxico."
    },
    "en": {
-    "titular": "The IPC opens higher but turns with Wall Street; the peso weakens to 18.64 ahead of Banxico",
+    "titular": "The peso weakens to 18.70 on the Wall Street selloff; Banxico decides at 1:00 p.m.",
     "bloques": [
      {
-      "t": "Opening",
-      "x": "The peso opened strong (18.57 per dollar at 7:45 a.m. Mexico City time) but weakened as Wall Street fell: at 9:12 it was at 18.64. Today's published FIX was 18.6285. The S&P/BMV IPC opened up 0.28%, near 71,000 points, and then turned negative (70,609, −0.3%). Bimbo, Walmex, Arca Continental, Peñoles and Banorte rose; Grupo México and Cemex fell."
+      "t": "What was expected",
+      "x": "The opening brief saw the peso slip from 18.57 to 18.64 as Wall Street fell and the IPC move from +0.28% to −0.3%, with Banxico at 1:00 p.m. Mexico City time."
      },
      {
-      "t": "Context",
-      "x": "The chip and AI selloff on Wall Street (Nasdaq −3%) saps risk appetite and halts the peso after its best day since April. In the US, jobless claims fell to 189,000 and productivity grew 3.6%. Oil rebounds to near $90."
+      "t": "How it is going",
+      "x": "At 10:23 a.m. Mexico City time the peso was at 18.70 per dollar, 0.7% weaker than Wednesday's close (18.57). I could not confirm the IPC level at this hour. The FIX published today is 18.6285, and today's is set around midday."
      },
      {
-      "t": "What to expect today",
-      "x": "Banxico announces its decision at 1:00 p.m. Mexico City time with the rate at 6.50%; analysts expect no change, although Banamex and BofA see a risk of a cut. If it cuts, the peso could move toward 18.80, according to Grupo Financiero Base."
+      "t": "What surprised",
+      "x": "Wall Street's drop spread from chips to the whole market (S&P 500 near −3.5%), erasing part of yesterday's peso gain ahead of Banxico. Analysts expect Banxico to hold the rate at 6.50%; if it cuts, the peso could move toward 18.80, according to Grupo Financiero Base."
      }
     ],
-    "scm": "The peso has already slipped from 18.57 to 18.64 and a Banxico cut could take it toward 18.80: before 1:00 p.m., hedge the dollar payments that can't wait."
+    "scm": "The peso has already gone from 18.57 to 18.70: if you still have urgent dollar payments, hedge them before 1:00 p.m. Leave what can wait for after the Banxico announcement."
    },
    "pt": {
-    "titular": "O IPC abre em alta mas vira com Wall Street; o peso se enfraquece a 18,64 antes do Banxico",
+    "titular": "O peso se enfraquece a 18,70 com a venda em Wall Street; o Banxico decide às 13h",
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "O peso abriu forte (18,57 por dólar às 7h45, Cidade do México), mas se enfraqueceu com a queda de Wall Street: às 9h12 estava em 18,64. O FIX publicado hoje foi de 18,6285. O S&P/BMV IPC abriu em alta de 0,28%, perto de 71.000 pontos, e depois passou para o negativo (70.609, −0,3%). Subiam Bimbo, Walmex, Arca Continental, Peñoles e Banorte; caíam Grupo México e Cemex."
+      "t": "O que se esperava",
+      "x": "O brief de abertura via o peso ceder de 18,57 para 18,64 pela queda de Wall Street e o IPC passar de +0,28% para −0,3%, com o Banxico às 13h (Cidade do México)."
      },
      {
-      "t": "Contexto",
-      "x": "A venda de chips e IA em Wall Street (Nasdaq −3%) reduz o apetite por risco e freia o peso após seu melhor dia desde abril. Nos EUA, os pedidos de seguro-desemprego caíram para 189 mil e a produtividade cresceu 3,6%. O petróleo volta a perto de 90 dólares."
+      "t": "Como está",
+      "x": "Às 10h23 (Cidade do México) o peso estava a 18,70 por dólar, 0,7% mais fraco que o fechamento de quarta (18,57). Não confirmei o nível do IPC a esta hora. O FIX publicado hoje é 18,6285 e o de hoje é determinado perto do meio-dia."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "O Banxico anuncia sua decisão às 13h (Cidade do México) com a taxa em 6,50%; os analistas esperam manutenção, embora Banamex e BofA vejam risco de corte. Se cortar, o peso pode ir para 18,80, segundo o Grupo Financiero Base."
+      "t": "O que surpreendeu",
+      "x": "A queda de Wall Street passou dos chips para todo o mercado (S&P 500 perto de −3,5%), o que apaga parte do ganho do peso de ontem antes do Banxico. Os analistas esperam que o Banxico mantenha a taxa em 6,50%; se cortar, o peso pode ir para 18,80, segundo o Grupo Financiero Base."
      }
     ],
-    "scm": "O peso já cedeu de 18,57 para 18,64 e um corte do Banxico poderia levá-lo a 18,80: antes das 13h, proteja os pagamentos em dólares que não podem esperar."
+    "scm": "O peso já passou de 18,57 para 18,70: se você ainda tem pagamentos em dólares urgentes, proteja-os antes das 13h. O que puder esperar, deixe para depois do anúncio do Banxico."
    },
    "fuentes": [
     {
-     "t": "Investing.com México: la ola azul tumba acciones de chips; BMV al alza",
-     "u": "https://mx.investing.com/news/stock-market-news/sp-500-dow-jones-ipc-la-ola-azul-en-eeuu-tumba-acciones-de-chips-bmv-al-alza-3835644"
-    },
-    {
-     "t": "Investing.com México: el peso se pone en modo espera de Banxico",
-     "u": "https://mx.investing.com/news/forex-news/precio-del-dolar-hoy-bajo-1860-peso-mexicano-se-pone-en-modo-espera-de-banxico-3835135"
-    },
-    {
-     "t": "El Informador: el peso inicia ganador este jueves 5 de noviembre (FIX)",
-     "u": "https://www.informador.mx/economia/dolar-hoy-peso-mexicano-inicia-ganador-este-jueves-5-de-noviembre-tras-elecciones-en-estados-unidos-asi-cotiza-el-dolar-20261105-0056.html"
-    },
-    {
      "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
      "u": "https://mrsupplychain.ai/noticias/"
+    },
+    {
+     "t": "Investing.com México: el peso en modo espera de Banxico",
+     "u": "https://mx.investing.com/news/forex-news/precio-del-dolar-hoy-bajo-1860-peso-mexicano-se-pone-en-modo-espera-de-banxico-3835135"
     }
    ]
   }
  },
  "lectura": {
   "es": {
-   "titular": "El rally de la elección se revierte en tecnología: el Nasdaq cae más de 3% por chips e IA, el petróleo vuelve a 90 dólares y Banxico decide a las 13:00",
-   "resumen": "Un día después del mejor día del Dow desde abril de 2025, el temor a que el Congreso demócrata frene la construcción de centros de datos tumba a los chips: el índice de semiconductores caía 7.1% y el Nasdaq más de 3%, tras el −5.3% del KOSPI. Qualcomm, Dell y CoreWeave caían entre 9% y 10.5%. El petróleo rebota (WTI 89.73, Brent cerca de 97) y el Banco de Inglaterra subió su tasa a 4% por la inflación de energía. El peso cedió a 18.64 antes de Banxico (13:00 CDMX) y en Long Beach el plazo de huelga se extendió hasta la medianoche del viernes. La prioridad es cubrir pagos en dólares antes de Banxico, mantener recargos de combustible con ajuste semanal y no cerrar contratos grandes de memoria o servidores esta semana.",
+   "titular": "La venta de IA se vuelve general: el Nasdaq cae cerca de 5%, la memoria se hunde y el peso cede a 18.70 antes de Banxico",
+   "resumen": "Un día después del mejor día del Dow desde abril de 2025, el mercado castiga la infraestructura de IA ante el Congreso demócrata: hacia el mediodía el Nasdaq caía cerca de 5% y el S&P 500 cerca de 3.5%, con SanDisk −20.6%, AMD −16% y Micron −15.7%. El petróleo se mantiene cerca de 89 dólares (WTI) y el Banco de Inglaterra subió su tasa a 4%. El peso cedió a 18.70 antes de Banxico (13:00 CDMX) y la región cae entre 1% y 6%. En Long Beach el plazo de huelga se extendió hasta la medianoche del viernes. La prioridad es cubrir los pagos en dólares urgentes antes de Banxico, posponer compras grandes de memoria, discos y servidores, y mantener recargos de combustible con ajuste semanal.",
    "temas": [
     {
      "tema": "Peso y tasas",
@@ -353,8 +329,8 @@
    ]
   },
   "en": {
-   "titular": "The election rally reverses in tech: the Nasdaq falls more than 3% on chips and AI, oil returns to $90 and Banxico decides at 1:00 p.m.",
-   "resumen": "A day after the Dow's best day since April 2025, fears that the Democratic Congress will curb data center construction hit chips: the semiconductor index fell 7.1% and the Nasdaq more than 3%, after the KOSPI's −5.3%. Qualcomm, Dell and CoreWeave fell between 9% and 10.5%. Oil rebounds (WTI 89.73, Brent near 97) and the Bank of England raised its rate to 4% on energy inflation. The peso slipped to 18.64 ahead of Banxico (1:00 p.m. Mexico City time), and the Long Beach strike deadline was extended to midnight Friday. The priority is to hedge dollar payments before Banxico, keep fuel surcharges with weekly adjustment and avoid large memory or server contracts this week.",
+   "titular": "The AI selloff turns broad: the Nasdaq falls about 5%, memory sinks and the peso slips to 18.70 ahead of Banxico",
+   "resumen": "A day after the Dow's best day since April 2025, the market punishes AI infrastructure under the Democratic Congress: toward midday the Nasdaq was down about 5% and the S&P 500 about 3.5%, with SanDisk −20.6%, AMD −16% and Micron −15.7%. Oil holds near $89 (WTI) and the Bank of England raised its rate to 4%. The peso slipped to 18.70 ahead of Banxico (1:00 p.m. Mexico City time) and the region falls between 1% and 6%. In Long Beach the strike deadline was extended to midnight Friday. The priority is to hedge urgent dollar payments before Banxico, postpone large memory, drive and server purchases, and keep fuel surcharges with weekly adjustment.",
    "temas": [
     {
      "tema": "Peso and rates",
@@ -465,8 +441,8 @@
    ]
   },
   "pt": {
-   "titular": "A alta da eleição se reverte em tecnologia: o Nasdaq cai mais de 3% por chips e IA, o petróleo volta a 90 dólares e o Banxico decide às 13h",
-   "resumen": "Um dia depois do melhor dia do Dow desde abril de 2025, o temor de que o Congresso democrata freie a construção de data centers derruba os chips: o índice de semicondutores caía 7,1% e o Nasdaq mais de 3%, após o −5,3% do KOSPI. Qualcomm, Dell e CoreWeave caíam entre 9% e 10,5%. O petróleo volta a subir (WTI 89,73, Brent perto de 97) e o Banco da Inglaterra subiu sua taxa para 4% pela inflação de energia. O peso cedeu para 18,64 antes do Banxico (13h, Cidade do México) e em Long Beach o prazo da greve foi estendido até a meia-noite de sexta. A prioridade é proteger pagamentos em dólares antes do Banxico, manter sobretaxas de combustível com ajuste semanal e não fechar contratos grandes de memória ou servidores esta semana.",
+   "titular": "A venda de IA se generaliza: o Nasdaq cai cerca de 5%, a memória afunda e o peso cede a 18,70 antes do Banxico",
+   "resumen": "Um dia depois do melhor dia do Dow desde abril de 2025, o mercado castiga a infraestrutura de IA diante do Congresso democrata: perto do meio-dia o Nasdaq caía cerca de 5% e o S&P 500 cerca de 3,5%, com SanDisk −20,6%, AMD −16% e Micron −15,7%. O petróleo se mantém perto de 89 dólares (WTI) e o Banco da Inglaterra subiu sua taxa para 4%. O peso cedeu para 18,70 antes do Banxico (13h, Cidade do México) e a região cai entre 1% e 6%. Em Long Beach o prazo da greve foi estendido até a meia-noite de sexta. A prioridade é proteger os pagamentos em dólares urgentes antes do Banxico, adiar compras grandes de memória, discos e servidores, e manter sobretaxas de combustível com ajuste semanal.",
    "temas": [
     {
      "tema": "Peso e juros",
@@ -586,8 +562,8 @@
    "nombre": "S&P 500",
    "name_en": "S&P 500",
    "grupo": "bolsa",
-   "valor": 7560.88,
-   "cambio": -1.66,
+   "valor": 7532.64,
+   "cambio": -2.03,
    "unidad": "puntos",
    "name_pt": "S&P 500"
   },
@@ -595,8 +571,8 @@
    "nombre": "Nasdaq",
    "name_en": "Nasdaq",
    "grupo": "bolsa",
-   "valor": 24941.44,
-   "cambio": -3.09,
+   "valor": 24806.33,
+   "cambio": -3.61,
    "unidad": "puntos",
    "name_pt": "Nasdaq"
   },
@@ -604,8 +580,8 @@
    "nombre": "Dow Jones",
    "name_en": "Dow Jones",
    "grupo": "bolsa",
-   "valor": 53004.25,
-   "cambio": -0.66,
+   "valor": 52856.67,
+   "cambio": -0.94,
    "unidad": "puntos",
    "name_pt": "Dow Jones"
   },
@@ -640,8 +616,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 18.64,
-   "cambio": 0.38,
+   "valor": 18.7,
+   "cambio": 0.7,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -694,8 +670,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 4123.6,
-   "cambio": 1.24,
+   "valor": 4088.3,
+   "cambio": 0.7,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },

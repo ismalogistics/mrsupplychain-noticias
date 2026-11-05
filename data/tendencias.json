@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T16:22:17Z",
+ "actualizado": "2026-11-05T17:39:21Z",
  "fecha": "2026-11-05",
  "titular": {
   "es": "Los chips y la IA se desploman, el petróleo rebota y Long Beach gana un día más",
@@ -17,28 +17,28 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Los chips se desploman: el índice de semiconductores cae 7.1% y Qualcomm 9% por sus ventas de chips para celulares",
-    "en": "Chips plunge: the semiconductor index falls 7.1% and Qualcomm 9% on handset chip sales",
-    "pt": "Os chips despencam: o índice de semicondutores cai 7,1% e a Qualcomm 9% pelas vendas de chips para celulares"
+    "es": "La memoria y el almacenamiento se desploman: SanDisk −20.6%, Western Digital −17.1%, AMD −16% y Micron −15.7%",
+    "en": "Memory and storage plunge: SanDisk −20.6%, Western Digital −17.1%, AMD −16% and Micron −15.7%",
+    "pt": "Memória e armazenamento despencam: SanDisk −20,6%, Western Digital −17,1%, AMD −16% e Micron −15,7%"
    },
    "x": {
-    "es": "Qualcomm no alcanzó lo esperado en ventas de chips para teléfonos por la demanda débil y menores ingresos ligados a Apple. En Corea, el KOSPI cayó 5.28% con SK hynix −9.46% y Samsung −7.57%. El temor es que el Congreso demócrata frene centros de datos y con ello la demanda de memoria.",
-    "en": "Qualcomm missed handset chip sales estimates on weak demand and lower Apple-related revenue. In Korea, the KOSPI fell 5.28% with SK hynix −9.46% and Samsung −7.57%. The fear is that the Democratic Congress will curb data centers and with them memory demand.",
-    "pt": "A Qualcomm ficou abaixo do esperado em vendas de chips para celulares pela demanda fraca e menores receitas ligadas à Apple. Na Coreia, o KOSPI caiu 5,28% com SK hynix −9,46% e Samsung −7,57%. O temor é que o Congresso democrata freie data centers e, com isso, a demanda por memória."
+    "es": "La venta que empezó con Qualcomm y el KOSPI (−5.28%) se extendió a la memoria y el almacenamiento: Seagate caía 16.3% y Astera Labs 18.4%. El Nasdaq perdía cerca de 5% hacia el mediodía y va camino a una corrección.",
+    "en": "The selloff that began with Qualcomm and the KOSPI (−5.28%) spread to memory and storage: Seagate fell 16.3% and Astera Labs 18.4%. The Nasdaq was down about 5% toward midday and is on track for a correction.",
+    "pt": "A venda que começou com a Qualcomm e o KOSPI (−5,28%) se estendeu à memória e ao armazenamento: a Seagate caía 16,3% e a Astera Labs 18,4%. O Nasdaq perdia cerca de 5% perto do meio-dia e caminha para uma correção."
    },
    "scm": {
-    "es": "No cierres contratos grandes de memoria o componentes esta semana: los precios pueden ajustarse a la baja.",
-    "en": "Don't close large memory or component contracts this week: prices may adjust lower.",
-    "pt": "Não feche contratos grandes de memória ou componentes esta semana: os preços podem cair."
+    "es": "Pospón compras grandes de memoria, discos y servidores y pide cotizaciones nuevas la próxima semana.",
+    "en": "Postpone large memory, drive and server purchases and ask for new quotes next week.",
+    "pt": "Adie compras grandes de memória, discos e servidores e peça novas cotações na próxima semana."
    },
    "fuentes": [
     {
-     "t": "Reuters (vía Investing.com): Wall Street cae y el Nasdaq va hacia una corrección por las pérdidas en tecnología",
-     "u": "https://www.investing.com/news/stock-market-news/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-on-chip-weakness-5003237"
+     "t": "Eurasia Business News: el Nasdaq cae 5% por la venta de chips y centros de datos",
+     "u": "https://eurasiabusinessnews.com/2026/11/05/stock-market-today-nasdaq-sinks-5-as-ai-selloff-hits-chip-and-data-center-stocks/"
     },
     {
-     "t": "The Korea Times: el KOSPI se desploma 5.28%",
-     "u": "https://www.koreatimes.co.kr/economy/20261105/kospi-tumbles-as-democrat-sweep-fuels-ai-infrastructure-concerns"
+     "t": "Yahoo Finance: el Nasdaq se desploma 5% por la venta de chips (5 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html"
     }
    ]
   },
