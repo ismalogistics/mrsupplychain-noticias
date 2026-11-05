@@ -7,7 +7,34 @@
   <description>Briefs diarios de mercados (premercado, apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
   <language>es-MX</language>
   <copyright>Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</copyright>
-  <lastBuildDate>Thu, 05 Nov 2026 09:10:00 -0600</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 11:45:00 -0600</lastBuildDate>
+  <item>
+    <title>El peso se debilita a 18.70 con la venta en Wall Street; Banxico decide a las 13:00</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-05-mediodia-mexico/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-05-mediodia-mexico/</guid>
+    <pubDate>Thu, 05 Nov 2026 11:45:00 -0600</pubDate>
+    <category>Mediodía · México</category>
+    <description>El brief de apertura veía al peso ceder de 18.57 a 18.64 por la caída de Wall Street y al IPC pasar de +0.28% a −0.3%, con Banxico a las 13:00 CDMX. A las 10:23 CDMX el peso estaba en 18.70 por dólar, 0.7% más débil que el cierre del miércoles (18.57). No confirmé el nivel del IPC a esta hora. El FIX publicado hoy es 18.6285 y el de hoy se determina hacia el mediodía. — El peso ya pasó de 18.57 a 18.70: si todavía tienes pagos en dólares urgentes, cúbrelos antes de las 13:00. Lo que pueda esperar, déjalo para después del anuncio de Banxico.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-05-mediodia-mexico/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>América Latina se tiñe de rojo: Argentina −5.6%, Perú −3.4% y Chile −2.5% con la venta global de tecnología</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-05-mediodia-latam/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-05-mediodia-latam/</guid>
+    <pubDate>Thu, 05 Nov 2026 11:45:00 -0600</pubDate>
+    <category>Mediodía · LATAM</category>
+    <description>El brief de apertura veía a la región abrir a la baja con la venta de tecnología: Argentina −5.3%, Perú −1.8%, Chile −1.5% y el Ibovespa plano. Con datos de las 10:23 CDMX, el fondo de Argentina (ARGT) caía 5.62%, el de Perú 3.42%, el de Chile 2.5%, el de Colombia 1.35%, el S&amp;P/TSX de Canadá 1.31% (35,866.52) y el Ibovespa 0.51% (166,716.75). El peso chileno estaba en 974.7 por dólar, el colombiano en 3,234.7, el real en 5.48 y el sol en 3.45. — Las monedas de la región se debilitan: si tienes cobros en pesos chilenos, soles o pesos colombianos, convierte pronto; los pagos en esas monedas pueden esperar unos días.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-05-mediodia-latam/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>La venta se profundiza: el Nasdaq se desploma cerca de 5% y la memoria se hunde (SanDisk −20%, Micron −16%)</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-05-mediodia-global/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-05-mediodia-global/</guid>
+    <pubDate>Thu, 05 Nov 2026 11:45:00 -0600</pubDate>
+    <category>Mediodía · Global</category>
+    <description>El brief de apertura veía al Nasdaq −3% y al S&amp;P 500 −1.7% a las 8:57 CDMX por la venta de chips (semiconductores −7.1%) tras el −5.3% del KOSPI, el petróleo de vuelta en 90 dólares y Banxico a las 13:00 CDMX. La caída se amplió: hacia las 9:10 CDMX el S&amp;P 500 perdía 2.03% (7,532.64), el Nasdaq 3.61% (24,806.33) y el Dow 0.94% (52,856.67), y hacia el mediodía Yahoo Finance reportaba al Nasdaq con una caída de 5%, con el S&amp;P 500 cerca de −3.5% y el Dow unos 1,300 puntos abajo. El oro subía 0.7% (4,088.30) a las 10:08 CDMX y el WTI se mantenía cerca de 89 dólares. — Una caída así en memoria y almacenamiento (Micron, SanDisk, Western Digital) suele preceder ajustes de precios: si compras discos, memoria o servidores, pospón compras grandes y pide cotizaciones nuevas la próxima semana. Long Beach extendió su plazo hasta la medianoche del viernes.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-05-mediodia-global/og.png" type="image/png" length="0"/>
+  </item>
   <item>
     <title>El IPC abre al alza pero gira con Wall Street; el peso se debilita a 18.64 antes de Banxico</title>
     <link>https://mrsupplychain.ai/noticias/brief/2026-11-05-apertura-mexico/</link>
@@ -340,33 +367,6 @@
     <category>Apertura · LATAM</category>
     <description>Fin de semana largo en buena parte de la región: Brasil (Finados), Colombia (Todos los Santos) y México (Día de Muertos) no tienen sesión hoy, así que el Ibovespa sigue en 167,922 (−0.75% el viernes) y el fondo que replica al COLCAP en −1.15%, ambos con datos del 30 de octubre. Donde sí hay operación, el arranque es positivo: el S&amp;P/TSX de Canadá sube 0.93% (35,952.55) y en Nueva York los fondos de Perú (EPU, +2.44%), Chile (ECH, +1.53%) y Argentina (ARGT, +1.11%) rebotan tras la venta del viernes. El viernes el Banco de la República de Colombia mantuvo su tasa en 12.25% en una decisión dividida (4 votos contra 3 que pedían subir 25 puntos). En monedas, el dólar sube 0.97% frente al real (5.4369) y 1.57% frente al peso colombiano (3,224.49), con poca liquidez por los feriados, mientras el peso chileno se aprecia 0.47% (983.27), el sol queda estable (3.4567) y el peso argentino cede 0.29% (1,543). El petróleo abajo de 100 dólares (WTI 97.58) alivia a los importadores de combustible de la región. — Con Brasil, Colombia y México sin bancos hoy, mueve a mañana pagos y despachos que dependan de liquidación local. Con el cobre en 6.51 dólares por libra y Chile produciendo menos, no esperes cable ni componentes de cobre más baratos: asegura precio para el primer trimestre. Si compras en reales o pesos colombianos, revisa tus cotizaciones en dólares cuando reabran mañana.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-02-apertura-latam/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Sin Bolsa por Día de Muertos, el peso arranca la semana con una recuperación de 0.85% rumbo a la decisión de Banxico del jueves</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-02-apertura-mexico/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-02-apertura-mexico/</guid>
-    <pubDate>Mon, 02 Nov 2026 09:30:00 -0600</pubDate>
-    <category>Apertura · México</category>
-    <description>La BMV y los bancos no operan hoy por Día de Muertos, así que no hay FIX; el último, del 30 de octubre, fue de 18.7962 y se publica mañana en el DOF. El peso se aprecia: abrió cerca de 18.74–18.76 y hacia las 9:00 cotiza en 18.63 por dólar, 0.85% mejor que el cierre del viernes (18.79). El IPC cerró el viernes en 69,779.20 (−0.01%) y reabre el martes. El peso viene de ocho semanas seguidas de depreciación, una racha que no se veía desde 2018, presionado por un diferencial de tasas con EE. UU. de unos 250 puntos, de los más estrechos desde 2016. Hoy lo ayudan la caída del petróleo, el rebote de Wall Street y el tono de las pláticas comerciales en Norteamérica: Carney calificó de constructiva su llamada con Trump. En comercio, EE. UU. fijó hoy márgenes antidumping de 14.29% al acero resistente a la corrosión de México. — Aprovecha el peso en 18.63 para cubrir parte de los pagos en dólares de noviembre antes de las elecciones del martes. Planea hoy tus pagos para mañana: no habrá liquidaciones bancarias ni FIX nuevo. Si exportas acero galvanizado a EE. UU., recalcula tu costo puesto con el arancel de 14.29% y revisa tus cruces del 13 y 17 de noviembre, alrededor del feriado del 16.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-02-apertura-mexico/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Wall Street rebota y el petróleo baja de 100 dólares por la vía diplomática con Irán; la semana trae elecciones, Banxico y empleo</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-02-apertura-global/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-02-apertura-global/</guid>
-    <pubDate>Mon, 02 Nov 2026 09:30:00 -0600</pubDate>
-    <category>Apertura · Global</category>
-    <description>Fin de semana: EE. UU. e Irán hablaron en Doha con mediación de Qatar y Washington se inclinó por negociar; la OPEP+ dejó sin cambio sus cuotas de diciembre y hackers sacaron cerca de 6,300 millones de dólares de Binance. Los futuros abrieron el domingo en alza (S&amp;P +0.5%, Nasdaq 100 +0.9%). Al abrir, el S&amp;P 500 sube 0.45% (7,613.87), el Dow 0.78% (52,173.40) y el Nasdaq 0.63% (25,596.07). El WTI cae 6.3% a 97.58 dólares, el Treasury a 10 años baja a 4.90% y el euro sube a 1.1199 dólares. Asia cerró mixta: el KOSPI rebotó 2.24% (5,859.08) con Samsung y SK hynix, mientras el Nikkei cedió 0.33% (63,081.86) por la caída de 15.8% de Kioxia; Shanghái subió 1.0% pese a que el PMI manufacturero oficial de China cayó a 49.3. Europa opera plana: la Stoxx 600 llegó a bajar 0.3% y luego quedó en +0.05%; Alstom se desplomó tras recortar su margen. — El petróleo abajo de 100 dólares es un alivio que todavía no llega al diésel: no renegocies recargos a la baja hasta ver dos semanas de precios estables. Con el ISM marcando entregas más lentas y precios de insumos altos, mantén el inventario de seguridad en materiales críticos y aprovecha el repunte del peso para cubrir pagos en dólares.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-02-apertura-global/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>América Latina sigue a Wall Street a la baja; Perú, Argentina y Chile, los más golpeados</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-latam/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-latam/</guid>
-    <pubDate>Fri, 30 Oct 2026 20:10:00 -0600</pubDate>
-    <category>Cierre · LATAM</category>
-    <description>El Ibovespa cayó 0.75% y el S&amp;P/TSX de Canadá 1.74%. Los fondos que replican a las bolsas de Perú (−4.2%), Argentina (−2.8%), Chile (−2.2%) y Colombia (−1.2%) también bajaron en Nueva York. La excepción fue el IPC mexicano (+0.1%). Dentro del Ibovespa, B3 (−5.4%) y BTG Pactual (−4.7%) fueron las que más cayeron, mientras Cosan (+3.6%) y Vale (+3.3%) subieron. La región siguió la venta global en tecnología y la expectativa de tasas altas por más tiempo en EE. UU., luego de que la Fed mantuviera su tasa en 3.75–4.00% con dos votos a favor de subir. La caída del cobre (−2.0%) y del oro (−3.4%) pesó sobre los mercados más ligados a la minería, como Perú y Chile. — Para el fin de semana: si compras o vendes en reales, pesos chilenos, colombianos o soles, revisa tus cotizaciones en moneda local, porque el tipo de cambio ya movió el costo en dólares; con el cobre a la baja, puede haber una ventana para cotizar cable y componentes de cobre; y con el real más débil, pide a tus proveedores brasileños que actualicen sus precios en dólares.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-10-30-cierre-latam/og.png" type="image/png" length="0"/>
   </item>
 </channel>
 </rss>
