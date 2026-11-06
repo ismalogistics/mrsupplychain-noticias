@@ -1,0 +1,71 @@
+{
+ "id": "2026-11-06-mediodia-mexico",
+ "fecha": "2026-11-06",
+ "momento": "mediodia",
+ "mercado": "mexico",
+ "hora": "11:40 CDMX",
+ "es": {
+  "titular": "El peso se fortalece a 18.61 y el IPC sube 0.4%; la BMV cierra su mejor semana en meses",
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "El brief de apertura veía al peso recuperarse a 18.69 tras el recorte de Banxico a 6.25%, con el FIX publicado hoy en 18.7147."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 9:25 CDMX el peso estaba en 18.61 por dólar, mejor que en la apertura y que el cierre del jueves (18.75). El S&P/BMV IPC abrió con −0.17% (cerca de 70,970), pero después subía 0.42% a 71,388.24; en la semana acumula +1.7%. Subían Qualitas y Volaris; bajaban Coca-Cola Femsa y GAP."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El peso recupera casi todo lo perdido tras el recorte de Banxico, aun con el dólar fuerte por el empleo de EE. UU. La bolsa mexicana se mueve en su mejor nivel desde finales de febrero."
+   }
+  ],
+  "scm": "El peso en 18.61 es mejor nivel que el de ayer: cubre hoy una parte de tus pagos en dólares de noviembre y diciembre. Adelanta los pagos del lunes 16, cuando cierran los bancos."
+ },
+ "en": {
+  "titular": "The peso strengthens to 18.61 and the IPC rises 0.4%; the BMV closes its best week in months",
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "The opening brief saw the peso recover to 18.69 after Banxico's cut to 6.25%, with today's published FIX at 18.7147."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 9:25 a.m. Mexico City time the peso was at 18.61 per dollar, better than at the open and Thursday's close (18.75). The S&P/BMV IPC opened −0.17% (near 70,970) but later rose 0.42% to 71,388.24; it is up 1.7% for the week. Qualitas and Volaris rose; Coca-Cola Femsa and GAP fell."
+   },
+   {
+    "t": "What surprised",
+    "x": "The peso recovers almost all of its post-Banxico loss, even with a strong dollar on US jobs. The Mexican exchange is trading at its best level since late February."
+   }
+  ],
+  "scm": "The peso at 18.61 is better than yesterday: hedge part of your November and December dollar payments today. Pay early for Monday the 16th, when banks close."
+ },
+ "pt": {
+  "titular": "O peso se fortalece a 18,61 e o IPC sobe 0,4%; a BMV fecha sua melhor semana em meses",
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "O brief de abertura via o peso se recuperar a 18,69 após o corte do Banxico para 6,25%, com o FIX publicado hoje em 18,7147."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 9h25 (Cidade do México) o peso estava a 18,61 por dólar, melhor que na abertura e que o fechamento de quinta (18,75). O S&P/BMV IPC abriu em −0,17% (perto de 70.970), mas depois subia 0,42% para 71.388,24; na semana acumula +1,7%. Subiam Qualitas e Volaris; caíam Coca-Cola Femsa e GAP."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O peso recupera quase tudo o que perdeu após o corte do Banxico, mesmo com o dólar forte pelo emprego dos EUA. A bolsa mexicana opera no melhor nível desde o fim de fevereiro."
+   }
+  ],
+  "scm": "O peso a 18,61 é melhor que ontem: proteja hoje parte dos seus pagamentos em dólares de novembro e dezembro. Antecipe os pagamentos da segunda, dia 16, quando os bancos fecham."
+ },
+ "fuentes": [
+  {
+   "t": "Investing.com México: tras el desplome, la IA en Wall Street sale a flote; la BMV cae",
+   "u": "https://mx.investing.com/news/stock-market-news/sp-500-dow-jones-ipc-tras-desplome-ia-en-wall-street-sale-a-flote-la-bmv-cae-3838494"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

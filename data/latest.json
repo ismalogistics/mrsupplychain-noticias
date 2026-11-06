@@ -1,83 +1,71 @@
 {
- "actualizado": "2026-11-06T15:13:31Z",
- "momento": "apertura",
+ "actualizado": "2026-11-06T17:39:21Z",
+ "momento": "mediodia",
  "briefs": {
   "global": {
-   "id": "2026-11-06-apertura-global",
+   "id": "2026-11-06-mediodia-global",
    "fecha": "2026-11-06",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "global",
-   "hora": "09:00 CDMX",
+   "hora": "11:40 CDMX",
    "es": {
-    "titular": "EE. UU. crea 165 mil empleos, casi tres veces lo esperado; el Nasdaq rebota 1.7%, pero crece la apuesta por un alza de la Fed en diciembre",
+    "titular": "El rebote se sostiene a mediodía: el Nasdaq sube 1.4% y los chips recuperan (AMD +9%), mientras el Dow queda plano",
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "A las 7:30 CDMX el empleo de octubre sorprendió: 165 mil plazas contra 65 mil esperadas, desempleo de 4.1% (4.2% antes) y septiembre revisado a 60 mil desde 29 mil; los salarios suben 3.1% anual. La probabilidad de un alza de la Fed en diciembre subió a 78% desde 70%. A las 8:45 CDMX el Nasdaq subía 1.7% y el S&P 500 0.6%, mientras el Dow bajaba 0.6%. Rebotaban Nvidia (+4.2%) y AMD, Intel, Broadcom y Micron (+5% a 9%); Airbnb subía 13.9% por sus resultados y Atlassian caía 15.9%. El Treasury a 10 años subía a 4.87%, el de 2 años a 4.52% y el índice dólar 0.7% a 102.22."
+      "t": "Lo que se esperaba",
+      "x": "El brief de apertura veía al Nasdaq +1.7% y al Dow −0.6% tras el empleo de octubre (165 mil plazas contra 65 mil esperadas, desempleo de 4.1%) y una probabilidad de 78% de un alza de la Fed en diciembre."
      },
      {
-      "t": "Asia y Europa",
-      "x": "El Nikkei cerró en 57,434.77 (−5.96%), 9% abajo de su cierre del 2 de noviembre; Corea del Sur y Taiwán abrieron con caídas de más de 8% y recuperaron una parte. No encontré cifras verificadas de Europa a esta hora."
+      "t": "Cómo va",
+      "x": "Hacia las 11:15 CDMX el S&P 500 subía 0.74% (7,408.04), el Nasdaq 1.39% (24,653.32) y el Dow estaba plano (51,521.60). AMD ganaba 9% y Nvidia 3.4%; el índice de semiconductores llegó a subir 4% tras caer 12% el jueves. El WTI estaba en 90.37 dólares, el oro bajaba 1.1% (4,068.20) y el Treasury a 10 años subía a 4.85%."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "A las 9:00 CDMX sale la confianza del consumidor de la Universidad de Michigan (se espera 47.3). El S&P 500 va camino a su peor semana desde marzo de 2025 y el sector energía a una caída semanal de más de 11%. En Los Ángeles–Long Beach el plazo de huelga vence a la medianoche (hora del Pacífico)."
+      "t": "Lo que sorprendió",
+      "x": "El rebote es menor que la caída del jueves: el S&P 500 va camino a su peor semana desde marzo de 2025. Iren llegó a subir 20% por sus ingresos de nube de IA, y Musk dijo que Tesla dejará de producir la Cybertruck hacia mediados del próximo año. No encontré el dato preliminar de confianza del consumidor de Michigan."
      }
     ],
-    "scm": "El empleo fuerte sostiene la demanda de consumo en EE. UU., pero acerca un alza de tasas en diciembre: no recortes pronósticos de demanda y asume que el costo de financiar inventario no bajará este año. Retira hoy de Long Beach los contenedores ya liberados."
+    "scm": "El rebote no borra la volatilidad: mantén en pausa los contratos grandes de memoria y servidores hasta la próxima semana. El empleo fuerte sostiene la demanda de temporada alta en EE. UU. Long Beach vence esta medianoche (hora del Pacífico)."
    },
    "en": {
-    "titular": "The US adds 165,000 jobs, nearly three times expectations; the Nasdaq rebounds 1.7%, but bets on a December Fed hike grow",
+    "titular": "The rebound holds at midday: the Nasdaq rises 1.4% and chips recover (AMD +9%), while the Dow stays flat",
     "bloques": [
      {
-      "t": "Opening",
-      "x": "At 8:30 a.m. ET October jobs surprised: 165,000 jobs versus 65,000 expected, unemployment at 4.1% (4.2% before) and September revised to 60,000 from 29,000; wages are up 3.1% year over year. The probability of a December Fed hike rose to 78% from 70%. At 9:45 a.m. ET the Nasdaq was up 1.7% and the S&P 500 0.6%, while the Dow fell 0.6%. Nvidia (+4.2%) and AMD, Intel, Broadcom and Micron (+5% to 9%) rebounded; Airbnb rose 13.9% on its results and Atlassian fell 15.9%. The 10-year Treasury rose to 4.87%, the 2-year to 4.52% and the dollar index 0.7% to 102.22."
+      "t": "What was expected",
+      "x": "The opening brief saw the Nasdaq +1.7% and the Dow −0.6% after October jobs (165,000 versus 65,000 expected, 4.1% unemployment) and a 78% probability of a December Fed hike."
      },
      {
-      "t": "Asia and Europe",
-      "x": "The Nikkei closed at 57,434.77 (−5.96%), 9% below its Nov. 2 close; South Korea and Taiwan opened down more than 8% and recovered part. I could not find verified European figures at this hour."
+      "t": "How it is going",
+      "x": "Around 12:15 p.m. ET the S&P 500 was up 0.74% (7,408.04), the Nasdaq 1.39% (24,653.32) and the Dow was flat (51,521.60). AMD gained 9% and Nvidia 3.4%; the semiconductor index rose as much as 4% after falling 12% on Thursday. WTI was at $90.37, gold fell 1.1% ($4,068.20) and the 10-year Treasury rose to 4.85%."
      },
      {
-      "t": "What to expect today",
-      "x": "At 10:00 a.m. ET the University of Michigan consumer sentiment index comes out (47.3 expected). The S&P 500 is on track for its worst week since March 2025 and the energy sector for a weekly drop of more than 11%. In Los Angeles–Long Beach the strike deadline expires at midnight (Pacific time)."
+      "t": "What surprised",
+      "x": "The rebound is smaller than Thursday's drop: the S&P 500 is on track for its worst week since March 2025. Iren rose as much as 20% on its AI cloud revenue, and Musk said Tesla will wind down Cybertruck production around mid-next-year. I could not find the preliminary Michigan consumer sentiment reading."
      }
     ],
-    "scm": "Strong jobs support US consumer demand but bring a December rate hike closer: don't cut demand forecasts and assume inventory financing costs won't fall this year. Pick up released containers from Long Beach today."
+    "scm": "The rebound doesn't erase the volatility: keep large memory and server contracts on hold until next week. Strong jobs support US peak-season demand. Long Beach expires tonight at midnight (Pacific time)."
    },
    "pt": {
-    "titular": "Os EUA criam 165 mil empregos, quase três vezes o esperado; o Nasdaq sobe 1,7%, mas cresce a aposta em alta do Fed em dezembro",
+    "titular": "A recuperação se mantém no meio-dia: o Nasdaq sobe 1,4% e os chips se recuperam (AMD +9%), enquanto o Dow fica estável",
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Às 7h30 (Cidade do México) o emprego de outubro surpreendeu: 165 mil vagas contra 65 mil esperadas, desemprego de 4,1% (4,2% antes) e setembro revisado para 60 mil de 29 mil; os salários sobem 3,1% em 12 meses. A probabilidade de alta do Fed em dezembro subiu para 78% de 70%. Às 8h45 o Nasdaq subia 1,7% e o S&P 500 0,6%, enquanto o Dow caía 0,6%. Nvidia (+4,2%) e AMD, Intel, Broadcom e Micron (+5% a 9%) se recuperavam; a Airbnb subia 13,9% pelos resultados e a Atlassian caía 15,9%. O título de 10 anos do Tesouro subia para 4,87%, o de 2 anos para 4,52% e o índice do dólar 0,7% para 102,22."
+      "t": "O que se esperava",
+      "x": "O brief de abertura via o Nasdaq +1,7% e o Dow −0,6% após o emprego de outubro (165 mil vagas contra 65 mil esperadas, desemprego de 4,1%) e uma probabilidade de 78% de alta do Fed em dezembro."
      },
      {
-      "t": "Ásia e Europa",
-      "x": "O Nikkei fechou em 57.434,77 (−5,96%), 9% abaixo do fechamento de 2 de novembro; Coreia do Sul e Taiwan abriram com quedas de mais de 8% e recuperaram uma parte. Não encontrei números verificados da Europa a esta hora."
+      "t": "Como está",
+      "x": "Por volta das 11h15 (Cidade do México) o S&P 500 subia 0,74% (7.408,04), o Nasdaq 1,39% (24.653,32) e o Dow estava estável (51.521,60). A AMD ganhava 9% e a Nvidia 3,4%; o índice de semicondutores chegou a subir 4% após cair 12% na quinta. O WTI estava em 90,37 dólares, o ouro caía 1,1% (4.068,20) e o título de 10 anos do Tesouro subia para 4,85%."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Às 9h (Cidade do México) sai a confiança do consumidor da Universidade de Michigan (espera-se 47,3). O S&P 500 caminha para sua pior semana desde março de 2025 e o setor de energia para uma queda semanal de mais de 11%. Em Los Angeles–Long Beach o prazo da greve vence à meia-noite (horário do Pacífico)."
+      "t": "O que surpreendeu",
+      "x": "A recuperação é menor que a queda de quinta: o S&P 500 caminha para sua pior semana desde março de 2025. A Iren chegou a subir 20% pelas receitas de nuvem de IA, e Musk disse que a Tesla vai encerrar a produção da Cybertruck por volta de meados do próximo ano. Não encontrei o dado preliminar de confiança do consumidor de Michigan."
      }
     ],
-    "scm": "O emprego forte sustenta a demanda de consumo nos EUA, mas aproxima uma alta de juros em dezembro: não corte previsões de demanda e assuma que o custo de financiar estoque não cairá neste ano. Retire hoje de Long Beach os contêineres já liberados."
+    "scm": "A recuperação não apaga a volatilidade: mantenha em pausa os contratos grandes de memória e servidores até a próxima semana. O emprego forte sustenta a demanda da alta temporada nos EUA. Long Beach vence nesta meia-noite (horário do Pacífico)."
    },
    "fuentes": [
     {
-     "t": "Reuters (vía AOL): un reporte de empleo fuerte sube los rendimientos",
-     "u": "https://www.aol.com/articles/strong-october-jobs-report-sends-134858000.html"
-    },
-    {
-     "t": "Reuters (vía BNN Bloomberg): el Nasdaq apunta al alza mientras los chips recortan pérdidas; persiste el temor a un alza de tasas",
-     "u": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/06/nasdaq-eyes-higher-open-as-chips-pare-losses-rate-hike-fears-linger/"
-    },
-    {
-     "t": "Yahoo Finance: el Nasdaq rebota tras la venta brutal; EE. UU. suma 165 mil empleos",
+     "t": "Yahoo Finance: el Nasdaq rebota tras la venta brutal; EE. UU. suma 165 mil empleos (6 nov 2026)",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
-    },
-    {
-     "t": "FinChannel: el Nikkei pierde 5.96%",
-     "u": "https://finchannel.com/asia-stock-selloff-deepens-as-nikkei-loses-5-96-after-wall-street-rout/140765/american-business-trends/markets/2026/11/"
     },
     {
      "t": "FreightWaves: la huelga en Los Ángeles y Long Beach se aplaza otra vez",
@@ -86,156 +74,148 @@
    ]
   },
   "latam": {
-   "id": "2026-11-06-apertura-latam",
+   "id": "2026-11-06-mediodia-latam",
    "fecha": "2026-11-06",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "latam",
-   "hora": "09:00 CDMX",
+   "hora": "11:40 CDMX",
    "es": {
-    "titular": "Las monedas de la región se debilitan con el dólar fuerte; las bolsas vienen de fuertes caídas el jueves",
+    "titular": "La región rebota: Chile +2%, Ibovespa +1.1% y Canadá +0.2% tras el desplome del jueves",
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "Con datos de las 5:10 CDMX, el peso chileno estaba en 980.1 por dólar, el colombiano en 3,237.9, el real en 5.49 y el sol en 3.44. Las bolsas de la región todavía muestran el cierre del jueves: Argentina −5.66%, Chile −3.25%, Perú −3.12%, S&P/TSX −2.03% (35,605.3) e Ibovespa −0.82% (166,192)."
+      "t": "Lo que se esperaba",
+      "x": "El brief de apertura veía monedas débiles por el dólar fuerte y bolsas que venían de caídas de entre 1% y 6% el jueves."
      },
      {
-      "t": "Contexto",
-      "x": "El empleo fuerte en EE. UU. (165 mil plazas) sube al dólar 0.7% y la probabilidad de un alza de la Fed en diciembre a 78%, lo que presiona a las monedas emergentes. El rebote de los chips en Wall Street puede ayudar a las bolsas."
+      "t": "Cómo va",
+      "x": "Con datos de las 9:25 CDMX, el fondo de Chile subía 2.03%, el Ibovespa 1.13% (168,071.09), el fondo de Argentina 0.28% y el S&P/TSX de Canadá 0.21% (35,678.71); Perú estaba plano (−0.05%). El peso chileno estaba en 976.6 por dólar, el colombiano en 3,229.8, el real en 5.48 y el sol en 3.42."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "Cierre de semana con la región atenta a Wall Street. Brasil mantiene la Selic en 13.75% y México la tasa en 6.25%."
+      "t": "Lo que sorprendió",
+      "x": "Brasil lidera el rebote pese a la Selic en 13.75%, y las monedas recuperan algo de terreno aun con el dólar fuerte."
      }
     ],
-    "scm": "Con el dólar fuerte, conviene convertir pronto los cobros en monedas locales de la región; los pagos en esas monedas pueden esperar."
+    "scm": "Las monedas de la región recuperan un poco: si tienes cobros en moneda local, conviértelos hoy antes del fin de semana."
    },
    "en": {
-    "titular": "The region's currencies weaken on a strong dollar; stocks come off steep losses Thursday",
+    "titular": "The region rebounds: Chile +2%, Ibovespa +1.1% and Canada +0.2% after Thursday's plunge",
     "bloques": [
      {
-      "t": "Opening",
-      "x": "With data as of 5:10 a.m. Mexico City time, the Chilean peso was at 980.1 per dollar, the Colombian peso at 3,237.9, the real at 5.49 and the sol at 3.44. The region's exchanges still show Thursday's close: Argentina −5.66%, Chile −3.25%, Peru −3.12%, S&P/TSX −2.03% (35,605.3) and Ibovespa −0.82% (166,192)."
+      "t": "What was expected",
+      "x": "The opening brief saw weak currencies on a strong dollar and stocks coming off 1% to 6% losses on Thursday."
      },
      {
-      "t": "Context",
-      "x": "Strong US jobs (165,000) lift the dollar 0.7% and the odds of a December Fed hike to 78%, pressuring emerging-market currencies. The chip rebound on Wall Street may help stocks."
+      "t": "How it is going",
+      "x": "With data as of 9:25 a.m. Mexico City time, the Chile fund was up 2.03%, the Ibovespa 1.13% (168,071.09), the Argentina fund 0.28% and Canada's S&P/TSX 0.21% (35,678.71); Peru was flat (−0.05%). The Chilean peso was at 976.6 per dollar, the Colombian peso at 3,229.8, the real at 5.48 and the sol at 3.42."
      },
      {
-      "t": "What to expect today",
-      "x": "The week closes with the region watching Wall Street. Brazil keeps the Selic at 13.75% and Mexico its rate at 6.25%."
+      "t": "What surprised",
+      "x": "Brazil leads the rebound despite the Selic at 13.75%, and currencies regain some ground even with a strong dollar."
      }
     ],
-    "scm": "With a strong dollar, convert local-currency receivables in the region soon; payments in those currencies can wait."
+    "scm": "Regional currencies recover a bit: if you have local-currency receivables, convert them today before the weekend."
    },
    "pt": {
-    "titular": "As moedas da região se enfraquecem com o dólar forte; as bolsas vêm de quedas fortes na quinta",
+    "titular": "A região se recupera: Chile +2%, Ibovespa +1,1% e Canadá +0,2% após o tombo de quinta",
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Com dados das 5h10 (Cidade do México), o peso chileno estava em 980,1 por dólar, o colombiano em 3.237,9, o dólar em R$ 5,49 e o sol em 3,44. As bolsas da região ainda mostram o fechamento de quinta: Argentina −5,66%, Chile −3,25%, Peru −3,12%, S&P/TSX −2,03% (35.605,3) e Ibovespa −0,82% (166.192)."
+      "t": "O que se esperava",
+      "x": "O brief de abertura via moedas fracas pelo dólar forte e bolsas vindas de quedas de 1% a 6% na quinta."
      },
      {
-      "t": "Contexto",
-      "x": "O emprego forte nos EUA (165 mil vagas) eleva o dólar em 0,7% e a probabilidade de alta do Fed em dezembro para 78%, o que pressiona as moedas emergentes. A recuperação dos chips em Wall Street pode ajudar as bolsas."
+      "t": "Como está",
+      "x": "Com dados das 9h25 (Cidade do México), o fundo do Chile subia 2,03%, o Ibovespa 1,13% (168.071,09), o fundo da Argentina 0,28% e o S&P/TSX do Canadá 0,21% (35.678,71); o Peru estava estável (−0,05%). O peso chileno estava em 976,6 por dólar, o colombiano em 3.229,8, o dólar em R$ 5,48 e o sol em 3,42."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Fim de semana com a região atenta a Wall Street. O Brasil mantém a Selic em 13,75% e o México a taxa em 6,25%."
+      "t": "O que surpreendeu",
+      "x": "O Brasil lidera a recuperação apesar da Selic em 13,75%, e as moedas recuperam algum terreno mesmo com o dólar forte."
      }
     ],
-    "scm": "Com o dólar forte, convém converter logo os recebíveis em moedas locais da região; os pagamentos nessas moedas podem esperar."
+    "scm": "As moedas da região se recuperam um pouco: se você tem recebíveis em moeda local, converta hoje antes do fim de semana."
    },
    "fuentes": [
     {
      "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
      "u": "https://mrsupplychain.ai/noticias/"
-    },
-    {
-     "t": "Reuters (vía AOL): un reporte de empleo fuerte sube los rendimientos",
-     "u": "https://www.aol.com/articles/strong-october-jobs-report-sends-134858000.html"
     }
    ]
   },
   "mexico": {
-   "id": "2026-11-06-apertura-mexico",
+   "id": "2026-11-06-mediodia-mexico",
    "fecha": "2026-11-06",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "mexico",
-   "hora": "09:00 CDMX",
+   "hora": "11:40 CDMX",
    "es": {
-    "titular": "El peso se recupera a 18.69 tras el golpe de Banxico, pese al dólar fuerte por el empleo de EE. UU.",
+    "titular": "El peso se fortalece a 18.61 y el IPC sube 0.4%; la BMV cierra su mejor semana en meses",
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "A las 8:18 CDMX el peso cotizaba en 18.685 por dólar (+0.33%), con un rango de 18.592 a 18.881 en el día; el FIX publicado hoy fue de 18.7147. El jueves el IPC cerró en 71,087.56 (+0.38%), con Chedraui +7.4% y Bimbo +3.4%; no confirmé la apertura del IPC de hoy."
+      "t": "Lo que se esperaba",
+      "x": "El brief de apertura veía al peso recuperarse a 18.69 tras el recorte de Banxico a 6.25%, con el FIX publicado hoy en 18.7147."
      },
      {
-      "t": "Contexto",
-      "x": "El peso recupera parte de lo perdido tras el recorte de Banxico a 6.25%, aunque el índice dólar sube 0.7% por el empleo fuerte en EE. UU. El diferencial de tasas en mínimo histórico le quita atractivo al peso para el carry trade."
+      "t": "Cómo va",
+      "x": "A las 9:25 CDMX el peso estaba en 18.61 por dólar, mejor que en la apertura y que el cierre del jueves (18.75). El S&P/BMV IPC abrió con −0.17% (cerca de 70,970), pero después subía 0.42% a 71,388.24; en la semana acumula +1.7%. Subían Qualitas y Volaris; bajaban Coca-Cola Femsa y GAP."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "No hay datos relevantes en México. El lunes 16 la BMV y los bancos cierran por el Día de la Revolución."
+      "t": "Lo que sorprendió",
+      "x": "El peso recupera casi todo lo perdido tras el recorte de Banxico, aun con el dólar fuerte por el empleo de EE. UU. La bolsa mexicana se mueve en su mejor nivel desde finales de febrero."
      }
     ],
-    "scm": "El peso en 18.69 es mejor nivel que el cierre de ayer (18.75): cubre una parte de tus pagos en dólares de noviembre hoy y el resto por tramos. Si tienes pagos el lunes 16, adelántalos: los bancos cierran."
+    "scm": "El peso en 18.61 es mejor nivel que el de ayer: cubre hoy una parte de tus pagos en dólares de noviembre y diciembre. Adelanta los pagos del lunes 16, cuando cierran los bancos."
    },
    "en": {
-    "titular": "The peso recovers to 18.69 after Banxico's blow, despite a strong dollar on US jobs",
+    "titular": "The peso strengthens to 18.61 and the IPC rises 0.4%; the BMV closes its best week in months",
     "bloques": [
      {
-      "t": "Opening",
-      "x": "At 8:18 a.m. Mexico City time the peso traded at 18.685 per dollar (+0.33%), with a daily range of 18.592 to 18.881; today's published FIX was 18.7147. On Thursday the IPC closed at 71,087.56 (+0.38%), with Chedraui +7.4% and Bimbo +3.4%; I could not confirm today's IPC opening."
+      "t": "What was expected",
+      "x": "The opening brief saw the peso recover to 18.69 after Banxico's cut to 6.25%, with today's published FIX at 18.7147."
      },
      {
-      "t": "Context",
-      "x": "The peso recovers part of its loss after Banxico's cut to 6.25%, although the dollar index rises 0.7% on strong US jobs. The record-low rate gap makes the peso less attractive for the carry trade."
+      "t": "How it is going",
+      "x": "At 9:25 a.m. Mexico City time the peso was at 18.61 per dollar, better than at the open and Thursday's close (18.75). The S&P/BMV IPC opened −0.17% (near 70,970) but later rose 0.42% to 71,388.24; it is up 1.7% for the week. Qualitas and Volaris rose; Coca-Cola Femsa and GAP fell."
      },
      {
-      "t": "What to expect today",
-      "x": "There is no major Mexican data. On Monday the 16th, the BMV and banks close for Revolution Day."
+      "t": "What surprised",
+      "x": "The peso recovers almost all of its post-Banxico loss, even with a strong dollar on US jobs. The Mexican exchange is trading at its best level since late February."
      }
     ],
-    "scm": "The peso at 18.69 is better than yesterday's close (18.75): hedge part of your November dollar payments today and the rest in tranches. If you have payments on Monday the 16th, pay early: banks close."
+    "scm": "The peso at 18.61 is better than yesterday: hedge part of your November and December dollar payments today. Pay early for Monday the 16th, when banks close."
    },
    "pt": {
-    "titular": "O peso se recupera a 18,69 após o golpe do Banxico, apesar do dólar forte pelo emprego dos EUA",
+    "titular": "O peso se fortalece a 18,61 e o IPC sobe 0,4%; a BMV fecha sua melhor semana em meses",
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Às 8h18 (Cidade do México) o peso era cotado a 18,685 por dólar (+0,33%), com intervalo de 18,592 a 18,881 no dia; o FIX publicado hoje foi de 18,7147. Na quinta o IPC fechou em 71.087,56 (+0,38%), com Chedraui +7,4% e Bimbo +3,4%; não confirmei a abertura do IPC de hoje."
+      "t": "O que se esperava",
+      "x": "O brief de abertura via o peso se recuperar a 18,69 após o corte do Banxico para 6,25%, com o FIX publicado hoje em 18,7147."
      },
      {
-      "t": "Contexto",
-      "x": "O peso recupera parte do que perdeu após o corte do Banxico para 6,25%, embora o índice do dólar suba 0,7% pelo emprego forte nos EUA. O diferencial de juros em mínima histórica tira atratividade do peso para o carry trade."
+      "t": "Como está",
+      "x": "Às 9h25 (Cidade do México) o peso estava a 18,61 por dólar, melhor que na abertura e que o fechamento de quinta (18,75). O S&P/BMV IPC abriu em −0,17% (perto de 70.970), mas depois subia 0,42% para 71.388,24; na semana acumula +1,7%. Subiam Qualitas e Volaris; caíam Coca-Cola Femsa e GAP."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Não há dados relevantes no México. Na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução."
+      "t": "O que surpreendeu",
+      "x": "O peso recupera quase tudo o que perdeu após o corte do Banxico, mesmo com o dólar forte pelo emprego dos EUA. A bolsa mexicana opera no melhor nível desde o fim de fevereiro."
      }
     ],
-    "scm": "O peso a 18,69 é melhor que o fechamento de ontem (18,75): proteja hoje parte dos seus pagamentos em dólares de novembro e o resto em parcelas. Se tiver pagamentos na segunda, dia 16, antecipe: os bancos fecham."
+    "scm": "O peso a 18,61 é melhor que ontem: proteja hoje parte dos seus pagamentos em dólares de novembro e dezembro. Antecipe os pagamentos da segunda, dia 16, quando os bancos fecham."
    },
    "fuentes": [
     {
-     "t": "El Cronista: el peso se sacude el golpe de Banxico, pero el carry trade pierde atractivo",
-     "u": "https://www.cronista.com/mexico/dolar-peso-mexicano/peso-mexicano-recupera-terreno-frente-al-dolar-tras-el-recorte-de-banxico-y-dato-de-empleo-en-eeuu/"
+     "t": "Investing.com México: tras el desplome, la IA en Wall Street sale a flote; la BMV cae",
+     "u": "https://mx.investing.com/news/stock-market-news/sp-500-dow-jones-ipc-tras-desplome-ia-en-wall-street-sale-a-flote-la-bmv-cae-3838494"
     },
     {
-     "t": "Yahoo Noticias: las bolsas mexicanas cierran con avances tras el recorte de Banxico",
-     "u": "https://es-us.noticias.yahoo.com/bolsas-mexicanas-cerraron-avances-recorte-031328919.html"
-    },
-    {
-     "t": "N+: FIX publicado el 6 de noviembre",
-     "u": "https://www.nmas.com.mx/economia/dolar/como-esta-tipo-de-cambio-peso-dolar-estadounidense-mexico-viernes-6-noviembre-2026/"
+     "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+     "u": "https://mrsupplychain.ai/noticias/"
     }
    ]
   }
  },
  "lectura": {
   "es": {
-   "titular": "Empleo fuerte y rebote parcial: EE. UU. crea 165 mil plazas, el Nasdaq recupera 1.7% y la Fed podría subir tasas en diciembre",
-   "resumen": "Tras el peor día del S&P 500 desde abril de 2025, el mercado rebota en tecnología (Nasdaq +1.7%) mientras el empleo de octubre sorprende con 165 mil plazas y desempleo de 4.1%. La demanda de consumo en EE. UU. sigue firme, pero la probabilidad de un alza de la Fed en diciembre subió a 78% y el Treasury a 10 años está en 4.87%. En México, Banxico recortó a 6.25% y el peso se recupera a 18.69 tras tocar 18.96. El sector energía va a una caída semanal de más de 11% y en Long Beach el plazo de huelga vence esta medianoche. La prioridad es no recortar pronósticos de demanda de EE. UU., cubrir por tramos los pagos en dólares y retirar hoy la carga liberada de Long Beach.",
+   "titular": "Rebote parcial al cierre de una semana volátil: el Nasdaq recupera 1.4%, el peso vuelve a 18.61 y Long Beach vence esta noche",
+   "resumen": "Después del peor día del S&P 500 desde abril de 2025, el mercado rebota con los chips (AMD +9%) y el Nasdaq sube 1.4% a mediodía, aunque la semana sigue siendo la peor desde marzo de 2025. El empleo de octubre (165 mil plazas, desempleo de 4.1%) confirma una demanda firme en EE. UU., pero eleva a 78% la probabilidad de un alza de la Fed en diciembre. En México el peso recupera 18.61 tras el recorte de Banxico a 6.25% y el IPC sube 0.4%. El crudo ronda 90 dólares y en Long Beach el plazo de huelga vence a la medianoche del viernes (hora del Pacífico). La prioridad es cubrir hoy parte de los pagos en dólares, no recortar pronósticos de demanda de EE. UU. y retirar la carga liberada de Long Beach.",
    "temas": [
     {
      "tema": "Peso y tasas",
@@ -336,8 +316,8 @@
    ]
   },
   "en": {
-   "titular": "Strong jobs and a partial rebound: the US adds 165,000 jobs, the Nasdaq recovers 1.7% and the Fed could hike in December",
-   "resumen": "After the S&P 500's worst day since April 2025, the market rebounds in tech (Nasdaq +1.7%) as October jobs surprise with 165,000 and 4.1% unemployment. US consumer demand stays firm, but the odds of a December Fed hike rose to 78% and the 10-year Treasury is at 4.87%. In Mexico, Banxico cut to 6.25% and the peso recovers to 18.69 after touching 18.96. The energy sector heads for a weekly drop of more than 11% and the Long Beach strike deadline expires tonight at midnight. The priority is not to cut US demand forecasts, to hedge dollar payments in tranches and to pick up released Long Beach cargo today.",
+   "titular": "A partial rebound to close a volatile week: the Nasdaq recovers 1.4%, the peso returns to 18.61 and Long Beach expires tonight",
+   "resumen": "After the S&P 500's worst day since April 2025, the market rebounds with chips (AMD +9%) and the Nasdaq is up 1.4% at midday, although the week is still the worst since March 2025. October jobs (165,000, 4.1% unemployment) confirm firm US demand but raise the odds of a December Fed hike to 78%. In Mexico the peso recovers to 18.61 after Banxico's cut to 6.25% and the IPC rises 0.4%. Crude hovers near $90 and the Long Beach strike deadline expires at midnight Friday (Pacific time). The priority is to hedge part of dollar payments today, not cut US demand forecasts and pick up released Long Beach cargo.",
    "temas": [
     {
      "tema": "Peso and rates",
@@ -443,8 +423,8 @@
    ]
   },
   "pt": {
-   "titular": "Emprego forte e recuperação parcial: os EUA criam 165 mil vagas, o Nasdaq recupera 1,7% e o Fed pode subir juros em dezembro",
-   "resumen": "Depois do pior dia do S&P 500 desde abril de 2025, o mercado se recupera em tecnologia (Nasdaq +1,7%) enquanto o emprego de outubro surpreende com 165 mil vagas e desemprego de 4,1%. A demanda de consumo nos EUA segue firme, mas a probabilidade de alta do Fed em dezembro subiu para 78% e o título de 10 anos está em 4,87%. No México, o Banxico cortou para 6,25% e o peso se recupera a 18,69 depois de tocar 18,96. O setor de energia caminha para uma queda semanal de mais de 11% e em Long Beach o prazo da greve vence nesta meia-noite. A prioridade é não cortar previsões de demanda dos EUA, proteger em parcelas os pagamentos em dólares e retirar hoje a carga liberada de Long Beach.",
+   "titular": "Recuperação parcial no fim de uma semana volátil: o Nasdaq recupera 1,4%, o peso volta a 18,61 e Long Beach vence esta noite",
+   "resumen": "Depois do pior dia do S&P 500 desde abril de 2025, o mercado se recupera com os chips (AMD +9%) e o Nasdaq sobe 1,4% no meio-dia, embora a semana siga sendo a pior desde março de 2025. O emprego de outubro (165 mil vagas, desemprego de 4,1%) confirma demanda firme nos EUA, mas eleva para 78% a probabilidade de alta do Fed em dezembro. No México o peso volta a 18,61 após o corte do Banxico para 6,25% e o IPC sobe 0,4%. O petróleo ronda 90 dólares e em Long Beach o prazo da greve vence à meia-noite de sexta (horário do Pacífico). A prioridade é proteger hoje parte dos pagamentos em dólares, não cortar previsões de demanda dos EUA e retirar a carga liberada de Long Beach.",
    "temas": [
     {
      "tema": "Peso e juros",
@@ -550,8 +530,8 @@
    "nombre": "IPC BMV",
    "name_en": "IPC BMV",
    "grupo": "bolsa",
-   "valor": 71087.56,
-   "cambio": 0.38,
+   "valor": 71388.24,
+   "cambio": 0.42,
    "unidad": "puntos",
    "name_pt": "IPC BMV"
   },
@@ -559,8 +539,8 @@
    "nombre": "S&P 500",
    "name_en": "S&P 500",
    "grupo": "bolsa",
-   "valor": 7366.75,
-   "cambio": -4.4,
+   "valor": 7408.04,
+   "cambio": 0.74,
    "unidad": "puntos",
    "name_pt": "S&P 500"
   },
@@ -568,8 +548,8 @@
    "nombre": "Nasdaq",
    "name_en": "Nasdaq",
    "grupo": "bolsa",
-   "valor": 24371.93,
-   "cambio": -5.5,
+   "valor": 24653.32,
+   "cambio": 1.39,
    "unidad": "puntos",
    "name_pt": "Nasdaq"
   },
@@ -577,8 +557,8 @@
    "nombre": "Dow Jones",
    "name_en": "Dow Jones",
    "grupo": "bolsa",
-   "valor": 51554.34,
-   "cambio": -3.38,
+   "valor": 51521.6,
+   "cambio": 0.0,
    "unidad": "puntos",
    "name_pt": "Dow Jones"
   },
@@ -613,8 +593,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 18.685,
-   "cambio": -0.33,
+   "valor": 18.614,
+   "cambio": -0.72,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -640,8 +620,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 89.38,
-   "cambio": -1.26,
+   "valor": 90.37,
+   "cambio": -0.17,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -667,8 +647,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 4081.6,
-   "cambio": -0.78,
+   "valor": 4068.2,
+   "cambio": -1.1,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -685,8 +665,8 @@
    "nombre": "Treasury 10 años",
    "name_en": "10-yr Treasury",
    "grupo": "bono",
-   "valor": 4.87,
-   "cambio": 3,
+   "valor": 4.85,
+   "cambio": 1,
    "unidad": "%",
    "name_pt": "Título do Tesouro 10 anos"
   },

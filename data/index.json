@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-06-mediodia-global",
+   "fecha": "2026-11-06",
+   "momento": "mediodia",
+   "mercado": "global",
+   "titular_es": "El rebote se sostiene a mediodía: el Nasdaq sube 1.4% y los chips recuperan (AMD +9%), mientras el Dow queda plano",
+   "titular_en": "The rebound holds at midday: the Nasdaq rises 1.4% and chips recover (AMD +9%), while the Dow stays flat",
+   "titular_pt": "A recuperação se mantém no meio-dia: o Nasdaq sobe 1,4% e os chips se recuperam (AMD +9%), enquanto o Dow fica estável"
+  },
+  {
+   "id": "2026-11-06-mediodia-latam",
+   "fecha": "2026-11-06",
+   "momento": "mediodia",
+   "mercado": "latam",
+   "titular_es": "La región rebota: Chile +2%, Ibovespa +1.1% y Canadá +0.2% tras el desplome del jueves",
+   "titular_en": "The region rebounds: Chile +2%, Ibovespa +1.1% and Canada +0.2% after Thursday's plunge",
+   "titular_pt": "A região se recupera: Chile +2%, Ibovespa +1,1% e Canadá +0,2% após o tombo de quinta"
+  },
+  {
+   "id": "2026-11-06-mediodia-mexico",
+   "fecha": "2026-11-06",
+   "momento": "mediodia",
+   "mercado": "mexico",
+   "titular_es": "El peso se fortalece a 18.61 y el IPC sube 0.4%; la BMV cierra su mejor semana en meses",
+   "titular_en": "The peso strengthens to 18.61 and the IPC rises 0.4%; the BMV closes its best week in months",
+   "titular_pt": "O peso se fortalece a 18,61 e o IPC sobe 0,4%; a BMV fecha sua melhor semana em meses"
+  },
+  {
    "id": "2026-11-06-apertura-global",
    "fecha": "2026-11-06",
    "momento": "apertura",

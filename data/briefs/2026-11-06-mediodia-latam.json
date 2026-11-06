@@ -1,0 +1,67 @@
+{
+ "id": "2026-11-06-mediodia-latam",
+ "fecha": "2026-11-06",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:40 CDMX",
+ "es": {
+  "titular": "La región rebota: Chile +2%, Ibovespa +1.1% y Canadá +0.2% tras el desplome del jueves",
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "El brief de apertura veía monedas débiles por el dólar fuerte y bolsas que venían de caídas de entre 1% y 6% el jueves."
+   },
+   {
+    "t": "Cómo va",
+    "x": "Con datos de las 9:25 CDMX, el fondo de Chile subía 2.03%, el Ibovespa 1.13% (168,071.09), el fondo de Argentina 0.28% y el S&P/TSX de Canadá 0.21% (35,678.71); Perú estaba plano (−0.05%). El peso chileno estaba en 976.6 por dólar, el colombiano en 3,229.8, el real en 5.48 y el sol en 3.42."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "Brasil lidera el rebote pese a la Selic en 13.75%, y las monedas recuperan algo de terreno aun con el dólar fuerte."
+   }
+  ],
+  "scm": "Las monedas de la región recuperan un poco: si tienes cobros en moneda local, conviértelos hoy antes del fin de semana."
+ },
+ "en": {
+  "titular": "The region rebounds: Chile +2%, Ibovespa +1.1% and Canada +0.2% after Thursday's plunge",
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "The opening brief saw weak currencies on a strong dollar and stocks coming off 1% to 6% losses on Thursday."
+   },
+   {
+    "t": "How it is going",
+    "x": "With data as of 9:25 a.m. Mexico City time, the Chile fund was up 2.03%, the Ibovespa 1.13% (168,071.09), the Argentina fund 0.28% and Canada's S&P/TSX 0.21% (35,678.71); Peru was flat (−0.05%). The Chilean peso was at 976.6 per dollar, the Colombian peso at 3,229.8, the real at 5.48 and the sol at 3.42."
+   },
+   {
+    "t": "What surprised",
+    "x": "Brazil leads the rebound despite the Selic at 13.75%, and currencies regain some ground even with a strong dollar."
+   }
+  ],
+  "scm": "Regional currencies recover a bit: if you have local-currency receivables, convert them today before the weekend."
+ },
+ "pt": {
+  "titular": "A região se recupera: Chile +2%, Ibovespa +1,1% e Canadá +0,2% após o tombo de quinta",
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "O brief de abertura via moedas fracas pelo dólar forte e bolsas vindas de quedas de 1% a 6% na quinta."
+   },
+   {
+    "t": "Como está",
+    "x": "Com dados das 9h25 (Cidade do México), o fundo do Chile subia 2,03%, o Ibovespa 1,13% (168.071,09), o fundo da Argentina 0,28% e o S&P/TSX do Canadá 0,21% (35.678,71); o Peru estava estável (−0,05%). O peso chileno estava em 976,6 por dólar, o colombiano em 3.229,8, o dólar em R$ 5,48 e o sol em 3,42."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O Brasil lidera a recuperação apesar da Selic em 13,75%, e as moedas recuperam algum terreno mesmo com o dólar forte."
+   }
+  ],
+  "scm": "As moedas da região se recuperam um pouco: se você tem recebíveis em moeda local, converta hoje antes do fim de semana."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

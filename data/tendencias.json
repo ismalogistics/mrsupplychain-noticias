@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T15:13:31Z",
+ "actualizado": "2026-11-06T17:39:21Z",
  "fecha": "2026-11-06",
  "titular": {
   "es": "Empleo fuerte, rebote de chips y el plazo de Long Beach vence hoy: el cierre de una semana volátil",
@@ -17,9 +17,9 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Los chips rebotan tras el desplome: Nvidia +4.2% y AMD, Intel, Broadcom y Micron entre +5% y +9%",
-    "en": "Chips rebound after the plunge: Nvidia +4.2% and AMD, Intel, Broadcom and Micron between +5% and +9%",
-    "pt": "Os chips se recuperam após o tombo: Nvidia +4,2% e AMD, Intel, Broadcom e Micron entre +5% e +9%"
+    "es": "Los chips rebotan: AMD +9%, Nvidia +3.4% y el índice de semiconductores llega a subir 4% tras caer 12%",
+    "en": "Chips rebound: AMD +9%, Nvidia +3.4% and the semiconductor index rises as much as 4% after a 12% drop",
+    "pt": "Os chips se recuperam: AMD +9%, Nvidia +3,4% e o índice de semicondutores chega a subir 4% após cair 12%"
    },
    "x": {
     "es": "Después de la peor caída del Nasdaq en 19 meses, los chips recuperan parte de lo perdido. En Japón, el Nikkei cerró −5.96% y Corea y Taiwán abrieron con caídas de más de 8% antes de recuperar una parte.",
@@ -33,12 +33,8 @@
    },
    "fuentes": [
     {
-     "t": "Reuters (vía BNN Bloomberg): el Nasdaq apunta al alza mientras los chips recortan pérdidas; persiste el temor a un alza de tasas",
-     "u": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/06/nasdaq-eyes-higher-open-as-chips-pare-losses-rate-hike-fears-linger/"
-    },
-    {
-     "t": "FinChannel: el Nikkei pierde 5.96%",
-     "u": "https://finchannel.com/asia-stock-selloff-deepens-as-nikkei-loses-5-96-after-wall-street-rout/140765/american-business-trends/markets/2026/11/"
+     "t": "Yahoo Finance: el Nasdaq rebota tras la venta brutal; EE. UU. suma 165 mil empleos (6 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
     }
    ]
   },

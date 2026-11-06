@@ -1,0 +1,71 @@
+{
+ "id": "2026-11-06-mediodia-global",
+ "fecha": "2026-11-06",
+ "momento": "mediodia",
+ "mercado": "global",
+ "hora": "11:40 CDMX",
+ "es": {
+  "titular": "El rebote se sostiene a mediodía: el Nasdaq sube 1.4% y los chips recuperan (AMD +9%), mientras el Dow queda plano",
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "El brief de apertura veía al Nasdaq +1.7% y al Dow −0.6% tras el empleo de octubre (165 mil plazas contra 65 mil esperadas, desempleo de 4.1%) y una probabilidad de 78% de un alza de la Fed en diciembre."
+   },
+   {
+    "t": "Cómo va",
+    "x": "Hacia las 11:15 CDMX el S&P 500 subía 0.74% (7,408.04), el Nasdaq 1.39% (24,653.32) y el Dow estaba plano (51,521.60). AMD ganaba 9% y Nvidia 3.4%; el índice de semiconductores llegó a subir 4% tras caer 12% el jueves. El WTI estaba en 90.37 dólares, el oro bajaba 1.1% (4,068.20) y el Treasury a 10 años subía a 4.85%."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El rebote es menor que la caída del jueves: el S&P 500 va camino a su peor semana desde marzo de 2025. Iren llegó a subir 20% por sus ingresos de nube de IA, y Musk dijo que Tesla dejará de producir la Cybertruck hacia mediados del próximo año. No encontré el dato preliminar de confianza del consumidor de Michigan."
+   }
+  ],
+  "scm": "El rebote no borra la volatilidad: mantén en pausa los contratos grandes de memoria y servidores hasta la próxima semana. El empleo fuerte sostiene la demanda de temporada alta en EE. UU. Long Beach vence esta medianoche (hora del Pacífico)."
+ },
+ "en": {
+  "titular": "The rebound holds at midday: the Nasdaq rises 1.4% and chips recover (AMD +9%), while the Dow stays flat",
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "The opening brief saw the Nasdaq +1.7% and the Dow −0.6% after October jobs (165,000 versus 65,000 expected, 4.1% unemployment) and a 78% probability of a December Fed hike."
+   },
+   {
+    "t": "How it is going",
+    "x": "Around 12:15 p.m. ET the S&P 500 was up 0.74% (7,408.04), the Nasdaq 1.39% (24,653.32) and the Dow was flat (51,521.60). AMD gained 9% and Nvidia 3.4%; the semiconductor index rose as much as 4% after falling 12% on Thursday. WTI was at $90.37, gold fell 1.1% ($4,068.20) and the 10-year Treasury rose to 4.85%."
+   },
+   {
+    "t": "What surprised",
+    "x": "The rebound is smaller than Thursday's drop: the S&P 500 is on track for its worst week since March 2025. Iren rose as much as 20% on its AI cloud revenue, and Musk said Tesla will wind down Cybertruck production around mid-next-year. I could not find the preliminary Michigan consumer sentiment reading."
+   }
+  ],
+  "scm": "The rebound doesn't erase the volatility: keep large memory and server contracts on hold until next week. Strong jobs support US peak-season demand. Long Beach expires tonight at midnight (Pacific time)."
+ },
+ "pt": {
+  "titular": "A recuperação se mantém no meio-dia: o Nasdaq sobe 1,4% e os chips se recuperam (AMD +9%), enquanto o Dow fica estável",
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "O brief de abertura via o Nasdaq +1,7% e o Dow −0,6% após o emprego de outubro (165 mil vagas contra 65 mil esperadas, desemprego de 4,1%) e uma probabilidade de 78% de alta do Fed em dezembro."
+   },
+   {
+    "t": "Como está",
+    "x": "Por volta das 11h15 (Cidade do México) o S&P 500 subia 0,74% (7.408,04), o Nasdaq 1,39% (24.653,32) e o Dow estava estável (51.521,60). A AMD ganhava 9% e a Nvidia 3,4%; o índice de semicondutores chegou a subir 4% após cair 12% na quinta. O WTI estava em 90,37 dólares, o ouro caía 1,1% (4.068,20) e o título de 10 anos do Tesouro subia para 4,85%."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A recuperação é menor que a queda de quinta: o S&P 500 caminha para sua pior semana desde março de 2025. A Iren chegou a subir 20% pelas receitas de nuvem de IA, e Musk disse que a Tesla vai encerrar a produção da Cybertruck por volta de meados do próximo ano. Não encontrei o dado preliminar de confiança do consumidor de Michigan."
+   }
+  ],
+  "scm": "A recuperação não apaga a volatilidade: mantenha em pausa os contratos grandes de memória e servidores até a próxima semana. O emprego forte sustenta a demanda da alta temporada nos EUA. Long Beach vence nesta meia-noite (horário do Pacífico)."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: el Nasdaq rebota tras la venta brutal; EE. UU. suma 165 mil empleos (6 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
+  },
+  {
+   "t": "FreightWaves: la huelga en Los Ángeles y Long Beach se aplaza otra vez",
+   "u": "https://www.freightwaves.com/news/port-strike-delayed-again-at-los-angeles-long-beach-ports"
+  }
+ ]
+}
