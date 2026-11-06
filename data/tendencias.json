@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-06T17:39:21Z",
+ "actualizado": "2026-11-06T21:39:55Z",
  "fecha": "2026-11-06",
  "titular": {
-  "es": "Empleo fuerte, rebote de chips y el plazo de Long Beach vence hoy: el cierre de una semana volátil",
-  "en": "Strong jobs, a chip rebound and the Long Beach deadline today: the end of a volatile week",
-  "pt": "Emprego forte, recuperação dos chips e o prazo de Long Beach hoje: o fim de uma semana volátil"
+  "es": "Cierre de una semana volátil: chips rebotan pero siguen en corrección, empleo fuerte y Long Beach vence a la medianoche",
+  "en": "End of a volatile week: chips rebound but stay in a correction, strong jobs and Long Beach expires at midnight",
+  "pt": "Fim de uma semana volátil: chips se recuperam mas seguem em correção, emprego forte e Long Beach vence à meia-noite"
  },
  "items": [
   {
@@ -17,9 +17,9 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Los chips rebotan: AMD +9%, Nvidia +3.4% y el índice de semiconductores llega a subir 4% tras caer 12%",
-    "en": "Chips rebound: AMD +9%, Nvidia +3.4% and the semiconductor index rises as much as 4% after a 12% drop",
-    "pt": "Os chips se recuperam: AMD +9%, Nvidia +3,4% e o índice de semicondutores chega a subir 4% após cair 12%"
+    "es": "Los chips rebotan el viernes (Micron +5.1%, Nvidia +2.8%), pero el Nasdaq cierra la semana −3.4% y sigue en corrección",
+    "en": "Chips rebound Friday (Micron +5.1%, Nvidia +2.8%), but the Nasdaq ends the week −3.4% and stays in a correction",
+    "pt": "Os chips se recuperam na sexta (Micron +5,1%, Nvidia +2,8%), mas o Nasdaq fecha a semana em −3,4% e segue em correção"
    },
    "x": {
     "es": "Después de la peor caída del Nasdaq en 19 meses, los chips recuperan parte de lo perdido. En Japón, el Nikkei cerró −5.96% y Corea y Taiwán abrieron con caídas de más de 8% antes de recuperar una parte.",
@@ -33,7 +33,11 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: el Nasdaq rebota tras la venta brutal; EE. UU. suma 165 mil empleos (6 nov 2026)",
+     "t": "Kiplinger: el Nasdaq sube 264 puntos con el rebote de tecnología, pero cierra la semana a la baja",
+     "u": "https://www.kiplinger.com/investing/stocks/nasdaq-adds-264-points-in-tech-rebound-but-ends-the-week-lower-stock-market-today"
+    },
+    {
+     "t": "Yahoo Finance: el Nasdaq y el S&P 500 rebotan; el Dow baja al cierre de una semana dura para la IA",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
     }
    ]
@@ -211,9 +215,9 @@
    "en": "Retail and consumer",
    "pt": "Varejo e consumo",
    "titular": {
-    "es": "Airbnb sube 13.9%: supera lo esperado, eleva su guía y dice que \"volvió al modo de crecimiento\"",
-    "en": "Airbnb rises 13.9%: beats expectations, raises guidance and says it is \"back in growth mode\"",
-    "pt": "A Airbnb sobe 13,9%: supera o esperado, eleva a projeção e diz que \"voltou ao modo de crescimento\""
+    "es": "Airbnb cierra con +11.7% tras superar lo esperado y elevar su guía anual",
+    "en": "Airbnb closes +11.7% after beating expectations and raising its full-year outlook",
+    "pt": "A Airbnb fecha em +11,7% após superar o esperado e elevar a projeção anual"
    },
    "x": {
     "es": "Airbnb ganó 3.16 dólares por acción (se esperaban 2.85) e ingresos de 4,870 millones de dólares (+19%), y subió su guía anual. Es una señal de que el gasto en viajes y servicios sigue firme.",
@@ -227,12 +231,12 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: el Nasdaq rebota tras la venta brutal; EE. UU. suma 165 mil empleos",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
+     "t": "Kiplinger: el Nasdaq sube 264 puntos con el rebote de tecnología, pero cierra la semana a la baja",
+     "u": "https://www.kiplinger.com/investing/stocks/nasdaq-adds-264-points-in-tech-rebound-but-ends-the-week-lower-stock-market-today"
     },
     {
-     "t": "Reuters (vía BNN Bloomberg): el Nasdaq apunta al alza mientras los chips recortan pérdidas; persiste el temor a un alza de tasas",
-     "u": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/06/nasdaq-eyes-higher-open-as-chips-pare-losses-rate-hike-fears-linger/"
+     "t": "Yahoo Finance: el Nasdaq y el S&P 500 rebotan; el Dow baja al cierre de una semana dura para la IA",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
     }
    ]
   }

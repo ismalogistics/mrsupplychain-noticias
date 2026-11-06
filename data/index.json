@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-06-cierre-global",
+   "fecha": "2026-11-06",
+   "momento": "cierre",
+   "mercado": "global",
+   "titular_es": "Wall Street cierra su peor semana desde junio: el S&P 500 pierde 2.7% y el Nasdaq 3.4% pese al rebote del viernes",
+   "titular_en": "Wall Street ends its worst week since June: the S&P 500 loses 2.7% and the Nasdaq 3.4% despite Friday's rebound",
+   "titular_pt": "Wall Street fecha sua pior semana desde junho: o S&P 500 perde 2,7% e o Nasdaq 3,4% apesar da alta de sexta"
+  },
+  {
+   "id": "2026-11-06-cierre-latam",
+   "fecha": "2026-11-06",
+   "momento": "cierre",
+   "mercado": "latam",
+   "titular_es": "La región termina la semana con rebote: Chile +2% e Ibovespa +1.1% a media sesión del viernes",
+   "titular_en": "The region ends the week with a rebound: Chile +2% and Ibovespa +1.1% at Friday midday",
+   "titular_pt": "A região termina a semana em alta: Chile +2% e Ibovespa +1,1% no meio da sessão de sexta"
+  },
+  {
+   "id": "2026-11-06-cierre-mexico",
+   "fecha": "2026-11-06",
+   "momento": "cierre",
+   "mercado": "mexico",
+   "titular_es": "El peso cierra la semana en 18.62 (+0.9%) pese al recorte de Banxico; el IPC va por su mejor nivel desde febrero",
+   "titular_en": "The peso ends the week at 18.62 (+0.9%) despite Banxico's cut; the IPC heads for its best level since February",
+   "titular_pt": "O peso fecha a semana a 18,62 (+0,9%) apesar do corte do Banxico; o IPC caminha para seu melhor nível desde fevereiro"
+  },
+  {
    "id": "2026-11-06-mediodia-global",
    "fecha": "2026-11-06",
    "momento": "mediodia",

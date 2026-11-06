@@ -1,0 +1,92 @@
+{
+ "id": "2026-11-06-cierre-global",
+ "fecha": "2026-11-06",
+ "momento": "cierre",
+ "mercado": "global",
+ "hora": "15:40 CDMX",
+ "fin_de_semana": true,
+ "es": {
+  "titular": "Wall Street cierra su peor semana desde junio: el S&P 500 pierde 2.7% y el Nasdaq 3.4% pese al rebote del viernes",
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El viernes el Nasdaq subió 1.1% (24,579) y el S&P 500 0.3% (7,376), mientras el Dow bajó 0.5% (51,285). En la semana, el S&P 500 perdió 2.7%, el Nasdaq 3.4% (sigue en corrección) y el Dow 0.9%: la peor semana del S&P y del Nasdaq desde junio. Airbnb subió 11.7%, Micron 5.1% y Nvidia 2.8%; DraftKings cayó 21.3%. El WTI rondaba 91 dólares, el Brent quedó debajo de 100 y el Treasury a 10 años en 4.86%."
+   },
+   {
+    "t": "Por qué",
+    "x": "La semana pasó del rally por el Congreso demócrata (miércoles) a la venta de IA por el temor a frenos a los centros de datos (jueves: S&P 500 −4.4%, semiconductores −12%). El viernes, el empleo de octubre (165 mil plazas, desempleo de 4.1%) sostuvo la demanda pero elevó a 77% la probabilidad de un alza de la Fed en diciembre (71% hace una semana)."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Asia abrirá el lunes con la atención en la recuperación de los chips. En Los Ángeles–Long Beach el plazo de huelga de los vigilantes vence esta medianoche (hora del Pacífico); el lunes sabremos si hubo acuerdo, nueva prórroga o paro."
+   },
+   {
+    "t": "La próxima semana",
+    "x": "Martes 10: inflación (CPI) de octubre en EE. UU., 7:30 CDMX; se espera que baje por la gasolina más barata y sólo habrá cifras mensuales por el cierre de gobierno de 2025. Jueves 12: venta de casas usadas, 9:00 CDMX. Viernes 13: precios al productor (PPI) de octubre, 7:30 CDMX. Reporta CoreWeave. En México, el lunes 16 cierran la BMV y los bancos por el Día de la Revolución."
+   }
+  ],
+  "scm": "Para el fin de semana: 1) confirma el lunes temprano con tu agente aduanal el estatus de Long Beach antes de programar retiros; 2) con el crudo cerca de 90 dólares, pide a tus transportistas el recargo de combustible de la próxima semana por escrito; 3) un CPI alto el martes reforzaría el alza de la Fed y el dólar fuerte, así que no dejes para después del martes las coberturas de pagos en dólares de noviembre; 4) no firmes contratos grandes de memoria o servidores hasta que los chips se estabilicen."
+ },
+ "en": {
+  "titular": "Wall Street ends its worst week since June: the S&P 500 loses 2.7% and the Nasdaq 3.4% despite Friday's rebound",
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "On Friday the Nasdaq rose 1.1% (24,579) and the S&P 500 0.3% (7,376), while the Dow fell 0.5% (51,285). For the week, the S&P 500 lost 2.7%, the Nasdaq 3.4% (still in a correction) and the Dow 0.9%: the worst week for the S&P and Nasdaq since June. Airbnb rose 11.7%, Micron 5.1% and Nvidia 2.8%; DraftKings fell 21.3%. WTI was around $91, Brent stayed below $100 and the 10-year Treasury was at 4.86%."
+   },
+   {
+    "t": "Why",
+    "x": "The week went from a rally on the Democratic Congress (Wednesday) to an AI selloff on fears of curbs on data centers (Thursday: S&P 500 −4.4%, semiconductors −12%). On Friday, October jobs (165,000, 4.1% unemployment) supported demand but raised the odds of a December Fed hike to 77% (71% a week earlier)."
+   },
+   {
+    "t": "What to expect",
+    "x": "Asia will open Monday focused on the chip recovery. In Los Angeles–Long Beach the watchmen strike deadline expires at midnight tonight (Pacific time); on Monday we'll know whether there was a deal, another extension or a walkout."
+   },
+   {
+    "t": "Next week",
+    "x": "Tuesday 10: US October CPI, 8:30 a.m. ET; it is expected to ease on cheaper gasoline, and only monthly figures will be published because of the 2025 government shutdown. Thursday 12: existing home sales, 10:00 a.m. ET. Friday 13: October PPI, 8:30 a.m. ET. CoreWeave reports. In Mexico, the BMV and banks close on Monday the 16th for Revolution Day."
+   }
+  ],
+  "scm": "For the weekend: 1) confirm Long Beach's status with your customs broker early Monday before scheduling pickups; 2) with crude near $90, ask carriers for next week's fuel surcharge in writing; 3) a hot CPI on Tuesday would reinforce the Fed hike and the strong dollar, so don't leave November dollar hedges until after Tuesday; 4) don't sign large memory or server contracts until chips stabilize."
+ },
+ "pt": {
+  "titular": "Wall Street fecha sua pior semana desde junho: o S&P 500 perde 2,7% e o Nasdaq 3,4% apesar da alta de sexta",
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "Na sexta o Nasdaq subiu 1,1% (24.579) e o S&P 500 0,3% (7.376), enquanto o Dow caiu 0,5% (51.285). Na semana, o S&P 500 perdeu 2,7%, o Nasdaq 3,4% (segue em correção) e o Dow 0,9%: a pior semana do S&P e do Nasdaq desde junho. A Airbnb subiu 11,7%, a Micron 5,1% e a Nvidia 2,8%; a DraftKings caiu 21,3%. O WTI rondava 91 dólares, o Brent ficou abaixo de 100 e o título de 10 anos do Tesouro em 4,86%."
+   },
+   {
+    "t": "Por quê",
+    "x": "A semana passou da alta pelo Congresso democrata (quarta) à venda de IA pelo temor de freios aos data centers (quinta: S&P 500 −4,4%, semicondutores −12%). Na sexta, o emprego de outubro (165 mil vagas, desemprego de 4,1%) sustentou a demanda, mas elevou para 77% a probabilidade de alta do Fed em dezembro (71% uma semana antes)."
+   },
+   {
+    "t": "O que se espera",
+    "x": "A Ásia vai abrir na segunda com a atenção na recuperação dos chips. Em Los Angeles–Long Beach o prazo da greve dos vigilantes vence nesta meia-noite (horário do Pacífico); na segunda saberemos se houve acordo, nova prorrogação ou paralisação."
+   },
+   {
+    "t": "A próxima semana",
+    "x": "Terça 10: inflação (CPI) de outubro nos EUA, 7h30 (Cidade do México); espera-se queda pela gasolina mais barata e só haverá números mensais pelo fechamento do governo de 2025. Quinta 12: venda de imóveis usados, 9h. Sexta 13: preços ao produtor (PPI) de outubro, 7h30. A CoreWeave divulga resultados. No México, na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução."
+   }
+  ],
+  "scm": "Para o fim de semana: 1) confirme na segunda cedo com seu despachante o status de Long Beach antes de programar retiradas; 2) com o petróleo perto de 90 dólares, peça às transportadoras a sobretaxa de combustível da próxima semana por escrito; 3) um CPI alto na terça reforçaria a alta do Fed e o dólar forte, então não deixe para depois de terça as proteções de pagamentos em dólares de novembro; 4) não assine contratos grandes de memória ou servidores até os chips se estabilizarem."
+ },
+ "fuentes": [
+  {
+   "t": "Kiplinger: el Nasdaq sube 264 puntos con el rebote de tecnología, pero cierra la semana a la baja",
+   "u": "https://www.kiplinger.com/investing/stocks/nasdaq-adds-264-points-in-tech-rebound-but-ends-the-week-lower-stock-market-today"
+  },
+  {
+   "t": "Yahoo Finance: el Nasdaq y el S&P 500 rebotan; el Dow baja al cierre de una semana dura para la IA",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
+  },
+  {
+   "t": "FinancialJuice: indicadores de la semana del 9 al 13 de noviembre (EE. UU.)",
+   "u": "https://features.financialjuice.com/2026/11/06/week-ahead-economic-indicators-9th-13th-november-us/"
+  },
+  {
+   "t": "Patch: la huelga en el puerto de Long Beach se aplaza otra vez; vence a la medianoche",
+   "u": "https://patch.com/california/longbeach-ca/long-beach-port-strike-delayed-again-midnight-deadline-looms"
+  }
+ ]
+}

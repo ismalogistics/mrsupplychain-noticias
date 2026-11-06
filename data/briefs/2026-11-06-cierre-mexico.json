@@ -1,0 +1,88 @@
+{
+ "id": "2026-11-06-cierre-mexico",
+ "fecha": "2026-11-06",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "15:40 CDMX",
+ "fin_de_semana": true,
+ "es": {
+  "titular": "El peso cierra la semana en 18.62 (+0.9%) pese al recorte de Banxico; el IPC va por su mejor nivel desde febrero",
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El peso cerró en 18.62 por dólar, 0.71% mejor que el jueves (18.76) y 0.89% mejor en la semana. El S&P/BMV IPC subía 0.42% a media sesión (cerca de 71,383) y apuntaba a una ganancia semanal de 2.3% con cuatro días al alza; no confirmé su cierre."
+   },
+   {
+    "t": "Por qué",
+    "x": "El peso se sacudió el recorte sorpresa de Banxico a 6.25% del jueves gracias al dólar débil frente a emergentes después de la elección en EE. UU. y a la menor tensión comercial que espera el mercado con el Congreso demócrata. En la BMV subieron Alsea, Genomma Lab y Peñoles; bajaron Coca-Cola Femsa y Femsa."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "El peso abrirá el lunes atento al CPI de EE. UU. del martes: un dato alto reforzaría el alza de la Fed y presionaría al peso, porque el diferencial de tasas ya está en mínimos."
+   },
+   {
+    "t": "La próxima semana",
+    "x": "Martes 10: CPI de octubre en EE. UU. (7:30 CDMX). Viernes 13: PPI de EE. UU. (7:30 CDMX). Lunes 16: la BMV y los bancos cierran por el Día de la Revolución. Banxico ya anticipó una pausa prolongada con la tasa en 6.25%."
+   }
+  ],
+  "scm": "Para el fin de semana: el peso en 18.62 es un buen nivel; programa para el lunes la cobertura de una parte de tus pagos en dólares de noviembre y diciembre, y adelanta los pagos del lunes 16, cuando cierran los bancos. Revisa si tus proveedores en EE. UU. dependen de Long Beach."
+ },
+ "en": {
+  "titular": "The peso ends the week at 18.62 (+0.9%) despite Banxico's cut; the IPC heads for its best level since February",
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The peso closed at 18.62 per dollar, 0.71% stronger than Thursday (18.76) and 0.89% stronger on the week. The S&P/BMV IPC was up 0.42% at midday (near 71,383) and headed for a 2.3% weekly gain with four straight up days; I could not confirm its close."
+   },
+   {
+    "t": "Why",
+    "x": "The peso shook off Banxico's surprise cut to 6.25% on Thursday thanks to dollar weakness against emerging markets after the US election and the lower trade tension the market expects with the Democratic Congress. On the BMV, Alsea, Genomma Lab and Peñoles rose; Coca-Cola Femsa and Femsa fell."
+   },
+   {
+    "t": "What to expect",
+    "x": "The peso will open Monday watching Tuesday's US CPI: a hot reading would reinforce a Fed hike and pressure the peso, since the rate gap is already at lows."
+   },
+   {
+    "t": "Next week",
+    "x": "Tuesday 10: US October CPI (8:30 a.m. ET). Friday 13: US PPI (8:30 a.m. ET). Monday 16: the BMV and banks close for Revolution Day. Banxico already signaled a prolonged pause with the rate at 6.25%."
+   }
+  ],
+  "scm": "For the weekend: the peso at 18.62 is a good level; schedule for Monday a hedge on part of your November and December dollar payments, and pay early for Monday the 16th, when banks close. Check whether your US suppliers depend on Long Beach."
+ },
+ "pt": {
+  "titular": "O peso fecha a semana a 18,62 (+0,9%) apesar do corte do Banxico; o IPC caminha para seu melhor nível desde fevereiro",
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O peso fechou a 18,62 por dólar, 0,71% melhor que na quinta (18,76) e 0,89% melhor na semana. O S&P/BMV IPC subia 0,42% no meio da sessão (perto de 71.383) e apontava para ganho semanal de 2,3% com quatro dias de alta; não confirmei seu fechamento."
+   },
+   {
+    "t": "Por quê",
+    "x": "O peso se livrou do corte surpresa do Banxico para 6,25% de quinta graças ao dólar fraco frente a emergentes após a eleição nos EUA e à menor tensão comercial que o mercado espera com o Congresso democrata. Na BMV subiram Alsea, Genomma Lab e Peñoles; caíram Coca-Cola Femsa e Femsa."
+   },
+   {
+    "t": "O que se espera",
+    "x": "O peso vai abrir na segunda atento ao CPI dos EUA de terça: um dado alto reforçaria a alta do Fed e pressionaria o peso, porque o diferencial de juros já está em mínimas."
+   },
+   {
+    "t": "A próxima semana",
+    "x": "Terça 10: CPI de outubro nos EUA (7h30, Cidade do México). Sexta 13: PPI dos EUA (7h30). Segunda 16: a BMV e os bancos fecham pelo Dia da Revolução. O Banxico já sinalizou pausa prolongada com a taxa em 6,25%."
+   }
+  ],
+  "scm": "Para o fim de semana: o peso a 18,62 é um bom nível; programe para segunda a proteção de parte dos seus pagamentos em dólares de novembro e dezembro, e antecipe os pagamentos da segunda, dia 16, quando os bancos fecham. Verifique se seus fornecedores nos EUA dependem de Long Beach."
+ },
+ "fuentes": [
+  {
+   "t": "Infobae: precio del dólar, cotización de cierre del 6 de noviembre",
+   "u": "https://www.infobae.com/mexico/2026/11/06/precio-del-dolar-hoy-en-mexico-cotizacion-de-cierre-del-6-de-noviembre/"
+  },
+  {
+   "t": "Investing.com México: la BMV retoma el alza; ¿logrará el IPC una semana perfecta?",
+   "u": "https://mx.investing.com/news/stock-market-news/bolsa-mexicana-de-valores-hoy-retoma-el-alza-lograra-el-ipc-una-semana-perfecta-3838641"
+  },
+  {
+   "t": "FinancialJuice: indicadores de la semana del 9 al 13 de noviembre (EE. UU.)",
+   "u": "https://features.financialjuice.com/2026/11/06/week-ahead-economic-indicators-9th-13th-november-us/"
+  }
+ ]
+}

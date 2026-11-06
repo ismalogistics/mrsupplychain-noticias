@@ -1,0 +1,80 @@
+{
+ "id": "2026-11-06-cierre-latam",
+ "fecha": "2026-11-06",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "15:40 CDMX",
+ "fin_de_semana": true,
+ "es": {
+  "titular": "La región termina la semana con rebote: Chile +2% e Ibovespa +1.1% a media sesión del viernes",
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "Con datos de las 9:25 CDMX del viernes, el fondo de Chile subía 2.03%, el Ibovespa 1.13% (168,071.09), el fondo de Argentina 0.28% y el S&P/TSX de Canadá 0.21% (35,678.71); Perú estaba plano. El jueves la región había caído entre 0.8% (Brasil) y 5.7% (Argentina) con la venta global de IA."
+   },
+   {
+    "t": "Por qué",
+    "x": "El rebote de los chips en Wall Street y el dato de empleo en EE. UU. calmaron la aversión al riesgo del jueves."
+   },
+   {
+    "t": "Monedas",
+    "x": "Por la mañana el peso chileno estaba en 976.6 por dólar, el colombiano en 3,229.8, el real en 5.48, el sol en 3.42 y el peso argentino en 1,544.5. El peso mexicano cerró en 18.62."
+   },
+   {
+    "t": "La próxima semana",
+    "x": "El CPI de EE. UU. (martes 10) marcará el tono para las monedas de la región. Brasil mantiene la Selic en 13.75% tras la pausa del Copom y México la tasa en 6.25%."
+   }
+  ],
+  "scm": "Para el fin de semana: si tienes cobros en monedas locales, conviértelos el lunes antes del CPI del martes; con Long Beach en riesgo, revisa si tus rutas a Chile, Perú o Colombia pasan por esos puertos."
+ },
+ "en": {
+  "titular": "The region ends the week with a rebound: Chile +2% and Ibovespa +1.1% at Friday midday",
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "With data as of 9:25 a.m. Mexico City time on Friday, the Chile fund was up 2.03%, the Ibovespa 1.13% (168,071.09), the Argentina fund 0.28% and Canada's S&P/TSX 0.21% (35,678.71); Peru was flat. On Thursday the region had fallen between 0.8% (Brazil) and 5.7% (Argentina) on the global AI selloff."
+   },
+   {
+    "t": "Why",
+    "x": "The chip rebound on Wall Street and US jobs data calmed Thursday's risk aversion."
+   },
+   {
+    "t": "Currencies",
+    "x": "In the morning the Chilean peso was at 976.6 per dollar, the Colombian peso at 3,229.8, the real at 5.48, the sol at 3.42 and the Argentine peso at 1,544.5. The Mexican peso closed at 18.62."
+   },
+   {
+    "t": "Next week",
+    "x": "US CPI (Tuesday 10) will set the tone for the region's currencies. Brazil keeps the Selic at 13.75% after the Copom pause and Mexico its rate at 6.25%."
+   }
+  ],
+  "scm": "For the weekend: if you have local-currency receivables, convert them Monday before Tuesday's CPI; with Long Beach at risk, check whether your routes to Chile, Peru or Colombia go through those ports."
+ },
+ "pt": {
+  "titular": "A região termina a semana em alta: Chile +2% e Ibovespa +1,1% no meio da sessão de sexta",
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "Com dados das 9h25 (Cidade do México) de sexta, o fundo do Chile subia 2,03%, o Ibovespa 1,13% (168.071,09), o fundo da Argentina 0,28% e o S&P/TSX do Canadá 0,21% (35.678,71); o Peru estava estável. Na quinta a região havia caído entre 0,8% (Brasil) e 5,7% (Argentina) com a venda global de IA."
+   },
+   {
+    "t": "Por quê",
+    "x": "A recuperação dos chips em Wall Street e o dado de emprego dos EUA acalmaram a aversão ao risco de quinta."
+   },
+   {
+    "t": "Moedas",
+    "x": "De manhã o peso chileno estava em 976,6 por dólar, o colombiano em 3.229,8, o dólar em R$ 5,48, o sol em 3,42 e o peso argentino em 1.544,5. O peso mexicano fechou a 18,62."
+   },
+   {
+    "t": "A próxima semana",
+    "x": "O CPI dos EUA (terça 10) vai marcar o tom para as moedas da região. O Brasil mantém a Selic em 13,75% após a pausa do Copom e o México a taxa em 6,25%."
+   }
+  ],
+  "scm": "Para o fim de semana: se você tem recebíveis em moeda local, converta na segunda antes do CPI de terça; com Long Beach em risco, verifique se suas rotas para Chile, Peru ou Colômbia passam por esses portos."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}
