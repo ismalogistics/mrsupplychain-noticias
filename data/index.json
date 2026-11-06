@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-06-apertura-global",
+   "fecha": "2026-11-06",
+   "momento": "apertura",
+   "mercado": "global",
+   "titular_es": "EE. UU. crea 165 mil empleos, casi tres veces lo esperado; el Nasdaq rebota 1.7%, pero crece la apuesta por un alza de la Fed en diciembre",
+   "titular_en": "The US adds 165,000 jobs, nearly three times expectations; the Nasdaq rebounds 1.7%, but bets on a December Fed hike grow",
+   "titular_pt": "Os EUA criam 165 mil empregos, quase três vezes o esperado; o Nasdaq sobe 1,7%, mas cresce a aposta em alta do Fed em dezembro"
+  },
+  {
+   "id": "2026-11-06-apertura-latam",
+   "fecha": "2026-11-06",
+   "momento": "apertura",
+   "mercado": "latam",
+   "titular_es": "Las monedas de la región se debilitan con el dólar fuerte; las bolsas vienen de fuertes caídas el jueves",
+   "titular_en": "The region's currencies weaken on a strong dollar; stocks come off steep losses Thursday",
+   "titular_pt": "As moedas da região se enfraquecem com o dólar forte; as bolsas vêm de quedas fortes na quinta"
+  },
+  {
+   "id": "2026-11-06-apertura-mexico",
+   "fecha": "2026-11-06",
+   "momento": "apertura",
+   "mercado": "mexico",
+   "titular_es": "El peso se recupera a 18.69 tras el golpe de Banxico, pese al dólar fuerte por el empleo de EE. UU.",
+   "titular_en": "The peso recovers to 18.69 after Banxico's blow, despite a strong dollar on US jobs",
+   "titular_pt": "O peso se recupera a 18,69 após o golpe do Banxico, apesar do dólar forte pelo emprego dos EUA"
+  },
+  {
    "id": "2026-11-06-premercado-global",
    "fecha": "2026-11-06",
    "momento": "premercado",

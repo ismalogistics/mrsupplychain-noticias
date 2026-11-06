@@ -1,0 +1,83 @@
+{
+ "id": "2026-11-06-apertura-global",
+ "fecha": "2026-11-06",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:00 CDMX",
+ "es": {
+  "titular": "EE. UU. crea 165 mil empleos, casi tres veces lo esperado; el Nasdaq rebota 1.7%, pero crece la apuesta por un alza de la Fed en diciembre",
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 7:30 CDMX el empleo de octubre sorprendió: 165 mil plazas contra 65 mil esperadas, desempleo de 4.1% (4.2% antes) y septiembre revisado a 60 mil desde 29 mil; los salarios suben 3.1% anual. La probabilidad de un alza de la Fed en diciembre subió a 78% desde 70%. A las 8:45 CDMX el Nasdaq subía 1.7% y el S&P 500 0.6%, mientras el Dow bajaba 0.6%. Rebotaban Nvidia (+4.2%) y AMD, Intel, Broadcom y Micron (+5% a 9%); Airbnb subía 13.9% por sus resultados y Atlassian caía 15.9%. El Treasury a 10 años subía a 4.87%, el de 2 años a 4.52% y el índice dólar 0.7% a 102.22."
+   },
+   {
+    "t": "Asia y Europa",
+    "x": "El Nikkei cerró en 57,434.77 (−5.96%), 9% abajo de su cierre del 2 de noviembre; Corea del Sur y Taiwán abrieron con caídas de más de 8% y recuperaron una parte. No encontré cifras verificadas de Europa a esta hora."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "A las 9:00 CDMX sale la confianza del consumidor de la Universidad de Michigan (se espera 47.3). El S&P 500 va camino a su peor semana desde marzo de 2025 y el sector energía a una caída semanal de más de 11%. En Los Ángeles–Long Beach el plazo de huelga vence a la medianoche (hora del Pacífico)."
+   }
+  ],
+  "scm": "El empleo fuerte sostiene la demanda de consumo en EE. UU., pero acerca un alza de tasas en diciembre: no recortes pronósticos de demanda y asume que el costo de financiar inventario no bajará este año. Retira hoy de Long Beach los contenedores ya liberados."
+ },
+ "en": {
+  "titular": "The US adds 165,000 jobs, nearly three times expectations; the Nasdaq rebounds 1.7%, but bets on a December Fed hike grow",
+  "bloques": [
+   {
+    "t": "Opening",
+    "x": "At 8:30 a.m. ET October jobs surprised: 165,000 jobs versus 65,000 expected, unemployment at 4.1% (4.2% before) and September revised to 60,000 from 29,000; wages are up 3.1% year over year. The probability of a December Fed hike rose to 78% from 70%. At 9:45 a.m. ET the Nasdaq was up 1.7% and the S&P 500 0.6%, while the Dow fell 0.6%. Nvidia (+4.2%) and AMD, Intel, Broadcom and Micron (+5% to 9%) rebounded; Airbnb rose 13.9% on its results and Atlassian fell 15.9%. The 10-year Treasury rose to 4.87%, the 2-year to 4.52% and the dollar index 0.7% to 102.22."
+   },
+   {
+    "t": "Asia and Europe",
+    "x": "The Nikkei closed at 57,434.77 (−5.96%), 9% below its Nov. 2 close; South Korea and Taiwan opened down more than 8% and recovered part. I could not find verified European figures at this hour."
+   },
+   {
+    "t": "What to expect today",
+    "x": "At 10:00 a.m. ET the University of Michigan consumer sentiment index comes out (47.3 expected). The S&P 500 is on track for its worst week since March 2025 and the energy sector for a weekly drop of more than 11%. In Los Angeles–Long Beach the strike deadline expires at midnight (Pacific time)."
+   }
+  ],
+  "scm": "Strong jobs support US consumer demand but bring a December rate hike closer: don't cut demand forecasts and assume inventory financing costs won't fall this year. Pick up released containers from Long Beach today."
+ },
+ "pt": {
+  "titular": "Os EUA criam 165 mil empregos, quase três vezes o esperado; o Nasdaq sobe 1,7%, mas cresce a aposta em alta do Fed em dezembro",
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 7h30 (Cidade do México) o emprego de outubro surpreendeu: 165 mil vagas contra 65 mil esperadas, desemprego de 4,1% (4,2% antes) e setembro revisado para 60 mil de 29 mil; os salários sobem 3,1% em 12 meses. A probabilidade de alta do Fed em dezembro subiu para 78% de 70%. Às 8h45 o Nasdaq subia 1,7% e o S&P 500 0,6%, enquanto o Dow caía 0,6%. Nvidia (+4,2%) e AMD, Intel, Broadcom e Micron (+5% a 9%) se recuperavam; a Airbnb subia 13,9% pelos resultados e a Atlassian caía 15,9%. O título de 10 anos do Tesouro subia para 4,87%, o de 2 anos para 4,52% e o índice do dólar 0,7% para 102,22."
+   },
+   {
+    "t": "Ásia e Europa",
+    "x": "O Nikkei fechou em 57.434,77 (−5,96%), 9% abaixo do fechamento de 2 de novembro; Coreia do Sul e Taiwan abriram com quedas de mais de 8% e recuperaram uma parte. Não encontrei números verificados da Europa a esta hora."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Às 9h (Cidade do México) sai a confiança do consumidor da Universidade de Michigan (espera-se 47,3). O S&P 500 caminha para sua pior semana desde março de 2025 e o setor de energia para uma queda semanal de mais de 11%. Em Los Angeles–Long Beach o prazo da greve vence à meia-noite (horário do Pacífico)."
+   }
+  ],
+  "scm": "O emprego forte sustenta a demanda de consumo nos EUA, mas aproxima uma alta de juros em dezembro: não corte previsões de demanda e assuma que o custo de financiar estoque não cairá neste ano. Retire hoje de Long Beach os contêineres já liberados."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters (vía AOL): un reporte de empleo fuerte sube los rendimientos",
+   "u": "https://www.aol.com/articles/strong-october-jobs-report-sends-134858000.html"
+  },
+  {
+   "t": "Reuters (vía BNN Bloomberg): el Nasdaq apunta al alza mientras los chips recortan pérdidas; persiste el temor a un alza de tasas",
+   "u": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/06/nasdaq-eyes-higher-open-as-chips-pare-losses-rate-hike-fears-linger/"
+  },
+  {
+   "t": "Yahoo Finance: el Nasdaq rebota tras la venta brutal; EE. UU. suma 165 mil empleos",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
+  },
+  {
+   "t": "FinChannel: el Nikkei pierde 5.96%",
+   "u": "https://finchannel.com/asia-stock-selloff-deepens-as-nikkei-loses-5-96-after-wall-street-rout/140765/american-business-trends/markets/2026/11/"
+  },
+  {
+   "t": "FreightWaves: la huelga en Los Ángeles y Long Beach se aplaza otra vez",
+   "u": "https://www.freightwaves.com/news/port-strike-delayed-again-at-los-angeles-long-beach-ports"
+  }
+ ]
+}

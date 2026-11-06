@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-11-05T21:39:50Z",
- "fecha": "2026-11-05",
+ "actualizado": "2026-11-06T15:13:31Z",
+ "fecha": "2026-11-06",
  "titular": {
-  "es": "La IA arrastra a los chips y a la energía para centros de datos, el Brent vuelve cerca de 100 y Long Beach llega al viernes",
-  "en": "AI drags chips and data center power, Brent returns near 100 and Long Beach heads into Friday",
-  "pt": "A IA arrasta os chips e a energia para data centers, o Brent volta para perto de 100 e Long Beach chega à sexta"
+  "es": "Empleo fuerte, rebote de chips y el plazo de Long Beach vence hoy: el cierre de una semana volátil",
+  "en": "Strong jobs, a chip rebound and the Long Beach deadline today: the end of a volatile week",
+  "pt": "Emprego forte, recuperação dos chips e o prazo de Long Beach hoje: o fim de uma semana volátil"
  },
  "items": [
   {
    "id": "semis",
-   "dir": "down",
+   "dir": "up",
    "calor": 3,
    "mx": true,
    "latam": false,
@@ -17,59 +17,94 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Los semiconductores pierden más de 10%: AMD −14% y Nvidia −8% en el peor día del S&P 500 desde abril de 2025",
-    "en": "Semiconductors lose more than 10%: AMD −14% and Nvidia −8% on the S&P 500's worst day since April 2025",
-    "pt": "Os semicondutores perdem mais de 10%: AMD −14% e Nvidia −8% no pior dia do S&P 500 desde abril de 2025"
+    "es": "Los chips rebotan tras el desplome: Nvidia +4.2% y AMD, Intel, Broadcom y Micron entre +5% y +9%",
+    "en": "Chips rebound after the plunge: Nvidia +4.2% and AMD, Intel, Broadcom and Micron between +5% and +9%",
+    "pt": "Os chips se recuperam após o tombo: Nvidia +4,2% e AMD, Intel, Broadcom e Micron entre +5% e +9%"
    },
    "x": {
-    "es": "El índice de semiconductores de Filadelfia caía 10.65% cerca del cierre. AMD perdió 14%, Nvidia 8% y CoreWeave 8.9%; la venta empezó con Qualcomm y el KOSPI (−5.3%) y llevó al Nasdaq a corrección.",
-    "en": "The Philadelphia Semiconductor Index was down 10.65% near the close. AMD lost 14%, Nvidia 8% and CoreWeave 8.9%; the selloff began with Qualcomm and the KOSPI (−5.3%) and pushed the Nasdaq into a correction.",
-    "pt": "O índice de semicondutores da Filadélfia caía 10,65% perto do fechamento. A AMD perdeu 14%, a Nvidia 8% e a CoreWeave 8,9%; a venda começou com a Qualcomm e o KOSPI (−5,3%) e levou o Nasdaq à correção."
+    "es": "Después de la peor caída del Nasdaq en 19 meses, los chips recuperan parte de lo perdido. En Japón, el Nikkei cerró −5.96% y Corea y Taiwán abrieron con caídas de más de 8% antes de recuperar una parte.",
+    "en": "After the Nasdaq's worst drop in 19 months, chips recover part of their losses. In Japan, the Nikkei closed −5.96% and Korea and Taiwan opened down more than 8% before recovering part.",
+    "pt": "Depois da pior queda do Nasdaq em 19 meses, os chips recuperam parte das perdas. No Japão, o Nikkei fechou −5,96% e Coreia e Taiwan abriram com quedas de mais de 8% antes de recuperar uma parte."
    },
    "scm": {
-    "es": "Pospón compras grandes de memoria, discos y servidores y pide cotizaciones nuevas la próxima semana.",
-    "en": "Postpone large memory, drive and server purchases and ask for new quotes next week.",
-    "pt": "Adie compras grandes de memória, discos e servidores e peça novas cotações na próxima semana."
+    "es": "La volatilidad sigue alta: no cierres contratos grandes de memoria o servidores hasta que los precios se estabilicen.",
+    "en": "Volatility remains high: hold off on large memory or server contracts until prices stabilize.",
+    "pt": "A volatilidade segue alta: não feche contratos grandes de memória ou servidores até os preços se estabilizarem."
    },
    "fuentes": [
     {
-     "t": "AP (vía WCAX): una venta brutal de acciones de IA sacude a Wall Street y el S&P 500 cae 4.4%",
-     "u": "https://www.wcax.com/2026/11/05/brutal-sell-off-ai-stocks-sends-wall-street-reeling-sp-500-tumbles-44/"
+     "t": "Reuters (vía BNN Bloomberg): el Nasdaq apunta al alza mientras los chips recortan pérdidas; persiste el temor a un alza de tasas",
+     "u": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/06/nasdaq-eyes-higher-open-as-chips-pare-losses-rate-hike-fears-linger/"
     },
     {
-     "t": "Yahoo Finance: el Dow se desploma 1,800 puntos y el Nasdaq entra en corrección",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+     "t": "FinChannel: el Nikkei pierde 5.96%",
+     "u": "https://finchannel.com/asia-stock-selloff-deepens-as-nikkei-loses-5-96-after-wall-street-rout/140765/american-business-trends/markets/2026/11/"
     }
    ]
   },
   {
-   "id": "software",
-   "dir": "down",
+   "id": "electricidad",
+   "dir": "mixed",
    "calor": 3,
    "mx": false,
    "latam": false,
-   "es": "Software, nube e IA",
-   "en": "Software, cloud and AI",
-   "pt": "Software, nuvem e IA",
+   "es": "Electricidad y centros de datos",
+   "en": "Power and data centers",
+   "pt": "Eletricidade e data centers",
    "titular": {
-    "es": "La infraestructura de IA se hunde: Dell −10.5%, CoreWeave −9.3% y Nebius −13.4%",
-    "en": "AI infrastructure sinks: Dell −10.5%, CoreWeave −9.3% and Nebius −13.4%",
-    "pt": "A infraestrutura de IA afunda: Dell −10,5%, CoreWeave −9,3% e Nebius −13,4%"
+    "es": "Goldman: 45% de la capacidad planeada de centros de datos en EE. UU. podría enfrentar restricciones de nuevos gobernadores",
+    "en": "Goldman: 45% of planned US data center capacity could face restrictions from new governors",
+    "pt": "Goldman: 45% da capacidade planejada de data centers nos EUA pode enfrentar restrições de novos governadores"
    },
    "x": {
-    "es": "Los inversores temen más escrutinio a la construcción acelerada de centros de datos, sobre todo en estados donde crece la oposición local. IREN, Hut 8 y Applied Digital caían entre 6% y 11%.",
-    "en": "Investors fear more scrutiny of the rapid data center buildout, especially in states where local opposition is growing. IREN, Hut 8 and Applied Digital fell between 6% and 11%.",
-    "pt": "Os investidores temem mais escrutínio sobre a construção acelerada de data centers, sobretudo em estados onde cresce a oposição local. IREN, Hut 8 e Applied Digital caíam entre 6% e 11%."
+    "es": "Goldman Sachs estima que cerca de 45% de la capacidad planeada de centros de datos en EE. UU. está en estados con gobernadores recién electos que podrían restringirla. GE Vernova y Constellation Energy recuperan parte de sus pérdidas del jueves.",
+    "en": "Goldman Sachs estimates about 45% of planned US data center capacity is in states with newly elected governors who could restrict it. GE Vernova and Constellation Energy recover part of Thursday's losses.",
+    "pt": "O Goldman Sachs estima que cerca de 45% da capacidade planejada de data centers nos EUA está em estados com governadores recém-eleitos que poderiam restringi-la. GE Vernova e Constellation Energy recuperam parte das perdas de quinta."
    },
    "scm": {
-    "es": "Si dependes de capacidad de nube o servidores nuevos para proyectos de IA, pide a tu proveedor fechas firmes de entrega.",
-    "en": "If you rely on new cloud capacity or servers for AI projects, ask your provider for firm delivery dates.",
-    "pt": "Se você depende de nova capacidade de nuvem ou servidores para projetos de IA, peça ao fornecedor datas firmes de entrega."
+    "es": "Si tu plan de IA depende de capacidad nueva de nube en EE. UU., pide a tu proveedor la región y la fecha de entrega por escrito.",
+    "en": "If your AI plan depends on new US cloud capacity, get the region and delivery date in writing from your provider.",
+    "pt": "Se o seu plano de IA depende de nova capacidade de nuvem nos EUA, peça ao fornecedor a região e a data de entrega por escrito."
    },
    "fuentes": [
     {
-     "t": "Reuters (vía Investing.com): Wall Street cae y el Nasdaq va hacia una corrección por las pérdidas en tecnología",
-     "u": "https://www.investing.com/news/stock-market-news/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-on-chip-weakness-5003237"
+     "t": "Yahoo Finance: el Nasdaq rebota tras la venta brutal; EE. UU. suma 165 mil empleos",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
+    },
+    {
+     "t": "Reuters (vía BNN Bloomberg): el Nasdaq apunta al alza mientras los chips recortan pérdidas; persiste el temor a un alza de tasas",
+     "u": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/06/nasdaq-eyes-higher-open-as-chips-pare-losses-rate-hike-fears-linger/"
+    }
+   ]
+  },
+  {
+   "id": "laboral",
+   "dir": "up",
+   "calor": 2,
+   "mx": true,
+   "latam": false,
+   "es": "Mercado laboral",
+   "en": "Labor market",
+   "pt": "Mercado de trabalho",
+   "titular": {
+    "es": "EE. UU. crea 165 mil empleos en octubre y el desempleo baja a 4.1%",
+    "en": "The US adds 165,000 jobs in October and unemployment falls to 4.1%",
+    "pt": "Os EUA criam 165 mil empregos em outubro e o desemprego cai para 4,1%"
+   },
+   "x": {
+    "es": "El dato casi triplicó las 65 mil plazas esperadas y septiembre se revisó a 60 mil; servicios profesionales sumaron 70 mil. El empleo involuntario de medio tiempo subió 339 mil y los salarios crecen 3.1% anual.",
+    "en": "The figure nearly tripled the 65,000 expected and September was revised to 60,000; professional services added 70,000. Involuntary part-time work rose 339,000 and wages are up 3.1% year over year.",
+    "pt": "O dado quase triplicou as 65 mil vagas esperadas e setembro foi revisado para 60 mil; serviços profissionais somaram 70 mil. O trabalho involuntário de meio período subiu 339 mil e os salários crescem 3,1% em 12 meses."
+   },
+   "scm": {
+    "es": "Un mercado laboral firme sostiene la demanda de temporada alta: confirma capacidad de almacén y transporte para diciembre.",
+    "en": "A firm labor market supports peak-season demand: confirm warehouse and transport capacity for December.",
+    "pt": "Um mercado de trabalho firme sustenta a demanda da alta temporada: confirme capacidade de armazém e transporte para dezembro."
+   },
+   "fuentes": [
+    {
+     "t": "Reuters (vía AOL): un reporte de empleo fuerte sube los rendimientos",
+     "u": "https://www.aol.com/articles/strong-october-jobs-report-sends-134858000.html"
     }
    ]
   },
@@ -83,30 +118,30 @@
    "en": "Maritime and ports",
    "pt": "Marítimo e portos",
    "titular": {
-    "es": "Long Beach gana tiempo: los vigilantes extienden su plazo de huelga hasta la medianoche del viernes",
-    "en": "Long Beach buys time: the watchmen extend their strike deadline to midnight Friday",
-    "pt": "Long Beach ganha tempo: os vigilantes estendem o prazo da greve até a meia-noite de sexta"
+    "es": "Hoy vence el plazo en Los Ángeles–Long Beach: medianoche del viernes, hora del Pacífico",
+    "en": "The Los Angeles–Long Beach deadline expires today: midnight Friday, Pacific time",
+    "pt": "Hoje vence o prazo em Los Angeles–Long Beach: meia-noite de sexta, horário do Pacífico"
    },
    "x": {
-    "es": "Unos 250 vigilantes de ILWU Local 26 siguen negociando con la PMA con mediación federal; las pláticas continúan el viernes. Sus terminales mueven más de la mitad de la carga combinada de Los Ángeles y Long Beach, y la PMA advirtió que estibadores y oficinistas se sumarían a una huelga.",
-    "en": "About 250 ILWU Local 26 watchmen keep negotiating with the PMA under federal mediation; talks continue Friday. Their terminals handle more than half of the combined Los Angeles–Long Beach cargo, and the PMA warned that dockworkers and clerks would join a strike.",
-    "pt": "Cerca de 250 vigilantes do ILWU Local 26 seguem negociando com a PMA com mediação federal; as conversas continuam na sexta. Seus terminais movimentam mais da metade da carga combinada de Los Angeles e Long Beach, e a PMA alertou que estivadores e escriturários adeririam a uma greve."
+    "es": "Los 250 vigilantes de ILWU Local 26 negocian hoy con la PMA con mediación federal. Una huelga afectaría terminales que mueven cerca de 85% de la carga de Long Beach y 33% de la de Los Ángeles, y los estibadores podrían respetar los piquetes.",
+    "en": "The 250 ILWU Local 26 watchmen negotiate with the PMA today under federal mediation. A strike would affect terminals handling about 85% of Long Beach cargo and 33% of Los Angeles cargo, and dockworkers could honor picket lines.",
+    "pt": "Os 250 vigilantes do ILWU Local 26 negociam hoje com a PMA com mediação federal. Uma greve afetaria terminais que movimentam cerca de 85% da carga de Long Beach e 33% da de Los Angeles, e os estivadores poderiam respeitar os piquetes."
    },
    "scm": {
-    "es": "Mantén listo el desvío a otros puertos y retira antes del viernes los contenedores que ya estén liberados.",
-    "en": "Keep the diversion to other ports ready and pick up released containers before Friday.",
-    "pt": "Mantenha pronto o desvio para outros portos e retire antes de sexta os contêineres já liberados."
+    "es": "Retira hoy los contenedores liberados y ten listo el desvío a Oakland o Seattle-Tacoma para los buques de la próxima semana.",
+    "en": "Pick up released containers today and have the diversion to Oakland or Seattle-Tacoma ready for next week's vessels.",
+    "pt": "Retire hoje os contêineres liberados e deixe pronto o desvio para Oakland ou Seattle-Tacoma para os navios da próxima semana."
    },
    "fuentes": [
     {
-     "t": "Insurance Journal: el riesgo de huelga en el puerto de LA se pasa al viernes",
-     "u": "https://www.insurancejournal.com/news/west/2026/11/05/891694.htm"
+     "t": "FreightWaves: la huelga en Los Ángeles y Long Beach se aplaza otra vez",
+     "u": "https://www.freightwaves.com/news/port-strike-delayed-again-at-los-angeles-long-beach-ports"
     }
    ]
   },
   {
    "id": "energia",
-   "dir": "up",
+   "dir": "down",
    "calor": 2,
    "mx": true,
    "latam": true,
@@ -114,160 +149,59 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El Brent sube 3.9% a 98.29 dólares y borra parte del desplome del miércoles",
-    "en": "Brent rises 3.9% to $98.29 and erases part of Wednesday's plunge",
-    "pt": "O Brent sobe 3,9% para 98,29 dólares e apaga parte do tombo de quarta"
+    "es": "El sector energía va a una caída semanal de más de 11%; el crudo queda debajo de 100 dólares",
+    "en": "The energy sector heads for a weekly drop of more than 11%; crude stays below $100",
+    "pt": "O setor de energia caminha para uma queda semanal de mais de 11%; o petróleo fica abaixo de 100 dólares"
    },
    "x": {
-    "es": "El crudo recuperó parte de su caída de casi 9% del miércoles; la guerra con Irán mantiene la incertidumbre. GE Vernova cayó 6.9% por el temor a menos centros de datos. El Banco de Inglaterra subió su tasa a 4% por la inflación de energía.",
-    "en": "Crude recovered part of Wednesday's nearly 9% drop; the Iran war keeps uncertainty high. GE Vernova fell 6.9% on fears of fewer data centers. The Bank of England raised its rate to 4% on energy inflation.",
-    "pt": "O petróleo recuperou parte da queda de quase 9% de quarta; a guerra com o Irã mantém a incerteza. A GE Vernova caiu 6,9% pelo temor de menos data centers. O Banco da Inglaterra subiu sua taxa para 4% pela inflação de energia."
+    "es": "Después de la volatilidad de la semana (−9% el miércoles y rebote el jueves), el Brent y el WTI quedan debajo de 100 dólares; el WTI estaba en 89.38 en la madrugada. El mercado vigila Medio Oriente por un posible repunte del conflicto.",
+    "en": "After the week's volatility (−9% Wednesday and a rebound Thursday), Brent and WTI stay below $100; WTI was at $89.38 overnight. The market watches the Middle East for possible renewed escalation.",
+    "pt": "Depois da volatilidade da semana (−9% na quarta e alta na quinta), o Brent e o WTI ficam abaixo de 100 dólares; o WTI estava em 89,38 na madrugada. O mercado acompanha o Oriente Médio por uma possível nova escalada."
    },
    "scm": {
-    "es": "Mantén el recargo de combustible con ajuste semanal: el crudo puede moverse varios dólares en un día.",
-    "en": "Keep the fuel surcharge on weekly adjustment: crude can move several dollars in a day.",
-    "pt": "Mantenha a sobretaxa de combustível com ajuste semanal: o petróleo pode se mover vários dólares em um dia."
+    "es": "Mantén el recargo de combustible con ajuste semanal: el crudo se movió más de 8 dólares esta semana.",
+    "en": "Keep the fuel surcharge on weekly adjustment: crude moved more than $8 this week.",
+    "pt": "Mantenha a sobretaxa de combustível com ajuste semanal: o petróleo se moveu mais de 8 dólares nesta semana."
    },
    "fuentes": [
     {
-     "t": "AP (vía WCAX): una venta brutal de acciones de IA sacude a Wall Street y el S&P 500 cae 4.4%",
-     "u": "https://www.wcax.com/2026/11/05/brutal-sell-off-ai-stocks-sends-wall-street-reeling-sp-500-tumbles-44/"
+     "t": "Reuters (vía BNN Bloomberg): el Nasdaq apunta al alza mientras los chips recortan pérdidas; persiste el temor a un alza de tasas",
+     "u": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/06/nasdaq-eyes-higher-open-as-chips-pare-losses-rate-hike-fears-linger/"
+    },
+    {
+     "t": "Yahoo Finance: el Nasdaq rebota tras la venta brutal; EE. UU. suma 165 mil empleos",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
     }
    ]
   },
   {
-   "id": "naviera",
+   "id": "software",
    "dir": "down",
    "calor": 2,
    "mx": false,
    "latam": false,
-   "es": "Navieras",
-   "en": "Shipping lines",
-   "pt": "Armadores",
+   "es": "Software, nube e IA",
+   "en": "Software, cloud and AI",
+   "pt": "Software, nuvem e IA",
    "titular": {
-    "es": "Maersk cae en Europa por resultados del tercer trimestre por debajo de lo esperado",
-    "en": "Maersk falls in Europe on third-quarter results below expectations",
-    "pt": "A Maersk cai na Europa por resultados do terceiro trimestre abaixo do esperado"
+    "es": "Atlassian cae 15.9% mientras el software sigue bajo presión por la disrupción de la IA",
+    "en": "Atlassian falls 15.9% as software stays under pressure from AI disruption",
+    "pt": "A Atlassian cai 15,9% enquanto o software segue pressionado pela disrupção da IA"
    },
    "x": {
-    "es": "La naviera danesa reportó utilidades del tercer trimestre por debajo de lo que esperaba el mercado y estuvo entre las acciones que más bajaron en Europa.",
-    "en": "The Danish carrier reported third-quarter earnings below market expectations and was among the biggest decliners in Europe.",
-    "pt": "A armadora dinamarquesa reportou lucros do terceiro trimestre abaixo do esperado pelo mercado e esteve entre as ações que mais caíram na Europa."
+    "es": "El fabricante de Jira y Confluence era de las acciones con peor desempeño a la apertura, en contraste con el rebote de los chips.",
+    "en": "The maker of Jira and Confluence was among the worst performers at the open, in contrast with the chip rebound.",
+    "pt": "A fabricante do Jira e do Confluence estava entre as ações de pior desempenho na abertura, em contraste com a recuperação dos chips."
    },
    "scm": {
-    "es": "Resultados débiles de navieras suelen anticipar ajustes de capacidad: revisa tus contratos de flete marítimo para 2027 antes de que cambien las tarifas.",
-    "en": "Weak carrier results often foreshadow capacity adjustments: review your 2027 ocean freight contracts before rates change.",
-    "pt": "Resultados fracos de armadores costumam antecipar ajustes de capacidade: revise seus contratos de frete marítimo para 2027 antes que as tarifas mudem."
+    "es": "Si renuevas licencias de software este trimestre, negocia: la presión sobre los proveedores de SaaS abre espacio a descuentos.",
+    "en": "If you renew software licenses this quarter, negotiate: pressure on SaaS vendors opens room for discounts.",
+    "pt": "Se você renova licenças de software neste trimestre, negocie: a pressão sobre fornecedores de SaaS abre espaço para descontos."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: las bolsas europeas suben con la baja de la energía y el alza del Banco de Inglaterra",
-     "u": "https://uk.finance.yahoo.com/news/european-shares-advance-energy-prices-141314797.html"
-    }
-   ]
-  },
-  {
-   "id": "aereo",
-   "dir": "up",
-   "calor": 1,
-   "mx": false,
-   "latam": false,
-   "es": "Carga aérea y aerolíneas",
-   "en": "Air cargo and airlines",
-   "pt": "Carga aérea e aéreas",
-   "titular": {
-    "es": "Air France-KLM supera lo esperado en su utilidad operativa del tercer trimestre",
-    "en": "Air France-KLM beats expectations on third-quarter operating profit",
-    "pt": "A Air France-KLM supera o esperado no lucro operacional do terceiro trimestre"
-   },
-   "x": {
-    "es": "La aerolínea europea subió en bolsa después de reportar una utilidad operativa del tercer trimestre mejor a lo esperado, pese al alza del combustible por la guerra con Irán.",
-    "en": "The European airline rose after reporting better-than-expected third-quarter operating profit, despite higher fuel costs from the Iran war.",
-    "pt": "A aérea europeia subiu na bolsa após reportar lucro operacional do terceiro trimestre melhor que o esperado, apesar da alta do combustível pela guerra com o Irã."
-   },
-   "scm": {
-    "es": "Si mueves carga aérea a Europa, cotiza ahora para diciembre: las aerolíneas con buenos resultados tienden a sostener tarifas en temporada alta.",
-    "en": "If you ship air cargo to Europe, quote December now: airlines with strong results tend to hold rates in peak season.",
-    "pt": "Se você envia carga aérea para a Europa, cote agora para dezembro: aéreas com bons resultados tendem a manter tarifas na alta temporada."
-   },
-   "fuentes": [
-    {
-     "t": "Yahoo Finance: las bolsas europeas suben con la baja de la energía y el alza del Banco de Inglaterra",
-     "u": "https://uk.finance.yahoo.com/news/european-shares-advance-energy-prices-141314797.html"
-    }
-   ]
-  },
-  {
-   "id": "mineria",
-   "dir": "up",
-   "calor": 2,
-   "mx": true,
-   "latam": true,
-   "es": "Minería y metales",
-   "en": "Mining and metals",
-   "pt": "Mineração e metais",
-   "titular": {
-    "es": "ArcelorMittal supera lo esperado y el oro sube 1.2% a 4,123 dólares",
-    "en": "ArcelorMittal beats expectations and gold rises 1.2% to $4,123",
-    "pt": "A ArcelorMittal supera o esperado e o ouro sobe 1,2% para 4.123 dólares"
-   },
-   "x": {
-    "es": "La acerera reportó una utilidad básica mejor a lo pronosticado y subió en Europa. El oro sigue al alza con el dólar débil. En la BMV, Peñoles subía y Grupo México bajaba.",
-    "en": "The steelmaker reported better-than-forecast core profit and rose in Europe. Gold keeps rising on the weak dollar. On the BMV, Peñoles rose and Grupo México fell.",
-    "pt": "A siderúrgica reportou lucro básico melhor que o previsto e subiu na Europa. O ouro segue em alta com o dólar fraco. Na BMV, a Peñoles subia e o Grupo México caía."
-   },
-   "scm": {
-    "es": "Si compras acero, pide cotizaciones nuevas: los buenos resultados de las acereras sugieren que no habrá descuentos pronto.",
-    "en": "If you buy steel, ask for new quotes: steelmakers' strong results suggest no discounts soon.",
-    "pt": "Se você compra aço, peça novas cotações: os bons resultados das siderúrgicas sugerem que não haverá descontos tão cedo."
-   },
-   "fuentes": [
-    {
-     "t": "Yahoo Finance: las bolsas europeas suben con la baja de la energía y el alza del Banco de Inglaterra",
-     "u": "https://uk.finance.yahoo.com/news/european-shares-advance-energy-prices-141314797.html"
-    },
-    {
-     "t": "Yahoo Finance: mercados en vivo, jueves 5 de noviembre de 2026",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html"
-    },
-    {
-     "t": "Investing.com México: la ola azul tumba acciones de chips; BMV al alza",
-     "u": "https://mx.investing.com/news/stock-market-news/sp-500-dow-jones-ipc-la-ola-azul-en-eeuu-tumba-acciones-de-chips-bmv-al-alza-3835644"
-    }
-   ]
-  },
-  {
-   "id": "manufactura",
-   "dir": "down",
-   "calor": 1,
-   "mx": false,
-   "latam": false,
-   "es": "Manufactura e industria",
-   "en": "Manufacturing and industry",
-   "pt": "Manufatura e indústria",
-   "titular": {
-    "es": "Rheinmetall recorta otra vez su pronóstico de 2026 por retrasos en su programa de vehículos Boxer",
-    "en": "Rheinmetall cuts its 2026 outlook again on delays in its Boxer vehicle program",
-    "pt": "A Rheinmetall corta de novo sua projeção de 2026 por atrasos no programa de veículos Boxer"
-   },
-   "x": {
-    "es": "El fabricante alemán de defensa redujo su pronóstico por segunda vez en tres meses y cayó en bolsa. En EE. UU., la productividad del tercer trimestre creció 3.6% y los costos laborales unitarios bajaron 0.7%.",
-    "en": "The German defense maker cut its outlook for the second time in three months and fell. In the US, third-quarter productivity grew 3.6% and unit labor costs fell 0.7%.",
-    "pt": "A fabricante alemã de defesa reduziu sua projeção pela segunda vez em três meses e caiu na bolsa. Nos EUA, a produtividade do terceiro trimestre cresceu 3,6% e os custos unitários do trabalho caíram 0,7%."
-   },
-   "scm": {
-    "es": "Los retrasos de programas grandes suelen venir de proveedores: revisa la salud de tus proveedores críticos de componentes de largo plazo.",
-    "en": "Delays in large programs often come from suppliers: review the health of your critical long-lead component suppliers.",
-    "pt": "Atrasos em grandes programas costumam vir de fornecedores: revise a saúde dos seus fornecedores críticos de componentes de longo prazo."
-   },
-   "fuentes": [
-    {
-     "t": "Yahoo Finance: las bolsas europeas suben con la baja de la energía y el alza del Banco de Inglaterra",
-     "u": "https://uk.finance.yahoo.com/news/european-shares-advance-energy-prices-141314797.html"
-    },
-    {
-     "t": "Daily Markets Pulse: los chips caen, el petróleo rebota y el Banco de Inglaterra sube tasas",
-     "u": "https://dailymarketspulse.substack.com/p/chip-stocks-slide-as-oil-rebounds"
+     "t": "Reuters (vía BNN Bloomberg): el Nasdaq apunta al alza mientras los chips recortan pérdidas; persiste el temor a un alza de tasas",
+     "u": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/06/nasdaq-eyes-higher-open-as-chips-pare-losses-rate-hike-fears-linger/"
     }
    ]
   },
@@ -275,34 +209,34 @@
    "id": "retail",
    "dir": "up",
    "calor": 1,
-   "mx": true,
+   "mx": false,
    "latam": false,
    "es": "Retail y consumo",
    "en": "Retail and consumer",
    "pt": "Varejo e consumo",
    "titular": {
-    "es": "Consumo resiste: Next mantiene su guía con ventas a precio completo +8.1% y en la BMV suben Walmex y Bimbo",
-    "en": "Consumer holds up: Next keeps guidance with full-price sales +8.1% and Walmex and Bimbo rise on the BMV",
-    "pt": "O consumo resiste: a Next mantém a projeção com vendas a preço cheio +8,1% e na BMV sobem Walmex e Bimbo"
+    "es": "Airbnb sube 13.9%: supera lo esperado, eleva su guía y dice que \"volvió al modo de crecimiento\"",
+    "en": "Airbnb rises 13.9%: beats expectations, raises guidance and says it is \"back in growth mode\"",
+    "pt": "A Airbnb sobe 13,9%: supera o esperado, eleva a projeção e diz que \"voltou ao modo de crescimento\""
    },
    "x": {
-    "es": "La minorista británica Next mantuvo su pronóstico de utilidades tras un alza de 8.1% en ventas a precio completo, y Diageo reportó un alza inesperada en ventas. En México, Walmex y Bimbo subían cerca de 2% y 2.7%.",
-    "en": "UK retailer Next kept its profit outlook after an 8.1% rise in full-price sales, and Diageo reported an unexpected sales increase. In Mexico, Walmex and Bimbo rose about 2% and 2.7%.",
-    "pt": "A varejista britânica Next manteve sua projeção de lucro após alta de 8,1% nas vendas a preço cheio, e a Diageo reportou alta inesperada nas vendas. No México, Walmex e Bimbo subiam cerca de 2% e 2,7%."
+    "es": "Airbnb ganó 3.16 dólares por acción (se esperaban 2.85) e ingresos de 4,870 millones de dólares (+19%), y subió su guía anual. Es una señal de que el gasto en viajes y servicios sigue firme.",
+    "en": "Airbnb earned $3.16 per share ($2.85 expected) on revenue of $4.87 billion (+19%) and raised its full-year outlook. It signals that travel and services spending remains firm.",
+    "pt": "A Airbnb lucrou 3,16 dólares por ação (esperava-se 2,85) com receita de 4,87 bilhões de dólares (+19%) e elevou sua projeção anual. É sinal de que o gasto com viagens e serviços segue firme."
    },
    "scm": {
-    "es": "La demanda de consumo sigue firme antes de la temporada alta: confirma capacidad de última milla para diciembre.",
-    "en": "Consumer demand stays firm ahead of peak season: confirm last-mile capacity for December.",
-    "pt": "A demanda de consumo segue firme antes da alta temporada: confirme a capacidade de última milha para dezembro."
+    "es": "El consumo de servicios en EE. UU. sigue fuerte: no recortes inventarios de temporada alta.",
+    "en": "US services spending stays strong: don't cut peak-season inventory.",
+    "pt": "O consumo de serviços nos EUA segue forte: não corte estoques da alta temporada."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: las bolsas europeas suben con la baja de la energía y el alza del Banco de Inglaterra",
-     "u": "https://uk.finance.yahoo.com/news/european-shares-advance-energy-prices-141314797.html"
+     "t": "Yahoo Finance: el Nasdaq rebota tras la venta brutal; EE. UU. suma 165 mil empleos",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
     },
     {
-     "t": "Investing.com México: la ola azul tumba acciones de chips; BMV al alza",
-     "u": "https://mx.investing.com/news/stock-market-news/sp-500-dow-jones-ipc-la-ola-azul-en-eeuu-tumba-acciones-de-chips-bmv-al-alza-3835644"
+     "t": "Reuters (vía BNN Bloomberg): el Nasdaq apunta al alza mientras los chips recortan pérdidas; persiste el temor a un alza de tasas",
+     "u": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/06/nasdaq-eyes-higher-open-as-chips-pare-losses-rate-hike-fears-linger/"
     }
    ]
   }

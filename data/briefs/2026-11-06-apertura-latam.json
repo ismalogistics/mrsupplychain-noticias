@@ -1,0 +1,71 @@
+{
+ "id": "2026-11-06-apertura-latam",
+ "fecha": "2026-11-06",
+ "momento": "apertura",
+ "mercado": "latam",
+ "hora": "09:00 CDMX",
+ "es": {
+  "titular": "Las monedas de la región se debilitan con el dólar fuerte; las bolsas vienen de fuertes caídas el jueves",
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "Con datos de las 5:10 CDMX, el peso chileno estaba en 980.1 por dólar, el colombiano en 3,237.9, el real en 5.49 y el sol en 3.44. Las bolsas de la región todavía muestran el cierre del jueves: Argentina −5.66%, Chile −3.25%, Perú −3.12%, S&P/TSX −2.03% (35,605.3) e Ibovespa −0.82% (166,192)."
+   },
+   {
+    "t": "Contexto",
+    "x": "El empleo fuerte en EE. UU. (165 mil plazas) sube al dólar 0.7% y la probabilidad de un alza de la Fed en diciembre a 78%, lo que presiona a las monedas emergentes. El rebote de los chips en Wall Street puede ayudar a las bolsas."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Cierre de semana con la región atenta a Wall Street. Brasil mantiene la Selic en 13.75% y México la tasa en 6.25%."
+   }
+  ],
+  "scm": "Con el dólar fuerte, conviene convertir pronto los cobros en monedas locales de la región; los pagos en esas monedas pueden esperar."
+ },
+ "en": {
+  "titular": "The region's currencies weaken on a strong dollar; stocks come off steep losses Thursday",
+  "bloques": [
+   {
+    "t": "Opening",
+    "x": "With data as of 5:10 a.m. Mexico City time, the Chilean peso was at 980.1 per dollar, the Colombian peso at 3,237.9, the real at 5.49 and the sol at 3.44. The region's exchanges still show Thursday's close: Argentina −5.66%, Chile −3.25%, Peru −3.12%, S&P/TSX −2.03% (35,605.3) and Ibovespa −0.82% (166,192)."
+   },
+   {
+    "t": "Context",
+    "x": "Strong US jobs (165,000) lift the dollar 0.7% and the odds of a December Fed hike to 78%, pressuring emerging-market currencies. The chip rebound on Wall Street may help stocks."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The week closes with the region watching Wall Street. Brazil keeps the Selic at 13.75% and Mexico its rate at 6.25%."
+   }
+  ],
+  "scm": "With a strong dollar, convert local-currency receivables in the region soon; payments in those currencies can wait."
+ },
+ "pt": {
+  "titular": "As moedas da região se enfraquecem com o dólar forte; as bolsas vêm de quedas fortes na quinta",
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Com dados das 5h10 (Cidade do México), o peso chileno estava em 980,1 por dólar, o colombiano em 3.237,9, o dólar em R$ 5,49 e o sol em 3,44. As bolsas da região ainda mostram o fechamento de quinta: Argentina −5,66%, Chile −3,25%, Peru −3,12%, S&P/TSX −2,03% (35.605,3) e Ibovespa −0,82% (166.192)."
+   },
+   {
+    "t": "Contexto",
+    "x": "O emprego forte nos EUA (165 mil vagas) eleva o dólar em 0,7% e a probabilidade de alta do Fed em dezembro para 78%, o que pressiona as moedas emergentes. A recuperação dos chips em Wall Street pode ajudar as bolsas."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Fim de semana com a região atenta a Wall Street. O Brasil mantém a Selic em 13,75% e o México a taxa em 6,25%."
+   }
+  ],
+  "scm": "Com o dólar forte, convém converter logo os recebíveis em moedas locais da região; os pagamentos nessas moedas podem esperar."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "Reuters (vía AOL): un reporte de empleo fuerte sube los rendimientos",
+   "u": "https://www.aol.com/articles/strong-october-jobs-report-sends-134858000.html"
+  }
+ ]
+}
