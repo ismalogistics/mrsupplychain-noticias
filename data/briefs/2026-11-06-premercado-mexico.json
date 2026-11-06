@@ -1,0 +1,76 @@
+{
+ "id": "2026-11-06-premercado-mexico",
+ "fecha": "2026-11-06",
+ "momento": "premercado",
+ "mercado": "mexico",
+ "hora": "05:15 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El peso amanece en 18.74 tras el recorte sorpresa de Banxico; FIX de 18.7147",
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El jueves Banxico bajó su tasa de 6.50% a 6.25% (votación 3-2) y anticipó una pausa prolongada; el peso cerró en 18.75 (−1%) tras tocar 18.96. En la madrugada cotizaba en 18.74. El FIX publicado hoy es de 18.7147."
+   },
+   {
+    "t": "Contexto",
+    "x": "Con el recorte, el diferencial de tasas con EE. UU. queda en un mínimo histórico, lo que deja al peso más expuesto a la aversión al riesgo. La venta de IA en Asia (Nikkei −6%) y el empleo de EE. UU. marcarán la mañana."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "A las 7:30 CDMX sale el empleo de octubre en EE. UU., el dato que más puede mover al peso hoy. En México no hay datos relevantes; el lunes 16 la BMV y los bancos cierran por el Día de la Revolución."
+   }
+  ],
+  "scm": "Con el peso en 18.74 y el empleo de EE. UU. a las 7:30, cubre antes del dato sólo lo urgente y el resto por tramos la próxima semana. Si pagas en dólares el lunes 16, adelanta el pago: ese día los bancos en México cierran."
+ },
+ "en": {
+  "titular": "The peso starts at 18.74 after Banxico's surprise cut; FIX at 18.7147",
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Thursday Banxico cut its rate from 6.50% to 6.25% (3–2 vote) and signaled a prolonged pause; the peso closed at 18.75 (−1%) after touching 18.96. Overnight it traded at 18.74. The FIX published today is 18.7147."
+   },
+   {
+    "t": "Context",
+    "x": "With the cut, the rate gap with the US is at a record low, leaving the peso more exposed to risk aversion. The AI selloff in Asia (Nikkei −6%) and the US jobs report will set the tone this morning."
+   },
+   {
+    "t": "What to expect today",
+    "x": "At 7:30 a.m. Mexico City time the US October jobs report comes out, the data point most likely to move the peso today. There is no major Mexican data; on Monday the 16th, the BMV and banks close for Revolution Day."
+   }
+  ],
+  "scm": "With the peso at 18.74 and US jobs at 7:30, hedge only what is urgent before the data and the rest in tranches next week. If you pay in dollars on Monday the 16th, pay early: banks in Mexico close that day."
+ },
+ "pt": {
+  "titular": "O peso amanhece a 18,74 após o corte surpresa do Banxico; FIX de 18,7147",
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na quinta o Banxico baixou sua taxa de 6,50% para 6,25% (votação de 3 a 2) e sinalizou pausa prolongada; o peso fechou a 18,75 (−1%) depois de tocar 18,96. Na madrugada era cotado a 18,74. O FIX publicado hoje é de 18,7147."
+   },
+   {
+    "t": "Contexto",
+    "x": "Com o corte, o diferencial de juros com os EUA fica em mínima histórica, o que deixa o peso mais exposto à aversão ao risco. A venda de IA na Ásia (Nikkei −6%) e o emprego dos EUA vão marcar a manhã."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Às 7h30 (Cidade do México) sai o emprego de outubro dos EUA, o dado que mais pode mexer com o peso hoje. No México não há dados relevantes; na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução."
+   }
+  ],
+  "scm": "Com o peso a 18,74 e o emprego dos EUA às 7h30, proteja antes do dado só o urgente e o resto em parcelas na próxima semana. Se você paga em dólares na segunda, dia 16, antecipe: nesse dia os bancos no México fecham."
+ },
+ "fuentes": [
+  {
+   "t": "N+: el peso se debilita; FIX publicado el 6 de noviembre",
+   "u": "https://www.nmas.com.mx/economia/dolar/como-esta-tipo-de-cambio-peso-dolar-estadounidense-mexico-viernes-6-noviembre-2026/"
+  },
+  {
+   "t": "El Financiero: Banxico sorprende y baja la tasa a 6.25%",
+   "u": "https://www.elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

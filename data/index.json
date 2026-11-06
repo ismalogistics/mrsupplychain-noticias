@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-06-premercado-global",
+   "fecha": "2026-11-06",
+   "momento": "premercado",
+   "mercado": "global",
+   "titular_es": "El Nikkei se desploma 6% tras la venta de IA; los futuros del Nasdaq rebotan antes del empleo de octubre",
+   "titular_en": "The Nikkei plunges 6% after the AI selloff; Nasdaq futures rebound ahead of October jobs",
+   "titular_pt": "O Nikkei despenca 6% após a venda de IA; os futuros do Nasdaq sobem antes do emprego de outubro"
+  },
+  {
+   "id": "2026-11-06-premercado-latam",
+   "fecha": "2026-11-06",
+   "momento": "premercado",
+   "mercado": "latam",
+   "titular_es": "La región cerró el jueves con fuertes caídas: Argentina −5.7%, Chile −3.3% y Perú −3.1%; hoy manda el empleo de EE. UU.",
+   "titular_en": "The region closed Thursday with steep losses: Argentina −5.7%, Chile −3.3% and Peru −3.1%; today US jobs lead",
+   "titular_pt": "A região fechou a quinta com quedas fortes: Argentina −5,7%, Chile −3,3% e Peru −3,1%; hoje manda o emprego dos EUA"
+  },
+  {
+   "id": "2026-11-06-premercado-mexico",
+   "fecha": "2026-11-06",
+   "momento": "premercado",
+   "mercado": "mexico",
+   "titular_es": "El peso amanece en 18.74 tras el recorte sorpresa de Banxico; FIX de 18.7147",
+   "titular_en": "The peso starts at 18.74 after Banxico's surprise cut; FIX at 18.7147",
+   "titular_pt": "O peso amanhece a 18,74 após o corte surpresa do Banxico; FIX de 18,7147"
+  },
+  {
    "id": "2026-11-05-cierre-global",
    "fecha": "2026-11-05",
    "momento": "cierre",
