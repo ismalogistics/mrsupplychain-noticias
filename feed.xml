@@ -7,7 +7,34 @@
   <description>Briefs diarios de mercados (premercado, apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
   <language>es-MX</language>
   <copyright>Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</copyright>
-  <lastBuildDate>Thu, 05 Nov 2026 15:40:00 -0600</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 05:15:00 -0600</lastBuildDate>
+  <item>
+    <title>El peso amanece en 18.74 tras el recorte sorpresa de Banxico; FIX de 18.7147</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-mexico/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-mexico/</guid>
+    <pubDate>Fri, 06 Nov 2026 05:15:00 -0600</pubDate>
+    <category>Premercado · México</category>
+    <description>El jueves Banxico bajó su tasa de 6.50% a 6.25% (votación 3-2) y anticipó una pausa prolongada; el peso cerró en 18.75 (−1%) tras tocar 18.96. En la madrugada cotizaba en 18.74. El FIX publicado hoy es de 18.7147. Con el recorte, el diferencial de tasas con EE. UU. queda en un mínimo histórico, lo que deja al peso más expuesto a la aversión al riesgo. La venta de IA en Asia (Nikkei −6%) y el empleo de EE. UU. marcarán la mañana. — Con el peso en 18.74 y el empleo de EE. UU. a las 7:30, cubre antes del dato sólo lo urgente y el resto por tramos la próxima semana. Si pagas en dólares el lunes 16, adelanta el pago: ese día los bancos en México cierran.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-mexico/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>La región cerró el jueves con fuertes caídas: Argentina −5.7%, Chile −3.3% y Perú −3.1%; hoy manda el empleo de EE. UU.</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-latam/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-latam/</guid>
+    <pubDate>Fri, 06 Nov 2026 05:15:00 -0600</pubDate>
+    <category>Premercado · LATAM</category>
+    <description>El jueves el fondo de Argentina cerró con −5.66%, el de Chile −3.25%, el de Perú −3.12%, el S&amp;P/TSX de Canadá −2.03% (35,605.27), el Ibovespa −0.82% (166,191.45) y el fondo de Colombia −0.88%, con la venta global de IA. En la madrugada el real estaba en 5.50 por dólar, el peso chileno en 977.7, el colombiano en 3,237.9, el sol en 3.44 y el peso argentino en 1,544.5. El Nikkei cayó 6% en Asia y los futuros de EE. UU. llegan mixtos. — Las monedas de la región están más débiles que a inicios de semana: si tienes cobros en monedas locales, conviértelos pronto; los pagos en esas monedas pueden esperar al lunes.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-latam/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>El Nikkei se desploma 6% tras la venta de IA; los futuros del Nasdaq rebotan antes del empleo de octubre</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-global/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-global/</guid>
+    <pubDate>Fri, 06 Nov 2026 05:15:00 -0600</pubDate>
+    <category>Premercado · Global</category>
+    <description>El jueves el S&amp;P 500 cayó 4.36%, su peor día desde abril de 2025, el Nasdaq 5.52% y el Dow 3.44% por el temor a que el Congreso demócrata frene los centros de datos de IA. Después del cierre, Airbnb superó lo esperado (utilidad de 3.16 dólares por acción e ingresos +19%) y subió su guía anual. En Los Ángeles–Long Beach el plazo de huelga de los vigilantes se extendió hasta la medianoche del viernes (hora del Pacífico). El Nikkei cerró en 57,434.77 (−5.96%), 9% abajo de su cierre del 2 de noviembre; Corea del Sur y Taiwán abrieron con caídas de más de 8% y recuperaron una parte. A las 4:35 CDMX los futuros del Nasdaq 100 subían 1.35%, los del S&amp;P 500 0.27% y los del Dow bajaban 0.82%. El WTI está en 89.38 dólares (−1.3%), el oro en 4,081.60 y el Treasury a 10 años en 4.84%. — Un empleo fuerte reviviría el temor a tasas altas y uno débil confirmaría la desaceleración: no ajustes pronósticos de demanda de EE. UU. hasta ver el dato. Long Beach tiene hasta la medianoche: retira hoy los contenedores ya liberados de las terminales en riesgo.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-global/og.png" type="image/png" length="0"/>
+  </item>
   <item>
     <title>Banxico sorprende con un recorte a 6.25% y el peso cierra en 18.75 (−1%); anticipa una pausa prolongada</title>
     <link>https://mrsupplychain.ai/noticias/brief/2026-11-05-cierre-mexico/</link>
@@ -340,33 +367,6 @@
     <category>Cierre · México</category>
     <description>El peso cerró en 18.57 por dólar, 1.19% mejor que el cierre del viernes (18.79), con datos de Dow Jones citados por Infobae, y suma dos días de ganancias. La BMV, los bancos y Banxico no operaron por Día de Muertos: el IPC sigue en 69,779.20 y el Bono M a 10 años en 9.31% (cierres del 30 de octubre), y no hubo FIX. El desplome del petróleo (WTI −7.4%) por la vía diplomática con Irán y un dólar más débil (índice en 101.61) impulsaron a las monedas emergentes. El peso sostuvo la ganancia aunque Wall Street terminó dividido. — El peso en 18.57 es la mejor ventana en semanas para cubrir pagos en dólares de noviembre: si no lo hiciste hoy, cubre una parte con la apertura del martes, antes de los resultados electorales, y deja el resto para después de Banxico. Las liquidaciones del martes usan el FIX de 18.7962.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-mexico/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Chile y Perú encabezan la región con alzas cercanas a 2% y Canadá sube 0.7%; Argentina cae y el real y el peso colombiano se debilitan</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-latam/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-latam/</guid>
-    <pubDate>Mon, 02 Nov 2026 15:20:00 -0600</pubDate>
-    <category>Cierre · LATAM</category>
-    <description>Con el último dato disponible (13:45 CDMX), el fondo de Chile (ECH) subió 1.9% y el de Perú 1.86%, el S&amp;P/TSX de Canadá 0.71% (35,872.12) y el fondo de Argentina (ARGT) bajó 1.16%. Brasil y Colombia no operaron por feriado: el Ibovespa sigue en 167,922 y el COLCAP con su cierre del 30 de octubre. Los mercados mineros se apoyaron en el cobre y en un dólar débil, mientras la caída del crudo (WTI −7.4%) pesa sobre los exportadores de petróleo de la región. — Programa para el martes, con liquidez, las liquidaciones en reales y pesos colombianos que quedaron pendientes. Si compras cobre o concentrados de Chile y Perú, fija el precio del primer trimestre antes de que el peso chileno y el cobre sigan subiendo.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-latam/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Wall Street cierra dividido: el Dow sube 0.45% por el crudo barato, pero la tecnología hunde al Nasdaq 1.1% antes de Apple</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-global/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-global/</guid>
-    <pubDate>Mon, 02 Nov 2026 15:20:00 -0600</pubDate>
-    <category>Cierre · Global</category>
-    <description>Cerca del cierre, el Dow ganó 0.45% (52,005.65), mientras el S&amp;P 500 perdió 0.50% (7,542.52) y el Nasdaq 1.11% (25,153.73): no se cumplió el rebote amplio que anticipaba la apertura. El WTI liquidó en 96.46 dólares (−7.4%) y el Brent en 104.77 (−7.6%); el Treasury a 10 años quedó en 4.89%, el oro subió 1.4% (3,953) y el VIX saltó 10% a 21.45. El crudo amplió su caída en la tarde después de que el presidente de Irán dijo tener más margen para negociar la paz, y Trump afirmó que Irán quiere un acuerdo. Eso favoreció a aerolíneas, consumo e industriales, pero la tecnología siguió vendiéndose por dudas sobre el gasto en IA: Intel cayó 8.9% y Marvell, Lumentum y Oracle siguieron a la baja. IDEXX subió 21.4% tras sus resultados. — El día confirma que el alivio en energía es real (WTI en 96 dólares), pero el mercado no lo lee como fin del riesgo: la volatilidad subió 10%. Pide a tus transportistas la revisión de recargos de combustible para la próxima quincena y no cierres compromisos de tarifa ni de inventario hasta conocer el resultado electoral.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-global/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>El rebote de Wall Street pierde fuerza: el Dow conserva 0.8% por el crudo barato, pero el Nasdaq ya baja antes de Apple</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-02-mediodia-global/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-02-mediodia-global/</guid>
-    <pubDate>Mon, 02 Nov 2026 13:08:00 -0600</pubDate>
-    <category>Mediodía · Global</category>
-    <description>El brief de apertura anticipaba un rebote moderado (S&amp;P 500 +0.45%) con el WTI abajo de 100 dólares por la vía diplomática con Irán. A las 11:07 CDMX el rebote incluso se había ampliado, con el Dow arriba de 1% y el S&amp;P 500 en +0.57%. A las 13:08 CDMX el Dow sube 0.83% (52,200.75), pero el S&amp;P 500 apenas avanza 0.08% (7,586.36) y el Nasdaq cae 0.16% (25,396.47). El WTI pierde 7.49% a 96.32 dólares y el Brent ronda 104 dólares, con baja de más de 7%. El Treasury a 10 años está en 4.89%, el oro sube 1.67% (3,964.20) y el Bitcoin cae 1.13% (76,807). — El mercado ya separa ganadores y perdedores del crudo barato: transportistas y aerolíneas suben, petroleras bajan. Usa el WTI en 96 dólares para negociar recargos de combustible en la siguiente revisión, pero no comprometas tarifas antes de las elecciones del martes ni del plazo de huelga en Los Ángeles–Long Beach del miércoles.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-02-mediodia-global/og.png" type="image/png" length="0"/>
   </item>
 </channel>
 </rss>
