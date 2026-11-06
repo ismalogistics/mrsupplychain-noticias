@@ -7,12 +7,39 @@
   <description>Briefs diarios de mercados (premercado, apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
   <language>es-MX</language>
   <copyright>Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</copyright>
-  <lastBuildDate>Fri, 06 Nov 2026 05:15:00 -0600</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 09:00:00 -0600</lastBuildDate>
+  <item>
+    <title>El peso se recupera a 18.69 tras el golpe de Banxico, pese al dólar fuerte por el empleo de EE. UU.</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-06-apertura-mexico/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-06-apertura-mexico/</guid>
+    <pubDate>Fri, 06 Nov 2026 09:00:00 -0600</pubDate>
+    <category>Apertura · México</category>
+    <description>A las 8:18 CDMX el peso cotizaba en 18.685 por dólar (+0.33%), con un rango de 18.592 a 18.881 en el día; el FIX publicado hoy fue de 18.7147. El jueves el IPC cerró en 71,087.56 (+0.38%), con Chedraui +7.4% y Bimbo +3.4%; no confirmé la apertura del IPC de hoy. El peso recupera parte de lo perdido tras el recorte de Banxico a 6.25%, aunque el índice dólar sube 0.7% por el empleo fuerte en EE. UU. El diferencial de tasas en mínimo histórico le quita atractivo al peso para el carry trade. — El peso en 18.69 es mejor nivel que el cierre de ayer (18.75): cubre una parte de tus pagos en dólares de noviembre hoy y el resto por tramos. Si tienes pagos el lunes 16, adelántalos: los bancos cierran.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-06-apertura-mexico/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>Las monedas de la región se debilitan con el dólar fuerte; las bolsas vienen de fuertes caídas el jueves</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-06-apertura-latam/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-06-apertura-latam/</guid>
+    <pubDate>Fri, 06 Nov 2026 09:00:00 -0600</pubDate>
+    <category>Apertura · LATAM</category>
+    <description>Con datos de las 5:10 CDMX, el peso chileno estaba en 980.1 por dólar, el colombiano en 3,237.9, el real en 5.49 y el sol en 3.44. Las bolsas de la región todavía muestran el cierre del jueves: Argentina −5.66%, Chile −3.25%, Perú −3.12%, S&amp;P/TSX −2.03% (35,605.3) e Ibovespa −0.82% (166,192). El empleo fuerte en EE. UU. (165 mil plazas) sube al dólar 0.7% y la probabilidad de un alza de la Fed en diciembre a 78%, lo que presiona a las monedas emergentes. El rebote de los chips en Wall Street puede ayudar a las bolsas. — Con el dólar fuerte, conviene convertir pronto los cobros en monedas locales de la región; los pagos en esas monedas pueden esperar.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-06-apertura-latam/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>EE. UU. crea 165 mil empleos, casi tres veces lo esperado; el Nasdaq rebota 1.7%, pero crece la apuesta por un alza de la Fed en diciembre</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-06-apertura-global/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-06-apertura-global/</guid>
+    <pubDate>Fri, 06 Nov 2026 09:00:00 -0600</pubDate>
+    <category>Apertura · Global</category>
+    <description>A las 7:30 CDMX el empleo de octubre sorprendió: 165 mil plazas contra 65 mil esperadas, desempleo de 4.1% (4.2% antes) y septiembre revisado a 60 mil desde 29 mil; los salarios suben 3.1% anual. La probabilidad de un alza de la Fed en diciembre subió a 78% desde 70%. A las 8:45 CDMX el Nasdaq subía 1.7% y el S&amp;P 500 0.6%, mientras el Dow bajaba 0.6%. Rebotaban Nvidia (+4.2%) y AMD, Intel, Broadcom y Micron (+5% a 9%); Airbnb subía 13.9% por sus resultados y Atlassian caía 15.9%. El Treasury a 10 años subía a 4.87%, el de 2 años a 4.52% y el índice dólar 0.7% a 102.22. El Nikkei cerró en 57,434.77 (−5.96%), 9% abajo de su cierre del 2 de noviembre; Corea del Sur y Taiwán abrieron con caídas de más de 8% y recuperaron una parte. No encontré cifras verificadas de Europa a esta hora. — El empleo fuerte sostiene la demanda de consumo en EE. UU., pero acerca un alza de tasas en diciembre: no recortes pronósticos de demanda y asume que el costo de financiar inventario no bajará este año. Retira hoy de Long Beach los contenedores ya liberados.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-06-apertura-global/og.png" type="image/png" length="0"/>
+  </item>
   <item>
     <title>El peso amanece en 18.74 tras el recorte sorpresa de Banxico; FIX de 18.7147</title>
     <link>https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-mexico/</link>
     <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-mexico/</guid>
-    <pubDate>Fri, 06 Nov 2026 05:15:00 -0600</pubDate>
+    <pubDate>Fri, 06 Nov 2026 05:10:00 -0600</pubDate>
     <category>Premercado · México</category>
     <description>El jueves Banxico bajó su tasa de 6.50% a 6.25% (votación 3-2) y anticipó una pausa prolongada; el peso cerró en 18.75 (−1%) tras tocar 18.96. En la madrugada cotizaba en 18.74. El FIX publicado hoy es de 18.7147. Con el recorte, el diferencial de tasas con EE. UU. queda en un mínimo histórico, lo que deja al peso más expuesto a la aversión al riesgo. La venta de IA en Asia (Nikkei −6%) y el empleo de EE. UU. marcarán la mañana. — Con el peso en 18.74 y el empleo de EE. UU. a las 7:30, cubre antes del dato sólo lo urgente y el resto por tramos la próxima semana. Si pagas en dólares el lunes 16, adelanta el pago: ese día los bancos en México cierran.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-mexico/og.png" type="image/png" length="0"/>
@@ -21,7 +48,7 @@
     <title>La región cerró el jueves con fuertes caídas: Argentina −5.7%, Chile −3.3% y Perú −3.1%; hoy manda el empleo de EE. UU.</title>
     <link>https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-latam/</link>
     <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-latam/</guid>
-    <pubDate>Fri, 06 Nov 2026 05:15:00 -0600</pubDate>
+    <pubDate>Fri, 06 Nov 2026 05:10:00 -0600</pubDate>
     <category>Premercado · LATAM</category>
     <description>El jueves el fondo de Argentina cerró con −5.66%, el de Chile −3.25%, el de Perú −3.12%, el S&amp;P/TSX de Canadá −2.03% (35,605.27), el Ibovespa −0.82% (166,191.45) y el fondo de Colombia −0.88%, con la venta global de IA. En la madrugada el real estaba en 5.50 por dólar, el peso chileno en 977.7, el colombiano en 3,237.9, el sol en 3.44 y el peso argentino en 1,544.5. El Nikkei cayó 6% en Asia y los futuros de EE. UU. llegan mixtos. — Las monedas de la región están más débiles que a inicios de semana: si tienes cobros en monedas locales, conviértelos pronto; los pagos en esas monedas pueden esperar al lunes.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-latam/og.png" type="image/png" length="0"/>
@@ -30,7 +57,7 @@
     <title>El Nikkei se desploma 6% tras la venta de IA; los futuros del Nasdaq rebotan antes del empleo de octubre</title>
     <link>https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-global/</link>
     <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-global/</guid>
-    <pubDate>Fri, 06 Nov 2026 05:15:00 -0600</pubDate>
+    <pubDate>Fri, 06 Nov 2026 05:10:00 -0600</pubDate>
     <category>Premercado · Global</category>
     <description>El jueves el S&amp;P 500 cayó 4.36%, su peor día desde abril de 2025, el Nasdaq 5.52% y el Dow 3.44% por el temor a que el Congreso demócrata frene los centros de datos de IA. Después del cierre, Airbnb superó lo esperado (utilidad de 3.16 dólares por acción e ingresos +19%) y subió su guía anual. En Los Ángeles–Long Beach el plazo de huelga de los vigilantes se extendió hasta la medianoche del viernes (hora del Pacífico). El Nikkei cerró en 57,434.77 (−5.96%), 9% abajo de su cierre del 2 de noviembre; Corea del Sur y Taiwán abrieron con caídas de más de 8% y recuperaron una parte. A las 4:35 CDMX los futuros del Nasdaq 100 subían 1.35%, los del S&amp;P 500 0.27% y los del Dow bajaban 0.82%. El WTI está en 89.38 dólares (−1.3%), el oro en 4,081.60 y el Treasury a 10 años en 4.84%. — Un empleo fuerte reviviría el temor a tasas altas y uno débil confirmaría la desaceleración: no ajustes pronósticos de demanda de EE. UU. hasta ver el dato. Long Beach tiene hasta la medianoche: retira hoy los contenedores ya liberados de las terminales en riesgo.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-global/og.png" type="image/png" length="0"/>
@@ -340,33 +367,6 @@
     <category>Premercado · México</category>
     <description>El peso se mantuvo en la noche cerca de 18.57 por dólar, el nivel con el que cerró el lunes (+1.19%). Para hoy rige un FIX de 18.7962 (el del 30 de octubre, publicado en el DOF), porque el lunes no hubo operación bancaria; en ventanilla los bancos cotizan alrededor de 18.50 a la compra y 18.95 a la venta. Afuera, el tono es más cauteloso que el lunes: Europa abre con caídas cercanas a 1%, Apple pesa en los futuros de EE. UU. y el crudo rebota casi 2% por los ataques en Qeshm, lo que puede frenar el impulso del peso. La BMV reabre después del feriado con el IPC en 69,779.20 (cierre del 30 de octubre) y tendrá que ajustarse al rebote de Wall Street del lunes y a la caída de la tecnología. — Si necesitas comprar dólares esta semana, el peso en 18.57 sigue en una buena zona: ejecuta una parte en la mañana, antes de que se conozcan resultados electorales, y programa el resto después de Banxico. Las liquidaciones de hoy usan el FIX de 18.7962.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-03-premercado-mexico/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Brasil, Colombia y México reabren tras los feriados; Chile y Perú vienen de subir cerca de 2% y el Copom decide mañana</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-03-premercado-latam/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-03-premercado-latam/</guid>
-    <pubDate>Tue, 03 Nov 2026 05:15:00 -0600</pubDate>
-    <category>Premercado · LATAM</category>
-    <description>El lunes, el fondo de Chile (ECH) cerró con alza de 2.1% y el de Perú 1.35%, el S&amp;P/TSX de Canadá subió 0.51% (35,801.09) y el fondo de Argentina (ARGT) cayó 1.28%. Brasil y Colombia no operaron: el Ibovespa sigue en 167,922 y el COLCAP en su cierre del 30 de octubre. El crudo rebota casi 2% (Brent 106.61) por los ataques en Qeshm, lo que da algo de alivio a los exportadores de petróleo de la región después de la caída de 7% del lunes. Europa y Asia abren con aversión al riesgo, y la elección de EE. UU. definirá el tono de las monedas emergentes. — Con Brasil y Colombia reabriendo, hoy es el día para liquidar las operaciones en reales y pesos colombianos que quedaron pendientes, de preferencia en la mañana, antes de los resultados electorales. Si compras cobre o concentrados de Chile y Perú, mantén la idea de fijar el precio del primer trimestre.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-03-premercado-latam/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Día de elección en EE. UU.: Apple cae 3% fuera de horario, el crudo rebota casi 2% por ataques en Ormuz y Europa abre a la baja</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-03-premercado-global/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-03-premercado-global/</guid>
-    <pubDate>Tue, 03 Nov 2026 05:15:00 -0600</pubDate>
-    <category>Premercado · Global</category>
-    <description>Apple cayó cerca de 3% después del cierre por una guía de margen más débil y la desaceleración en China, y Palantir alrededor de 3% pese a superar estimados. Reportes de ataques de EE. UU. en la isla iraní de Qeshm devolvieron prima de riesgo al crudo, aunque las pláticas mediadas por Qatar siguen. Kalshi daba el lunes 74% de probabilidad a un Senado demócrata y 94% a una Cámara demócrata. El KOSPI cayó cerca de 3.3% (5,666) arrastrado por tecnología; Hong Kong subió 0.57% y Shanghái bajó 0.82%, y Japón no operó por feriado. Europa abrió a la baja: Euro Stoxx −0.9% y DAX −0.9%. A las 4:40 CDMX, los futuros del Dow perdían 0.54%, los del S&amp;P 500 0.05% y los del Nasdaq 100 subían 0.40%. El Brent sube 1.76% a 106.61 dólares y el WTI 1.66% a 98.06; el Treasury a 10 años está en 4.91%. — Día de alta volatilidad: no cierres compras de combustible ni tarifas con base en el crudo de ayer, porque ya recuperó parte de la caída. Deja listas tus coberturas cambiarias para ejecutarlas después de los resultados y vigila el plazo de huelga en Los Ángeles–Long Beach de mañana.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-03-premercado-global/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>El peso cierra en 18.57 por dólar, su mejor nivel en semanas, en un día sin BMV ni FIX; mañana reabre el mercado local</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-mexico/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-mexico/</guid>
-    <pubDate>Mon, 02 Nov 2026 15:20:00 -0600</pubDate>
-    <category>Cierre · México</category>
-    <description>El peso cerró en 18.57 por dólar, 1.19% mejor que el cierre del viernes (18.79), con datos de Dow Jones citados por Infobae, y suma dos días de ganancias. La BMV, los bancos y Banxico no operaron por Día de Muertos: el IPC sigue en 69,779.20 y el Bono M a 10 años en 9.31% (cierres del 30 de octubre), y no hubo FIX. El desplome del petróleo (WTI −7.4%) por la vía diplomática con Irán y un dólar más débil (índice en 101.61) impulsaron a las monedas emergentes. El peso sostuvo la ganancia aunque Wall Street terminó dividido. — El peso en 18.57 es la mejor ventana en semanas para cubrir pagos en dólares de noviembre: si no lo hiciste hoy, cubre una parte con la apertura del martes, antes de los resultados electorales, y deja el resto para después de Banxico. Las liquidaciones del martes usan el FIX de 18.7962.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-02-cierre-mexico/og.png" type="image/png" length="0"/>
   </item>
 </channel>
 </rss>
