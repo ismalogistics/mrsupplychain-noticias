@@ -7,7 +7,7 @@
    "fecha": "2026-11-06",
    "momento": "premercado",
    "mercado": "global",
-   "hora": "05:15 CDMX",
+   "hora": "05:10 CDMX",
    "fin_de_semana": false,
    "es": {
     "titular": "El Nikkei se desploma 6% tras la venta de IA; los futuros del Nasdaq rebotan antes del empleo de octubre",
@@ -87,7 +87,7 @@
    "fecha": "2026-11-06",
    "momento": "premercado",
    "mercado": "latam",
-   "hora": "05:15 CDMX",
+   "hora": "05:10 CDMX",
    "fin_de_semana": false,
    "es": {
     "titular": "La región cerró el jueves con fuertes caídas: Argentina −5.7%, Chile −3.3% y Perú −3.1%; hoy manda el empleo de EE. UU.",
@@ -155,7 +155,7 @@
    "fecha": "2026-11-06",
    "momento": "premercado",
    "mercado": "mexico",
-   "hora": "05:15 CDMX",
+   "hora": "05:10 CDMX",
    "fin_de_semana": false,
    "es": {
     "titular": "El peso amanece en 18.74 tras el recorte sorpresa de Banxico; FIX de 18.7147",
