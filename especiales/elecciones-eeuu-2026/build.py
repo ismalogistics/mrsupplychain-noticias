@@ -137,7 +137,8 @@ def _oraciones(txt):
     for m in _SENT.finditer(txt):
         prev = txt[last:m.start() + 1]
         w = prev.split()[-1] if prev.split() else ''
-        if len(_re.sub(r'[^A-Za-zÁÉÍÓÚÑáéíóúñ]', '', w)) <= 3 or _re.search(r'\..+\.', w):
+        _l = _re.sub(r'[^A-Za-zÁÉÍÓÚÑáéíóúñ]', '', w)
+        if (0 < len(_l) <= 3 and not _re.search(r'\d', w)) or _re.search(r'[A-Za-z]\.[A-Za-z]', w):
             continue
         out.append(prev.strip()); last = m.end()
     out.append(txt[last:].strip())

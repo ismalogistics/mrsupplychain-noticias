@@ -146,7 +146,8 @@ def oraciones(txt):
     for m in SENT.finditer(txt):
         prev = txt[last:m.start() + 1]
         w = prev.split()[-1] if prev.split() else ''
-        if len(re.sub(r'[^A-Za-zÁÉÍÓÚÑáéíóúñ]', '', w)) <= 3 or re.search(r'\..+\.', w):
+        letras = re.sub(r'[^A-Za-zÁÉÍÓÚÑáéíóúñ]', '', w)
+        if (0 < len(letras) <= 3 and not re.search(r'\d', w)) or re.search(r'[A-Za-z]\.[A-Za-z]', w):
             continue
         out.append(prev.strip())
         last = m.end()
@@ -161,7 +162,23 @@ def parrafos(txt, n=2):
 
 def esencial_html(L, titulo):
     """"Lo esencial en 30 segundos": L['esencial'] si existe; si no, la primera oración de los 3 primeros bloques."""
-    pts = (L.get('esencial') or [])[:3] or [oraciones(x['x'])[0] for x in L.get('bloques', [])[:3] if oraciones(x['x'])]
+    pts = (L.get('esencial') or [])[:3]
+    if not pts:
+        # respaldo: qué pasó + por qué + la primera acción para supply chain (igual que news.js)
+        def cut(x):
+            x = re.sub(r'^\d\)\s*', '', re.sub(r'^(para|for|pelo|no)\b[^:]{0,40}:\s*', '', str(x or ''), flags=re.I))
+            if len(x) > 190:
+                k = x.rfind('; ', 0, 190)
+                if k > 60:
+                    x = x[:k] + '.'
+            x = re.sub(r'[;,]\s*$', '.', x)
+            return x[:1].upper() + x[1:]
+        b = L.get('bloques', [])
+        scm = L.get('scm') or ''
+        partes = re.split(r'\s\d\)\s', scm)
+        cands = [oraciones(b[0]['x'])[:1] if b else [], oraciones(b[1]['x'])[:1] if len(b) > 1 else [],
+                 oraciones(partes[1] if len(partes) > 1 else scm)[:1]]
+        pts = [cut(c[0]) for c in cands if c]
     if not pts:
         return ''
     return (f'<aside class="nx-ess"><p class="nx-essh"><span class="ic">⏱</span>{E(titulo)}</p>'

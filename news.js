@@ -44,7 +44,8 @@
     var sent = [];
     while ((m = re.exec(txt))) {
       var before = txt.slice(last, m.index + 1), w = before.split(/\s+/).pop();
-      if (w.replace(/[^A-Za-zÁÉÍÓÚÑáéíóúñ]/g, '').length <= 3 || /\..+\./.test(w)) continue;
+      var lt = w.replace(/[^A-Za-zÁÉÍÓÚÑáéíóúñ]/g, '').length;
+      if ((lt > 0 && lt <= 3 && !/\d/.test(w)) || /[A-Za-z]\.[A-Za-z]/.test(w)) continue;
       sent.push(before.trim()); last = m.index + m[0].length;
     }
     sent.push(txt.slice(last).trim());
@@ -162,7 +163,14 @@
   }
   /* "Lo esencial en 30 segundos": usa L.esencial (3 frases) si el brief lo trae; si no, la primera oración de los 3 primeros bloques. */
   function esencial(b) {
-    var L = pick(b), pts = (L.esencial && L.esencial.length) ? L.esencial.slice(0, 3) : (L.bloques || []).slice(0, 3).map(function (x) { return paras(x.x, 1)[0]; });
+    var L = pick(b), pts;
+    if (L.esencial && L.esencial.length) pts = L.esencial.slice(0, 3);
+    else {
+      /* respaldo: qué pasó + por qué + la primera acción para supply chain, recortados en un punto y coma si son muy largos */
+      var cut = function (x) { x = String(x || '').replace(/^[^:]{0,40}:\s*/, function (m) { return /^(para|for|pelo|no)\b/i.test(m) ? '' : m; }).replace(/^\d\)\s*/, ''); if (x.length > 190) { var k = x.lastIndexOf('; ', 190); if (k > 60) x = x.slice(0, k) + '.'; } x = x.replace(/[;,]\s*$/, '.'); return x.charAt(0).toUpperCase() + x.slice(1); };
+      var B = L.bloques || [];
+      pts = [B[0] && paras(B[0].x, 1)[0], B[1] && paras(B[1].x, 1)[0], L.scm && paras(String(L.scm).split(/\s\d\)\s/)[1] || L.scm, 1)[0]].filter(Boolean).map(cut);
+    }
     pts = pts.filter(Boolean); if (!pts.length) return null;
     var box = el('aside', 'nx-ess'); box.setAttribute('aria-label', tx('Lo esencial', 'Key points', 'O essencial'));
     var h = el('p', 'nx-essh'); h.appendChild(el('span', 'ic', '⏱')); h.appendChild(document.createTextNode(tx('Lo esencial en 30 segundos', 'The essentials in 30 seconds', 'O essencial em 30 segundos'))); box.appendChild(h);
