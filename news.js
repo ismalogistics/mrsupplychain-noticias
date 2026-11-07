@@ -622,6 +622,7 @@
     state.tab = tab;
     var all = document.querySelectorAll('.nx-tabs button[data-tab]');
     for (var m = 0; m < all.length; m++) all[m].setAttribute('aria-selected', String(all[m].getAttribute('data-tab') === tab));
+    var hs = document.querySelectorAll('.nx-tabhint'); for (var q = 0; q < hs.length; q++) hs[q].hidden = hs[q].getAttribute('data-for') !== tab;
     renderBrief(); renderOther(); renderCharts(); renderTrends();
     state.mapView = tab === 'global' ? 'mundo' : 'americas'; renderMap();
   }
