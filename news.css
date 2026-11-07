@@ -344,3 +344,82 @@ a { color: inherit; }
 .nx-sp a{font-weight:600}
 
 h1.nx-name{margin:0;line-height:normal}
+
+/* ===== v15 · Experiencia visual: imágenes en cada sección, más aire, menos texto de golpe ===== */
+body { line-height: 1.6; }
+.nx-wrap + .nx-wrap, section.nx-wrap { margin-top: 56px; }
+.nx-h2 { font-size: clamp(1.6rem, 3vw, 2.1rem); margin-bottom: 20px; }
+
+/* Portada del brief */
+.nx-hero { position: relative; margin: 6px 0 22px; border-radius: 14px; overflow: hidden; aspect-ratio: 800 / 280; background: #14244d; box-shadow: 0 10px 30px -18px rgba(8,22,49,.6); }
+.nx-hero svg, .nx-cover svg, .nx-thart svg, .nx-rfimg svg, .nx-othart svg { display: block; width: 100%; height: 100%; }
+.nx-herob { position: absolute; left: 16px; top: 14px; display: flex; flex-wrap: wrap; gap: 6px; }
+.nx-herob span { font: 800 11px/1 var(--sans); letter-spacing: .12em; text-transform: uppercase; color: #fff; background: rgba(8,22,49,.55); backdrop-filter: blur(4px); padding: 7px 10px; border-radius: 999px; }
+.nx-herob .h { letter-spacing: .04em; text-transform: none; font-weight: 700; }
+@media (max-width: 640px) { .nx-hero { aspect-ratio: 16 / 9; border-radius: 12px; margin-left: -4px; margin-right: -4px; } }
+
+/* Cuerpo del brief: párrafos cortos, secciones plegables en celular */
+.nx-body { max-width: 66ch; }
+details.nx-sec { margin: 0 0 18px; border-bottom: 1px solid var(--line); padding-bottom: 14px; }
+details.nx-sec summary { list-style: none; cursor: pointer; display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 4px 0 8px; }
+details.nx-sec summary::-webkit-details-marker { display: none; }
+details.nx-sec summary::after { content: ""; width: 9px; height: 9px; border-right: 2px solid var(--accent); border-bottom: 2px solid var(--accent); transform: rotate(45deg); transition: transform .2s; margin-right: 4px; flex: none; }
+details.nx-sec[open] summary::after { transform: rotate(-135deg); }
+details.nx-sec summary h4 { margin: 0; color: var(--accent); font-size: 12.5px; }
+.nx-sec p { font-family: var(--sans); font-size: 1.06rem; line-height: 1.75; color: #2a2e35; margin: 0 0 14px; }
+.nx-sec p:last-child { margin-bottom: 0; }
+.nx-scm { padding: 20px 22px; border-radius: 0 10px 10px 0; }
+.nx-scm p { font-family: var(--sans); font-size: 1rem; line-height: 1.65; margin: 0 0 10px; }
+.nx-scml { margin: 4px 0 0; padding: 0; list-style: none; counter-reset: s; display: grid; gap: 10px; }
+.nx-scml li { counter-increment: s; display: grid; grid-template-columns: 26px 1fr; gap: 10px; font-size: .98rem; line-height: 1.55; background: rgba(255,255,255,.7); padding: 10px 12px; border-radius: 8px; }
+.nx-scml li::before { content: counter(s); width: 26px; height: 26px; border-radius: 50%; background: var(--com); color: #fff; font: 800 13px/26px var(--sans); text-align: center; }
+.nx-scm:not(.wk) .nx-scml li::before { background: var(--accent); }
+
+/* "Leer más" */
+.nx-clamp { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; }
+.nx-clamp.open { display: block; -webkit-line-clamp: unset; }
+.nx-more { align-self: flex-start; background: none; border: 0; padding: 0; color: var(--accent); font: 700 13px var(--sans); cursor: pointer; }
+.nx-more:hover { text-decoration: underline; }
+
+/* Recuadro de la otra región */
+.nx-othart { height: 110px; border-radius: 10px; overflow: hidden; margin: 0 0 12px; }
+
+/* Tendencias: portada ilustrada por industria */
+.nx-trgrid { gap: 24px; }
+.nx-tr { padding: 0 0 18px; overflow: hidden; border-radius: 12px; border-top-width: 0; box-shadow: 0 1px 2px rgba(0,0,0,.04); transition: transform .2s, box-shadow .2s; gap: 10px; }
+.nx-tr:hover { transform: translateY(-2px); box-shadow: 0 12px 28px -16px rgba(8,22,49,.35); }
+.nx-tr > *:not(.nx-cover) { margin-left: 18px; margin-right: 18px; }
+.nx-cover { height: 140px; position: relative; border-bottom: 4px solid var(--muted); margin-bottom: 4px; }
+.nx-tr.up .nx-cover { border-bottom-color: var(--up); } .nx-tr.down .nx-cover { border-bottom-color: var(--down); } .nx-tr.mixed .nx-cover { border-bottom-color: #b87514; }
+.nx-tr h3 { font-size: 1.22rem; }
+.nx-tr p { font-size: 14.5px; line-height: 1.6; }
+.nx-trsrc { font-size: 12px !important; opacity: .85; }
+
+/* Redes y medios: imagen en cada nota */
+.nx-rf { gap: 22px; }
+.nx-rfi { padding: 0 0 16px; overflow: hidden; border-radius: 12px; gap: 8px; transition: transform .2s, box-shadow .2s; }
+.nx-rfi:hover { transform: translateY(-2px); box-shadow: 0 12px 28px -16px rgba(8,22,49,.35); }
+.nx-rfi > *:not(.nx-rfimg) { margin-left: 16px; margin-right: 16px; }
+.nx-rfimg { display: block; aspect-ratio: 16 / 9; background: #163e86; overflow: hidden; margin-bottom: 6px; }
+.nx-rfimg img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.nx-rfi p { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
+.nx-morewrap { grid-column: 1 / -1; display: flex; justify-content: center; list-style: none; padding: 6px 0; }
+.nx-morebig { border: 1.5px solid var(--accent); color: var(--accent); background: #fff; font: 700 14px var(--sans); padding: 11px 22px; border-radius: 999px; cursor: pointer; }
+.nx-morebig:hover { background: var(--accent); color: #fff; }
+
+/* Lectura para supply chain */
+.nx-exec .pp { display: block; margin: 0 0 12px; }
+.nx-th.deep { padding: 0 0 18px; overflow: hidden; border-radius: 12px; border-top-width: 0; gap: 12px; }
+.nx-th.deep > *:not(.nx-thart) { margin-left: 18px; margin-right: 18px; }
+.nx-thart { height: 130px; border-bottom: 4px solid var(--c, var(--accent)); }
+.nx-th.deep .nx-an { font-family: var(--sans); font-size: .98rem; line-height: 1.65; }
+
+/* Archivo */
+.nx-feed .t { font-size: 1.08rem; }
+
+@media (max-width: 640px) {
+  .nx-wrap + .nx-wrap, section.nx-wrap { margin-top: 40px; }
+  .nx-sec p { font-size: 1.02rem; }
+  .nx-cover { height: 120px; }
+  .nx-rf { grid-template-columns: 1fr; }
+}

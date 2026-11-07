@@ -9,7 +9,12 @@
     var b = document.querySelectorAll('[data-setlang]');
     for (var j = 0; j < b.length; j++) b[j].setAttribute('aria-pressed', String(b[j].getAttribute('data-setlang') === l));
   }
+  function hero() {
+    var h = document.querySelector('.nx-hero[data-momento]');
+    if (h && window.NXArt && !h.firstChild) h.innerHTML = window.NXArt.hero(h.getAttribute('data-momento'), h.getAttribute('data-mercado'));
+  }
   function init() {
+    hero();
     apply(get());
     var b = document.querySelectorAll('[data-setlang]');
     for (var j = 0; j < b.length; j++) b[j].addEventListener('click', function (e) { var l = e.currentTarget.getAttribute('data-setlang'); try { localStorage.setItem('lang', l); } catch (err) {} apply(l); });

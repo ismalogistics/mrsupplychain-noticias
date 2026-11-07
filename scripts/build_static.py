@@ -200,9 +200,10 @@ def pagina_brief(b, prev_b, next_b):
   <meta name="theme-color" content="#163e86">
   <link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
   <meta name="apple-mobile-web-app-title" content="MSC México">
-  <link rel="stylesheet" href="../../news.css?v=14">
+  <link rel="stylesheet" href="../../news.css?v=15">
   <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
-  <script src="../../static.js?v=3" defer></script>
+  <script src="../../art.js?v=1" defer></script>
+  <script src="../../static.js?v=4" defer></script>
 </head>
 <body class="nx-static">
   <div class="nx-util"><div class="nx-wrap nx-utilin"><a class="nx-back" href="../../"><span data-lang="es">← Portada de Noticias</span><span data-lang="en">← News front page</span><span data-lang="pt">← Capa de Notícias</span></a><span></span>
@@ -210,6 +211,7 @@ def pagina_brief(b, prev_b, next_b):
   <header class="nx-mast"><div class="nx-wrap"><div class="nx-plate"><a class="nx-brand" href="/">Mr. Supply Chain<sup>®</sup> <span class="nx-mx">México</span></a><a class="nx-name" href="../../"><span data-lang="es">Noticias</span><span data-lang="en">News</span><span data-lang="pt">Notícias</span></a></div></div></header>
   <main class="nx-wrap nx-article">
     <article>
+      <div class="nx-hero" data-momento="{E(b['momento'])}" data-mercado="{E(b['mercado'])}" aria-hidden="true"></div>
       <p class="nx-kick"><span data-lang="es">{MOM['es'][b['momento']]}</span><span data-lang="en">{MOM['en'][b['momento']]}</span><span data-lang="pt">{MOM['pt'][b['momento']]}</span><span class="sep">|</span><span data-lang="es">{MKT['es'][b['mercado']]}</span><span data-lang="en">{MKT['en'][b['mercado']]}</span><span data-lang="pt">{MKT['pt'][b['mercado']]}</span></p>
       <h1 class="nx-hl"><span data-lang="es">{E(es['titular'])}</span><span data-lang="en">{E(en['titular'])}</span><span data-lang="pt">{E(pt['titular'])}</span></h1>
       <div class="nx-byline"><b><span data-lang="es">Mesa de mercados {E(MARCA)}</span><span data-lang="en">{E(MARCA)} markets desk</span><span data-lang="pt">Mesa de mercados {E(MARCA)}</span></b> · <time datetime="{pub.isoformat()}"><span data-lang="es">{fecha_es(b['fecha'])}</span><span data-lang="en">{fecha_en(b['fecha'])}</span><span data-lang="pt">{fecha_pt(b['fecha'])}</span> · {E(b.get('hora', ''))}</time></div>
@@ -276,8 +278,8 @@ def pagina_archivo(lista):
   <meta name="theme-color" content="#163e86">
   <link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
   <meta name="apple-mobile-web-app-title" content="MSC México">
-  <link rel="stylesheet" href="../news.css?v=14">
-  <script src="../static.js?v=3" defer></script>
+  <link rel="stylesheet" href="../news.css?v=15">
+  <script src="../static.js?v=4" defer></script>
 </head>
 <body class="nx-static">
   <div class="nx-util"><div class="nx-wrap nx-utilin"><a class="nx-back" href="../"><span data-lang="es">← Portada de Noticias</span><span data-lang="en">← News front page</span><span data-lang="pt">← Capa de Notícias</span></a><span></span>

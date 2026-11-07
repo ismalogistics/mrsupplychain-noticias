@@ -1,7 +1,8 @@
 """Genera data/redes.json: lo más reciente de comunidades y medios de supply chain (RSS públicos).
 
 Lo corre la GitHub Action .github/workflows/heatmaps.yml cada hora. Sólo guarda título, fuente,
-fecha, un extracto corto y el enlace al original.
+fecha, un extracto corto, el enlace al original y, si el feed la trae, la URL de su imagen de portada
+(se muestra enlazada desde el medio; no se copia aquí).
 """
 import html
 import json
@@ -44,6 +45,31 @@ def limpio(txt, n=220):
     return (txt[: n - 1].rstrip() + '…') if len(txt) > n else txt
 
 
+IMG_RE = re.compile(r'<img[^>]+src=["\'](https://[^"\']+)["\']', re.I)
+NO_IMG = re.compile(r'(pixel|tracker|feeds\.feedburner|gravatar|emoji|/icons?/|\.gif(\?|$)|1x1|spacer)', re.I)
+
+
+def imagen(e):
+    """URL https de la imagen de portada de la entrada, o None."""
+    cands = []
+    for k in ('media_content', 'media_thumbnail'):
+        for m in e.get(k) or []:
+            if m.get('url'):
+                cands.append(m['url'])
+    for l in e.get('links') or []:
+        if l.get('rel') == 'enclosure' and str(l.get('type', '')).startswith('image') and l.get('href'):
+            cands.append(l['href'])
+    for blk in [c.get('value', '') for c in (e.get('content') or [])] + [e.get('summary', '')]:
+        m = IMG_RE.search(blk or '')
+        if m:
+            cands.append(html.unescape(m.group(1)))
+    for u in cands:
+        u = u.strip()
+        if u.startswith('https://') and not NO_IMG.search(u) and len(u) < 600:
+            return u
+    return None
+
+
 def fecha(e):
     for k in ('published_parsed', 'updated_parsed'):
         v = e.get(k)
@@ -84,6 +110,9 @@ def main():
             items.append({'grupo': grupo, 'red': red, 'fuente': fuente, 'titulo': limpio(e.title, 180),
                           'resumen': limpio(e.get('summary', '')), 'url': e.link,
                           'fecha': f.strftime('%Y-%m-%dT%H:%M:%SZ')})
+            img = imagen(e)
+            if img:
+                items[-1]['img'] = img
             n += 1
             if n >= MAX_POR_FUENTE:
                 break
