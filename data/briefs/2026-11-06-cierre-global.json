@@ -25,7 +25,12 @@
     "x": "Martes 10: inflación (CPI) de octubre en EE. UU., 7:30 CDMX; se espera que baje por la gasolina más barata y sólo habrá cifras mensuales por el cierre de gobierno de 2025. Jueves 12: venta de casas usadas, 9:00 CDMX. Viernes 13: precios al productor (PPI) de octubre, 7:30 CDMX. Reporta CoreWeave. En México, el lunes 16 cierran la BMV y los bancos por el Día de la Revolución."
    }
   ],
-  "scm": "Para el fin de semana: 1) confirma el lunes temprano con tu agente aduanal el estatus de Long Beach antes de programar retiros; 2) con el crudo cerca de 90 dólares, pide a tus transportistas el recargo de combustible de la próxima semana por escrito; 3) un CPI alto el martes reforzaría el alza de la Fed y el dólar fuerte, así que no dejes para después del martes las coberturas de pagos en dólares de noviembre; 4) no firmes contratos grandes de memoria o servidores hasta que los chips se estabilicen."
+  "scm": "Para el fin de semana: 1) confirma el lunes temprano con tu agente aduanal el estatus de Long Beach antes de programar retiros; 2) con el crudo cerca de 90 dólares, pide a tus transportistas el recargo de combustible de la próxima semana por escrito; 3) un CPI alto el martes reforzaría el alza de la Fed y el dólar fuerte, así que no dejes para después del martes las coberturas de pagos en dólares de noviembre; 4) no firmes contratos grandes de memoria o servidores hasta que los chips se estabilicen.",
+  "esencial": [
+   "Wall Street cerró su peor semana desde junio: el S&P 500 perdió 2.7% y el Nasdaq 3.4%, aunque el viernes rebotaron los chips.",
+   "La venta de IA del jueves y un empleo firme (165 mil plazas) elevaron a 77% la probabilidad de un alza de la Fed en diciembre.",
+   "Para supply chain: confirma el lunes el estatus de Long Beach y cubre pagos en dólares antes del CPI del martes 10."
+  ]
  },
  "en": {
   "titular": "Wall Street ends its worst week since June: the S&P 500 loses 2.7% and the Nasdaq 3.4% despite Friday's rebound",
@@ -47,7 +52,12 @@
     "x": "Tuesday 10: US October CPI, 8:30 a.m. ET; it is expected to ease on cheaper gasoline, and only monthly figures will be published because of the 2025 government shutdown. Thursday 12: existing home sales, 10:00 a.m. ET. Friday 13: October PPI, 8:30 a.m. ET. CoreWeave reports. In Mexico, the BMV and banks close on Monday the 16th for Revolution Day."
    }
   ],
-  "scm": "For the weekend: 1) confirm Long Beach's status with your customs broker early Monday before scheduling pickups; 2) with crude near $90, ask carriers for next week's fuel surcharge in writing; 3) a hot CPI on Tuesday would reinforce the Fed hike and the strong dollar, so don't leave November dollar hedges until after Tuesday; 4) don't sign large memory or server contracts until chips stabilize."
+  "scm": "For the weekend: 1) confirm Long Beach's status with your customs broker early Monday before scheduling pickups; 2) with crude near $90, ask carriers for next week's fuel surcharge in writing; 3) a hot CPI on Tuesday would reinforce the Fed hike and the strong dollar, so don't leave November dollar hedges until after Tuesday; 4) don't sign large memory or server contracts until chips stabilize.",
+  "esencial": [
+   "Wall Street closed its worst week since June: the S&P 500 lost 2.7% and the Nasdaq 3.4%, though chips rebounded on Friday.",
+   "Thursday’s AI selloff and solid jobs (165,000) raised the odds of a December Fed hike to 77%.",
+   "For supply chain: confirm Long Beach’s status on Monday and hedge dollar payments before Tuesday’s CPI (Nov 10)."
+  ]
  },
  "pt": {
   "titular": "Wall Street fecha sua pior semana desde junho: o S&P 500 perde 2,7% e o Nasdaq 3,4% apesar da alta de sexta",
@@ -69,7 +79,12 @@
     "x": "Terça 10: inflação (CPI) de outubro nos EUA, 7h30 (Cidade do México); espera-se queda pela gasolina mais barata e só haverá números mensais pelo fechamento do governo de 2025. Quinta 12: venda de imóveis usados, 9h. Sexta 13: preços ao produtor (PPI) de outubro, 7h30. A CoreWeave divulga resultados. No México, na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução."
    }
   ],
-  "scm": "Para o fim de semana: 1) confirme na segunda cedo com seu despachante o status de Long Beach antes de programar retiradas; 2) com o petróleo perto de 90 dólares, peça às transportadoras a sobretaxa de combustível da próxima semana por escrito; 3) um CPI alto na terça reforçaria a alta do Fed e o dólar forte, então não deixe para depois de terça as proteções de pagamentos em dólares de novembro; 4) não assine contratos grandes de memória ou servidores até os chips se estabilizarem."
+  "scm": "Para o fim de semana: 1) confirme na segunda cedo com seu despachante o status de Long Beach antes de programar retiradas; 2) com o petróleo perto de 90 dólares, peça às transportadoras a sobretaxa de combustível da próxima semana por escrito; 3) um CPI alto na terça reforçaria a alta do Fed e o dólar forte, então não deixe para depois de terça as proteções de pagamentos em dólares de novembro; 4) não assine contratos grandes de memória ou servidores até os chips se estabilizarem.",
+  "esencial": [
+   "Wall Street fechou sua pior semana desde junho: o S&P 500 perdeu 2,7% e o Nasdaq 3,4%, embora os chips tenham se recuperado na sexta.",
+   "A venda de IA de quinta e um emprego firme (165 mil vagas) elevaram a 77% a chance de alta do Fed em dezembro.",
+   "Para supply chain: confirme na segunda o status de Long Beach e proteja pagamentos em dólar antes do CPI da terça, dia 10."
+  ]
  },
  "fuentes": [
   {

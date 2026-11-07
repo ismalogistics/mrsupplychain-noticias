@@ -25,7 +25,12 @@
     "x": "El CPI de EE. UU. (martes 10) marcará el tono para las monedas de la región. Brasil mantiene la Selic en 13.75% tras la pausa del Copom y México la tasa en 6.25%."
    }
   ],
-  "scm": "Para el fin de semana: si tienes cobros en monedas locales, conviértelos el lunes antes del CPI del martes; con Long Beach en riesgo, revisa si tus rutas a Chile, Perú o Colombia pasan por esos puertos."
+  "scm": "Para el fin de semana: si tienes cobros en monedas locales, conviértelos el lunes antes del CPI del martes; con Long Beach en riesgo, revisa si tus rutas a Chile, Perú o Colombia pasan por esos puertos.",
+  "esencial": [
+   "La región rebotó el viernes: Chile subía 2% y el Ibovespa 1.1% a media sesión, tras caídas de hasta 5.7% el jueves.",
+   "El rebote de los chips en Wall Street y el empleo de EE. UU. calmaron la aversión al riesgo.",
+   "Para supply chain: convierte cobros en monedas locales el lunes, antes del CPI de EE. UU. del martes 10, y revisa rutas que pasen por Long Beach."
+  ]
  },
  "en": {
   "titular": "The region ends the week with a rebound: Chile +2% and Ibovespa +1.1% at Friday midday",
@@ -47,7 +52,12 @@
     "x": "US CPI (Tuesday 10) will set the tone for the region's currencies. Brazil keeps the Selic at 13.75% after the Copom pause and Mexico its rate at 6.25%."
    }
   ],
-  "scm": "For the weekend: if you have local-currency receivables, convert them Monday before Tuesday's CPI; with Long Beach at risk, check whether your routes to Chile, Peru or Colombia go through those ports."
+  "scm": "For the weekend: if you have local-currency receivables, convert them Monday before Tuesday's CPI; with Long Beach at risk, check whether your routes to Chile, Peru or Colombia go through those ports.",
+  "esencial": [
+   "The region rebounded on Friday: Chile rose 2% and the Ibovespa 1.1% at midday, after drops of up to 5.7% on Thursday.",
+   "The chip rebound on Wall Street and US jobs data eased risk aversion.",
+   "For supply chain: convert local-currency receivables on Monday, before Tuesday’s US CPI (Nov 10), and check routes through Long Beach."
+  ]
  },
  "pt": {
   "titular": "A região termina a semana em alta: Chile +2% e Ibovespa +1,1% no meio da sessão de sexta",
@@ -69,7 +79,12 @@
     "x": "O CPI dos EUA (terça 10) vai marcar o tom para as moedas da região. O Brasil mantém a Selic em 13,75% após a pausa do Copom e o México a taxa em 6,25%."
    }
   ],
-  "scm": "Para o fim de semana: se você tem recebíveis em moeda local, converta na segunda antes do CPI de terça; com Long Beach em risco, verifique se suas rotas para Chile, Peru ou Colômbia passam por esses portos."
+  "scm": "Para o fim de semana: se você tem recebíveis em moeda local, converta na segunda antes do CPI de terça; com Long Beach em risco, verifique se suas rotas para Chile, Peru ou Colômbia passam por esses portos.",
+  "esencial": [
+   "A região se recuperou na sexta: o Chile subia 2% e o Ibovespa 1,1% no meio do pregão, após quedas de até 5,7% na quinta.",
+   "A recuperação dos chips em Wall Street e o emprego nos EUA acalmaram a aversão ao risco.",
+   "Para supply chain: converta recebíveis em moedas locais na segunda, antes do CPI dos EUA da terça, dia 10, e revise rotas que passam por Long Beach."
+  ]
  },
  "fuentes": [
   {

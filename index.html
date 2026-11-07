@@ -24,7 +24,7 @@
   <meta name="theme-color" content="#163e86">
   <link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
   <meta name="apple-mobile-web-app-title" content="MSC México">
-  <link rel="stylesheet" href="news.css?v=17">
+  <link rel="stylesheet" href="news.css?v=19">
   <script type="application/ld+json">
   {"@context":"https://schema.org","@graph":[
     {"@type":"CollectionPage","@id":"https://mrsupplychain.ai/noticias/#page","url":"https://mrsupplychain.ai/noticias/","name":"Noticias · Pulso de mercados para supply chain · Mr. Supply Chain México","inLanguage":["es-MX","en-US","pt-BR"],"isPartOf":{"@id":"https://mrsupplychain.ai/#website"},"author":{"@id":"https://mrsupplychain.ai/#person"},"about":["Supply chain","Mercados financieros","Economía de México"]}
@@ -35,7 +35,8 @@
   <script src="vendor/topojson-client.min.js" defer></script>
   <script src="vendor/d3-hierarchy.min.js" defer></script>
   <script src="art.js?v=1" defer></script>
-  <script src="news.js?v=17" defer></script>
+  <script src="news.js?v=18" defer></script>
+  <script src="ui.js?v=2" defer></script>
 </head>
 <body>
   <div class="nx-util">
@@ -72,7 +73,17 @@
 
   <div class="nx-ticker" id="nx-ticker" aria-label="Mercados / Markets"></div>
 
-  <div class="nx-wrap" id="especial-elecciones" style="margin-top:14px"><a href="especiales/elecciones-eeuu-2026/" style="display:flex;flex-wrap:wrap;align-items:center;gap:10px 14px;padding:12px 16px;border-radius:8px;background:#0b1f47;color:#fff;text-decoration:none"><span style="background:#a83246;font-size:11px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;padding:3px 8px;border-radius:3px">Especial</span><b style="font-family:var(--serif);font-size:1.1rem;font-weight:600;flex:1 1 260px"><span data-lang="es">Elecciones en EE. UU.: lo que se juega supply chain, por estado, en México, LATAM y el mundo</span><span data-lang="en">US midterms: what’s at stake for supply chains, by state, in Mexico, LATAM and the world</span><span data-lang="pt">Eleições nos EUA: o que está em jogo para supply chain, por estado, no México, na América Latina e no mundo</span></b><span style="font-weight:700;color:#9fc0ff;white-space:nowrap"><span data-lang="es">Leer →</span><span data-lang="en">Read →</span><span data-lang="pt">Ler →</span></span></a></div>
+  <div class="nx-wrap" id="especial-elecciones">
+    <a class="nx-promo esp" href="especiales/elecciones-eeuu-2026/">
+      <img class="nx-promo-img" src="especiales/elecciones-eeuu-2026/hero.jpg?v=1" width="1232" height="941" alt="" loading="lazy">
+      <span class="nx-promo-txt">
+        <span class="nx-promo-k"><span data-lang="es">Especial</span><span data-lang="en">Special</span><span data-lang="pt">Especial</span></span>
+        <span class="nx-promo-h"><span data-lang="es">Elecciones en EE. UU.: lo que se juega supply chain, por estado, en México, LATAM y el mundo</span><span data-lang="en">US midterms: what’s at stake for supply chains, by state, in Mexico, LATAM and the world</span><span data-lang="pt">Eleições nos EUA: o que está em jogo para supply chain, por estado, no México, na América Latina e no mundo</span></span>
+        <span class="nx-promo-p"><span data-lang="es">Resultados, escenarios y qué vigilar en tu operación.</span><span data-lang="en">Results, scenarios and what to watch in your operation.</span><span data-lang="pt">Resultados, cenários e o que acompanhar na sua operação.</span></span>
+      </span>
+      <span class="nx-promo-btn"><span data-lang="es">Leer el especial →</span><span data-lang="en">Read the special →</span><span data-lang="pt">Ler o especial →</span></span>
+    </a>
+  </div>
 
   <main class="nx-wrap nx-grid" id="portada">
     <article class="nx-lead">

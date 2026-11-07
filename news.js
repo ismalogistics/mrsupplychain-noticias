@@ -160,6 +160,15 @@
     frag.appendChild(body);
     return frag;
   }
+  /* "Lo esencial en 30 segundos": usa L.esencial (3 frases) si el brief lo trae; si no, la primera oración de los 3 primeros bloques. */
+  function esencial(b) {
+    var L = pick(b), pts = (L.esencial && L.esencial.length) ? L.esencial.slice(0, 3) : (L.bloques || []).slice(0, 3).map(function (x) { return paras(x.x, 1)[0]; });
+    pts = pts.filter(Boolean); if (!pts.length) return null;
+    var box = el('aside', 'nx-ess'); box.setAttribute('aria-label', tx('Lo esencial', 'Key points', 'O essencial'));
+    var h = el('p', 'nx-essh'); h.appendChild(el('span', 'ic', '⏱')); h.appendChild(document.createTextNode(tx('Lo esencial en 30 segundos', 'The essentials in 30 seconds', 'O essencial em 30 segundos'))); box.appendChild(h);
+    var ul = el('ul'); pts.forEach(function (x) { ul.appendChild(el('li', null, x)); }); box.appendChild(ul);
+    return box;
+  }
   function shareRow(b, L) {
     var url = 'https://mrsupplychain.ai/noticias/brief/' + b.id + '/';
     var u = function (src) { return url + '?utm_source=' + src + '&utm_medium=social&utm_campaign=noticias'; };
@@ -194,6 +203,7 @@
     box.appendChild(k);
     box.appendChild(el('h2', 'nx-hl', L.titular));
     var by = el('div', 'nx-byline'); by.appendChild(el('b', null, t('by'))); by.appendChild(document.createTextNode('· ' + fmtDate(b.fecha) + ' · ' + b.hora)); box.appendChild(by);
+    var es = esencial(b); if (es) box.appendChild(es);
     box.appendChild(shareRow(b, L));
     var fig = barsFigure(b.mercado); if (fig) box.appendChild(fig);
     box.appendChild(briefBody(b));
@@ -303,9 +313,13 @@
     if (!txt) { if (p) p.remove(); return; }
     if (!p) { p = el('p', 'nx-interp'); if (box.nextSibling) host.insertBefore(p, box.nextSibling); else host.appendChild(p); }
     p.replaceChildren();
-    p.appendChild(el('b', null, tx('Lectura: ', 'What it means: ', 'Leitura: ')));
-    p.appendChild(document.createTextNode(txt));
-    if (scm) { p.appendChild(el('br')); p.appendChild(el('b', null, 'Supply chain: ')); p.appendChild(document.createTextNode(scm)); }
+    if (scm) {
+      var call = el('span', 'nx-scmcall');
+      call.appendChild(el('span', 'k', tx('Qué significa para supply chain', 'What it means for supply chain', 'O que significa para supply chain')));
+      call.appendChild(el('span', 'v', scm));
+      p.appendChild(call);
+    }
+    var r = el('span', 'nx-read'); r.appendChild(el('b', null, tx('El dato: ', 'The data: ', 'O dado: '))); r.appendChild(document.createTextNode(txt)); p.appendChild(r);
   }
   function pc(v) { return sgn(v, 2) + '%'; }
 

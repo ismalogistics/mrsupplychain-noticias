@@ -89,6 +89,18 @@ RESULTADOS = {
     'titulo': L('Resultados: los demócratas ganan la Cámara y el Senado; se materializa el escenario A',
                 'Results: Democrats win the House and the Senate; scenario A materializes',
                 'Resultados: os democratas ganham a Câmara e o Senado; o cenário A se concretiza'),
+    # "Lo esencial en 30 segundos" (portal de Noticias): 3 frases cortas por idioma, arriba del resultado.
+    'esencial': [
+        L('Los demócratas controlarán la Cámara y el Senado desde el 3 de enero, pero ningún partido tiene los dos tercios para superar un veto.',
+          'Democrats will control the House and the Senate from January 3, but neither party has the two-thirds needed to override a veto.',
+          'Os democratas controlarão a Câmara e o Senado a partir de 3 de janeiro, mas nenhum partido tem os dois terços para derrubar um veto.'),
+        L('Los aranceles de las secciones 232, 301 y 338 no cambian por la elección; lo que cambia es la supervisión del Congreso sobre la política comercial y el T-MEC.',
+          'Section 232, 301 and 338 tariffs do not change because of the election; what changes is congressional oversight of trade policy and the USMCA.',
+          'As tarifas das seções 232, 301 e 338 não mudam pela eleição; o que muda é a fiscalização do Congresso sobre a política comercial e o T-MEC.'),
+        L('Para supply chain: nada cambia mañana en la frontera; vigila el presupuesto del 11 de diciembre, el nuevo Congreso el 3 de enero y la tregua con China el 10 de enero.',
+          'For supply chain: nothing changes at the border tomorrow; watch the December 11 budget, the new Congress on January 3 and the China truce on January 10.',
+          'Para supply chain: nada muda amanhã na fronteira; acompanhe o orçamento de 11 de dezembro, o novo Congresso em 3 de janeiro e a trégua com a China em 10 de janeiro.'),
+    ],
     'parrafos': [
         L('Qué pasó. Con las proyecciones de AP, NBC, CBS y otros medios a la mañana del 4 de noviembre, los demócratas tienen al menos 54 escaños en el Senado (la mayoría es de 51) tras quitar a los republicanos siete asientos: Carolina del Norte (Cooper), Texas (Talarico), Kansas (Hamilton), Carolina del Sur (Andrews), la especial de Ohio (Brown), Iowa y Maine (Troy Jackson, tras reconocer su derrota Susan Collins). Retuvieron Michigan (El-Sayed). En la Cámara superaron los 218 escaños en la madrugada y siguen sumando; las estimaciones finales van de unos 239 a 255. Alaska y Mississippi seguían sin definirse.',
           'What happened. Based on projections by AP, NBC, CBS and other outlets as of the morning of November 4, Democrats hold at least 54 Senate seats (51 is a majority) after taking seven seats from Republicans: North Carolina (Cooper), Texas (Talarico), Kansas (Hamilton), South Carolina (Andrews), the Ohio special (Brown), Iowa, and Maine (Troy Jackson, after Susan Collins conceded). They held Michigan (El-Sayed). In the House they crossed 218 seats early Wednesday and keep adding; final estimates range from about 239 to 255. Alaska and Mississippi were still undecided.',
@@ -115,6 +127,30 @@ RESULTADOS = {
 def sp(d, cls=''):
     c = f' class="{cls}"' if cls else ''
     return ''.join(f'<span data-lang="{l}"{c}>{E(d[l])}</span>' for l in LANGS)
+
+import re as _re
+_SENT = _re.compile(r'([.!?])\s+(?=[A-ZÁÉÍÓÚÑ¿¡"“])')
+
+
+def _oraciones(txt):
+    out, last = [], 0
+    for m in _SENT.finditer(txt):
+        prev = txt[last:m.start() + 1]
+        w = prev.split()[-1] if prev.split() else ''
+        if len(_re.sub(r'[^A-Za-zÁÉÍÓÚÑáéíóúñ]', '', w)) <= 3 or _re.search(r'\..+\.', w):
+            continue
+        out.append(prev.strip()); last = m.end()
+    out.append(txt[last:].strip())
+    return [o for o in out if o]
+
+
+def blk_cortos(d, n=2):
+    """Como blk, pero en párrafos de n oraciones (lectura más ligera)."""
+    def ps(t):
+        o = _oraciones(t)
+        return ''.join('<p>' + E(' '.join(o[i:i + n])) + '</p>' for i in range(0, len(o), n))
+    return ''.join(f'<div data-lang="{l}">{ps(d[l])}</div>' for l in LANGS)
+
 
 def blk(d, tag='p', cls=''):
     c = f' class="{cls}"' if cls else ''
@@ -270,15 +306,23 @@ def bloque_vivo():
         return ''
     items = []
     for a in sorted(ACTUALIZACIONES, key=lambda a: a['t'], reverse=True):
-        items.append(f'<li><time datetime="{a["t"]}">{sp(fecha_hora(a["t"]))}</time><h3>{sp(a["titulo"])}</h3>{blk(a["x"])}<p class="ex-src">{fuentes_html(a.get("f", []))}</p></li>')
+        items.append(f'<li><time datetime="{a["t"]}">{sp(fecha_hora(a["t"]))}</time><h3>{sp(a["titulo"])}</h3>{blk_cortos(a["x"])}<p class="ex-src">{fuentes_html(a.get("f", []))}</p></li>')
     return (f'<section class="ex-vivo" id="al-momento"><p class="ex-vk"><span class="dot"></span>{sp(L("Al momento", "Live updates", "Ao vivo"))}</p>'
             f'<ol>{"".join(items)}</ol></section>')
 
 def bloque_resultados():
     if not RESULTADOS:
         return f'<aside class="ex-pend"><b>{sp(L("Previo a la elección.", "Before the vote.", "Antes da eleição."))}</b> {sp(L("Este especial se actualiza el lunes 2 en la noche; el martes 3 en la mañana, a mediodía, en la tarde y en la noche; y el miércoles 4 en la mañana con los resultados finales y las conclusiones para supply chain.", "This special is updated on Monday the 2nd at night; on Tuesday the 3rd in the morning, at midday, in the afternoon and at night; and on Wednesday the 4th in the morning with final results and conclusions for supply chains.", "Este especial é atualizado na segunda, dia 2, à noite; na terça, dia 3, de manhã, ao meio-dia, à tarde e à noite; e na quarta, dia 4, pela manhã, com os resultados finais e as conclusões para supply chain."))}</aside>'
-    pars = ''.join(blk(p) for p in RESULTADOS['parrafos'])
-    return f'<section class="ex-res" id="resultados"><h2 class="nx-h2">{sp(RESULTADOS["titulo"])}</h2><div class="nx-body ex-prose">{pars}</div><p class="ex-src">{fuentes_html(RESULTADOS.get("f", []))}</p></section>'
+    ps = RESULTADOS['parrafos']
+    ess = ''
+    if RESULTADOS.get('esencial'):
+        ess = (f'<aside class="nx-ess"><p class="nx-essh"><span class="ic">⏱</span>{sp(L("Lo esencial en 30 segundos", "The essentials in 30 seconds", "O essencial em 30 segundos"))}</p>'
+               f'<ul>{"".join(f"<li>{sp(x)}</li>" for x in RESULTADOS["esencial"])}</ul></aside>')
+    pars = blk(ps[0]) if ps else ''
+    if len(ps) > 1:
+        pars += (f'<details class="nx-moreblk"><summary>{sp(L("Leer el resultado completo", "Read the full results", "Ler o resultado completo"))}</summary>'
+                 f'{"".join(blk(p) for p in ps[1:])}</details>')
+    return f'<section class="ex-res" id="resultados"><h2 class="nx-h2">{sp(RESULTADOS["titulo"])}</h2>{ess}<div class="nx-body ex-prose">{pars}</div><p class="ex-src">{fuentes_html(RESULTADOS.get("f", []))}</p></section>'
 
 def todas_fuentes():
     usadas = []
@@ -374,7 +418,7 @@ CSS = '''
 .ex-60{margin:0;padding:0;list-style:none;counter-reset:n;max-width:72ch}
 .ex-60 li{counter-increment:n;display:grid;grid-template-columns:34px 1fr;gap:10px;padding:12px 0;border-bottom:1px solid var(--line)}
 .ex-60 li::before{content:counter(n);font-family:var(--serif);font-size:1.6rem;line-height:1;color:var(--accent);font-weight:600}
-.ex-60 p{margin:0;font-family:var(--serif);font-size:1.1rem;line-height:1.55}
+.ex-60 p{margin:0;font-family:var(--sans);font-size:1.04rem;line-height:1.6}
 .ex-kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;margin:18px 0 0}
 .ex-kpi{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:14px 16px;display:flex;flex-direction:column;gap:4px;min-width:0}
 .ex-kpi .l{font-size:12px;color:var(--muted);font-weight:600;line-height:1.3}
@@ -429,7 +473,7 @@ CSS = '''
 .ex-bars.c2 .b i{background:#0e7490}
 .ex-bars .v{font-variant-numeric:tabular-nums;color:var(--muted);white-space:nowrap}
 .ex-prose{max-width:68ch}
-.ex-prose p{font-family:var(--serif);font-size:1.12rem;line-height:1.62;margin:0 0 16px;color:#23262c}
+.ex-prose p{font-family:var(--sans);font-size:1.05rem;line-height:1.75;margin:0 0 16px;color:#2a2e35}
 .ex-vig{background:var(--soft);border-left:4px solid var(--accent);padding:14px 18px;border-radius:0 6px 6px 0;max-width:68ch}
 .ex-vig p{margin:0;font-size:15.5px;line-height:1.55}
 .ex-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
@@ -450,7 +494,7 @@ CSS = '''
 .ex-fuentes{font-size:12.5px;color:var(--muted);columns:2;column-gap:28px;padding-left:20px;margin:0}
 .ex-fuentes li{break-inside:avoid;margin:0 0 4px}
 .ex-fuentes a{color:var(--accent);text-decoration:none}
-.ex-toc{display:flex;gap:18px;overflow-x:auto;scrollbar-width:none;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:10px 0;margin:6px 0 0;position:sticky;top:0;background:var(--paper);z-index:5}
+.ex-toc{display:flex;gap:18px;overflow-x:auto;scrollbar-width:none;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:10px 0;margin:6px 0 0;background:var(--paper)}
 .ex-toc::-webkit-scrollbar{display:none}
 .ex-toc a{font-size:13px;font-weight:700;text-decoration:none;white-space:nowrap;color:var(--ink)}
 .ex-toc a:hover{color:var(--accent)}
@@ -602,10 +646,11 @@ def pagina():
   <meta name="theme-color" content="#163e86">
   <link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
   <meta name="apple-mobile-web-app-title" content="MSC México">
-  <link rel="stylesheet" href="../../news.css?v=14">
+  <link rel="stylesheet" href="../../news.css?v=19">
   <style>{CSS}</style>
   <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
-  <script src="../../static.js?v=3" defer></script>
+  <script src="../../static.js?v=4" defer></script>
+  <script src="../../ui.js?v=2" defer></script>
 </head>
 <body class="nx-static ex-page">
   <div class="nx-util"><div class="nx-wrap nx-utilin"><a class="nx-back" href="../../"><span data-lang="es">← Portada de Noticias</span><span data-lang="en">← News front page</span><span data-lang="pt">← Capa de Notícias</span></a><span></span>

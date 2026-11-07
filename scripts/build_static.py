@@ -11,6 +11,7 @@ Lo corre la GitHub Action. Sólo lee data/; no modifica datos.
 import html
 import json
 import os
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
@@ -136,11 +137,55 @@ def og_png(b, path):
     return True
 
 
+SENT = re.compile(r'([.!?])\s+(?=[A-ZÁÉÍÓÚÑ¿¡"“])')
+
+
+def oraciones(txt):
+    """Parte un texto en oraciones sin cortar abreviaturas como EE. UU. o a.m."""
+    txt, out, last = str(txt or ''), [], 0
+    for m in SENT.finditer(txt):
+        prev = txt[last:m.start() + 1]
+        w = prev.split()[-1] if prev.split() else ''
+        if len(re.sub(r'[^A-Za-zÁÉÍÓÚÑáéíóúñ]', '', w)) <= 3 or re.search(r'\..+\.', w):
+            continue
+        out.append(prev.strip())
+        last = m.end()
+    out.append(txt[last:].strip())
+    return [o for o in out if o]
+
+
+def parrafos(txt, n=2):
+    o = oraciones(txt)
+    return [' '.join(o[i:i + n]) for i in range(0, len(o), n)]
+
+
+def esencial_html(L, titulo):
+    """"Lo esencial en 30 segundos": L['esencial'] si existe; si no, la primera oración de los 3 primeros bloques."""
+    pts = (L.get('esencial') or [])[:3] or [oraciones(x['x'])[0] for x in L.get('bloques', [])[:3] if oraciones(x['x'])]
+    if not pts:
+        return ''
+    return (f'<aside class="nx-ess"><p class="nx-essh"><span class="ic">⏱</span>{E(titulo)}</p>'
+            f'<ul>{"".join(f"<li>{E(x)}</li>" for x in pts)}</ul></aside>')
+
+
 def bloques_html(L):
     out = []
     for x in L.get('bloques', []):
-        out.append(f'<section class="nx-sec"><h4>{E(x["t"])}</h4><p>{E(x["x"])}</p></section>')
+        ps = ''.join(f'<p>{E(p)}</p>' for p in parrafos(x['x']))
+        out.append(f'<section class="nx-sec"><h4>{E(x["t"])}</h4>{ps}</section>')
     return '\n'.join(out)
+
+
+NAV = [('#portada', 'Portada', 'Front page', 'Capa'), ('#graficos', 'Gráficos', 'Charts', 'Gráficos'),
+       ('#tendencias', 'Tendencias', 'Trends', 'Tendências'), ('#redes', 'Redes', 'Social', 'Redes'),
+       ('#lectura', 'Lectura para supply chain', 'Supply chain read', 'Leitura para supply chain'), ('archivo/', 'Archivo', 'Archive', 'Arquivo')]
+
+
+def nav_html(pre):
+    """Menú de secciones (el mismo de la portada). ui.js lo copia a la barra fija."""
+    a = ''.join(f'<a href="{pre}{h}"><span data-lang="es">{es}</span><span data-lang="en">{en}</span><span data-lang="pt">{pt}</span></a>'
+                for h, es, en, pt in NAV)
+    return f'<nav class="nx-sections" aria-label="Secciones">{a}</nav>'
 
 
 def pagina_brief(b, prev_b, next_b):
@@ -200,21 +245,23 @@ def pagina_brief(b, prev_b, next_b):
   <meta name="theme-color" content="#163e86">
   <link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
   <meta name="apple-mobile-web-app-title" content="MSC México">
-  <link rel="stylesheet" href="../../news.css?v=15">
+  <link rel="stylesheet" href="../../news.css?v=19">
   <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
   <script src="../../art.js?v=1" defer></script>
   <script src="../../static.js?v=4" defer></script>
+  <script src="../../ui.js?v=2" defer></script>
 </head>
 <body class="nx-static">
   <div class="nx-util"><div class="nx-wrap nx-utilin"><a class="nx-back" href="../../"><span data-lang="es">← Portada de Noticias</span><span data-lang="en">← News front page</span><span data-lang="pt">← Capa de Notícias</span></a><span></span>
     <nav class="nx-lang" aria-label="Idioma / Language / Idioma"><button type="button" data-setlang="es">ES</button><button type="button" data-setlang="en">EN</button><button type="button" data-setlang="pt">PT</button></nav></div></div>
-  <header class="nx-mast"><div class="nx-wrap"><div class="nx-plate"><a class="nx-brand" href="/">Mr. Supply Chain<sup>®</sup> <span class="nx-mx">México</span></a><a class="nx-name" href="../../"><span data-lang="es">Noticias</span><span data-lang="en">News</span><span data-lang="pt">Notícias</span></a></div></div></header>
+  <header class="nx-mast"><div class="nx-wrap"><div class="nx-plate"><a class="nx-brand" href="/">Mr. Supply Chain<sup>®</sup> <span class="nx-mx">México</span></a><a class="nx-name" href="../../"><span data-lang="es">Noticias</span><span data-lang="en">News</span><span data-lang="pt">Notícias</span></a></div>{nav_html('../../')}</div></header>
   <main class="nx-wrap nx-article">
     <article>
       <div class="nx-hero" data-momento="{E(b['momento'])}" data-mercado="{E(b['mercado'])}" aria-hidden="true"></div>
       <p class="nx-kick"><span data-lang="es">{MOM['es'][b['momento']]}</span><span data-lang="en">{MOM['en'][b['momento']]}</span><span data-lang="pt">{MOM['pt'][b['momento']]}</span><span class="sep">|</span><span data-lang="es">{MKT['es'][b['mercado']]}</span><span data-lang="en">{MKT['en'][b['mercado']]}</span><span data-lang="pt">{MKT['pt'][b['mercado']]}</span></p>
       <h1 class="nx-hl"><span data-lang="es">{E(es['titular'])}</span><span data-lang="en">{E(en['titular'])}</span><span data-lang="pt">{E(pt['titular'])}</span></h1>
       <div class="nx-byline"><b><span data-lang="es">Mesa de mercados {E(MARCA)}</span><span data-lang="en">{E(MARCA)} markets desk</span><span data-lang="pt">Mesa de mercados {E(MARCA)}</span></b> · <time datetime="{pub.isoformat()}"><span data-lang="es">{fecha_es(b['fecha'])}</span><span data-lang="en">{fecha_en(b['fecha'])}</span><span data-lang="pt">{fecha_pt(b['fecha'])}</span> · {E(b.get('hora', ''))}</time></div>
+      <div data-lang="es">{esencial_html(es, 'Lo esencial en 30 segundos')}</div><div data-lang="en">{esencial_html(en, 'The essentials in 30 seconds')}</div><div data-lang="pt">{esencial_html(pt, 'O essencial em 30 segundos')}</div>
       <div class="nx-share" aria-label="Compartir / Share / Compartilhar">
         <a href="https://www.linkedin.com/sharing/share-offsite/?url={quote(utm(url, 'linkedin'), safe='')}" target="_blank" rel="noopener">LinkedIn</a>
         <a href="https://x.com/intent/post?text={quote(es['titular'], safe='')}&url={quote(utm(url, 'x'), safe='')}&hashtags=MrSupplyChainMexico" target="_blank" rel="noopener">X</a>
@@ -278,13 +325,14 @@ def pagina_archivo(lista):
   <meta name="theme-color" content="#163e86">
   <link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
   <meta name="apple-mobile-web-app-title" content="MSC México">
-  <link rel="stylesheet" href="../news.css?v=15">
+  <link rel="stylesheet" href="../news.css?v=19">
   <script src="../static.js?v=4" defer></script>
+  <script src="../ui.js?v=2" defer></script>
 </head>
 <body class="nx-static">
   <div class="nx-util"><div class="nx-wrap nx-utilin"><a class="nx-back" href="../"><span data-lang="es">← Portada de Noticias</span><span data-lang="en">← News front page</span><span data-lang="pt">← Capa de Notícias</span></a><span></span>
     <nav class="nx-lang" aria-label="Idioma / Language / Idioma"><button type="button" data-setlang="es">ES</button><button type="button" data-setlang="en">EN</button><button type="button" data-setlang="pt">PT</button></nav></div></div>
-  <header class="nx-mast"><div class="nx-wrap"><div class="nx-plate"><a class="nx-brand" href="/">Mr. Supply Chain<sup>®</sup> <span class="nx-mx">México</span></a><a class="nx-name" href="../"><span data-lang="es">Noticias</span><span data-lang="en">News</span><span data-lang="pt">Notícias</span></a></div></div></header>
+  <header class="nx-mast"><div class="nx-wrap"><div class="nx-plate"><a class="nx-brand" href="/">Mr. Supply Chain<sup>®</sup> <span class="nx-mx">México</span></a><a class="nx-name" href="../"><span data-lang="es">Noticias</span><span data-lang="en">News</span><span data-lang="pt">Notícias</span></a></div>{nav_html('../')}</div></header>
   <main class="nx-wrap nx-article">
     <h1 class="nx-h2"><span data-lang="es">Archivo de briefs</span><span data-lang="en">Brief archive</span><span data-lang="pt">Arquivo de briefs</span></h1>
     {''.join(filas)}
