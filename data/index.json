@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-09-apertura-global",
+   "fecha": "2026-11-09",
+   "momento": "apertura",
+   "mercado": "global",
+   "titular_es": "Wall Street rebota y el petróleo cae 5%, pero Nvidia se hunde 8% por la investigación sobre su director",
+   "titular_en": "Wall Street rebounds and oil falls 5%, but Nvidia sinks 8% on the probe into its CEO",
+   "titular_pt": "Wall Street sobe e o petróleo cai 5%, mas a Nvidia afunda 8% pela investigação sobre seu CEO"
+  },
+  {
+   "id": "2026-11-09-apertura-latam",
+   "fecha": "2026-11-09",
+   "momento": "apertura",
+   "mercado": "latam",
+   "titular_es": "Las monedas de la región se fortalecen con el dólar débil; el petróleo a la baja pesa en Colombia",
+   "titular_en": "The region's currencies strengthen on a weak dollar; lower oil weighs on Colombia",
+   "titular_pt": "As moedas da região se fortalecem com o dólar fraco; o petróleo em queda pesa na Colômbia"
+  },
+  {
+   "id": "2026-11-09-apertura-mexico",
+   "fecha": "2026-11-09",
+   "momento": "apertura",
+   "mercado": "mexico",
+   "titular_es": "El peso abre en 18.61 con ganancias y sigue el caso antidumping de los carros tanque mexicanos",
+   "titular_en": "The peso opens at 18.61 with gains as the antidumping case on Mexican tank cars continues",
+   "titular_pt": "O peso abre a 18,61 com ganhos e segue o caso antidumping dos vagões-tanque mexicanos"
+  },
+  {
    "id": "2026-11-09-premercado-global",
    "fecha": "2026-11-09",
    "momento": "premercado",

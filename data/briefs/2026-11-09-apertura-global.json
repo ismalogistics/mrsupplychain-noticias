@@ -1,0 +1,106 @@
+{
+ "id": "2026-11-09-apertura-global",
+ "fecha": "2026-11-09",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:10 CDMX",
+ "es": {
+  "titular": "Wall Street rebota y el petróleo cae 5%, pero Nvidia se hunde 8% por la investigación sobre su director",
+  "esencial": [
+   "A media mañana el Dow subía 1.2%, el S&P 500 0.9% y el Nasdaq 0.9%, mientras Nvidia caía cerca de 8%.",
+   "El WTI cae 5% a 86.29 dólares y Long Beach alejó la huelga hasta el 20 de noviembre.",
+   "Para supply chain: el combustible abarata fletes, pero espera al CPI del martes antes de cerrar contratos en dólares."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "Los futuros anticipaban un rebote tras la peor semana desde junio, y así abrió el mercado. Con datos de media mañana, el Dow subía 1.20% (51,902.02), el S&P 500 0.91% (7,443.72) y el Nasdaq 0.90% (24,799.98). Nvidia caía cerca de 8% porque su consejo abrió una investigación independiente sobre su director, Jensen Huang; Alphabet subía cerca de 3% tras presentar dos chips de IA propios. El WTI caía 5% a 86.29 dólares, el oro estaba en 4,136.80 y el Treasury a 10 años bajaba a 4.84%."
+   },
+   {
+    "t": "Asia y Europa",
+    "x": "Asia rebotó con fuerza: el Taiex de Taiwán subió 5.6% con TSMC y el Nikkei de Japón 3.4% (59,411.34). No encontré cifras verificadas de Europa a esta hora."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Hoy salen la encuesta de expectativas de inflación de la Fed de Nueva York (la anterior fue de 3.9%) y los inventarios mayoristas de septiembre. Después del cierre reportan Hims & Hers, Rocket Lab y Monday.com. El dato fuerte de la semana es el CPI de octubre, el martes a las 7:30 CDMX."
+   },
+   {
+    "t": "La semana que viene",
+    "x": "Martes 10: CPI de octubre en EE. UU. (7:30 CDMX). Jueves 12: venta de casas usadas. Viernes 13: PPI de octubre (7:30 CDMX). Lunes 16: cierran la BMV y los bancos en México por el Día de la Revolución. En Long Beach, el nuevo plazo de las pláticas con los vigilantes es el 20 de noviembre."
+   }
+  ],
+  "scm": "Para esta semana: 1) aprovecha la baja del crudo para negociar recargos de combustible con ajuste semanal; 2) usa la prórroga de Long Beach para retirar contenedores antes del 20 de noviembre; 3) espera al CPI del martes antes de cerrar contratos en dólares de largo plazo."
+ },
+ "en": {
+  "titular": "Wall Street rebounds and oil falls 5%, but Nvidia sinks 8% on the probe into its CEO",
+  "esencial": [
+   "By mid-morning the Dow was up 1.2%, the S&P 500 0.9% and the Nasdaq 0.9%, while Nvidia fell about 8%.",
+   "WTI falls 5% to $86.29, and Long Beach pushed the strike threat to Nov. 20.",
+   "For supply chain: fuel makes freight cheaper, but wait for Tuesday's CPI before closing dollar contracts."
+  ],
+  "bloques": [
+   {
+    "t": "Opening",
+    "x": "Futures pointed to a rebound after the worst week since June, and the market opened that way. As of mid-morning, the Dow was up 1.20% (51,902.02), the S&P 500 0.91% (7,443.72) and the Nasdaq 0.90% (24,799.98). Nvidia fell about 8% after its board opened an independent investigation into CEO Jensen Huang; Alphabet rose about 3% after unveiling two AI chips of its own. WTI fell 5% to $86.29, gold was at $4,136.80 and the 10-year Treasury eased to 4.84%."
+   },
+   {
+    "t": "Asia and Europe",
+    "x": "Asia rebounded strongly: Taiwan's Taiex rose 5.6% with TSMC and Japan's Nikkei 3.4% (59,411.34). I could not find verified European figures at this hour."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Today brings the New York Fed's inflation expectations survey (previous 3.9%) and September wholesale inventories. Hims & Hers, Rocket Lab and Monday.com report after the close. The week's key data is October CPI on Tuesday at 8:30 a.m. ET."
+   },
+   {
+    "t": "The week ahead",
+    "x": "Tuesday 10: US October CPI (8:30 a.m. ET). Thursday 12: existing home sales. Friday 13: October PPI (8:30 a.m. ET). Monday 16: the BMV and banks close in Mexico for Revolution Day. In Long Beach, the new deadline for talks with the watchmen is Nov. 20."
+   }
+  ],
+  "scm": "For this week: 1) use the drop in crude to negotiate weekly-adjusted fuel surcharges; 2) use the Long Beach extension to pick up containers before Nov. 20; 3) wait for Tuesday's CPI before closing long-term dollar contracts."
+ },
+ "pt": {
+  "titular": "Wall Street sobe e o petróleo cai 5%, mas a Nvidia afunda 8% pela investigação sobre seu CEO",
+  "esencial": [
+   "No meio da manhã o Dow subia 1,2%, o S&P 500 0,9% e o Nasdaq 0,9%, enquanto a Nvidia caía cerca de 8%.",
+   "O WTI cai 5% para 86,29 dólares, e Long Beach adiou a ameaça de greve para 20 de novembro.",
+   "Para supply chain: o combustível barateia os fretes, mas espere o CPI de terça antes de fechar contratos em dólares."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Os futuros indicavam uma recuperação após a pior semana desde junho, e assim abriu o mercado. Com dados do meio da manhã, o Dow subia 1,20% (51.902,02), o S&P 500 0,91% (7.443,72) e o Nasdaq 0,90% (24.799,98). A Nvidia caía cerca de 8% porque seu conselho abriu uma investigação independente sobre o CEO, Jensen Huang; a Alphabet subia cerca de 3% após apresentar dois chips de IA próprios. O WTI caía 5% para 86,29 dólares, o ouro estava em 4.136,80 e o título de 10 anos do Tesouro caía para 4,84%."
+   },
+   {
+    "t": "Ásia e Europa",
+    "x": "A Ásia se recuperou com força: o Taiex de Taiwan subiu 5,6% com a TSMC e o Nikkei do Japão 3,4% (59.411,34). Não encontrei números verificados da Europa a esta hora."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Hoje saem a pesquisa de expectativas de inflação do Fed de Nova York (a anterior foi de 3,9%) e os estoques no atacado de setembro. Depois do fechamento divulgam resultados Hims & Hers, Rocket Lab e Monday.com. O dado forte da semana é o CPI de outubro, na terça às 7h30 (Cidade do México)."
+   },
+   {
+    "t": "A semana que vem",
+    "x": "Terça 10: CPI de outubro nos EUA (7h30, Cidade do México). Quinta 12: venda de imóveis usados. Sexta 13: PPI de outubro (7h30). Segunda 16: a BMV e os bancos fecham no México pelo Dia da Revolução. Em Long Beach, o novo prazo das negociações com os vigilantes é 20 de novembro."
+   }
+  ],
+  "scm": "Para esta semana: 1) aproveite a queda do petróleo para negociar sobretaxas de combustível com ajuste semanal; 2) use a prorrogação de Long Beach para retirar contêineres antes de 20 de novembro; 3) espere o CPI de terça antes de fechar contratos em dólares de longo prazo."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben; Nvidia cae (9 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
+  },
+  {
+   "t": "AP: las bolsas de Asia rebotan tras la recuperación de las acciones de IA",
+   "u": "https://www.news4jax.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
+  },
+  {
+   "t": "GV Wire (Reuters): empleadores y vigilantes de los puertos de California extienden las pláticas al 20 de noviembre",
+   "u": "https://gvwire.com/2026/11/07/employers-watchmen-at-california-ports-extend-contract-talks/"
+  },
+  {
+   "t": "FinancialJuice: indicadores de la semana del 9 al 13 de noviembre (EE. UU.)",
+   "u": "https://features.financialjuice.com/2026/11/06/week-ahead-economic-indicators-9th-13th-november-us/"
+  }
+ ]
+}

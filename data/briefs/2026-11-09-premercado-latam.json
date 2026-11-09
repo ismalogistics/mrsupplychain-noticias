@@ -21,7 +21,12 @@
     "x": "Semana con el CPI de EE. UU. (martes) como principal riesgo para las monedas de la región. Brasil mantiene la Selic en 13.75% y México la tasa en 6.25%."
    }
   ],
-  "scm": "Con las monedas de la región sin dirección clara antes del CPI, conviene convertir los cobros en monedas locales hoy o mañana temprano y dejar los pagos para después del dato."
+  "scm": "Con las monedas de la región sin dirección clara antes del CPI, conviene convertir los cobros en monedas locales hoy o mañana temprano y dejar los pagos para después del dato.",
+  "esencial": [
+   "El Ibovespa cerró el viernes en 168,498 (+1.39%) y el COLCAP bajó 0.46%.",
+   "El rebote de Asia y el Brent a 98 dólares apoyan a la región, pero el CPI de EE. UU. del martes es el mayor riesgo.",
+   "Convierte hoy o mañana temprano los cobros en monedas locales y deja los pagos para después del CPI."
+  ]
  },
  "en": {
   "titular": "The region closed Friday higher (Ibovespa +1.4%) and starts the week with US CPI on the radar",
@@ -39,7 +44,12 @@
     "x": "A week with US CPI (Tuesday) as the main risk for the region's currencies. Brazil keeps the Selic at 13.75% and Mexico its rate at 6.25%."
    }
   ],
-  "scm": "With regional currencies directionless before CPI, convert local-currency receivables today or early tomorrow and leave payments for after the data."
+  "scm": "With regional currencies directionless before CPI, convert local-currency receivables today or early tomorrow and leave payments for after the data.",
+  "esencial": [
+   "The Ibovespa closed Friday at 168,498 (+1.39%) and the COLCAP fell 0.46%.",
+   "Asia's rebound and Brent at $98 support the region, but Tuesday's US CPI is the biggest risk.",
+   "Convert local-currency receivables today or early tomorrow and leave payments for after CPI."
+  ]
  },
  "pt": {
   "titular": "A região fechou a sexta em alta (Ibovespa +1,4%) e começa a semana com o CPI dos EUA no radar",
@@ -57,7 +67,12 @@
     "x": "Semana com o CPI dos EUA (terça) como principal risco para as moedas da região. O Brasil mantém a Selic em 13,75% e o México a taxa em 6,25%."
    }
   ],
-  "scm": "Com as moedas da região sem direção clara antes do CPI, convém converter os recebíveis em moeda local hoje ou amanhã cedo e deixar os pagamentos para depois do dado."
+  "scm": "Com as moedas da região sem direção clara antes do CPI, convém converter os recebíveis em moeda local hoje ou amanhã cedo e deixar os pagamentos para depois do dado.",
+  "esencial": [
+   "O Ibovespa fechou a sexta em 168.498 (+1,39%) e o COLCAP caiu 0,46%.",
+   "A alta da Ásia e o Brent a 98 dólares apoiam a região, mas o CPI dos EUA de terça é o maior risco.",
+   "Converta hoje ou amanhã cedo os recebíveis em moeda local e deixe os pagamentos para depois do CPI."
+  ]
  },
  "fuentes": [
   {

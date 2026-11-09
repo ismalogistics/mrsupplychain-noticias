@@ -1,116 +1,15 @@
 {
- "actualizado": "2026-11-06T21:39:55Z",
- "fecha": "2026-11-06",
+ "actualizado": "2026-11-09T15:12:14Z",
+ "fecha": "2026-11-09",
  "titular": {
-  "es": "Cierre de una semana volátil: chips rebotan pero siguen en corrección, empleo fuerte y Long Beach vence a la medianoche",
-  "en": "End of a volatile week: chips rebound but stay in a correction, strong jobs and Long Beach expires at midnight",
-  "pt": "Fim de uma semana volátil: chips se recuperam mas seguem em correção, emprego forte e Long Beach vence à meia-noite"
+  "es": "Long Beach gana dos semanas, el crudo cae 5% y Nvidia se hunde: el arranque de la semana para las industrias",
+  "en": "Long Beach gains two weeks, crude falls 5% and Nvidia sinks: the week starts for industries",
+  "pt": "Long Beach ganha duas semanas, o petróleo cai 5% e a Nvidia afunda: o início da semana para as indústrias"
  },
  "items": [
   {
-   "id": "semis",
-   "dir": "up",
-   "calor": 3,
-   "mx": true,
-   "latam": false,
-   "es": "Semiconductores y electrónica",
-   "en": "Semiconductors and electronics",
-   "pt": "Semicondutores e eletrônicos",
-   "titular": {
-    "es": "Los chips rebotan el viernes (Micron +5.1%, Nvidia +2.8%), pero el Nasdaq cierra la semana −3.4% y sigue en corrección",
-    "en": "Chips rebound Friday (Micron +5.1%, Nvidia +2.8%), but the Nasdaq ends the week −3.4% and stays in a correction",
-    "pt": "Os chips se recuperam na sexta (Micron +5,1%, Nvidia +2,8%), mas o Nasdaq fecha a semana em −3,4% e segue em correção"
-   },
-   "x": {
-    "es": "Después de la peor caída del Nasdaq en 19 meses, los chips recuperan parte de lo perdido. En Japón, el Nikkei cerró −5.96% y Corea y Taiwán abrieron con caídas de más de 8% antes de recuperar una parte.",
-    "en": "After the Nasdaq's worst drop in 19 months, chips recover part of their losses. In Japan, the Nikkei closed −5.96% and Korea and Taiwan opened down more than 8% before recovering part.",
-    "pt": "Depois da pior queda do Nasdaq em 19 meses, os chips recuperam parte das perdas. No Japão, o Nikkei fechou −5,96% e Coreia e Taiwan abriram com quedas de mais de 8% antes de recuperar uma parte."
-   },
-   "scm": {
-    "es": "La volatilidad sigue alta: no cierres contratos grandes de memoria o servidores hasta que los precios se estabilicen.",
-    "en": "Volatility remains high: hold off on large memory or server contracts until prices stabilize.",
-    "pt": "A volatilidade segue alta: não feche contratos grandes de memória ou servidores até os preços se estabilizarem."
-   },
-   "fuentes": [
-    {
-     "t": "Kiplinger: el Nasdaq sube 264 puntos con el rebote de tecnología, pero cierra la semana a la baja",
-     "u": "https://www.kiplinger.com/investing/stocks/nasdaq-adds-264-points-in-tech-rebound-but-ends-the-week-lower-stock-market-today"
-    },
-    {
-     "t": "Yahoo Finance: el Nasdaq y el S&P 500 rebotan; el Dow baja al cierre de una semana dura para la IA",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
-    }
-   ]
-  },
-  {
-   "id": "electricidad",
-   "dir": "mixed",
-   "calor": 3,
-   "mx": false,
-   "latam": false,
-   "es": "Electricidad y centros de datos",
-   "en": "Power and data centers",
-   "pt": "Eletricidade e data centers",
-   "titular": {
-    "es": "Goldman: 45% de la capacidad planeada de centros de datos en EE. UU. podría enfrentar restricciones de nuevos gobernadores",
-    "en": "Goldman: 45% of planned US data center capacity could face restrictions from new governors",
-    "pt": "Goldman: 45% da capacidade planejada de data centers nos EUA pode enfrentar restrições de novos governadores"
-   },
-   "x": {
-    "es": "Goldman Sachs estima que cerca de 45% de la capacidad planeada de centros de datos en EE. UU. está en estados con gobernadores recién electos que podrían restringirla. GE Vernova y Constellation Energy recuperan parte de sus pérdidas del jueves.",
-    "en": "Goldman Sachs estimates about 45% of planned US data center capacity is in states with newly elected governors who could restrict it. GE Vernova and Constellation Energy recover part of Thursday's losses.",
-    "pt": "O Goldman Sachs estima que cerca de 45% da capacidade planejada de data centers nos EUA está em estados com governadores recém-eleitos que poderiam restringi-la. GE Vernova e Constellation Energy recuperam parte das perdas de quinta."
-   },
-   "scm": {
-    "es": "Si tu plan de IA depende de capacidad nueva de nube en EE. UU., pide a tu proveedor la región y la fecha de entrega por escrito.",
-    "en": "If your AI plan depends on new US cloud capacity, get the region and delivery date in writing from your provider.",
-    "pt": "Se o seu plano de IA depende de nova capacidade de nuvem nos EUA, peça ao fornecedor a região e a data de entrega por escrito."
-   },
-   "fuentes": [
-    {
-     "t": "Yahoo Finance: el Nasdaq rebota tras la venta brutal; EE. UU. suma 165 mil empleos",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
-    },
-    {
-     "t": "Reuters (vía BNN Bloomberg): el Nasdaq apunta al alza mientras los chips recortan pérdidas; persiste el temor a un alza de tasas",
-     "u": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/06/nasdaq-eyes-higher-open-as-chips-pare-losses-rate-hike-fears-linger/"
-    }
-   ]
-  },
-  {
-   "id": "laboral",
-   "dir": "up",
-   "calor": 2,
-   "mx": true,
-   "latam": false,
-   "es": "Mercado laboral",
-   "en": "Labor market",
-   "pt": "Mercado de trabalho",
-   "titular": {
-    "es": "EE. UU. crea 165 mil empleos en octubre y el desempleo baja a 4.1%",
-    "en": "The US adds 165,000 jobs in October and unemployment falls to 4.1%",
-    "pt": "Os EUA criam 165 mil empregos em outubro e o desemprego cai para 4,1%"
-   },
-   "x": {
-    "es": "El dato casi triplicó las 65 mil plazas esperadas y septiembre se revisó a 60 mil; servicios profesionales sumaron 70 mil. El empleo involuntario de medio tiempo subió 339 mil y los salarios crecen 3.1% anual.",
-    "en": "The figure nearly tripled the 65,000 expected and September was revised to 60,000; professional services added 70,000. Involuntary part-time work rose 339,000 and wages are up 3.1% year over year.",
-    "pt": "O dado quase triplicou as 65 mil vagas esperadas e setembro foi revisado para 60 mil; serviços profissionais somaram 70 mil. O trabalho involuntário de meio período subiu 339 mil e os salários crescem 3,1% em 12 meses."
-   },
-   "scm": {
-    "es": "Un mercado laboral firme sostiene la demanda de temporada alta: confirma capacidad de almacén y transporte para diciembre.",
-    "en": "A firm labor market supports peak-season demand: confirm warehouse and transport capacity for December.",
-    "pt": "Um mercado de trabalho firme sustenta a demanda da alta temporada: confirme capacidade de armazém e transporte para dezembro."
-   },
-   "fuentes": [
-    {
-     "t": "Reuters (vía AOL): un reporte de empleo fuerte sube los rendimientos",
-     "u": "https://www.aol.com/articles/strong-october-jobs-report-sends-134858000.html"
-    }
-   ]
-  },
-  {
    "id": "puertos",
-   "dir": "mixed",
+   "dir": "up",
    "calor": 3,
    "mx": true,
    "latam": true,
@@ -118,65 +17,100 @@
    "en": "Maritime and ports",
    "pt": "Marítimo e portos",
    "titular": {
-    "es": "Hoy vence el plazo en Los Ángeles–Long Beach: medianoche del viernes, hora del Pacífico",
-    "en": "The Los Angeles–Long Beach deadline expires today: midnight Friday, Pacific time",
-    "pt": "Hoje vence o prazo em Los Angeles–Long Beach: meia-noite de sexta, horário do Pacífico"
+    "es": "Long Beach aleja la huelga: los vigilantes y los puertos extienden las pláticas hasta el 20 de noviembre",
+    "en": "Long Beach pushes back the strike: watchmen and ports extend talks to Nov. 20",
+    "pt": "Long Beach afasta a greve: vigilantes e portos estendem as negociações até 20 de novembro"
    },
    "x": {
-    "es": "Los 250 vigilantes de ILWU Local 26 negocian hoy con la PMA con mediación federal. Una huelga afectaría terminales que mueven cerca de 85% de la carga de Long Beach y 33% de la de Los Ángeles, y los estibadores podrían respetar los piquetes.",
-    "en": "The 250 ILWU Local 26 watchmen negotiate with the PMA today under federal mediation. A strike would affect terminals handling about 85% of Long Beach cargo and 33% of Los Angeles cargo, and dockworkers could honor picket lines.",
-    "pt": "Os 250 vigilantes do ILWU Local 26 negociam hoje com a PMA com mediação federal. Uma greve afetaria terminais que movimentam cerca de 85% da carga de Long Beach e 33% da de Los Angeles, e os estivadores poderiam respeitar os piquetes."
+    "es": "La Asociación Marítima del Pacífico (PMA) y el sindicato ILWU Local 26, con unos 250 vigilantes, acordaron extender la negociación hasta el 20 de noviembre. Una huelga habría afectado terminales con cerca de 85% de la carga de Long Beach y 33% de la de Los Ángeles.",
+    "en": "The Pacific Maritime Association (PMA) and ILWU Local 26, with about 250 watchmen, agreed to extend talks through Nov. 20. A strike would have hit terminals handling about 85% of Long Beach cargo and 33% of Los Angeles cargo.",
+    "pt": "A Associação Marítima do Pacífico (PMA) e o sindicato ILWU Local 26, com cerca de 250 vigilantes, acordaram estender a negociação até 20 de novembro. Uma greve teria afetado terminais com cerca de 85% da carga de Long Beach e 33% da de Los Angeles."
    },
    "scm": {
-    "es": "Retira hoy los contenedores liberados y ten listo el desvío a Oakland o Seattle-Tacoma para los buques de la próxima semana.",
-    "en": "Pick up released containers today and have the diversion to Oakland or Seattle-Tacoma ready for next week's vessels.",
-    "pt": "Retire hoje os contêineres liberados e deixe pronto o desvio para Oakland ou Seattle-Tacoma para os navios da próxima semana."
+    "es": "Usa estas dos semanas para retirar contenedores y dejar listo el desvío por si no hay acuerdo el 20.",
+    "en": "Use these two weeks to pick up containers and have the diversion ready in case there is no deal on the 20th.",
+    "pt": "Use estas duas semanas para retirar contêineres e deixar pronto o desvio caso não haja acordo no dia 20."
    },
    "fuentes": [
     {
-     "t": "FreightWaves: la huelga en Los Ángeles y Long Beach se aplaza otra vez",
-     "u": "https://www.freightwaves.com/news/port-strike-delayed-again-at-los-angeles-long-beach-ports"
+     "t": "GV Wire (Reuters): empleadores y vigilantes de los puertos de California extienden las pláticas al 20 de noviembre",
+     "u": "https://gvwire.com/2026/11/07/employers-watchmen-at-california-ports-extend-contract-talks/"
     }
    ]
   },
   {
    "id": "energia",
    "dir": "down",
-   "calor": 2,
+   "calor": 3,
    "mx": true,
    "latam": true,
    "es": "Energía y combustibles",
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El sector energía va a una caída semanal de más de 11%; el crudo queda debajo de 100 dólares",
-    "en": "The energy sector heads for a weekly drop of more than 11%; crude stays below $100",
-    "pt": "O setor de energia caminha para uma queda semanal de mais de 11%; o petróleo fica abaixo de 100 dólares"
+    "es": "El WTI cae 5% a 86.29 dólares y abre espacio para bajar recargos de combustible",
+    "en": "WTI falls 5% to $86.29, opening room to lower fuel surcharges",
+    "pt": "O WTI cai 5% para 86,29 dólares e abre espaço para reduzir sobretaxas de combustível"
    },
    "x": {
-    "es": "Después de la volatilidad de la semana (−9% el miércoles y rebote el jueves), el Brent y el WTI quedan debajo de 100 dólares; el WTI estaba en 89.38 en la madrugada. El mercado vigila Medio Oriente por un posible repunte del conflicto.",
-    "en": "After the week's volatility (−9% Wednesday and a rebound Thursday), Brent and WTI stay below $100; WTI was at $89.38 overnight. The market watches the Middle East for possible renewed escalation.",
-    "pt": "Depois da volatilidade da semana (−9% na quarta e alta na quinta), o Brent e o WTI ficam abaixo de 100 dólares; o WTI estava em 89,38 na madrugada. O mercado acompanha o Oriente Médio por uma possível nova escalada."
+    "es": "El crudo de referencia de EE. UU. caía 5% a media mañana, a 86.29 dólares. El viernes había terminado cerca de 91 dólares.",
+    "en": "US benchmark crude was down 5% by mid-morning, at $86.29. It had ended Friday near $91.",
+    "pt": "O petróleo de referência dos EUA caía 5% no meio da manhã, a 86,29 dólares. Na sexta havia terminado perto de 91 dólares."
    },
    "scm": {
-    "es": "Mantén el recargo de combustible con ajuste semanal: el crudo se movió más de 8 dólares esta semana.",
-    "en": "Keep the fuel surcharge on weekly adjustment: crude moved more than $8 this week.",
-    "pt": "Mantenha a sobretaxa de combustível com ajuste semanal: o petróleo se moveu mais de 8 dólares nesta semana."
+    "es": "Pide a tus transportistas que el recargo de combustible de la próxima semana refleje la baja del crudo.",
+    "en": "Ask carriers for next week's fuel surcharge to reflect the drop in crude.",
+    "pt": "Peça às transportadoras que a sobretaxa de combustível da próxima semana reflita a queda do petróleo."
    },
    "fuentes": [
     {
-     "t": "Reuters (vía BNN Bloomberg): el Nasdaq apunta al alza mientras los chips recortan pérdidas; persiste el temor a un alza de tasas",
-     "u": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/06/nasdaq-eyes-higher-open-as-chips-pare-losses-rate-hike-fears-linger/"
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben; Nvidia cae (9 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
     },
     {
-     "t": "Yahoo Finance: el Nasdaq rebota tras la venta brutal; EE. UU. suma 165 mil empleos",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
+     "t": "AP: las bolsas de Asia rebotan tras la recuperación de las acciones de IA",
+     "u": "https://www.news4jax.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
+    }
+   ]
+  },
+  {
+   "id": "semis",
+   "dir": "down",
+   "calor": 3,
+   "mx": false,
+   "latam": false,
+   "es": "Semiconductores y electrónica",
+   "en": "Semiconductors and electronics",
+   "pt": "Semicondutores e eletrônicos",
+   "titular": {
+    "es": "Nvidia cae cerca de 8% por la investigación de su consejo sobre su director, Jensen Huang",
+    "en": "Nvidia falls about 8% on its board's probe into CEO Jensen Huang",
+    "pt": "A Nvidia cai cerca de 8% pela investigação do seu conselho sobre o CEO, Jensen Huang"
+   },
+   "x": {
+    "es": "El consejo de Nvidia abrió una investigación independiente sobre su director; analistas hablan de riesgo por dependencia de una persona clave. En Asia, en cambio, TSMC subió 5.6% y el Taiex de Taiwán también 5.6%.",
+    "en": "Nvidia's board opened an independent investigation into its CEO; analysts cite key-person risk. In Asia, by contrast, TSMC rose 5.6% and Taiwan's Taiex also 5.6%.",
+    "pt": "O conselho da Nvidia abriu uma investigação independente sobre seu CEO; analistas falam de risco de dependência de uma pessoa-chave. Na Ásia, por outro lado, a TSMC subiu 5,6% e o Taiex de Taiwan também 5,6%."
+   },
+   "scm": {
+    "es": "La volatilidad en chips sigue: mantén en pausa los contratos grandes de GPU y servidores.",
+    "en": "Chip volatility continues: keep large GPU and server contracts on hold.",
+    "pt": "A volatilidade nos chips continua: mantenha em pausa os contratos grandes de GPU e servidores."
+   },
+   "fuentes": [
+    {
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben; Nvidia cae (9 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
+    },
+    {
+     "t": "AP: las bolsas de Asia rebotan tras la recuperación de las acciones de IA",
+     "u": "https://www.news4jax.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
     }
    ]
   },
   {
    "id": "software",
-   "dir": "down",
+   "dir": "up",
    "calor": 2,
    "mx": false,
    "latam": false,
@@ -184,59 +118,55 @@
    "en": "Software, cloud and AI",
    "pt": "Software, nuvem e IA",
    "titular": {
-    "es": "Atlassian cae 15.9% mientras el software sigue bajo presión por la disrupción de la IA",
-    "en": "Atlassian falls 15.9% as software stays under pressure from AI disruption",
-    "pt": "A Atlassian cai 15,9% enquanto o software segue pressionado pela disrupção da IA"
+    "es": "Alphabet presenta dos chips de IA propios para competir con Nvidia y sube cerca de 3%",
+    "en": "Alphabet unveils two AI chips of its own to compete with Nvidia and rises about 3%",
+    "pt": "A Alphabet apresenta dois chips de IA próprios para competir com a Nvidia e sobe cerca de 3%"
    },
    "x": {
-    "es": "El fabricante de Jira y Confluence era de las acciones con peor desempeño a la apertura, en contraste con el rebote de los chips.",
-    "en": "The maker of Jira and Confluence was among the worst performers at the open, in contrast with the chip rebound.",
-    "pt": "A fabricante do Jira e do Confluence estava entre as ações de pior desempenho na abertura, em contraste com a recuperação dos chips."
+    "es": "La matriz de Google anunció dos nuevos chips de IA. Más competencia en chips para centros de datos puede diversificar la oferta de capacidad de nube.",
+    "en": "Google's parent announced two new AI chips. More competition in data center chips can diversify the supply of cloud capacity.",
+    "pt": "A controladora do Google anunciou dois novos chips de IA. Mais concorrência em chips para data centers pode diversificar a oferta de capacidade de nuvem."
    },
    "scm": {
-    "es": "Si renuevas licencias de software este trimestre, negocia: la presión sobre los proveedores de SaaS abre espacio a descuentos.",
-    "en": "If you renew software licenses this quarter, negotiate: pressure on SaaS vendors opens room for discounts.",
-    "pt": "Se você renova licenças de software neste trimestre, negocie: a pressão sobre fornecedores de SaaS abre espaço para descontos."
+    "es": "Si contratas capacidad de nube para IA, cotiza con más de un proveedor de chips o nube.",
+    "en": "If you buy cloud capacity for AI, quote with more than one chip or cloud provider.",
+    "pt": "Se você contrata capacidade de nuvem para IA, cote com mais de um fornecedor de chips ou nuvem."
    },
    "fuentes": [
     {
-     "t": "Reuters (vía BNN Bloomberg): el Nasdaq apunta al alza mientras los chips recortan pérdidas; persiste el temor a un alza de tasas",
-     "u": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/06/nasdaq-eyes-higher-open-as-chips-pare-losses-rate-hike-fears-linger/"
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben; Nvidia cae (9 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
     }
    ]
   },
   {
-   "id": "retail",
-   "dir": "up",
-   "calor": 1,
-   "mx": false,
+   "id": "ferroviario",
+   "dir": "down",
+   "calor": 2,
+   "mx": true,
    "latam": false,
-   "es": "Retail y consumo",
-   "en": "Retail and consumer",
-   "pt": "Varejo e consumo",
+   "es": "Ferroviario",
+   "en": "Rail",
+   "pt": "Ferroviário",
    "titular": {
-    "es": "Airbnb cierra con +11.7% tras superar lo esperado y elevar su guía anual",
-    "en": "Airbnb closes +11.7% after beating expectations and raising its full-year outlook",
-    "pt": "A Airbnb fecha em +11,7% após superar o esperado e elevar a projeção anual"
+    "es": "Sigue el caso antidumping en EE. UU. contra los carros tanque mexicanos, con aranceles propuestos de cerca de 32%",
+    "en": "The US antidumping case against Mexican tank cars continues, with proposed duties near 32%",
+    "pt": "Segue o caso antidumping nos EUA contra os vagões-tanque mexicanos, com tarifas propostas de cerca de 32%"
    },
    "x": {
-    "es": "Airbnb ganó 3.16 dólares por acción (se esperaban 2.85) e ingresos de 4,870 millones de dólares (+19%), y subió su guía anual. Es una señal de que el gasto en viajes y servicios sigue firme.",
-    "en": "Airbnb earned $3.16 per share ($2.85 expected) on revenue of $4.87 billion (+19%) and raised its full-year outlook. It signals that travel and services spending remains firm.",
-    "pt": "A Airbnb lucrou 3,16 dólares por ação (esperava-se 2,85) com receita de 4,87 bilhões de dólares (+19%) e elevou sua projeção anual. É sinal de que o gasto com viagens e serviços segue firme."
+    "es": "Peticiones antidumping y de subsidios contra carros tanque y sus partes fabricados en México proponen aranceles cercanos a 32%. La Comisión de Comercio Internacional de EE. UU. (USITC) abrió el caso de daño.",
+    "en": "Antidumping and countervailing petitions against Mexican-made tank cars and parts propose duties near 32%. The US International Trade Commission (USITC) opened the injury case.",
+    "pt": "Petições antidumping e de subsídios contra vagões-tanque e suas peças fabricados no México propõem tarifas perto de 32%. A Comissão de Comércio Internacional dos EUA (USITC) abriu o caso de dano."
    },
    "scm": {
-    "es": "El consumo de servicios en EE. UU. sigue fuerte: no recortes inventarios de temporada alta.",
-    "en": "US services spending stays strong: don't cut peak-season inventory.",
-    "pt": "O consumo de serviços nos EUA segue forte: não corte estoques da alta temporada."
+    "es": "Si compras o exportas carros tanque, revisa contratos y escenarios de costo con un arancel de 32%.",
+    "en": "If you buy or export tank cars, review contracts and cost scenarios with a 32% duty.",
+    "pt": "Se você compra ou exporta vagões-tanque, revise contratos e cenários de custo com uma tarifa de 32%."
    },
    "fuentes": [
     {
-     "t": "Kiplinger: el Nasdaq sube 264 puntos con el rebote de tecnología, pero cierra la semana a la baja",
-     "u": "https://www.kiplinger.com/investing/stocks/nasdaq-adds-264-points-in-tech-rebound-but-ends-the-week-lower-stock-market-today"
-    },
-    {
-     "t": "Yahoo Finance: el Nasdaq y el S&P 500 rebotan; el Dow baja al cierre de una semana dura para la IA",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
+     "t": "Clark Hill: nuevas peticiones ponen a los carros tanque mexicanos en riesgo de aranceles cercanos a 32%",
+     "u": "https://www.clarkhill.com/news-events/news/new-antidumping-countervailing-duty-petitions-mexico-railway-tank-cars/"
     }
    ]
   }

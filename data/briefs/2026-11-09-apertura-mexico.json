@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-09-apertura-mexico",
+ "fecha": "2026-11-09",
+ "momento": "apertura",
+ "mercado": "mexico",
+ "hora": "09:10 CDMX",
+ "es": {
+  "titular": "El peso abre en 18.61 con ganancias y sigue el caso antidumping de los carros tanque mexicanos",
+  "esencial": [
+   "El peso abrió en 18.61 por dólar, mejor que el cierre del viernes (18.62), y en la madrugada tocó 18.555.",
+   "Lo apoyan el dólar débil, la caída del petróleo y señales de distensión comercial entre EE. UU. y China.",
+   "Si exportas carros tanque o partes ferroviarias, sigue el caso antidumping en EE. UU.: hay aranceles propuestos de cerca de 32%."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "El peso abrió en 18.61 por dólar, con un rango previsto para hoy de 18.52 a 18.75; en la madrugada llegó a 18.555. El FIX del día se determina a mediodía. No confirmé la apertura del IPC."
+   },
+   {
+    "t": "Contexto",
+    "x": "El peso se beneficia del dólar débil, de la caída del petróleo y de señales de distensión comercial entre EE. UU. y China. En EE. UU. sigue el caso antidumping y de subsidios contra los carros tanque fabricados en México, con aranceles propuestos de cerca de 32%."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Sin datos relevantes en México. El CPI de EE. UU. del martes es el principal riesgo para el peso esta semana. El lunes 16 cierran la BMV y los bancos."
+   }
+  ],
+  "scm": "Con el peso en 18.61, cubre hoy una parte de tus pagos en dólares de noviembre y deja el resto para después del CPI del martes. Si exportas equipo ferroviario a EE. UU., revisa con tu agente el estatus del caso de carros tanque."
+ },
+ "en": {
+  "titular": "The peso opens at 18.61 with gains as the antidumping case on Mexican tank cars continues",
+  "esencial": [
+   "The peso opened at 18.61 per dollar, better than Friday's close (18.62), and touched 18.555 overnight.",
+   "It is supported by a weak dollar, lower oil and signs of easing US–China trade tension.",
+   "If you export tank cars or rail parts, follow the US antidumping case: proposed duties are near 32%."
+  ],
+  "bloques": [
+   {
+    "t": "Opening",
+    "x": "The peso opened at 18.61 per dollar, with an expected range of 18.52 to 18.75 today; overnight it reached 18.555. Today's FIX is set at midday. I could not confirm the IPC opening."
+   },
+   {
+    "t": "Context",
+    "x": "The peso benefits from a weak dollar, lower oil and signs of easing US–China trade tension. In the US, the antidumping and countervailing case against Mexican-made tank cars continues, with proposed duties near 32%."
+   },
+   {
+    "t": "What to expect today",
+    "x": "No major Mexican data. Tuesday's US CPI is the main risk for the peso this week. On Monday the 16th, the BMV and banks close."
+   }
+  ],
+  "scm": "With the peso at 18.61, hedge part of your November dollar payments today and leave the rest for after Tuesday's CPI. If you export rail equipment to the US, check the tank car case with your broker."
+ },
+ "pt": {
+  "titular": "O peso abre a 18,61 com ganhos e segue o caso antidumping dos vagões-tanque mexicanos",
+  "esencial": [
+   "O peso abriu a 18,61 por dólar, melhor que o fechamento de sexta (18,62), e tocou 18,555 na madrugada.",
+   "O apoiam o dólar fraco, a queda do petróleo e sinais de distensão comercial entre EUA e China.",
+   "Se você exporta vagões-tanque ou peças ferroviárias, acompanhe o caso antidumping nos EUA: há tarifas propostas de cerca de 32%."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "O peso abriu a 18,61 por dólar, com intervalo previsto para hoje de 18,52 a 18,75; na madrugada chegou a 18,555. O FIX do dia é determinado ao meio-dia. Não confirmei a abertura do IPC."
+   },
+   {
+    "t": "Contexto",
+    "x": "O peso se beneficia do dólar fraco, da queda do petróleo e de sinais de distensão comercial entre EUA e China. Nos EUA segue o caso antidumping e de subsídios contra os vagões-tanque fabricados no México, com tarifas propostas de cerca de 32%."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Sem dados relevantes no México. O CPI dos EUA de terça é o principal risco para o peso nesta semana. Na segunda, dia 16, a BMV e os bancos fecham."
+   }
+  ],
+  "scm": "Com o peso a 18,61, proteja hoje parte dos seus pagamentos em dólares de novembro e deixe o resto para depois do CPI de terça. Se você exporta equipamento ferroviário para os EUA, verifique com seu despachante o status do caso dos vagões-tanque."
+ },
+ "fuentes": [
+  {
+   "t": "Publimetro: el peso mexicano inicia la semana con ganancias (9 nov 2026)",
+   "u": "https://www.publimetro.com.mx/noticias/2026/11/09/precio-del-dolar-hoy-lunes-9-de-noviembre-peso-mexicano-inicia-la-semana-con-ganancias/"
+  },
+  {
+   "t": "Clark Hill: nuevas peticiones ponen a los carros tanque mexicanos en riesgo de aranceles cercanos a 32%",
+   "u": "https://www.clarkhill.com/news-events/news/new-antidumping-countervailing-duty-petitions-mexico-railway-tank-cars/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}
