@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-09T15:12:14Z",
+ "actualizado": "2026-11-09T15:36:44Z",
  "fecha": "2026-11-09",
  "titular": {
-  "es": "Long Beach gana dos semanas, el crudo cae 5% y Nvidia se hunde: el arranque de la semana para las industrias",
-  "en": "Long Beach gains two weeks, crude falls 5% and Nvidia sinks: the week starts for industries",
-  "pt": "Long Beach ganha duas semanas, o petróleo cai 5% e a Nvidia afunda: o início da semana para as indústrias"
+  "es": "Long Beach gana dos semanas, el crudo cae 3.4% y los chips suben salvo Nvidia: el arranque de la semana para las industrias",
+  "en": "Long Beach gains two weeks, crude falls 3.4% and chips rise except Nvidia: the week starts for industries",
+  "pt": "Long Beach ganha duas semanas, o petróleo cai 3,4% e os chips sobem, exceto a Nvidia: o início da semana para as indústrias"
  },
  "items": [
   {
@@ -48,14 +48,14 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El WTI cae 5% a 86.29 dólares y abre espacio para bajar recargos de combustible",
-    "en": "WTI falls 5% to $86.29, opening room to lower fuel surcharges",
-    "pt": "O WTI cai 5% para 86,29 dólares e abre espaço para reduzir sobretaxas de combustível"
+    "es": "El WTI cae 3.4% a 87.74 dólares y abre espacio para bajar recargos de combustible",
+    "en": "WTI falls 3.4% to $87.74, opening room to lower fuel surcharges",
+    "pt": "O WTI cai 3,4% para 87,74 dólares e abre espaço para reduzir sobretaxas de combustível"
    },
    "x": {
-    "es": "El crudo de referencia de EE. UU. caía 5% a media mañana, a 86.29 dólares. El viernes había terminado cerca de 91 dólares.",
-    "en": "US benchmark crude was down 5% by mid-morning, at $86.29. It had ended Friday near $91.",
-    "pt": "O petróleo de referência dos EUA caía 5% no meio da manhã, a 86,29 dólares. Na sexta havia terminado perto de 91 dólares."
+    "es": "A las 9:35 CDMX el WTI caía 3.4% a 87.74 dólares y el Brent 4.1% a 94.26. En la madrugada el Brent rondaba 98 dólares.",
+    "en": "At 10:35 a.m. ET WTI was down 3.4% at $87.74 and Brent 4.1% at $94.26. Overnight Brent was around $98.",
+    "pt": "Às 9h35 (Cidade do México) o WTI caía 3,4% para 87,74 dólares e o Brent 4,1% para 94,26. Na madrugada o Brent rondava 98 dólares."
    },
    "scm": {
     "es": "Pide a tus transportistas que el recargo de combustible de la próxima semana refleje la baja del crudo.",
@@ -83,14 +83,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Nvidia cae cerca de 8% por la investigación de su consejo sobre su director, Jensen Huang",
-    "en": "Nvidia falls about 8% on its board's probe into CEO Jensen Huang",
-    "pt": "A Nvidia cai cerca de 8% pela investigação do seu conselho sobre o CEO, Jensen Huang"
+    "es": "Nvidia abre con caída de 7% por la investigación sobre su director, mientras el resto de los chips sube",
+    "en": "Nvidia opens down 7% on the probe into its CEO while the rest of chips rally",
+    "pt": "A Nvidia abre em queda de 7% pela investigação sobre seu CEO, enquanto o resto dos chips sobe"
    },
    "x": {
-    "es": "El consejo de Nvidia abrió una investigación independiente sobre su director; analistas hablan de riesgo por dependencia de una persona clave. En Asia, en cambio, TSMC subió 5.6% y el Taiex de Taiwán también 5.6%.",
-    "en": "Nvidia's board opened an independent investigation into its CEO; analysts cite key-person risk. In Asia, by contrast, TSMC rose 5.6% and Taiwan's Taiex also 5.6%.",
-    "pt": "O conselho da Nvidia abriu uma investigação independente sobre seu CEO; analistas falam de risco de dependência de uma pessoa-chave. Na Ásia, por outro lado, a TSMC subiu 5,6% e o Taiex de Taiwan também 5,6%."
+    "es": "El consejo de Nvidia abrió una investigación independiente sobre su director; analistas hablan de riesgo por dependencia de una persona clave. Nvidia abrió con −7.3% y a las 9:35 CDMX bajaba 3.8%, mientras AMD subía 9.4% y el Taiex de Taiwán cerró con +4.9%.",
+    "en": "Nvidia's board opened an independent investigation into its CEO; analysts cite key-person risk. Nvidia opened −7.3% and was down 3.8% at 10:35 a.m. ET, while AMD rose 9.4% and Taiwan's Taiex closed up 4.9%.",
+    "pt": "O conselho da Nvidia abriu uma investigação independente sobre seu CEO; analistas falam de risco de dependência de uma pessoa-chave. A Nvidia abriu com −7,3% e às 9h35 caía 3,8%, enquanto a AMD subia 9,4% e o Taiex de Taiwan fechou com +4,9%."
    },
    "scm": {
     "es": "La volatilidad en chips sigue: mantén en pausa los contratos grandes de GPU y servidores.",

@@ -3,22 +3,22 @@
  "fecha": "2026-11-09",
  "momento": "apertura",
  "mercado": "latam",
- "hora": "09:10 CDMX",
+ "hora": "09:35 CDMX",
  "es": {
   "titular": "Las monedas de la región se fortalecen con el dólar débil; el petróleo a la baja pesa en Colombia",
   "esencial": [
    "En la madrugada el peso chileno se apreciaba a 972.7 por dólar y el real estaba en 5.50.",
-   "El dólar débil y el rebote de Asia apoyan a la región; la caída del crudo (−5%) pesa en exportadores como Colombia.",
+   "El dólar débil y las bolsas al alza apoyan a la región; la caída del crudo (−3.4%) pesa en exportadores como Colombia.",
    "Si tienes pagos en monedas locales, espera al CPI del martes; los cobros conviértelos pronto."
   ],
   "bloques": [
    {
     "t": "Apertura",
-    "x": "Con datos de las 5:17 CDMX, el peso chileno estaba en 972.7 por dólar (−0.5% el dólar), el real en 5.50, el peso colombiano en 3,237.9 y el sol en 3.44. Las bolsas de la región todavía muestran el cierre del viernes: Ibovespa 168,499 (+1.39%), S&P/TSX 35,789.1 (+0.52%) y COLCAP 24,389.5 (−0.46%)."
+    "x": "Con datos de las 5:17 CDMX, el peso chileno estaba en 972.7 por dólar (−0.5% el dólar), el real en 5.50, el peso colombiano en 3,237.9 y el sol en 3.44. A las 9:35 CDMX, el Ibovespa subía 0.99% (170,173) y el S&P/TSX de Canadá 1.30% (36,255.65)."
    },
    {
     "t": "Contexto",
-    "x": "El dólar débil, el rebote de Asia y la prórroga en Long Beach apoyan a la región. La caída de 5% del petróleo favorece a importadores, pero pesa en Petrobras y en el peso colombiano."
+    "x": "El dólar débil, el rebote de Asia y la prórroga en Long Beach apoyan a la región. La caída de 3.4% del petróleo favorece a importadores, pero pesa en Petrobras y en el peso colombiano."
    },
    {
     "t": "Qué se espera hoy",
@@ -31,17 +31,17 @@
   "titular": "The region's currencies strengthen on a weak dollar; lower oil weighs on Colombia",
   "esencial": [
    "Overnight the Chilean peso strengthened to 972.7 per dollar and the real was at 5.50.",
-   "A weak dollar and Asia's rebound support the region; crude's 5% drop weighs on exporters such as Colombia.",
+   "A weak dollar and Asia's rebound support the region; crude's 3.4% drop weighs on exporters such as Colombia.",
    "If you have local-currency payments, wait for Tuesday's CPI; convert receivables soon."
   ],
   "bloques": [
    {
     "t": "Opening",
-    "x": "With data as of 5:17 a.m. Mexico City time, the Chilean peso was at 972.7 per dollar (dollar −0.5%), the real at 5.50, the Colombian peso at 3,237.9 and the sol at 3.44. The region's exchanges still show Friday's close: Ibovespa 168,499 (+1.39%), S&P/TSX 35,789.1 (+0.52%) and COLCAP 24,389.5 (−0.46%)."
+    "x": "With data as of 5:17 a.m. Mexico City time, the Chilean peso was at 972.7 per dollar (dollar −0.5%), the real at 5.50, the Colombian peso at 3,237.9 and the sol at 3.44. At 9:35 a.m. Mexico City time, the Ibovespa was up 0.99% (170,173) and Canada's S&P/TSX 1.30% (36,255.65)."
    },
    {
     "t": "Context",
-    "x": "A weak dollar, Asia's rebound and the Long Beach extension support the region. Oil's 5% drop favors importers but weighs on Petrobras and the Colombian peso."
+    "x": "A weak dollar, Asia's rebound and the Long Beach extension support the region. Oil's 3.4% drop favors importers but weighs on Petrobras and the Colombian peso."
    },
    {
     "t": "What to expect today",
@@ -54,17 +54,17 @@
   "titular": "As moedas da região se fortalecem com o dólar fraco; o petróleo em queda pesa na Colômbia",
   "esencial": [
    "Na madrugada o peso chileno se valorizava a 972,7 por dólar e o real estava em 5,50.",
-   "O dólar fraco e a alta da Ásia apoiam a região; a queda do petróleo (−5%) pesa sobre exportadores como a Colômbia.",
+   "O dólar fraco e a alta da Ásia apoiam a região; a queda do petróleo (−3,4%) pesa sobre exportadores como a Colômbia.",
    "Se você tem pagamentos em moeda local, espere o CPI de terça; converta os recebíveis logo."
   ],
   "bloques": [
    {
     "t": "Abertura",
-    "x": "Com dados das 5h17 (Cidade do México), o peso chileno estava em 972,7 por dólar (dólar −0,5%), o dólar em R$ 5,50, o peso colombiano em 3.237,9 e o sol em 3,44. As bolsas da região ainda mostram o fechamento de sexta: Ibovespa 168.499 (+1,39%), S&P/TSX 35.789,1 (+0,52%) e COLCAP 24.389,5 (−0,46%)."
+    "x": "Com dados das 5h17 (Cidade do México), o peso chileno estava em 972,7 por dólar (dólar −0,5%), o dólar em R$ 5,50, o peso colombiano em 3.237,9 e o sol em 3,44. Às 9h35, o Ibovespa subia 0,99% (170.173) e o S&P/TSX do Canadá 1,30% (36.255,65)."
    },
    {
     "t": "Contexto",
-    "x": "O dólar fraco, a alta da Ásia e a prorrogação em Long Beach apoiam a região. A queda de 5% do petróleo favorece importadores, mas pesa sobre a Petrobras e o peso colombiano."
+    "x": "O dólar fraco, a alta da Ásia e a prorrogação em Long Beach apoiam a região. A queda de 3,4% do petróleo favorece importadores, mas pesa sobre a Petrobras e o peso colombiano."
    },
    {
     "t": "O que se espera hoje",
@@ -74,6 +74,10 @@
   "scm": "Converta logo os recebíveis em moeda local e deixe os pagamentos para depois do CPI de terça. Com o petróleo em queda, peça revisão das sobretaxas de frete em rotas regionais."
  },
  "fuentes": [
+  {
+   "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas (9 nov 2026, 9:35 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
   {
    "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
    "u": "https://mrsupplychain.ai/noticias/"

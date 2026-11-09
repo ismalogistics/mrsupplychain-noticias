@@ -3,22 +3,22 @@
  "fecha": "2026-11-09",
  "momento": "apertura",
  "mercado": "global",
- "hora": "09:10 CDMX",
+ "hora": "09:35 CDMX",
  "es": {
-  "titular": "Wall Street rebota y el petróleo cae 5%, pero Nvidia se hunde 8% por la investigación sobre su director",
+  "titular": "Wall Street sube con fuerza y el petróleo cae, pero Nvidia baja 4% por la investigación sobre su director",
   "esencial": [
-   "A media mañana el Dow subía 1.2%, el S&P 500 0.9% y el Nasdaq 0.9%, mientras Nvidia caía cerca de 8%.",
-   "El WTI cae 5% a 86.29 dólares y Long Beach alejó la huelga hasta el 20 de noviembre.",
+   "A las 9:35 CDMX el Nasdaq subía 2.5%, el S&P 500 1.9% y el Dow 1.6%, mientras Nvidia caía 3.8%.",
+   "El WTI baja 3.4% a 87.74 dólares, Europa sube (DAX +1.7%) y Long Beach alejó la huelga hasta el 20 de noviembre.",
    "Para supply chain: el combustible abarata fletes, pero espera al CPI del martes antes de cerrar contratos en dólares."
   ],
   "bloques": [
    {
     "t": "Apertura",
-    "x": "Los futuros anticipaban un rebote tras la peor semana desde junio, y así abrió el mercado. Con datos de media mañana, el Dow subía 1.20% (51,902.02), el S&P 500 0.91% (7,443.72) y el Nasdaq 0.90% (24,799.98). Nvidia caía cerca de 8% porque su consejo abrió una investigación independiente sobre su director, Jensen Huang; Alphabet subía cerca de 3% tras presentar dos chips de IA propios. El WTI caía 5% a 86.29 dólares, el oro estaba en 4,136.80 y el Treasury a 10 años bajaba a 4.84%."
+    "x": "Los futuros anticipaban un rebote tras la peor semana desde junio, y el mercado abrió al alza. A las 9:35 CDMX, el Nasdaq subía 2.46% (25,184.19), el S&P 500 1.92% (7,518.69) y el Dow 1.60% (52,105.38), con AMD +9.4% y Alphabet +3.2% tras presentar dos chips de IA propios. Nvidia abrió con caída de 7.3% porque su consejo investiga a su director, Jensen Huang, y luego recortó a −3.8%. El WTI bajaba 3.4% a 87.74 dólares, el Brent 4.1% a 94.26, el oro subía 1.3% a 4,126 y el Treasury a 10 años estaba en 4.87%."
    },
    {
     "t": "Asia y Europa",
-    "x": "Asia rebotó con fuerza: el Taiex de Taiwán subió 5.6% con TSMC y el Nikkei de Japón 3.4% (59,411.34). No encontré cifras verificadas de Europa a esta hora."
+    "x": "En Asia, el Taiex de Taiwán cerró con +4.9% y el Nikkei de Japón con +2.3% (58,775.50), pero el KOSPI de Corea bajó 0.81% (5,018.85). Europa sube: Euro Stoxx 50 +1.9%, DAX +1.7%, CAC 40 +1.3% y FTSE 100 +0.8%."
    },
    {
     "t": "Qué se espera hoy",
@@ -32,20 +32,20 @@
   "scm": "Para esta semana: 1) aprovecha la baja del crudo para negociar recargos de combustible con ajuste semanal; 2) usa la prórroga de Long Beach para retirar contenedores antes del 20 de noviembre; 3) espera al CPI del martes antes de cerrar contratos en dólares de largo plazo."
  },
  "en": {
-  "titular": "Wall Street rebounds and oil falls 5%, but Nvidia sinks 8% on the probe into its CEO",
+  "titular": "Wall Street rallies and oil falls, but Nvidia drops 4% on the probe into its CEO",
   "esencial": [
-   "By mid-morning the Dow was up 1.2%, the S&P 500 0.9% and the Nasdaq 0.9%, while Nvidia fell about 8%.",
-   "WTI falls 5% to $86.29, and Long Beach pushed the strike threat to Nov. 20.",
+   "At 10:35 a.m. ET the Nasdaq was up 2.5%, the S&P 500 1.9% and the Dow 1.6%, while Nvidia fell 3.8%.",
+   "WTI drops 3.4% to $87.74, Europe rises (DAX +1.7%) and Long Beach pushed the strike threat to Nov. 20.",
    "For supply chain: fuel makes freight cheaper, but wait for Tuesday's CPI before closing dollar contracts."
   ],
   "bloques": [
    {
     "t": "Opening",
-    "x": "Futures pointed to a rebound after the worst week since June, and the market opened that way. As of mid-morning, the Dow was up 1.20% (51,902.02), the S&P 500 0.91% (7,443.72) and the Nasdaq 0.90% (24,799.98). Nvidia fell about 8% after its board opened an independent investigation into CEO Jensen Huang; Alphabet rose about 3% after unveiling two AI chips of its own. WTI fell 5% to $86.29, gold was at $4,136.80 and the 10-year Treasury eased to 4.84%."
+    "x": "Futures pointed to a rebound after the worst week since June, and the market opened higher. At 10:35 a.m. ET, the Nasdaq was up 2.46% (25,184.19), the S&P 500 1.92% (7,518.69) and the Dow 1.60% (52,105.38), with AMD +9.4% and Alphabet +3.2% after unveiling two AI chips of its own. Nvidia opened down 7.3% as its board investigates CEO Jensen Huang, then pared the loss to −3.8%. WTI was down 3.4% at $87.74, Brent 4.1% at $94.26, gold up 1.3% at $4,126 and the 10-year Treasury at 4.87%."
    },
    {
     "t": "Asia and Europe",
-    "x": "Asia rebounded strongly: Taiwan's Taiex rose 5.6% with TSMC and Japan's Nikkei 3.4% (59,411.34). I could not find verified European figures at this hour."
+    "x": "In Asia, Taiwan's Taiex closed up 4.9% and Japan's Nikkei up 2.3% (58,775.50), but South Korea's KOSPI fell 0.81% (5,018.85). Europe is higher: Euro Stoxx 50 +1.9%, DAX +1.7%, CAC 40 +1.3% and FTSE 100 +0.8%."
    },
    {
     "t": "What to expect today",
@@ -59,20 +59,20 @@
   "scm": "For this week: 1) use the drop in crude to negotiate weekly-adjusted fuel surcharges; 2) use the Long Beach extension to pick up containers before Nov. 20; 3) wait for Tuesday's CPI before closing long-term dollar contracts."
  },
  "pt": {
-  "titular": "Wall Street sobe e o petróleo cai 5%, mas a Nvidia afunda 8% pela investigação sobre seu CEO",
+  "titular": "Wall Street sobe com força e o petróleo cai, mas a Nvidia recua 4% pela investigação sobre seu CEO",
   "esencial": [
-   "No meio da manhã o Dow subia 1,2%, o S&P 500 0,9% e o Nasdaq 0,9%, enquanto a Nvidia caía cerca de 8%.",
-   "O WTI cai 5% para 86,29 dólares, e Long Beach adiou a ameaça de greve para 20 de novembro.",
+   "Às 9h35 (Cidade do México) o Nasdaq subia 2,5%, o S&P 500 1,9% e o Dow 1,6%, enquanto a Nvidia caía 3,8%.",
+   "O WTI cai 3,4% para 87,74 dólares, a Europa sobe (DAX +1,7%) e Long Beach adiou a ameaça de greve para 20 de novembro.",
    "Para supply chain: o combustível barateia os fretes, mas espere o CPI de terça antes de fechar contratos em dólares."
   ],
   "bloques": [
    {
     "t": "Abertura",
-    "x": "Os futuros indicavam uma recuperação após a pior semana desde junho, e assim abriu o mercado. Com dados do meio da manhã, o Dow subia 1,20% (51.902,02), o S&P 500 0,91% (7.443,72) e o Nasdaq 0,90% (24.799,98). A Nvidia caía cerca de 8% porque seu conselho abriu uma investigação independente sobre o CEO, Jensen Huang; a Alphabet subia cerca de 3% após apresentar dois chips de IA próprios. O WTI caía 5% para 86,29 dólares, o ouro estava em 4.136,80 e o título de 10 anos do Tesouro caía para 4,84%."
+    "x": "Os futuros indicavam uma recuperação após a pior semana desde junho, e o mercado abriu em alta. Às 9h35 (Cidade do México), o Nasdaq subia 2,46% (25.184,19), o S&P 500 1,92% (7.518,69) e o Dow 1,60% (52.105,38), com AMD +9,4% e Alphabet +3,2% após apresentar dois chips de IA próprios. A Nvidia abriu em queda de 7,3% porque seu conselho investiga o CEO, Jensen Huang, e depois reduziu a perda para −3,8%. O WTI caía 3,4% para 87,74 dólares, o Brent 4,1% para 94,26, o ouro subia 1,3% para 4.126 e o título de 10 anos do Tesouro estava em 4,87%."
    },
    {
     "t": "Ásia e Europa",
-    "x": "A Ásia se recuperou com força: o Taiex de Taiwan subiu 5,6% com a TSMC e o Nikkei do Japão 3,4% (59.411,34). Não encontrei números verificados da Europa a esta hora."
+    "x": "Na Ásia, o Taiex de Taiwan fechou com +4,9% e o Nikkei do Japão com +2,3% (58.775,50), mas o KOSPI da Coreia caiu 0,81% (5.018,85). A Europa sobe: Euro Stoxx 50 +1,9%, DAX +1,7%, CAC 40 +1,3% e FTSE 100 +0,8%."
    },
    {
     "t": "O que se espera hoje",
@@ -87,12 +87,16 @@
  },
  "fuentes": [
   {
+   "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas (9 nov 2026, 9:35 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
    "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben; Nvidia cae (9 nov 2026)",
    "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
   },
   {
-   "t": "AP: las bolsas de Asia rebotan tras la recuperación de las acciones de IA",
-   "u": "https://www.news4jax.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
+   "t": "Seoul Economic Daily: el KOSPI cae 0.81% y cierra en 5,018.85 (9 nov 2026)",
+   "u": "https://en.sedaily.com/finance/2026/11/09/kospi-falls-081-percent-to-close-at-501885"
   },
   {
    "t": "GV Wire (Reuters): empleadores y vigilantes de los puertos de California extienden las pláticas al 20 de noviembre",

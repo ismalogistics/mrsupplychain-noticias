@@ -3,7 +3,7 @@
  "fecha": "2026-11-09",
  "momento": "apertura",
  "mercado": "mexico",
- "hora": "09:10 CDMX",
+ "hora": "09:35 CDMX",
  "es": {
   "titular": "El peso abre en 18.61 con ganancias y sigue el caso antidumping de los carros tanque mexicanos",
   "esencial": [
@@ -14,7 +14,7 @@
   "bloques": [
    {
     "t": "Apertura",
-    "x": "El peso abrió en 18.61 por dólar, con un rango previsto para hoy de 18.52 a 18.75; en la madrugada llegó a 18.555. El FIX del día se determina a mediodía. No confirmé la apertura del IPC."
+    "x": "El peso abrió en 18.61 por dólar, con un rango previsto para hoy de 18.52 a 18.75; en la madrugada llegó a 18.555. A las 9:35 CDMX estaba en 18.58. La Bolsa sube: el S&P/BMV IPC ganaba 0.89% a 72,025 puntos y tocó 72,227, su máximo de 52 semanas."
    },
    {
     "t": "Contexto",
@@ -37,7 +37,7 @@
   "bloques": [
    {
     "t": "Opening",
-    "x": "The peso opened at 18.61 per dollar, with an expected range of 18.52 to 18.75 today; overnight it reached 18.555. Today's FIX is set at midday. I could not confirm the IPC opening."
+    "x": "The peso opened at 18.61 per dollar, with an expected range of 18.52 to 18.75 today; overnight it reached 18.555. At 9:35 a.m. Mexico City time it was at 18.58. Stocks rise: the S&P/BMV IPC was up 0.89% at 72,025 and touched 72,227, its 52-week high."
    },
    {
     "t": "Context",
@@ -60,7 +60,7 @@
   "bloques": [
    {
     "t": "Abertura",
-    "x": "O peso abriu a 18,61 por dólar, com intervalo previsto para hoje de 18,52 a 18,75; na madrugada chegou a 18,555. O FIX do dia é determinado ao meio-dia. Não confirmei a abertura do IPC."
+    "x": "O peso abriu a 18,61 por dólar, com intervalo previsto para hoje de 18,52 a 18,75; na madrugada chegou a 18,555. Às 9h35 estava em 18,58. A bolsa sobe: o S&P/BMV IPC ganhava 0,89% a 72.025 pontos e tocou 72.227, sua máxima de 52 semanas."
    },
    {
     "t": "Contexto",
@@ -74,6 +74,14 @@
   "scm": "Com o peso a 18,61, proteja hoje parte dos seus pagamentos em dólares de novembro e deixe o resto para depois do CPI de terça. Se você exporta equipamento ferroviário para os EUA, verifique com seu despachante o status do caso dos vagões-tanque."
  },
  "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 9 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas (9 nov 2026, 9:35 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
   {
    "t": "Publimetro: el peso mexicano inicia la semana con ganancias (9 nov 2026)",
    "u": "https://www.publimetro.com.mx/noticias/2026/11/09/precio-del-dolar-hoy-lunes-9-de-noviembre-peso-mexicano-inicia-la-semana-con-ganancias/"
