@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-09-cierre-latam",
+ "fecha": "2026-11-09",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "15:20 CDMX",
+ "es": {
+  "titular": "La región cierra al alza: el Ibovespa sube 2.0% y el TSX 1.8%, con Colombia y Perú arriba de 3%",
+  "esencial": [
+   "El Ibovespa cerró con +2.02% (171,906.50) y el S&P/TSX de Canadá con +1.84% (36,446.26).",
+   "El apetito por riesgo y el dólar débil impulsaron a la región; los ETF de Colombia y Perú subían más de 3% a las 14:07 CDMX.",
+   "Convierte pronto los cobros en monedas locales y deja los pagos para después del CPI de mañana."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El Ibovespa cerró con +2.02% (171,906.50) y el S&P/TSX con +1.84% (36,446.26). Con datos de las 14:07 CDMX, los ETF de MSCI subían 3.7% en Perú, 3.2% en Colombia, 2.1% en Chile y 2.0% en Argentina."
+   },
+   {
+    "t": "Por qué",
+    "x": "El rebote de Wall Street, la baja del dólar (DXY −0.6%) y la caída del crudo, que alivia los costos de importación, apoyaron a la región."
+   },
+   {
+    "t": "Monedas",
+    "x": "A las 14:07 CDMX el peso chileno estaba en 968.1 por dólar, el real en 5.50, el peso colombiano en 3,269, el sol en 3.41 y el peso argentino en 1,545."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "El CPI de EE. UU. de mañana (7:30 CDMX) marcará el tono para las monedas de la región. Brasil mantiene la Selic en 13.75%."
+   }
+  ],
+  "scm": "Convierte pronto los cobros en monedas locales y deja los pagos para después del CPI de mañana. Con el crudo a la baja, pide revisión de recargos de flete en rutas regionales."
+ },
+ "en": {
+  "titular": "The region closes higher: the Ibovespa rises 2.0% and the TSX 1.8%, with Colombia and Peru above 3%",
+  "esencial": [
+   "The Ibovespa closed +2.02% (171,906.50) and Canada's S&P/TSX +1.84% (36,446.26).",
+   "Risk appetite and a weak dollar lifted the region; the Colombia and Peru ETFs were up more than 3% at 2:07 p.m. Mexico City time.",
+   "Convert local-currency receivables soon and leave payments for after tomorrow's CPI."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The Ibovespa closed +2.02% (171,906.50) and the S&P/TSX +1.84% (36,446.26). With data as of 2:07 p.m. Mexico City time, the MSCI ETFs were up 3.7% for Peru, 3.2% for Colombia, 2.1% for Chile and 2.0% for Argentina."
+   },
+   {
+    "t": "Why",
+    "x": "Wall Street's rebound, a weaker dollar (DXY −0.6%) and lower crude, which eases import costs, supported the region."
+   },
+   {
+    "t": "Currencies",
+    "x": "At 2:07 p.m. Mexico City time the Chilean peso was at 968.1 per dollar, the real at 5.50, the Colombian peso at 3,269, the sol at 3.41 and the Argentine peso at 1,545."
+   },
+   {
+    "t": "What to expect",
+    "x": "Tomorrow's US CPI (8:30 a.m. ET) will set the tone for the region's currencies. Brazil keeps the Selic at 13.75%."
+   }
+  ],
+  "scm": "Convert local-currency receivables soon and leave payments for after tomorrow's CPI. With crude lower, ask for a review of freight surcharges on regional routes."
+ },
+ "pt": {
+  "titular": "A região fecha em alta: o Ibovespa sobe 2,0% e o TSX 1,8%, com Colômbia e Peru acima de 3%",
+  "esencial": [
+   "O Ibovespa fechou com +2,02% (171.906,50) e o S&P/TSX do Canadá com +1,84% (36.446,26).",
+   "O apetite por risco e o dólar fraco impulsionaram a região; os ETFs da Colômbia e do Peru subiam mais de 3% às 14h07 (Cidade do México).",
+   "Converta logo os recebíveis em moeda local e deixe os pagamentos para depois do CPI de amanhã."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O Ibovespa fechou com +2,02% (171.906,50) e o S&P/TSX com +1,84% (36.446,26). Com dados das 14h07 (Cidade do México), os ETFs da MSCI subiam 3,7% no Peru, 3,2% na Colômbia, 2,1% no Chile e 2,0% na Argentina."
+   },
+   {
+    "t": "Por quê",
+    "x": "A recuperação de Wall Street, a queda do dólar (DXY −0,6%) e a baixa do petróleo, que alivia os custos de importação, apoiaram a região."
+   },
+   {
+    "t": "Moedas",
+    "x": "Às 14h07 o peso chileno estava em 968,1 por dólar, o dólar em R$ 5,50, o peso colombiano em 3.269, o sol em 3,41 e o peso argentino em 1.545."
+   },
+   {
+    "t": "O que se espera",
+    "x": "O CPI dos EUA de amanhã (7h30, Cidade do México) vai dar o tom para as moedas da região. O Brasil mantém a Selic em 13,75%."
+   }
+  ],
+  "scm": "Converta logo os recebíveis em moeda local e deixe os pagamentos para depois do CPI de amanhã. Com o petróleo em queda, peça revisão das sobretaxas de frete em rotas regionais."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas al cierre (9 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-09-cierre-mexico",
+ "fecha": "2026-11-09",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "15:20 CDMX",
+ "es": {
+  "titular": "La inflación de México sube a 3.75% en octubre por la luz; el IPC cierra con +0.6% y el peso en 18.55",
+  "esencial": [
+   "La inflación anual de México subió a 3.75% en octubre, arriba del 3.65% esperado, y la subyacente a 3.80%.",
+   "La electricidad subió 18.5% en el mes por el fin del subsidio de verano, y aun así el peso cerró en 18.55 y el FIX bajó a 18.5983.",
+   "Para supply chain: revisa el costo de energía de tus plantas y almacenes; con el peso en 18.55, cubre una parte de los pagos en dólares."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El S&P/BMV IPC cerró con +0.64% (71,852), después de tocar 72,227.22 en la mañana, su máximo de 52 semanas. El peso cerró en 18.55 por dólar (−0.26% el dólar); el FIX de hoy fue de 18.5983 y el cierre de jornada de Banxico, de 18.5377. El bono a 10 años bajó 3.6 puntos base a 9.09%."
+   },
+   {
+    "t": "Por qué",
+    "x": "El INEGI informó que la inflación anual subió a 3.75% en octubre (0.65% mensual), su nivel más alto desde mayo y arriba del 3.65% que esperaban los analistas; la subyacente quedó en 3.80%. La electricidad subió 18.5% en el mes por el fin del subsidio de verano en 18 ciudades, y el transporte aéreo 26.4%. El peso no lo resintió: lo apoyaron el dólar débil (DXY −0.6%) y el apetito por riesgo."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana el CPI de EE. UU. (7:30 CDMX) es el principal riesgo para el peso. Con la inflación en 3.75%, Banxico, que recortó a 6.25% el jueves con guía de pausa, tiene menos espacio. Hoy vencía el plazo para que el Departamento de Comercio de EE. UU. decida si inicia la investigación antidumping a los carros tanque mexicanos; el resultado aún no se publica. El lunes 16 cierran la BMV y los bancos."
+   }
+  ],
+  "scm": "Revisa el costo de electricidad de tus plantas y almacenes (subió 18.5% en octubre) y si tu tarifa cambia con el fin del subsidio. Con el peso en 18.55, cubre una parte de los pagos en dólares antes del CPI de mañana."
+ },
+ "en": {
+  "titular": "Mexico's inflation rises to 3.75% in October on power prices; the IPC closes +0.6% and the peso at 18.55",
+  "esencial": [
+   "Mexico's annual inflation rose to 3.75% in October, above the 3.65% expected, and core to 3.80%.",
+   "Electricity rose 18.5% in the month as the summer subsidy ended, yet the peso closed at 18.55 and the FIX fell to 18.5983.",
+   "For supply chain: review energy costs at your plants and warehouses; with the peso at 18.55, hedge part of your dollar payments."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The S&P/BMV IPC closed +0.64% (71,852) after touching 72,227.22 in the morning, its 52-week high. The peso closed at 18.55 per dollar (dollar −0.26%); today's FIX was 18.5983 and Banxico's end-of-day rate 18.5377. The 10-year bond fell 3.6 basis points to 9.09%."
+   },
+   {
+    "t": "Why",
+    "x": "INEGI reported annual inflation rose to 3.75% in October (0.65% monthly), its highest since May and above the 3.65% analysts expected; core was 3.80%. Electricity rose 18.5% in the month as the summer subsidy ended in 18 cities, and air transport 26.4%. The peso did not feel it: a weak dollar (DXY −0.6%) and risk appetite supported it."
+   },
+   {
+    "t": "What to expect",
+    "x": "Tomorrow's US CPI (8:30 a.m. ET) is the main risk for the peso. With inflation at 3.75%, Banxico, which cut to 6.25% on Thursday with pause guidance, has less room. Today was the deadline for the US Commerce Department to decide whether to start the antidumping investigation on Mexican tank cars; the result has not been published yet. On Monday the 16th, the BMV and banks close."
+   }
+  ],
+  "scm": "Review electricity costs at your plants and warehouses (up 18.5% in October) and whether your tariff changes with the end of the subsidy. With the peso at 18.55, hedge part of your dollar payments before tomorrow's CPI."
+ },
+ "pt": {
+  "titular": "A inflação do México sobe para 3,75% em outubro pela energia; o IPC fecha com +0,6% e o peso a 18,55",
+  "esencial": [
+   "A inflação anual do México subiu para 3,75% em outubro, acima dos 3,65% esperados, e o núcleo para 3,80%.",
+   "A eletricidade subiu 18,5% no mês pelo fim do subsídio de verão, e mesmo assim o peso fechou a 18,55 e o FIX caiu para 18,5983.",
+   "Para supply chain: revise o custo de energia de suas plantas e armazéns; com o peso a 18,55, proteja parte dos pagamentos em dólares."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O S&P/BMV IPC fechou com +0,64% (71.852), depois de tocar 72.227,22 pela manhã, sua máxima de 52 semanas. O peso fechou a 18,55 por dólar (dólar −0,26%); o FIX de hoje foi 18,5983 e o fechamento de jornada do Banxico, 18,5377. O título de 10 anos caiu 3,6 pontos-base para 9,09%."
+   },
+   {
+    "t": "Por quê",
+    "x": "O INEGI informou que a inflação anual subiu para 3,75% em outubro (0,65% mensal), o maior nível desde maio e acima dos 3,65% esperados pelos analistas; o núcleo ficou em 3,80%. A eletricidade subiu 18,5% no mês pelo fim do subsídio de verão em 18 cidades, e o transporte aéreo 26,4%. O peso não sentiu: o apoiaram o dólar fraco (DXY −0,6%) e o apetite por risco."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã o CPI dos EUA (7h30, Cidade do México) é o principal risco para o peso. Com a inflação em 3,75%, o Banxico, que cortou para 6,25% na quinta com sinal de pausa, tem menos espaço. Hoje vencia o prazo para o Departamento de Comércio dos EUA decidir se inicia a investigação antidumping dos vagões-tanque mexicanos; o resultado ainda não foi publicado. Na segunda, dia 16, a BMV e os bancos fecham."
+   }
+  ],
+  "scm": "Revise o custo de eletricidade de suas plantas e armazéns (subiu 18,5% em outubro) e se sua tarifa muda com o fim do subsídio. Com o peso a 18,55, proteja parte dos pagamentos em dólares antes do CPI de amanhã."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), cierre del 9 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX y de cierre de jornada (9 nov 2026)",
+   "u": "https://www.banxico.org.mx/tipcamb/main.do?page=tip&idioma=sp"
+  },
+  {
+   "t": "CNBC: bono de México a 10 años (MX10Y)",
+   "u": "https://www.cnbc.com/quotes/MX10Y"
+  },
+  {
+   "t": "El Imparcial: la inflación en México sube a 3.75% en octubre, según el INEGI (9 nov 2026)",
+   "u": "https://www.elimparcial.com/dinero/2026/11/09/la-inflacion-en-mexico-sube-por-tercer-mes-consecutivo-y-dispara-el-precio-del-tomate-verde-la-electricidad-y-otros-productos-durante-octubre-de-2026-segun-el-inegi/"
+  },
+  {
+   "t": "Federal Register: Comercio extiende al 9 de noviembre el plazo para decidir si inicia la investigación de carros tanque de México",
+   "u": "https://www.federalregister.gov/documents/2026/10/26/2026-21792/notice-of-extension-of-the-deadline-for-determining-the-adequacy-of-the-antidumping-and"
+  }
+ ]
+}

@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-09T17:49:11Z",
+ "actualizado": "2026-11-09T21:50:41Z",
  "fecha": "2026-11-09",
  "titular": {
-  "es": "A mediodía el crudo y el gas bajan, los chips suben salvo Nvidia y EE. UU. vuelve a importar ganado mexicano",
-  "en": "At midday crude and gas fall, chips rise except Nvidia and the US resumes Mexican cattle imports",
-  "pt": "No meio-dia o petróleo e o gás caem, os chips sobem, exceto a Nvidia, e os EUA voltam a importar gado mexicano"
+  "es": "Cierre del lunes: el crudo cae 5.6%, la luz empuja la inflación de México y los chips suben salvo Nvidia",
+  "en": "Monday close: crude falls 5.6%, power pushes Mexico's inflation and chips rise except Nvidia",
+  "pt": "Fechamento de segunda: o petróleo cai 5,6%, a energia empurra a inflação do México e os chips sobem, exceto a Nvidia"
  },
  "items": [
   {
@@ -39,6 +39,37 @@
    ]
   },
   {
+   "id": "electricidad",
+   "dir": "up",
+   "calor": 3,
+   "mx": true,
+   "latam": false,
+   "es": "Energía eléctrica",
+   "en": "Electric power",
+   "pt": "Energia elétrica",
+   "titular": {
+    "es": "La electricidad sube 18.5% en octubre en México por el fin del subsidio de verano",
+    "en": "Electricity rises 18.5% in October in Mexico as the summer subsidy ends",
+    "pt": "A eletricidade sobe 18,5% em outubro no México pelo fim do subsídio de verão"
+   },
+   "x": {
+    "es": "El INEGI reportó que la electricidad fue el producto que más aportó a la inflación de octubre, que subió a 3.75% anual, por el fin del subsidio de verano en 18 ciudades. La subyacente quedó en 3.80%.",
+    "en": "INEGI reported electricity was the largest contributor to October inflation, which rose to 3.75% annually, as the summer subsidy ended in 18 cities. Core was 3.80%.",
+    "pt": "O INEGI informou que a eletricidade foi o item que mais contribuiu para a inflação de outubro, que subiu para 3,75% ao ano, pelo fim do subsídio de verão em 18 cidades. O núcleo ficou em 3,80%."
+   },
+   "scm": {
+    "es": "Revisa la tarifa eléctrica de plantas y almacenes y ajusta el presupuesto de energía del cuarto trimestre.",
+    "en": "Review power tariffs at plants and warehouses and adjust the fourth-quarter energy budget.",
+    "pt": "Revise a tarifa elétrica de plantas e armazéns e ajuste o orçamento de energia do quarto trimestre."
+   },
+   "fuentes": [
+    {
+     "t": "El Imparcial: la inflación en México sube a 3.75% en octubre, según el INEGI (9 nov 2026)",
+     "u": "https://www.elimparcial.com/dinero/2026/11/09/la-inflacion-en-mexico-sube-por-tercer-mes-consecutivo-y-dispara-el-precio-del-tomate-verde-la-electricidad-y-otros-productos-durante-octubre-de-2026-segun-el-inegi/"
+    }
+   ]
+  },
+  {
    "id": "energia",
    "dir": "down",
    "calor": 3,
@@ -48,27 +79,27 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El Brent cae 4.9% a su menor nivel desde septiembre y el gas natural de EE. UU. pierde 9.8%",
-    "en": "Brent falls 4.9% to its lowest since September and US natural gas loses 9.8%",
-    "pt": "O Brent cai 4,9% ao menor nível desde setembro e o gás natural dos EUA perde 9,8%"
+    "es": "El Brent cierra con −5.6% a 92.81 dólares y el WTI con −4.2% a 86.98",
+    "en": "Brent closes −5.6% at $92.81 and WTI −4.2% at $86.98",
+    "pt": "O Brent fecha com −5,6% a 92,81 dólares e o WTI com −4,2% a 86,98"
    },
    "x": {
-    "es": "Trump dijo que es muy poco probable que ordene nuevos ataques a Irán mientras avancen las pláticas, aunque siguen los ataques a barcos cerca de Ormuz. A las 11:22 CDMX el Brent estaba en 93.49 dólares y el WTI en 87.56 (−3.6%); la semana pasada el Brent ya había caído 16%.",
-    "en": "Trump said new strikes on Iran are highly unlikely while talks progress, although attacks on ships near Hormuz continue. At 12:22 p.m. ET Brent was at $93.49 and WTI at $87.56 (−3.6%); last week Brent had already fallen 16%.",
-    "pt": "Trump disse ser muito improvável ordenar novos ataques ao Irã enquanto as negociações avançarem, embora continuem os ataques a navios perto de Ormuz. Às 11h22 (Cidade do México) o Brent estava em 93,49 dólares e o WTI em 87,56 (−3,6%); na semana passada o Brent já havia caído 16%."
+    "es": "Trump dijo que es muy poco probable que ordene nuevos ataques a Irán mientras avancen las pláticas, aunque siguen los ataques a barcos cerca de Ormuz. El Brent ya había caído 16% la semana pasada.",
+    "en": "Trump said new strikes on Iran are highly unlikely while talks progress, although attacks on ships near Hormuz continue. Brent had already fallen 16% last week.",
+    "pt": "Trump disse ser muito improvável ordenar novos ataques ao Irã enquanto as negociações avançarem, embora continuem os ataques a navios perto de Ormuz. O Brent já havia caído 16% na semana passada."
    },
    "scm": {
-    "es": "Pide que el recargo de combustible de la próxima semana refleje la baja y revisa tus contratos de gas con precio variable.",
-    "en": "Ask for next week's fuel surcharge to reflect the drop and review variable-price gas contracts.",
-    "pt": "Peça que a sobretaxa de combustível da próxima semana reflita a queda e revise seus contratos de gás com preço variável."
+    "es": "Pide que el recargo de combustible de la próxima semana refleje la baja del crudo.",
+    "en": "Ask for next week's fuel surcharge to reflect lower crude.",
+    "pt": "Peça que a sobretaxa de combustível da próxima semana reflita a queda do petróleo."
    },
    "fuentes": [
     {
-     "t": "Reuters: el petróleo cae casi 5% porque Trump descarta nuevos ataques a Irán (9 nov 2026)",
-     "u": "https://finance.yahoo.com/news/oil-falls-open-trump-says-235002807.html"
+     "t": "Reuters: Wall Street sube porque la baja del petróleo modera el temor a la inflación; Nvidia cae (9 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html"
     },
     {
-     "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas (9 nov 2026, 11:22 CDMX)",
+     "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas al cierre (9 nov 2026)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -83,14 +114,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Los chips suben 6% salvo Nvidia, que cae 4.7% a su nivel más bajo desde abril",
-    "en": "Chips rise 6% except Nvidia, which falls 4.7% to its lowest since April",
-    "pt": "Os chips sobem 6%, exceto a Nvidia, que cai 4,7% ao menor nível desde abril"
+    "es": "Los chips cierran al alza salvo Nvidia, que cae 4.27% y toca su mínimo desde marzo",
+    "en": "Chips close higher except Nvidia, which falls 4.27% and hits its lowest since March",
+    "pt": "Os chips fecham em alta, exceto a Nvidia, que cai 4,27% e toca sua mínima desde março"
    },
    "x": {
-    "es": "El índice de semiconductores de Filadelfia sube 6% tras su peor semana desde marzo de 2025, con Marvell +9% y Broadcom +8%. Nvidia baja por la investigación de su consejo sobre su director, Jensen Huang.",
-    "en": "The Philadelphia Semiconductor Index rises 6% after its worst week since March 2025, with Marvell +9% and Broadcom +8%. Nvidia falls on its board's probe into CEO Jensen Huang.",
-    "pt": "O índice de semicondutores da Filadélfia sobe 6% após sua pior semana desde março de 2025, com Marvell +9% e Broadcom +8%. A Nvidia cai pela investigação do seu conselho sobre o CEO, Jensen Huang."
+    "es": "El índice de semiconductores de Filadelfia subía 6% a mediodía, con Marvell +9% y Broadcom +8%. Nvidia cerró en 178.67 dólares por la investigación de su consejo sobre su director, Jensen Huang.",
+    "en": "The Philadelphia Semiconductor Index was up 6% at midday, with Marvell +9% and Broadcom +8%. Nvidia closed at $178.67 on its board's probe into CEO Jensen Huang.",
+    "pt": "O índice de semicondutores da Filadélfia subia 6% no meio-dia, com Marvell +9% e Broadcom +8%. A Nvidia fechou em 178,67 dólares pela investigação do seu conselho sobre o CEO, Jensen Huang."
    },
    "scm": {
     "es": "La volatilidad sigue: pide cotizaciones nuevas de servidores y GPU y no cierres contratos grandes esta semana.",

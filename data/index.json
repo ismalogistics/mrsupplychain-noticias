@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-09-cierre-global",
+   "fecha": "2026-11-09",
+   "momento": "cierre",
+   "mercado": "global",
+   "titular_es": "Wall Street rebota con fuerza: el S&P 500 sube 2.3% y el Brent cae 5.6%",
+   "titular_en": "Wall Street rebounds strongly: the S&P 500 rises 2.3% and Brent falls 5.6%",
+   "titular_pt": "Wall Street se recupera com força: o S&P 500 sobe 2,3% e o Brent cai 5,6%"
+  },
+  {
+   "id": "2026-11-09-cierre-latam",
+   "fecha": "2026-11-09",
+   "momento": "cierre",
+   "mercado": "latam",
+   "titular_es": "La región cierra al alza: el Ibovespa sube 2.0% y el TSX 1.8%, con Colombia y Perú arriba de 3%",
+   "titular_en": "The region closes higher: the Ibovespa rises 2.0% and the TSX 1.8%, with Colombia and Peru above 3%",
+   "titular_pt": "A região fecha em alta: o Ibovespa sobe 2,0% e o TSX 1,8%, com Colômbia e Peru acima de 3%"
+  },
+  {
+   "id": "2026-11-09-cierre-mexico",
+   "fecha": "2026-11-09",
+   "momento": "cierre",
+   "mercado": "mexico",
+   "titular_es": "La inflación de México sube a 3.75% en octubre por la luz; el IPC cierra con +0.6% y el peso en 18.55",
+   "titular_en": "Mexico's inflation rises to 3.75% in October on power prices; the IPC closes +0.6% and the peso at 18.55",
+   "titular_pt": "A inflação do México sobe para 3,75% em outubro pela energia; o IPC fecha com +0,6% e o peso a 18,55"
+  },
+  {
    "id": "2026-11-09-mediodia-global",
    "fecha": "2026-11-09",
    "momento": "mediodia",

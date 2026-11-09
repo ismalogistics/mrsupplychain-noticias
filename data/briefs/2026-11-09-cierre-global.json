@@ -1,0 +1,86 @@
+{
+ "id": "2026-11-09-cierre-global",
+ "fecha": "2026-11-09",
+ "momento": "cierre",
+ "mercado": "global",
+ "hora": "15:20 CDMX",
+ "es": {
+  "titular": "Wall Street rebota con fuerza: el S&P 500 sube 2.3% y el Brent cae 5.6%",
+  "esencial": [
+   "El S&P 500 cerró con +2.35% (7,549.94), el Nasdaq con +2.74% y el Dow con +2.15%; Nvidia cayó 4.27%.",
+   "El crudo bajó porque Trump dijo que es muy poco probable que ordene nuevos ataques a Irán, y eso moderó el temor a la inflación.",
+   "Para supply chain: traslada la baja del crudo a los recargos y espera al CPI de mañana (7:30 CDMX) antes de cerrar contratos en dólares."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "Se cumplió y se amplió el rebote que esperábamos en la apertura. El S&P 500 cerró con +2.35% (7,549.94), el Nasdaq con +2.74% (25,253.14), el Dow con +2.15% (52,389.75) y el Russell 2000 con +3.15%; el VIX bajó 22% a 20.05. Nvidia cayó 4.27% (178.67) y tocó en el día su nivel más bajo desde el 31 de marzo. El WTI cerró en 86.98 dólares (−4.2%), el Brent en 92.81 (−5.6%), el oro subió 1.8% a 4,148.10 y el cobre 2.2%; el Treasury a 10 años quedó en 4.86%."
+   },
+   {
+    "t": "Por qué",
+    "x": "La caída del petróleo moderó el temor a la inflación, después de que Trump dijo que es muy poco probable que ordene nuevos ataques a Irán mientras avancen las pláticas. Morgan Stanley y UBS dijeron que la venta de la IA de la semana pasada fue exagerada. Nueve de los 11 sectores del S&P 500 subieron más de 1%, con industriales y consumo discrecional cerca de +4%. Aun así, la probabilidad de un alza de la Fed en diciembre sigue arriba de 80%, según CME FedWatch."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Asia abre con el impulso de Wall Street y la baja del crudo, pero el foco es el CPI de octubre de EE. UU., mañana a las 7:30 CDMX (sólo cifras mensuales). Un dato alto reforzaría el alza de la Fed y el dólar. El viernes sale el PPI de octubre."
+   }
+  ],
+  "scm": "Para mañana: 1) pide que el recargo de combustible de la próxima semana refleje la caída del crudo; 2) espera al CPI de las 7:30 CDMX antes de cerrar contratos en dólares; 3) sigue la volatilidad de chips antes de comprometer compras grandes de servidores."
+ },
+ "en": {
+  "titular": "Wall Street rebounds strongly: the S&P 500 rises 2.3% and Brent falls 5.6%",
+  "esencial": [
+   "The S&P 500 closed +2.35% (7,549.94), the Nasdaq +2.74% and the Dow +2.15%; Nvidia fell 4.27%.",
+   "Crude fell because Trump said new strikes on Iran are highly unlikely, which eased inflation fears.",
+   "For supply chain: pass lower crude through to surcharges and wait for tomorrow's CPI (8:30 a.m. ET) before closing dollar contracts."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The rebound we expected at the open materialized and widened. The S&P 500 closed +2.35% (7,549.94), the Nasdaq +2.74% (25,253.14), the Dow +2.15% (52,389.75) and the Russell 2000 +3.15%; the VIX fell 22% to 20.05. Nvidia fell 4.27% (178.67) and hit its lowest intraday level since March 31. WTI closed at $86.98 (−4.2%), Brent at $92.81 (−5.6%), gold rose 1.8% to $4,148.10 and copper 2.2%; the 10-year Treasury ended at 4.86%."
+   },
+   {
+    "t": "Why",
+    "x": "Lower oil eased inflation fears after Trump said new strikes on Iran are highly unlikely as long as talks progress. Morgan Stanley and UBS said last week's AI selloff was overdone. Nine of the S&P 500's 11 sectors gained more than 1%, with industrials and consumer discretionary near +4%. Still, the probability of a December Fed hike remains above 80%, according to CME FedWatch."
+   },
+   {
+    "t": "What to expect",
+    "x": "Asia opens with Wall Street's momentum and lower crude, but the focus is US October CPI tomorrow at 8:30 a.m. ET (monthly figures only). A hot reading would reinforce a Fed hike and the dollar. October PPI comes out Friday."
+   }
+  ],
+  "scm": "For tomorrow: 1) ask for next week's fuel surcharge to reflect lower crude; 2) wait for the 8:30 a.m. ET CPI before closing dollar contracts; 3) watch chip volatility before committing to large server purchases."
+ },
+ "pt": {
+  "titular": "Wall Street se recupera com força: o S&P 500 sobe 2,3% e o Brent cai 5,6%",
+  "esencial": [
+   "O S&P 500 fechou com +2,35% (7.549,94), o Nasdaq com +2,74% e o Dow com +2,15%; a Nvidia caiu 4,27%.",
+   "O petróleo caiu porque Trump disse ser muito improvável ordenar novos ataques ao Irã, o que moderou o temor de inflação.",
+   "Para supply chain: repasse a queda do petróleo às sobretaxas e espere o CPI de amanhã (7h30, Cidade do México) antes de fechar contratos em dólares."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "A recuperação esperada na abertura se confirmou e se ampliou. O S&P 500 fechou com +2,35% (7.549,94), o Nasdaq com +2,74% (25.253,14), o Dow com +2,15% (52.389,75) e o Russell 2000 com +3,15%; o VIX caiu 22% para 20,05. A Nvidia caiu 4,27% (178,67) e tocou no dia seu menor nível desde 31 de março. O WTI fechou em 86,98 dólares (−4,2%), o Brent em 92,81 (−5,6%), o ouro subiu 1,8% para 4.148,10 e o cobre 2,2%; o título de 10 anos do Tesouro ficou em 4,86%."
+   },
+   {
+    "t": "Por quê",
+    "x": "A queda do petróleo moderou o temor de inflação, depois que Trump disse ser muito improvável ordenar novos ataques ao Irã enquanto as negociações avançarem. Morgan Stanley e UBS disseram que a venda da IA da semana passada foi exagerada. Nove dos 11 setores do S&P 500 subiram mais de 1%, com indústria e consumo discricionário perto de +4%. Ainda assim, a probabilidade de alta do Fed em dezembro segue acima de 80%, segundo o CME FedWatch."
+   },
+   {
+    "t": "O que se espera",
+    "x": "A Ásia abre com o impulso de Wall Street e a queda do petróleo, mas o foco é o CPI de outubro dos EUA, amanhã às 7h30 (Cidade do México), só com números mensais. Um dado alto reforçaria a alta do Fed e o dólar. Na sexta sai o PPI de outubro."
+   }
+  ],
+  "scm": "Para amanhã: 1) peça que a sobretaxa de combustível da próxima semana reflita a queda do petróleo; 2) espere o CPI das 7h30 antes de fechar contratos em dólares; 3) acompanhe a volatilidade dos chips antes de comprometer compras grandes de servidores."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters: Wall Street sube porque la baja del petróleo modera el temor a la inflación; Nvidia cae (9 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html"
+  },
+  {
+   "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas al cierre (9 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
