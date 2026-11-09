@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-09T15:36:44Z",
+ "actualizado": "2026-11-09T17:49:11Z",
  "fecha": "2026-11-09",
  "titular": {
-  "es": "Long Beach gana dos semanas, el crudo cae 3.4% y los chips suben salvo Nvidia: el arranque de la semana para las industrias",
-  "en": "Long Beach gains two weeks, crude falls 3.4% and chips rise except Nvidia: the week starts for industries",
-  "pt": "Long Beach ganha duas semanas, o petróleo cai 3,4% e os chips sobem, exceto a Nvidia: o início da semana para as indústrias"
+  "es": "A mediodía el crudo y el gas bajan, los chips suben salvo Nvidia y EE. UU. vuelve a importar ganado mexicano",
+  "en": "At midday crude and gas fall, chips rise except Nvidia and the US resumes Mexican cattle imports",
+  "pt": "No meio-dia o petróleo e o gás caem, os chips sobem, exceto a Nvidia, e os EUA voltam a importar gado mexicano"
  },
  "items": [
   {
@@ -48,34 +48,34 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El WTI cae 3.4% a 87.74 dólares y abre espacio para bajar recargos de combustible",
-    "en": "WTI falls 3.4% to $87.74, opening room to lower fuel surcharges",
-    "pt": "O WTI cai 3,4% para 87,74 dólares e abre espaço para reduzir sobretaxas de combustível"
+    "es": "El Brent cae 4.9% a su menor nivel desde septiembre y el gas natural de EE. UU. pierde 9.8%",
+    "en": "Brent falls 4.9% to its lowest since September and US natural gas loses 9.8%",
+    "pt": "O Brent cai 4,9% ao menor nível desde setembro e o gás natural dos EUA perde 9,8%"
    },
    "x": {
-    "es": "A las 9:35 CDMX el WTI caía 3.4% a 87.74 dólares y el Brent 4.1% a 94.26. En la madrugada el Brent rondaba 98 dólares.",
-    "en": "At 10:35 a.m. ET WTI was down 3.4% at $87.74 and Brent 4.1% at $94.26. Overnight Brent was around $98.",
-    "pt": "Às 9h35 (Cidade do México) o WTI caía 3,4% para 87,74 dólares e o Brent 4,1% para 94,26. Na madrugada o Brent rondava 98 dólares."
+    "es": "Trump dijo que es muy poco probable que ordene nuevos ataques a Irán mientras avancen las pláticas, aunque siguen los ataques a barcos cerca de Ormuz. A las 11:22 CDMX el Brent estaba en 93.49 dólares y el WTI en 87.56 (−3.6%); la semana pasada el Brent ya había caído 16%.",
+    "en": "Trump said new strikes on Iran are highly unlikely while talks progress, although attacks on ships near Hormuz continue. At 12:22 p.m. ET Brent was at $93.49 and WTI at $87.56 (−3.6%); last week Brent had already fallen 16%.",
+    "pt": "Trump disse ser muito improvável ordenar novos ataques ao Irã enquanto as negociações avançarem, embora continuem os ataques a navios perto de Ormuz. Às 11h22 (Cidade do México) o Brent estava em 93,49 dólares e o WTI em 87,56 (−3,6%); na semana passada o Brent já havia caído 16%."
    },
    "scm": {
-    "es": "Pide a tus transportistas que el recargo de combustible de la próxima semana refleje la baja del crudo.",
-    "en": "Ask carriers for next week's fuel surcharge to reflect the drop in crude.",
-    "pt": "Peça às transportadoras que a sobretaxa de combustível da próxima semana reflita a queda do petróleo."
+    "es": "Pide que el recargo de combustible de la próxima semana refleje la baja y revisa tus contratos de gas con precio variable.",
+    "en": "Ask for next week's fuel surcharge to reflect the drop and review variable-price gas contracts.",
+    "pt": "Peça que a sobretaxa de combustível da próxima semana reflita a queda e revise seus contratos de gás com preço variável."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben; Nvidia cae (9 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
+     "t": "Reuters: el petróleo cae casi 5% porque Trump descarta nuevos ataques a Irán (9 nov 2026)",
+     "u": "https://finance.yahoo.com/news/oil-falls-open-trump-says-235002807.html"
     },
     {
-     "t": "AP: las bolsas de Asia rebotan tras la recuperación de las acciones de IA",
-     "u": "https://www.news4jax.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
+     "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas (9 nov 2026, 11:22 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   {
    "id": "semis",
-   "dir": "down",
+   "dir": "mixed",
    "calor": 3,
    "mx": false,
    "latam": false,
@@ -83,28 +83,86 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Nvidia abre con caída de 7% por la investigación sobre su director, mientras el resto de los chips sube",
-    "en": "Nvidia opens down 7% on the probe into its CEO while the rest of chips rally",
-    "pt": "A Nvidia abre em queda de 7% pela investigação sobre seu CEO, enquanto o resto dos chips sobe"
+    "es": "Los chips suben 6% salvo Nvidia, que cae 4.7% a su nivel más bajo desde abril",
+    "en": "Chips rise 6% except Nvidia, which falls 4.7% to its lowest since April",
+    "pt": "Os chips sobem 6%, exceto a Nvidia, que cai 4,7% ao menor nível desde abril"
    },
    "x": {
-    "es": "El consejo de Nvidia abrió una investigación independiente sobre su director; analistas hablan de riesgo por dependencia de una persona clave. Nvidia abrió con −7.3% y a las 9:35 CDMX bajaba 3.8%, mientras AMD subía 9.4% y el Taiex de Taiwán cerró con +4.9%.",
-    "en": "Nvidia's board opened an independent investigation into its CEO; analysts cite key-person risk. Nvidia opened −7.3% and was down 3.8% at 10:35 a.m. ET, while AMD rose 9.4% and Taiwan's Taiex closed up 4.9%.",
-    "pt": "O conselho da Nvidia abriu uma investigação independente sobre seu CEO; analistas falam de risco de dependência de uma pessoa-chave. A Nvidia abriu com −7,3% e às 9h35 caía 3,8%, enquanto a AMD subia 9,4% e o Taiex de Taiwan fechou com +4,9%."
+    "es": "El índice de semiconductores de Filadelfia sube 6% tras su peor semana desde marzo de 2025, con Marvell +9% y Broadcom +8%. Nvidia baja por la investigación de su consejo sobre su director, Jensen Huang.",
+    "en": "The Philadelphia Semiconductor Index rises 6% after its worst week since March 2025, with Marvell +9% and Broadcom +8%. Nvidia falls on its board's probe into CEO Jensen Huang.",
+    "pt": "O índice de semicondutores da Filadélfia sobe 6% após sua pior semana desde março de 2025, com Marvell +9% e Broadcom +8%. A Nvidia cai pela investigação do seu conselho sobre o CEO, Jensen Huang."
    },
    "scm": {
-    "es": "La volatilidad en chips sigue: mantén en pausa los contratos grandes de GPU y servidores.",
-    "en": "Chip volatility continues: keep large GPU and server contracts on hold.",
-    "pt": "A volatilidade nos chips continua: mantenha em pausa os contratos grandes de GPU e servidores."
+    "es": "La volatilidad sigue: pide cotizaciones nuevas de servidores y GPU y no cierres contratos grandes esta semana.",
+    "en": "Volatility continues: request new quotes for servers and GPUs and avoid large contracts this week.",
+    "pt": "A volatilidade continua: peça novas cotações de servidores e GPUs e não feche contratos grandes nesta semana."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben; Nvidia cae (9 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
-    },
+     "t": "Reuters: Wall Street repunta con la baja del petróleo; Nvidia cae (9 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html"
+    }
+   ]
+  },
+  {
+   "id": "agro",
+   "dir": "up",
+   "calor": 2,
+   "mx": true,
+   "latam": false,
+   "es": "Agroalimentos",
+   "en": "Agri-food",
+   "pt": "Agroalimentos",
+   "titular": {
+    "es": "Tyson reabre un turno en Texas y EE. UU. vuelve a importar ganado de México",
+    "en": "Tyson reopens a shift in Texas as the US resumes cattle imports from Mexico",
+    "pt": "A Tyson reabre um turno no Texas e os EUA voltam a importar gado do México"
+   },
+   "x": {
+    "es": "Tyson Foods se asoció con el grupo de ganaderos Allied Beef y reabrirá el segundo turno de su planta de Amarillo, al 100% en el verano de 2027, en medio de la menor oferta de ganado en EE. UU. en 75 años. El USDA reanudó las importaciones de ganado de México, que había frenado por el gusano barrenador.",
+    "en": "Tyson Foods partnered with rancher group Allied Beef and will reopen the second shift at its Amarillo plant, fully running by summer 2027, amid the tightest US cattle supply in 75 years. The USDA resumed cattle imports from Mexico, which it had halted over the screwworm.",
+    "pt": "A Tyson Foods se associou ao grupo de pecuaristas Allied Beef e vai reabrir o segundo turno de sua planta de Amarillo, a 100% no verão de 2027, em meio à menor oferta de gado nos EUA em 75 anos. O USDA retomou as importações de gado do México, que havia suspendido pela bicheira."
+   },
+   "scm": {
+    "es": "Si exportas ganado, revisa con tus compradores de EE. UU. los volúmenes y requisitos sanitarios de 2027.",
+    "en": "If you export cattle, review 2027 volumes and sanitary requirements with US buyers.",
+    "pt": "Se você exporta gado, revise com seus compradores dos EUA os volumes e requisitos sanitários de 2027."
+   },
+   "fuentes": [
     {
-     "t": "AP: las bolsas de Asia rebotan tras la recuperación de las acciones de IA",
-     "u": "https://www.news4jax.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
+     "t": "Reuters: Tyson se asocia con ganaderos y reabre un segundo turno en su planta de Amarillo, Texas",
+     "u": "https://finance.yahoo.com/markets/commodities/articles/tyson-partner-rancher-group-restart-170217334.html"
+    }
+   ]
+  },
+  {
+   "id": "retail",
+   "dir": "down",
+   "calor": 2,
+   "mx": false,
+   "latam": false,
+   "es": "Retail y última milla",
+   "en": "Retail and last mile",
+   "pt": "Varejo e última milha",
+   "titular": {
+    "es": "The Children's Place se declara en bancarrota antes de la temporada alta",
+    "en": "The Children's Place files for bankruptcy ahead of peak season",
+    "pt": "A The Children's Place pede recuperação judicial antes da alta temporada"
+   },
+   "x": {
+    "es": "La cadena de ropa infantil, con unos 500 tiendas en Norteamérica, se acogió al capítulo 11 con deudas por más de 881 millones de dólares y busca venderse; las ofertas vencen el 9 de diciembre. Culpa a la inflación, los aranceles y la competencia.",
+    "en": "The children's apparel chain, with about 500 stores in North America, filed for Chapter 11 with over $881 million in debt and seeks a sale; bids are due Dec. 9. It blames inflation, tariffs and competition.",
+    "pt": "A rede de roupa infantil, com cerca de 500 lojas na América do Norte, entrou no capítulo 11 com dívidas de mais de 881 milhões de dólares e busca ser vendida; as ofertas vencem em 9 de dezembro. Culpa a inflação, as tarifas e a concorrência."
+   },
+   "scm": {
+    "es": "Si le vendes o le das servicio logístico, revisa tus cuentas por cobrar y pide pagos por adelantado.",
+    "en": "If you sell to it or provide logistics services, review receivables and ask for prepayment.",
+    "pt": "Se você vende para ela ou presta serviços logísticos, revise suas contas a receber e peça pagamento antecipado."
+   },
+   "fuentes": [
+    {
+     "t": "Retail Dive: The Children's Place se declara en bancarrota (capítulo 11)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/children-place-search-ownership-files-165200693.html"
     }
    ]
   },

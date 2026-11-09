@@ -1,0 +1,86 @@
+{
+ "id": "2026-11-09-mediodia-latam",
+ "fecha": "2026-11-09",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:25 CDMX",
+ "es": {
+  "titular": "Las bolsas de la región amplían el rebote: el Ibovespa sube 1.7% y el TSX 1.7%",
+  "esencial": [
+   "A las 11:22 CDMX el Ibovespa subía 1.65% (171,281) y el S&P/TSX de Canadá 1.72% (36,403.73).",
+   "El apetito por riesgo en Wall Street y la baja del dólar apoyan a la región, aunque el petróleo pesa en las petroleras.",
+   "Convierte pronto los cobros en monedas locales y pide revisar los recargos de flete regionales con el crudo a la baja."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura las monedas de la región se fortalecían con el dólar débil y esperábamos que la caída del crudo pesara en Colombia."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:22 CDMX el Ibovespa subía 1.65% a 171,281 y el S&P/TSX 1.72% a 36,403.73. Con datos de las 9:37 CDMX, el COLCAP subía 0.15% (24,425), el peso chileno estaba en 969.7 por dólar, el real en 5.52, el peso colombiano en 3,275.7 y el sol en 3.41."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El rebote en la región se amplió junto con Wall Street, a pesar de la caída del petróleo. El índice del dólar baja 0.5% a 101.79."
+   }
+  ],
+  "scm": "Convierte pronto los cobros en monedas locales y deja los pagos para después del CPI del martes. Con el crudo a la baja, pide revisión de recargos de flete en rutas regionales."
+ },
+ "en": {
+  "titular": "The region's stock markets extend the rebound: the Ibovespa rises 1.7% and the TSX 1.7%",
+  "esencial": [
+   "At 11:22 a.m. Mexico City time the Ibovespa was up 1.65% (171,281) and Canada's S&P/TSX 1.72% (36,403.73).",
+   "Risk appetite on Wall Street and a weaker dollar support the region, although oil weighs on energy stocks.",
+   "Convert local-currency receivables soon and ask for a review of regional freight surcharges with crude lower."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the region's currencies were strengthening on a weak dollar and we expected lower crude to weigh on Colombia."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:22 a.m. Mexico City time the Ibovespa was up 1.65% at 171,281 and the S&P/TSX 1.72% at 36,403.73. With data as of 9:37 a.m., the COLCAP was up 0.15% (24,425), the Chilean peso at 969.7 per dollar, the real at 5.52, the Colombian peso at 3,275.7 and the sol at 3.41."
+   },
+   {
+    "t": "What surprised",
+    "x": "The rebound in the region widened along with Wall Street despite the drop in oil. The dollar index falls 0.5% to 101.79."
+   }
+  ],
+  "scm": "Convert local-currency receivables soon and leave payments for after Tuesday's CPI. With crude lower, ask for a review of freight surcharges on regional routes."
+ },
+ "pt": {
+  "titular": "As bolsas da região ampliam a recuperação: o Ibovespa sobe 1,7% e o TSX 1,7%",
+  "esencial": [
+   "Às 11h22 (Cidade do México) o Ibovespa subia 1,65% (171.281) e o S&P/TSX do Canadá 1,72% (36.403,73).",
+   "O apetite por risco em Wall Street e o dólar mais fraco apoiam a região, embora o petróleo pese nas petroleiras.",
+   "Converta logo os recebíveis em moeda local e peça revisão das sobretaxas de frete regionais com o petróleo em queda."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura as moedas da região se fortaleciam com o dólar fraco e esperávamos que a queda do petróleo pesasse na Colômbia."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h22 (Cidade do México) o Ibovespa subia 1,65% para 171.281 e o S&P/TSX 1,72% para 36.403,73. Com dados das 9h37, o COLCAP subia 0,15% (24.425), o peso chileno estava em 969,7 por dólar, o dólar em R$ 5,52, o peso colombiano em 3.275,7 e o sol em 3,41."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A recuperação na região se ampliou junto com Wall Street, apesar da queda do petróleo. O índice do dólar cai 0,5% para 101,79."
+   }
+  ],
+  "scm": "Converta logo os recebíveis em moeda local e deixe os pagamentos para depois do CPI de terça. Com o petróleo em queda, peça revisão das sobretaxas de frete em rotas regionais."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas (9 nov 2026, 11:22 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

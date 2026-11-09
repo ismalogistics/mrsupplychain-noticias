@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-09-mediodia-global",
+   "fecha": "2026-11-09",
+   "momento": "mediodia",
+   "mercado": "global",
+   "titular_es": "El rebote se amplía a mediodía: el S&P 500 sube 2.3% y el petróleo cae, aunque Nvidia pierde 4.7%",
+   "titular_en": "The rebound widens at midday: the S&P 500 rises 2.3% and oil falls, though Nvidia loses 4.7%",
+   "titular_pt": "A recuperação se amplia no meio-dia: o S&P 500 sobe 2,3% e o petróleo cai, embora a Nvidia perca 4,7%"
+  },
+  {
+   "id": "2026-11-09-mediodia-latam",
+   "fecha": "2026-11-09",
+   "momento": "mediodia",
+   "mercado": "latam",
+   "titular_es": "Las bolsas de la región amplían el rebote: el Ibovespa sube 1.7% y el TSX 1.7%",
+   "titular_en": "The region's stock markets extend the rebound: the Ibovespa rises 1.7% and the TSX 1.7%",
+   "titular_pt": "As bolsas da região ampliam a recuperação: o Ibovespa sobe 1,7% e o TSX 1,7%"
+  },
+  {
+   "id": "2026-11-09-mediodia-mexico",
+   "fecha": "2026-11-09",
+   "momento": "mediodia",
+   "mercado": "mexico",
+   "titular_es": "El IPC modera su alza a 0.5% y el peso se mantiene en 18.60; EE. UU. vuelve a importar ganado mexicano",
+   "titular_en": "The IPC trims its gain to 0.5% and the peso holds at 18.60; the US resumes Mexican cattle imports",
+   "titular_pt": "O IPC modera a alta para 0,5% e o peso fica em 18,60; os EUA voltam a importar gado mexicano"
+  },
+  {
    "id": "2026-11-09-apertura-global",
    "fecha": "2026-11-09",
    "momento": "apertura",

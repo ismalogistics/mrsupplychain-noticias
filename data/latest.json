@@ -1,195 +1,179 @@
 {
- "actualizado": "2026-11-09T15:36:44Z",
- "momento": "apertura",
+ "actualizado": "2026-11-09T17:49:11Z",
+ "momento": "mediodia",
  "briefs": {
   "global": {
-   "id": "2026-11-09-apertura-global",
+   "id": "2026-11-09-mediodia-global",
    "fecha": "2026-11-09",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "global",
-   "hora": "09:35 CDMX",
+   "hora": "11:25 CDMX",
    "es": {
-    "titular": "Wall Street sube con fuerza y el petróleo cae, pero Nvidia baja 4% por la investigación sobre su director",
+    "titular": "El rebote se amplía a mediodía: el S&P 500 sube 2.3% y el petróleo cae, aunque Nvidia pierde 4.7%",
     "esencial": [
-     "A las 9:35 CDMX el Nasdaq subía 2.5%, el S&P 500 1.9% y el Dow 1.6%, mientras Nvidia caía 3.8%.",
-     "El WTI baja 3.4% a 87.74 dólares, Europa sube (DAX +1.7%) y Long Beach alejó la huelga hasta el 20 de noviembre.",
-     "Para supply chain: el combustible abarata fletes, pero espera al CPI del martes antes de cerrar contratos en dólares."
+     "A las 11:22 CDMX el S&P 500 subía 2.27%, el Nasdaq 2.55% y el Dow 2.07%; Nvidia bajaba 4.7%.",
+     "El crudo cae porque Trump dijo que es muy poco probable que ordene nuevos ataques a Irán mientras avancen las pláticas: el Brent pierde 4.9% a 93.49 dólares.",
+     "Para supply chain: pide que el recargo de combustible de la próxima semana refleje la baja y espera al CPI del martes antes de cerrar contratos en dólares."
     ],
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "Los futuros anticipaban un rebote tras la peor semana desde junio, y el mercado abrió al alza. A las 9:35 CDMX, el Nasdaq subía 2.46% (25,184.19), el S&P 500 1.92% (7,518.69) y el Dow 1.60% (52,105.38), con AMD +9.4% y Alphabet +3.2% tras presentar dos chips de IA propios. Nvidia abrió con caída de 7.3% porque su consejo investiga a su director, Jensen Huang, y luego recortó a −3.8%. El WTI bajaba 3.4% a 87.74 dólares, el Brent 4.1% a 94.26, el oro subía 1.3% a 4,126 y el Treasury a 10 años estaba en 4.87%."
+      "t": "Lo que se esperaba",
+      "x": "En la apertura esperábamos un rebote tras la peor semana desde junio, con el crudo a la baja y presión en Nvidia por la investigación sobre su director, Jensen Huang."
      },
      {
-      "t": "Asia y Europa",
-      "x": "En Asia, el Taiex de Taiwán cerró con +4.9% y el Nikkei de Japón con +2.3% (58,775.50), pero el KOSPI de Corea bajó 0.81% (5,018.85). Europa sube: Euro Stoxx 50 +1.9%, DAX +1.7%, CAC 40 +1.3% y FTSE 100 +0.8%."
+      "t": "Cómo va",
+      "x": "A las 11:22 CDMX el S&P 500 subía 2.27% (7,544.58), el Nasdaq 2.55% (25,205.13), el Dow 2.07% (52,348.15) y el Russell 2000 2.75%; el VIX bajaba 21% a 20.22. El índice de semiconductores subía 6% con Marvell (+9%) y Broadcom (+8%), mientras Nvidia caía 4.7% y llegó a su nivel más bajo desde abril. El WTI bajaba 3.6% a 87.56 dólares, el Brent 4.9% a 93.49, el oro subía 1.0% a 4,114.50 y el Treasury a 10 años estaba en 4.88%. Europa cerró arriba: Euro Stoxx 50 +1.9% y DAX +1.7%."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "Hoy salen la encuesta de expectativas de inflación de la Fed de Nueva York (la anterior fue de 3.9%) y los inventarios mayoristas de septiembre. Después del cierre reportan Hims & Hers, Rocket Lab y Monday.com. El dato fuerte de la semana es el CPI de octubre, el martes a las 7:30 CDMX."
-     },
-     {
-      "t": "La semana que viene",
-      "x": "Martes 10: CPI de octubre en EE. UU. (7:30 CDMX). Jueves 12: venta de casas usadas. Viernes 13: PPI de octubre (7:30 CDMX). Lunes 16: cierran la BMV y los bancos en México por el Día de la Revolución. En Long Beach, el nuevo plazo de las pláticas con los vigilantes es el 20 de noviembre."
+      "t": "Lo que sorprendió",
+      "x": "El rebote fue más amplio de lo esperado: 10 de los 11 sectores del S&P 500 suben, con industriales y consumo al frente. El Brent tocó su nivel más bajo desde principios de septiembre después de que Trump dijo que es muy poco probable que ordene nuevos ataques a Irán mientras avancen las negociaciones, aunque siguen los ataques a barcos cerca del estrecho de Ormuz. La encuesta de la Fed de Nueva York dejó las expectativas de inflación a un año sin cambio en 3.9%, pero la probabilidad que los consumidores asignan a más desempleo subió a 45.3%, la mayor desde abril de 2020. El gas natural en EE. UU. cae 9.8%."
      }
     ],
-    "scm": "Para esta semana: 1) aprovecha la baja del crudo para negociar recargos de combustible con ajuste semanal; 2) usa la prórroga de Long Beach para retirar contenedores antes del 20 de noviembre; 3) espera al CPI del martes antes de cerrar contratos en dólares de largo plazo."
+    "scm": "El combustible y el gas bajan: 1) pide a tus transportistas que el recargo de combustible de la próxima semana refleje la baja del crudo; 2) revisa si tus contratos de gas o electricidad tienen precio variable; 3) espera al CPI del martes antes de cerrar contratos en dólares de largo plazo."
    },
    "en": {
-    "titular": "Wall Street rallies and oil falls, but Nvidia drops 4% on the probe into its CEO",
+    "titular": "The rebound widens at midday: the S&P 500 rises 2.3% and oil falls, though Nvidia loses 4.7%",
     "esencial": [
-     "At 10:35 a.m. ET the Nasdaq was up 2.5%, the S&P 500 1.9% and the Dow 1.6%, while Nvidia fell 3.8%.",
-     "WTI drops 3.4% to $87.74, Europe rises (DAX +1.7%) and Long Beach pushed the strike threat to Nov. 20.",
-     "For supply chain: fuel makes freight cheaper, but wait for Tuesday's CPI before closing dollar contracts."
+     "At 12:22 p.m. ET the S&P 500 was up 2.27%, the Nasdaq 2.55% and the Dow 2.07%; Nvidia was down 4.7%.",
+     "Crude falls because Trump said new strikes on Iran are highly unlikely while talks progress: Brent loses 4.9% to $93.49.",
+     "For supply chain: ask for next week's fuel surcharge to reflect the drop and wait for Tuesday's CPI before closing dollar contracts."
     ],
     "bloques": [
      {
-      "t": "Opening",
-      "x": "Futures pointed to a rebound after the worst week since June, and the market opened higher. At 10:35 a.m. ET, the Nasdaq was up 2.46% (25,184.19), the S&P 500 1.92% (7,518.69) and the Dow 1.60% (52,105.38), with AMD +9.4% and Alphabet +3.2% after unveiling two AI chips of its own. Nvidia opened down 7.3% as its board investigates CEO Jensen Huang, then pared the loss to −3.8%. WTI was down 3.4% at $87.74, Brent 4.1% at $94.26, gold up 1.3% at $4,126 and the 10-year Treasury at 4.87%."
+      "t": "What was expected",
+      "x": "At the open we expected a rebound after the worst week since June, with crude lower and pressure on Nvidia over the probe into CEO Jensen Huang."
      },
      {
-      "t": "Asia and Europe",
-      "x": "In Asia, Taiwan's Taiex closed up 4.9% and Japan's Nikkei up 2.3% (58,775.50), but South Korea's KOSPI fell 0.81% (5,018.85). Europe is higher: Euro Stoxx 50 +1.9%, DAX +1.7%, CAC 40 +1.3% and FTSE 100 +0.8%."
+      "t": "How it is going",
+      "x": "At 12:22 p.m. ET the S&P 500 was up 2.27% (7,544.58), the Nasdaq 2.55% (25,205.13), the Dow 2.07% (52,348.15) and the Russell 2000 2.75%; the VIX fell 21% to 20.22. The semiconductor index rose 6% with Marvell (+9%) and Broadcom (+8%), while Nvidia fell 4.7% and hit its lowest since April. WTI was down 3.6% at $87.56, Brent 4.9% at $93.49, gold up 1.0% at $4,114.50 and the 10-year Treasury at 4.88%. Europe closed higher: Euro Stoxx 50 +1.9% and DAX +1.7%."
      },
      {
-      "t": "What to expect today",
-      "x": "Today brings the New York Fed's inflation expectations survey (previous 3.9%) and September wholesale inventories. Hims & Hers, Rocket Lab and Monday.com report after the close. The week's key data is October CPI on Tuesday at 8:30 a.m. ET."
-     },
-     {
-      "t": "The week ahead",
-      "x": "Tuesday 10: US October CPI (8:30 a.m. ET). Thursday 12: existing home sales. Friday 13: October PPI (8:30 a.m. ET). Monday 16: the BMV and banks close in Mexico for Revolution Day. In Long Beach, the new deadline for talks with the watchmen is Nov. 20."
+      "t": "What surprised",
+      "x": "The rebound was broader than expected: 10 of the S&P 500's 11 sectors are up, led by industrials and consumer discretionary. Brent hit its lowest since early September after Trump said new strikes on Iran are highly unlikely as long as negotiations progress, although attacks on ships near the Strait of Hormuz continue. The New York Fed survey left one-year inflation expectations unchanged at 3.9%, but the probability consumers assign to higher unemployment rose to 45.3%, the highest since April 2020. US natural gas falls 9.8%."
      }
     ],
-    "scm": "For this week: 1) use the drop in crude to negotiate weekly-adjusted fuel surcharges; 2) use the Long Beach extension to pick up containers before Nov. 20; 3) wait for Tuesday's CPI before closing long-term dollar contracts."
+    "scm": "Fuel and gas are falling: 1) ask carriers for next week's fuel surcharge to reflect lower crude; 2) check whether your gas or power contracts have variable pricing; 3) wait for Tuesday's CPI before closing long-term dollar contracts."
    },
    "pt": {
-    "titular": "Wall Street sobe com força e o petróleo cai, mas a Nvidia recua 4% pela investigação sobre seu CEO",
+    "titular": "A recuperação se amplia no meio-dia: o S&P 500 sobe 2,3% e o petróleo cai, embora a Nvidia perca 4,7%",
     "esencial": [
-     "Às 9h35 (Cidade do México) o Nasdaq subia 2,5%, o S&P 500 1,9% e o Dow 1,6%, enquanto a Nvidia caía 3,8%.",
-     "O WTI cai 3,4% para 87,74 dólares, a Europa sobe (DAX +1,7%) e Long Beach adiou a ameaça de greve para 20 de novembro.",
-     "Para supply chain: o combustível barateia os fretes, mas espere o CPI de terça antes de fechar contratos em dólares."
+     "Às 11h22 (Cidade do México) o S&P 500 subia 2,27%, o Nasdaq 2,55% e o Dow 2,07%; a Nvidia caía 4,7%.",
+     "O petróleo cai porque Trump disse ser muito improvável ordenar novos ataques ao Irã enquanto as negociações avançarem: o Brent perde 4,9% para 93,49 dólares.",
+     "Para supply chain: peça que a sobretaxa de combustível da próxima semana reflita a queda e espere o CPI de terça antes de fechar contratos em dólares."
     ],
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Os futuros indicavam uma recuperação após a pior semana desde junho, e o mercado abriu em alta. Às 9h35 (Cidade do México), o Nasdaq subia 2,46% (25.184,19), o S&P 500 1,92% (7.518,69) e o Dow 1,60% (52.105,38), com AMD +9,4% e Alphabet +3,2% após apresentar dois chips de IA próprios. A Nvidia abriu em queda de 7,3% porque seu conselho investiga o CEO, Jensen Huang, e depois reduziu a perda para −3,8%. O WTI caía 3,4% para 87,74 dólares, o Brent 4,1% para 94,26, o ouro subia 1,3% para 4.126 e o título de 10 anos do Tesouro estava em 4,87%."
+      "t": "O que se esperava",
+      "x": "Na abertura esperávamos uma recuperação após a pior semana desde junho, com o petróleo em queda e pressão sobre a Nvidia pela investigação sobre o CEO, Jensen Huang."
      },
      {
-      "t": "Ásia e Europa",
-      "x": "Na Ásia, o Taiex de Taiwan fechou com +4,9% e o Nikkei do Japão com +2,3% (58.775,50), mas o KOSPI da Coreia caiu 0,81% (5.018,85). A Europa sobe: Euro Stoxx 50 +1,9%, DAX +1,7%, CAC 40 +1,3% e FTSE 100 +0,8%."
+      "t": "Como está",
+      "x": "Às 11h22 (Cidade do México) o S&P 500 subia 2,27% (7.544,58), o Nasdaq 2,55% (25.205,13), o Dow 2,07% (52.348,15) e o Russell 2000 2,75%; o VIX caía 21% para 20,22. O índice de semicondutores subia 6% com Marvell (+9%) e Broadcom (+8%), enquanto a Nvidia caía 4,7% e chegou ao menor nível desde abril. O WTI caía 3,6% para 87,56 dólares, o Brent 4,9% para 93,49, o ouro subia 1,0% para 4.114,50 e o título de 10 anos do Tesouro estava em 4,88%. A Europa fechou em alta: Euro Stoxx 50 +1,9% e DAX +1,7%."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Hoje saem a pesquisa de expectativas de inflação do Fed de Nova York (a anterior foi de 3,9%) e os estoques no atacado de setembro. Depois do fechamento divulgam resultados Hims & Hers, Rocket Lab e Monday.com. O dado forte da semana é o CPI de outubro, na terça às 7h30 (Cidade do México)."
-     },
-     {
-      "t": "A semana que vem",
-      "x": "Terça 10: CPI de outubro nos EUA (7h30, Cidade do México). Quinta 12: venda de imóveis usados. Sexta 13: PPI de outubro (7h30). Segunda 16: a BMV e os bancos fecham no México pelo Dia da Revolução. Em Long Beach, o novo prazo das negociações com os vigilantes é 20 de novembro."
+      "t": "O que surpreendeu",
+      "x": "A recuperação foi mais ampla que o esperado: 10 dos 11 setores do S&P 500 sobem, com indústria e consumo na frente. O Brent tocou o menor nível desde o início de setembro depois que Trump disse ser muito improvável ordenar novos ataques ao Irã enquanto as negociações avançarem, embora continuem os ataques a navios perto do estreito de Ormuz. A pesquisa do Fed de Nova York manteve as expectativas de inflação de um ano em 3,9%, mas a probabilidade que os consumidores atribuem a mais desemprego subiu para 45,3%, a maior desde abril de 2020. O gás natural nos EUA cai 9,8%."
      }
     ],
-    "scm": "Para esta semana: 1) aproveite a queda do petróleo para negociar sobretaxas de combustível com ajuste semanal; 2) use a prorrogação de Long Beach para retirar contêineres antes de 20 de novembro; 3) espere o CPI de terça antes de fechar contratos em dólares de longo prazo."
+    "scm": "O combustível e o gás caem: 1) peça às transportadoras que a sobretaxa de combustível da próxima semana reflita a queda do petróleo; 2) verifique se seus contratos de gás ou eletricidade têm preço variável; 3) espere o CPI de terça antes de fechar contratos em dólares de longo prazo."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas (9 nov 2026, 9:35 CDMX)",
+     "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas (9 nov 2026, 11:22 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben; Nvidia cae (9 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
+     "t": "Reuters: Wall Street repunta con la baja del petróleo; Nvidia cae (9 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html"
     },
     {
-     "t": "Seoul Economic Daily: el KOSPI cae 0.81% y cierra en 5,018.85 (9 nov 2026)",
-     "u": "https://en.sedaily.com/finance/2026/11/09/kospi-falls-081-percent-to-close-at-501885"
+     "t": "Reuters: el petróleo cae casi 5% porque Trump descarta nuevos ataques a Irán (9 nov 2026)",
+     "u": "https://finance.yahoo.com/news/oil-falls-open-trump-says-235002807.html"
     },
     {
-     "t": "GV Wire (Reuters): empleadores y vigilantes de los puertos de California extienden las pláticas al 20 de noviembre",
-     "u": "https://gvwire.com/2026/11/07/employers-watchmen-at-california-ports-extend-contract-talks/"
-    },
-    {
-     "t": "FinancialJuice: indicadores de la semana del 9 al 13 de noviembre (EE. UU.)",
-     "u": "https://features.financialjuice.com/2026/11/06/week-ahead-economic-indicators-9th-13th-november-us/"
+     "t": "Fed de Nueva York: encuesta de expectativas del consumidor de octubre",
+     "u": "https://www.newyorkfed.org/microeconomics/sce"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-09-apertura-latam",
+   "id": "2026-11-09-mediodia-latam",
    "fecha": "2026-11-09",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "latam",
-   "hora": "09:35 CDMX",
+   "hora": "11:25 CDMX",
    "es": {
-    "titular": "Las monedas de la región se fortalecen con el dólar débil; el petróleo a la baja pesa en Colombia",
+    "titular": "Las bolsas de la región amplían el rebote: el Ibovespa sube 1.7% y el TSX 1.7%",
     "esencial": [
-     "En la madrugada el peso chileno se apreciaba a 972.7 por dólar y el real estaba en 5.50.",
-     "El dólar débil y las bolsas al alza apoyan a la región; la caída del crudo (−3.4%) pesa en exportadores como Colombia.",
-     "Si tienes pagos en monedas locales, espera al CPI del martes; los cobros conviértelos pronto."
+     "A las 11:22 CDMX el Ibovespa subía 1.65% (171,281) y el S&P/TSX de Canadá 1.72% (36,403.73).",
+     "El apetito por riesgo en Wall Street y la baja del dólar apoyan a la región, aunque el petróleo pesa en las petroleras.",
+     "Convierte pronto los cobros en monedas locales y pide revisar los recargos de flete regionales con el crudo a la baja."
     ],
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "Con datos de las 5:17 CDMX, el peso chileno estaba en 972.7 por dólar (−0.5% el dólar), el real en 5.50, el peso colombiano en 3,237.9 y el sol en 3.44. A las 9:35 CDMX, el Ibovespa subía 0.99% (170,173) y el S&P/TSX de Canadá 1.30% (36,255.65)."
+      "t": "Lo que se esperaba",
+      "x": "En la apertura las monedas de la región se fortalecían con el dólar débil y esperábamos que la caída del crudo pesara en Colombia."
      },
      {
-      "t": "Contexto",
-      "x": "El dólar débil, el rebote de Asia y la prórroga en Long Beach apoyan a la región. La caída de 3.4% del petróleo favorece a importadores, pero pesa en Petrobras y en el peso colombiano."
+      "t": "Cómo va",
+      "x": "A las 11:22 CDMX el Ibovespa subía 1.65% a 171,281 y el S&P/TSX 1.72% a 36,403.73. Con datos de las 9:37 CDMX, el COLCAP subía 0.15% (24,425), el peso chileno estaba en 969.7 por dólar, el real en 5.52, el peso colombiano en 3,275.7 y el sol en 3.41."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "Semana con el CPI de EE. UU. (martes) como principal riesgo para las monedas de la región. Brasil mantiene la Selic en 13.75% y México la tasa en 6.25%."
+      "t": "Lo que sorprendió",
+      "x": "El rebote en la región se amplió junto con Wall Street, a pesar de la caída del petróleo. El índice del dólar baja 0.5% a 101.79."
      }
     ],
     "scm": "Convierte pronto los cobros en monedas locales y deja los pagos para después del CPI del martes. Con el crudo a la baja, pide revisión de recargos de flete en rutas regionales."
    },
    "en": {
-    "titular": "The region's currencies strengthen on a weak dollar; lower oil weighs on Colombia",
+    "titular": "The region's stock markets extend the rebound: the Ibovespa rises 1.7% and the TSX 1.7%",
     "esencial": [
-     "Overnight the Chilean peso strengthened to 972.7 per dollar and the real was at 5.50.",
-     "A weak dollar and Asia's rebound support the region; crude's 3.4% drop weighs on exporters such as Colombia.",
-     "If you have local-currency payments, wait for Tuesday's CPI; convert receivables soon."
+     "At 11:22 a.m. Mexico City time the Ibovespa was up 1.65% (171,281) and Canada's S&P/TSX 1.72% (36,403.73).",
+     "Risk appetite on Wall Street and a weaker dollar support the region, although oil weighs on energy stocks.",
+     "Convert local-currency receivables soon and ask for a review of regional freight surcharges with crude lower."
     ],
     "bloques": [
      {
-      "t": "Opening",
-      "x": "With data as of 5:17 a.m. Mexico City time, the Chilean peso was at 972.7 per dollar (dollar −0.5%), the real at 5.50, the Colombian peso at 3,237.9 and the sol at 3.44. At 9:35 a.m. Mexico City time, the Ibovespa was up 0.99% (170,173) and Canada's S&P/TSX 1.30% (36,255.65)."
+      "t": "What was expected",
+      "x": "At the open the region's currencies were strengthening on a weak dollar and we expected lower crude to weigh on Colombia."
      },
      {
-      "t": "Context",
-      "x": "A weak dollar, Asia's rebound and the Long Beach extension support the region. Oil's 3.4% drop favors importers but weighs on Petrobras and the Colombian peso."
+      "t": "How it is going",
+      "x": "At 11:22 a.m. Mexico City time the Ibovespa was up 1.65% at 171,281 and the S&P/TSX 1.72% at 36,403.73. With data as of 9:37 a.m., the COLCAP was up 0.15% (24,425), the Chilean peso at 969.7 per dollar, the real at 5.52, the Colombian peso at 3,275.7 and the sol at 3.41."
      },
      {
-      "t": "What to expect today",
-      "x": "A week with US CPI (Tuesday) as the main risk for the region's currencies. Brazil keeps the Selic at 13.75% and Mexico its rate at 6.25%."
+      "t": "What surprised",
+      "x": "The rebound in the region widened along with Wall Street despite the drop in oil. The dollar index falls 0.5% to 101.79."
      }
     ],
     "scm": "Convert local-currency receivables soon and leave payments for after Tuesday's CPI. With crude lower, ask for a review of freight surcharges on regional routes."
    },
    "pt": {
-    "titular": "As moedas da região se fortalecem com o dólar fraco; o petróleo em queda pesa na Colômbia",
+    "titular": "As bolsas da região ampliam a recuperação: o Ibovespa sobe 1,7% e o TSX 1,7%",
     "esencial": [
-     "Na madrugada o peso chileno se valorizava a 972,7 por dólar e o real estava em 5,50.",
-     "O dólar fraco e a alta da Ásia apoiam a região; a queda do petróleo (−3,4%) pesa sobre exportadores como a Colômbia.",
-     "Se você tem pagamentos em moeda local, espere o CPI de terça; converta os recebíveis logo."
+     "Às 11h22 (Cidade do México) o Ibovespa subia 1,65% (171.281) e o S&P/TSX do Canadá 1,72% (36.403,73).",
+     "O apetite por risco em Wall Street e o dólar mais fraco apoiam a região, embora o petróleo pese nas petroleiras.",
+     "Converta logo os recebíveis em moeda local e peça revisão das sobretaxas de frete regionais com o petróleo em queda."
     ],
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Com dados das 5h17 (Cidade do México), o peso chileno estava em 972,7 por dólar (dólar −0,5%), o dólar em R$ 5,50, o peso colombiano em 3.237,9 e o sol em 3,44. Às 9h35, o Ibovespa subia 0,99% (170.173) e o S&P/TSX do Canadá 1,30% (36.255,65)."
+      "t": "O que se esperava",
+      "x": "Na abertura as moedas da região se fortaleciam com o dólar fraco e esperávamos que a queda do petróleo pesasse na Colômbia."
      },
      {
-      "t": "Contexto",
-      "x": "O dólar fraco, a alta da Ásia e a prorrogação em Long Beach apoiam a região. A queda de 3,4% do petróleo favorece importadores, mas pesa sobre a Petrobras e o peso colombiano."
+      "t": "Como está",
+      "x": "Às 11h22 (Cidade do México) o Ibovespa subia 1,65% para 171.281 e o S&P/TSX 1,72% para 36.403,73. Com dados das 9h37, o COLCAP subia 0,15% (24.425), o peso chileno estava em 969,7 por dólar, o dólar em R$ 5,52, o peso colombiano em 3.275,7 e o sol em 3,41."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Semana com o CPI dos EUA (terça) como principal risco para as moedas da região. O Brasil mantém a Selic em 13,75% e o México a taxa em 6,25%."
+      "t": "O que surpreendeu",
+      "x": "A recuperação na região se ampliou junto com Wall Street, apesar da queda do petróleo. O índice do dólar cai 0,5% para 101,79."
      }
     ],
     "scm": "Converta logo os recebíveis em moeda local e deixe os pagamentos para depois do CPI de terça. Com o petróleo em queda, peça revisão das sobretaxas de frete em rotas regionais."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas (9 nov 2026, 9:35 CDMX)",
+     "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas (9 nov 2026, 11:22 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
@@ -199,79 +183,79 @@
    ]
   },
   "mexico": {
-   "id": "2026-11-09-apertura-mexico",
+   "id": "2026-11-09-mediodia-mexico",
    "fecha": "2026-11-09",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "mexico",
-   "hora": "09:35 CDMX",
+   "hora": "11:25 CDMX",
    "es": {
-    "titular": "El peso abre en 18.61 con ganancias y sigue el caso antidumping de los carros tanque mexicanos",
+    "titular": "El IPC modera su alza a 0.5% y el peso se mantiene en 18.60; EE. UU. vuelve a importar ganado mexicano",
     "esencial": [
-     "El peso abrió en 18.61 por dólar, mejor que el cierre del viernes (18.62), y en la madrugada tocó 18.555.",
-     "Lo apoyan el dólar débil, la caída del petróleo y señales de distensión comercial entre EE. UU. y China.",
-     "Si exportas carros tanque o partes ferroviarias, sigue el caso antidumping en EE. UU.: hay aranceles propuestos de cerca de 32%."
+     "A las 11:22 CDMX el IPC subía 0.47% a 71,729.68, después de tocar 72,227 en la mañana, y el peso estaba en 18.60.",
+     "La bolsa se movió con Wall Street, y la baja del petróleo no le pegó al peso, que sigue cerca de su mejor nivel en dos meses.",
+     "Si exportas ganado o carne a EE. UU., Tyson reabre un turno en Texas apoyado en la reanudación de las importaciones de ganado mexicano."
     ],
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "El peso abrió en 18.61 por dólar, con un rango previsto para hoy de 18.52 a 18.75; en la madrugada llegó a 18.555. A las 9:35 CDMX estaba en 18.58. La Bolsa sube: el S&P/BMV IPC ganaba 0.89% a 72,025 puntos y tocó 72,227, su máximo de 52 semanas."
+      "t": "Lo que se esperaba",
+      "x": "En la apertura el peso estaba en 18.61 y el IPC subía 0.89%, con un rango previsto para el peso de 18.52 a 18.75."
      },
      {
-      "t": "Contexto",
-      "x": "El peso se beneficia del dólar débil, de la caída del petróleo y de señales de distensión comercial entre EE. UU. y China. En EE. UU. sigue el caso antidumping y de subsidios contra los carros tanque fabricados en México, con aranceles propuestos de cerca de 32%."
+      "t": "Cómo va",
+      "x": "A las 11:22 CDMX el S&P/BMV IPC subía 0.47% a 71,729.68 puntos, después de tocar 72,227.22, su máximo de 52 semanas. El peso estaba en 18.60 por dólar, prácticamente sin cambio. El FIX de hoy se publica a mediodía."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "Sin datos relevantes en México. El CPI de EE. UU. del martes es el principal riesgo para el peso esta semana. El lunes 16 cierran la BMV y los bancos."
+      "t": "Lo que sorprendió",
+      "x": "El IPC devolvió la mitad de su alza aunque Wall Street amplió la suya. Tyson Foods se asoció con un grupo de ganaderos y reabrirá el segundo turno de su planta de Amarillo, Texas, en un mercado con la menor oferta de ganado en 75 años. Un analista de Stephens lo liga a la reanudación de las importaciones de ganado de México, que el USDA había frenado por el gusano barrenador; antes representaban de 3% a 5% del sacrificio en EE. UU."
      }
     ],
-    "scm": "Con el peso en 18.61, cubre hoy una parte de tus pagos en dólares de noviembre y deja el resto para después del CPI del martes. Si exportas equipo ferroviario a EE. UU., revisa con tu agente el estatus del caso de carros tanque."
+    "scm": "Con el peso en 18.60, cubre hoy una parte de los pagos en dólares de noviembre y deja el resto para después del CPI. Si estás en la cadena de ganado o carne, revisa con tus clientes de EE. UU. los volúmenes de 2027: Tyson espera tener el segundo turno de Amarillo al 100% en el verano de 2027."
    },
    "en": {
-    "titular": "The peso opens at 18.61 with gains as the antidumping case on Mexican tank cars continues",
+    "titular": "The IPC trims its gain to 0.5% and the peso holds at 18.60; the US resumes Mexican cattle imports",
     "esencial": [
-     "The peso opened at 18.61 per dollar, better than Friday's close (18.62), and touched 18.555 overnight.",
-     "It is supported by a weak dollar, lower oil and signs of easing US–China trade tension.",
-     "If you export tank cars or rail parts, follow the US antidumping case: proposed duties are near 32%."
+     "At 11:22 a.m. Mexico City time the IPC was up 0.47% at 71,729.68 after touching 72,227 in the morning, and the peso was at 18.60.",
+     "Stocks moved with Wall Street, and lower oil did not hurt the peso, which remains near its best level in two months.",
+     "If you export cattle or beef to the US, Tyson is reopening a shift in Texas backed by the resumption of Mexican cattle imports."
     ],
     "bloques": [
      {
-      "t": "Opening",
-      "x": "The peso opened at 18.61 per dollar, with an expected range of 18.52 to 18.75 today; overnight it reached 18.555. At 9:35 a.m. Mexico City time it was at 18.58. Stocks rise: the S&P/BMV IPC was up 0.89% at 72,025 and touched 72,227, its 52-week high."
+      "t": "What was expected",
+      "x": "At the open the peso was at 18.61 and the IPC was up 0.89%, with an expected range for the peso of 18.52 to 18.75."
      },
      {
-      "t": "Context",
-      "x": "The peso benefits from a weak dollar, lower oil and signs of easing US–China trade tension. In the US, the antidumping and countervailing case against Mexican-made tank cars continues, with proposed duties near 32%."
+      "t": "How it is going",
+      "x": "At 11:22 a.m. Mexico City time the S&P/BMV IPC was up 0.47% at 71,729.68 after touching 72,227.22, its 52-week high. The peso was at 18.60 per dollar, practically unchanged. Today's FIX is published at midday."
      },
      {
-      "t": "What to expect today",
-      "x": "No major Mexican data. Tuesday's US CPI is the main risk for the peso this week. On Monday the 16th, the BMV and banks close."
+      "t": "What surprised",
+      "x": "The IPC gave back half its gain even as Wall Street extended its own. Tyson Foods partnered with a rancher group and will reopen the second shift at its Amarillo, Texas plant, in a market with the tightest cattle supply in 75 years. A Stephens analyst links it to the resumption of cattle imports from Mexico, which the USDA had halted over the screwworm; they used to account for 3% to 5% of US slaughter."
      }
     ],
-    "scm": "With the peso at 18.61, hedge part of your November dollar payments today and leave the rest for after Tuesday's CPI. If you export rail equipment to the US, check the tank car case with your broker."
+    "scm": "With the peso at 18.60, hedge part of your November dollar payments today and leave the rest for after CPI. If you are in the cattle or beef chain, review 2027 volumes with US customers: Tyson expects the second Amarillo shift to be fully running by summer 2027."
    },
    "pt": {
-    "titular": "O peso abre a 18,61 com ganhos e segue o caso antidumping dos vagões-tanque mexicanos",
+    "titular": "O IPC modera a alta para 0,5% e o peso fica em 18,60; os EUA voltam a importar gado mexicano",
     "esencial": [
-     "O peso abriu a 18,61 por dólar, melhor que o fechamento de sexta (18,62), e tocou 18,555 na madrugada.",
-     "O apoiam o dólar fraco, a queda do petróleo e sinais de distensão comercial entre EUA e China.",
-     "Se você exporta vagões-tanque ou peças ferroviárias, acompanhe o caso antidumping nos EUA: há tarifas propostas de cerca de 32%."
+     "Às 11h22 (Cidade do México) o IPC subia 0,47% para 71.729,68, depois de tocar 72.227 pela manhã, e o peso estava em 18,60.",
+     "A bolsa acompanhou Wall Street, e a queda do petróleo não afetou o peso, que segue perto do melhor nível em dois meses.",
+     "Se você exporta gado ou carne para os EUA, a Tyson reabre um turno no Texas apoiada na retomada das importações de gado mexicano."
     ],
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "O peso abriu a 18,61 por dólar, com intervalo previsto para hoje de 18,52 a 18,75; na madrugada chegou a 18,555. Às 9h35 estava em 18,58. A bolsa sobe: o S&P/BMV IPC ganhava 0,89% a 72.025 pontos e tocou 72.227, sua máxima de 52 semanas."
+      "t": "O que se esperava",
+      "x": "Na abertura o peso estava em 18,61 e o IPC subia 0,89%, com intervalo previsto para o peso de 18,52 a 18,75."
      },
      {
-      "t": "Contexto",
-      "x": "O peso se beneficia do dólar fraco, da queda do petróleo e de sinais de distensão comercial entre EUA e China. Nos EUA segue o caso antidumping e de subsídios contra os vagões-tanque fabricados no México, com tarifas propostas de cerca de 32%."
+      "t": "Como está",
+      "x": "Às 11h22 (Cidade do México) o S&P/BMV IPC subia 0,47% para 71.729,68 pontos, depois de tocar 72.227,22, sua máxima de 52 semanas. O peso estava em 18,60 por dólar, praticamente sem mudança. O FIX de hoje é publicado ao meio-dia."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Sem dados relevantes no México. O CPI dos EUA de terça é o principal risco para o peso nesta semana. Na segunda, dia 16, a BMV e os bancos fecham."
+      "t": "O que surpreendeu",
+      "x": "O IPC devolveu metade da alta, embora Wall Street tenha ampliado a sua. A Tyson Foods se associou a um grupo de pecuaristas e vai reabrir o segundo turno de sua planta de Amarillo, Texas, num mercado com a menor oferta de gado em 75 anos. Um analista da Stephens liga isso à retomada das importações de gado do México, que o USDA havia suspendido pela bicheira; antes representavam de 3% a 5% do abate nos EUA."
      }
     ],
-    "scm": "Com o peso a 18,61, proteja hoje parte dos seus pagamentos em dólares de novembro e deixe o resto para depois do CPI de terça. Se você exporta equipamento ferroviário para os EUA, verifique com seu despachante o status do caso dos vagões-tanque."
+    "scm": "Com o peso a 18,60, proteja hoje parte dos pagamentos em dólares de novembro e deixe o resto para depois do CPI. Se você está na cadeia de gado ou carne, revise com seus clientes dos EUA os volumes de 2027: a Tyson espera ter o segundo turno de Amarillo a 100% no verão de 2027."
    },
    "fuentes": [
     {
@@ -279,28 +263,20 @@
      "u": "https://finance.yahoo.com/quote/%5EMXX/"
     },
     {
-     "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas (9 nov 2026, 9:35 CDMX)",
+     "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas (9 nov 2026, 11:22 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
-     "t": "Publimetro: el peso mexicano inicia la semana con ganancias (9 nov 2026)",
-     "u": "https://www.publimetro.com.mx/noticias/2026/11/09/precio-del-dolar-hoy-lunes-9-de-noviembre-peso-mexicano-inicia-la-semana-con-ganancias/"
-    },
-    {
-     "t": "Clark Hill: nuevas peticiones ponen a los carros tanque mexicanos en riesgo de aranceles cercanos a 32%",
-     "u": "https://www.clarkhill.com/news-events/news/new-antidumping-countervailing-duty-petitions-mexico-railway-tank-cars/"
-    },
-    {
-     "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
-     "u": "https://mrsupplychain.ai/noticias/"
+     "t": "Reuters: Tyson se asocia con ganaderos y reabre un segundo turno en su planta de Amarillo, Texas",
+     "u": "https://finance.yahoo.com/markets/commodities/articles/tyson-partner-rancher-group-restart-170217334.html"
     }
    ]
   }
  },
  "lectura": {
   "es": {
-   "titular": "Rebote amplio: Wall Street y Europa suben, el crudo cae y Nvidia baja; el CPI del martes manda",
-   "resumen": "Tras la peor semana desde junio, Wall Street sube con fuerza (Nasdaq +2.5%), Europa también (DAX +1.7%) y Taiwán cerró con +4.9%, aunque Nvidia baja 3.8% por la investigación sobre su director. El WTI baja 3.4% a 87.74 dólares, lo que abre espacio para negociar recargos de combustible. Los puertos de Los Ángeles y Long Beach extendieron las pláticas con los vigilantes hasta el 20 de noviembre y el peso abre en 18.61. El CPI de octubre en EE. UU. (martes) definirá si se refuerza el alza de la Fed en diciembre. La prioridad es aprovechar la baja del crudo en recargos, retirar carga de Long Beach antes del 20 y esperar al CPI para cerrar contratos en dólares.",
+   "titular": "Rebote amplio a mediodía: el S&P 500 sube 2.3%, el Brent cae a su menor nivel desde septiembre y Nvidia baja 4.7%; el CPI del martes manda",
+   "resumen": "Wall Street amplía el rebote a mediodía (S&P 500 +2.27%, Nasdaq +2.55%) con 10 de 11 sectores al alza, aunque Nvidia cae 4.7% a su nivel más bajo desde abril. El Brent pierde 4.9% a 93.49 dólares, su menor nivel desde principios de septiembre, después de que Trump dijo que es muy poco probable que ordene nuevos ataques a Irán mientras avancen las pláticas; el gas natural de EE. UU. cae 9.8%. Las expectativas de inflación a un año siguen en 3.9%, pero los consumidores ven más probable un mayor desempleo (45.3%). En México el IPC sube 0.47% y el peso se mantiene en 18.60, mientras EE. UU. vuelve a importar ganado mexicano. La prioridad es trasladar la baja del crudo a los recargos, retirar carga de Long Beach antes del 20 de noviembre y esperar al CPI para cerrar contratos en dólares.",
    "temas": [
     {
      "tema": "Peso y tasas",
@@ -406,8 +382,8 @@
    ]
   },
   "en": {
-   "titular": "A broad rebound: Wall Street and Europe rise, crude falls and Nvidia drops; Tuesday's CPI leads",
-   "resumen": "After the worst week since June, Wall Street rallies (Nasdaq +2.5%), Europe too (DAX +1.7%) and Taiwan closed up 4.9%, although Nvidia falls 3.8% on the probe into its CEO. WTI drops 3.4% to $87.74, opening room to negotiate fuel surcharges. The Los Angeles and Long Beach ports extended talks with the watchmen to Nov. 20 and the peso opens at 18.61. US October CPI (Tuesday) will decide whether a December Fed hike is reinforced. The priority is to capture lower crude in surcharges, pick up Long Beach cargo before the 20th and wait for CPI to close dollar contracts.",
+   "titular": "A broad midday rebound: the S&P 500 rises 2.3%, Brent falls to its lowest since September and Nvidia drops 4.7%; Tuesday's CPI leads",
+   "resumen": "Wall Street extends its rebound at midday (S&P 500 +2.27%, Nasdaq +2.55%) with 10 of 11 sectors higher, although Nvidia falls 4.7% to its lowest since April. Brent loses 4.9% to $93.49, its lowest since early September, after Trump said new strikes on Iran are highly unlikely while talks progress; US natural gas falls 9.8%. One-year inflation expectations hold at 3.9%, but consumers see higher unemployment as more likely (45.3%). In Mexico the IPC rises 0.47% and the peso holds at 18.60, while the US resumes Mexican cattle imports. The priority is to pass lower crude through to surcharges, pick up Long Beach cargo before Nov. 20 and wait for CPI to close dollar contracts.",
    "temas": [
     {
      "tema": "Peso and rates",
@@ -513,8 +489,8 @@
    ]
   },
   "pt": {
-   "titular": "Recuperação ampla: Wall Street e Europa sobem, o petróleo cai e a Nvidia recua; o CPI de terça manda",
-   "resumen": "Depois da pior semana desde junho, Wall Street sobe com força (Nasdaq +2,5%), a Europa também (DAX +1,7%) e Taiwan fechou com +4,9%, embora a Nvidia caia 3,8% pela investigação sobre seu CEO. O WTI cai 3,4% para 87,74 dólares, o que abre espaço para negociar sobretaxas de combustível. Os portos de Los Angeles e Long Beach estenderam as negociações com os vigilantes até 20 de novembro e o peso abre a 18,61 (18,58 às 9h35). O CPI de outubro nos EUA (terça) vai definir se a alta do Fed em dezembro se reforça. A prioridade é aproveitar a queda do petróleo nas sobretaxas, retirar carga de Long Beach antes do dia 20 e esperar o CPI para fechar contratos em dólares.",
+   "titular": "Recuperação ampla no meio-dia: o S&P 500 sobe 2,3%, o Brent cai ao menor nível desde setembro e a Nvidia recua 4,7%; o CPI de terça manda",
+   "resumen": "Wall Street amplia a recuperação no meio-dia (S&P 500 +2,27%, Nasdaq +2,55%) com 10 de 11 setores em alta, embora a Nvidia caia 4,7% ao menor nível desde abril. O Brent perde 4,9% para 93,49 dólares, o menor nível desde o início de setembro, depois que Trump disse ser muito improvável ordenar novos ataques ao Irã enquanto as negociações avançarem; o gás natural dos EUA cai 9,8%. As expectativas de inflação de um ano seguem em 3,9%, mas os consumidores veem mais provável um aumento do desemprego (45,3%). No México o IPC sobe 0,47% e o peso fica em 18,60, enquanto os EUA voltam a importar gado mexicano. A prioridade é repassar a queda do petróleo às sobretaxas, retirar carga de Long Beach antes de 20 de novembro e esperar o CPI para fechar contratos em dólares.",
    "temas": [
     {
      "tema": "Peso e juros",
@@ -625,8 +601,8 @@
    "nombre": "IPC BMV",
    "name_en": "IPC BMV",
    "grupo": "bolsa",
-   "valor": 72025.49,
-   "cambio": 0.89,
+   "valor": 71729.68,
+   "cambio": 0.47,
    "unidad": "puntos",
    "name_pt": "IPC BMV"
   },
@@ -634,8 +610,8 @@
    "nombre": "S&P 500",
    "name_en": "S&P 500",
    "grupo": "bolsa",
-   "valor": 7518.69,
-   "cambio": 1.92,
+   "valor": 7544.58,
+   "cambio": 2.27,
    "unidad": "puntos",
    "name_pt": "S&P 500"
   },
@@ -643,8 +619,8 @@
    "nombre": "Nasdaq",
    "name_en": "Nasdaq",
    "grupo": "bolsa",
-   "valor": 25184.19,
-   "cambio": 2.46,
+   "valor": 25205.13,
+   "cambio": 2.55,
    "unidad": "puntos",
    "name_pt": "Nasdaq"
   },
@@ -652,8 +628,8 @@
    "nombre": "Dow Jones",
    "name_en": "Dow Jones",
    "grupo": "bolsa",
-   "valor": 52105.38,
-   "cambio": 1.6,
+   "valor": 52348.15,
+   "cambio": 2.07,
    "unidad": "puntos",
    "name_pt": "Dow Jones"
   },
@@ -661,7 +637,7 @@
    "nombre": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
    "grupo": "bolsa",
-   "valor": 6290.3,
+   "valor": 6290.45,
    "cambio": 1.94,
    "unidad": "puntos",
    "name_pt": "Euro Stoxx 50"
@@ -688,8 +664,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 18.58,
-   "cambio": -0.07,
+   "valor": 18.6,
+   "cambio": 0.02,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -697,8 +673,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.1194,
-   "cambio": 0.48,
+   "valor": 1.12,
+   "cambio": 0.57,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -706,8 +682,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 158.14,
-   "cambio": -0.18,
+   "valor": 158.01,
+   "cambio": -0.26,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -715,8 +691,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 87.74,
-   "cambio": -3.4,
+   "valor": 87.56,
+   "cambio": -3.6,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -724,8 +700,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 94.26,
-   "cambio": -4.13,
+   "valor": 93.49,
+   "cambio": -4.91,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -742,8 +718,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 4126.0,
-   "cambio": 1.25,
+   "valor": 4114.5,
+   "cambio": 0.97,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -751,8 +727,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 6.34,
-   "cambio": 1.72,
+   "valor": 6.36,
+   "cambio": 1.88,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -760,8 +736,8 @@
    "nombre": "Treasury 10 años",
    "name_en": "10-yr Treasury",
    "grupo": "bono",
-   "valor": 4.86,
-   "cambio": 0,
+   "valor": 4.88,
+   "cambio": 2,
    "unidad": "%",
    "name_pt": "Título do Tesouro 10 anos"
   },
@@ -787,8 +763,8 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 75098.88,
-   "cambio": -1.14,
+   "valor": 74604.51,
+   "cambio": -1.39,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }

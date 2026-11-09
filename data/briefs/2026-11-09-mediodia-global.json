@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-09-mediodia-global",
+ "fecha": "2026-11-09",
+ "momento": "mediodia",
+ "mercado": "global",
+ "hora": "11:25 CDMX",
+ "es": {
+  "titular": "El rebote se amplía a mediodía: el S&P 500 sube 2.3% y el petróleo cae, aunque Nvidia pierde 4.7%",
+  "esencial": [
+   "A las 11:22 CDMX el S&P 500 subía 2.27%, el Nasdaq 2.55% y el Dow 2.07%; Nvidia bajaba 4.7%.",
+   "El crudo cae porque Trump dijo que es muy poco probable que ordene nuevos ataques a Irán mientras avancen las pláticas: el Brent pierde 4.9% a 93.49 dólares.",
+   "Para supply chain: pide que el recargo de combustible de la próxima semana refleje la baja y espera al CPI del martes antes de cerrar contratos en dólares."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura esperábamos un rebote tras la peor semana desde junio, con el crudo a la baja y presión en Nvidia por la investigación sobre su director, Jensen Huang."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:22 CDMX el S&P 500 subía 2.27% (7,544.58), el Nasdaq 2.55% (25,205.13), el Dow 2.07% (52,348.15) y el Russell 2000 2.75%; el VIX bajaba 21% a 20.22. El índice de semiconductores subía 6% con Marvell (+9%) y Broadcom (+8%), mientras Nvidia caía 4.7% y llegó a su nivel más bajo desde abril. El WTI bajaba 3.6% a 87.56 dólares, el Brent 4.9% a 93.49, el oro subía 1.0% a 4,114.50 y el Treasury a 10 años estaba en 4.88%. Europa cerró arriba: Euro Stoxx 50 +1.9% y DAX +1.7%."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El rebote fue más amplio de lo esperado: 10 de los 11 sectores del S&P 500 suben, con industriales y consumo al frente. El Brent tocó su nivel más bajo desde principios de septiembre después de que Trump dijo que es muy poco probable que ordene nuevos ataques a Irán mientras avancen las negociaciones, aunque siguen los ataques a barcos cerca del estrecho de Ormuz. La encuesta de la Fed de Nueva York dejó las expectativas de inflación a un año sin cambio en 3.9%, pero la probabilidad que los consumidores asignan a más desempleo subió a 45.3%, la mayor desde abril de 2020. El gas natural en EE. UU. cae 9.8%."
+   }
+  ],
+  "scm": "El combustible y el gas bajan: 1) pide a tus transportistas que el recargo de combustible de la próxima semana refleje la baja del crudo; 2) revisa si tus contratos de gas o electricidad tienen precio variable; 3) espera al CPI del martes antes de cerrar contratos en dólares de largo plazo."
+ },
+ "en": {
+  "titular": "The rebound widens at midday: the S&P 500 rises 2.3% and oil falls, though Nvidia loses 4.7%",
+  "esencial": [
+   "At 12:22 p.m. ET the S&P 500 was up 2.27%, the Nasdaq 2.55% and the Dow 2.07%; Nvidia was down 4.7%.",
+   "Crude falls because Trump said new strikes on Iran are highly unlikely while talks progress: Brent loses 4.9% to $93.49.",
+   "For supply chain: ask for next week's fuel surcharge to reflect the drop and wait for Tuesday's CPI before closing dollar contracts."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open we expected a rebound after the worst week since June, with crude lower and pressure on Nvidia over the probe into CEO Jensen Huang."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 12:22 p.m. ET the S&P 500 was up 2.27% (7,544.58), the Nasdaq 2.55% (25,205.13), the Dow 2.07% (52,348.15) and the Russell 2000 2.75%; the VIX fell 21% to 20.22. The semiconductor index rose 6% with Marvell (+9%) and Broadcom (+8%), while Nvidia fell 4.7% and hit its lowest since April. WTI was down 3.6% at $87.56, Brent 4.9% at $93.49, gold up 1.0% at $4,114.50 and the 10-year Treasury at 4.88%. Europe closed higher: Euro Stoxx 50 +1.9% and DAX +1.7%."
+   },
+   {
+    "t": "What surprised",
+    "x": "The rebound was broader than expected: 10 of the S&P 500's 11 sectors are up, led by industrials and consumer discretionary. Brent hit its lowest since early September after Trump said new strikes on Iran are highly unlikely as long as negotiations progress, although attacks on ships near the Strait of Hormuz continue. The New York Fed survey left one-year inflation expectations unchanged at 3.9%, but the probability consumers assign to higher unemployment rose to 45.3%, the highest since April 2020. US natural gas falls 9.8%."
+   }
+  ],
+  "scm": "Fuel and gas are falling: 1) ask carriers for next week's fuel surcharge to reflect lower crude; 2) check whether your gas or power contracts have variable pricing; 3) wait for Tuesday's CPI before closing long-term dollar contracts."
+ },
+ "pt": {
+  "titular": "A recuperação se amplia no meio-dia: o S&P 500 sobe 2,3% e o petróleo cai, embora a Nvidia perca 4,7%",
+  "esencial": [
+   "Às 11h22 (Cidade do México) o S&P 500 subia 2,27%, o Nasdaq 2,55% e o Dow 2,07%; a Nvidia caía 4,7%.",
+   "O petróleo cai porque Trump disse ser muito improvável ordenar novos ataques ao Irã enquanto as negociações avançarem: o Brent perde 4,9% para 93,49 dólares.",
+   "Para supply chain: peça que a sobretaxa de combustível da próxima semana reflita a queda e espere o CPI de terça antes de fechar contratos em dólares."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura esperávamos uma recuperação após a pior semana desde junho, com o petróleo em queda e pressão sobre a Nvidia pela investigação sobre o CEO, Jensen Huang."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h22 (Cidade do México) o S&P 500 subia 2,27% (7.544,58), o Nasdaq 2,55% (25.205,13), o Dow 2,07% (52.348,15) e o Russell 2000 2,75%; o VIX caía 21% para 20,22. O índice de semicondutores subia 6% com Marvell (+9%) e Broadcom (+8%), enquanto a Nvidia caía 4,7% e chegou ao menor nível desde abril. O WTI caía 3,6% para 87,56 dólares, o Brent 4,9% para 93,49, o ouro subia 1,0% para 4.114,50 e o título de 10 anos do Tesouro estava em 4,88%. A Europa fechou em alta: Euro Stoxx 50 +1,9% e DAX +1,7%."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A recuperação foi mais ampla que o esperado: 10 dos 11 setores do S&P 500 sobem, com indústria e consumo na frente. O Brent tocou o menor nível desde o início de setembro depois que Trump disse ser muito improvável ordenar novos ataques ao Irã enquanto as negociações avançarem, embora continuem os ataques a navios perto do estreito de Ormuz. A pesquisa do Fed de Nova York manteve as expectativas de inflação de um ano em 3,9%, mas a probabilidade que os consumidores atribuem a mais desemprego subiu para 45,3%, a maior desde abril de 2020. O gás natural nos EUA cai 9,8%."
+   }
+  ],
+  "scm": "O combustível e o gás caem: 1) peça às transportadoras que a sobretaxa de combustível da próxima semana reflita a queda do petróleo; 2) verifique se seus contratos de gás ou eletricidade têm preço variável; 3) espere o CPI de terça antes de fechar contratos em dólares de longo prazo."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas (9 nov 2026, 11:22 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Reuters: Wall Street repunta con la baja del petróleo; Nvidia cae (9 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html"
+  },
+  {
+   "t": "Reuters: el petróleo cae casi 5% porque Trump descarta nuevos ataques a Irán (9 nov 2026)",
+   "u": "https://finance.yahoo.com/news/oil-falls-open-trump-says-235002807.html"
+  },
+  {
+   "t": "Fed de Nueva York: encuesta de expectativas del consumidor de octubre",
+   "u": "https://www.newyorkfed.org/microeconomics/sce"
+  }
+ ]
+}

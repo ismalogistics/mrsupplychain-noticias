@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-09-mediodia-mexico",
+ "fecha": "2026-11-09",
+ "momento": "mediodia",
+ "mercado": "mexico",
+ "hora": "11:25 CDMX",
+ "es": {
+  "titular": "El IPC modera su alza a 0.5% y el peso se mantiene en 18.60; EE. UU. vuelve a importar ganado mexicano",
+  "esencial": [
+   "A las 11:22 CDMX el IPC subía 0.47% a 71,729.68, después de tocar 72,227 en la mañana, y el peso estaba en 18.60.",
+   "La bolsa se movió con Wall Street, y la baja del petróleo no le pegó al peso, que sigue cerca de su mejor nivel en dos meses.",
+   "Si exportas ganado o carne a EE. UU., Tyson reabre un turno en Texas apoyado en la reanudación de las importaciones de ganado mexicano."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el peso estaba en 18.61 y el IPC subía 0.89%, con un rango previsto para el peso de 18.52 a 18.75."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:22 CDMX el S&P/BMV IPC subía 0.47% a 71,729.68 puntos, después de tocar 72,227.22, su máximo de 52 semanas. El peso estaba en 18.60 por dólar, prácticamente sin cambio. El FIX de hoy se publica a mediodía."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El IPC devolvió la mitad de su alza aunque Wall Street amplió la suya. Tyson Foods se asoció con un grupo de ganaderos y reabrirá el segundo turno de su planta de Amarillo, Texas, en un mercado con la menor oferta de ganado en 75 años. Un analista de Stephens lo liga a la reanudación de las importaciones de ganado de México, que el USDA había frenado por el gusano barrenador; antes representaban de 3% a 5% del sacrificio en EE. UU."
+   }
+  ],
+  "scm": "Con el peso en 18.60, cubre hoy una parte de los pagos en dólares de noviembre y deja el resto para después del CPI. Si estás en la cadena de ganado o carne, revisa con tus clientes de EE. UU. los volúmenes de 2027: Tyson espera tener el segundo turno de Amarillo al 100% en el verano de 2027."
+ },
+ "en": {
+  "titular": "The IPC trims its gain to 0.5% and the peso holds at 18.60; the US resumes Mexican cattle imports",
+  "esencial": [
+   "At 11:22 a.m. Mexico City time the IPC was up 0.47% at 71,729.68 after touching 72,227 in the morning, and the peso was at 18.60.",
+   "Stocks moved with Wall Street, and lower oil did not hurt the peso, which remains near its best level in two months.",
+   "If you export cattle or beef to the US, Tyson is reopening a shift in Texas backed by the resumption of Mexican cattle imports."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the peso was at 18.61 and the IPC was up 0.89%, with an expected range for the peso of 18.52 to 18.75."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:22 a.m. Mexico City time the S&P/BMV IPC was up 0.47% at 71,729.68 after touching 72,227.22, its 52-week high. The peso was at 18.60 per dollar, practically unchanged. Today's FIX is published at midday."
+   },
+   {
+    "t": "What surprised",
+    "x": "The IPC gave back half its gain even as Wall Street extended its own. Tyson Foods partnered with a rancher group and will reopen the second shift at its Amarillo, Texas plant, in a market with the tightest cattle supply in 75 years. A Stephens analyst links it to the resumption of cattle imports from Mexico, which the USDA had halted over the screwworm; they used to account for 3% to 5% of US slaughter."
+   }
+  ],
+  "scm": "With the peso at 18.60, hedge part of your November dollar payments today and leave the rest for after CPI. If you are in the cattle or beef chain, review 2027 volumes with US customers: Tyson expects the second Amarillo shift to be fully running by summer 2027."
+ },
+ "pt": {
+  "titular": "O IPC modera a alta para 0,5% e o peso fica em 18,60; os EUA voltam a importar gado mexicano",
+  "esencial": [
+   "Às 11h22 (Cidade do México) o IPC subia 0,47% para 71.729,68, depois de tocar 72.227 pela manhã, e o peso estava em 18,60.",
+   "A bolsa acompanhou Wall Street, e a queda do petróleo não afetou o peso, que segue perto do melhor nível em dois meses.",
+   "Se você exporta gado ou carne para os EUA, a Tyson reabre um turno no Texas apoiada na retomada das importações de gado mexicano."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o peso estava em 18,61 e o IPC subia 0,89%, com intervalo previsto para o peso de 18,52 a 18,75."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h22 (Cidade do México) o S&P/BMV IPC subia 0,47% para 71.729,68 pontos, depois de tocar 72.227,22, sua máxima de 52 semanas. O peso estava em 18,60 por dólar, praticamente sem mudança. O FIX de hoje é publicado ao meio-dia."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O IPC devolveu metade da alta, embora Wall Street tenha ampliado a sua. A Tyson Foods se associou a um grupo de pecuaristas e vai reabrir o segundo turno de sua planta de Amarillo, Texas, num mercado com a menor oferta de gado em 75 anos. Um analista da Stephens liga isso à retomada das importações de gado do México, que o USDA havia suspendido pela bicheira; antes representavam de 3% a 5% do abate nos EUA."
+   }
+  ],
+  "scm": "Com o peso a 18,60, proteja hoje parte dos pagamentos em dólares de novembro e deixe o resto para depois do CPI. Se você está na cadeia de gado ou carne, revise com seus clientes dos EUA os volumes de 2027: a Tyson espera ter o segundo turno de Amarillo a 100% no verão de 2027."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 9 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas (9 nov 2026, 11:22 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Reuters: Tyson se asocia con ganaderos y reabre un segundo turno en su planta de Amarillo, Texas",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/tyson-partner-rancher-group-restart-170217334.html"
+  }
+ ]
+}
