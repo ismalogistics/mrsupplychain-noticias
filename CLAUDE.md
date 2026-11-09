@@ -3,3 +3,4 @@
 - Antes de publicar cualquier brief, tendencia o especial, lee y cumple **GUIA-VISUAL.md** (en particular, el campo `esencial` de 3 frases en es/en/pt de cada brief).
 - La marca se escribe siempre "Mr. Supply Chain México". El repo es público: nunca guardes contraseñas, llaves ni datos personales.
 - Hostinger despliega `main` en `public_html/noticias`; la GitHub Action regenera `brief/`, `archivo/`, `feed.xml`, `sitemap.xml`, `data/heatmaps.json` y `data/redes.json`.
+- Si un dato no se confirma a la primera (página que no carga, fuentes que se contradicen, cifra sin cambio del día), no lo omitas: búscalo por otra vía (otra búsqueda, otra fuente, o abrir Yahoo Finance u otra página con Claude in Chrome) y confírmalo con hora. Si una cifra ya publicada quedó vieja o resultó errónea, corrígela en todos los archivos donde aparezca. Sólo si de plano no hay forma de confirmarlo, déjalo fuera y dilo en el aviso a Isma.
