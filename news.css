@@ -504,7 +504,7 @@ details.nx-sec summary h4 { margin: 0; color: var(--accent); font-size: 12.5px; 
 /* Especial y newsletter: misma tarjeta promocional del portal */
 .nx-promo, .nx-nl { display: grid; grid-template-columns: 120px minmax(0, 1fr) auto; gap: 18px 22px; align-items: center; padding: 16px 20px 16px 16px; border-radius: 16px; background: linear-gradient(135deg, #163e86, #0b1f47); color: #fff; text-decoration: none; box-shadow: 0 12px 30px -20px rgba(8,22,49,.8); transition: transform .2s, box-shadow .2s; }
 .nx-promo:hover { transform: translateY(-2px); box-shadow: 0 18px 34px -20px rgba(8,22,49,.9); }
-#especial-elecciones { margin-top: 18px; }
+#especial-elecciones { margin-top: 32px; margin-bottom: -16px; }
 .nx-promo-img, .nx-nl-logo { width: 120px; height: 90px; object-fit: cover; border-radius: 10px; display: block; }
 .nx-nl-logo { height: 120px; object-fit: contain; background: #fff; }
 .nx-promo-txt { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
