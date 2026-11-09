@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-09-premercado-global",
+   "fecha": "2026-11-09",
+   "momento": "premercado",
+   "mercado": "global",
+   "titular_es": "Long Beach aleja la huelga hasta el 20 de noviembre; Asia rebota con Taiwán +5.6% y Nvidia cae antes de la apertura",
+   "titular_en": "Long Beach pushes the strike threat to Nov. 20; Asia rebounds with Taiwan +5.6% and Nvidia falls premarket",
+   "titular_pt": "Long Beach adia a ameaça de greve para 20 de novembro; a Ásia sobe com Taiwan +5,6% e a Nvidia cai no pré-mercado"
+  },
+  {
+   "id": "2026-11-09-premercado-latam",
+   "fecha": "2026-11-09",
+   "momento": "premercado",
+   "mercado": "latam",
+   "titular_es": "La región cerró el viernes al alza (Ibovespa +1.4%) y abre la semana con el CPI de EE. UU. en el radar",
+   "titular_en": "The region closed Friday higher (Ibovespa +1.4%) and starts the week with US CPI on the radar",
+   "titular_pt": "A região fechou a sexta em alta (Ibovespa +1,4%) e começa a semana com o CPI dos EUA no radar"
+  },
+  {
+   "id": "2026-11-09-premercado-mexico",
+   "fecha": "2026-11-09",
+   "momento": "premercado",
+   "mercado": "mexico",
+   "titular_es": "El peso empieza la semana cerca de 18.62 tras su mejor semana en dos meses; hoy EE. UU. decide sobre los carros tanque mexicanos",
+   "titular_en": "The peso starts the week near 18.62 after its best week in two months; the US decides today on Mexican tank cars",
+   "titular_pt": "O peso começa a semana perto de 18,62 após sua melhor semana em dois meses; hoje os EUA decidem sobre os vagões-tanque mexicanos"
+  },
+  {
    "id": "2026-11-06-cierre-global",
    "fecha": "2026-11-06",
    "momento": "cierre",

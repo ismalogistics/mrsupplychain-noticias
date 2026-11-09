@@ -1,201 +1,151 @@
 {
- "actualizado": "2026-11-06T21:39:55Z",
- "momento": "cierre",
+ "actualizado": "2026-11-09T11:16:22Z",
+ "momento": "premercado",
  "briefs": {
   "global": {
-   "id": "2026-11-06-cierre-global",
-   "fecha": "2026-11-06",
-   "momento": "cierre",
+   "id": "2026-11-09-premercado-global",
+   "fecha": "2026-11-09",
+   "momento": "premercado",
    "mercado": "global",
-   "hora": "15:40 CDMX",
-   "fin_de_semana": true,
+   "hora": "05:20 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "Wall Street cierra su peor semana desde junio: el S&P 500 pierde 2.7% y el Nasdaq 3.4% pese al rebote del viernes",
+    "titular": "Long Beach aleja la huelga hasta el 20 de noviembre; Asia rebota con Taiwán +5.6% y Nvidia cae antes de la apertura",
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "El viernes el Nasdaq subió 1.1% (24,579) y el S&P 500 0.3% (7,376), mientras el Dow bajó 0.5% (51,285). En la semana, el S&P 500 perdió 2.7%, el Nasdaq 3.4% (sigue en corrección) y el Dow 0.9%: la peor semana del S&P y del Nasdaq desde junio. Airbnb subió 11.7%, Micron 5.1% y Nvidia 2.8%; DraftKings cayó 21.3%. El WTI rondaba 91 dólares, el Brent quedó debajo de 100 y el Treasury a 10 años en 4.86%."
+      "t": "Lo que pasó desde el cierre",
+      "x": "El fin de semana trajo dos noticias para supply chain. Los puertos de Los Ángeles y Long Beach y el sindicato de vigilantes (ILWU Local 26) extendieron las pláticas hasta el 20 de noviembre, con lo que se aleja por ahora la huelga que amenazaba terminales con cerca de 85% de la carga de Long Beach. Y Nvidia dijo el domingo que investiga reportes de que su director, Jensen Huang, fue blanco de un esfuerzo de inteligencia extranjera; la acción caía cerca de 4% antes de la apertura. Trump dijo que nuevos ataques a Irán son muy poco probables mientras avancen las negociaciones."
      },
      {
-      "t": "Por qué",
-      "x": "La semana pasó del rally por el Congreso demócrata (miércoles) a la venta de IA por el temor a frenos a los centros de datos (jueves: S&P 500 −4.4%, semiconductores −12%). El viernes, el empleo de octubre (165 mil plazas, desempleo de 4.1%) sostuvo la demanda pero elevó a 77% la probabilidad de un alza de la Fed en diciembre (71% hace una semana)."
+      "t": "Asia, Europa y futuros",
+      "x": "Asia rebota tras la recuperación del viernes en IA: el Taiex de Taiwán sube 5.6% con TSMC +5.6%, el Nikkei 3.4% (59,411.34), el KOSPI 1.5% (5,137.22) y el Shanghái 0.4%. Hacia las 3:05 CDMX los futuros del Dow subían 0.57%, los del S&P 500 0.23% y los del Nasdaq bajaban 0.09%. El Brent está en 98.10 dólares, el WTI cerca de 90.5, el oro en 4,103.50 (+0.7%) y el Treasury a 10 años en 4.86%. No encontré cifras verificadas de Europa."
      },
      {
-      "t": "Qué se espera",
-      "x": "Asia abrirá el lunes con la atención en la recuperación de los chips. En Los Ángeles–Long Beach el plazo de huelga de los vigilantes vence esta medianoche (hora del Pacífico); el lunes sabremos si hubo acuerdo, nueva prórroga o paro."
-     },
-     {
-      "t": "La próxima semana",
-      "x": "Martes 10: inflación (CPI) de octubre en EE. UU., 7:30 CDMX; se espera que baje por la gasolina más barata y sólo habrá cifras mensuales por el cierre de gobierno de 2025. Jueves 12: venta de casas usadas, 9:00 CDMX. Viernes 13: precios al productor (PPI) de octubre, 7:30 CDMX. Reporta CoreWeave. En México, el lunes 16 cierran la BMV y los bancos por el Día de la Revolución."
+      "t": "Qué se espera hoy",
+      "x": "Hoy sale la encuesta de expectativas de inflación de la Fed de Nueva York (la anterior fue de 3.9%) y los inventarios mayoristas de septiembre. El dato fuerte de la semana es el CPI de octubre, el martes a las 7:30 CDMX, y el PPI el viernes. Hoy también vence el plazo para que EE. UU. decida si investiga los carros tanque fabricados en México."
      }
     ],
-    "scm": "Para el fin de semana: 1) confirma el lunes temprano con tu agente aduanal el estatus de Long Beach antes de programar retiros; 2) con el crudo cerca de 90 dólares, pide a tus transportistas el recargo de combustible de la próxima semana por escrito; 3) un CPI alto el martes reforzaría el alza de la Fed y el dólar fuerte, así que no dejes para después del martes las coberturas de pagos en dólares de noviembre; 4) no firmes contratos grandes de memoria o servidores hasta que los chips se estabilicen.",
-    "esencial": [
-     "Wall Street cerró su peor semana desde junio: el S&P 500 perdió 2.7% y el Nasdaq 3.4%, aunque el viernes rebotaron los chips.",
-     "La venta de IA del jueves y un empleo firme (165 mil plazas) elevaron a 77% la probabilidad de un alza de la Fed en diciembre.",
-     "Para supply chain: confirma el lunes el estatus de Long Beach y cubre pagos en dólares antes del CPI del martes 10."
-    ]
+    "scm": "Long Beach gana dos semanas: aprovecha para retirar contenedores y ajustar el plan de desvío antes del 20 de noviembre. Con el crudo cerca de 98 (Brent), mantén los recargos de combustible con ajuste semanal, y espera al CPI del martes antes de cerrar contratos en dólares de largo plazo."
    },
    "en": {
-    "titular": "Wall Street ends its worst week since June: the S&P 500 loses 2.7% and the Nasdaq 3.4% despite Friday's rebound",
+    "titular": "Long Beach pushes the strike threat to Nov. 20; Asia rebounds with Taiwan +5.6% and Nvidia falls premarket",
     "bloques": [
      {
-      "t": "What happened",
-      "x": "On Friday the Nasdaq rose 1.1% (24,579) and the S&P 500 0.3% (7,376), while the Dow fell 0.5% (51,285). For the week, the S&P 500 lost 2.7%, the Nasdaq 3.4% (still in a correction) and the Dow 0.9%: the worst week for the S&P and Nasdaq since June. Airbnb rose 11.7%, Micron 5.1% and Nvidia 2.8%; DraftKings fell 21.3%. WTI was around $91, Brent stayed below $100 and the 10-year Treasury was at 4.86%."
+      "t": "What happened since the close",
+      "x": "The weekend brought two pieces of supply-chain news. The Los Angeles and Long Beach ports and the watchmen's union (ILWU Local 26) extended talks through Nov. 20, removing for now the strike threat to terminals handling about 85% of Long Beach cargo. And Nvidia said Sunday it is investigating reports that CEO Jensen Huang was the target of a foreign intelligence effort; the stock was down about 4% premarket. Trump said new strikes on Iran are highly unlikely as long as negotiations progress."
      },
      {
-      "t": "Why",
-      "x": "The week went from a rally on the Democratic Congress (Wednesday) to an AI selloff on fears of curbs on data centers (Thursday: S&P 500 −4.4%, semiconductors −12%). On Friday, October jobs (165,000, 4.1% unemployment) supported demand but raised the odds of a December Fed hike to 77% (71% a week earlier)."
+      "t": "Asia, Europe and futures",
+      "x": "Asia rebounds after Friday's AI recovery: Taiwan's Taiex rises 5.6% with TSMC +5.6%, the Nikkei 3.4% (59,411.34), the KOSPI 1.5% (5,137.22) and Shanghai 0.4%. Around 4:05 a.m. ET, Dow futures were up 0.57%, S&P 500 futures 0.23% and Nasdaq futures down 0.09%. Brent is at $98.10, WTI near $90.5, gold at $4,103.50 (+0.7%) and the 10-year Treasury at 4.86%. I could not find verified European figures."
      },
      {
-      "t": "What to expect",
-      "x": "Asia will open Monday focused on the chip recovery. In Los Angeles–Long Beach the watchmen strike deadline expires at midnight tonight (Pacific time); on Monday we'll know whether there was a deal, another extension or a walkout."
-     },
-     {
-      "t": "Next week",
-      "x": "Tuesday 10: US October CPI, 8:30 a.m. ET; it is expected to ease on cheaper gasoline, and only monthly figures will be published because of the 2025 government shutdown. Thursday 12: existing home sales, 10:00 a.m. ET. Friday 13: October PPI, 8:30 a.m. ET. CoreWeave reports. In Mexico, the BMV and banks close on Monday the 16th for Revolution Day."
+      "t": "What to expect today",
+      "x": "Today brings the New York Fed's inflation expectations survey (previous 3.9%) and September wholesale inventories. The week's key data is October CPI on Tuesday at 8:30 a.m. ET, with PPI on Friday. Today is also the deadline for the US to decide whether to investigate Mexican-made tank cars."
      }
     ],
-    "scm": "For the weekend: 1) confirm Long Beach's status with your customs broker early Monday before scheduling pickups; 2) with crude near $90, ask carriers for next week's fuel surcharge in writing; 3) a hot CPI on Tuesday would reinforce the Fed hike and the strong dollar, so don't leave November dollar hedges until after Tuesday; 4) don't sign large memory or server contracts until chips stabilize.",
-    "esencial": [
-     "Wall Street closed its worst week since June: the S&P 500 lost 2.7% and the Nasdaq 3.4%, though chips rebounded on Friday.",
-     "Thursday’s AI selloff and solid jobs (165,000) raised the odds of a December Fed hike to 77%.",
-     "For supply chain: confirm Long Beach’s status on Monday and hedge dollar payments before Tuesday’s CPI (Nov 10)."
-    ]
+    "scm": "Long Beach gains two weeks: use them to pick up containers and fine-tune the diversion plan before Nov. 20. With crude near 98 (Brent), keep fuel surcharges with weekly adjustment, and wait for Tuesday's CPI before closing long-term dollar contracts."
    },
    "pt": {
-    "titular": "Wall Street fecha sua pior semana desde junho: o S&P 500 perde 2,7% e o Nasdaq 3,4% apesar da alta de sexta",
+    "titular": "Long Beach adia a ameaça de greve para 20 de novembro; a Ásia sobe com Taiwan +5,6% e a Nvidia cai no pré-mercado",
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "Na sexta o Nasdaq subiu 1,1% (24.579) e o S&P 500 0,3% (7.376), enquanto o Dow caiu 0,5% (51.285). Na semana, o S&P 500 perdeu 2,7%, o Nasdaq 3,4% (segue em correção) e o Dow 0,9%: a pior semana do S&P e do Nasdaq desde junho. A Airbnb subiu 11,7%, a Micron 5,1% e a Nvidia 2,8%; a DraftKings caiu 21,3%. O WTI rondava 91 dólares, o Brent ficou abaixo de 100 e o título de 10 anos do Tesouro em 4,86%."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "O fim de semana trouxe duas notícias para supply chain. Os portos de Los Angeles e Long Beach e o sindicato dos vigilantes (ILWU Local 26) estenderam as negociações até 20 de novembro, afastando por enquanto a greve que ameaçava terminais com cerca de 85% da carga de Long Beach. E a Nvidia disse no domingo que investiga relatos de que seu CEO, Jensen Huang, foi alvo de um esforço de inteligência estrangeira; a ação caía cerca de 4% no pré-mercado. Trump disse que novos ataques ao Irã são muito improváveis enquanto as negociações avançarem."
      },
      {
-      "t": "Por quê",
-      "x": "A semana passou da alta pelo Congresso democrata (quarta) à venda de IA pelo temor de freios aos data centers (quinta: S&P 500 −4,4%, semicondutores −12%). Na sexta, o emprego de outubro (165 mil vagas, desemprego de 4,1%) sustentou a demanda, mas elevou para 77% a probabilidade de alta do Fed em dezembro (71% uma semana antes)."
+      "t": "Ásia, Europa e futuros",
+      "x": "A Ásia sobe após a recuperação de sexta em IA: o Taiex de Taiwan sobe 5,6% com a TSMC +5,6%, o Nikkei 3,4% (59.411,34), o KOSPI 1,5% (5.137,22) e Xangai 0,4%. Por volta das 3h05 (Cidade do México) os futuros do Dow subiam 0,57%, os do S&P 500 0,23% e os do Nasdaq caíam 0,09%. O Brent está em 98,10 dólares, o WTI perto de 90,5, o ouro em 4.103,50 (+0,7%) e o título de 10 anos do Tesouro em 4,86%. Não encontrei números verificados da Europa."
      },
      {
-      "t": "O que se espera",
-      "x": "A Ásia vai abrir na segunda com a atenção na recuperação dos chips. Em Los Angeles–Long Beach o prazo da greve dos vigilantes vence nesta meia-noite (horário do Pacífico); na segunda saberemos se houve acordo, nova prorrogação ou paralisação."
-     },
-     {
-      "t": "A próxima semana",
-      "x": "Terça 10: inflação (CPI) de outubro nos EUA, 7h30 (Cidade do México); espera-se queda pela gasolina mais barata e só haverá números mensais pelo fechamento do governo de 2025. Quinta 12: venda de imóveis usados, 9h. Sexta 13: preços ao produtor (PPI) de outubro, 7h30. A CoreWeave divulga resultados. No México, na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução."
+      "t": "O que se espera hoje",
+      "x": "Hoje sai a pesquisa de expectativas de inflação do Fed de Nova York (a anterior foi de 3,9%) e os estoques no atacado de setembro. O dado forte da semana é o CPI de outubro, na terça às 7h30 (Cidade do México), e o PPI na sexta. Hoje também vence o prazo para os EUA decidirem se investigam os vagões-tanque fabricados no México."
      }
     ],
-    "scm": "Para o fim de semana: 1) confirme na segunda cedo com seu despachante o status de Long Beach antes de programar retiradas; 2) com o petróleo perto de 90 dólares, peça às transportadoras a sobretaxa de combustível da próxima semana por escrito; 3) um CPI alto na terça reforçaria a alta do Fed e o dólar forte, então não deixe para depois de terça as proteções de pagamentos em dólares de novembro; 4) não assine contratos grandes de memória ou servidores até os chips se estabilizarem.",
-    "esencial": [
-     "Wall Street fechou sua pior semana desde junho: o S&P 500 perdeu 2,7% e o Nasdaq 3,4%, embora os chips tenham se recuperado na sexta.",
-     "A venda de IA de quinta e um emprego firme (165 mil vagas) elevaram a 77% a chance de alta do Fed em dezembro.",
-     "Para supply chain: confirme na segunda o status de Long Beach e proteja pagamentos em dólar antes do CPI da terça, dia 10."
-    ]
+    "scm": "Long Beach ganha duas semanas: aproveite para retirar contêineres e ajustar o plano de desvio antes de 20 de novembro. Com o petróleo perto de 98 (Brent), mantenha as sobretaxas de combustível com ajuste semanal e espere o CPI de terça antes de fechar contratos em dólares de longo prazo."
    },
    "fuentes": [
     {
-     "t": "Kiplinger: el Nasdaq sube 264 puntos con el rebote de tecnología, pero cierra la semana a la baja",
-     "u": "https://www.kiplinger.com/investing/stocks/nasdaq-adds-264-points-in-tech-rebound-but-ends-the-week-lower-stock-market-today"
+     "t": "GV Wire (Reuters): empleadores y vigilantes de los puertos de California extienden las pláticas",
+     "u": "https://gvwire.com/2026/11/07/employers-watchmen-at-california-ports-extend-contract-talks/"
     },
     {
-     "t": "Yahoo Finance: el Nasdaq y el S&P 500 rebotan; el Dow baja al cierre de una semana dura para la IA",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
+     "t": "AP: las bolsas de Asia rebotan tras la recuperación de las acciones de IA (9 nov 2026)",
+     "u": "https://www.news4jax.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
+    },
+    {
+     "t": "Yahoo Finance: los futuros suben; Nvidia y la IA en el foco (9 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
+    },
+    {
+     "t": "HDFC Sky: Asia sube y el petróleo baja a 98 por la menor tensión con Irán",
+     "u": "https://hdfcsky.com/news/global-markets-today-november-9-2026-asia-rises-us-futures-higher-oil-slips-to-98-as-easing-iran-tensions-lift-sentiment"
     },
     {
      "t": "FinancialJuice: indicadores de la semana del 9 al 13 de noviembre (EE. UU.)",
      "u": "https://features.financialjuice.com/2026/11/06/week-ahead-economic-indicators-9th-13th-november-us/"
-    },
-    {
-     "t": "Patch: la huelga en el puerto de Long Beach se aplaza otra vez; vence a la medianoche",
-     "u": "https://patch.com/california/longbeach-ca/long-beach-port-strike-delayed-again-midnight-deadline-looms"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-06-cierre-latam",
-   "fecha": "2026-11-06",
-   "momento": "cierre",
+   "id": "2026-11-09-premercado-latam",
+   "fecha": "2026-11-09",
+   "momento": "premercado",
    "mercado": "latam",
-   "hora": "15:40 CDMX",
-   "fin_de_semana": true,
+   "hora": "05:20 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "La región termina la semana con rebote: Chile +2% e Ibovespa +1.1% a media sesión del viernes",
+    "titular": "La región cerró el viernes al alza (Ibovespa +1.4%) y abre la semana con el CPI de EE. UU. en el radar",
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "Con datos de las 9:25 CDMX del viernes, el fondo de Chile subía 2.03%, el Ibovespa 1.13% (168,071.09), el fondo de Argentina 0.28% y el S&P/TSX de Canadá 0.21% (35,678.71); Perú estaba plano. El jueves la región había caído entre 0.8% (Brasil) y 5.7% (Argentina) con la venta global de IA."
+      "t": "Lo que pasó desde el cierre",
+      "x": "El viernes el Ibovespa cerró en 168,498.45 (+1.39%) y el S&P/TSX de Canadá en 35,789.09 (+0.52%), mientras el COLCAP de Colombia bajó 0.46% (24,389.5). El fin de semana no hubo noticias regionales relevantes que confirmara."
      },
      {
-      "t": "Por qué",
-      "x": "El rebote de los chips en Wall Street y el dato de empleo en EE. UU. calmaron la aversión al riesgo del jueves."
+      "t": "Contexto",
+      "x": "El rebote de Asia y la menor tensión con Irán (el Brent baja a 98 dólares) apoyan a la región. En la madrugada el real estaba en 5.50 por dólar, el peso chileno en 977.7, el colombiano en 3,238 y el sol en 3.34."
      },
      {
-      "t": "Monedas",
-      "x": "Por la mañana el peso chileno estaba en 976.6 por dólar, el colombiano en 3,229.8, el real en 5.48, el sol en 3.42 y el peso argentino en 1,544.5. El peso mexicano cerró en 18.62."
-     },
-     {
-      "t": "La próxima semana",
-      "x": "El CPI de EE. UU. (martes 10) marcará el tono para las monedas de la región. Brasil mantiene la Selic en 13.75% tras la pausa del Copom y México la tasa en 6.25%."
+      "t": "Qué se espera hoy",
+      "x": "Semana con el CPI de EE. UU. (martes) como principal riesgo para las monedas de la región. Brasil mantiene la Selic en 13.75% y México la tasa en 6.25%."
      }
     ],
-    "scm": "Para el fin de semana: si tienes cobros en monedas locales, conviértelos el lunes antes del CPI del martes; con Long Beach en riesgo, revisa si tus rutas a Chile, Perú o Colombia pasan por esos puertos.",
-    "esencial": [
-     "La región rebotó el viernes: Chile subía 2% y el Ibovespa 1.1% a media sesión, tras caídas de hasta 5.7% el jueves.",
-     "El rebote de los chips en Wall Street y el empleo de EE. UU. calmaron la aversión al riesgo.",
-     "Para supply chain: convierte cobros en monedas locales el lunes, antes del CPI de EE. UU. del martes 10, y revisa rutas que pasen por Long Beach."
-    ]
+    "scm": "Con las monedas de la región sin dirección clara antes del CPI, conviene convertir los cobros en monedas locales hoy o mañana temprano y dejar los pagos para después del dato."
    },
    "en": {
-    "titular": "The region ends the week with a rebound: Chile +2% and Ibovespa +1.1% at Friday midday",
+    "titular": "The region closed Friday higher (Ibovespa +1.4%) and starts the week with US CPI on the radar",
     "bloques": [
      {
-      "t": "What happened",
-      "x": "With data as of 9:25 a.m. Mexico City time on Friday, the Chile fund was up 2.03%, the Ibovespa 1.13% (168,071.09), the Argentina fund 0.28% and Canada's S&P/TSX 0.21% (35,678.71); Peru was flat. On Thursday the region had fallen between 0.8% (Brazil) and 5.7% (Argentina) on the global AI selloff."
+      "t": "What happened since the close",
+      "x": "On Friday the Ibovespa closed at 168,498.45 (+1.39%) and Canada's S&P/TSX at 35,789.09 (+0.52%), while Colombia's COLCAP fell 0.46% (24,389.5). There was no relevant regional weekend news that I could confirm."
      },
      {
-      "t": "Why",
-      "x": "The chip rebound on Wall Street and US jobs data calmed Thursday's risk aversion."
+      "t": "Context",
+      "x": "Asia's rebound and lower tension with Iran (Brent eases to $98) support the region. Overnight the real was at 5.50 per dollar, the Chilean peso at 977.7, the Colombian peso at 3,238 and the sol at 3.34."
      },
      {
-      "t": "Currencies",
-      "x": "In the morning the Chilean peso was at 976.6 per dollar, the Colombian peso at 3,229.8, the real at 5.48, the sol at 3.42 and the Argentine peso at 1,544.5. The Mexican peso closed at 18.62."
-     },
-     {
-      "t": "Next week",
-      "x": "US CPI (Tuesday 10) will set the tone for the region's currencies. Brazil keeps the Selic at 13.75% after the Copom pause and Mexico its rate at 6.25%."
+      "t": "What to expect today",
+      "x": "A week with US CPI (Tuesday) as the main risk for the region's currencies. Brazil keeps the Selic at 13.75% and Mexico its rate at 6.25%."
      }
     ],
-    "scm": "For the weekend: if you have local-currency receivables, convert them Monday before Tuesday's CPI; with Long Beach at risk, check whether your routes to Chile, Peru or Colombia go through those ports.",
-    "esencial": [
-     "The region rebounded on Friday: Chile rose 2% and the Ibovespa 1.1% at midday, after drops of up to 5.7% on Thursday.",
-     "The chip rebound on Wall Street and US jobs data eased risk aversion.",
-     "For supply chain: convert local-currency receivables on Monday, before Tuesday’s US CPI (Nov 10), and check routes through Long Beach."
-    ]
+    "scm": "With regional currencies directionless before CPI, convert local-currency receivables today or early tomorrow and leave payments for after the data."
    },
    "pt": {
-    "titular": "A região termina a semana em alta: Chile +2% e Ibovespa +1,1% no meio da sessão de sexta",
+    "titular": "A região fechou a sexta em alta (Ibovespa +1,4%) e começa a semana com o CPI dos EUA no radar",
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "Com dados das 9h25 (Cidade do México) de sexta, o fundo do Chile subia 2,03%, o Ibovespa 1,13% (168.071,09), o fundo da Argentina 0,28% e o S&P/TSX do Canadá 0,21% (35.678,71); o Peru estava estável. Na quinta a região havia caído entre 0,8% (Brasil) e 5,7% (Argentina) com a venda global de IA."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "Na sexta o Ibovespa fechou em 168.498,45 (+1,39%) e o S&P/TSX do Canadá em 35.789,09 (+0,52%), enquanto o COLCAP da Colômbia caiu 0,46% (24.389,5). No fim de semana não houve notícias regionais relevantes que eu tenha confirmado."
      },
      {
-      "t": "Por quê",
-      "x": "A recuperação dos chips em Wall Street e o dado de emprego dos EUA acalmaram a aversão ao risco de quinta."
+      "t": "Contexto",
+      "x": "A alta da Ásia e a menor tensão com o Irã (o Brent cai para 98 dólares) apoiam a região. Na madrugada o dólar estava em R$ 5,50, o peso chileno em 977,7, o colombiano em 3.238 e o sol em 3,34."
      },
      {
-      "t": "Moedas",
-      "x": "De manhã o peso chileno estava em 976,6 por dólar, o colombiano em 3.229,8, o dólar em R$ 5,48, o sol em 3,42 e o peso argentino em 1.544,5. O peso mexicano fechou a 18,62."
-     },
-     {
-      "t": "A próxima semana",
-      "x": "O CPI dos EUA (terça 10) vai marcar o tom para as moedas da região. O Brasil mantém a Selic em 13,75% após a pausa do Copom e o México a taxa em 6,25%."
+      "t": "O que se espera hoje",
+      "x": "Semana com o CPI dos EUA (terça) como principal risco para as moedas da região. O Brasil mantém a Selic em 13,75% e o México a taxa em 6,25%."
      }
     ],
-    "scm": "Para o fim de semana: se você tem recebíveis em moeda local, converta na segunda antes do CPI de terça; com Long Beach em risco, verifique se suas rotas para Chile, Peru ou Colômbia passam por esses portos.",
-    "esencial": [
-     "A região se recuperou na sexta: o Chile subia 2% e o Ibovespa 1,1% no meio do pregão, após quedas de até 5,7% na quinta.",
-     "A recuperação dos chips em Wall Street e o emprego nos EUA acalmaram a aversão ao risco.",
-     "Para supply chain: converta recebíveis em moedas locais na segunda, antes do CPI dos EUA da terça, dia 10, e revise rotas que passam por Long Beach."
-    ]
+    "scm": "Com as moedas da região sem direção clara antes do CPI, convém converter os recebíveis em moeda local hoje ou amanhã cedo e deixar os pagamentos para depois do dado."
    },
    "fuentes": [
     {
@@ -205,92 +155,65 @@
    ]
   },
   "mexico": {
-   "id": "2026-11-06-cierre-mexico",
-   "fecha": "2026-11-06",
-   "momento": "cierre",
+   "id": "2026-11-09-premercado-mexico",
+   "fecha": "2026-11-09",
+   "momento": "premercado",
    "mercado": "mexico",
-   "hora": "15:40 CDMX",
-   "fin_de_semana": true,
+   "hora": "05:20 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "El peso cierra la semana en 18.62 (+0.9%) pese al recorte de Banxico; el IPC va por su mejor nivel desde febrero",
+    "titular": "El peso empieza la semana cerca de 18.62 tras su mejor semana en dos meses; hoy EE. UU. decide sobre los carros tanque mexicanos",
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "El peso cerró en 18.62 por dólar, 0.71% mejor que el jueves (18.76) y 0.89% mejor en la semana. El S&P/BMV IPC subía 0.42% a media sesión (cerca de 71,383) y apuntaba a una ganancia semanal de 2.3% con cuatro días al alza; no confirmé su cierre."
+      "t": "Lo que pasó desde el cierre",
+      "x": "El peso cerró el viernes en 18.62 por dólar y ganó 0.9% en la semana, con lo que rompió una racha de dos meses de pérdidas, pese al recorte de Banxico a 6.25%. El fin de semana se mantuvo cerca de 18.63. En EE. UU., hoy vence el plazo para decidir si se investiga a los carros tanque fabricados en México."
      },
      {
-      "t": "Por qué",
-      "x": "El peso se sacudió el recorte sorpresa de Banxico a 6.25% del jueves gracias al dólar débil frente a emergentes después de la elección en EE. UU. y a la menor tensión comercial que espera el mercado con el Congreso demócrata. En la BMV subieron Alsea, Genomma Lab y Peñoles; bajaron Coca-Cola Femsa y Femsa."
+      "t": "Contexto",
+      "x": "El rebote de Asia y la extensión de las pláticas en Long Beach mejoran el ánimo, pero la caída de Nvidia antes de la apertura y el CPI de EE. UU. del martes pueden mover al peso. Con el diferencial de tasas en mínimos, un CPI alto que refuerce el alza de la Fed presionaría al peso."
      },
      {
-      "t": "Qué se espera",
-      "x": "El peso abrirá el lunes atento al CPI de EE. UU. del martes: un dato alto reforzaría el alza de la Fed y presionaría al peso, porque el diferencial de tasas ya está en mínimos."
-     },
-     {
-      "t": "La próxima semana",
-      "x": "Martes 10: CPI de octubre en EE. UU. (7:30 CDMX). Viernes 13: PPI de EE. UU. (7:30 CDMX). Lunes 16: la BMV y los bancos cierran por el Día de la Revolución. Banxico ya anticipó una pausa prolongada con la tasa en 6.25%."
+      "t": "Qué se espera hoy",
+      "x": "Sin datos relevantes en México. La atención está en la decisión de EE. UU. sobre los carros tanque y en el CPI del martes. El lunes 16 cierran la BMV y los bancos por el Día de la Revolución."
      }
     ],
-    "scm": "Para el fin de semana: el peso en 18.62 es un buen nivel; programa para el lunes la cobertura de una parte de tus pagos en dólares de noviembre y diciembre, y adelanta los pagos del lunes 16, cuando cierran los bancos. Revisa si tus proveedores en EE. UU. dependen de Long Beach.",
-    "esencial": [
-     "El peso cerró la semana en 18.62 por dólar, 0.9% mejor, pese al recorte sorpresa de Banxico a 6.25%.",
-     "Lo sostuvieron el dólar débil frente a emergentes y la menor tensión comercial que espera el mercado.",
-     "Para supply chain: cubre el lunes parte de tus pagos en dólares y adelanta los del lunes 16, cuando cierran los bancos."
-    ]
+    "scm": "Si fabricas o compras carros tanque o componentes ferroviarios en México, sigue hoy la decisión de EE. UU.: una investigación podría traer aranceles. Con el peso cerca de 18.62, cubre antes del CPI del martes una parte de tus pagos en dólares de noviembre."
    },
    "en": {
-    "titular": "The peso ends the week at 18.62 (+0.9%) despite Banxico's cut; the IPC heads for its best level since February",
+    "titular": "The peso starts the week near 18.62 after its best week in two months; the US decides today on Mexican tank cars",
     "bloques": [
      {
-      "t": "What happened",
-      "x": "The peso closed at 18.62 per dollar, 0.71% stronger than Thursday (18.76) and 0.89% stronger on the week. The S&P/BMV IPC was up 0.42% at midday (near 71,383) and headed for a 2.3% weekly gain with four straight up days; I could not confirm its close."
+      "t": "What happened since the close",
+      "x": "The peso closed Friday at 18.62 per dollar and gained 0.9% on the week, breaking a two-month losing streak despite Banxico's cut to 6.25%. Over the weekend it stayed near 18.63. In the US, today is the deadline to decide whether to investigate Mexican-made tank cars."
      },
      {
-      "t": "Why",
-      "x": "The peso shook off Banxico's surprise cut to 6.25% on Thursday thanks to dollar weakness against emerging markets after the US election and the lower trade tension the market expects with the Democratic Congress. On the BMV, Alsea, Genomma Lab and Peñoles rose; Coca-Cola Femsa and Femsa fell."
+      "t": "Context",
+      "x": "Asia's rebound and the extended Long Beach talks improve sentiment, but Nvidia's premarket drop and Tuesday's US CPI may move the peso. With the rate gap at lows, a hot CPI reinforcing a Fed hike would pressure the peso."
      },
      {
-      "t": "What to expect",
-      "x": "The peso will open Monday watching Tuesday's US CPI: a hot reading would reinforce a Fed hike and pressure the peso, since the rate gap is already at lows."
-     },
-     {
-      "t": "Next week",
-      "x": "Tuesday 10: US October CPI (8:30 a.m. ET). Friday 13: US PPI (8:30 a.m. ET). Monday 16: the BMV and banks close for Revolution Day. Banxico already signaled a prolonged pause with the rate at 6.25%."
+      "t": "What to expect today",
+      "x": "No major Mexican data. Attention is on the US decision on tank cars and on Tuesday's CPI. On Monday the 16th, the BMV and banks close for Revolution Day."
      }
     ],
-    "scm": "For the weekend: the peso at 18.62 is a good level; schedule for Monday a hedge on part of your November and December dollar payments, and pay early for Monday the 16th, when banks close. Check whether your US suppliers depend on Long Beach.",
-    "esencial": [
-     "The peso ended the week at 18.62 per dollar, 0.9% stronger, despite Banxico’s surprise cut to 6.25%.",
-     "A weak dollar against emerging markets and expectations of less trade tension supported it.",
-     "For supply chain: hedge part of your dollar payments on Monday and move up those due on Monday the 16th, when banks close."
-    ]
+    "scm": "If you make or buy tank cars or rail components in Mexico, watch the US decision today: an investigation could bring tariffs. With the peso near 18.62, hedge part of your November dollar payments before Tuesday's CPI."
    },
    "pt": {
-    "titular": "O peso fecha a semana a 18,62 (+0,9%) apesar do corte do Banxico; o IPC caminha para seu melhor nível desde fevereiro",
+    "titular": "O peso começa a semana perto de 18,62 após sua melhor semana em dois meses; hoje os EUA decidem sobre os vagões-tanque mexicanos",
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "O peso fechou a 18,62 por dólar, 0,71% melhor que na quinta (18,76) e 0,89% melhor na semana. O S&P/BMV IPC subia 0,42% no meio da sessão (perto de 71.383) e apontava para ganho semanal de 2,3% com quatro dias de alta; não confirmei seu fechamento."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "O peso fechou a sexta a 18,62 por dólar e ganhou 0,9% na semana, rompendo uma sequência de dois meses de perdas, apesar do corte do Banxico para 6,25%. No fim de semana ficou perto de 18,63. Nos EUA, hoje vence o prazo para decidir se os vagões-tanque fabricados no México serão investigados."
      },
      {
-      "t": "Por quê",
-      "x": "O peso se livrou do corte surpresa do Banxico para 6,25% de quinta graças ao dólar fraco frente a emergentes após a eleição nos EUA e à menor tensão comercial que o mercado espera com o Congresso democrata. Na BMV subiram Alsea, Genomma Lab e Peñoles; caíram Coca-Cola Femsa e Femsa."
+      "t": "Contexto",
+      "x": "A alta da Ásia e a extensão das negociações em Long Beach melhoram o humor, mas a queda da Nvidia no pré-mercado e o CPI dos EUA de terça podem mexer com o peso. Com o diferencial de juros em mínimas, um CPI alto que reforce a alta do Fed pressionaria o peso."
      },
      {
-      "t": "O que se espera",
-      "x": "O peso vai abrir na segunda atento ao CPI dos EUA de terça: um dado alto reforçaria a alta do Fed e pressionaria o peso, porque o diferencial de juros já está em mínimas."
-     },
-     {
-      "t": "A próxima semana",
-      "x": "Terça 10: CPI de outubro nos EUA (7h30, Cidade do México). Sexta 13: PPI dos EUA (7h30). Segunda 16: a BMV e os bancos fecham pelo Dia da Revolução. O Banxico já sinalizou pausa prolongada com a taxa em 6,25%."
+      "t": "O que se espera hoje",
+      "x": "Sem dados relevantes no México. A atenção está na decisão dos EUA sobre os vagões-tanque e no CPI de terça. Na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução."
      }
     ],
-    "scm": "Para o fim de semana: o peso a 18,62 é um bom nível; programe para segunda a proteção de parte dos seus pagamentos em dólares de novembro e dezembro, e antecipe os pagamentos da segunda, dia 16, quando os bancos fecham. Verifique se seus fornecedores nos EUA dependem de Long Beach.",
-    "esencial": [
-     "O peso fechou a semana a 18,62 por dólar, 0,9% mais forte, apesar do corte surpresa do Banxico para 6,25%.",
-     "O dólar fraco frente aos emergentes e a expectativa de menos tensão comercial o sustentaram.",
-     "Para supply chain: proteja na segunda parte dos pagamentos em dólar e antecipe os do dia 16, quando os bancos fecham."
-    ]
+    "scm": "Se você fabrica ou compra vagões-tanque ou componentes ferroviários no México, acompanhe hoje a decisão dos EUA: uma investigação poderia trazer tarifas. Com o peso perto de 18,62, proteja antes do CPI de terça parte dos seus pagamentos em dólares de novembro."
    },
    "fuentes": [
     {
@@ -298,12 +221,8 @@
      "u": "https://www.infobae.com/mexico/2026/11/06/precio-del-dolar-hoy-en-mexico-cotizacion-de-cierre-del-6-de-noviembre/"
     },
     {
-     "t": "Investing.com México: la BMV retoma el alza; ¿logrará el IPC una semana perfecta?",
-     "u": "https://mx.investing.com/news/stock-market-news/bolsa-mexicana-de-valores-hoy-retoma-el-alza-lograra-el-ipc-una-semana-perfecta-3838641"
-    },
-    {
-     "t": "FinancialJuice: indicadores de la semana del 9 al 13 de noviembre (EE. UU.)",
-     "u": "https://features.financialjuice.com/2026/11/06/week-ahead-economic-indicators-9th-13th-november-us/"
+     "t": "Yahoo Finance: los futuros suben; Nvidia y la IA en el foco (9 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
     }
    ]
   }
@@ -696,8 +615,8 @@
    "nombre": "Nikkei 225",
    "name_en": "Nikkei 225",
    "grupo": "bolsa",
-   "valor": 57434.77,
-   "cambio": -5.96,
+   "valor": 59411.34,
+   "cambio": 3.4,
    "unidad": "puntos",
    "name_pt": "Nikkei 225"
   },
@@ -705,8 +624,8 @@
    "nombre": "KOSPI",
    "name_en": "KOSPI",
    "grupo": "bolsa",
-   "valor": 5383.8,
-   "cambio": -5.28,
+   "valor": 5137.22,
+   "cambio": 1.5,
    "unidad": "puntos",
    "name_pt": "KOSPI"
   },
@@ -723,8 +642,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.126,
-   "cambio": 0.31,
+   "valor": 1.1155,
+   "cambio": 0.12,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -732,8 +651,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 157.8,
-   "cambio": -0.38,
+   "valor": 158.31,
+   "cambio": -0.03,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -741,8 +660,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 90.37,
-   "cambio": -0.17,
+   "valor": 90.45,
+   "cambio": -0.42,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -750,8 +669,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 98.29,
-   "cambio": 3.9,
+   "valor": 98.1,
+   "cambio": -0.2,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -768,8 +687,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 4071.0,
-   "cambio": -1.03,
+   "valor": 4103.5,
+   "cambio": 0.7,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -787,7 +706,7 @@
    "name_en": "10-yr Treasury",
    "grupo": "bono",
    "valor": 4.86,
-   "cambio": 2,
+   "cambio": 0,
    "unidad": "%",
    "name_pt": "Título do Tesouro 10 anos"
   },
@@ -813,8 +732,8 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 75840.0,
-   "cambio": -0.19,
+   "valor": 74250.0,
+   "cambio": -2.07,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }

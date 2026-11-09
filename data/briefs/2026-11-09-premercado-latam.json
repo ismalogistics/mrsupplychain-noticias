@@ -1,0 +1,68 @@
+{
+ "id": "2026-11-09-premercado-latam",
+ "fecha": "2026-11-09",
+ "momento": "premercado",
+ "mercado": "latam",
+ "hora": "05:20 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "La región cerró el viernes al alza (Ibovespa +1.4%) y abre la semana con el CPI de EE. UU. en el radar",
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El viernes el Ibovespa cerró en 168,498.45 (+1.39%) y el S&P/TSX de Canadá en 35,789.09 (+0.52%), mientras el COLCAP de Colombia bajó 0.46% (24,389.5). El fin de semana no hubo noticias regionales relevantes que confirmara."
+   },
+   {
+    "t": "Contexto",
+    "x": "El rebote de Asia y la menor tensión con Irán (el Brent baja a 98 dólares) apoyan a la región. En la madrugada el real estaba en 5.50 por dólar, el peso chileno en 977.7, el colombiano en 3,238 y el sol en 3.34."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Semana con el CPI de EE. UU. (martes) como principal riesgo para las monedas de la región. Brasil mantiene la Selic en 13.75% y México la tasa en 6.25%."
+   }
+  ],
+  "scm": "Con las monedas de la región sin dirección clara antes del CPI, conviene convertir los cobros en monedas locales hoy o mañana temprano y dejar los pagos para después del dato."
+ },
+ "en": {
+  "titular": "The region closed Friday higher (Ibovespa +1.4%) and starts the week with US CPI on the radar",
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Friday the Ibovespa closed at 168,498.45 (+1.39%) and Canada's S&P/TSX at 35,789.09 (+0.52%), while Colombia's COLCAP fell 0.46% (24,389.5). There was no relevant regional weekend news that I could confirm."
+   },
+   {
+    "t": "Context",
+    "x": "Asia's rebound and lower tension with Iran (Brent eases to $98) support the region. Overnight the real was at 5.50 per dollar, the Chilean peso at 977.7, the Colombian peso at 3,238 and the sol at 3.34."
+   },
+   {
+    "t": "What to expect today",
+    "x": "A week with US CPI (Tuesday) as the main risk for the region's currencies. Brazil keeps the Selic at 13.75% and Mexico its rate at 6.25%."
+   }
+  ],
+  "scm": "With regional currencies directionless before CPI, convert local-currency receivables today or early tomorrow and leave payments for after the data."
+ },
+ "pt": {
+  "titular": "A região fechou a sexta em alta (Ibovespa +1,4%) e começa a semana com o CPI dos EUA no radar",
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na sexta o Ibovespa fechou em 168.498,45 (+1,39%) e o S&P/TSX do Canadá em 35.789,09 (+0,52%), enquanto o COLCAP da Colômbia caiu 0,46% (24.389,5). No fim de semana não houve notícias regionais relevantes que eu tenha confirmado."
+   },
+   {
+    "t": "Contexto",
+    "x": "A alta da Ásia e a menor tensão com o Irã (o Brent cai para 98 dólares) apoiam a região. Na madrugada o dólar estava em R$ 5,50, o peso chileno em 977,7, o colombiano em 3.238 e o sol em 3,34."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Semana com o CPI dos EUA (terça) como principal risco para as moedas da região. O Brasil mantém a Selic em 13,75% e o México a taxa em 6,25%."
+   }
+  ],
+  "scm": "Com as moedas da região sem direção clara antes do CPI, convém converter os recebíveis em moeda local hoje ou amanhã cedo e deixar os pagamentos para depois do dado."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

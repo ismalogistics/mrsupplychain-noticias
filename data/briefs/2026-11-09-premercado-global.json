@@ -1,0 +1,84 @@
+{
+ "id": "2026-11-09-premercado-global",
+ "fecha": "2026-11-09",
+ "momento": "premercado",
+ "mercado": "global",
+ "hora": "05:20 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Long Beach aleja la huelga hasta el 20 de noviembre; Asia rebota con Taiwán +5.6% y Nvidia cae antes de la apertura",
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El fin de semana trajo dos noticias para supply chain. Los puertos de Los Ángeles y Long Beach y el sindicato de vigilantes (ILWU Local 26) extendieron las pláticas hasta el 20 de noviembre, con lo que se aleja por ahora la huelga que amenazaba terminales con cerca de 85% de la carga de Long Beach. Y Nvidia dijo el domingo que investiga reportes de que su director, Jensen Huang, fue blanco de un esfuerzo de inteligencia extranjera; la acción caía cerca de 4% antes de la apertura. Trump dijo que nuevos ataques a Irán son muy poco probables mientras avancen las negociaciones."
+   },
+   {
+    "t": "Asia, Europa y futuros",
+    "x": "Asia rebota tras la recuperación del viernes en IA: el Taiex de Taiwán sube 5.6% con TSMC +5.6%, el Nikkei 3.4% (59,411.34), el KOSPI 1.5% (5,137.22) y el Shanghái 0.4%. Hacia las 3:05 CDMX los futuros del Dow subían 0.57%, los del S&P 500 0.23% y los del Nasdaq bajaban 0.09%. El Brent está en 98.10 dólares, el WTI cerca de 90.5, el oro en 4,103.50 (+0.7%) y el Treasury a 10 años en 4.86%. No encontré cifras verificadas de Europa."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Hoy sale la encuesta de expectativas de inflación de la Fed de Nueva York (la anterior fue de 3.9%) y los inventarios mayoristas de septiembre. El dato fuerte de la semana es el CPI de octubre, el martes a las 7:30 CDMX, y el PPI el viernes. Hoy también vence el plazo para que EE. UU. decida si investiga los carros tanque fabricados en México."
+   }
+  ],
+  "scm": "Long Beach gana dos semanas: aprovecha para retirar contenedores y ajustar el plan de desvío antes del 20 de noviembre. Con el crudo cerca de 98 (Brent), mantén los recargos de combustible con ajuste semanal, y espera al CPI del martes antes de cerrar contratos en dólares de largo plazo."
+ },
+ "en": {
+  "titular": "Long Beach pushes the strike threat to Nov. 20; Asia rebounds with Taiwan +5.6% and Nvidia falls premarket",
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "The weekend brought two pieces of supply-chain news. The Los Angeles and Long Beach ports and the watchmen's union (ILWU Local 26) extended talks through Nov. 20, removing for now the strike threat to terminals handling about 85% of Long Beach cargo. And Nvidia said Sunday it is investigating reports that CEO Jensen Huang was the target of a foreign intelligence effort; the stock was down about 4% premarket. Trump said new strikes on Iran are highly unlikely as long as negotiations progress."
+   },
+   {
+    "t": "Asia, Europe and futures",
+    "x": "Asia rebounds after Friday's AI recovery: Taiwan's Taiex rises 5.6% with TSMC +5.6%, the Nikkei 3.4% (59,411.34), the KOSPI 1.5% (5,137.22) and Shanghai 0.4%. Around 4:05 a.m. ET, Dow futures were up 0.57%, S&P 500 futures 0.23% and Nasdaq futures down 0.09%. Brent is at $98.10, WTI near $90.5, gold at $4,103.50 (+0.7%) and the 10-year Treasury at 4.86%. I could not find verified European figures."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Today brings the New York Fed's inflation expectations survey (previous 3.9%) and September wholesale inventories. The week's key data is October CPI on Tuesday at 8:30 a.m. ET, with PPI on Friday. Today is also the deadline for the US to decide whether to investigate Mexican-made tank cars."
+   }
+  ],
+  "scm": "Long Beach gains two weeks: use them to pick up containers and fine-tune the diversion plan before Nov. 20. With crude near 98 (Brent), keep fuel surcharges with weekly adjustment, and wait for Tuesday's CPI before closing long-term dollar contracts."
+ },
+ "pt": {
+  "titular": "Long Beach adia a ameaça de greve para 20 de novembro; a Ásia sobe com Taiwan +5,6% e a Nvidia cai no pré-mercado",
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "O fim de semana trouxe duas notícias para supply chain. Os portos de Los Angeles e Long Beach e o sindicato dos vigilantes (ILWU Local 26) estenderam as negociações até 20 de novembro, afastando por enquanto a greve que ameaçava terminais com cerca de 85% da carga de Long Beach. E a Nvidia disse no domingo que investiga relatos de que seu CEO, Jensen Huang, foi alvo de um esforço de inteligência estrangeira; a ação caía cerca de 4% no pré-mercado. Trump disse que novos ataques ao Irã são muito improváveis enquanto as negociações avançarem."
+   },
+   {
+    "t": "Ásia, Europa e futuros",
+    "x": "A Ásia sobe após a recuperação de sexta em IA: o Taiex de Taiwan sobe 5,6% com a TSMC +5,6%, o Nikkei 3,4% (59.411,34), o KOSPI 1,5% (5.137,22) e Xangai 0,4%. Por volta das 3h05 (Cidade do México) os futuros do Dow subiam 0,57%, os do S&P 500 0,23% e os do Nasdaq caíam 0,09%. O Brent está em 98,10 dólares, o WTI perto de 90,5, o ouro em 4.103,50 (+0,7%) e o título de 10 anos do Tesouro em 4,86%. Não encontrei números verificados da Europa."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Hoje sai a pesquisa de expectativas de inflação do Fed de Nova York (a anterior foi de 3,9%) e os estoques no atacado de setembro. O dado forte da semana é o CPI de outubro, na terça às 7h30 (Cidade do México), e o PPI na sexta. Hoje também vence o prazo para os EUA decidirem se investigam os vagões-tanque fabricados no México."
+   }
+  ],
+  "scm": "Long Beach ganha duas semanas: aproveite para retirar contêineres e ajustar o plano de desvio antes de 20 de novembro. Com o petróleo perto de 98 (Brent), mantenha as sobretaxas de combustível com ajuste semanal e espere o CPI de terça antes de fechar contratos em dólares de longo prazo."
+ },
+ "fuentes": [
+  {
+   "t": "GV Wire (Reuters): empleadores y vigilantes de los puertos de California extienden las pláticas",
+   "u": "https://gvwire.com/2026/11/07/employers-watchmen-at-california-ports-extend-contract-talks/"
+  },
+  {
+   "t": "AP: las bolsas de Asia rebotan tras la recuperación de las acciones de IA (9 nov 2026)",
+   "u": "https://www.news4jax.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
+  },
+  {
+   "t": "Yahoo Finance: los futuros suben; Nvidia y la IA en el foco (9 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
+  },
+  {
+   "t": "HDFC Sky: Asia sube y el petróleo baja a 98 por la menor tensión con Irán",
+   "u": "https://hdfcsky.com/news/global-markets-today-november-9-2026-asia-rises-us-futures-higher-oil-slips-to-98-as-easing-iran-tensions-lift-sentiment"
+  },
+  {
+   "t": "FinancialJuice: indicadores de la semana del 9 al 13 de noviembre (EE. UU.)",
+   "u": "https://features.financialjuice.com/2026/11/06/week-ahead-economic-indicators-9th-13th-november-us/"
+  }
+ ]
+}

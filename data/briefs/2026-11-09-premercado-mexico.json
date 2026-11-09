@@ -1,0 +1,72 @@
+{
+ "id": "2026-11-09-premercado-mexico",
+ "fecha": "2026-11-09",
+ "momento": "premercado",
+ "mercado": "mexico",
+ "hora": "05:20 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El peso empieza la semana cerca de 18.62 tras su mejor semana en dos meses; hoy EE. UU. decide sobre los carros tanque mexicanos",
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El peso cerró el viernes en 18.62 por dólar y ganó 0.9% en la semana, con lo que rompió una racha de dos meses de pérdidas, pese al recorte de Banxico a 6.25%. El fin de semana se mantuvo cerca de 18.63. En EE. UU., hoy vence el plazo para decidir si se investiga a los carros tanque fabricados en México."
+   },
+   {
+    "t": "Contexto",
+    "x": "El rebote de Asia y la extensión de las pláticas en Long Beach mejoran el ánimo, pero la caída de Nvidia antes de la apertura y el CPI de EE. UU. del martes pueden mover al peso. Con el diferencial de tasas en mínimos, un CPI alto que refuerce el alza de la Fed presionaría al peso."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Sin datos relevantes en México. La atención está en la decisión de EE. UU. sobre los carros tanque y en el CPI del martes. El lunes 16 cierran la BMV y los bancos por el Día de la Revolución."
+   }
+  ],
+  "scm": "Si fabricas o compras carros tanque o componentes ferroviarios en México, sigue hoy la decisión de EE. UU.: una investigación podría traer aranceles. Con el peso cerca de 18.62, cubre antes del CPI del martes una parte de tus pagos en dólares de noviembre."
+ },
+ "en": {
+  "titular": "The peso starts the week near 18.62 after its best week in two months; the US decides today on Mexican tank cars",
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "The peso closed Friday at 18.62 per dollar and gained 0.9% on the week, breaking a two-month losing streak despite Banxico's cut to 6.25%. Over the weekend it stayed near 18.63. In the US, today is the deadline to decide whether to investigate Mexican-made tank cars."
+   },
+   {
+    "t": "Context",
+    "x": "Asia's rebound and the extended Long Beach talks improve sentiment, but Nvidia's premarket drop and Tuesday's US CPI may move the peso. With the rate gap at lows, a hot CPI reinforcing a Fed hike would pressure the peso."
+   },
+   {
+    "t": "What to expect today",
+    "x": "No major Mexican data. Attention is on the US decision on tank cars and on Tuesday's CPI. On Monday the 16th, the BMV and banks close for Revolution Day."
+   }
+  ],
+  "scm": "If you make or buy tank cars or rail components in Mexico, watch the US decision today: an investigation could bring tariffs. With the peso near 18.62, hedge part of your November dollar payments before Tuesday's CPI."
+ },
+ "pt": {
+  "titular": "O peso começa a semana perto de 18,62 após sua melhor semana em dois meses; hoje os EUA decidem sobre os vagões-tanque mexicanos",
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "O peso fechou a sexta a 18,62 por dólar e ganhou 0,9% na semana, rompendo uma sequência de dois meses de perdas, apesar do corte do Banxico para 6,25%. No fim de semana ficou perto de 18,63. Nos EUA, hoje vence o prazo para decidir se os vagões-tanque fabricados no México serão investigados."
+   },
+   {
+    "t": "Contexto",
+    "x": "A alta da Ásia e a extensão das negociações em Long Beach melhoram o humor, mas a queda da Nvidia no pré-mercado e o CPI dos EUA de terça podem mexer com o peso. Com o diferencial de juros em mínimas, um CPI alto que reforce a alta do Fed pressionaria o peso."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Sem dados relevantes no México. A atenção está na decisão dos EUA sobre os vagões-tanque e no CPI de terça. Na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução."
+   }
+  ],
+  "scm": "Se você fabrica ou compra vagões-tanque ou componentes ferroviários no México, acompanhe hoje a decisão dos EUA: uma investigação poderia trazer tarifas. Com o peso perto de 18,62, proteja antes do CPI de terça parte dos seus pagamentos em dólares de novembro."
+ },
+ "fuentes": [
+  {
+   "t": "Infobae: precio del dólar, cotización de cierre del 6 de noviembre",
+   "u": "https://www.infobae.com/mexico/2026/11/06/precio-del-dolar-hoy-en-mexico-cotizacion-de-cierre-del-6-de-noviembre/"
+  },
+  {
+   "t": "Yahoo Finance: los futuros suben; Nvidia y la IA en el foco (9 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
+  }
+ ]
+}
