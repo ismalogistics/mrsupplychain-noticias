@@ -42,7 +42,7 @@
     box.replaceChildren();
     var w = el('div', 'msn-wrap');
     var hd = el('div', 'msn-hd');
-    var left = el('div'); left.appendChild(el('p', 'msn-k', L.k)); left.appendChild(el('h2', 'msn-h', L.h)); hd.appendChild(left);
+    var left = el('div'); var kk = el('p', 'msn-k'); kk.appendChild(el('span', 'msn-dot')); kk.appendChild(document.createTextNode(L.k + ' · ' + L.mom[data.momento || 'cierre'])); left.appendChild(kk); left.appendChild(el('h2', 'msn-h', L.h)); hd.appendChild(left);
     var a = el('a', 'msn-all', L.all + ' →'); a.href = BASE; hd.appendChild(a);
     w.appendChild(hd);
     var ticks = el('div', 'msn-tk');
@@ -63,6 +63,10 @@
       var b = data.briefs && data.briefs[k]; if (!b) return;
       var C = b[l] || b.es;
       var c = el('a', 'msn-card ' + k); c.href = BASE + 'brief/' + b.id + '/';
+      var cv = el('span', 'msn-cv'); cv.setAttribute('aria-hidden', 'true');
+      if (window.NXArt) cv.innerHTML = window.NXArt.hero(b.momento, k);
+      var bd = el('span', 'msn-cvb'); bd.appendChild(el('span', null, L.mom[b.momento])); bd.appendChild(el('span', null, L.mkt[k])); bd.appendChild(el('span', 'h', b.hora || '')); cv.appendChild(bd);
+      c.appendChild(cv);
       c.appendChild(el('span', 'msn-m', L.mom[b.momento] + ' · ' + L.mkt[k]));
       c.appendChild(el('span', 'msn-t', C.titular));
       if (C.scm) c.appendChild(el('span', 'msn-s', C.scm.length > 150 ? C.scm.slice(0, 148).replace(/\s+\S*$/, '') + '…' : C.scm));
@@ -75,13 +79,16 @@
   }
   function init() {
     box = document.getElementById('msc-news');
+    var heroEl = document.querySelector('main > header.hero');
+    if (box && heroEl && heroEl.nextElementSibling !== box) heroEl.parentNode.insertBefore(box, heroEl.nextSibling); /* noticias justo después del hero */
     if (!box) {
-      var anchor = document.querySelector('main section.nums') || document.querySelector('main > header') || document.querySelector('main > section');
+      var anchor = document.querySelector('main > header.hero') || document.querySelector('main > header') || document.querySelector('main section.nums') || document.querySelector('main > section');
       if (!anchor) return;
       box = document.createElement('section'); box.id = 'msc-news'; box.setAttribute('aria-label', 'Noticias');
       anchor.parentNode.insertBefore(box, anchor.nextSibling);
     }
-    var css = document.createElement('link'); css.rel = 'stylesheet'; css.href = BASE + 'teaser.css?v=3'; document.head.appendChild(css);
+    var css = document.createElement('link'); css.rel = 'stylesheet'; css.href = BASE + 'teaser.css?v=4'; document.head.appendChild(css);
+    if (!window.NXArt) { var ar = document.createElement('script'); ar.src = BASE + 'art.js?v=1'; ar.onload = function () { cur = null; render(); }; document.head.appendChild(ar); }
     initEsp();
     fetch(BASE + 'data/latest.json?v=' + Math.floor(Date.now() / 300000)).then(function (r) { return r.json(); }).then(function (j) { data = j; render(); }).catch(function () { box.remove(); });
     setInterval(function () { render(); renderEsp(); }, 800);
