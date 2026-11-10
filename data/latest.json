@@ -1,97 +1,85 @@
 {
- "actualizado": "2026-11-10T15:13:39Z",
- "momento": "apertura",
+ "actualizado": "2026-11-10T17:45:00Z",
+ "momento": "mediodia",
  "briefs": {
   "global": {
-   "id": "2026-11-10-apertura-global",
+   "id": "2026-11-10-mediodia-global",
    "fecha": "2026-11-10",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "global",
-   "hora": "09:10 CDMX",
+   "hora": "11:45 CDMX",
    "es": {
-    "titular": "Wall Street abre a la baja tras una inflación más alta de lo esperado; el Treasury a 10 años sube a 4.99%",
+    "titular": "El Treasury a 10 años rompe 5% y Wall Street amplía la caída; Nvidia pierde 6.6%",
     "esencial": [
-     "A las 9:10 CDMX el S&P 500 bajaba 0.15%, el Dow 0.32% y el Nasdaq quedaba plano; Nvidia caía cerca de 4%.",
-     "El CPI de octubre (+0.4% mensual) superó lo esperado y elevó la probabilidad de un alza de la Fed; el bono a 10 años sube 12 puntos base.",
-     "Para supply chain: el Brent sigue abajo de 91 dólares, pero las tasas más altas encarecen financiar inventario."
+     "A las 11:42 CDMX el Nasdaq bajaba 1.60%, el S&P 500 0.94% y el Dow 0.59%; el Treasury a 10 años llegó a 5.02%.",
+     "El mercado ya discute si la Fed sube 25 o 50 puntos base en diciembre, y Nvidia cae por un reporte de envíos de chips a China.",
+     "Para supply chain: el diésel en EE. UU. sigue arriba de 6 dólares por galón aunque el crudo bajó; revisa tus recargos con base en el diésel, no en el WTI."
     ],
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "Como anticipaban los futuros tras el CPI, Wall Street abrió con ligeras bajas. A las 9:10 CDMX el S&P 500 bajaba 0.15% (7,538.41), el Dow 0.32% (52,222.90) y el Nasdaq 0.01% (25,250.93); el Russell 2000 perdía 0.86%. Nvidia caía cerca de 4% (alrededor de 170.67 dólares) por segundo día por la investigación sobre Jensen Huang. El Treasury a 10 años subía a 4.99%, el índice del dólar 0.4% a 102.10, el WTI bajaba 1.7% a 85.40 dólares, el Brent 2.2% a 90.55 y el oro 1.5% a 4,054.60."
+      "t": "Lo que se esperaba",
+      "x": "En la apertura Wall Street bajaba levemente tras el CPI de octubre (+0.4% mensual, arriba de lo esperado) y el Treasury a 10 años subía a 4.99%."
      },
      {
-      "t": "Asia y Europa",
-      "x": "Asia cerró con fuertes alzas: KOSPI +4.39% (5,239.13), Nikkei +2.87% (60,459.58), Hang Seng +0.31% y Shanghái +0.40%. En Europa, el Euro Stoxx 50 subía 0.90%, el DAX 0.68% y el CAC 40 0.75%; el FTSE 100 quedaba plano (−0.07%)."
+      "t": "Cómo va",
+      "x": "A las 11:42 CDMX el S&P 500 bajaba 0.94% (7,479.00), el Nasdaq 1.60% (24,849.43) y el Dow 0.59% (52,082.69). El Treasury a 10 años subía a 5.02% y el índice del dólar 0.7% a 102.35. Nvidia caía 6.64% (166.80 dólares), mientras AMD y Broadcom subían cerca de 4%. El WTI recortaba su baja a −0.4% (86.53 dólares) y el Brent a −0.5% (92.14); el oro caía 2.1% a 4,028. Europa cerró arriba: Euro Stoxx 50 +0.59% y DAX +0.31%."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "El mercado digiere el CPI: el gobernador de la Fed Christopher Waller dijo que la inflación sigue demasiado alta, y la mayoría de los inversionistas ya da por casi segura un alza en diciembre. En petróleo, el secretario de Estado Marco Rubio dijo que no hacen falta operaciones de combate mayores contra Irán; el Brent acumula una baja de cerca de 22% en noviembre."
-     },
-     {
-      "t": "La semana que viene",
-      "x": "Jueves 12: venta de casas usadas en EE. UU. Viernes 13: PPI de octubre (7:30 CDMX). Lunes 16: cierran la BMV y los bancos en México. Viernes 20: vence la prórroga de las pláticas con los vigilantes de Los Ángeles–Long Beach."
+      "t": "Lo que sorprendió",
+      "x": "El debate ya no es si la Fed sube en diciembre, sino cuánto: en Polymarket la probabilidad de un alza de 50 puntos base o más subió a 11% desde menos de 1%, después de que el gobernador Christopher Waller dijo que un subyacente de 0.3% o más pondría ese tamaño sobre la mesa. The Information reportó que al menos 7,500 millones de dólares en equipo de Nvidia se enviaron a empresas chinas desde 2023 por una red ligada a la mujer investigada. La gasolina en EE. UU. bajó de 4 dólares por galón por primera vez desde julio, pero el diésel sigue en 6.16 dólares (3.74 hace un año)."
      }
     ],
-    "scm": "Para hoy: 1) el crudo sigue bajando: pide que el recargo de combustible de la próxima semana lo refleje; 2) con el bono a 10 años cerca de 5%, revisa el costo de financiar inventario y los días de cobertura; 3) no cierres de golpe compras grandes en dólares mientras el mercado asimila el CPI."
+    "scm": "Hoy: 1) los recargos de autotransporte siguen al diésel, que no ha bajado como el crudo: pide que te los ajusten con el índice semanal de diésel; 2) con el Treasury en 5%, revisa los días de inventario que financias; 3) compra dólares por tramos mientras el mercado digiere una posible alza grande de la Fed."
    },
    "en": {
-    "titular": "Wall Street opens lower after hotter-than-expected inflation; the 10-year Treasury rises to 4.99%",
+    "titular": "The 10-year Treasury breaks 5% and Wall Street extends losses; Nvidia loses 6.6%",
     "esencial": [
-     "At 10:10 a.m. ET the S&P 500 was down 0.15%, the Dow 0.32% and the Nasdaq flat; Nvidia fell about 4%.",
-     "October CPI (+0.4% month over month) beat forecasts and lifted the odds of a Fed hike; the 10-year yield rises 12 basis points.",
-     "For supply chain: Brent stays below $91, but higher rates make financing inventory costlier."
+     "At 12:42 p.m. ET the Nasdaq was down 1.60%, the S&P 500 0.94% and the Dow 0.59%; the 10-year Treasury hit 5.02%.",
+     "The market now debates whether the Fed hikes 25 or 50 basis points in December, and Nvidia falls on a report of chip shipments to China.",
+     "For supply chain: US diesel stays above $6 a gallon even though crude fell; base surcharges on diesel, not WTI."
     ],
     "bloques": [
      {
-      "t": "Opening",
-      "x": "As futures signaled after CPI, Wall Street opened slightly lower. At 10:10 a.m. ET the S&P 500 was down 0.15% (7,538.41), the Dow 0.32% (52,222.90) and the Nasdaq 0.01% (25,250.93); the Russell 2000 lost 0.86%. Nvidia fell about 4% (around $170.67) for a second day on the probe into Jensen Huang. The 10-year Treasury rose to 4.99%, the dollar index 0.4% to 102.10, WTI fell 1.7% to $85.40, Brent 2.2% to $90.55 and gold 1.5% to $4,054.60."
+      "t": "What was expected",
+      "x": "At the open Wall Street was slightly lower after October CPI (+0.4% month over month, above forecasts) and the 10-year Treasury was rising to 4.99%."
      },
      {
-      "t": "Asia and Europe",
-      "x": "Asia closed sharply higher: KOSPI +4.39% (5,239.13), Nikkei +2.87% (60,459.58), Hang Seng +0.31% and Shanghai +0.40%. In Europe, the Euro Stoxx 50 was up 0.90%, the DAX 0.68% and the CAC 40 0.75%; the FTSE 100 was flat (−0.07%)."
+      "t": "How it is going",
+      "x": "At 12:42 p.m. ET the S&P 500 was down 0.94% (7,479.00), the Nasdaq 1.60% (24,849.43) and the Dow 0.59% (52,082.69). The 10-year Treasury rose to 5.02% and the dollar index 0.7% to 102.35. Nvidia fell 6.64% ($166.80), while AMD and Broadcom rose about 4%. WTI pared its loss to −0.4% ($86.53) and Brent to −0.5% ($92.14); gold fell 2.1% to $4,028. Europe closed higher: Euro Stoxx 50 +0.59% and DAX +0.31%."
      },
      {
-      "t": "What to expect today",
-      "x": "The market is digesting CPI: Fed Governor Christopher Waller said inflation remains too high, and most investors now see a December hike as nearly certain. In oil, Secretary of State Marco Rubio said major combat operations against Iran are not needed; Brent is down about 22% in November."
-     },
-     {
-      "t": "The week ahead",
-      "x": "Thursday 12: US existing home sales. Friday 13: October PPI (8:30 a.m. ET). Monday 16: the BMV and banks close in Mexico. Friday 20: the extension of talks with the Los Angeles–Long Beach watchmen expires."
+      "t": "What surprised",
+      "x": "The debate is no longer whether the Fed hikes in December but by how much: on Polymarket the odds of a hike of 50 basis points or more rose to 11% from under 1%, after Governor Christopher Waller said a core reading of 0.3% or more would put that size on the table. The Information reported that at least $7.5 billion of Nvidia hardware was shipped to Chinese companies since 2023 through a network linked to the woman under scrutiny. US gasoline fell below $4 a gallon for the first time since July, but diesel remains at $6.16 ($3.74 a year ago)."
      }
     ],
-    "scm": "For today: 1) crude keeps falling: ask for next week's fuel surcharge to reflect it; 2) with the 10-year near 5%, review inventory financing costs and days of cover; 3) don't close large dollar purchases all at once while the market absorbs CPI."
+    "scm": "Today: 1) trucking surcharges follow diesel, which has not fallen like crude: ask for adjustments based on the weekly diesel index; 2) with the Treasury at 5%, review the inventory days you finance; 3) buy dollars in tranches while the market digests a possible large Fed hike."
    },
    "pt": {
-    "titular": "Wall Street abre em queda após inflação acima do esperado; o título de 10 anos sobe para 4,99%",
+    "titular": "O título de 10 anos rompe 5% e Wall Street amplia a queda; a Nvidia perde 6,6%",
     "esencial": [
-     "Às 9h10 (Cidade do México) o S&P 500 caía 0,15%, o Dow 0,32% e o Nasdaq ficava estável; a Nvidia caía cerca de 4%.",
-     "O CPI de outubro (+0,4% no mês) superou o esperado e elevou a probabilidade de alta do Fed; o título de 10 anos sobe 12 pontos-base.",
-     "Para supply chain: o Brent segue abaixo de 91 dólares, mas os juros mais altos encarecem financiar estoque."
+     "Às 11h42 (Cidade do México) o Nasdaq caía 1,60%, o S&P 500 0,94% e o Dow 0,59%; o título de 10 anos chegou a 5,02%.",
+     "O mercado já discute se o Fed sobe 25 ou 50 pontos-base em dezembro, e a Nvidia cai por uma reportagem sobre envios de chips à China.",
+     "Para supply chain: o diesel nos EUA segue acima de 6 dólares por galão, embora o petróleo tenha caído; baseie as sobretaxas no diesel, não no WTI."
     ],
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Como antecipavam os futuros após o CPI, Wall Street abriu em leve queda. Às 9h10 (Cidade do México) o S&P 500 caía 0,15% (7.538,41), o Dow 0,32% (52.222,90) e o Nasdaq 0,01% (25.250,93); o Russell 2000 perdia 0,86%. A Nvidia caía cerca de 4% (por volta de 170,67 dólares) pelo segundo dia pela investigação sobre Jensen Huang. O título de 10 anos subia para 4,99%, o índice do dólar 0,4% para 102,10, o WTI caía 1,7% para 85,40 dólares, o Brent 2,2% para 90,55 e o ouro 1,5% para 4.054,60."
+      "t": "O que se esperava",
+      "x": "Na abertura Wall Street caía levemente após o CPI de outubro (+0,4% no mês, acima do esperado) e o título de 10 anos subia para 4,99%."
      },
      {
-      "t": "Ásia e Europa",
-      "x": "A Ásia fechou com fortes altas: KOSPI +4,39% (5.239,13), Nikkei +2,87% (60.459,58), Hang Seng +0,31% e Xangai +0,40%. Na Europa, o Euro Stoxx 50 subia 0,90%, o DAX 0,68% e o CAC 40 0,75%; o FTSE 100 ficava estável (−0,07%)."
+      "t": "Como está",
+      "x": "Às 11h42 (Cidade do México) o S&P 500 caía 0,94% (7.479,00), o Nasdaq 1,60% (24.849,43) e o Dow 0,59% (52.082,69). O título de 10 anos subia para 5,02% e o índice do dólar 0,7% para 102,35. A Nvidia caía 6,64% (166,80 dólares), enquanto AMD e Broadcom subiam cerca de 4%. O WTI reduzia a queda para −0,4% (86,53 dólares) e o Brent para −0,5% (92,14); o ouro caía 2,1% para 4.028. A Europa fechou em alta: Euro Stoxx 50 +0,59% e DAX +0,31%."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "O mercado digere o CPI: o diretor do Fed Christopher Waller disse que a inflação segue alta demais, e a maioria dos investidores já vê quase certa uma alta em dezembro. No petróleo, o secretário de Estado Marco Rubio disse que não são necessárias grandes operações de combate contra o Irã; o Brent acumula queda de cerca de 22% em novembro."
-     },
-     {
-      "t": "A semana que vem",
-      "x": "Quinta 12: venda de imóveis usados nos EUA. Sexta 13: PPI de outubro (7h30, Cidade do México). Segunda 16: a BMV e os bancos fecham no México. Sexta 20: vence a prorrogação das negociações com os vigilantes de Los Angeles–Long Beach."
+      "t": "O que surpreendeu",
+      "x": "O debate já não é se o Fed sobe em dezembro, mas quanto: no Polymarket a probabilidade de alta de 50 pontos-base ou mais subiu para 11%, de menos de 1%, depois que o diretor Christopher Waller disse que um núcleo de 0,3% ou mais colocaria esse tamanho na mesa. The Information informou que pelo menos 7,5 bilhões de dólares em equipamentos da Nvidia foram enviados a empresas chinesas desde 2023 por uma rede ligada à mulher investigada. A gasolina nos EUA caiu abaixo de 4 dólares por galão pela primeira vez desde julho, mas o diesel segue em 6,16 dólares (3,74 há um ano)."
      }
     ],
-    "scm": "Para hoje: 1) o petróleo segue caindo: peça que a sobretaxa de combustível da próxima semana reflita isso; 2) com o título de 10 anos perto de 5%, revise o custo de financiar estoque e os dias de cobertura; 3) não feche de uma vez compras grandes em dólares enquanto o mercado assimila o CPI."
+    "scm": "Hoje: 1) as sobretaxas do transporte rodoviário seguem o diesel, que não caiu como o petróleo: peça ajustes com base no índice semanal do diesel; 2) com o título de 10 anos em 5%, revise os dias de estoque que você financia; 3) compre dólares em parcelas enquanto o mercado digere uma possível alta grande do Fed."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: cotizaciones de índices, futuros, divisas, materias primas y bonos (10 nov 2026, 9:10 CDMX)",
+     "t": "Yahoo Finance: cotizaciones de índices, divisas, materias primas y bonos (10 nov 2026, 11:42 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
@@ -99,192 +87,192 @@
      "u": "https://finance.yahoo.com/economy/articles/inflation-stronger-expected-october-underscoring-133432261.html"
     },
     {
-     "t": "AFP: bolsas mixtas por la perspectiva de la IA; el petróleo cae (10 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-asian-stock-rally-023930562.html"
+     "t": "Benzinga: tras el CPI, los economistas no descartan un alza de 50 puntos base de la Fed (10 nov 2026)",
+     "u": "https://finance.yahoo.com/economy/policy/articles/50-basis-point-fed-hike-170519995.html"
     },
     {
-     "t": "24/7 Wall St.: Nvidia cae 4% por la investigación de su consejo sobre Jensen Huang (10 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-4-board-probe-145608731.html"
+     "t": "Yahoo Finance: Nvidia cae 6% por el reporte sobre envíos de chips a China ligados a la mujer investigada (10 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/article/nvidia-stock-drops-3-extending-decline-on-report-alleged-chinese-spy-linked-to-nvidia-ceo-aided-75-billion-in-china-chip-shipments-152654028.html"
+    },
+    {
+     "t": "Oilprice.com: la gasolina en EE. UU. baja de 4 dólares por galón; el diésel sigue arriba de 6 (10 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/average-u-gasoline-price-dips-160000575.html"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-10-apertura-latam",
+   "id": "2026-11-10-mediodia-latam",
    "fecha": "2026-11-10",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "latam",
-   "hora": "09:10 CDMX",
+   "hora": "11:45 CDMX",
    "es": {
-    "titular": "Las monedas de la región se debilitan tras la inflación de EE. UU.; el real cae 1.6%",
+    "titular": "Las monedas de la región siguen débiles: el peso chileno cae 1.8% y el real 1.5%",
     "esencial": [
-     "A las 9:10 CDMX el dólar subía 1.58% frente al real (5.59) y 1.25% frente al peso chileno (979).",
-     "El CPI de EE. UU. arriba de lo esperado fortalece al dólar y sube las tasas, lo que pega a las monedas de la región.",
+     "A las 11:42 CDMX el dólar subía 1.80% frente al peso chileno (984), 1.53% frente al real (5.59) y 1.22% frente al peso colombiano.",
+     "El Treasury en 5% y el dólar fuerte pegan a la región; el Ibovespa baja 0.55% y el TSX 0.83%.",
      "Convierte pronto los cobros en monedas locales y escalona los pagos en dólares de esta semana."
     ],
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "A las 8:55 CDMX el Ibovespa bajaba 0.31% (171,699.34) y a las 9:10 el S&P/TSX de Canadá 0.36% (36,314.16). En divisas, el dólar subía 1.58% frente al real (5.59), 1.25% frente al peso chileno (979.0) y 0.72% frente al peso colombiano (3,290)."
+      "t": "Lo que se esperaba",
+      "x": "En la apertura las monedas de la región se debilitaban tras el CPI de EE. UU., con el real −1.6%."
      },
      {
-      "t": "Contexto",
-      "x": "Tras las fuertes alzas del lunes (COLCAP +3.45%, Ibovespa +2.22%), la región resiente el dólar más fuerte por el CPI de EE. UU. La caída del crudo ayuda a los importadores, pero pesa sobre Colombia y Brasil."
+      "t": "Cómo va",
+      "x": "A las 11:27 CDMX el Ibovespa bajaba 0.55% (171,288.16) y a las 11:42 el S&P/TSX 0.83% (36,143.59). El dólar subía 1.80% frente al peso chileno (984.4), 1.53% frente al real (5.59) y 1.22% frente al peso colombiano (3,306.6)."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "En Brasil sale hoy el acta del Copom, que mantuvo la Selic en 13.75%, y el jueves el IPCA de octubre."
+      "t": "Lo que sorprendió",
+      "x": "La presión sobre las monedas se acentuó cuando el Treasury a 10 años superó 5%. Hoy salió en Brasil el acta del Copom, que mantuvo la Selic en 13.75%; el jueves se publica el IPCA de octubre."
      }
     ],
-    "scm": "Convierte pronto los cobros en monedas locales y escalona los pagos en dólares de esta semana. Con el crudo a la baja, pide revisar los recargos de flete en rutas regionales."
+    "scm": "Convierte pronto los cobros en monedas locales y escalona los pagos en dólares de esta semana."
    },
    "en": {
-    "titular": "The region's currencies weaken after US inflation; the real falls 1.6%",
+    "titular": "The region's currencies stay weak: the Chilean peso falls 1.8% and the real 1.5%",
     "esencial": [
-     "At 10:10 a.m. ET the dollar was up 1.58% against the real (5.59) and 1.25% against the Chilean peso (979).",
-     "Hotter US CPI strengthens the dollar and lifts rates, hitting the region's currencies.",
+     "At 12:42 p.m. ET the dollar was up 1.80% against the Chilean peso (984), 1.53% against the real (5.59) and 1.22% against the Colombian peso.",
+     "The Treasury at 5% and a strong dollar hit the region; the Ibovespa falls 0.55% and the TSX 0.83%.",
      "Convert local-currency receivables soon and stagger this week's dollar payments."
     ],
     "bloques": [
      {
-      "t": "Opening",
-      "x": "At 9:55 a.m. ET the Ibovespa was down 0.31% (171,699.34) and at 10:10 Canada's S&P/TSX 0.36% (36,314.16). In currencies, the dollar was up 1.58% against the real (5.59), 1.25% against the Chilean peso (979.0) and 0.72% against the Colombian peso (3,290)."
+      "t": "What was expected",
+      "x": "At the open the region's currencies were weakening after US CPI, with the real −1.6%."
      },
      {
-      "t": "Context",
-      "x": "After Monday's strong gains (COLCAP +3.45%, Ibovespa +2.22%), the region feels the stronger dollar from US CPI. Lower crude helps importers but weighs on Colombia and Brazil."
+      "t": "How it is going",
+      "x": "At 12:27 p.m. ET the Ibovespa was down 0.55% (171,288.16) and at 12:42 the S&P/TSX 0.83% (36,143.59). The dollar was up 1.80% against the Chilean peso (984.4), 1.53% against the real (5.59) and 1.22% against the Colombian peso (3,306.6)."
      },
      {
-      "t": "What to expect today",
-      "x": "In Brazil, the minutes of the Copom meeting that held the Selic at 13.75% come out today, and October IPCA on Thursday."
+      "t": "What surprised",
+      "x": "Pressure on currencies grew as the 10-year Treasury topped 5%. Brazil released the minutes of the Copom meeting that held the Selic at 13.75%; October IPCA comes out Thursday."
      }
     ],
-    "scm": "Convert local-currency receivables soon and stagger this week's dollar payments. With crude lower, ask for a review of freight surcharges on regional routes."
+    "scm": "Convert local-currency receivables soon and stagger this week's dollar payments."
    },
    "pt": {
-    "titular": "As moedas da região enfraquecem após a inflação dos EUA; o real cai 1,6%",
+    "titular": "As moedas da região seguem fracas: o peso chileno cai 1,8% e o real 1,5%",
     "esencial": [
-     "Às 9h10 (Cidade do México) o dólar subia 1,58% frente ao real (5,59) e 1,25% frente ao peso chileno (979).",
-     "O CPI dos EUA acima do esperado fortalece o dólar e eleva os juros, o que atinge as moedas da região.",
+     "Às 11h42 (Cidade do México) o dólar subia 1,80% frente ao peso chileno (984), 1,53% frente ao real (5,59) e 1,22% frente ao peso colombiano.",
+     "O título de 10 anos em 5% e o dólar forte atingem a região; o Ibovespa cai 0,55% e o TSX 0,83%.",
      "Converta logo os recebíveis em moeda local e escalone os pagamentos em dólares desta semana."
     ],
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Às 8h55 (Cidade do México) o Ibovespa caía 0,31% (171.699,34) e às 9h10 o S&P/TSX do Canadá 0,36% (36.314,16). Em moedas, o dólar subia 1,58% frente ao real (5,59), 1,25% frente ao peso chileno (979,0) e 0,72% frente ao peso colombiano (3.290)."
+      "t": "O que se esperava",
+      "x": "Na abertura as moedas da região enfraqueciam após o CPI dos EUA, com o real −1,6%."
      },
      {
-      "t": "Contexto",
-      "x": "Depois das fortes altas de segunda (COLCAP +3,45%, Ibovespa +2,22%), a região sente o dólar mais forte pelo CPI dos EUA. A queda do petróleo ajuda os importadores, mas pesa sobre Colômbia e Brasil."
+      "t": "Como está",
+      "x": "Às 11h27 (Cidade do México) o Ibovespa caía 0,55% (171.288,16) e às 11h42 o S&P/TSX 0,83% (36.143,59). O dólar subia 1,80% frente ao peso chileno (984,4), 1,53% frente ao real (5,59) e 1,22% frente ao peso colombiano (3.306,6)."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "No Brasil sai hoje a ata do Copom, que manteve a Selic em 13,75%, e na quinta o IPCA de outubro."
+      "t": "O que surpreendeu",
+      "x": "A pressão sobre as moedas aumentou quando o título de 10 anos passou de 5%. No Brasil saiu hoje a ata do Copom, que manteve a Selic em 13,75%; na quinta sai o IPCA de outubro."
      }
     ],
-    "scm": "Converta logo os recebíveis em moeda local e escalone os pagamentos em dólares desta semana. Com o petróleo em queda, peça revisão das sobretaxas de frete em rotas regionais."
+    "scm": "Converta logo os recebíveis em moeda local e escalone os pagamentos em dólares desta semana."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: cotizaciones de índices, futuros, divisas, materias primas y bonos (10 nov 2026, 9:10 CDMX)",
+     "t": "Yahoo Finance: cotizaciones de índices, divisas, materias primas y bonos (10 nov 2026, 11:42 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   "mexico": {
-   "id": "2026-11-10-apertura-mexico",
+   "id": "2026-11-10-mediodia-mexico",
    "fecha": "2026-11-10",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "mexico",
-   "hora": "09:10 CDMX",
+   "hora": "11:45 CDMX",
    "es": {
-    "titular": "El IPC abre con −0.6% y el peso se debilita a 18.69 tras la inflación de EE. UU.",
+    "titular": "El IPC recupera su baja y queda plano; el peso se mantiene en 18.66",
     "esencial": [
-     "A las 8:50 CDMX el IPC bajaba 0.60% (71,426.80) y a las 9:10 el peso estaba en 18.69 por dólar.",
-     "El CPI de EE. UU. arriba de lo esperado fortalece al dólar y sube las tasas, lo que presiona al peso desde cerca de 18.50 en la madrugada.",
+     "A las 11:22 CDMX el IPC estaba en 71,866.63 (+0.02%), tras abrir con −0.6%, y el peso en 18.66 por dólar.",
+     "La bolsa mexicana resiste mejor que Wall Street, aunque el Treasury en 5% mantiene presión sobre el peso.",
      "Compra por tramos los dólares de noviembre y adelanta los pagos del lunes 16, cuando no abren los bancos."
     ],
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "El S&P/BMV IPC abrió con baja: a las 8:50 CDMX perdía 0.60% (71,426.80), tras subir 0.65% el lunes. El peso, que de madrugada cotizaba cerca de 18.50, estaba a las 9:10 CDMX en 18.69 por dólar (el dólar +0.71%)."
+      "t": "Lo que se esperaba",
+      "x": "En la apertura el IPC bajaba 0.60% y el peso se debilitaba a 18.69 tras el CPI de EE. UU."
      },
      {
-      "t": "Contexto",
-      "x": "El CPI de EE. UU. de octubre (+0.4% mensual) superó lo esperado y refuerza un alza de la Fed en diciembre, mientras Banxico tiene la tasa en 6.25% y la inflación de México subió a 3.75%. El diferencial de tasas se estrecha y eso pesa sobre el peso."
+      "t": "Cómo va",
+      "x": "A las 11:22 CDMX el S&P/BMV IPC estaba en 71,866.63 (+0.02%), recuperado de su baja inicial. A las 11:42 el peso estaba en 18.66 por dólar (el dólar +0.58%). El FIX del día se publica a mediodía."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "Hoy hay subasta de Cetes, la primera desde el recorte de Banxico a 6.25%. El lunes 16 cierran la BMV y los bancos por el Día de la Revolución."
+      "t": "Lo que sorprendió",
+      "x": "El IPC aguantó mientras el Nasdaq caía 1.6%. El Treasury a 10 años en 5% y la posibilidad de un alza grande de la Fed reducen el diferencial con Banxico (6.25%). Hoy hay subasta de Cetes."
      }
     ],
-    "scm": "Con el peso en 18.69, compra por tramos los dólares de noviembre en lugar de cerrar todo hoy, y adelanta los pagos que vencen el lunes 16."
+    "scm": "Con el peso en 18.66, compra por tramos los dólares de noviembre. Si importas por camión desde EE. UU., pide que los recargos de combustible se ajusten con el diésel, que sigue caro."
    },
    "en": {
-    "titular": "The IPC opens −0.6% and the peso weakens to 18.69 after US inflation",
+    "titular": "The IPC recovers its loss and is flat; the peso holds at 18.66",
     "esencial": [
-     "At 8:50 a.m. Mexico City time the IPC was down 0.60% (71,426.80) and at 9:10 the peso was at 18.69 per dollar.",
-     "Hotter US CPI strengthens the dollar and lifts rates, pressuring the peso from near 18.50 overnight.",
+     "At 11:22 a.m. Mexico City time the IPC was at 71,866.63 (+0.02%) after opening −0.6%, and the peso at 18.66 per dollar.",
+     "Mexican stocks hold up better than Wall Street, although the Treasury at 5% keeps pressure on the peso.",
      "Buy November dollars in tranches and move forward payments due Monday the 16th, a bank holiday."
     ],
     "bloques": [
      {
-      "t": "Opening",
-      "x": "The S&P/BMV IPC opened lower: at 8:50 a.m. Mexico City time it was down 0.60% (71,426.80) after rising 0.65% on Monday. The peso, which traded near 18.50 overnight, was at 18.69 per dollar at 9:10 a.m. (dollar +0.71%)."
+      "t": "What was expected",
+      "x": "At the open the IPC was down 0.60% and the peso weakened to 18.69 after US CPI."
      },
      {
-      "t": "Context",
-      "x": "US October CPI (+0.4% month over month) beat forecasts and reinforces a December Fed hike, while Banxico's rate is 6.25% and Mexico's inflation rose to 3.75%. The narrowing rate gap weighs on the peso."
+      "t": "How it is going",
+      "x": "At 11:22 a.m. Mexico City time the S&P/BMV IPC was at 71,866.63 (+0.02%), recovered from its early drop. At 11:42 the peso was at 18.66 per dollar (dollar +0.58%). Today's FIX is published at midday."
      },
      {
-      "t": "What to expect today",
-      "x": "There is a Cetes auction today, the first since Banxico's cut to 6.25%. On Monday the 16th, the BMV and banks close for Revolution Day."
+      "t": "What surprised",
+      "x": "The IPC held up while the Nasdaq fell 1.6%. The 10-year Treasury at 5% and the chance of a large Fed hike narrow the gap with Banxico (6.25%). There is a Cetes auction today."
      }
     ],
-    "scm": "With the peso at 18.69, buy November dollars in tranches rather than all today, and move forward payments due Monday the 16th."
+    "scm": "With the peso at 18.66, buy November dollars in tranches. If you import by truck from the US, ask for fuel surcharges based on diesel, which remains expensive."
    },
    "pt": {
-    "titular": "O IPC abre com −0,6% e o peso enfraquece para 18,69 após a inflação dos EUA",
+    "titular": "O IPC recupera a queda e fica estável; o peso se mantém em 18,66",
     "esencial": [
-     "Às 8h50 (Cidade do México) o IPC caía 0,60% (71.426,80) e às 9h10 o peso estava a 18,69 por dólar.",
-     "O CPI dos EUA acima do esperado fortalece o dólar e eleva os juros, o que pressiona o peso, que estava perto de 18,50 na madrugada.",
+     "Às 11h22 (Cidade do México) o IPC estava em 71.866,63 (+0,02%), após abrir com −0,6%, e o peso a 18,66 por dólar.",
+     "A bolsa mexicana resiste melhor que Wall Street, embora o título de 10 anos em 5% mantenha pressão sobre o peso.",
      "Compre em parcelas os dólares de novembro e antecipe os pagamentos da segunda, dia 16, quando os bancos não abrem."
     ],
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "O S&P/BMV IPC abriu em queda: às 8h50 (Cidade do México) perdia 0,60% (71.426,80), após subir 0,65% na segunda. O peso, que na madrugada estava perto de 18,50, estava às 9h10 a 18,69 por dólar (dólar +0,71%)."
+      "t": "O que se esperava",
+      "x": "Na abertura o IPC caía 0,60% e o peso enfraquecia para 18,69 após o CPI dos EUA."
      },
      {
-      "t": "Contexto",
-      "x": "O CPI dos EUA de outubro (+0,4% no mês) superou o esperado e reforça a alta do Fed em dezembro, enquanto o Banxico tem a taxa em 6,25% e a inflação do México subiu para 3,75%. O diferencial de juros se estreita e isso pesa sobre o peso."
+      "t": "Como está",
+      "x": "Às 11h22 (Cidade do México) o S&P/BMV IPC estava em 71.866,63 (+0,02%), recuperado da queda inicial. Às 11h42 o peso estava a 18,66 por dólar (dólar +0,58%). O FIX do dia é publicado ao meio-dia."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Hoje há leilão de Cetes, o primeiro desde o corte do Banxico para 6,25%. Na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução."
+      "t": "O que surpreendeu",
+      "x": "O IPC resistiu enquanto o Nasdaq caía 1,6%. O título de 10 anos em 5% e a possibilidade de uma alta grande do Fed reduzem o diferencial com o Banxico (6,25%). Hoje há leilão de Cetes."
      }
     ],
-    "scm": "Com o peso a 18,69, compre em parcelas os dólares de novembro em vez de fechar tudo hoje, e antecipe os pagamentos que vencem na segunda, dia 16."
+    "scm": "Com o peso a 18,66, compre em parcelas os dólares de novembro. Se você importa por caminhão dos EUA, peça que as sobretaxas de combustível sigam o diesel, que continua caro."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: cotizaciones de índices, futuros, divisas, materias primas y bonos (10 nov 2026, 9:10 CDMX)",
+     "t": "Yahoo Finance: cotizaciones de índices, divisas, materias primas y bonos (10 nov 2026, 11:42 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
-     "t": "Infobae: el dólar abre el 10 de noviembre en alrededor de 18.50 pesos",
-     "u": "https://www.infobae.com/mexico/2026/11/10/dolar-hoy-en-mexico-cotizacion-de-apertura-del-10-de-noviembre/"
-    },
-    {
-     "t": "AP: la inflación de EE. UU. de octubre sube 0.4% mensual, más de lo esperado (10 nov 2026)",
-     "u": "https://finance.yahoo.com/economy/articles/inflation-stronger-expected-october-underscoring-133432261.html"
+     "t": "Oilprice.com: la gasolina en EE. UU. baja de 4 dólares por galón; el diésel sigue arriba de 6 (10 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/average-u-gasoline-price-dips-160000575.html"
     }
    ]
   }
  },
  "lectura": {
   "es": {
-   "titular": "Inflación de EE. UU. más alta y tasas arriba: el crudo da respiro, pero el costo de financiar inventario sube",
-   "resumen": "El CPI de octubre subió 0.4% mensual, una décima arriba de lo esperado, y el Treasury a 10 años sube a 4.99%: un alza de la Fed en diciembre se ve casi segura. Wall Street abre con leves bajas y Nvidia cae cerca de 4% por segundo día. El Brent sigue abajo de 91 dólares (−22% en noviembre) con señales de distensión con Irán, lo que abarata el combustible. En México, el peso se debilita a 18.69 y el IPC baja 0.6%, con la inflación local en 3.75%. La prioridad es trasladar la baja del crudo a los recargos, revisar el costo de financiar inventario y comprar dólares por tramos.",
+   "titular": "El Treasury rompe 5% y el mercado ya habla de un alza grande de la Fed; el diésel sigue caro aunque el crudo baje",
+   "resumen": "El CPI de octubre (+0.4%) llevó al Treasury a 10 años a 5.02% y abrió la discusión de un alza de 50 puntos base en diciembre (11% de probabilidad en Polymarket). Wall Street amplía la caída (Nasdaq −1.6%) y Nvidia pierde 6.6% por un reporte de envíos de chips a China. El crudo se estabiliza cerca de 86–92 dólares y la gasolina en EE. UU. bajó de 4 dólares, pero el diésel sigue en 6.16 dólares por galón, lo que mantiene caros los fletes por carretera. En México el IPC se recupera y el peso está en 18.66. La prioridad es ajustar los recargos con el diésel, revisar el costo de financiar inventario con tasas en 5% y comprar dólares por tramos.",
    "temas": [
     {
      "tema": "Peso y tasas",
@@ -395,8 +383,8 @@
    ]
   },
   "en": {
-   "titular": "Hotter US inflation and higher rates: crude gives relief, but inventory financing gets costlier",
-   "resumen": "October CPI rose 0.4% month over month, a tenth above forecasts, and the 10-year Treasury rises to 4.99%: a December Fed hike looks nearly certain. Wall Street opens slightly lower and Nvidia falls about 4% for a second day. Brent stays below $91 (−22% in November) on signs of easing with Iran, which makes fuel cheaper. In Mexico, the peso weakens to 18.69 and the IPC falls 0.6%, with local inflation at 3.75%. The priority is to pass lower crude through to surcharges, review inventory financing costs and buy dollars in tranches.",
+   "titular": "The Treasury breaks 5% and the market talks about a large Fed hike; diesel stays expensive even as crude falls",
+   "resumen": "October CPI (+0.4%) pushed the 10-year Treasury to 5.02% and opened talk of a 50-basis-point hike in December (11% odds on Polymarket). Wall Street extends losses (Nasdaq −1.6%) and Nvidia loses 6.6% on a report of chip shipments to China. Crude steadies around $86–92 and US gasoline fell below $4, but diesel remains at $6.16 a gallon, keeping road freight expensive. In Mexico the IPC recovers and the peso is at 18.66. The priority is to adjust surcharges with diesel, review inventory financing costs with rates at 5% and buy dollars in tranches.",
    "temas": [
     {
      "tema": "Peso and rates",
@@ -507,8 +495,8 @@
    ]
   },
   "pt": {
-   "titular": "Inflação dos EUA mais alta e juros em alta: o petróleo dá alívio, mas o custo de financiar estoque sobe",
-   "resumen": "O CPI de outubro subiu 0,4% no mês, um décimo acima do esperado, e o título de 10 anos sobe para 4,99%: uma alta do Fed em dezembro parece quase certa. Wall Street abre em leve queda e a Nvidia cai cerca de 4% pelo segundo dia. O Brent segue abaixo de 91 dólares (−22% em novembro) com sinais de distensão com o Irã, o que barateia o combustível. No México, o peso enfraquece para 18,69 e o IPC cai 0,6%, com a inflação local em 3,75%. A prioridade é repassar a queda do petróleo às sobretaxas, revisar o custo de financiar estoque e comprar dólares em parcelas.",
+   "titular": "O título de 10 anos rompe 5% e o mercado já fala em alta grande do Fed; o diesel segue caro mesmo com o petróleo em queda",
+   "resumen": "O CPI de outubro (+0,4%) levou o título de 10 anos a 5,02% e abriu a discussão de uma alta de 50 pontos-base em dezembro (11% de probabilidade no Polymarket). Wall Street amplia a queda (Nasdaq −1,6%) e a Nvidia perde 6,6% por uma reportagem sobre envios de chips à China. O petróleo se estabiliza perto de 86–92 dólares e a gasolina nos EUA caiu abaixo de 4 dólares, mas o diesel segue em 6,16 dólares por galão, o que mantém caros os fretes rodoviários. No México o IPC se recupera e o peso está em 18,66. A prioridade é ajustar as sobretaxas com o diesel, revisar o custo de financiar estoque com juros em 5% e comprar dólares em parcelas.",
    "temas": [
     {
      "tema": "Peso e juros",
@@ -624,8 +612,8 @@
    "nombre": "IPC BMV",
    "name_en": "IPC BMV",
    "grupo": "bolsa",
-   "valor": 71426.8,
-   "cambio": -0.6,
+   "valor": 71866.63,
+   "cambio": 0.02,
    "unidad": "puntos",
    "name_pt": "IPC BMV"
   },
@@ -633,8 +621,8 @@
    "nombre": "S&P 500",
    "name_en": "S&P 500",
    "grupo": "bolsa",
-   "valor": 7538.41,
-   "cambio": -0.15,
+   "valor": 7479.0,
+   "cambio": -0.94,
    "unidad": "puntos",
    "name_pt": "S&P 500"
   },
@@ -642,8 +630,8 @@
    "nombre": "Nasdaq",
    "name_en": "Nasdaq",
    "grupo": "bolsa",
-   "valor": 25250.93,
-   "cambio": -0.01,
+   "valor": 24849.43,
+   "cambio": -1.6,
    "unidad": "puntos",
    "name_pt": "Nasdaq"
   },
@@ -651,8 +639,8 @@
    "nombre": "Dow Jones",
    "name_en": "Dow Jones",
    "grupo": "bolsa",
-   "valor": 52222.9,
-   "cambio": -0.32,
+   "valor": 52082.69,
+   "cambio": -0.59,
    "unidad": "puntos",
    "name_pt": "Dow Jones"
   },
@@ -660,8 +648,8 @@
    "nombre": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
    "grupo": "bolsa",
-   "valor": 6346.95,
-   "cambio": 0.9,
+   "valor": 6327.87,
+   "cambio": 0.59,
    "unidad": "puntos",
    "name_pt": "Euro Stoxx 50"
   },
@@ -687,8 +675,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 18.69,
-   "cambio": 0.71,
+   "valor": 18.66,
+   "cambio": 0.58,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -696,8 +684,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.1182,
-   "cambio": -0.32,
+   "valor": 1.1156,
+   "cambio": -0.55,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -705,8 +693,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 158.64,
-   "cambio": 0.47,
+   "valor": 158.77,
+   "cambio": 0.55,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -714,8 +702,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 85.4,
-   "cambio": -1.67,
+   "valor": 86.53,
+   "cambio": -0.37,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -723,8 +711,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 90.55,
-   "cambio": -2.18,
+   "valor": 92.14,
+   "cambio": -0.46,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -741,8 +729,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 4054.6,
-   "cambio": -1.46,
+   "valor": 4028.0,
+   "cambio": -2.1,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -750,8 +738,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 6.27,
-   "cambio": -1.13,
+   "valor": 6.23,
+   "cambio": -1.85,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -759,8 +747,8 @@
    "nombre": "Treasury 10 años",
    "name_en": "10-yr Treasury",
    "grupo": "bono",
-   "valor": 4.99,
-   "cambio": 12,
+   "valor": 5.02,
+   "cambio": 15,
    "unidad": "%",
    "name_pt": "Título do Tesouro 10 anos"
   },
@@ -786,8 +774,8 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 74511.23,
-   "cambio": -0.99,
+   "valor": 72879.22,
+   "cambio": -3.16,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }

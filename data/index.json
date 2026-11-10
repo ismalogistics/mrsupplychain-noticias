@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-10-mediodia-global",
+   "fecha": "2026-11-10",
+   "momento": "mediodia",
+   "mercado": "global",
+   "titular_es": "El Treasury a 10 años rompe 5% y Wall Street amplía la caída; Nvidia pierde 6.6%",
+   "titular_en": "The 10-year Treasury breaks 5% and Wall Street extends losses; Nvidia loses 6.6%",
+   "titular_pt": "O título de 10 anos rompe 5% e Wall Street amplia a queda; a Nvidia perde 6,6%"
+  },
+  {
+   "id": "2026-11-10-mediodia-latam",
+   "fecha": "2026-11-10",
+   "momento": "mediodia",
+   "mercado": "latam",
+   "titular_es": "Las monedas de la región siguen débiles: el peso chileno cae 1.8% y el real 1.5%",
+   "titular_en": "The region's currencies stay weak: the Chilean peso falls 1.8% and the real 1.5%",
+   "titular_pt": "As moedas da região seguem fracas: o peso chileno cai 1,8% e o real 1,5%"
+  },
+  {
+   "id": "2026-11-10-mediodia-mexico",
+   "fecha": "2026-11-10",
+   "momento": "mediodia",
+   "mercado": "mexico",
+   "titular_es": "El IPC recupera su baja y queda plano; el peso se mantiene en 18.66",
+   "titular_en": "The IPC recovers its loss and is flat; the peso holds at 18.66",
+   "titular_pt": "O IPC recupera a queda e fica estável; o peso se mantém em 18,66"
+  },
+  {
    "id": "2026-11-10-apertura-global",
    "fecha": "2026-11-10",
    "momento": "apertura",

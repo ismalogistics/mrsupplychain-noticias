@@ -1,0 +1,86 @@
+{
+ "id": "2026-11-10-mediodia-mexico",
+ "fecha": "2026-11-10",
+ "momento": "mediodia",
+ "mercado": "mexico",
+ "hora": "11:45 CDMX",
+ "es": {
+  "titular": "El IPC recupera su baja y queda plano; el peso se mantiene en 18.66",
+  "esencial": [
+   "A las 11:22 CDMX el IPC estaba en 71,866.63 (+0.02%), tras abrir con −0.6%, y el peso en 18.66 por dólar.",
+   "La bolsa mexicana resiste mejor que Wall Street, aunque el Treasury en 5% mantiene presión sobre el peso.",
+   "Compra por tramos los dólares de noviembre y adelanta los pagos del lunes 16, cuando no abren los bancos."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el IPC bajaba 0.60% y el peso se debilitaba a 18.69 tras el CPI de EE. UU."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:22 CDMX el S&P/BMV IPC estaba en 71,866.63 (+0.02%), recuperado de su baja inicial. A las 11:42 el peso estaba en 18.66 por dólar (el dólar +0.58%). El FIX del día se publica a mediodía."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El IPC aguantó mientras el Nasdaq caía 1.6%. El Treasury a 10 años en 5% y la posibilidad de un alza grande de la Fed reducen el diferencial con Banxico (6.25%). Hoy hay subasta de Cetes."
+   }
+  ],
+  "scm": "Con el peso en 18.66, compra por tramos los dólares de noviembre. Si importas por camión desde EE. UU., pide que los recargos de combustible se ajusten con el diésel, que sigue caro."
+ },
+ "en": {
+  "titular": "The IPC recovers its loss and is flat; the peso holds at 18.66",
+  "esencial": [
+   "At 11:22 a.m. Mexico City time the IPC was at 71,866.63 (+0.02%) after opening −0.6%, and the peso at 18.66 per dollar.",
+   "Mexican stocks hold up better than Wall Street, although the Treasury at 5% keeps pressure on the peso.",
+   "Buy November dollars in tranches and move forward payments due Monday the 16th, a bank holiday."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the IPC was down 0.60% and the peso weakened to 18.69 after US CPI."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:22 a.m. Mexico City time the S&P/BMV IPC was at 71,866.63 (+0.02%), recovered from its early drop. At 11:42 the peso was at 18.66 per dollar (dollar +0.58%). Today's FIX is published at midday."
+   },
+   {
+    "t": "What surprised",
+    "x": "The IPC held up while the Nasdaq fell 1.6%. The 10-year Treasury at 5% and the chance of a large Fed hike narrow the gap with Banxico (6.25%). There is a Cetes auction today."
+   }
+  ],
+  "scm": "With the peso at 18.66, buy November dollars in tranches. If you import by truck from the US, ask for fuel surcharges based on diesel, which remains expensive."
+ },
+ "pt": {
+  "titular": "O IPC recupera a queda e fica estável; o peso se mantém em 18,66",
+  "esencial": [
+   "Às 11h22 (Cidade do México) o IPC estava em 71.866,63 (+0,02%), após abrir com −0,6%, e o peso a 18,66 por dólar.",
+   "A bolsa mexicana resiste melhor que Wall Street, embora o título de 10 anos em 5% mantenha pressão sobre o peso.",
+   "Compre em parcelas os dólares de novembro e antecipe os pagamentos da segunda, dia 16, quando os bancos não abrem."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o IPC caía 0,60% e o peso enfraquecia para 18,69 após o CPI dos EUA."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h22 (Cidade do México) o S&P/BMV IPC estava em 71.866,63 (+0,02%), recuperado da queda inicial. Às 11h42 o peso estava a 18,66 por dólar (dólar +0,58%). O FIX do dia é publicado ao meio-dia."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O IPC resistiu enquanto o Nasdaq caía 1,6%. O título de 10 anos em 5% e a possibilidade de uma alta grande do Fed reduzem o diferencial com o Banxico (6,25%). Hoje há leilão de Cetes."
+   }
+  ],
+  "scm": "Com o peso a 18,66, compre em parcelas os dólares de novembro. Se você importa por caminhão dos EUA, peça que as sobretaxas de combustível sigam o diesel, que continua caro."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: cotizaciones de índices, divisas, materias primas y bonos (10 nov 2026, 11:42 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Oilprice.com: la gasolina en EE. UU. baja de 4 dólares por galón; el diésel sigue arriba de 6 (10 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/average-u-gasoline-price-dips-160000575.html"
+  }
+ ]
+}

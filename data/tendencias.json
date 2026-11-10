@@ -1,12 +1,43 @@
 {
- "actualizado": "2026-11-10T15:13:39Z",
+ "actualizado": "2026-11-10T17:45:00Z",
  "fecha": "2026-11-10",
  "titular": {
-  "es": "El crudo sigue a la baja, TSMC vende 60% más y el ferrocarril espera repunte: la apertura del martes",
-  "en": "Crude keeps falling, TSMC sells 60% more and rail awaits a rebound: Tuesday open",
-  "pt": "O petróleo segue em queda, a TSMC vende 60% mais e o ferroviário espera reação: a abertura de terça"
+  "es": "A mediodía: el diésel sigue caro, el crudo se estabiliza y Nvidia cae 6.6%",
+  "en": "At midday: diesel stays expensive, crude steadies and Nvidia falls 6.6%",
+  "pt": "No meio-dia: o diesel segue caro, o petróleo se estabiliza e a Nvidia cai 6,6%"
  },
  "items": [
+  {
+   "id": "autotransporte",
+   "dir": "up",
+   "calor": 3,
+   "mx": true,
+   "latam": false,
+   "es": "Autotransporte",
+   "en": "Trucking",
+   "pt": "Transporte rodoviário",
+   "titular": {
+    "es": "El diésel en EE. UU. sigue en 6.16 dólares por galón aunque la gasolina bajó de 4",
+    "en": "US diesel stays at $6.16 a gallon even as gasoline falls below $4",
+    "pt": "O diesel nos EUA segue em 6,16 dólares por galão, embora a gasolina tenha caído abaixo de 4"
+   },
+   "x": {
+    "es": "La gasolina promedio bajó a 3.98 dólares por galón, la primera vez abajo de 4 desde julio, pero el diésel está en 6.16 (3.74 hace un año) porque las exportaciones de combustible de Medio Oriente siguen por debajo de antes de la guerra.",
+    "en": "Average gasoline fell to $3.98 a gallon, below $4 for the first time since July, but diesel is at $6.16 ($3.74 a year ago) because Middle East fuel exports remain below pre-war levels.",
+    "pt": "A gasolina média caiu para 3,98 dólares por galão, abaixo de 4 pela primeira vez desde julho, mas o diesel está em 6,16 (3,74 há um ano) porque as exportações de combustível do Oriente Médio seguem abaixo de antes da guerra."
+   },
+   "scm": {
+    "es": "Negocia que el recargo de combustible de tus fletes se calcule con el índice semanal de diésel, no con el precio del crudo.",
+    "en": "Negotiate fuel surcharges based on the weekly diesel index, not crude prices.",
+    "pt": "Negocie que a sobretaxa de combustível dos fretes seja calculada com o índice semanal do diesel, não com o preço do petróleo."
+   },
+   "fuentes": [
+    {
+     "t": "Oilprice.com: la gasolina en EE. UU. baja de 4 dólares por galón; el diésel sigue arriba de 6 (10 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/average-u-gasoline-price-dips-160000575.html"
+    }
+   ]
+  },
   {
    "id": "energia",
    "dir": "down",
@@ -17,14 +48,14 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El Brent sigue abajo de 91 dólares y acumula −22% en noviembre",
-    "en": "Brent stays below $91 and is down 22% in November",
-    "pt": "O Brent segue abaixo de 91 dólares e acumula −22% em novembro"
+    "es": "El crudo recorta su baja tras tocar mínimos de dos meses",
+    "en": "Crude pares losses after touching two-month lows",
+    "pt": "O petróleo reduz a queda após tocar mínimas de dois meses"
    },
    "x": {
-    "es": "A las 9:00 CDMX el Brent bajaba 2.2% a 90.55 dólares y el WTI 1.7% a 85.40. Marco Rubio dijo que no hacen falta operaciones de combate mayores contra Irán.",
-    "en": "At 10:00 a.m. ET Brent was down 2.2% at $90.55 and WTI 1.7% at $85.40. Marco Rubio said major combat operations against Iran are not needed.",
-    "pt": "Às 9h00 (Cidade do México) o Brent caía 2,2% para 90,55 dólares e o WTI 1,7% para 85,40. Marco Rubio disse que não são necessárias grandes operações de combate contra o Irã."
+    "es": "A las 11:32 CDMX el WTI bajaba 0.4% a 86.53 dólares y el Brent 0.5% a 92.14, después de tocar en la mañana su nivel más bajo desde agosto. El Brent acumula una caída fuerte en noviembre por la distensión con Irán.",
+    "en": "At 12:32 p.m. ET WTI was down 0.4% at $86.53 and Brent 0.5% at $92.14, after touching their lowest since August in the morning. Brent is sharply lower in November on easing with Iran.",
+    "pt": "Às 11h32 (Cidade do México) o WTI caía 0,4% para 86,53 dólares e o Brent 0,5% para 92,14, depois de tocar pela manhã o menor nível desde agosto. O Brent acumula forte queda em novembro pela distensão com o Irã."
    },
    "scm": {
     "es": "Pide que el recargo de combustible de la próxima semana refleje la baja acumulada del crudo.",
@@ -33,12 +64,12 @@
    },
    "fuentes": [
     {
-     "t": "AFP: bolsas mixtas por la perspectiva de la IA; el petróleo cae (10 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-asian-stock-rally-023930562.html"
+     "t": "Yahoo Finance: cotizaciones de índices, divisas, materias primas y bonos (10 nov 2026, 11:42 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     },
     {
-     "t": "Yahoo Finance: cotizaciones de índices, futuros, divisas, materias primas y bonos (10 nov 2026, 9:10 CDMX)",
-     "u": "https://finance.yahoo.com/markets/"
+     "t": "AFP: bolsas mixtas por la perspectiva de la IA; el petróleo cae (10 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-asian-stock-rally-023930562.html"
     }
    ]
   },
@@ -52,14 +83,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Las ventas de TSMC suben 59.7% en octubre, mientras Nvidia cae por segundo día",
-    "en": "TSMC's October sales rise 59.7% while Nvidia falls for a second day",
-    "pt": "As vendas da TSMC sobem 59,7% em outubro, enquanto a Nvidia cai pelo segundo dia"
+    "es": "Nvidia cae 6.6% por un reporte de envíos de chips a China; TSMC, AMD y Broadcom suben",
+    "en": "Nvidia falls 6.6% on a report of chip shipments to China; TSMC, AMD and Broadcom rise",
+    "pt": "A Nvidia cai 6,6% por uma reportagem sobre envios de chips à China; TSMC, AMD e Broadcom sobem"
    },
    "x": {
-    "es": "TSMC vendió 586,890 millones de dólares taiwaneses en octubre (unos 17,880 millones de dólares), 59.7% más que hace un año, por la demanda de chips para IA. Nvidia caía cerca de 4% en la apertura por la investigación sobre su director.",
-    "en": "TSMC sold NT$586.89 billion in October (about $17.88 billion), up 59.7% from a year earlier, on demand for AI chips. Nvidia fell about 4% at the open on the probe into its CEO.",
-    "pt": "A TSMC vendeu 586,89 bilhões de dólares taiwaneses em outubro (cerca de 17,88 bilhões de dólares), 59,7% a mais que há um ano, pela demanda de chips para IA. A Nvidia caía cerca de 4% na abertura pela investigação sobre seu CEO."
+    "es": "The Information reportó que al menos 7,500 millones de dólares en equipo de Nvidia llegaron a empresas chinas desde 2023 por una red ligada a la mujer investigada; Trump dijo que el FBI lo revisa. AMD y Broadcom subían cerca de 4% y TSMC reportó ventas de octubre 59.7% arriba de hace un año.",
+    "en": "The Information reported that at least $7.5 billion of Nvidia hardware reached Chinese companies since 2023 through a network linked to the woman under scrutiny; Trump said the FBI is looking into it. AMD and Broadcom rose about 4% and TSMC reported October sales up 59.7% from a year earlier.",
+    "pt": "The Information informou que pelo menos 7,5 bilhões de dólares em equipamentos da Nvidia chegaram a empresas chinesas desde 2023 por uma rede ligada à mulher investigada; Trump disse que o FBI está analisando. AMD e Broadcom subiam cerca de 4% e a TSMC informou vendas de outubro 59,7% acima de um ano antes."
    },
    "scm": {
     "es": "La capacidad de chips avanzados sigue apretada: asegura con tiempo tus compras de servidores para 2027.",
@@ -68,12 +99,12 @@
    },
    "fuentes": [
     {
-     "t": "GuruFocus: las ventas de octubre de TSMC suben 59.7% anual (10 nov 2026)",
-     "u": "https://finance.yahoo.com/technology/articles/nvidias-key-chip-supplier-reveals-144143948.html"
+     "t": "Yahoo Finance: Nvidia cae 6% por el reporte sobre envíos de chips a China ligados a la mujer investigada (10 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/article/nvidia-stock-drops-3-extending-decline-on-report-alleged-chinese-spy-linked-to-nvidia-ceo-aided-75-billion-in-china-chip-shipments-152654028.html"
     },
     {
-     "t": "24/7 Wall St.: Nvidia cae 4% por la investigación de su consejo sobre Jensen Huang (10 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-4-board-probe-145608731.html"
+     "t": "GuruFocus: las ventas de octubre de TSMC suben 59.7% anual (10 nov 2026)",
+     "u": "https://finance.yahoo.com/technology/articles/nvidias-key-chip-supplier-reveals-144143948.html"
     }
    ]
   },

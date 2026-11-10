@@ -1,0 +1,82 @@
+{
+ "id": "2026-11-10-mediodia-latam",
+ "fecha": "2026-11-10",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:45 CDMX",
+ "es": {
+  "titular": "Las monedas de la región siguen débiles: el peso chileno cae 1.8% y el real 1.5%",
+  "esencial": [
+   "A las 11:42 CDMX el dólar subía 1.80% frente al peso chileno (984), 1.53% frente al real (5.59) y 1.22% frente al peso colombiano.",
+   "El Treasury en 5% y el dólar fuerte pegan a la región; el Ibovespa baja 0.55% y el TSX 0.83%.",
+   "Convierte pronto los cobros en monedas locales y escalona los pagos en dólares de esta semana."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura las monedas de la región se debilitaban tras el CPI de EE. UU., con el real −1.6%."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:27 CDMX el Ibovespa bajaba 0.55% (171,288.16) y a las 11:42 el S&P/TSX 0.83% (36,143.59). El dólar subía 1.80% frente al peso chileno (984.4), 1.53% frente al real (5.59) y 1.22% frente al peso colombiano (3,306.6)."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "La presión sobre las monedas se acentuó cuando el Treasury a 10 años superó 5%. Hoy salió en Brasil el acta del Copom, que mantuvo la Selic en 13.75%; el jueves se publica el IPCA de octubre."
+   }
+  ],
+  "scm": "Convierte pronto los cobros en monedas locales y escalona los pagos en dólares de esta semana."
+ },
+ "en": {
+  "titular": "The region's currencies stay weak: the Chilean peso falls 1.8% and the real 1.5%",
+  "esencial": [
+   "At 12:42 p.m. ET the dollar was up 1.80% against the Chilean peso (984), 1.53% against the real (5.59) and 1.22% against the Colombian peso.",
+   "The Treasury at 5% and a strong dollar hit the region; the Ibovespa falls 0.55% and the TSX 0.83%.",
+   "Convert local-currency receivables soon and stagger this week's dollar payments."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the region's currencies were weakening after US CPI, with the real −1.6%."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 12:27 p.m. ET the Ibovespa was down 0.55% (171,288.16) and at 12:42 the S&P/TSX 0.83% (36,143.59). The dollar was up 1.80% against the Chilean peso (984.4), 1.53% against the real (5.59) and 1.22% against the Colombian peso (3,306.6)."
+   },
+   {
+    "t": "What surprised",
+    "x": "Pressure on currencies grew as the 10-year Treasury topped 5%. Brazil released the minutes of the Copom meeting that held the Selic at 13.75%; October IPCA comes out Thursday."
+   }
+  ],
+  "scm": "Convert local-currency receivables soon and stagger this week's dollar payments."
+ },
+ "pt": {
+  "titular": "As moedas da região seguem fracas: o peso chileno cai 1,8% e o real 1,5%",
+  "esencial": [
+   "Às 11h42 (Cidade do México) o dólar subia 1,80% frente ao peso chileno (984), 1,53% frente ao real (5,59) e 1,22% frente ao peso colombiano.",
+   "O título de 10 anos em 5% e o dólar forte atingem a região; o Ibovespa cai 0,55% e o TSX 0,83%.",
+   "Converta logo os recebíveis em moeda local e escalone os pagamentos em dólares desta semana."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura as moedas da região enfraqueciam após o CPI dos EUA, com o real −1,6%."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h27 (Cidade do México) o Ibovespa caía 0,55% (171.288,16) e às 11h42 o S&P/TSX 0,83% (36.143,59). O dólar subia 1,80% frente ao peso chileno (984,4), 1,53% frente ao real (5,59) e 1,22% frente ao peso colombiano (3.306,6)."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A pressão sobre as moedas aumentou quando o título de 10 anos passou de 5%. No Brasil saiu hoje a ata do Copom, que manteve a Selic em 13,75%; na quinta sai o IPCA de outubro."
+   }
+  ],
+  "scm": "Converta logo os recebíveis em moeda local e escalone os pagamentos em dólares desta semana."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: cotizaciones de índices, divisas, materias primas y bonos (10 nov 2026, 11:42 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
