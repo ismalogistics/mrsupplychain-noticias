@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-10-cierre-mexico",
+ "fecha": "2026-11-10",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "15:20 CDMX",
+ "es": {
+  "titular": "El IPC cierra con +0.1% pese a la inflación de EE. UU.; el peso termina en 18.67 y los Cetes bajan a 6.20%",
+  "esencial": [
+   "El S&P/BMV IPC cerró con +0.14% (71,957.80) tras abrir con −0.6%; el peso cerró en 18.67 por dólar (−0.75%), según Bloomberg.",
+   "En la subasta de hoy el Cete a 28 días bajó 30 puntos base a 6.20%, la primera tras el recorte de Banxico a 6.25%.",
+   "Para supply chain: compra por tramos los dólares de noviembre y adelanta los pagos del lunes 16, día inhábil bancario en México."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El S&P/BMV IPC cerró con +0.14% (71,957.80), después de abrir con −0.60%. El peso cerró en 18.67 por dólar, 14 centavos más que el lunes (−0.75%), según Bloomberg citado por El Financiero; a las 15:16 CDMX cotizaba en 18.63. En la subasta de Cetes las tasas bajaron en todos los plazos: 28 días a 6.20% (−30 pb), 91 días a 6.47%, 182 días a 6.61% y 364 días a 6.95%."
+   },
+   {
+    "t": "Por qué",
+    "x": "El CPI de EE. UU. arriba de lo esperado llevó casi a 100% la probabilidad de un alza de la Fed en diciembre; Gabriela Siller, de Banco Base, atribuyó la depreciación del peso a esa especulación. Con Banxico en 6.25% y la Fed al alza, el diferencial de tasas se estrecha. La bolsa resistió porque la caída en EE. UU. se concentró en tecnología, que pesa poco en el IPC."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana el peso opera con menos liquidez porque el mercado de bonos de EE. UU. cierra por el Día de los Veteranos. El viernes 13 el PPI de EE. UU. es el siguiente dato que puede mover al peso. El lunes 16 cierran la BMV y los bancos por el Día de la Revolución, y el 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre."
+   }
+  ],
+  "scm": "Con el peso en 18.67, compra por tramos los dólares de noviembre y adelanta los pagos que vencen el lunes 16 (día inhábil bancario). Si tienes excedentes en pesos, considera que los Cetes de corto plazo ya pagan menos (6.20%) para planear tu capital de trabajo."
+ },
+ "en": {
+  "titular": "The IPC closes +0.1% despite US inflation; the peso ends at 18.67 and Cetes fall to 6.20%",
+  "esencial": [
+   "The S&P/BMV IPC closed +0.14% (71,957.80) after opening −0.6%; the peso closed at 18.67 per dollar (−0.75%), according to Bloomberg.",
+   "In today's auction the 28-day Cete fell 30 basis points to 6.20%, the first since Banxico's cut to 6.25%.",
+   "For supply chain: buy November dollars in tranches and move forward payments due Monday the 16th, a bank holiday in Mexico."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The S&P/BMV IPC closed +0.14% (71,957.80) after opening −0.60%. The peso closed at 18.67 per dollar, 14 cents weaker than Monday (−0.75%), according to Bloomberg as cited by El Financiero; at 3:16 p.m. Mexico City time it traded at 18.63. In the Cetes auction rates fell across all tenors: 28-day to 6.20% (−30 bp), 91-day to 6.47%, 182-day to 6.61% and 364-day to 6.95%."
+   },
+   {
+    "t": "Why",
+    "x": "Hotter-than-expected US CPI pushed the probability of a December Fed hike to nearly 100%; Gabriela Siller of Banco Base attributed the peso's slide to that speculation. With Banxico at 6.25% and the Fed heading higher, the rate differential narrows. Stocks held up because the US selloff was concentrated in tech, which weighs little in the IPC."
+   },
+   {
+    "t": "What to expect",
+    "x": "Tomorrow the peso trades with thinner liquidity as the US bond market closes for Veterans Day. US PPI on Friday the 13th is the next data point that can move the peso. On Monday the 16th the BMV and banks close for Revolution Day, and on November 24 INEGI publishes first-half November inflation."
+   }
+  ],
+  "scm": "With the peso at 18.67, buy November dollars in tranches and move forward payments due Monday the 16th (bank holiday). If you hold excess pesos, note that short-term Cetes now pay less (6.20%) when planning working capital."
+ },
+ "pt": {
+  "titular": "O IPC fecha com +0,1% apesar da inflação dos EUA; o peso termina a 18,67 e os Cetes caem para 6,20%",
+  "esencial": [
+   "O S&P/BMV IPC fechou com +0,14% (71.957,80) depois de abrir com −0,6%; o peso fechou a 18,67 por dólar (−0,75%), segundo a Bloomberg.",
+   "No leilão de hoje o Cete de 28 dias caiu 30 pontos-base para 6,20%, o primeiro após o corte do Banxico para 6,25%.",
+   "Para supply chain: compre em parcelas os dólares de novembro e antecipe os pagamentos da segunda, dia 16, feriado bancário no México."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O S&P/BMV IPC fechou com +0,14% (71.957,80), depois de abrir com −0,60%. O peso fechou a 18,67 por dólar, 14 centavos acima de segunda (−0,75%), segundo a Bloomberg citada pelo El Financiero; às 15h16 (Cidade do México) era cotado a 18,63. No leilão de Cetes as taxas caíram em todos os prazos: 28 dias para 6,20% (−30 pb), 91 dias para 6,47%, 182 dias para 6,61% e 364 dias para 6,95%."
+   },
+   {
+    "t": "Por quê",
+    "x": "O CPI dos EUA acima do esperado levou quase a 100% a probabilidade de alta do Fed em dezembro; Gabriela Siller, do Banco Base, atribuiu a desvalorização do peso a essa especulação. Com o Banxico em 6,25% e o Fed subindo, o diferencial de juros se estreita. A bolsa resistiu porque a queda nos EUA se concentrou em tecnologia, que pesa pouco no IPC."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã o peso opera com menos liquidez porque o mercado de títulos dos EUA fecha pelo Dia dos Veteranos. Na sexta, dia 13, o PPI dos EUA é o próximo dado que pode mexer com o peso. Na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução, e em 24 de novembro o INEGI publica a inflação da primeira quinzena de novembro."
+   }
+  ],
+  "scm": "Com o peso a 18,67, compre em parcelas os dólares de novembro e antecipe os pagamentos que vencem na segunda, dia 16 (feriado bancário). Se tiver excedentes em pesos, considere que os Cetes de curto prazo já pagam menos (6,20%) ao planejar o capital de giro."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), cierre del 10 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "El Financiero: inflación en EE. UU. y la Fed \"dan baje\" al peso (10 nov 2026)",
+   "u": "https://www.elfinanciero.com.mx/mercados/2026/11/10/peso-dolar-tipo-de-cambio-precio-hoy-10-de-noviembre-de-2026/"
+  },
+  {
+   "t": "Imagen Radio: así quedaron las tasas de Cetes, subasta del 10 nov 2026",
+   "u": "https://www.imagenradio.com.mx/finanzas/cetes-quedaron-tasas-semana-10-17-noviembre-2026"
+  },
+  {
+   "t": "La Opinión: precio del dólar en México, 10 nov 2026 (FIX publicado en el DOF)",
+   "u": "https://laopinion.com/2026/11/10/precio-del-dolar-en-mexico-hoy-10-de-noviembre-del-2026/"
+  },
+  {
+   "t": "FOX 4: Veterans Day 2026, qué abre y qué cierra (bolsa abierta, mercado de bonos cerrado)",
+   "u": "https://www.fox4news.com/news/veterans-day-open-closed-2026"
+  }
+ ]
+}

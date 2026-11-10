@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-10-cierre-global",
+ "fecha": "2026-11-10",
+ "momento": "cierre",
+ "mercado": "global",
+ "hora": "15:20 CDMX",
+ "es": {
+  "titular": "Wall Street cierra a la baja pero lejos de sus mínimos; Nvidia cae 5.5% y el Treasury termina en 4.98%",
+  "esencial": [
+   "El S&P 500 cerró con −0.38% (7,520.93), el Nasdaq con −0.74% y el Dow con −0.30%; a mediodía el S&P 500 llegó a perder 0.94%.",
+   "El CPI de octubre (+0.4% mensual) dejó en 90.5% la probabilidad de un alza de la Fed en diciembre, según CME FedWatch; Nvidia cayó 5.47%.",
+   "Para supply chain: con el Treasury en 4.98%, revisa el costo de financiar inventario; mañana el mercado de bonos de EE. UU. cierra por el Día de los Veteranos."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "Se cumplió la baja que se esperaba en la apertura, pero el mercado recortó la caída por la tarde. El S&P 500 cerró con −0.38% (7,520.93), el Nasdaq con −0.74% (25,065.88), el Dow con −0.30% (52,231.89) y el Russell 2000 con −0.68%; el VIX bajó 1.7% a 19.58. Nvidia cerró en 168.89 dólares (−5.47%), su nivel más bajo desde el 30 de marzo, mientras Broadcom subió 3.91% y AMD 1.30%. El Treasury a 10 años cerró en 4.98% (+12 pb) tras pasar de 5% a mediodía, y el índice del dólar subió 0.6% a 102.26. El WTI terminó en 86.30 dólares (−0.6%), el Brent en 91.92 (−0.7%), el oro en 4,038.60 (−1.8%) y el cobre en 6.27 dólares por libra (−1.2%). El Euro Stoxx 50 cerró con +0.59%."
+   },
+   {
+    "t": "Por qué",
+    "x": "El CPI de octubre subió 0.4% mensual y el subyacente 0.3%, una décima arriba de lo esperado en ambos casos. La probabilidad de un alza de la Fed en diciembre quedó en 90.5% y la de un alza de medio punto en 9.5%, según CME FedWatch. El gobernador Christopher Waller dijo que, con un dato alto, debería considerarse subir 50 pb. Nvidia sumó su segundo día de caídas por la investigación de su consejo sobre su director, Jensen Huang; a mediodía su RSI llegó a 23, su nivel de sobreventa más extremo desde junio de 2019, según Yahoo Finance."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "A las 15:06 CDMX los futuros del S&P 500 bajaban 0.27% y los del Nasdaq 0.43%, así que Asia abre sin impulso tras sus alzas del martes (KOSPI +4.39%, Nikkei +2.87%). Después del cierre reportan CoreWeave, D-Wave y Rigetti. Mañana miércoles, por el Día de los Veteranos, el mercado de bonos de EE. UU. cierra y las bolsas operan normal. El jueves sale la venta de casas usadas y el viernes el PPI de octubre (7:30 CDMX)."
+   }
+  ],
+  "scm": "Para mañana: 1) con el Treasury en 4.98% y un alza de la Fed casi segura, revisa los días de inventario que financias con deuda; 2) mañana no hay mercado de bonos en EE. UU. y la liquidez en dólares baja: no programes coberturas grandes; 3) sigue pidiendo que los recargos de flete se ajusten con el diésel, que sigue en 6.16 dólares por galón."
+ },
+ "en": {
+  "titular": "Wall Street closes lower but well off its lows; Nvidia falls 5.5% and the Treasury ends at 4.98%",
+  "esencial": [
+   "The S&P 500 closed −0.38% (7,520.93), the Nasdaq −0.74% and the Dow −0.30%; at midday the S&P 500 was down as much as 0.94%.",
+   "October CPI (+0.4% monthly) left the probability of a December Fed hike at 90.5%, according to CME FedWatch; Nvidia fell 5.47%.",
+   "For supply chain: with the Treasury at 4.98%, review the cost of financing inventory; tomorrow the US bond market closes for Veterans Day."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The decline expected at the open materialized, but the market pared losses in the afternoon. The S&P 500 closed −0.38% (7,520.93), the Nasdaq −0.74% (25,065.88), the Dow −0.30% (52,231.89) and the Russell 2000 −0.68%; the VIX fell 1.7% to 19.58. Nvidia closed at $168.89 (−5.47%), its lowest since March 30, while Broadcom rose 3.91% and AMD 1.30%. The 10-year Treasury closed at 4.98% (+12 bp) after topping 5% at midday, and the dollar index rose 0.6% to 102.26. WTI ended at $86.30 (−0.6%), Brent at $91.92 (−0.7%), gold at $4,038.60 (−1.8%) and copper at $6.27 per pound (−1.2%). The Euro Stoxx 50 closed +0.59%."
+   },
+   {
+    "t": "Why",
+    "x": "October CPI rose 0.4% monthly and core 0.3%, both a tenth above expectations. The probability of a December Fed hike stood at 90.5% and that of a half-point hike at 9.5%, according to CME FedWatch. Governor Christopher Waller said a hot reading should put a 50 bp hike on the table. Nvidia fell for a second day on its board's probe into CEO Jensen Huang; at midday its RSI hit 23, its most oversold reading since June 2019, according to Yahoo Finance."
+   },
+   {
+    "t": "What to expect",
+    "x": "At 4:06 p.m. ET S&P 500 futures were down 0.27% and Nasdaq futures 0.43%, so Asia opens without momentum after Tuesday's gains (KOSPI +4.39%, Nikkei +2.87%). CoreWeave, D-Wave and Rigetti report after the close. Tomorrow, Wednesday, the US bond market closes for Veterans Day while stocks trade normally. Existing-home sales come out Thursday and October PPI on Friday (8:30 a.m. ET)."
+   }
+  ],
+  "scm": "For tomorrow: 1) with the Treasury at 4.98% and a Fed hike nearly certain, review the inventory days you finance with debt; 2) there is no US bond market tomorrow and dollar liquidity is thinner: avoid scheduling large hedges; 3) keep asking for freight surcharges to track diesel, still at $6.16 a gallon."
+ },
+ "pt": {
+  "titular": "Wall Street fecha em queda, mas longe das mínimas; a Nvidia cai 5,5% e o Treasury termina em 4,98%",
+  "esencial": [
+   "O S&P 500 fechou com −0,38% (7.520,93), o Nasdaq com −0,74% e o Dow com −0,30%; no meio do dia o S&P 500 chegou a perder 0,94%.",
+   "O CPI de outubro (+0,4% mensal) deixou em 90,5% a probabilidade de alta do Fed em dezembro, segundo o CME FedWatch; a Nvidia caiu 5,47%.",
+   "Para supply chain: com o Treasury em 4,98%, revise o custo de financiar estoque; amanhã o mercado de títulos dos EUA fecha pelo Dia dos Veteranos."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "A queda esperada na abertura se confirmou, mas o mercado reduziu as perdas à tarde. O S&P 500 fechou com −0,38% (7.520,93), o Nasdaq com −0,74% (25.065,88), o Dow com −0,30% (52.231,89) e o Russell 2000 com −0,68%; o VIX caiu 1,7% para 19,58. A Nvidia fechou a 168,89 dólares (−5,47%), seu menor nível desde 30 de março, enquanto a Broadcom subiu 3,91% e a AMD 1,30%. O Treasury de 10 anos fechou em 4,98% (+12 pb) depois de passar de 5% no meio do dia, e o índice do dólar subiu 0,6% para 102,26. O WTI terminou a 86,30 dólares (−0,6%), o Brent a 91,92 (−0,7%), o ouro a 4.038,60 (−1,8%) e o cobre a 6,27 dólares por libra (−1,2%). O Euro Stoxx 50 fechou com +0,59%."
+   },
+   {
+    "t": "Por quê",
+    "x": "O CPI de outubro subiu 0,4% no mês e o núcleo 0,3%, um décimo acima do esperado em ambos os casos. A probabilidade de alta do Fed em dezembro ficou em 90,5% e a de meio ponto em 9,5%, segundo o CME FedWatch. O diretor Christopher Waller disse que, com um dado alto, uma alta de 50 pb deveria ser considerada. A Nvidia caiu pelo segundo dia pela investigação do seu conselho sobre o CEO, Jensen Huang; no meio do dia seu RSI chegou a 23, a leitura de sobrevenda mais extrema desde junho de 2019, segundo o Yahoo Finance."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Às 15h06 (Cidade do México) os futuros do S&P 500 caíam 0,27% e os do Nasdaq 0,43%, então a Ásia abre sem impulso depois das altas de terça (KOSPI +4,39%, Nikkei +2,87%). Depois do fechamento divulgam resultados CoreWeave, D-Wave e Rigetti. Amanhã, quarta, o mercado de títulos dos EUA fecha pelo Dia dos Veteranos e as bolsas operam normalmente. Na quinta saem as vendas de imóveis usados e na sexta o PPI de outubro (7h30, Cidade do México)."
+   }
+  ],
+  "scm": "Para amanhã: 1) com o Treasury em 4,98% e uma alta do Fed quase certa, revise os dias de estoque que você financia com dívida; 2) amanhã não há mercado de títulos nos EUA e a liquidez em dólar é menor: evite programar hedges grandes; 3) continue pedindo que as sobretaxas de frete acompanhem o diesel, ainda a 6,16 dólares por galão."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan por el CPI que refuerza el alza de la Fed; Nvidia se hunde (10 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
+  },
+  {
+   "t": "IBT vía Yahoo Finance: la inflación supera lo esperado y el alza de la Fed es casi un hecho (10 nov 2026)",
+   "u": "https://finance.yahoo.com/economy/policy/articles/inflation-came-hotter-expected-rate-210357827.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, materias primas, bonos y divisas al cierre (10 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "FOX 4: Veterans Day 2026, qué abre y qué cierra (bolsa abierta, mercado de bonos cerrado)",
+   "u": "https://www.fox4news.com/news/veterans-day-open-closed-2026"
+  }
+ ]
+}

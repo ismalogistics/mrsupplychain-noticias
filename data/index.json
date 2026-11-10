@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-10-cierre-global",
+   "fecha": "2026-11-10",
+   "momento": "cierre",
+   "mercado": "global",
+   "titular_es": "Wall Street cierra a la baja pero lejos de sus mínimos; Nvidia cae 5.5% y el Treasury termina en 4.98%",
+   "titular_en": "Wall Street closes lower but well off its lows; Nvidia falls 5.5% and the Treasury ends at 4.98%",
+   "titular_pt": "Wall Street fecha em queda, mas longe das mínimas; a Nvidia cai 5,5% e o Treasury termina em 4,98%"
+  },
+  {
+   "id": "2026-11-10-cierre-latam",
+   "fecha": "2026-11-10",
+   "momento": "cierre",
+   "mercado": "latam",
+   "titular_es": "La región cierra a la baja por el dólar fuerte: el peso chileno cae 1.7% y el real 1.4%",
+   "titular_en": "The region closes lower on a strong dollar: the Chilean peso falls 1.7% and the real 1.4%",
+   "titular_pt": "A região fecha em queda pelo dólar forte: o peso chileno cai 1,7% e o real 1,4%"
+  },
+  {
+   "id": "2026-11-10-cierre-mexico",
+   "fecha": "2026-11-10",
+   "momento": "cierre",
+   "mercado": "mexico",
+   "titular_es": "El IPC cierra con +0.1% pese a la inflación de EE. UU.; el peso termina en 18.67 y los Cetes bajan a 6.20%",
+   "titular_en": "The IPC closes +0.1% despite US inflation; the peso ends at 18.67 and Cetes fall to 6.20%",
+   "titular_pt": "O IPC fecha com +0,1% apesar da inflação dos EUA; o peso termina a 18,67 e os Cetes caem para 6,20%"
+  },
+  {
    "id": "2026-11-10-mediodia-global",
    "fecha": "2026-11-10",
    "momento": "mediodia",

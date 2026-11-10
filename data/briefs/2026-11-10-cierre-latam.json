@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-10-cierre-latam",
+ "fecha": "2026-11-10",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "15:20 CDMX",
+ "es": {
+  "titular": "La región cierra a la baja por el dólar fuerte: el peso chileno cae 1.7% y el real 1.4%",
+  "esencial": [
+   "El Ibovespa cerró con −0.45% (171,454.42) y el S&P/TSX de Canadá con −0.76% (36,170.45).",
+   "El dólar subió 1.73% frente al peso chileno (983.7) y 1.40% frente al real (5.58) tras el CPI de EE. UU.",
+   "Convierte pronto los cobros en monedas locales y escalona los pagos en dólares de esta semana."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El Ibovespa cerró con −0.45% (171,454.42) y el S&P/TSX con −0.76% (36,170.45). Los ETF de MSCI bajaron 2.12% en Argentina, 1.70% en Chile y 1.46% en Perú, y el iCOLCAP de Colombia perdía 1.31% a las 14:27 CDMX."
+   },
+   {
+    "t": "Por qué",
+    "x": "El CPI de EE. UU. arriba de lo esperado subió el Treasury a 10 años a 4.98% y fortaleció al dólar (DXY +0.6%), lo que presiona a los activos de la región. La baja del cobre (−1.2%) pesó sobre Chile y Perú."
+   },
+   {
+    "t": "Monedas",
+    "x": "A las 15:15 CDMX el peso chileno estaba en 983.7 por dólar (dólar +1.73%), el real en 5.58 (+1.40%), el peso colombiano en 3,290 (+0.72%), el dólar canadiense en 1.419 (+0.50%), el sol en 3.41 (+0.02%) y el peso argentino en 1,545 (+0.05%)."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Hoy salió el acta del Copom, que mantuvo la Selic en 13.75%; el jueves Brasil publica el IPCA de octubre. Mañana, sin mercado de bonos en EE. UU., las monedas de la región pueden operar con menos liquidez."
+   }
+  ],
+  "scm": "Convierte pronto los cobros en monedas locales y escalona los pagos en dólares de esta semana. Si compras cobre o concentrados en Chile o Perú, aprovecha la baja del día para cotizar."
+ },
+ "en": {
+  "titular": "The region closes lower on a strong dollar: the Chilean peso falls 1.7% and the real 1.4%",
+  "esencial": [
+   "The Ibovespa closed −0.45% (171,454.42) and Canada's S&P/TSX −0.76% (36,170.45).",
+   "The dollar rose 1.73% against the Chilean peso (983.7) and 1.40% against the real (5.58) after US CPI.",
+   "Convert local-currency receivables soon and stagger this week's dollar payments."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The Ibovespa closed −0.45% (171,454.42) and the S&P/TSX −0.76% (36,170.45). The MSCI ETFs fell 2.12% for Argentina, 1.70% for Chile and 1.46% for Peru, and Colombia's iCOLCAP was down 1.31% at 2:27 p.m. Mexico City time."
+   },
+   {
+    "t": "Why",
+    "x": "Hotter-than-expected US CPI pushed the 10-year Treasury to 4.98% and strengthened the dollar (DXY +0.6%), weighing on the region's assets. Lower copper (−1.2%) hit Chile and Peru."
+   },
+   {
+    "t": "Currencies",
+    "x": "At 3:15 p.m. Mexico City time the Chilean peso was at 983.7 per dollar (dollar +1.73%), the real at 5.58 (+1.40%), the Colombian peso at 3,290 (+0.72%), the Canadian dollar at 1.419 (+0.50%), the sol at 3.41 (+0.02%) and the Argentine peso at 1,545 (+0.05%)."
+   },
+   {
+    "t": "What to expect",
+    "x": "The minutes of the Copom, which held the Selic at 13.75%, came out today; Brazil publishes October IPCA on Thursday. Tomorrow, with no US bond market, the region's currencies may trade with thinner liquidity."
+   }
+  ],
+  "scm": "Convert local-currency receivables soon and stagger this week's dollar payments. If you buy copper or concentrates in Chile or Peru, use today's dip to request quotes."
+ },
+ "pt": {
+  "titular": "A região fecha em queda pelo dólar forte: o peso chileno cai 1,7% e o real 1,4%",
+  "esencial": [
+   "O Ibovespa fechou com −0,45% (171.454,42) e o S&P/TSX do Canadá com −0,76% (36.170,45).",
+   "O dólar subiu 1,73% frente ao peso chileno (983,7) e 1,40% frente ao real (R$ 5,58) após o CPI dos EUA.",
+   "Converta logo os recebíveis em moeda local e escalone os pagamentos em dólares desta semana."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O Ibovespa fechou com −0,45% (171.454,42) e o S&P/TSX com −0,76% (36.170,45). Os ETFs da MSCI caíram 2,12% na Argentina, 1,70% no Chile e 1,46% no Peru, e o iCOLCAP da Colômbia perdia 1,31% às 14h27 (Cidade do México)."
+   },
+   {
+    "t": "Por quê",
+    "x": "O CPI dos EUA acima do esperado elevou o Treasury de 10 anos para 4,98% e fortaleceu o dólar (DXY +0,6%), o que pressiona os ativos da região. A queda do cobre (−1,2%) pesou sobre Chile e Peru."
+   },
+   {
+    "t": "Moedas",
+    "x": "Às 15h15 (Cidade do México) o peso chileno estava em 983,7 por dólar (dólar +1,73%), o dólar em R$ 5,58 (+1,40%), o peso colombiano em 3.290 (+0,72%), o dólar canadense em 1,419 (+0,50%), o sol em 3,41 (+0,02%) e o peso argentino em 1.545 (+0,05%)."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Hoje saiu a ata do Copom, que manteve a Selic em 13,75%; na quinta o Brasil divulga o IPCA de outubro. Amanhã, sem mercado de títulos nos EUA, as moedas da região podem operar com menos liquidez."
+   }
+  ],
+  "scm": "Converta logo os recebíveis em moeda local e escalone os pagamentos em dólares desta semana. Se você compra cobre ou concentrados no Chile ou no Peru, aproveite a queda do dia para cotar."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, materias primas, bonos y divisas al cierre (10 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

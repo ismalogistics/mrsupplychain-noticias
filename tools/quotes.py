@@ -22,4 +22,4 @@ import urllib.parse
 syms = sys.argv[1:] or DEF
 with cf.ThreadPoolExecutor(8) as ex:
     for s, p, c, t, st in ex.map(q, syms):
-        print(f"{s:11} {p if p is None else round(p, 4):>12} {'' if c is None else f'{c:+.2f}%':>8}  {t} CDMX")
+        print(f"{s:11} {'n/d' if p is None else round(p, 4):>12} {'' if c is None else f'{c:+.2f}%':>8}  {t} CDMX")
