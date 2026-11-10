@@ -10,7 +10,7 @@
   };
   var data = null, cur = null, box = null;
   // Especial destacado arriba del hero (se oculta solo después de HASTA).
-  var ESP = { url: BASE + 'especiales/elecciones-eeuu-2026/?utm_source=home&utm_medium=banner&utm_campaign=elecciones2026', hasta: '2026-11-30T23:59:00-06:00',
+  var ESP = { url: BASE + 'especiales/elecciones-eeuu-2026/?utm_source=home&utm_medium=banner&utm_campaign=elecciones2026', hasta: '2026-11-09T18:00:00-06:00',
     es: { k: 'Especial · Elecciones EE. UU. 2026', h: 'Lo que se juega supply chain, eslabón por eslabón', s: 'Estado por estado, México, cada país de LATAM y cada región del mundo: qué cambia con el resultado y qué no.', b: 'Ver el especial' },
     en: { k: 'Special · US Elections 2026', h: 'What’s at stake for supply chains, link by link', s: 'State by state, Mexico, each LATAM country and each world region: what the result changes and what it doesn’t.', b: 'See the special' },
     pt: { k: 'Especial · Eleições EUA 2026', h: 'O que está em jogo para supply chain, elo por elo', s: 'Estado por estado, México, cada país da América Latina e cada região do mundo: o que o resultado muda e o que não muda.', b: 'Ver o especial' } };
