@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-10-apertura-global",
+   "fecha": "2026-11-10",
+   "momento": "apertura",
+   "mercado": "global",
+   "titular_es": "Wall Street abre a la baja tras una inflación más alta de lo esperado; el Treasury a 10 años sube a 4.99%",
+   "titular_en": "Wall Street opens lower after hotter-than-expected inflation; the 10-year Treasury rises to 4.99%",
+   "titular_pt": "Wall Street abre em queda após inflação acima do esperado; o título de 10 anos sobe para 4,99%"
+  },
+  {
+   "id": "2026-11-10-apertura-latam",
+   "fecha": "2026-11-10",
+   "momento": "apertura",
+   "mercado": "latam",
+   "titular_es": "Las monedas de la región se debilitan tras la inflación de EE. UU.; el real cae 1.6%",
+   "titular_en": "The region's currencies weaken after US inflation; the real falls 1.6%",
+   "titular_pt": "As moedas da região enfraquecem após a inflação dos EUA; o real cai 1,6%"
+  },
+  {
+   "id": "2026-11-10-apertura-mexico",
+   "fecha": "2026-11-10",
+   "momento": "apertura",
+   "mercado": "mexico",
+   "titular_es": "El IPC abre con −0.6% y el peso se debilita a 18.69 tras la inflación de EE. UU.",
+   "titular_en": "The IPC opens −0.6% and the peso weakens to 18.69 after US inflation",
+   "titular_pt": "O IPC abre com −0,6% e o peso enfraquece para 18,69 após a inflação dos EUA"
+  },
+  {
    "id": "2026-11-10-premercado-global",
    "fecha": "2026-11-10",
    "momento": "premercado",

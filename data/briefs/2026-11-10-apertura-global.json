@@ -1,0 +1,106 @@
+{
+ "id": "2026-11-10-apertura-global",
+ "fecha": "2026-11-10",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:10 CDMX",
+ "es": {
+  "titular": "Wall Street abre a la baja tras una inflación más alta de lo esperado; el Treasury a 10 años sube a 4.99%",
+  "esencial": [
+   "A las 9:10 CDMX el S&P 500 bajaba 0.15%, el Dow 0.32% y el Nasdaq quedaba plano; Nvidia caía cerca de 4%.",
+   "El CPI de octubre (+0.4% mensual) superó lo esperado y elevó la probabilidad de un alza de la Fed; el bono a 10 años sube 12 puntos base.",
+   "Para supply chain: el Brent sigue abajo de 91 dólares, pero las tasas más altas encarecen financiar inventario."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "Como anticipaban los futuros tras el CPI, Wall Street abrió con ligeras bajas. A las 9:10 CDMX el S&P 500 bajaba 0.15% (7,538.41), el Dow 0.32% (52,222.90) y el Nasdaq 0.01% (25,250.93); el Russell 2000 perdía 0.86%. Nvidia caía cerca de 4% (alrededor de 170.67 dólares) por segundo día por la investigación sobre Jensen Huang. El Treasury a 10 años subía a 4.99%, el índice del dólar 0.4% a 102.10, el WTI bajaba 1.7% a 85.40 dólares, el Brent 2.2% a 90.55 y el oro 1.5% a 4,054.60."
+   },
+   {
+    "t": "Asia y Europa",
+    "x": "Asia cerró con fuertes alzas: KOSPI +4.39% (5,239.13), Nikkei +2.87% (60,459.58), Hang Seng +0.31% y Shanghái +0.40%. En Europa, el Euro Stoxx 50 subía 0.90%, el DAX 0.68% y el CAC 40 0.75%; el FTSE 100 quedaba plano (−0.07%)."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "El mercado digiere el CPI: el gobernador de la Fed Christopher Waller dijo que la inflación sigue demasiado alta, y la mayoría de los inversionistas ya da por casi segura un alza en diciembre. En petróleo, el secretario de Estado Marco Rubio dijo que no hacen falta operaciones de combate mayores contra Irán; el Brent acumula una baja de cerca de 22% en noviembre."
+   },
+   {
+    "t": "La semana que viene",
+    "x": "Jueves 12: venta de casas usadas en EE. UU. Viernes 13: PPI de octubre (7:30 CDMX). Lunes 16: cierran la BMV y los bancos en México. Viernes 20: vence la prórroga de las pláticas con los vigilantes de Los Ángeles–Long Beach."
+   }
+  ],
+  "scm": "Para hoy: 1) el crudo sigue bajando: pide que el recargo de combustible de la próxima semana lo refleje; 2) con el bono a 10 años cerca de 5%, revisa el costo de financiar inventario y los días de cobertura; 3) no cierres de golpe compras grandes en dólares mientras el mercado asimila el CPI."
+ },
+ "en": {
+  "titular": "Wall Street opens lower after hotter-than-expected inflation; the 10-year Treasury rises to 4.99%",
+  "esencial": [
+   "At 10:10 a.m. ET the S&P 500 was down 0.15%, the Dow 0.32% and the Nasdaq flat; Nvidia fell about 4%.",
+   "October CPI (+0.4% month over month) beat forecasts and lifted the odds of a Fed hike; the 10-year yield rises 12 basis points.",
+   "For supply chain: Brent stays below $91, but higher rates make financing inventory costlier."
+  ],
+  "bloques": [
+   {
+    "t": "Opening",
+    "x": "As futures signaled after CPI, Wall Street opened slightly lower. At 10:10 a.m. ET the S&P 500 was down 0.15% (7,538.41), the Dow 0.32% (52,222.90) and the Nasdaq 0.01% (25,250.93); the Russell 2000 lost 0.86%. Nvidia fell about 4% (around $170.67) for a second day on the probe into Jensen Huang. The 10-year Treasury rose to 4.99%, the dollar index 0.4% to 102.10, WTI fell 1.7% to $85.40, Brent 2.2% to $90.55 and gold 1.5% to $4,054.60."
+   },
+   {
+    "t": "Asia and Europe",
+    "x": "Asia closed sharply higher: KOSPI +4.39% (5,239.13), Nikkei +2.87% (60,459.58), Hang Seng +0.31% and Shanghai +0.40%. In Europe, the Euro Stoxx 50 was up 0.90%, the DAX 0.68% and the CAC 40 0.75%; the FTSE 100 was flat (−0.07%)."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The market is digesting CPI: Fed Governor Christopher Waller said inflation remains too high, and most investors now see a December hike as nearly certain. In oil, Secretary of State Marco Rubio said major combat operations against Iran are not needed; Brent is down about 22% in November."
+   },
+   {
+    "t": "The week ahead",
+    "x": "Thursday 12: US existing home sales. Friday 13: October PPI (8:30 a.m. ET). Monday 16: the BMV and banks close in Mexico. Friday 20: the extension of talks with the Los Angeles–Long Beach watchmen expires."
+   }
+  ],
+  "scm": "For today: 1) crude keeps falling: ask for next week's fuel surcharge to reflect it; 2) with the 10-year near 5%, review inventory financing costs and days of cover; 3) don't close large dollar purchases all at once while the market absorbs CPI."
+ },
+ "pt": {
+  "titular": "Wall Street abre em queda após inflação acima do esperado; o título de 10 anos sobe para 4,99%",
+  "esencial": [
+   "Às 9h10 (Cidade do México) o S&P 500 caía 0,15%, o Dow 0,32% e o Nasdaq ficava estável; a Nvidia caía cerca de 4%.",
+   "O CPI de outubro (+0,4% no mês) superou o esperado e elevou a probabilidade de alta do Fed; o título de 10 anos sobe 12 pontos-base.",
+   "Para supply chain: o Brent segue abaixo de 91 dólares, mas os juros mais altos encarecem financiar estoque."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Como antecipavam os futuros após o CPI, Wall Street abriu em leve queda. Às 9h10 (Cidade do México) o S&P 500 caía 0,15% (7.538,41), o Dow 0,32% (52.222,90) e o Nasdaq 0,01% (25.250,93); o Russell 2000 perdia 0,86%. A Nvidia caía cerca de 4% (por volta de 170,67 dólares) pelo segundo dia pela investigação sobre Jensen Huang. O título de 10 anos subia para 4,99%, o índice do dólar 0,4% para 102,10, o WTI caía 1,7% para 85,40 dólares, o Brent 2,2% para 90,55 e o ouro 1,5% para 4.054,60."
+   },
+   {
+    "t": "Ásia e Europa",
+    "x": "A Ásia fechou com fortes altas: KOSPI +4,39% (5.239,13), Nikkei +2,87% (60.459,58), Hang Seng +0,31% e Xangai +0,40%. Na Europa, o Euro Stoxx 50 subia 0,90%, o DAX 0,68% e o CAC 40 0,75%; o FTSE 100 ficava estável (−0,07%)."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "O mercado digere o CPI: o diretor do Fed Christopher Waller disse que a inflação segue alta demais, e a maioria dos investidores já vê quase certa uma alta em dezembro. No petróleo, o secretário de Estado Marco Rubio disse que não são necessárias grandes operações de combate contra o Irã; o Brent acumula queda de cerca de 22% em novembro."
+   },
+   {
+    "t": "A semana que vem",
+    "x": "Quinta 12: venda de imóveis usados nos EUA. Sexta 13: PPI de outubro (7h30, Cidade do México). Segunda 16: a BMV e os bancos fecham no México. Sexta 20: vence a prorrogação das negociações com os vigilantes de Los Angeles–Long Beach."
+   }
+  ],
+  "scm": "Para hoje: 1) o petróleo segue caindo: peça que a sobretaxa de combustível da próxima semana reflita isso; 2) com o título de 10 anos perto de 5%, revise o custo de financiar estoque e os dias de cobertura; 3) não feche de uma vez compras grandes em dólares enquanto o mercado assimila o CPI."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: cotizaciones de índices, futuros, divisas, materias primas y bonos (10 nov 2026, 9:10 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "AP: la inflación de EE. UU. de octubre sube 0.4% mensual, más de lo esperado (10 nov 2026)",
+   "u": "https://finance.yahoo.com/economy/articles/inflation-stronger-expected-october-underscoring-133432261.html"
+  },
+  {
+   "t": "AFP: bolsas mixtas por la perspectiva de la IA; el petróleo cae (10 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-asian-stock-rally-023930562.html"
+  },
+  {
+   "t": "24/7 Wall St.: Nvidia cae 4% por la investigación de su consejo sobre Jensen Huang (10 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-4-board-probe-145608731.html"
+  }
+ ]
+}

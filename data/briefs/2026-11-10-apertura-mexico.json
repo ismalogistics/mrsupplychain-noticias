@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-10-apertura-mexico",
+ "fecha": "2026-11-10",
+ "momento": "apertura",
+ "mercado": "mexico",
+ "hora": "09:10 CDMX",
+ "es": {
+  "titular": "El IPC abre con −0.6% y el peso se debilita a 18.69 tras la inflación de EE. UU.",
+  "esencial": [
+   "A las 8:50 CDMX el IPC bajaba 0.60% (71,426.80) y a las 9:10 el peso estaba en 18.69 por dólar.",
+   "El CPI de EE. UU. arriba de lo esperado fortalece al dólar y sube las tasas, lo que presiona al peso desde cerca de 18.50 en la madrugada.",
+   "Compra por tramos los dólares de noviembre y adelanta los pagos del lunes 16, cuando no abren los bancos."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "El S&P/BMV IPC abrió con baja: a las 8:50 CDMX perdía 0.60% (71,426.80), tras subir 0.65% el lunes. El peso, que de madrugada cotizaba cerca de 18.50, estaba a las 9:10 CDMX en 18.69 por dólar (el dólar +0.71%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "El CPI de EE. UU. de octubre (+0.4% mensual) superó lo esperado y refuerza un alza de la Fed en diciembre, mientras Banxico tiene la tasa en 6.25% y la inflación de México subió a 3.75%. El diferencial de tasas se estrecha y eso pesa sobre el peso."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Hoy hay subasta de Cetes, la primera desde el recorte de Banxico a 6.25%. El lunes 16 cierran la BMV y los bancos por el Día de la Revolución."
+   }
+  ],
+  "scm": "Con el peso en 18.69, compra por tramos los dólares de noviembre en lugar de cerrar todo hoy, y adelanta los pagos que vencen el lunes 16."
+ },
+ "en": {
+  "titular": "The IPC opens −0.6% and the peso weakens to 18.69 after US inflation",
+  "esencial": [
+   "At 8:50 a.m. Mexico City time the IPC was down 0.60% (71,426.80) and at 9:10 the peso was at 18.69 per dollar.",
+   "Hotter US CPI strengthens the dollar and lifts rates, pressuring the peso from near 18.50 overnight.",
+   "Buy November dollars in tranches and move forward payments due Monday the 16th, a bank holiday."
+  ],
+  "bloques": [
+   {
+    "t": "Opening",
+    "x": "The S&P/BMV IPC opened lower: at 8:50 a.m. Mexico City time it was down 0.60% (71,426.80) after rising 0.65% on Monday. The peso, which traded near 18.50 overnight, was at 18.69 per dollar at 9:10 a.m. (dollar +0.71%)."
+   },
+   {
+    "t": "Context",
+    "x": "US October CPI (+0.4% month over month) beat forecasts and reinforces a December Fed hike, while Banxico's rate is 6.25% and Mexico's inflation rose to 3.75%. The narrowing rate gap weighs on the peso."
+   },
+   {
+    "t": "What to expect today",
+    "x": "There is a Cetes auction today, the first since Banxico's cut to 6.25%. On Monday the 16th, the BMV and banks close for Revolution Day."
+   }
+  ],
+  "scm": "With the peso at 18.69, buy November dollars in tranches rather than all today, and move forward payments due Monday the 16th."
+ },
+ "pt": {
+  "titular": "O IPC abre com −0,6% e o peso enfraquece para 18,69 após a inflação dos EUA",
+  "esencial": [
+   "Às 8h50 (Cidade do México) o IPC caía 0,60% (71.426,80) e às 9h10 o peso estava a 18,69 por dólar.",
+   "O CPI dos EUA acima do esperado fortalece o dólar e eleva os juros, o que pressiona o peso, que estava perto de 18,50 na madrugada.",
+   "Compre em parcelas os dólares de novembro e antecipe os pagamentos da segunda, dia 16, quando os bancos não abrem."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "O S&P/BMV IPC abriu em queda: às 8h50 (Cidade do México) perdia 0,60% (71.426,80), após subir 0,65% na segunda. O peso, que na madrugada estava perto de 18,50, estava às 9h10 a 18,69 por dólar (dólar +0,71%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "O CPI dos EUA de outubro (+0,4% no mês) superou o esperado e reforça a alta do Fed em dezembro, enquanto o Banxico tem a taxa em 6,25% e a inflação do México subiu para 3,75%. O diferencial de juros se estreita e isso pesa sobre o peso."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Hoje há leilão de Cetes, o primeiro desde o corte do Banxico para 6,25%. Na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução."
+   }
+  ],
+  "scm": "Com o peso a 18,69, compre em parcelas os dólares de novembro em vez de fechar tudo hoje, e antecipe os pagamentos que vencem na segunda, dia 16."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: cotizaciones de índices, futuros, divisas, materias primas y bonos (10 nov 2026, 9:10 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Infobae: el dólar abre el 10 de noviembre en alrededor de 18.50 pesos",
+   "u": "https://www.infobae.com/mexico/2026/11/10/dolar-hoy-en-mexico-cotizacion-de-apertura-del-10-de-noviembre/"
+  },
+  {
+   "t": "AP: la inflación de EE. UU. de octubre sube 0.4% mensual, más de lo esperado (10 nov 2026)",
+   "u": "https://finance.yahoo.com/economy/articles/inflation-stronger-expected-october-underscoring-133432261.html"
+  }
+ ]
+}

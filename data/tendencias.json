@@ -1,40 +1,110 @@
 {
- "actualizado": "2026-11-09T21:50:41Z",
- "fecha": "2026-11-09",
+ "actualizado": "2026-11-10T15:13:39Z",
+ "fecha": "2026-11-10",
  "titular": {
-  "es": "Cierre del lunes: el crudo cae 5.6%, la luz empuja la inflación de México y los chips suben salvo Nvidia",
-  "en": "Monday close: crude falls 5.6%, power pushes Mexico's inflation and chips rise except Nvidia",
-  "pt": "Fechamento de segunda: o petróleo cai 5,6%, a energia empurra a inflação do México e os chips sobem, exceto a Nvidia"
+  "es": "El crudo sigue a la baja, TSMC vende 60% más y el ferrocarril espera repunte: la apertura del martes",
+  "en": "Crude keeps falling, TSMC sells 60% more and rail awaits a rebound: Tuesday open",
+  "pt": "O petróleo segue em queda, a TSMC vende 60% mais e o ferroviário espera reação: a abertura de terça"
  },
  "items": [
   {
-   "id": "puertos",
-   "dir": "up",
+   "id": "energia",
+   "dir": "down",
    "calor": 3,
    "mx": true,
    "latam": true,
-   "es": "Marítimo y puertos",
-   "en": "Maritime and ports",
-   "pt": "Marítimo e portos",
+   "es": "Energía y combustibles",
+   "en": "Energy and fuels",
+   "pt": "Energia e combustíveis",
    "titular": {
-    "es": "Long Beach aleja la huelga: los vigilantes y los puertos extienden las pláticas hasta el 20 de noviembre",
-    "en": "Long Beach pushes back the strike: watchmen and ports extend talks to Nov. 20",
-    "pt": "Long Beach afasta a greve: vigilantes e portos estendem as negociações até 20 de novembro"
+    "es": "El Brent sigue abajo de 91 dólares y acumula −22% en noviembre",
+    "en": "Brent stays below $91 and is down 22% in November",
+    "pt": "O Brent segue abaixo de 91 dólares e acumula −22% em novembro"
    },
    "x": {
-    "es": "La Asociación Marítima del Pacífico (PMA) y el sindicato ILWU Local 26, con unos 250 vigilantes, acordaron extender la negociación hasta el 20 de noviembre. Una huelga habría afectado terminales con cerca de 85% de la carga de Long Beach y 33% de la de Los Ángeles.",
-    "en": "The Pacific Maritime Association (PMA) and ILWU Local 26, with about 250 watchmen, agreed to extend talks through Nov. 20. A strike would have hit terminals handling about 85% of Long Beach cargo and 33% of Los Angeles cargo.",
-    "pt": "A Associação Marítima do Pacífico (PMA) e o sindicato ILWU Local 26, com cerca de 250 vigilantes, acordaram estender a negociação até 20 de novembro. Uma greve teria afetado terminais com cerca de 85% da carga de Long Beach e 33% da de Los Angeles."
+    "es": "A las 9:00 CDMX el Brent bajaba 2.2% a 90.55 dólares y el WTI 1.7% a 85.40. Marco Rubio dijo que no hacen falta operaciones de combate mayores contra Irán.",
+    "en": "At 10:00 a.m. ET Brent was down 2.2% at $90.55 and WTI 1.7% at $85.40. Marco Rubio said major combat operations against Iran are not needed.",
+    "pt": "Às 9h00 (Cidade do México) o Brent caía 2,2% para 90,55 dólares e o WTI 1,7% para 85,40. Marco Rubio disse que não são necessárias grandes operações de combate contra o Irã."
    },
    "scm": {
-    "es": "Usa estas dos semanas para retirar contenedores y dejar listo el desvío por si no hay acuerdo el 20.",
-    "en": "Use these two weeks to pick up containers and have the diversion ready in case there is no deal on the 20th.",
-    "pt": "Use estas duas semanas para retirar contêineres e deixar pronto o desvio caso não haja acordo no dia 20."
+    "es": "Pide que el recargo de combustible de la próxima semana refleje la baja acumulada del crudo.",
+    "en": "Ask for next week's fuel surcharge to reflect crude's cumulative drop.",
+    "pt": "Peça que a sobretaxa de combustível da próxima semana reflita a queda acumulada do petróleo."
    },
    "fuentes": [
     {
-     "t": "GV Wire (Reuters): empleadores y vigilantes de los puertos de California extienden las pláticas al 20 de noviembre",
-     "u": "https://gvwire.com/2026/11/07/employers-watchmen-at-california-ports-extend-contract-talks/"
+     "t": "AFP: bolsas mixtas por la perspectiva de la IA; el petróleo cae (10 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-asian-stock-rally-023930562.html"
+    },
+    {
+     "t": "Yahoo Finance: cotizaciones de índices, futuros, divisas, materias primas y bonos (10 nov 2026, 9:10 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
+    }
+   ]
+  },
+  {
+   "id": "semis",
+   "dir": "mixed",
+   "calor": 3,
+   "mx": false,
+   "latam": false,
+   "es": "Semiconductores y electrónica",
+   "en": "Semiconductors and electronics",
+   "pt": "Semicondutores e eletrônicos",
+   "titular": {
+    "es": "Las ventas de TSMC suben 59.7% en octubre, mientras Nvidia cae por segundo día",
+    "en": "TSMC's October sales rise 59.7% while Nvidia falls for a second day",
+    "pt": "As vendas da TSMC sobem 59,7% em outubro, enquanto a Nvidia cai pelo segundo dia"
+   },
+   "x": {
+    "es": "TSMC vendió 586,890 millones de dólares taiwaneses en octubre (unos 17,880 millones de dólares), 59.7% más que hace un año, por la demanda de chips para IA. Nvidia caía cerca de 4% en la apertura por la investigación sobre su director.",
+    "en": "TSMC sold NT$586.89 billion in October (about $17.88 billion), up 59.7% from a year earlier, on demand for AI chips. Nvidia fell about 4% at the open on the probe into its CEO.",
+    "pt": "A TSMC vendeu 586,89 bilhões de dólares taiwaneses em outubro (cerca de 17,88 bilhões de dólares), 59,7% a mais que há um ano, pela demanda de chips para IA. A Nvidia caía cerca de 4% na abertura pela investigação sobre seu CEO."
+   },
+   "scm": {
+    "es": "La capacidad de chips avanzados sigue apretada: asegura con tiempo tus compras de servidores para 2027.",
+    "en": "Advanced chip capacity remains tight: secure 2027 server purchases early.",
+    "pt": "A capacidade de chips avançados segue apertada: garanta com antecedência suas compras de servidores para 2027."
+   },
+   "fuentes": [
+    {
+     "t": "GuruFocus: las ventas de octubre de TSMC suben 59.7% anual (10 nov 2026)",
+     "u": "https://finance.yahoo.com/technology/articles/nvidias-key-chip-supplier-reveals-144143948.html"
+    },
+    {
+     "t": "24/7 Wall St.: Nvidia cae 4% por la investigación de su consejo sobre Jensen Huang (10 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-4-board-probe-145608731.html"
+    }
+   ]
+  },
+  {
+   "id": "ferroviario",
+   "dir": "down",
+   "calor": 2,
+   "mx": true,
+   "latam": false,
+   "es": "Ferroviario",
+   "en": "Rail",
+   "pt": "Ferroviário",
+   "titular": {
+    "es": "FreightCar America entregó 662 carros de ferrocarril en el tercer trimestre, la mitad que hace un año",
+    "en": "FreightCar America delivered 662 railcars in Q3, half as many as a year earlier",
+    "pt": "A FreightCar America entregou 662 vagões no terceiro trimestre, metade de um ano antes"
+   },
+   "x": {
+    "es": "Sus ingresos cayeron a 76.5 millones de dólares (160.5 millones un año antes), aunque su cartera de pedidos sube 28% a 284.5 millones. La empresa dice que algunos indicadores mejoran, pero la demanda de carros todavía no repunta.",
+    "en": "Revenue fell to $76.5 million ($160.5 million a year earlier), although its backlog rose 28% to $284.5 million. The company says some indicators are improving, but railcar demand has not yet picked up.",
+    "pt": "A receita caiu para 76,5 milhões de dólares (160,5 milhões um ano antes), embora a carteira de pedidos suba 28% para 284,5 milhões. A empresa diz que alguns indicadores melhoram, mas a demanda por vagões ainda não reagiu."
+   },
+   "scm": {
+    "es": "Si rentas o compras carros de ferrocarril, es buen momento para negociar plazos de entrega.",
+    "en": "If you lease or buy railcars, it is a good time to negotiate delivery terms.",
+    "pt": "Se você aluga ou compra vagões, é um bom momento para negociar prazos de entrega."
+   },
+   "fuentes": [
+    {
+     "t": "FreightCar America: resultados del tercer trimestre de 2026",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/freightcar-america-inc-reports-third-211500805.html"
     }
    ]
   },
@@ -70,68 +140,33 @@
    ]
   },
   {
-   "id": "energia",
-   "dir": "down",
+   "id": "puertos",
+   "dir": "up",
    "calor": 3,
    "mx": true,
    "latam": true,
-   "es": "Energía y combustibles",
-   "en": "Energy and fuels",
-   "pt": "Energia e combustíveis",
+   "es": "Marítimo y puertos",
+   "en": "Maritime and ports",
+   "pt": "Marítimo e portos",
    "titular": {
-    "es": "El Brent cierra con −5.6% a 92.81 dólares y el WTI con −4.2% a 86.98",
-    "en": "Brent closes −5.6% at $92.81 and WTI −4.2% at $86.98",
-    "pt": "O Brent fecha com −5,6% a 92,81 dólares e o WTI com −4,2% a 86,98"
+    "es": "Long Beach aleja la huelga: los vigilantes y los puertos extienden las pláticas hasta el 20 de noviembre",
+    "en": "Long Beach pushes back the strike: watchmen and ports extend talks to Nov. 20",
+    "pt": "Long Beach afasta a greve: vigilantes e portos estendem as negociações até 20 de novembro"
    },
    "x": {
-    "es": "Trump dijo que es muy poco probable que ordene nuevos ataques a Irán mientras avancen las pláticas, aunque siguen los ataques a barcos cerca de Ormuz. El Brent ya había caído 16% la semana pasada.",
-    "en": "Trump said new strikes on Iran are highly unlikely while talks progress, although attacks on ships near Hormuz continue. Brent had already fallen 16% last week.",
-    "pt": "Trump disse ser muito improvável ordenar novos ataques ao Irã enquanto as negociações avançarem, embora continuem os ataques a navios perto de Ormuz. O Brent já havia caído 16% na semana passada."
+    "es": "La Asociación Marítima del Pacífico (PMA) y el sindicato ILWU Local 26, con unos 250 vigilantes, acordaron extender la negociación hasta el 20 de noviembre. Una huelga habría afectado terminales con cerca de 85% de la carga de Long Beach y 33% de la de Los Ángeles.",
+    "en": "The Pacific Maritime Association (PMA) and ILWU Local 26, with about 250 watchmen, agreed to extend talks through Nov. 20. A strike would have hit terminals handling about 85% of Long Beach cargo and 33% of Los Angeles cargo.",
+    "pt": "A Associação Marítima do Pacífico (PMA) e o sindicato ILWU Local 26, com cerca de 250 vigilantes, acordaram estender a negociação até 20 de novembro. Uma greve teria afetado terminais com cerca de 85% da carga de Long Beach e 33% da de Los Angeles."
    },
    "scm": {
-    "es": "Pide que el recargo de combustible de la próxima semana refleje la baja del crudo.",
-    "en": "Ask for next week's fuel surcharge to reflect lower crude.",
-    "pt": "Peça que a sobretaxa de combustível da próxima semana reflita a queda do petróleo."
+    "es": "Usa estas dos semanas para retirar contenedores y dejar listo el desvío por si no hay acuerdo el 20.",
+    "en": "Use these two weeks to pick up containers and have the diversion ready in case there is no deal on the 20th.",
+    "pt": "Use estas duas semanas para retirar contêineres e deixar pronto o desvio caso não haja acordo no dia 20."
    },
    "fuentes": [
     {
-     "t": "Reuters: Wall Street sube porque la baja del petróleo modera el temor a la inflación; Nvidia cae (9 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html"
-    },
-    {
-     "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas al cierre (9 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/"
-    }
-   ]
-  },
-  {
-   "id": "semis",
-   "dir": "mixed",
-   "calor": 3,
-   "mx": false,
-   "latam": false,
-   "es": "Semiconductores y electrónica",
-   "en": "Semiconductors and electronics",
-   "pt": "Semicondutores e eletrônicos",
-   "titular": {
-    "es": "Los chips cierran al alza salvo Nvidia, que cae 4.27% y toca su mínimo desde marzo",
-    "en": "Chips close higher except Nvidia, which falls 4.27% and hits its lowest since March",
-    "pt": "Os chips fecham em alta, exceto a Nvidia, que cai 4,27% e toca sua mínima desde março"
-   },
-   "x": {
-    "es": "El índice de semiconductores de Filadelfia subía 6% a mediodía, con Marvell +9% y Broadcom +8%. Nvidia cerró en 178.67 dólares por la investigación de su consejo sobre su director, Jensen Huang.",
-    "en": "The Philadelphia Semiconductor Index was up 6% at midday, with Marvell +9% and Broadcom +8%. Nvidia closed at $178.67 on its board's probe into CEO Jensen Huang.",
-    "pt": "O índice de semicondutores da Filadélfia subia 6% no meio-dia, com Marvell +9% e Broadcom +8%. A Nvidia fechou em 178,67 dólares pela investigação do seu conselho sobre o CEO, Jensen Huang."
-   },
-   "scm": {
-    "es": "La volatilidad sigue: pide cotizaciones nuevas de servidores y GPU y no cierres contratos grandes esta semana.",
-    "en": "Volatility continues: request new quotes for servers and GPUs and avoid large contracts this week.",
-    "pt": "A volatilidade continua: peça novas cotações de servidores e GPUs e não feche contratos grandes nesta semana."
-   },
-   "fuentes": [
-    {
-     "t": "Reuters: Wall Street repunta con la baja del petróleo; Nvidia cae (9 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html"
+     "t": "GV Wire (Reuters): empleadores y vigilantes de los puertos de California extienden las pláticas al 20 de noviembre",
+     "u": "https://gvwire.com/2026/11/07/employers-watchmen-at-california-ports-extend-contract-talks/"
     }
    ]
   },
@@ -163,99 +198,6 @@
     {
      "t": "Reuters: Tyson se asocia con ganaderos y reabre un segundo turno en su planta de Amarillo, Texas",
      "u": "https://finance.yahoo.com/markets/commodities/articles/tyson-partner-rancher-group-restart-170217334.html"
-    }
-   ]
-  },
-  {
-   "id": "retail",
-   "dir": "down",
-   "calor": 2,
-   "mx": false,
-   "latam": false,
-   "es": "Retail y última milla",
-   "en": "Retail and last mile",
-   "pt": "Varejo e última milha",
-   "titular": {
-    "es": "The Children's Place se declara en bancarrota antes de la temporada alta",
-    "en": "The Children's Place files for bankruptcy ahead of peak season",
-    "pt": "A The Children's Place pede recuperação judicial antes da alta temporada"
-   },
-   "x": {
-    "es": "La cadena de ropa infantil, con unos 500 tiendas en Norteamérica, se acogió al capítulo 11 con deudas por más de 881 millones de dólares y busca venderse; las ofertas vencen el 9 de diciembre. Culpa a la inflación, los aranceles y la competencia.",
-    "en": "The children's apparel chain, with about 500 stores in North America, filed for Chapter 11 with over $881 million in debt and seeks a sale; bids are due Dec. 9. It blames inflation, tariffs and competition.",
-    "pt": "A rede de roupa infantil, com cerca de 500 lojas na América do Norte, entrou no capítulo 11 com dívidas de mais de 881 milhões de dólares e busca ser vendida; as ofertas vencem em 9 de dezembro. Culpa a inflação, as tarifas e a concorrência."
-   },
-   "scm": {
-    "es": "Si le vendes o le das servicio logístico, revisa tus cuentas por cobrar y pide pagos por adelantado.",
-    "en": "If you sell to it or provide logistics services, review receivables and ask for prepayment.",
-    "pt": "Se você vende para ela ou presta serviços logísticos, revise suas contas a receber e peça pagamento antecipado."
-   },
-   "fuentes": [
-    {
-     "t": "Retail Dive: The Children's Place se declara en bancarrota (capítulo 11)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/children-place-search-ownership-files-165200693.html"
-    }
-   ]
-  },
-  {
-   "id": "software",
-   "dir": "up",
-   "calor": 2,
-   "mx": false,
-   "latam": false,
-   "es": "Software, nube e IA",
-   "en": "Software, cloud and AI",
-   "pt": "Software, nuvem e IA",
-   "titular": {
-    "es": "Alphabet presenta dos chips de IA propios para competir con Nvidia y sube cerca de 3%",
-    "en": "Alphabet unveils two AI chips of its own to compete with Nvidia and rises about 3%",
-    "pt": "A Alphabet apresenta dois chips de IA próprios para competir com a Nvidia e sobe cerca de 3%"
-   },
-   "x": {
-    "es": "La matriz de Google anunció dos nuevos chips de IA. Más competencia en chips para centros de datos puede diversificar la oferta de capacidad de nube.",
-    "en": "Google's parent announced two new AI chips. More competition in data center chips can diversify the supply of cloud capacity.",
-    "pt": "A controladora do Google anunciou dois novos chips de IA. Mais concorrência em chips para data centers pode diversificar a oferta de capacidade de nuvem."
-   },
-   "scm": {
-    "es": "Si contratas capacidad de nube para IA, cotiza con más de un proveedor de chips o nube.",
-    "en": "If you buy cloud capacity for AI, quote with more than one chip or cloud provider.",
-    "pt": "Se você contrata capacidade de nuvem para IA, cote com mais de um fornecedor de chips ou nuvem."
-   },
-   "fuentes": [
-    {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben; Nvidia cae (9 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
-    }
-   ]
-  },
-  {
-   "id": "ferroviario",
-   "dir": "down",
-   "calor": 2,
-   "mx": true,
-   "latam": false,
-   "es": "Ferroviario",
-   "en": "Rail",
-   "pt": "Ferroviário",
-   "titular": {
-    "es": "Sigue el caso antidumping en EE. UU. contra los carros tanque mexicanos, con aranceles propuestos de cerca de 32%",
-    "en": "The US antidumping case against Mexican tank cars continues, with proposed duties near 32%",
-    "pt": "Segue o caso antidumping nos EUA contra os vagões-tanque mexicanos, com tarifas propostas de cerca de 32%"
-   },
-   "x": {
-    "es": "Peticiones antidumping y de subsidios contra carros tanque y sus partes fabricados en México proponen aranceles cercanos a 32%. La Comisión de Comercio Internacional de EE. UU. (USITC) abrió el caso de daño.",
-    "en": "Antidumping and countervailing petitions against Mexican-made tank cars and parts propose duties near 32%. The US International Trade Commission (USITC) opened the injury case.",
-    "pt": "Petições antidumping e de subsídios contra vagões-tanque e suas peças fabricados no México propõem tarifas perto de 32%. A Comissão de Comércio Internacional dos EUA (USITC) abriu o caso de dano."
-   },
-   "scm": {
-    "es": "Si compras o exportas carros tanque, revisa contratos y escenarios de costo con un arancel de 32%.",
-    "en": "If you buy or export tank cars, review contracts and cost scenarios with a 32% duty.",
-    "pt": "Se você compra ou exporta vagões-tanque, revise contratos e cenários de custo com uma tarifa de 32%."
-   },
-   "fuentes": [
-    {
-     "t": "Clark Hill: nuevas peticiones ponen a los carros tanque mexicanos en riesgo de aranceles cercanos a 32%",
-     "u": "https://www.clarkhill.com/news-events/news/new-antidumping-countervailing-duty-petitions-mexico-railway-tank-cars/"
     }
    ]
   }

@@ -1,0 +1,82 @@
+{
+ "id": "2026-11-10-apertura-latam",
+ "fecha": "2026-11-10",
+ "momento": "apertura",
+ "mercado": "latam",
+ "hora": "09:10 CDMX",
+ "es": {
+  "titular": "Las monedas de la región se debilitan tras la inflación de EE. UU.; el real cae 1.6%",
+  "esencial": [
+   "A las 9:10 CDMX el dólar subía 1.58% frente al real (5.59) y 1.25% frente al peso chileno (979).",
+   "El CPI de EE. UU. arriba de lo esperado fortalece al dólar y sube las tasas, lo que pega a las monedas de la región.",
+   "Convierte pronto los cobros en monedas locales y escalona los pagos en dólares de esta semana."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 8:55 CDMX el Ibovespa bajaba 0.31% (171,699.34) y a las 9:10 el S&P/TSX de Canadá 0.36% (36,314.16). En divisas, el dólar subía 1.58% frente al real (5.59), 1.25% frente al peso chileno (979.0) y 0.72% frente al peso colombiano (3,290)."
+   },
+   {
+    "t": "Contexto",
+    "x": "Tras las fuertes alzas del lunes (COLCAP +3.45%, Ibovespa +2.22%), la región resiente el dólar más fuerte por el CPI de EE. UU. La caída del crudo ayuda a los importadores, pero pesa sobre Colombia y Brasil."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "En Brasil sale hoy el acta del Copom, que mantuvo la Selic en 13.75%, y el jueves el IPCA de octubre."
+   }
+  ],
+  "scm": "Convierte pronto los cobros en monedas locales y escalona los pagos en dólares de esta semana. Con el crudo a la baja, pide revisar los recargos de flete en rutas regionales."
+ },
+ "en": {
+  "titular": "The region's currencies weaken after US inflation; the real falls 1.6%",
+  "esencial": [
+   "At 10:10 a.m. ET the dollar was up 1.58% against the real (5.59) and 1.25% against the Chilean peso (979).",
+   "Hotter US CPI strengthens the dollar and lifts rates, hitting the region's currencies.",
+   "Convert local-currency receivables soon and stagger this week's dollar payments."
+  ],
+  "bloques": [
+   {
+    "t": "Opening",
+    "x": "At 9:55 a.m. ET the Ibovespa was down 0.31% (171,699.34) and at 10:10 Canada's S&P/TSX 0.36% (36,314.16). In currencies, the dollar was up 1.58% against the real (5.59), 1.25% against the Chilean peso (979.0) and 0.72% against the Colombian peso (3,290)."
+   },
+   {
+    "t": "Context",
+    "x": "After Monday's strong gains (COLCAP +3.45%, Ibovespa +2.22%), the region feels the stronger dollar from US CPI. Lower crude helps importers but weighs on Colombia and Brazil."
+   },
+   {
+    "t": "What to expect today",
+    "x": "In Brazil, the minutes of the Copom meeting that held the Selic at 13.75% come out today, and October IPCA on Thursday."
+   }
+  ],
+  "scm": "Convert local-currency receivables soon and stagger this week's dollar payments. With crude lower, ask for a review of freight surcharges on regional routes."
+ },
+ "pt": {
+  "titular": "As moedas da região enfraquecem após a inflação dos EUA; o real cai 1,6%",
+  "esencial": [
+   "Às 9h10 (Cidade do México) o dólar subia 1,58% frente ao real (5,59) e 1,25% frente ao peso chileno (979).",
+   "O CPI dos EUA acima do esperado fortalece o dólar e eleva os juros, o que atinge as moedas da região.",
+   "Converta logo os recebíveis em moeda local e escalone os pagamentos em dólares desta semana."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 8h55 (Cidade do México) o Ibovespa caía 0,31% (171.699,34) e às 9h10 o S&P/TSX do Canadá 0,36% (36.314,16). Em moedas, o dólar subia 1,58% frente ao real (5,59), 1,25% frente ao peso chileno (979,0) e 0,72% frente ao peso colombiano (3.290)."
+   },
+   {
+    "t": "Contexto",
+    "x": "Depois das fortes altas de segunda (COLCAP +3,45%, Ibovespa +2,22%), a região sente o dólar mais forte pelo CPI dos EUA. A queda do petróleo ajuda os importadores, mas pesa sobre Colômbia e Brasil."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "No Brasil sai hoje a ata do Copom, que manteve a Selic em 13,75%, e na quinta o IPCA de outubro."
+   }
+  ],
+  "scm": "Converta logo os recebíveis em moeda local e escalone os pagamentos em dólares desta semana. Com o petróleo em queda, peça revisão das sobretaxas de frete em rotas regionais."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: cotizaciones de índices, futuros, divisas, materias primas y bonos (10 nov 2026, 9:10 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
