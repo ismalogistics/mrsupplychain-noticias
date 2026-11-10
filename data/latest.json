@@ -1,286 +1,285 @@
 {
- "actualizado": "2026-11-09T21:50:41Z",
- "momento": "cierre",
+ "actualizado": "2026-11-10T13:53:39Z",
+ "momento": "premercado",
  "briefs": {
   "global": {
-   "id": "2026-11-09-cierre-global",
-   "fecha": "2026-11-09",
-   "momento": "cierre",
+   "id": "2026-11-10-premercado-global",
+   "fecha": "2026-11-10",
+   "momento": "premercado",
    "mercado": "global",
-   "hora": "15:20 CDMX",
+   "hora": "07:55 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "Wall Street rebota con fuerza: el S&P 500 sube 2.3% y el Brent cae 5.6%",
+    "titular": "La inflación de EE. UU. sube 0.4% en octubre, más de lo esperado, y los futuros de Nasdaq bajan 1.4%",
     "esencial": [
-     "El S&P 500 cerró con +2.35% (7,549.94), el Nasdaq con +2.74% y el Dow con +2.15%; Nvidia cayó 4.27%.",
-     "El crudo bajó porque Trump dijo que es muy poco probable que ordene nuevos ataques a Irán, y eso moderó el temor a la inflación.",
-     "Para supply chain: traslada la baja del crudo a los recargos y espera al CPI de mañana (7:30 CDMX) antes de cerrar contratos en dólares."
+     "El CPI de octubre subió 0.4% mensual y el subyacente 0.3%, ambos una décima arriba de lo esperado.",
+     "Un dato más alto refuerza el alza de la Fed en diciembre: el Treasury a 10 años sube a 4.94% y los futuros del S&P 500 bajan 0.8%.",
+     "Para supply chain: el crudo sigue cayendo (Brent abajo de 90), pero el dólar fuerte y las tasas altas encarecen financiar inventario."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "Se cumplió y se amplió el rebote que esperábamos en la apertura. El S&P 500 cerró con +2.35% (7,549.94), el Nasdaq con +2.74% (25,253.14), el Dow con +2.15% (52,389.75) y el Russell 2000 con +3.15%; el VIX bajó 22% a 20.05. Nvidia cayó 4.27% (178.67) y tocó en el día su nivel más bajo desde el 31 de marzo. El WTI cerró en 86.98 dólares (−4.2%), el Brent en 92.81 (−5.6%), el oro subió 1.8% a 4,148.10 y el cobre 2.2%; el Treasury a 10 años quedó en 4.86%."
+      "t": "Lo que pasó desde el cierre",
+      "x": "A las 7:30 CDMX salió el CPI de octubre: subió 0.4% mensual (0.6% en septiembre) y el subyacente 0.3%, ambos una décima arriba del pronóstico. No hay tasa anual porque en octubre de 2025 no se recolectaron datos por el cierre de gobierno. El petróleo siguió cayendo después de que Trump dijo que pospondrá nuevos ataques contra Irán: el Brent bajó de 90 dólares por primera vez desde el 31 de agosto."
      },
      {
-      "t": "Por qué",
-      "x": "La caída del petróleo moderó el temor a la inflación, después de que Trump dijo que es muy poco probable que ordene nuevos ataques a Irán mientras avancen las pláticas. Morgan Stanley y UBS dijeron que la venta de la IA de la semana pasada fue exagerada. Nueve de los 11 sectores del S&P 500 subieron más de 1%, con industriales y consumo discrecional cerca de +4%. Aun así, la probabilidad de un alza de la Fed en diciembre sigue arriba de 80%, según CME FedWatch."
+      "t": "Asia, Europa y futuros",
+      "x": "Asia cerró al alza: KOSPI +4.39% (5,239.13), Nikkei +2.87% (60,459.58), Hang Seng +0.44% y Shanghái +0.08%. Europa sube: Euro Stoxx 50 +1.08%, DAX +1.18% y CAC 40 +1.16%. Tras el CPI, a las 7:41 CDMX los futuros del S&P 500 bajaban 0.76%, los del Nasdaq 100 1.39% y los del Dow 0.15%. El Treasury a 10 años subía a 4.94%, el índice del dólar 0.35% a 102.00, el WTI caía 3.2% a 84.10 dólares, el Brent 3.7% a 89.19 y el oro 1.2% a 4,063.80."
      },
      {
-      "t": "Qué se espera",
-      "x": "Asia abre con el impulso de Wall Street y la baja del crudo, pero el foco es el CPI de octubre de EE. UU., mañana a las 7:30 CDMX (sólo cifras mensuales). Un dato alto reforzaría el alza de la Fed y el dólar. El viernes sale el PPI de octubre."
+      "t": "Qué se espera hoy",
+      "x": "Wall Street abre a las 8:30 CDMX con presión en tecnología por el dato de inflación. La probabilidad de un alza de la Fed en diciembre ya estaba arriba de 80% antes del dato. El viernes sale el PPI de octubre (7:30 CDMX)."
      }
     ],
-    "scm": "Para mañana: 1) pide que el recargo de combustible de la próxima semana refleje la caída del crudo; 2) espera al CPI de las 7:30 CDMX antes de cerrar contratos en dólares; 3) sigue la volatilidad de chips antes de comprometer compras grandes de servidores."
+    "scm": "Para hoy: 1) aprovecha la baja del crudo para fijar recargos de combustible con ajuste semanal; 2) con el dólar más fuerte tras el CPI, no cierres de golpe compras grandes en dólares; 3) revisa el costo de financiar inventario: las tasas de largo plazo subieron."
    },
    "en": {
-    "titular": "Wall Street rebounds strongly: the S&P 500 rises 2.3% and Brent falls 5.6%",
+    "titular": "US inflation rises 0.4% in October, more than expected, and Nasdaq futures fall 1.4%",
     "esencial": [
-     "The S&P 500 closed +2.35% (7,549.94), the Nasdaq +2.74% and the Dow +2.15%; Nvidia fell 4.27%.",
-     "Crude fell because Trump said new strikes on Iran are highly unlikely, which eased inflation fears.",
-     "For supply chain: pass lower crude through to surcharges and wait for tomorrow's CPI (8:30 a.m. ET) before closing dollar contracts."
+     "October CPI rose 0.4% month over month and core 0.3%, both a tenth above forecasts.",
+     "The hotter reading reinforces a December Fed hike: the 10-year Treasury rises to 4.94% and S&P 500 futures fall 0.8%.",
+     "For supply chain: crude keeps falling (Brent below $90), but a stronger dollar and higher rates make financing inventory costlier."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "The rebound we expected at the open materialized and widened. The S&P 500 closed +2.35% (7,549.94), the Nasdaq +2.74% (25,253.14), the Dow +2.15% (52,389.75) and the Russell 2000 +3.15%; the VIX fell 22% to 20.05. Nvidia fell 4.27% (178.67) and hit its lowest intraday level since March 31. WTI closed at $86.98 (−4.2%), Brent at $92.81 (−5.6%), gold rose 1.8% to $4,148.10 and copper 2.2%; the 10-year Treasury ended at 4.86%."
+      "t": "What happened since the close",
+      "x": "October CPI came out at 8:30 a.m. ET: it rose 0.4% month over month (0.6% in September) and core 0.3%, both a tenth above forecasts. There is no annual rate because October 2025 data were not collected during the government shutdown. Oil kept falling after Trump said he will hold off on new strikes against Iran: Brent fell below $90 for the first time since Aug. 31."
      },
      {
-      "t": "Why",
-      "x": "Lower oil eased inflation fears after Trump said new strikes on Iran are highly unlikely as long as talks progress. Morgan Stanley and UBS said last week's AI selloff was overdone. Nine of the S&P 500's 11 sectors gained more than 1%, with industrials and consumer discretionary near +4%. Still, the probability of a December Fed hike remains above 80%, according to CME FedWatch."
+      "t": "Asia, Europe and futures",
+      "x": "Asia closed higher: KOSPI +4.39% (5,239.13), Nikkei +2.87% (60,459.58), Hang Seng +0.44% and Shanghai +0.08%. Europe is up: Euro Stoxx 50 +1.08%, DAX +1.18% and CAC 40 +1.16%. After CPI, at 8:41 a.m. ET S&P 500 futures were down 0.76%, Nasdaq 100 futures 1.39% and Dow futures 0.15%. The 10-year Treasury rose to 4.94%, the dollar index 0.35% to 102.00, WTI fell 3.2% to $84.10, Brent 3.7% to $89.19 and gold 1.2% to $4,063.80."
      },
      {
-      "t": "What to expect",
-      "x": "Asia opens with Wall Street's momentum and lower crude, but the focus is US October CPI tomorrow at 8:30 a.m. ET (monthly figures only). A hot reading would reinforce a Fed hike and the dollar. October PPI comes out Friday."
+      "t": "What to expect today",
+      "x": "Wall Street opens at 9:30 a.m. ET with pressure on tech from the inflation reading. The probability of a December Fed hike was already above 80% before the data. October PPI comes out Friday (8:30 a.m. ET)."
      }
     ],
-    "scm": "For tomorrow: 1) ask for next week's fuel surcharge to reflect lower crude; 2) wait for the 8:30 a.m. ET CPI before closing dollar contracts; 3) watch chip volatility before committing to large server purchases."
+    "scm": "For today: 1) use lower crude to lock in weekly-adjusted fuel surcharges; 2) with a stronger dollar after CPI, avoid closing large dollar purchases all at once; 3) review inventory financing costs: long-term rates rose."
    },
    "pt": {
-    "titular": "Wall Street se recupera com força: o S&P 500 sobe 2,3% e o Brent cai 5,6%",
+    "titular": "A inflação dos EUA sobe 0,4% em outubro, acima do esperado, e os futuros do Nasdaq caem 1,4%",
     "esencial": [
-     "O S&P 500 fechou com +2,35% (7.549,94), o Nasdaq com +2,74% e o Dow com +2,15%; a Nvidia caiu 4,27%.",
-     "O petróleo caiu porque Trump disse ser muito improvável ordenar novos ataques ao Irã, o que moderou o temor de inflação.",
-     "Para supply chain: repasse a queda do petróleo às sobretaxas e espere o CPI de amanhã (7h30, Cidade do México) antes de fechar contratos em dólares."
+     "O CPI de outubro subiu 0,4% no mês e o núcleo 0,3%, ambos um décimo acima do esperado.",
+     "O dado mais alto reforça a alta do Fed em dezembro: o título de 10 anos sobe para 4,94% e os futuros do S&P 500 caem 0,8%.",
+     "Para supply chain: o petróleo segue caindo (Brent abaixo de 90), mas o dólar forte e os juros altos encarecem financiar estoque."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "A recuperação esperada na abertura se confirmou e se ampliou. O S&P 500 fechou com +2,35% (7.549,94), o Nasdaq com +2,74% (25.253,14), o Dow com +2,15% (52.389,75) e o Russell 2000 com +3,15%; o VIX caiu 22% para 20,05. A Nvidia caiu 4,27% (178,67) e tocou no dia seu menor nível desde 31 de março. O WTI fechou em 86,98 dólares (−4,2%), o Brent em 92,81 (−5,6%), o ouro subiu 1,8% para 4.148,10 e o cobre 2,2%; o título de 10 anos do Tesouro ficou em 4,86%."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "Às 7h30 (Cidade do México) saiu o CPI de outubro: subiu 0,4% no mês (0,6% em setembro) e o núcleo 0,3%, ambos um décimo acima da previsão. Não há taxa anual porque em outubro de 2025 os dados não foram coletados pela paralisação do governo. O petróleo seguiu caindo depois que Trump disse que vai adiar novos ataques ao Irã: o Brent caiu abaixo de 90 dólares pela primeira vez desde 31 de agosto."
      },
      {
-      "t": "Por quê",
-      "x": "A queda do petróleo moderou o temor de inflação, depois que Trump disse ser muito improvável ordenar novos ataques ao Irã enquanto as negociações avançarem. Morgan Stanley e UBS disseram que a venda da IA da semana passada foi exagerada. Nove dos 11 setores do S&P 500 subiram mais de 1%, com indústria e consumo discricionário perto de +4%. Ainda assim, a probabilidade de alta do Fed em dezembro segue acima de 80%, segundo o CME FedWatch."
+      "t": "Ásia, Europa e futuros",
+      "x": "A Ásia fechou em alta: KOSPI +4,39% (5.239,13), Nikkei +2,87% (60.459,58), Hang Seng +0,44% e Xangai +0,08%. A Europa sobe: Euro Stoxx 50 +1,08%, DAX +1,18% e CAC 40 +1,16%. Depois do CPI, às 7h41 os futuros do S&P 500 caíam 0,76%, os do Nasdaq 100 1,39% e os do Dow 0,15%. O título de 10 anos subia para 4,94%, o índice do dólar 0,35% para 102,00, o WTI caía 3,2% para 84,10 dólares, o Brent 3,7% para 89,19 e o ouro 1,2% para 4.063,80."
      },
      {
-      "t": "O que se espera",
-      "x": "A Ásia abre com o impulso de Wall Street e a queda do petróleo, mas o foco é o CPI de outubro dos EUA, amanhã às 7h30 (Cidade do México), só com números mensais. Um dado alto reforçaria a alta do Fed e o dólar. Na sexta sai o PPI de outubro."
+      "t": "O que se espera hoje",
+      "x": "Wall Street abre às 8h30 (Cidade do México) com pressão em tecnologia pelo dado de inflação. A probabilidade de alta do Fed em dezembro já estava acima de 80% antes do dado. Na sexta sai o PPI de outubro (7h30)."
      }
     ],
-    "scm": "Para amanhã: 1) peça que a sobretaxa de combustível da próxima semana reflita a queda do petróleo; 2) espere o CPI das 7h30 antes de fechar contratos em dólares; 3) acompanhe a volatilidade dos chips antes de comprometer compras grandes de servidores."
+    "scm": "Para hoje: 1) aproveite a queda do petróleo para fixar sobretaxas de combustível com ajuste semanal; 2) com o dólar mais forte após o CPI, não feche de uma vez compras grandes em dólares; 3) revise o custo de financiar estoque: os juros longos subiram."
    },
    "fuentes": [
     {
-     "t": "Reuters: Wall Street sube porque la baja del petróleo modera el temor a la inflación; Nvidia cae (9 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html"
+     "t": "AP: la inflación de EE. UU. de octubre sube 0.4% mensual, más de lo esperado (10 nov 2026)",
+     "u": "https://finance.yahoo.com/economy/articles/inflation-stronger-expected-october-underscoring-133432261.html"
     },
     {
-     "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas al cierre (9 nov 2026)",
+     "t": "USA Today: la inflación se modera en octubre, pero no hay dato anual por el cierre de gobierno",
+     "u": "https://finance.yahoo.com/economy/articles/inflation-slowed-october-annual-data-133551679.html"
+    },
+    {
+     "t": "Reuters: el petróleo cae porque Trump descarta escalar con Irán; el Brent baja de 90 dólares (10 nov 2026)",
+     "u": "https://finance.yahoo.com/news/oil-falls-trump-downplays-prospect-014322571.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, futuros, materias primas, bonos y divisas (10 nov 2026, 7:50 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
+    },
+    {
+     "t": "Yahoo Finance: futuros del S&P 500 (ES=F), 10 nov 2026",
+     "u": "https://finance.yahoo.com/quote/ES%3DF/"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-09-cierre-latam",
-   "fecha": "2026-11-09",
-   "momento": "cierre",
+   "id": "2026-11-10-premercado-latam",
+   "fecha": "2026-11-10",
+   "momento": "premercado",
    "mercado": "latam",
-   "hora": "15:20 CDMX",
+   "hora": "07:55 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "La región cierra al alza: el Ibovespa sube 2.0% y el TSX 1.8%, con Colombia y Perú arriba de 3%",
+    "titular": "La región cerró el lunes con fuertes alzas; hoy la presiona el dólar tras la inflación de EE. UU.",
     "esencial": [
-     "El Ibovespa cerró con +2.02% (171,906.50) y el S&P/TSX de Canadá con +1.84% (36,446.26).",
-     "El apetito por riesgo y el dólar débil impulsaron a la región; los ETF de Colombia y Perú subían más de 3% a las 14:07 CDMX.",
-     "Convierte pronto los cobros en monedas locales y deja los pagos para después del CPI de mañana."
+     "El lunes el COLCAP subió 3.45% y el Ibovespa 2.22%, con el rebote global.",
+     "Hoy el CPI de EE. UU. arriba de lo esperado fortalece al dólar y puede frenar a las monedas de la región.",
+     "Convierte pronto los cobros en monedas locales y escalona los pagos en dólares de esta semana."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "El Ibovespa cerró con +2.02% (171,906.50) y el S&P/TSX con +1.84% (36,446.26). Con datos de las 14:07 CDMX, los ETF de MSCI subían 3.7% en Perú, 3.2% en Colombia, 2.1% en Chile y 2.0% en Argentina."
+      "t": "Lo que pasó desde el cierre",
+      "x": "Al cierre del lunes, el Ibovespa subió 2.22% (172,236), el COLCAP 3.45% (25,230), el S&P/TSX 1.84% (36,446) y los ETF de Perú, Argentina y Chile entre 2.0% y 3.2%. Con datos de las 2:52 CDMX, el peso chileno estaba en 967 por dólar, el real en 5.51, el peso colombiano en 3,274 y el sol en 3.41."
      },
      {
-      "t": "Por qué",
-      "x": "El rebote de Wall Street, la baja del dólar (DXY −0.6%) y la caída del crudo, que alivia los costos de importación, apoyaron a la región."
+      "t": "Contexto",
+      "x": "El CPI de EE. UU. arriba de lo esperado fortalece al dólar (DXY +0.35%) y sube los rendimientos, lo que suele presionar a las monedas de la región. La caída del crudo ayuda a los importadores, pero pesa sobre Colombia y Brasil."
      },
      {
-      "t": "Monedas",
-      "x": "A las 14:07 CDMX el peso chileno estaba en 968.1 por dólar, el real en 5.50, el peso colombiano en 3,269, el sol en 3.41 y el peso argentino en 1,545."
-     },
-     {
-      "t": "Qué se espera",
-      "x": "El CPI de EE. UU. de mañana (7:30 CDMX) marcará el tono para las monedas de la región. Brasil mantiene la Selic en 13.75%."
+      "t": "Qué se espera hoy",
+      "x": "En Brasil sale hoy el acta del Copom, que mantuvo la Selic en 13.75%, y el jueves el IPCA de octubre."
      }
     ],
-    "scm": "Convierte pronto los cobros en monedas locales y deja los pagos para después del CPI de mañana. Con el crudo a la baja, pide revisión de recargos de flete en rutas regionales."
+    "scm": "Convierte pronto los cobros en monedas locales y escalona los pagos en dólares de esta semana. Con el crudo a la baja, pide revisar los recargos de flete en rutas regionales."
    },
    "en": {
-    "titular": "The region closes higher: the Ibovespa rises 2.0% and the TSX 1.8%, with Colombia and Peru above 3%",
+    "titular": "The region closed Monday with strong gains; today the dollar weighs after US inflation",
     "esencial": [
-     "The Ibovespa closed +2.02% (171,906.50) and Canada's S&P/TSX +1.84% (36,446.26).",
-     "Risk appetite and a weak dollar lifted the region; the Colombia and Peru ETFs were up more than 3% at 2:07 p.m. Mexico City time.",
-     "Convert local-currency receivables soon and leave payments for after tomorrow's CPI."
+     "On Monday the COLCAP rose 3.45% and the Ibovespa 2.22% with the global rebound.",
+     "Today's hotter US CPI strengthens the dollar and may hold back the region's currencies.",
+     "Convert local-currency receivables soon and stagger this week's dollar payments."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "The Ibovespa closed +2.02% (171,906.50) and the S&P/TSX +1.84% (36,446.26). With data as of 2:07 p.m. Mexico City time, the MSCI ETFs were up 3.7% for Peru, 3.2% for Colombia, 2.1% for Chile and 2.0% for Argentina."
+      "t": "What happened since the close",
+      "x": "At Monday's close, the Ibovespa rose 2.22% (172,236), the COLCAP 3.45% (25,230), the S&P/TSX 1.84% (36,446) and the Peru, Argentina and Chile ETFs between 2.0% and 3.2%. With data as of 2:52 a.m. Mexico City time, the Chilean peso was at 967 per dollar, the real at 5.51, the Colombian peso at 3,274 and the sol at 3.41."
      },
      {
-      "t": "Why",
-      "x": "Wall Street's rebound, a weaker dollar (DXY −0.6%) and lower crude, which eases import costs, supported the region."
+      "t": "Context",
+      "x": "A hotter US CPI strengthens the dollar (DXY +0.35%) and lifts yields, which usually pressures the region's currencies. Lower crude helps importers but weighs on Colombia and Brazil."
      },
      {
-      "t": "Currencies",
-      "x": "At 2:07 p.m. Mexico City time the Chilean peso was at 968.1 per dollar, the real at 5.50, the Colombian peso at 3,269, the sol at 3.41 and the Argentine peso at 1,545."
-     },
-     {
-      "t": "What to expect",
-      "x": "Tomorrow's US CPI (8:30 a.m. ET) will set the tone for the region's currencies. Brazil keeps the Selic at 13.75%."
+      "t": "What to expect today",
+      "x": "In Brazil, the minutes of the Copom meeting that held the Selic at 13.75% come out today, and October IPCA on Thursday."
      }
     ],
-    "scm": "Convert local-currency receivables soon and leave payments for after tomorrow's CPI. With crude lower, ask for a review of freight surcharges on regional routes."
+    "scm": "Convert local-currency receivables soon and stagger this week's dollar payments. With crude lower, ask for a review of freight surcharges on regional routes."
    },
    "pt": {
-    "titular": "A região fecha em alta: o Ibovespa sobe 2,0% e o TSX 1,8%, com Colômbia e Peru acima de 3%",
+    "titular": "A região fechou a segunda com fortes altas; hoje o dólar pesa após a inflação dos EUA",
     "esencial": [
-     "O Ibovespa fechou com +2,02% (171.906,50) e o S&P/TSX do Canadá com +1,84% (36.446,26).",
-     "O apetite por risco e o dólar fraco impulsionaram a região; os ETFs da Colômbia e do Peru subiam mais de 3% às 14h07 (Cidade do México).",
-     "Converta logo os recebíveis em moeda local e deixe os pagamentos para depois do CPI de amanhã."
+     "Na segunda o COLCAP subiu 3,45% e o Ibovespa 2,22%, com a recuperação global.",
+     "Hoje o CPI dos EUA acima do esperado fortalece o dólar e pode frear as moedas da região.",
+     "Converta logo os recebíveis em moeda local e escalone os pagamentos em dólares desta semana."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "O Ibovespa fechou com +2,02% (171.906,50) e o S&P/TSX com +1,84% (36.446,26). Com dados das 14h07 (Cidade do México), os ETFs da MSCI subiam 3,7% no Peru, 3,2% na Colômbia, 2,1% no Chile e 2,0% na Argentina."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "No fechamento de segunda, o Ibovespa subiu 2,22% (172.236), o COLCAP 3,45% (25.230), o S&P/TSX 1,84% (36.446) e os ETFs do Peru, Argentina e Chile entre 2,0% e 3,2%. Com dados das 2h52 (Cidade do México), o peso chileno estava em 967 por dólar, o dólar em R$ 5,51, o peso colombiano em 3.274 e o sol em 3,41."
      },
      {
-      "t": "Por quê",
-      "x": "A recuperação de Wall Street, a queda do dólar (DXY −0,6%) e a baixa do petróleo, que alivia os custos de importação, apoiaram a região."
+      "t": "Contexto",
+      "x": "O CPI dos EUA acima do esperado fortalece o dólar (DXY +0,35%) e eleva os rendimentos, o que costuma pressionar as moedas da região. A queda do petróleo ajuda os importadores, mas pesa sobre Colômbia e Brasil."
      },
      {
-      "t": "Moedas",
-      "x": "Às 14h07 o peso chileno estava em 968,1 por dólar, o dólar em R$ 5,50, o peso colombiano em 3.269, o sol em 3,41 e o peso argentino em 1.545."
-     },
-     {
-      "t": "O que se espera",
-      "x": "O CPI dos EUA de amanhã (7h30, Cidade do México) vai dar o tom para as moedas da região. O Brasil mantém a Selic em 13,75%."
+      "t": "O que se espera hoje",
+      "x": "No Brasil sai hoje a ata do Copom, que manteve a Selic em 13,75%, e na quinta o IPCA de outubro."
      }
     ],
-    "scm": "Converta logo os recebíveis em moeda local e deixe os pagamentos para depois do CPI de amanhã. Com o petróleo em queda, peça revisão das sobretaxas de frete em rotas regionais."
+    "scm": "Converta logo os recebíveis em moeda local e escalone os pagamentos em dólares desta semana. Com o petróleo em queda, peça revisão das sobretaxas de frete em rotas regionais."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices mundiales, materias primas, bonos y divisas al cierre (9 nov 2026)",
+     "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+     "u": "https://mrsupplychain.ai/noticias/"
+    },
+    {
+     "t": "Yahoo Finance: índices, futuros, materias primas, bonos y divisas (10 nov 2026, 7:50 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
-     "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
-     "u": "https://mrsupplychain.ai/noticias/"
+     "t": "O Cafezinho: el acta del Copom sale el martes y el IPCA de octubre el jueves",
+     "u": "https://www.ocafezinho.com/2026-11-09/ata-do-copom-sai-na-terca-e-antecede-inflacao-de-outubro-na-quinta"
     }
    ]
   },
   "mexico": {
-   "id": "2026-11-09-cierre-mexico",
-   "fecha": "2026-11-09",
-   "momento": "cierre",
+   "id": "2026-11-10-premercado-mexico",
+   "fecha": "2026-11-10",
+   "momento": "premercado",
    "mercado": "mexico",
-   "hora": "15:20 CDMX",
+   "hora": "07:55 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "La inflación de México sube a 3.75% en octubre por la luz; el IPC cierra con +0.6% y el peso en 18.55",
+    "titular": "El peso pierde terreno tras la inflación de EE. UU.: pasa de 18.50 en la madrugada a 18.67",
     "esencial": [
-     "La inflación anual de México subió a 3.75% en octubre, arriba del 3.65% esperado, y la subyacente a 3.80%.",
-     "La electricidad subió 18.5% en el mes por el fin del subsidio de verano, y aun así el peso cerró en 18.55 y el FIX bajó a 18.5983.",
-     "Para supply chain: revisa el costo de energía de tus plantas y almacenes; con el peso en 18.55, cubre una parte de los pagos en dólares."
+     "El peso abrió cerca de 18.50 por dólar y tras el CPI de EE. UU. se debilitó a 18.67 (−0.6%).",
+     "La inflación de EE. UU. arriba de lo esperado fortalece al dólar y sube las tasas, mientras en México la inflación ya está en 3.75%.",
+     "Si tienes pagos en dólares, no los compres todos hoy: espera a que se asiente el movimiento del CPI."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "El S&P/BMV IPC cerró con +0.64% (71,852), después de tocar 72,227.22 en la mañana, su máximo de 52 semanas. El peso cerró en 18.55 por dólar (−0.26% el dólar); el FIX de hoy fue de 18.5983 y el cierre de jornada de Banxico, de 18.5377. El bono a 10 años bajó 3.6 puntos base a 9.09%."
+      "t": "Lo que pasó desde el cierre",
+      "x": "El peso cerró el lunes en 18.55 y a las 6:16 CDMX cotizaba cerca de 18.50. Tras el CPI de EE. UU., a las 7:50 CDMX estaba en 18.67 (el dólar +0.59%). El lunes el INEGI reportó que la inflación de México subió a 3.75% en octubre por el fin del subsidio eléctrico."
      },
      {
-      "t": "Por qué",
-      "x": "El INEGI informó que la inflación anual subió a 3.75% en octubre (0.65% mensual), su nivel más alto desde mayo y arriba del 3.65% que esperaban los analistas; la subyacente quedó en 3.80%. La electricidad subió 18.5% en el mes por el fin del subsidio de verano en 18 ciudades, y el transporte aéreo 26.4%. El peso no lo resintió: lo apoyaron el dólar débil (DXY −0.6%) y el apetito por riesgo."
+      "t": "Contexto",
+      "x": "Un CPI más alto en EE. UU. refuerza el alza de la Fed en diciembre y reduce el diferencial de tasas frente a Banxico (6.25%), lo que presiona al peso. La caída del crudo (Brent abajo de 90 dólares) reduce costos de combustibles, pero también los ingresos petroleros."
      },
      {
-      "t": "Qué se espera",
-      "x": "Mañana el CPI de EE. UU. (7:30 CDMX) es el principal riesgo para el peso. Con la inflación en 3.75%, Banxico, que recortó a 6.25% el jueves con guía de pausa, tiene menos espacio. Hoy vencía el plazo para que el Departamento de Comercio de EE. UU. decida si inicia la investigación antidumping a los carros tanque mexicanos; el resultado aún no se publica. El lunes 16 cierran la BMV y los bancos."
+      "t": "Qué se espera hoy",
+      "x": "Hoy martes hay subasta de Cetes; será la primera desde que Banxico recortó a 6.25%. El lunes 16 cierran la BMV y los bancos por el Día de la Revolución."
      }
     ],
-    "scm": "Revisa el costo de electricidad de tus plantas y almacenes (subió 18.5% en octubre) y si tu tarifa cambia con el fin del subsidio. Con el peso en 18.55, cubre una parte de los pagos en dólares antes del CPI de mañana."
+    "scm": "Con el peso en 18.67 tras el CPI, compra por tramos los dólares de noviembre en lugar de cerrar todo hoy, y adelanta los pagos del lunes 16 (día inhábil bancario)."
    },
    "en": {
-    "titular": "Mexico's inflation rises to 3.75% in October on power prices; the IPC closes +0.6% and the peso at 18.55",
+    "titular": "The peso loses ground after US inflation: from 18.50 overnight to 18.67",
     "esencial": [
-     "Mexico's annual inflation rose to 3.75% in October, above the 3.65% expected, and core to 3.80%.",
-     "Electricity rose 18.5% in the month as the summer subsidy ended, yet the peso closed at 18.55 and the FIX fell to 18.5983.",
-     "For supply chain: review energy costs at your plants and warehouses; with the peso at 18.55, hedge part of your dollar payments."
+     "The peso opened near 18.50 per dollar and after US CPI weakened to 18.67 (−0.6%).",
+     "Hotter US inflation strengthens the dollar and lifts rates, while Mexico's inflation is already at 3.75%.",
+     "If you have dollar payments, don't buy them all today: wait for the CPI move to settle."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "The S&P/BMV IPC closed +0.64% (71,852) after touching 72,227.22 in the morning, its 52-week high. The peso closed at 18.55 per dollar (dollar −0.26%); today's FIX was 18.5983 and Banxico's end-of-day rate 18.5377. The 10-year bond fell 3.6 basis points to 9.09%."
+      "t": "What happened since the close",
+      "x": "The peso closed Monday at 18.55 and traded near 18.50 at 7:16 a.m. ET. After US CPI, at 8:50 a.m. ET it was at 18.67 (dollar +0.59%). On Monday INEGI reported Mexico's inflation rose to 3.75% in October as the power subsidy ended."
      },
      {
-      "t": "Why",
-      "x": "INEGI reported annual inflation rose to 3.75% in October (0.65% monthly), its highest since May and above the 3.65% analysts expected; core was 3.80%. Electricity rose 18.5% in the month as the summer subsidy ended in 18 cities, and air transport 26.4%. The peso did not feel it: a weak dollar (DXY −0.6%) and risk appetite supported it."
+      "t": "Context",
+      "x": "A hotter US CPI reinforces a December Fed hike and narrows the rate gap with Banxico (6.25%), pressuring the peso. Lower crude (Brent below $90) cuts fuel costs but also oil revenue."
      },
      {
-      "t": "What to expect",
-      "x": "Tomorrow's US CPI (8:30 a.m. ET) is the main risk for the peso. With inflation at 3.75%, Banxico, which cut to 6.25% on Thursday with pause guidance, has less room. Today was the deadline for the US Commerce Department to decide whether to start the antidumping investigation on Mexican tank cars; the result has not been published yet. On Monday the 16th, the BMV and banks close."
+      "t": "What to expect today",
+      "x": "There is a Cetes auction today, the first since Banxico cut to 6.25%. On Monday the 16th, the BMV and banks close for Revolution Day."
      }
     ],
-    "scm": "Review electricity costs at your plants and warehouses (up 18.5% in October) and whether your tariff changes with the end of the subsidy. With the peso at 18.55, hedge part of your dollar payments before tomorrow's CPI."
+    "scm": "With the peso at 18.67 after CPI, buy November dollars in tranches rather than all today, and move payments due Monday the 16th (bank holiday) forward."
    },
    "pt": {
-    "titular": "A inflação do México sobe para 3,75% em outubro pela energia; o IPC fecha com +0,6% e o peso a 18,55",
+    "titular": "O peso perde terreno após a inflação dos EUA: passa de 18,50 na madrugada para 18,67",
     "esencial": [
-     "A inflação anual do México subiu para 3,75% em outubro, acima dos 3,65% esperados, e o núcleo para 3,80%.",
-     "A eletricidade subiu 18,5% no mês pelo fim do subsídio de verão, e mesmo assim o peso fechou a 18,55 e o FIX caiu para 18,5983.",
-     "Para supply chain: revise o custo de energia de suas plantas e armazéns; com o peso a 18,55, proteja parte dos pagamentos em dólares."
+     "O peso abriu perto de 18,50 por dólar e após o CPI dos EUA enfraqueceu para 18,67 (−0,6%).",
+     "A inflação dos EUA acima do esperado fortalece o dólar e eleva os juros, enquanto no México a inflação já está em 3,75%.",
+     "Se você tem pagamentos em dólares, não compre tudo hoje: espere o movimento do CPI se acomodar."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "O S&P/BMV IPC fechou com +0,64% (71.852), depois de tocar 72.227,22 pela manhã, sua máxima de 52 semanas. O peso fechou a 18,55 por dólar (dólar −0,26%); o FIX de hoje foi 18,5983 e o fechamento de jornada do Banxico, 18,5377. O título de 10 anos caiu 3,6 pontos-base para 9,09%."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "O peso fechou a segunda a 18,55 e às 6h16 (Cidade do México) estava perto de 18,50. Após o CPI dos EUA, às 7h50 estava a 18,67 (dólar +0,59%). Na segunda o INEGI informou que a inflação do México subiu para 3,75% em outubro pelo fim do subsídio elétrico."
      },
      {
-      "t": "Por quê",
-      "x": "O INEGI informou que a inflação anual subiu para 3,75% em outubro (0,65% mensal), o maior nível desde maio e acima dos 3,65% esperados pelos analistas; o núcleo ficou em 3,80%. A eletricidade subiu 18,5% no mês pelo fim do subsídio de verão em 18 cidades, e o transporte aéreo 26,4%. O peso não sentiu: o apoiaram o dólar fraco (DXY −0,6%) e o apetite por risco."
+      "t": "Contexto",
+      "x": "Um CPI mais alto nos EUA reforça a alta do Fed em dezembro e reduz o diferencial de juros frente ao Banxico (6,25%), o que pressiona o peso. A queda do petróleo (Brent abaixo de 90 dólares) reduz custos de combustíveis, mas também a receita petroleira."
      },
      {
-      "t": "O que se espera",
-      "x": "Amanhã o CPI dos EUA (7h30, Cidade do México) é o principal risco para o peso. Com a inflação em 3,75%, o Banxico, que cortou para 6,25% na quinta com sinal de pausa, tem menos espaço. Hoje vencia o prazo para o Departamento de Comércio dos EUA decidir se inicia a investigação antidumping dos vagões-tanque mexicanos; o resultado ainda não foi publicado. Na segunda, dia 16, a BMV e os bancos fecham."
+      "t": "O que se espera hoje",
+      "x": "Hoje, terça, há leilão de Cetes, o primeiro desde que o Banxico cortou para 6,25%. Na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução."
      }
     ],
-    "scm": "Revise o custo de eletricidade de suas plantas e armazéns (subiu 18,5% em outubro) e se sua tarifa muda com o fim do subsídio. Com o peso a 18,55, proteja parte dos pagamentos em dólares antes do CPI de amanhã."
+    "scm": "Com o peso a 18,67 após o CPI, compre em parcelas os dólares de novembro em vez de fechar tudo hoje, e antecipe os pagamentos da segunda, dia 16 (feriado bancário)."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: IPC México (^MXX), cierre del 9 nov 2026",
-     "u": "https://finance.yahoo.com/quote/%5EMXX/"
+     "t": "Infobae: el dólar abre el 10 de noviembre en alrededor de 18.50 pesos",
+     "u": "https://www.infobae.com/mexico/2026/11/10/dolar-hoy-en-mexico-cotizacion-de-apertura-del-10-de-noviembre/"
     },
     {
-     "t": "Banxico: tipo de cambio FIX y de cierre de jornada (9 nov 2026)",
-     "u": "https://www.banxico.org.mx/tipcamb/main.do?page=tip&idioma=sp"
+     "t": "Yahoo Finance: índices, futuros, materias primas, bonos y divisas (10 nov 2026, 7:50 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     },
     {
-     "t": "CNBC: bono de México a 10 años (MX10Y)",
-     "u": "https://www.cnbc.com/quotes/MX10Y"
-    },
-    {
-     "t": "El Imparcial: la inflación en México sube a 3.75% en octubre, según el INEGI (9 nov 2026)",
-     "u": "https://www.elimparcial.com/dinero/2026/11/09/la-inflacion-en-mexico-sube-por-tercer-mes-consecutivo-y-dispara-el-precio-del-tomate-verde-la-electricidad-y-otros-productos-durante-octubre-de-2026-segun-el-inegi/"
-    },
-    {
-     "t": "Federal Register: Comercio extiende al 9 de noviembre el plazo para decidir si inicia la investigación de carros tanque de México",
-     "u": "https://www.federalregister.gov/documents/2026/10/26/2026-21792/notice-of-extension-of-the-deadline-for-determining-the-adequacy-of-the-antidumping-and"
+     "t": "AP: la inflación de EE. UU. de octubre sube 0.4% mensual, más de lo esperado (10 nov 2026)",
+     "u": "https://finance.yahoo.com/economy/articles/inflation-stronger-expected-october-underscoring-133432261.html"
     }
    ]
   }
@@ -664,8 +663,8 @@
    "nombre": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
    "grupo": "bolsa",
-   "valor": 6290.45,
-   "cambio": 1.94,
+   "valor": 6358.06,
+   "cambio": 1.08,
    "unidad": "puntos",
    "name_pt": "Euro Stoxx 50"
   },
@@ -673,8 +672,8 @@
    "nombre": "Nikkei 225",
    "name_en": "Nikkei 225",
    "grupo": "bolsa",
-   "valor": 58775.5,
-   "cambio": 2.33,
+   "valor": 60459.58,
+   "cambio": 2.87,
    "unidad": "puntos",
    "name_pt": "Nikkei 225"
   },
@@ -682,8 +681,8 @@
    "nombre": "KOSPI",
    "name_en": "KOSPI",
    "grupo": "bolsa",
-   "valor": 5018.85,
-   "cambio": -0.81,
+   "valor": 5239.13,
+   "cambio": 4.39,
    "unidad": "puntos",
    "name_pt": "KOSPI"
   },
@@ -691,8 +690,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 18.55,
-   "cambio": -0.26,
+   "valor": 18.67,
+   "cambio": 0.59,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -701,7 +700,7 @@
    "name_en": "EUR/USD",
    "grupo": "divisa",
    "valor": 1.12,
-   "cambio": 0.74,
+   "cambio": -0.22,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -709,8 +708,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 157.93,
-   "cambio": -0.31,
+   "valor": 158.46,
+   "cambio": 0.35,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -718,8 +717,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 86.98,
-   "cambio": -4.24,
+   "valor": 84.1,
+   "cambio": -3.17,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -727,8 +726,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 92.81,
-   "cambio": -5.6,
+   "valor": 89.19,
+   "cambio": -3.65,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -745,8 +744,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 4148.1,
-   "cambio": 1.8,
+   "valor": 4063.8,
+   "cambio": -1.23,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -754,8 +753,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 6.38,
-   "cambio": 2.2,
+   "valor": 6.27,
+   "cambio": -1.1,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -763,8 +762,8 @@
    "nombre": "Treasury 10 años",
    "name_en": "10-yr Treasury",
    "grupo": "bono",
-   "valor": 4.86,
-   "cambio": 0,
+   "valor": 4.94,
+   "cambio": 7,
    "unidad": "%",
    "name_pt": "Título do Tesouro 10 anos"
   },

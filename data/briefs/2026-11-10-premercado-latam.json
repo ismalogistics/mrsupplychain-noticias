@@ -1,0 +1,91 @@
+{
+ "id": "2026-11-10-premercado-latam",
+ "fecha": "2026-11-10",
+ "momento": "premercado",
+ "mercado": "latam",
+ "hora": "07:55 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "La región cerró el lunes con fuertes alzas; hoy la presiona el dólar tras la inflación de EE. UU.",
+  "esencial": [
+   "El lunes el COLCAP subió 3.45% y el Ibovespa 2.22%, con el rebote global.",
+   "Hoy el CPI de EE. UU. arriba de lo esperado fortalece al dólar y puede frenar a las monedas de la región.",
+   "Convierte pronto los cobros en monedas locales y escalona los pagos en dólares de esta semana."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "Al cierre del lunes, el Ibovespa subió 2.22% (172,236), el COLCAP 3.45% (25,230), el S&P/TSX 1.84% (36,446) y los ETF de Perú, Argentina y Chile entre 2.0% y 3.2%. Con datos de las 2:52 CDMX, el peso chileno estaba en 967 por dólar, el real en 5.51, el peso colombiano en 3,274 y el sol en 3.41."
+   },
+   {
+    "t": "Contexto",
+    "x": "El CPI de EE. UU. arriba de lo esperado fortalece al dólar (DXY +0.35%) y sube los rendimientos, lo que suele presionar a las monedas de la región. La caída del crudo ayuda a los importadores, pero pesa sobre Colombia y Brasil."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "En Brasil sale hoy el acta del Copom, que mantuvo la Selic en 13.75%, y el jueves el IPCA de octubre."
+   }
+  ],
+  "scm": "Convierte pronto los cobros en monedas locales y escalona los pagos en dólares de esta semana. Con el crudo a la baja, pide revisar los recargos de flete en rutas regionales."
+ },
+ "en": {
+  "titular": "The region closed Monday with strong gains; today the dollar weighs after US inflation",
+  "esencial": [
+   "On Monday the COLCAP rose 3.45% and the Ibovespa 2.22% with the global rebound.",
+   "Today's hotter US CPI strengthens the dollar and may hold back the region's currencies.",
+   "Convert local-currency receivables soon and stagger this week's dollar payments."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "At Monday's close, the Ibovespa rose 2.22% (172,236), the COLCAP 3.45% (25,230), the S&P/TSX 1.84% (36,446) and the Peru, Argentina and Chile ETFs between 2.0% and 3.2%. With data as of 2:52 a.m. Mexico City time, the Chilean peso was at 967 per dollar, the real at 5.51, the Colombian peso at 3,274 and the sol at 3.41."
+   },
+   {
+    "t": "Context",
+    "x": "A hotter US CPI strengthens the dollar (DXY +0.35%) and lifts yields, which usually pressures the region's currencies. Lower crude helps importers but weighs on Colombia and Brazil."
+   },
+   {
+    "t": "What to expect today",
+    "x": "In Brazil, the minutes of the Copom meeting that held the Selic at 13.75% come out today, and October IPCA on Thursday."
+   }
+  ],
+  "scm": "Convert local-currency receivables soon and stagger this week's dollar payments. With crude lower, ask for a review of freight surcharges on regional routes."
+ },
+ "pt": {
+  "titular": "A região fechou a segunda com fortes altas; hoje o dólar pesa após a inflação dos EUA",
+  "esencial": [
+   "Na segunda o COLCAP subiu 3,45% e o Ibovespa 2,22%, com a recuperação global.",
+   "Hoje o CPI dos EUA acima do esperado fortalece o dólar e pode frear as moedas da região.",
+   "Converta logo os recebíveis em moeda local e escalone os pagamentos em dólares desta semana."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "No fechamento de segunda, o Ibovespa subiu 2,22% (172.236), o COLCAP 3,45% (25.230), o S&P/TSX 1,84% (36.446) e os ETFs do Peru, Argentina e Chile entre 2,0% e 3,2%. Com dados das 2h52 (Cidade do México), o peso chileno estava em 967 por dólar, o dólar em R$ 5,51, o peso colombiano em 3.274 e o sol em 3,41."
+   },
+   {
+    "t": "Contexto",
+    "x": "O CPI dos EUA acima do esperado fortalece o dólar (DXY +0,35%) e eleva os rendimentos, o que costuma pressionar as moedas da região. A queda do petróleo ajuda os importadores, mas pesa sobre Colômbia e Brasil."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "No Brasil sai hoje a ata do Copom, que manteve a Selic em 13,75%, e na quinta o IPCA de outubro."
+   }
+  ],
+  "scm": "Converta logo os recebíveis em moeda local e escalone os pagamentos em dólares desta semana. Com o petróleo em queda, peça revisão das sobretaxas de frete em rotas regionais."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, materias primas, bonos y divisas (10 nov 2026, 7:50 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "O Cafezinho: el acta del Copom sale el martes y el IPCA de octubre el jueves",
+   "u": "https://www.ocafezinho.com/2026-11-09/ata-do-copom-sai-na-terca-e-antecede-inflacao-de-outubro-na-quinta"
+  }
+ ]
+}

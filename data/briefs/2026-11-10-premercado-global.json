@@ -1,0 +1,99 @@
+{
+ "id": "2026-11-10-premercado-global",
+ "fecha": "2026-11-10",
+ "momento": "premercado",
+ "mercado": "global",
+ "hora": "07:55 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "La inflación de EE. UU. sube 0.4% en octubre, más de lo esperado, y los futuros de Nasdaq bajan 1.4%",
+  "esencial": [
+   "El CPI de octubre subió 0.4% mensual y el subyacente 0.3%, ambos una décima arriba de lo esperado.",
+   "Un dato más alto refuerza el alza de la Fed en diciembre: el Treasury a 10 años sube a 4.94% y los futuros del S&P 500 bajan 0.8%.",
+   "Para supply chain: el crudo sigue cayendo (Brent abajo de 90), pero el dólar fuerte y las tasas altas encarecen financiar inventario."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "A las 7:30 CDMX salió el CPI de octubre: subió 0.4% mensual (0.6% en septiembre) y el subyacente 0.3%, ambos una décima arriba del pronóstico. No hay tasa anual porque en octubre de 2025 no se recolectaron datos por el cierre de gobierno. El petróleo siguió cayendo después de que Trump dijo que pospondrá nuevos ataques contra Irán: el Brent bajó de 90 dólares por primera vez desde el 31 de agosto."
+   },
+   {
+    "t": "Asia, Europa y futuros",
+    "x": "Asia cerró al alza: KOSPI +4.39% (5,239.13), Nikkei +2.87% (60,459.58), Hang Seng +0.44% y Shanghái +0.08%. Europa sube: Euro Stoxx 50 +1.08%, DAX +1.18% y CAC 40 +1.16%. Tras el CPI, a las 7:41 CDMX los futuros del S&P 500 bajaban 0.76%, los del Nasdaq 100 1.39% y los del Dow 0.15%. El Treasury a 10 años subía a 4.94%, el índice del dólar 0.35% a 102.00, el WTI caía 3.2% a 84.10 dólares, el Brent 3.7% a 89.19 y el oro 1.2% a 4,063.80."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Wall Street abre a las 8:30 CDMX con presión en tecnología por el dato de inflación. La probabilidad de un alza de la Fed en diciembre ya estaba arriba de 80% antes del dato. El viernes sale el PPI de octubre (7:30 CDMX)."
+   }
+  ],
+  "scm": "Para hoy: 1) aprovecha la baja del crudo para fijar recargos de combustible con ajuste semanal; 2) con el dólar más fuerte tras el CPI, no cierres de golpe compras grandes en dólares; 3) revisa el costo de financiar inventario: las tasas de largo plazo subieron."
+ },
+ "en": {
+  "titular": "US inflation rises 0.4% in October, more than expected, and Nasdaq futures fall 1.4%",
+  "esencial": [
+   "October CPI rose 0.4% month over month and core 0.3%, both a tenth above forecasts.",
+   "The hotter reading reinforces a December Fed hike: the 10-year Treasury rises to 4.94% and S&P 500 futures fall 0.8%.",
+   "For supply chain: crude keeps falling (Brent below $90), but a stronger dollar and higher rates make financing inventory costlier."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "October CPI came out at 8:30 a.m. ET: it rose 0.4% month over month (0.6% in September) and core 0.3%, both a tenth above forecasts. There is no annual rate because October 2025 data were not collected during the government shutdown. Oil kept falling after Trump said he will hold off on new strikes against Iran: Brent fell below $90 for the first time since Aug. 31."
+   },
+   {
+    "t": "Asia, Europe and futures",
+    "x": "Asia closed higher: KOSPI +4.39% (5,239.13), Nikkei +2.87% (60,459.58), Hang Seng +0.44% and Shanghai +0.08%. Europe is up: Euro Stoxx 50 +1.08%, DAX +1.18% and CAC 40 +1.16%. After CPI, at 8:41 a.m. ET S&P 500 futures were down 0.76%, Nasdaq 100 futures 1.39% and Dow futures 0.15%. The 10-year Treasury rose to 4.94%, the dollar index 0.35% to 102.00, WTI fell 3.2% to $84.10, Brent 3.7% to $89.19 and gold 1.2% to $4,063.80."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Wall Street opens at 9:30 a.m. ET with pressure on tech from the inflation reading. The probability of a December Fed hike was already above 80% before the data. October PPI comes out Friday (8:30 a.m. ET)."
+   }
+  ],
+  "scm": "For today: 1) use lower crude to lock in weekly-adjusted fuel surcharges; 2) with a stronger dollar after CPI, avoid closing large dollar purchases all at once; 3) review inventory financing costs: long-term rates rose."
+ },
+ "pt": {
+  "titular": "A inflação dos EUA sobe 0,4% em outubro, acima do esperado, e os futuros do Nasdaq caem 1,4%",
+  "esencial": [
+   "O CPI de outubro subiu 0,4% no mês e o núcleo 0,3%, ambos um décimo acima do esperado.",
+   "O dado mais alto reforça a alta do Fed em dezembro: o título de 10 anos sobe para 4,94% e os futuros do S&P 500 caem 0,8%.",
+   "Para supply chain: o petróleo segue caindo (Brent abaixo de 90), mas o dólar forte e os juros altos encarecem financiar estoque."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Às 7h30 (Cidade do México) saiu o CPI de outubro: subiu 0,4% no mês (0,6% em setembro) e o núcleo 0,3%, ambos um décimo acima da previsão. Não há taxa anual porque em outubro de 2025 os dados não foram coletados pela paralisação do governo. O petróleo seguiu caindo depois que Trump disse que vai adiar novos ataques ao Irã: o Brent caiu abaixo de 90 dólares pela primeira vez desde 31 de agosto."
+   },
+   {
+    "t": "Ásia, Europa e futuros",
+    "x": "A Ásia fechou em alta: KOSPI +4,39% (5.239,13), Nikkei +2,87% (60.459,58), Hang Seng +0,44% e Xangai +0,08%. A Europa sobe: Euro Stoxx 50 +1,08%, DAX +1,18% e CAC 40 +1,16%. Depois do CPI, às 7h41 os futuros do S&P 500 caíam 0,76%, os do Nasdaq 100 1,39% e os do Dow 0,15%. O título de 10 anos subia para 4,94%, o índice do dólar 0,35% para 102,00, o WTI caía 3,2% para 84,10 dólares, o Brent 3,7% para 89,19 e o ouro 1,2% para 4.063,80."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Wall Street abre às 8h30 (Cidade do México) com pressão em tecnologia pelo dado de inflação. A probabilidade de alta do Fed em dezembro já estava acima de 80% antes do dado. Na sexta sai o PPI de outubro (7h30)."
+   }
+  ],
+  "scm": "Para hoje: 1) aproveite a queda do petróleo para fixar sobretaxas de combustível com ajuste semanal; 2) com o dólar mais forte após o CPI, não feche de uma vez compras grandes em dólares; 3) revise o custo de financiar estoque: os juros longos subiram."
+ },
+ "fuentes": [
+  {
+   "t": "AP: la inflación de EE. UU. de octubre sube 0.4% mensual, más de lo esperado (10 nov 2026)",
+   "u": "https://finance.yahoo.com/economy/articles/inflation-stronger-expected-october-underscoring-133432261.html"
+  },
+  {
+   "t": "USA Today: la inflación se modera en octubre, pero no hay dato anual por el cierre de gobierno",
+   "u": "https://finance.yahoo.com/economy/articles/inflation-slowed-october-annual-data-133551679.html"
+  },
+  {
+   "t": "Reuters: el petróleo cae porque Trump descarta escalar con Irán; el Brent baja de 90 dólares (10 nov 2026)",
+   "u": "https://finance.yahoo.com/news/oil-falls-trump-downplays-prospect-014322571.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, materias primas, bonos y divisas (10 nov 2026, 7:50 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Yahoo Finance: futuros del S&P 500 (ES=F), 10 nov 2026",
+   "u": "https://finance.yahoo.com/quote/ES%3DF/"
+  }
+ ]
+}

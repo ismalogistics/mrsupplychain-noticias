@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-10-premercado-global",
+   "fecha": "2026-11-10",
+   "momento": "premercado",
+   "mercado": "global",
+   "titular_es": "La inflación de EE. UU. sube 0.4% en octubre, más de lo esperado, y los futuros de Nasdaq bajan 1.4%",
+   "titular_en": "US inflation rises 0.4% in October, more than expected, and Nasdaq futures fall 1.4%",
+   "titular_pt": "A inflação dos EUA sobe 0,4% em outubro, acima do esperado, e os futuros do Nasdaq caem 1,4%"
+  },
+  {
+   "id": "2026-11-10-premercado-latam",
+   "fecha": "2026-11-10",
+   "momento": "premercado",
+   "mercado": "latam",
+   "titular_es": "La región cerró el lunes con fuertes alzas; hoy la presiona el dólar tras la inflación de EE. UU.",
+   "titular_en": "The region closed Monday with strong gains; today the dollar weighs after US inflation",
+   "titular_pt": "A região fechou a segunda com fortes altas; hoje o dólar pesa após a inflação dos EUA"
+  },
+  {
+   "id": "2026-11-10-premercado-mexico",
+   "fecha": "2026-11-10",
+   "momento": "premercado",
+   "mercado": "mexico",
+   "titular_es": "El peso pierde terreno tras la inflación de EE. UU.: pasa de 18.50 en la madrugada a 18.67",
+   "titular_en": "The peso loses ground after US inflation: from 18.50 overnight to 18.67",
+   "titular_pt": "O peso perde terreno após a inflação dos EUA: passa de 18,50 na madrugada para 18,67"
+  },
+  {
    "id": "2026-11-09-cierre-global",
    "fecha": "2026-11-09",
    "momento": "cierre",

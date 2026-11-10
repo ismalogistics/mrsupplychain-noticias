@@ -1,0 +1,91 @@
+{
+ "id": "2026-11-10-premercado-mexico",
+ "fecha": "2026-11-10",
+ "momento": "premercado",
+ "mercado": "mexico",
+ "hora": "07:55 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El peso pierde terreno tras la inflación de EE. UU.: pasa de 18.50 en la madrugada a 18.67",
+  "esencial": [
+   "El peso abrió cerca de 18.50 por dólar y tras el CPI de EE. UU. se debilitó a 18.67 (−0.6%).",
+   "La inflación de EE. UU. arriba de lo esperado fortalece al dólar y sube las tasas, mientras en México la inflación ya está en 3.75%.",
+   "Si tienes pagos en dólares, no los compres todos hoy: espera a que se asiente el movimiento del CPI."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El peso cerró el lunes en 18.55 y a las 6:16 CDMX cotizaba cerca de 18.50. Tras el CPI de EE. UU., a las 7:50 CDMX estaba en 18.67 (el dólar +0.59%). El lunes el INEGI reportó que la inflación de México subió a 3.75% en octubre por el fin del subsidio eléctrico."
+   },
+   {
+    "t": "Contexto",
+    "x": "Un CPI más alto en EE. UU. refuerza el alza de la Fed en diciembre y reduce el diferencial de tasas frente a Banxico (6.25%), lo que presiona al peso. La caída del crudo (Brent abajo de 90 dólares) reduce costos de combustibles, pero también los ingresos petroleros."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Hoy martes hay subasta de Cetes; será la primera desde que Banxico recortó a 6.25%. El lunes 16 cierran la BMV y los bancos por el Día de la Revolución."
+   }
+  ],
+  "scm": "Con el peso en 18.67 tras el CPI, compra por tramos los dólares de noviembre en lugar de cerrar todo hoy, y adelanta los pagos del lunes 16 (día inhábil bancario)."
+ },
+ "en": {
+  "titular": "The peso loses ground after US inflation: from 18.50 overnight to 18.67",
+  "esencial": [
+   "The peso opened near 18.50 per dollar and after US CPI weakened to 18.67 (−0.6%).",
+   "Hotter US inflation strengthens the dollar and lifts rates, while Mexico's inflation is already at 3.75%.",
+   "If you have dollar payments, don't buy them all today: wait for the CPI move to settle."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "The peso closed Monday at 18.55 and traded near 18.50 at 7:16 a.m. ET. After US CPI, at 8:50 a.m. ET it was at 18.67 (dollar +0.59%). On Monday INEGI reported Mexico's inflation rose to 3.75% in October as the power subsidy ended."
+   },
+   {
+    "t": "Context",
+    "x": "A hotter US CPI reinforces a December Fed hike and narrows the rate gap with Banxico (6.25%), pressuring the peso. Lower crude (Brent below $90) cuts fuel costs but also oil revenue."
+   },
+   {
+    "t": "What to expect today",
+    "x": "There is a Cetes auction today, the first since Banxico cut to 6.25%. On Monday the 16th, the BMV and banks close for Revolution Day."
+   }
+  ],
+  "scm": "With the peso at 18.67 after CPI, buy November dollars in tranches rather than all today, and move payments due Monday the 16th (bank holiday) forward."
+ },
+ "pt": {
+  "titular": "O peso perde terreno após a inflação dos EUA: passa de 18,50 na madrugada para 18,67",
+  "esencial": [
+   "O peso abriu perto de 18,50 por dólar e após o CPI dos EUA enfraqueceu para 18,67 (−0,6%).",
+   "A inflação dos EUA acima do esperado fortalece o dólar e eleva os juros, enquanto no México a inflação já está em 3,75%.",
+   "Se você tem pagamentos em dólares, não compre tudo hoje: espere o movimento do CPI se acomodar."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "O peso fechou a segunda a 18,55 e às 6h16 (Cidade do México) estava perto de 18,50. Após o CPI dos EUA, às 7h50 estava a 18,67 (dólar +0,59%). Na segunda o INEGI informou que a inflação do México subiu para 3,75% em outubro pelo fim do subsídio elétrico."
+   },
+   {
+    "t": "Contexto",
+    "x": "Um CPI mais alto nos EUA reforça a alta do Fed em dezembro e reduz o diferencial de juros frente ao Banxico (6,25%), o que pressiona o peso. A queda do petróleo (Brent abaixo de 90 dólares) reduz custos de combustíveis, mas também a receita petroleira."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Hoje, terça, há leilão de Cetes, o primeiro desde que o Banxico cortou para 6,25%. Na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução."
+   }
+  ],
+  "scm": "Com o peso a 18,67 após o CPI, compre em parcelas os dólares de novembro em vez de fechar tudo hoje, e antecipe os pagamentos da segunda, dia 16 (feriado bancário)."
+ },
+ "fuentes": [
+  {
+   "t": "Infobae: el dólar abre el 10 de noviembre en alrededor de 18.50 pesos",
+   "u": "https://www.infobae.com/mexico/2026/11/10/dolar-hoy-en-mexico-cotizacion-de-apertura-del-10-de-noviembre/"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, materias primas, bonos y divisas (10 nov 2026, 7:50 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "AP: la inflación de EE. UU. de octubre sube 0.4% mensual, más de lo esperado (10 nov 2026)",
+   "u": "https://finance.yahoo.com/economy/articles/inflation-stronger-expected-october-underscoring-133432261.html"
+  }
+ ]
+}
