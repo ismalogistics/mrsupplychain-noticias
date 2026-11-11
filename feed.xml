@@ -7,7 +7,34 @@
   <description>Briefs diarios de mercados (premercado, apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
   <language>es-MX</language>
   <copyright>Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</copyright>
-  <lastBuildDate>Wed, 11 Nov 2026 09:11:00 -0600</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 11:42:00 -0600</lastBuildDate>
+  <item>
+    <title>El IPC sube 0.85% y el peso se mantiene en 18.61 pese a la caída industrial</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-11-mediodia-mexico/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-11-mediodia-mexico/</guid>
+    <pubDate>Wed, 11 Nov 2026 11:42:00 -0600</pubDate>
+    <category>Mediodía · México</category>
+    <description>En la apertura el IPC subía 0.59% y el peso operaba en 18.62, con la caída de 1.4% mensual de la actividad industrial de septiembre como dato del día. A las 11:22 CDMX el S&amp;P/BMV IPC subía 0.85% a 72,504.95 y a las 11:42 el peso cotizaba en 18.61 por dólar, sin cambio en el día. Sin mercado de bonos en EE. UU., la operación del peso es más ligera. — Con el peso estable en 18.61, cubre por tramos los dólares de noviembre y adelanta los pagos del lunes 16. Ajusta a la baja el pronóstico de demanda de clientes manufactureros por el dato industrial.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-11-mediodia-mexico/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>La región sube con Wall Street; el COLCAP cae 1.4% y el peso colombiano se fortalece</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-11-mediodia-latam/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-11-mediodia-latam/</guid>
+    <pubDate>Wed, 11 Nov 2026 11:42:00 -0600</pubDate>
+    <category>Mediodía · LATAM</category>
+    <description>En la apertura el Ibovespa subía 0.78% y el real se fortalecía a 5.55; Colombia era la excepción a la baja. A las 11:27 CDMX el Ibovespa estaba en 172,460.55 (+0.66%) y a las 11:42 el S&amp;P/TSX en 36,468 (+0.82%). El ETF de MSCI de Perú subía 0.72% y el de Argentina 0.39%; el de Chile no cambiaba y el iCOLCAP bajaba 1.35%. El real estaba en 5.56 por dólar (dólar −0.30%), el peso colombiano en 3,280 (−0.33%), el peso chileno en 983.8, el sol en 3.41 y el peso argentino en 1,546.5. — Cotiza hoy cable e insumos de cobre, y pide recargos de flete regionales calculados con el diésel, que sube 2.5%.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-11-mediodia-latam/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>El rebote de la IA se amplía: el Nasdaq sube 2.2%, Micron 13.5% y el diésel 2.5%</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-11-mediodia-global/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-11-mediodia-global/</guid>
+    <pubDate>Wed, 11 Nov 2026 11:42:00 -0600</pubDate>
+    <category>Mediodía · Global</category>
+    <description>En la apertura se esperaba un rebote de la tecnología tras los resultados de CoreWeave, con el mercado de bonos cerrado por el Día de los Veteranos y el crudo al alza por Ormuz. El rebote se amplió: a las 11:42 CDMX el S&amp;P 500 estaba en 7,635.66 (+1.53%), el Nasdaq en 25,622.48 (+2.22%) y el Dow en 52,390.08 (+0.30%); el VIX bajaba 8.9% a 17.73. CoreWeave subía 26.3%, Micron 13.5%, AMD 8.6% y Nvidia 4.7% (176.76). El WTI estaba en 86.82 dólares (+0.9%) y el Brent en 92.86 (+1.5%), tras subir más de 2% a media mañana; el futuro del diésel ganaba 2.5% (4.23 dólares por galón). Europa cerró al alza: Euro Stoxx 50 +1.04%, DAX +1.20%. — El diésel vuelve a subir (+2.5%) aunque el crudo modera: pide que los recargos de flete de la próxima semana se calculen con el diésel. Con los chips y la memoria al alza, cierra hoy volúmenes del primer trimestre.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-11-mediodia-global/og.png" type="image/png" length="0"/>
+  </item>
   <item>
     <title>La actividad industrial cae 1.4% en septiembre; el IPC sube 0.6% y el peso opera en 18.62</title>
     <link>https://mrsupplychain.ai/noticias/brief/2026-11-11-apertura-mexico/</link>
@@ -340,33 +367,6 @@
     <category>Apertura · México</category>
     <description>A las 8:18 CDMX el peso cotizaba en 18.685 por dólar (+0.33%), con un rango de 18.592 a 18.881 en el día; el FIX publicado hoy fue de 18.7147. El jueves el IPC cerró en 71,087.56 (+0.38%), con Chedraui +7.4% y Bimbo +3.4%; no confirmé la apertura del IPC de hoy. El peso recupera parte de lo perdido tras el recorte de Banxico a 6.25%, aunque el índice dólar sube 0.7% por el empleo fuerte en EE. UU. El diferencial de tasas en mínimo histórico le quita atractivo al peso para el carry trade. — El peso en 18.69 es mejor nivel que el cierre de ayer (18.75): cubre una parte de tus pagos en dólares de noviembre hoy y el resto por tramos. Si tienes pagos el lunes 16, adelántalos: los bancos cierran.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-06-apertura-mexico/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Las monedas de la región se debilitan con el dólar fuerte; las bolsas vienen de fuertes caídas el jueves</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-06-apertura-latam/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-06-apertura-latam/</guid>
-    <pubDate>Fri, 06 Nov 2026 09:00:00 -0600</pubDate>
-    <category>Apertura · LATAM</category>
-    <description>Con datos de las 5:10 CDMX, el peso chileno estaba en 980.1 por dólar, el colombiano en 3,237.9, el real en 5.49 y el sol en 3.44. Las bolsas de la región todavía muestran el cierre del jueves: Argentina −5.66%, Chile −3.25%, Perú −3.12%, S&amp;P/TSX −2.03% (35,605.3) e Ibovespa −0.82% (166,192). El empleo fuerte en EE. UU. (165 mil plazas) sube al dólar 0.7% y la probabilidad de un alza de la Fed en diciembre a 78%, lo que presiona a las monedas emergentes. El rebote de los chips en Wall Street puede ayudar a las bolsas. — Con el dólar fuerte, conviene convertir pronto los cobros en monedas locales de la región; los pagos en esas monedas pueden esperar.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-06-apertura-latam/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>EE. UU. crea 165 mil empleos, casi tres veces lo esperado; el Nasdaq rebota 1.7%, pero crece la apuesta por un alza de la Fed en diciembre</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-06-apertura-global/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-06-apertura-global/</guid>
-    <pubDate>Fri, 06 Nov 2026 09:00:00 -0600</pubDate>
-    <category>Apertura · Global</category>
-    <description>A las 7:30 CDMX el empleo de octubre sorprendió: 165 mil plazas contra 65 mil esperadas, desempleo de 4.1% (4.2% antes) y septiembre revisado a 60 mil desde 29 mil; los salarios suben 3.1% anual. La probabilidad de un alza de la Fed en diciembre subió a 78% desde 70%. A las 8:45 CDMX el Nasdaq subía 1.7% y el S&amp;P 500 0.6%, mientras el Dow bajaba 0.6%. Rebotaban Nvidia (+4.2%) y AMD, Intel, Broadcom y Micron (+5% a 9%); Airbnb subía 13.9% por sus resultados y Atlassian caía 15.9%. El Treasury a 10 años subía a 4.87%, el de 2 años a 4.52% y el índice dólar 0.7% a 102.22. El Nikkei cerró en 57,434.77 (−5.96%), 9% abajo de su cierre del 2 de noviembre; Corea del Sur y Taiwán abrieron con caídas de más de 8% y recuperaron una parte. No encontré cifras verificadas de Europa a esta hora. — El empleo fuerte sostiene la demanda de consumo en EE. UU., pero acerca un alza de tasas en diciembre: no recortes pronósticos de demanda y asume que el costo de financiar inventario no bajará este año. Retira hoy de Long Beach los contenedores ya liberados.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-06-apertura-global/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>El peso amanece en 18.74 tras el recorte sorpresa de Banxico; FIX de 18.7147</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-mexico/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-mexico/</guid>
-    <pubDate>Fri, 06 Nov 2026 05:10:00 -0600</pubDate>
-    <category>Premercado · México</category>
-    <description>El jueves Banxico bajó su tasa de 6.50% a 6.25% (votación 3-2) y anticipó una pausa prolongada; el peso cerró en 18.75 (−1%) tras tocar 18.96. En la madrugada cotizaba en 18.74. El FIX publicado hoy es de 18.7147. Con el recorte, el diferencial de tasas con EE. UU. queda en un mínimo histórico, lo que deja al peso más expuesto a la aversión al riesgo. La venta de IA en Asia (Nikkei −6%) y el empleo de EE. UU. marcarán la mañana. — Con el peso en 18.74 y el empleo de EE. UU. a las 7:30, cubre antes del dato sólo lo urgente y el resto por tramos la próxima semana. Si pagas en dólares el lunes 16, adelanta el pago: ese día los bancos en México cierran.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-06-premercado-mexico/og.png" type="image/png" length="0"/>
   </item>
 </channel>
 </rss>
