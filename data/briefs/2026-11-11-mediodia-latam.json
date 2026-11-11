@@ -1,0 +1,86 @@
+{
+ "id": "2026-11-11-mediodia-latam",
+ "fecha": "2026-11-11",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:42 CDMX",
+ "es": {
+  "titular": "La región sube con Wall Street; el COLCAP cae 1.4% y el peso colombiano se fortalece",
+  "esencial": [
+   "A las 11:27 CDMX el Ibovespa subía 0.66% (172,461) y el S&P/TSX 0.82%.",
+   "El iCOLCAP de Colombia perdía 1.35%, mientras el peso colombiano ganaba 0.33% (3,280 por dólar).",
+   "Con el cobre +1.0% y el diésel +2.5%, cotiza hoy insumos de cobre y revisa los recargos de flete regionales."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el Ibovespa subía 0.78% y el real se fortalecía a 5.55; Colombia era la excepción a la baja."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:27 CDMX el Ibovespa estaba en 172,460.55 (+0.66%) y a las 11:42 el S&P/TSX en 36,468 (+0.82%). El ETF de MSCI de Perú subía 0.72% y el de Argentina 0.39%; el de Chile no cambiaba y el iCOLCAP bajaba 1.35%. El real estaba en 5.56 por dólar (dólar −0.30%), el peso colombiano en 3,280 (−0.33%), el peso chileno en 983.8, el sol en 3.41 y el peso argentino en 1,546.5."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "La caída de la bolsa de Colombia mientras su moneda se fortalece. El cobre amplió su alza a 1.0% (6.30 dólares por libra), lo que favorece a Perú."
+   }
+  ],
+  "scm": "Cotiza hoy cable e insumos de cobre, y pide recargos de flete regionales calculados con el diésel, que sube 2.5%."
+ },
+ "en": {
+  "titular": "The region rises with Wall Street; the COLCAP falls 1.4% and the Colombian peso strengthens",
+  "esencial": [
+   "At 11:27 a.m. Mexico City time the Ibovespa was up 0.66% (172,461) and the S&P/TSX 0.82%.",
+   "Colombia's iCOLCAP was down 1.35%, while the Colombian peso gained 0.33% (3,280 per dollar).",
+   "With copper +1.0% and diesel +2.5%, quote copper inputs today and review regional freight surcharges."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the Ibovespa was up 0.78% and the real strengthened to 5.55; Colombia was the exception to the downside."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:27 a.m. Mexico City time the Ibovespa stood at 172,460.55 (+0.66%) and at 11:42 the S&P/TSX at 36,468 (+0.82%). The MSCI Peru ETF was up 0.72% and Argentina's 0.39%; Chile's was flat and the iCOLCAP fell 1.35%. The real was at 5.56 per dollar (dollar −0.30%), the Colombian peso at 3,280 (−0.33%), the Chilean peso at 983.8, the sol at 3.41 and the Argentine peso at 1,546.5."
+   },
+   {
+    "t": "What surprised",
+    "x": "Colombia's stock market fell while its currency strengthened. Copper extended its gain to 1.0% ($6.30 per pound), helping Peru."
+   }
+  ],
+  "scm": "Quote cable and copper inputs today, and ask for regional freight surcharges based on diesel, which is up 2.5%."
+ },
+ "pt": {
+  "titular": "A região sobe com Wall Street; o COLCAP cai 1,4% e o peso colombiano se fortalece",
+  "esencial": [
+   "Às 11h27 (Cidade do México) o Ibovespa subia 0,66% (172.461) e o S&P/TSX 0,82%.",
+   "O iCOLCAP da Colômbia perdia 1,35%, enquanto o peso colombiano ganhava 0,33% (3.280 por dólar).",
+   "Com o cobre +1,0% e o diesel +2,5%, cote hoje insumos de cobre e revise as sobretaxas de frete regionais."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o Ibovespa subia 0,78% e o real se fortalecia para R$ 5,55; a Colômbia era a exceção em queda."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h27 (Cidade do México) o Ibovespa estava em 172.460,55 (+0,66%) e às 11h42 o S&P/TSX em 36.468 (+0,82%). O ETF da MSCI do Peru subia 0,72% e o da Argentina 0,39%; o do Chile não mudava e o iCOLCAP caía 1,35%. O dólar estava em R$ 5,56 (dólar −0,30%), o peso colombiano em 3.280 (−0,33%), o peso chileno em 983,8, o sol em 3,41 e o peso argentino em 1.546,5."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A queda da bolsa da Colômbia enquanto sua moeda se fortalece. O cobre ampliou a alta para 1,0% (6,30 dólares por libra), o que favorece o Peru."
+   }
+  ],
+  "scm": "Cote hoje cabos e insumos de cobre, e peça sobretaxas de frete regionais calculadas com o diesel, que sobe 2,5%."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (11 nov 2026, 11:42 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

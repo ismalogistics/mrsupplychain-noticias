@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-11T15:15:08Z",
+ "actualizado": "2026-11-11T17:43:58Z",
  "fecha": "2026-11-11",
  "titular": {
-  "es": "Miércoles: los chips rebotan con CoreWeave, el crudo sube por Ormuz y la industria mexicana cae 1.4%",
-  "en": "Wednesday: chips rebound on CoreWeave, crude rises on Hormuz and Mexican industry falls 1.4%",
-  "pt": "Quarta: os chips se recuperam com a CoreWeave, o petróleo sobe por Ormuz e a indústria mexicana cai 1,4%"
+  "es": "Mediodía: los chips amplían el rebote, el diésel sube 2.5% y la industria mexicana cae 1.4%",
+  "en": "Midday: chips extend the rebound, diesel rises 2.5% and Mexican industry falls 1.4%",
+  "pt": "Meio-dia: os chips ampliam a recuperação, o diesel sobe 2,5% e a indústria mexicana cai 1,4%"
  },
  "items": [
   {
@@ -17,14 +17,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "CoreWeave eleva su pronóstico y los chips rebotan: AMD +4.9%, Intel +6.2% y Micron más de 8%",
-    "en": "CoreWeave raises its outlook and chips rebound: AMD +4.9%, Intel +6.2% and Micron over 8%",
-    "pt": "A CoreWeave eleva sua previsão e os chips se recuperam: AMD +4,9%, Intel +6,2% e Micron mais de 8%"
+    "es": "Los chips amplían el rebote: el índice de semiconductores sube 7%, Micron 13.5% y AMD 8.6%",
+    "en": "Chips extend the rebound: the semiconductor index rises 7%, Micron 13.5% and AMD 8.6%",
+    "pt": "Os chips ampliam a recuperação: o índice de semicondutores sobe 7%, a Micron 13,5% e a AMD 8,6%"
    },
    "x": {
-    "es": "CoreWeave subió su pronóstico de ingresos de 2026 a entre 13,000 y 13,300 millones de dólares; sus ingresos del trimestre crecieron 168% a 3,660 millones y su cartera llegó a 132,500 millones. Nvidia rebotaba 2.2% pese a la baja de recomendación de Baird; Micron y SK Hynix ganaban más de 8%.",
-    "en": "CoreWeave raised its 2026 revenue forecast to $13 billion to $13.3 billion; quarterly revenue grew 168% to $3.66 billion and its backlog reached $132.5 billion. Nvidia bounced 2.2% despite Baird's downgrade; Micron and SK Hynix gained more than 8%.",
-    "pt": "A CoreWeave elevou sua previsão de receita de 2026 para entre 13 e 13,3 bilhões de dólares; a receita do trimestre cresceu 168% para 3,66 bilhões e sua carteira chegou a 132,5 bilhões. A Nvidia subia 2,2% apesar do rebaixamento da Baird; Micron e SK Hynix ganhavam mais de 8%."
+    "es": "A media sesión el índice de semiconductores de Filadelfia subía 7% a su máximo de una semana, con Marvell +12.2% y Micron +13.3%, según Reuters; Nvidia ganaba 4.7% tras perder unos 430,000 millones de dólares en dos sesiones. CoreWeave subió su pronóstico de ingresos de 2026 a entre 13,000 y 13,300 millones.",
+    "en": "At midday the Philadelphia semiconductor index was up 7% at a one-week high, with Marvell +12.2% and Micron +13.3%, according to Reuters; Nvidia gained 4.7% after shedding about $430 billion over two sessions. CoreWeave raised its 2026 revenue forecast to $13 billion to $13.3 billion.",
+    "pt": "No meio do pregão o índice de semicondutores da Filadélfia subia 7% para a máxima de uma semana, com Marvell +12,2% e Micron +13,3%, segundo a Reuters; a Nvidia ganhava 4,7% depois de perder cerca de 430 bilhões de dólares em dois pregões. A CoreWeave elevou sua previsão de receita de 2026 para entre 13 e 13,3 bilhões."
    },
    "scm": {
     "es": "La demanda de cómputo supera la capacidad: asegura hoy volúmenes de memoria y almacenamiento para el primer trimestre.",
@@ -32,6 +32,10 @@
     "pt": "A demanda por computação supera a capacidade: garanta hoje volumes de memória e armazenamento para o primeiro trimestre."
    },
    "fuentes": [
+    {
+     "t": "Reuters vía Yahoo Finance: S&P 500 y Nasdaq suben más de 1% por CoreWeave (11 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-104431138.html"
+    },
     {
      "t": "Yahoo Finance: Nvidia rebota y los chips suben por los resultados de CoreWeave (11 nov 2026)",
      "u": "https://finance.yahoo.com/markets/article/nvidia-stock-rebounds-chip-stocks-surge-as-coreweave-earnings-boost-ai-trade-151001136.html"
@@ -52,14 +56,14 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo sube 1.7% por Ormuz: WTI en 87.51 dólares y Brent en 93.24",
-    "en": "Crude rises 1.7% on Hormuz: WTI at $87.51 and Brent at $93.24",
-    "pt": "O petróleo sobe 1,7% por Ormuz: WTI a 87,51 dólares e Brent a 93,24"
+    "es": "El crudo sube y el diésel gana 2.5%: Irán conservará su material nuclear",
+    "en": "Crude rises and diesel gains 2.5%: Iran will keep its nuclear material",
+    "pt": "O petróleo sobe e o diesel ganha 2,5%: o Irã manterá seu material nuclear"
    },
    "x": {
-    "es": "El petróleo rebota desde mínimos de dos meses porque Irán dijo que su material nuclear enriquecido no saldrá del país y siguen los ataques a buques: en octubre hubo 37, el máximo mensual desde que empezó la guerra. Brent y WTI acumulan bajas de 21% y 17% en noviembre; hoy salen los inventarios de la EIA.",
-    "en": "Oil rebounds from two-month lows after Iran said its enriched nuclear material will not leave the country and ship attacks continue: there were 37 in October, the monthly high since the war began. Brent and WTI are down 21% and 17% in November; EIA inventories come out today.",
-    "pt": "O petróleo se recupera das mínimas de dois meses porque o Irã disse que seu material nuclear enriquecido não sairá do país e os ataques a navios continuam: em outubro foram 37, o máximo mensal desde o início da guerra. Brent e WTI acumulam quedas de 21% e 17% em novembro; hoje saem os estoques da EIA."
+    "es": "A las 11:32 CDMX el WTI estaba en 86.82 dólares (+0.9%) y el Brent en 92.86 (+1.5%), tras subir más de 2% a media mañana; el futuro del diésel ganaba 2.5% a 4.23 dólares por galón. En octubre hubo 37 barcos atacados en la zona de Ormuz, el máximo mensual desde que empezó la guerra.",
+    "en": "At 12:32 p.m. ET WTI was at $86.82 (+0.9%) and Brent at $92.86 (+1.5%), after rising more than 2% mid-morning; diesel futures gained 2.5% to $4.23 per gallon. In October 37 ships were attacked around Hormuz, the monthly high since the war began.",
+    "pt": "Às 11h32 (Cidade do México) o WTI estava a 86,82 dólares (+0,9%) e o Brent a 92,86 (+1,5%), depois de subir mais de 2% no meio da manhã; o futuro do diesel ganhava 2,5% a 4,23 dólares por galão. Em outubro 37 navios foram atacados na região de Ormuz, o máximo mensal desde o início da guerra."
    },
    "scm": {
     "es": "Fija recargos de combustible con ajuste semanal: el crudo ya rebota.",
@@ -68,8 +72,12 @@
    },
    "fuentes": [
     {
-     "t": "Reuters vía Yahoo Finance: el petróleo sube 1% tras declaraciones de Irán; ataques en Ormuz (11 nov 2026)",
+     "t": "Reuters vía Yahoo Finance: el petróleo sube 2% porque Irán conservará su material nuclear (11 nov 2026)",
      "u": "https://finance.yahoo.com/energy/articles/oil-rebounds-hormuz-shipping-attacks-045504059.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (11 nov 2026, 11:42 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },

@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-11-mediodia-global",
+ "fecha": "2026-11-11",
+ "momento": "mediodia",
+ "mercado": "global",
+ "hora": "11:42 CDMX",
+ "es": {
+  "titular": "El rebote de la IA se amplía: el Nasdaq sube 2.2%, Micron 13.5% y el diésel 2.5%",
+  "esencial": [
+   "A las 11:42 CDMX el S&P 500 subía 1.53%, el Nasdaq 2.22% y el Dow 0.30%; el índice de semiconductores de Filadelfia ganaba 7%, según Reuters.",
+   "CoreWeave subía 26%, Micron 13.5%, AMD 8.6% y Nvidia 4.7%; el VIX bajaba a 17.73.",
+   "Para supply chain: el futuro del diésel sube 2.5% por Ormuz; revisa los recargos de flete de la próxima semana."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura se esperaba un rebote de la tecnología tras los resultados de CoreWeave, con el mercado de bonos cerrado por el Día de los Veteranos y el crudo al alza por Ormuz."
+   },
+   {
+    "t": "Cómo va",
+    "x": "El rebote se amplió: a las 11:42 CDMX el S&P 500 estaba en 7,635.66 (+1.53%), el Nasdaq en 25,622.48 (+2.22%) y el Dow en 52,390.08 (+0.30%); el VIX bajaba 8.9% a 17.73. CoreWeave subía 26.3%, Micron 13.5%, AMD 8.6% y Nvidia 4.7% (176.76). El WTI estaba en 86.82 dólares (+0.9%) y el Brent en 92.86 (+1.5%), tras subir más de 2% a media mañana; el futuro del diésel ganaba 2.5% (4.23 dólares por galón). Europa cerró al alza: Euro Stoxx 50 +1.04%, DAX +1.20%."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "La fuerza del rebote: el índice de semiconductores de Filadelfia subió 7% a su máximo de una semana, y Nebius ganó 17.4%, según Reuters. Los inversionistas también revisan los términos de la oferta pública de Anthropic, que busca una valuación de hasta 1.4 billones de dólares. El mercado ya descuenta por completo un alza de la Fed en diciembre, según CME FedWatch."
+   }
+  ],
+  "scm": "El diésel vuelve a subir (+2.5%) aunque el crudo modera: pide que los recargos de flete de la próxima semana se calculen con el diésel. Con los chips y la memoria al alza, cierra hoy volúmenes del primer trimestre."
+ },
+ "en": {
+  "titular": "The AI rebound broadens: the Nasdaq rises 2.2%, Micron 13.5% and diesel 2.5%",
+  "esencial": [
+   "At 12:42 p.m. ET the S&P 500 was up 1.53%, the Nasdaq 2.22% and the Dow 0.30%; the Philadelphia semiconductor index gained 7%, according to Reuters.",
+   "CoreWeave was up 26%, Micron 13.5%, AMD 8.6% and Nvidia 4.7%; the VIX fell to 17.73.",
+   "For supply chain: diesel futures rise 2.5% on Hormuz; review next week's freight surcharges."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open a tech rebound was expected after CoreWeave results, with the bond market closed for Veterans Day and crude rising on Hormuz."
+   },
+   {
+    "t": "How it is going",
+    "x": "The rebound broadened: at 12:42 p.m. ET the S&P 500 stood at 7,635.66 (+1.53%), the Nasdaq at 25,622.48 (+2.22%) and the Dow at 52,390.08 (+0.30%); the VIX fell 8.9% to 17.73. CoreWeave was up 26.3%, Micron 13.5%, AMD 8.6% and Nvidia 4.7% ($176.76). WTI was at $86.82 (+0.9%) and Brent at $92.86 (+1.5%), after rising more than 2% mid-morning; diesel futures gained 2.5% ($4.23 per gallon). Europe closed higher: Euro Stoxx 50 +1.04%, DAX +1.20%."
+   },
+   {
+    "t": "What surprised",
+    "x": "The strength of the rebound: the Philadelphia semiconductor index rose 7% to a one-week high, and Nebius gained 17.4%, according to Reuters. Investors are also weighing the terms of Anthropic's IPO, which seeks a valuation of up to $1.4 trillion. The market now fully prices a December Fed hike, according to CME FedWatch."
+   }
+  ],
+  "scm": "Diesel is rising again (+2.5%) even as crude eases: ask for next week's freight surcharges to be calculated on diesel. With chips and memory rallying, lock in first-quarter volumes today."
+ },
+ "pt": {
+  "titular": "A recuperação da IA se amplia: o Nasdaq sobe 2,2%, a Micron 13,5% e o diesel 2,5%",
+  "esencial": [
+   "Às 11h42 (Cidade do México) o S&P 500 subia 1,53%, o Nasdaq 2,22% e o Dow 0,30%; o índice de semicondutores da Filadélfia ganhava 7%, segundo a Reuters.",
+   "A CoreWeave subia 26%, a Micron 13,5%, a AMD 8,6% e a Nvidia 4,7%; o VIX caía para 17,73.",
+   "Para supply chain: o futuro do diesel sobe 2,5% por Ormuz; revise as sobretaxas de frete da próxima semana."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura se esperava uma recuperação da tecnologia após os resultados da CoreWeave, com o mercado de títulos fechado pelo Dia dos Veteranos e o petróleo em alta por Ormuz."
+   },
+   {
+    "t": "Como está",
+    "x": "A recuperação se ampliou: às 11h42 (Cidade do México) o S&P 500 estava em 7.635,66 (+1,53%), o Nasdaq em 25.622,48 (+2,22%) e o Dow em 52.390,08 (+0,30%); o VIX caía 8,9% para 17,73. A CoreWeave subia 26,3%, a Micron 13,5%, a AMD 8,6% e a Nvidia 4,7% (176,76). O WTI estava a 86,82 dólares (+0,9%) e o Brent a 92,86 (+1,5%), depois de subir mais de 2% no meio da manhã; o futuro do diesel ganhava 2,5% (4,23 dólares por galão). A Europa fechou em alta: Euro Stoxx 50 +1,04%, DAX +1,20%."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A força da recuperação: o índice de semicondutores da Filadélfia subiu 7% para a máxima de uma semana, e a Nebius ganhou 17,4%, segundo a Reuters. Os investidores também avaliam os termos da oferta pública da Anthropic, que busca avaliação de até 1,4 trilhão de dólares. O mercado já precifica totalmente uma alta do Fed em dezembro, segundo o CME FedWatch."
+   }
+  ],
+  "scm": "O diesel volta a subir (+2,5%) mesmo com o petróleo moderando: peça que as sobretaxas de frete da próxima semana sejam calculadas com o diesel. Com chips e memória em alta, feche hoje os volumes do primeiro trimestre."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters vía Yahoo Finance: S&P 500 y Nasdaq suben más de 1% por CoreWeave (11 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-104431138.html"
+  },
+  {
+   "t": "Reuters vía Yahoo Finance: el petróleo sube 2% porque Irán conservará su material nuclear (11 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-rebounds-hormuz-shipping-attacks-045504059.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (11 nov 2026, 11:42 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

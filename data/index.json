@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-11-mediodia-global",
+   "fecha": "2026-11-11",
+   "momento": "mediodia",
+   "mercado": "global",
+   "titular_es": "El rebote de la IA se amplía: el Nasdaq sube 2.2%, Micron 13.5% y el diésel 2.5%",
+   "titular_en": "The AI rebound broadens: the Nasdaq rises 2.2%, Micron 13.5% and diesel 2.5%",
+   "titular_pt": "A recuperação da IA se amplia: o Nasdaq sobe 2,2%, a Micron 13,5% e o diesel 2,5%"
+  },
+  {
+   "id": "2026-11-11-mediodia-latam",
+   "fecha": "2026-11-11",
+   "momento": "mediodia",
+   "mercado": "latam",
+   "titular_es": "La región sube con Wall Street; el COLCAP cae 1.4% y el peso colombiano se fortalece",
+   "titular_en": "The region rises with Wall Street; the COLCAP falls 1.4% and the Colombian peso strengthens",
+   "titular_pt": "A região sobe com Wall Street; o COLCAP cai 1,4% e o peso colombiano se fortalece"
+  },
+  {
+   "id": "2026-11-11-mediodia-mexico",
+   "fecha": "2026-11-11",
+   "momento": "mediodia",
+   "mercado": "mexico",
+   "titular_es": "El IPC sube 0.85% y el peso se mantiene en 18.61 pese a la caída industrial",
+   "titular_en": "The IPC rises 0.85% and the peso holds at 18.61 despite the industrial drop",
+   "titular_pt": "O IPC sobe 0,85% e o peso se mantém a 18,61 apesar da queda industrial"
+  },
+  {
    "id": "2026-11-11-apertura-global",
    "fecha": "2026-11-11",
    "momento": "apertura",
@@ -782,33 +809,6 @@
    "titular_es": "Sin Bolsa por Día de Muertos, el peso arranca la semana con una recuperación de 0.85% rumbo a la decisión de Banxico del jueves",
    "titular_en": "With the stock exchange shut for Day of the Dead, the peso starts the week up 0.85% ahead of Thursday's Banxico decision",
    "titular_pt": "Sem Bolsa por causa do Dia dos Mortos, o peso começa a semana com alta de 0.85% antes da decisão do Banxico na quinta-feira"
-  },
-  {
-   "id": "2026-10-30-cierre-global",
-   "fecha": "2026-10-30",
-   "momento": "cierre",
-   "mercado": "global",
-   "titular_es": "Viernes rojo en tecnología: Wall Street cierra octubre con dudas sobre las tasas",
-   "titular_en": "Tech-led Friday sell-off: Wall Street ends October with doubts over rates",
-   "titular_pt": "Sexta-feira vermelha em tecnologia: Wall Street fecha outubro com dúvidas sobre os juros"
-  },
-  {
-   "id": "2026-10-30-cierre-latam",
-   "fecha": "2026-10-30",
-   "momento": "cierre",
-   "mercado": "latam",
-   "titular_es": "América Latina sigue a Wall Street a la baja; Perú, Argentina y Chile, los más golpeados",
-   "titular_en": "Latin America follows Wall Street lower; Peru, Argentina and Chile hit hardest",
-   "titular_pt": "América Latina acompanha Wall Street em queda; Peru, Argentina e Chile são os mais atingidos"
-  },
-  {
-   "id": "2026-10-30-cierre-mexico",
-   "fecha": "2026-10-30",
-   "momento": "cierre",
-   "mercado": "mexico",
-   "titular_es": "La Bolsa mexicana resiste y va hacia su mejor mes en tres años; el peso sigue presionado",
-   "titular_en": "Mexico's stock market holds up and heads for its best month in three years; the peso stays under pressure",
-   "titular_pt": "A Bolsa mexicana resiste e caminha para seu melhor mês em três anos; o peso segue pressionado"
   }
  ]
 }
