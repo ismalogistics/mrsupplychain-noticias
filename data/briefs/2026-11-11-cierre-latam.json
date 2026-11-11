@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-11-cierre-latam",
+ "fecha": "2026-11-11",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "15:16 CDMX",
+ "es": {
+  "titular": "La región cierra mixta: Brasil y Canadá suben, Colombia cae 1.6%",
+  "esencial": [
+   "El Ibovespa cerró con +0.54% (172,268.70) y el S&P/TSX con +0.67% (36,411.72).",
+   "El iCOLCAP de Colombia perdió 1.62% y el ETF de Chile 0.56%, mientras las monedas de la región terminaron casi sin cambio.",
+   "Cotiza hoy insumos de cobre y pide recargos de flete regionales calculados con el diésel."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El Ibovespa cerró con +0.54% (172,268.70) y el S&P/TSX con +0.67% (36,411.72). Los ETF de MSCI cerraron con +0.22% en Argentina, +0.07% en Perú y −0.56% en Chile; el iCOLCAP de Colombia perdía 1.62% a las 13:45 CDMX."
+   },
+   {
+    "t": "Por qué",
+    "x": "El rebote de la tecnología en Wall Street mejoró el ánimo, pero el dólar más fuerte (DXY +0.7%) y un cobre que moderó su alza a 0.5% (6.26 dólares por libra) limitaron a Chile; Colombia siguió con ventas en su bolsa."
+   },
+   {
+    "t": "Monedas",
+    "x": "A las 15:16 CDMX el real estaba en 5.58 por dólar (−0.06% el dólar), el peso colombiano en 3,281 (−0.31%) y el dólar canadiense en 1.425 (+0.43%); a las 15:04 el sol estaba en 3.41 (−0.09%) y el peso argentino en 1,544 (−0.08%), y a las 14:30 el peso chileno en 982.1 (−0.16%)."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana jueves Brasil publica el IPCA de octubre y reabre el mercado de bonos de EE. UU., que puede mover a las monedas de la región."
+   }
+  ],
+  "scm": "Cotiza hoy cable e insumos de cobre mientras el precio modera, y pide recargos de flete regionales calculados con el diésel, que subió 1.75%."
+ },
+ "en": {
+  "titular": "The region closes mixed: Brazil and Canada rise, Colombia falls 1.6%",
+  "esencial": [
+   "The Ibovespa closed +0.54% (172,268.70) and the S&P/TSX +0.67% (36,411.72).",
+   "Colombia's iCOLCAP lost 1.62% and the Chile ETF 0.56%, while the region's currencies ended nearly flat.",
+   "Quote copper inputs today and ask for regional freight surcharges based on diesel."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The Ibovespa closed +0.54% (172,268.70) and the S&P/TSX +0.67% (36,411.72). The MSCI ETFs closed +0.22% for Argentina, +0.07% for Peru and −0.56% for Chile; Colombia's iCOLCAP was down 1.62% at 1:45 p.m. Mexico City time."
+   },
+   {
+    "t": "Why",
+    "x": "Wall Street's tech rebound lifted sentiment, but a stronger dollar (DXY +0.7%) and copper, which pared its gain to 0.5% ($6.26 per pound), held back Chile; Colombia's stock market kept selling off."
+   },
+   {
+    "t": "Currencies",
+    "x": "At 3:16 p.m. Mexico City time the real was at 5.58 per dollar (dollar −0.06%), the Colombian peso at 3,281 (−0.31%) and the Canadian dollar at 1.425 (+0.43%); at 3:04 p.m. the sol was at 3.41 (−0.09%) and the Argentine peso at 1,544 (−0.08%), and at 2:30 p.m. the Chilean peso at 982.1 (−0.16%)."
+   },
+   {
+    "t": "What to expect",
+    "x": "On Thursday Brazil publishes October IPCA and the US bond market reopens, which may move the region's currencies."
+   }
+  ],
+  "scm": "Quote cable and copper inputs today while prices ease, and ask for regional freight surcharges based on diesel, which rose 1.75%."
+ },
+ "pt": {
+  "titular": "A região fecha mista: Brasil e Canadá sobem, a Colômbia cai 1,6%",
+  "esencial": [
+   "O Ibovespa fechou com +0,54% (172.268,70) e o S&P/TSX com +0,67% (36.411,72).",
+   "O iCOLCAP da Colômbia perdeu 1,62% e o ETF do Chile 0,56%, enquanto as moedas da região terminaram quase sem variação.",
+   "Cote hoje insumos de cobre e peça sobretaxas de frete regionais calculadas com o diesel."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O Ibovespa fechou com +0,54% (172.268,70) e o S&P/TSX com +0,67% (36.411,72). Os ETFs da MSCI fecharam com +0,22% na Argentina, +0,07% no Peru e −0,56% no Chile; o iCOLCAP da Colômbia perdia 1,62% às 13h45 (Cidade do México)."
+   },
+   {
+    "t": "Por quê",
+    "x": "A recuperação da tecnologia em Wall Street melhorou o ânimo, mas o dólar mais forte (DXY +0,7%) e o cobre, que moderou a alta para 0,5% (6,26 dólares por libra), seguraram o Chile; a bolsa da Colômbia seguiu em queda."
+   },
+   {
+    "t": "Moedas",
+    "x": "Às 15h16 (Cidade do México) o dólar estava em R$ 5,58 (−0,06%), o peso colombiano em 3.281 (−0,31%) e o dólar canadense em 1,425 (+0,43%); às 15h04 o sol estava em 3,41 (−0,09%) e o peso argentino em 1.544 (−0,08%), e às 14h30 o peso chileno em 982,1 (−0,16%)."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã, quinta, o Brasil divulga o IPCA de outubro e reabre o mercado de títulos dos EUA, que pode mexer com as moedas da região."
+   }
+  ],
+  "scm": "Cote hoje cabos e insumos de cobre enquanto o preço modera, e peça sobretaxas de frete regionais calculadas com o diesel, que subiu 1,75%."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas al cierre (11 nov 2026, 15:16 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

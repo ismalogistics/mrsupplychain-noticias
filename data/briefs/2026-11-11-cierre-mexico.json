@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-11-cierre-mexico",
+ "fecha": "2026-11-11",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "15:16 CDMX",
+ "es": {
+  "titular": "El IPC cierra con +0.1% tras devolver casi toda su ganancia; el peso termina estable en 18.61",
+  "esencial": [
+   "El S&P/BMV IPC cerró con +0.14% (71,993.18), después de subir 0.85% a media sesión.",
+   "A las 15:16 CDMX el peso estaba en 18.61 por dólar, sin cambio en el día, aunque el dólar ganó 0.7% frente a otras monedas.",
+   "Para supply chain: con la industria más débil y el peso estable, cubre por tramos los dólares de noviembre y adelanta los pagos del lunes 16."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El S&P/BMV IPC cerró con +0.14% (71,993.18), según Yahoo Finance, después de llegar a subir 0.85% a media sesión. A las 15:16 CDMX el peso cotizaba en 18.61 por dólar, sin cambio en el día. No hubo subasta de Cetes ni mercado de bonos en EE. UU."
+   },
+   {
+    "t": "Por qué",
+    "x": "La bolsa siguió a Wall Street en la mañana, pero perdió fuerza por la tarde; en el día pesó el dato industrial débil: la actividad industrial cayó 1.4% mensual en septiembre, con manufacturas −1.7% y construcción −2.0%. El peso se mantuvo pese a que el índice del dólar subió 0.7%, con poca operación por el cierre del mercado de bonos en EE. UU."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana jueves el INEGI publica la Encuesta de Viajeros Internacionales de septiembre y reabre el mercado de bonos de EE. UU. El viernes 13 el PPI de EE. UU. puede mover al peso. El lunes 16 cierran la BMV y los bancos por el Día de la Revolución, y el 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre."
+   }
+  ],
+  "scm": "Con el peso estable en 18.61, cubre por tramos los dólares de noviembre y adelanta los pagos del lunes 16. Ajusta a la baja el pronóstico de pedidos de clientes manufactureros por la caída industrial de septiembre."
+ },
+ "en": {
+  "titular": "The IPC closes +0.1% after giving back most of its gain; the peso ends steady at 18.61",
+  "esencial": [
+   "The S&P/BMV IPC closed +0.14% (71,993.18), after rising 0.85% at midday.",
+   "At 3:16 p.m. Mexico City time the peso stood at 18.61 per dollar, flat on the day, even as the dollar gained 0.7% against other currencies.",
+   "For supply chain: with weaker industry and a steady peso, hedge November dollars in tranches and move forward payments due Monday the 16th."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The S&P/BMV IPC closed +0.14% (71,993.18), according to Yahoo Finance, after rising as much as 0.85% at midday. At 3:16 p.m. Mexico City time the peso traded at 18.61 per dollar, flat on the day. There was no Cetes auction and no US bond market."
+   },
+   {
+    "t": "Why",
+    "x": "Stocks followed Wall Street in the morning but lost steam in the afternoon; weak industrial data weighed: industrial activity fell 1.4% monthly in September, with manufacturing −1.7% and construction −2.0%. The peso held even as the dollar index rose 0.7%, with light trading due to the US bond market closure."
+   },
+   {
+    "t": "What to expect",
+    "x": "On Thursday INEGI publishes September's International Travelers Survey and the US bond market reopens. US PPI on Friday the 13th can move the peso. On Monday the 16th the BMV and banks close for Revolution Day, and on November 24 INEGI publishes first-half November inflation."
+   }
+  ],
+  "scm": "With the peso steady at 18.61, hedge November dollars in tranches and move forward payments due Monday the 16th. Revise down order forecasts for manufacturing customers given September's industrial drop."
+ },
+ "pt": {
+  "titular": "O IPC fecha com +0,1% depois de devolver quase todo o ganho; o peso termina estável a 18,61",
+  "esencial": [
+   "O S&P/BMV IPC fechou com +0,14% (71.993,18), depois de subir 0,85% no meio do pregão.",
+   "Às 15h16 (Cidade do México) o peso estava a 18,61 por dólar, sem variação no dia, embora o dólar tenha ganhado 0,7% frente a outras moedas.",
+   "Para supply chain: com a indústria mais fraca e o peso estável, cubra em parcelas os dólares de novembro e antecipe os pagamentos da segunda, dia 16."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O S&P/BMV IPC fechou com +0,14% (71.993,18), segundo o Yahoo Finance, depois de chegar a subir 0,85% no meio do pregão. Às 15h16 (Cidade do México) o peso era cotado a 18,61 por dólar, sem variação no dia. Não houve leilão de Cetes nem mercado de títulos nos EUA."
+   },
+   {
+    "t": "Por quê",
+    "x": "A bolsa seguiu Wall Street pela manhã, mas perdeu força à tarde; pesou o dado industrial fraco: a atividade industrial caiu 1,4% no mês em setembro, com manufatura −1,7% e construção −2,0%. O peso se manteve mesmo com o índice do dólar subindo 0,7%, com pouca negociação pelo fechamento do mercado de títulos nos EUA."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã, quinta, o INEGI divulga a Pesquisa de Viajantes Internacionais de setembro e reabre o mercado de títulos dos EUA. Na sexta, dia 13, o PPI dos EUA pode mexer com o peso. Na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução, e em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro."
+   }
+  ],
+  "scm": "Com o peso estável a 18,61, cubra em parcelas os dólares de novembro e antecipe os pagamentos da segunda, dia 16. Revise para baixo a previsão de pedidos de clientes industriais pela queda da indústria em setembro."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), cierre del 11 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas al cierre (11 nov 2026, 15:16 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "EFE vía Infobae: la producción industrial de México sube 1.3% anual en septiembre (11 nov 2026)",
+   "u": "https://www.infobae.com/america/agencias/2026/11/11/la-produccion-industrial-de-mexico-se-eleva-un-13-interanual-en-septiembre/"
+  },
+  {
+   "t": "INEGI: calendario de difusión 2026",
+   "u": "https://inegi.org.mx/contenidos/saladeprensa/doc/cal_2026.pdf"
+  }
+ ]
+}

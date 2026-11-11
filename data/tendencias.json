@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-11T17:43:58Z",
+ "actualizado": "2026-11-11T21:19:27Z",
  "fecha": "2026-11-11",
  "titular": {
-  "es": "Mediodía: los chips amplían el rebote, el diésel sube 2.5% y la industria mexicana cae 1.4%",
-  "en": "Midday: chips extend the rebound, diesel rises 2.5% and Mexican industry falls 1.4%",
-  "pt": "Meio-dia: os chips ampliam a recuperação, o diesel sobe 2,5% e a indústria mexicana cai 1,4%"
+  "es": "Cierre del miércoles: los chips suben 5.7%, el diésel 1.75% y la industria mexicana cae 1.4%",
+  "en": "Wednesday close: chips rise 5.7%, diesel 1.75% and Mexican industry falls 1.4%",
+  "pt": "Fechamento de quarta: os chips sobem 5,7%, o diesel 1,75% e a indústria mexicana cai 1,4%"
  },
  "items": [
   {
@@ -17,14 +17,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Los chips amplían el rebote: el índice de semiconductores sube 7%, Micron 13.5% y AMD 8.6%",
-    "en": "Chips extend the rebound: the semiconductor index rises 7%, Micron 13.5% and AMD 8.6%",
-    "pt": "Os chips ampliam a recuperação: o índice de semicondutores sobe 7%, a Micron 13,5% e a AMD 8,6%"
+    "es": "Los chips cierran con +5.7%: CoreWeave +26.7%, Micron +11.9% y Nvidia +3.3%",
+    "en": "Chips close up 5.7%: CoreWeave +26.7%, Micron +11.9% and Nvidia +3.3%",
+    "pt": "Os chips fecham com +5,7%: CoreWeave +26,7%, Micron +11,9% e Nvidia +3,3%"
    },
    "x": {
-    "es": "A media sesión el índice de semiconductores de Filadelfia subía 7% a su máximo de una semana, con Marvell +12.2% y Micron +13.3%, según Reuters; Nvidia ganaba 4.7% tras perder unos 430,000 millones de dólares en dos sesiones. CoreWeave subió su pronóstico de ingresos de 2026 a entre 13,000 y 13,300 millones.",
-    "en": "At midday the Philadelphia semiconductor index was up 7% at a one-week high, with Marvell +12.2% and Micron +13.3%, according to Reuters; Nvidia gained 4.7% after shedding about $430 billion over two sessions. CoreWeave raised its 2026 revenue forecast to $13 billion to $13.3 billion.",
-    "pt": "No meio do pregão o índice de semicondutores da Filadélfia subia 7% para a máxima de uma semana, com Marvell +12,2% e Micron +13,3%, segundo a Reuters; a Nvidia ganhava 4,7% depois de perder cerca de 430 bilhões de dólares em dois pregões. A CoreWeave elevou sua previsão de receita de 2026 para entre 13 e 13,3 bilhões."
+    "es": "El índice de semiconductores de Filadelfia cerró con +5.7% y todos sus componentes al alza; AMD ganó 7.3%. CoreWeave subió su pronóstico de ingresos de 2026 a entre 13,000 y 13,300 millones de dólares y dijo que será rentable en la primera mitad de 2028.",
+    "en": "The Philadelphia semiconductor index closed +5.7% with every component higher; AMD gained 7.3%. CoreWeave raised its 2026 revenue forecast to $13 billion to $13.3 billion and said it will be profitable in the first half of 2028.",
+    "pt": "O índice de semicondutores da Filadélfia fechou com +5,7% e todos os componentes em alta; a AMD ganhou 7,3%. A CoreWeave elevou sua previsão de receita de 2026 para entre 13 e 13,3 bilhões de dólares e disse que será lucrativa no primeiro semestre de 2028."
    },
    "scm": {
     "es": "La demanda de cómputo supera la capacidad: asegura hoy volúmenes de memoria y almacenamiento para el primer trimestre.",
@@ -33,7 +33,7 @@
    },
    "fuentes": [
     {
-     "t": "Reuters vía Yahoo Finance: S&P 500 y Nasdaq suben más de 1% por CoreWeave (11 nov 2026)",
+     "t": "Reuters vía Yahoo Finance: las bolsas cierran al alza porque CoreWeave calma las dudas sobre el gasto en IA (11 nov 2026)",
      "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-104431138.html"
     },
     {
@@ -48,7 +48,7 @@
   },
   {
    "id": "energia",
-   "dir": "up",
+   "dir": "mixed",
    "calor": 3,
    "mx": true,
    "latam": true,
@@ -56,14 +56,14 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo sube y el diésel gana 2.5%: Irán conservará su material nuclear",
-    "en": "Crude rises and diesel gains 2.5%: Iran will keep its nuclear material",
-    "pt": "O petróleo sobe e o diesel ganha 2,5%: o Irã manterá seu material nuclear"
+    "es": "El crudo modera su alza (Brent +1.1%), pero el diésel cierra con +1.75%",
+    "en": "Crude pares its gain (Brent +1.1%), but diesel closes up 1.75%",
+    "pt": "O petróleo modera a alta (Brent +1,1%), mas o diesel fecha com +1,75%"
    },
    "x": {
-    "es": "A las 11:32 CDMX el WTI estaba en 86.82 dólares (+0.9%) y el Brent en 92.86 (+1.5%), tras subir más de 2% a media mañana; el futuro del diésel ganaba 2.5% a 4.23 dólares por galón. En octubre hubo 37 barcos atacados en la zona de Ormuz, el máximo mensual desde que empezó la guerra.",
-    "en": "At 12:32 p.m. ET WTI was at $86.82 (+0.9%) and Brent at $92.86 (+1.5%), after rising more than 2% mid-morning; diesel futures gained 2.5% to $4.23 per gallon. In October 37 ships were attacked around Hormuz, the monthly high since the war began.",
-    "pt": "Às 11h32 (Cidade do México) o WTI estava a 86,82 dólares (+0,9%) e o Brent a 92,86 (+1,5%), depois de subir mais de 2% no meio da manhã; o futuro do diesel ganhava 2,5% a 4,23 dólares por galão. Em outubro 37 navios foram atacados na região de Ormuz, o máximo mensal desde o início da guerra."
+    "es": "El WTI cerró cerca de 86.38 dólares (+0.4%) y el Brent de 92.53 (+1.1%), lejos de las alzas de más de 2% de la mañana tras los comentarios de Irán sobre su material nuclear. El futuro del diésel subió 1.75% a 4.20 dólares por galón.",
+    "en": "WTI closed near $86.38 (+0.4%) and Brent near $92.53 (+1.1%), well off the morning's gains of more than 2% after Iran's comments on its nuclear material. Diesel futures rose 1.75% to $4.20 per gallon.",
+    "pt": "O WTI fechou perto de 86,38 dólares (+0,4%) e o Brent de 92,53 (+1,1%), longe das altas de mais de 2% da manhã depois dos comentários do Irã sobre seu material nuclear. O futuro do diesel subiu 1,75% para 4,20 dólares por galão."
    },
    "scm": {
     "es": "Fija recargos de combustible con ajuste semanal: el crudo ya rebota.",
@@ -72,11 +72,11 @@
    },
    "fuentes": [
     {
-     "t": "Reuters vía Yahoo Finance: el petróleo sube 2% porque Irán conservará su material nuclear (11 nov 2026)",
+     "t": "Reuters vía Yahoo Finance: el petróleo sube porque Irán conservará su material nuclear (11 nov 2026)",
      "u": "https://finance.yahoo.com/energy/articles/oil-rebounds-hormuz-shipping-attacks-045504059.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (11 nov 2026, 11:42 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas al cierre (11 nov 2026, 15:16 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]

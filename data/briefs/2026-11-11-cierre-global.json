@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-11-cierre-global",
+ "fecha": "2026-11-11",
+ "momento": "cierre",
+ "mercado": "global",
+ "hora": "15:16 CDMX",
+ "es": {
+  "titular": "Wall Street cierra con +1.3% en el S&P 500: CoreWeave calma las dudas sobre la IA y los chips suben 5.7%",
+  "esencial": [
+   "El S&P 500 cerró con +1.29% (7,617.84), el Nasdaq con +1.59% (25,464.57) y el Dow con +0.47% (52,476.92), con cifras preliminares de Reuters.",
+   "El índice de semiconductores subió 5.7%; CoreWeave ganó 26.7%, Micron 11.9% y Nvidia 3.3%, y el VIX bajó 10% a 17.51.",
+   "Para supply chain: el diésel subió 1.75% y el Brent 1.1%; pide recargos de flete calculados con el diésel y asegura la memoria del primer trimestre."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "Se cumplió el rebote que se esperaba en la apertura, aunque se moderó al final. El S&P 500 cerró con +1.29% (7,617.84), el Nasdaq con +1.59% (25,464.57) y el Dow con +0.47% (52,476.92), según cifras preliminares de Reuters; el VIX bajó 10% a 17.51, su cuarta baja seguida. El índice de semiconductores de Filadelfia subió 5.7% con todos sus componentes al alza: CoreWeave +26.7%, Micron +11.9%, AMD +7.3% y Nvidia +3.3%. El WTI cerró cerca de 86.38 dólares (+0.4%) y el Brent de 92.53 (+1.1%), lejos de las alzas de más de 2% de la mañana; el diésel subió 1.75% (4.20 dólares por galón), el oro bajó 1.0% a 3,990.8 y el índice del dólar subió 0.7% a 102.95. El Euro Stoxx 50 cerró con +1.04%."
+   },
+   {
+    "t": "Por qué",
+    "x": "CoreWeave dijo que será rentable en términos ajustados en la primera mitad de 2028 y subió su pronóstico de ingresos, lo que calmó las dudas sobre el gasto en IA; Nvidia se estabilizó tras perder unos 430,000 millones de dólares de valor en dos sesiones. El crudo subió porque Irán dijo que no dejará salir su material nuclear enriquecido. El mercado de bonos estuvo cerrado por el Día de los Veteranos; según CME FedWatch, un alza de la Fed en diciembre está descontada por completo y la de medio punto tiene 12.7% de probabilidad."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Asia abre tras el rebote de la tecnología en Wall Street, lo que favorece a Corea y Taiwán por la memoria y los chips. Mañana jueves reabre el mercado de bonos de EE. UU. tras el cierre de hoy y salen las solicitudes semanales de subsidio por desempleo; Brasil publica el IPCA de octubre. El viernes 13 sale el PPI de octubre (7:30 CDMX)."
+   }
+  ],
+  "scm": "Para mañana: 1) pide que los recargos de flete se calculen con el diésel, que subió 1.75% aunque el crudo moderó; 2) con los chips y la memoria al alza, cierra volúmenes del primer trimestre; 3) mañana reabre el mercado de bonos: vigila si el Treasury vuelve a 5% antes de financiar inventario."
+ },
+ "en": {
+  "titular": "Wall Street closes with the S&P 500 up 1.3%: CoreWeave eases AI doubts and chips rise 5.7%",
+  "esencial": [
+   "The S&P 500 closed +1.29% (7,617.84), the Nasdaq +1.59% (25,464.57) and the Dow +0.47% (52,476.92), on preliminary Reuters data.",
+   "The semiconductor index rose 5.7%; CoreWeave gained 26.7%, Micron 11.9% and Nvidia 3.3%, and the VIX fell 10% to 17.51.",
+   "For supply chain: diesel rose 1.75% and Brent 1.1%; ask for freight surcharges based on diesel and secure first-quarter memory."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The rebound expected at the open came through, though it eased late. The S&P 500 closed +1.29% (7,617.84), the Nasdaq +1.59% (25,464.57) and the Dow +0.47% (52,476.92), according to preliminary Reuters data; the VIX fell 10% to 17.51, its fourth straight decline. The Philadelphia semiconductor index rose 5.7% with every component higher: CoreWeave +26.7%, Micron +11.9%, AMD +7.3% and Nvidia +3.3%. WTI closed near $86.38 (+0.4%) and Brent near $92.53 (+1.1%), well off the morning's gains of more than 2%; diesel rose 1.75% ($4.20 per gallon), gold fell 1.0% to $3,990.8 and the dollar index rose 0.7% to 102.95. The Euro Stoxx 50 closed +1.04%."
+   },
+   {
+    "t": "Why",
+    "x": "CoreWeave said it will be profitable on an adjusted basis in the first half of 2028 and raised its revenue forecast, easing doubts about AI spending; Nvidia stabilized after shedding about $430 billion in value over two sessions. Crude rose after Iran said it will not let its enriched nuclear material leave the country. The bond market was closed for Veterans Day; according to CME FedWatch, a December Fed hike is fully priced and a half-point move has a 12.7% probability."
+   },
+   {
+    "t": "What to expect",
+    "x": "Asia opens after Wall Street's tech rebound, which favors Korea and Taiwan on memory and chips. Tomorrow, Thursday, the US bond market reopens after today's closure and weekly jobless claims come out; Brazil publishes October IPCA. October PPI comes out Friday the 13th (8:30 a.m. ET)."
+   }
+  ],
+  "scm": "For tomorrow: 1) ask for freight surcharges based on diesel, which rose 1.75% even as crude eased; 2) with chips and memory rallying, lock in first-quarter volumes; 3) the bond market reopens tomorrow: watch whether the Treasury returns to 5% before financing inventory."
+ },
+ "pt": {
+  "titular": "Wall Street fecha com o S&P 500 em alta de 1,3%: a CoreWeave acalma as dúvidas sobre IA e os chips sobem 5,7%",
+  "esencial": [
+   "O S&P 500 fechou com +1,29% (7.617,84), o Nasdaq com +1,59% (25.464,57) e o Dow com +0,47% (52.476,92), com dados preliminares da Reuters.",
+   "O índice de semicondutores subiu 5,7%; a CoreWeave ganhou 26,7%, a Micron 11,9% e a Nvidia 3,3%, e o VIX caiu 10% para 17,51.",
+   "Para supply chain: o diesel subiu 1,75% e o Brent 1,1%; peça sobretaxas de frete calculadas com o diesel e garanta a memória do primeiro trimestre."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "A recuperação esperada na abertura se confirmou, embora tenha moderado no fim. O S&P 500 fechou com +1,29% (7.617,84), o Nasdaq com +1,59% (25.464,57) e o Dow com +0,47% (52.476,92), segundo dados preliminares da Reuters; o VIX caiu 10% para 17,51, sua quarta queda seguida. O índice de semicondutores da Filadélfia subiu 5,7% com todos os componentes em alta: CoreWeave +26,7%, Micron +11,9%, AMD +7,3% e Nvidia +3,3%. O WTI fechou perto de 86,38 dólares (+0,4%) e o Brent de 92,53 (+1,1%), longe das altas de mais de 2% da manhã; o diesel subiu 1,75% (4,20 dólares por galão), o ouro caiu 1,0% para 3.990,8 e o índice do dólar subiu 0,7% para 102,95. O Euro Stoxx 50 fechou com +1,04%."
+   },
+   {
+    "t": "Por quê",
+    "x": "A CoreWeave disse que será lucrativa em termos ajustados no primeiro semestre de 2028 e elevou sua previsão de receita, o que acalmou as dúvidas sobre os gastos com IA; a Nvidia se estabilizou depois de perder cerca de 430 bilhões de dólares em valor em dois pregões. O petróleo subiu porque o Irã disse que não deixará sair seu material nuclear enriquecido. O mercado de títulos esteve fechado pelo Dia dos Veteranos; segundo o CME FedWatch, uma alta do Fed em dezembro está totalmente precificada e a de meio ponto tem 12,7% de probabilidade."
+   },
+   {
+    "t": "O que se espera",
+    "x": "A Ásia abre depois da recuperação da tecnologia em Wall Street, o que favorece Coreia e Taiwan pela memória e pelos chips. Amanhã, quinta, o mercado de títulos dos EUA reabre e saem os pedidos semanais de auxílio-desemprego; o Brasil divulga o IPCA de outubro. Na sexta, dia 13, sai o PPI de outubro (7h30, Cidade do México)."
+   }
+  ],
+  "scm": "Para amanhã: 1) peça sobretaxas de frete calculadas com o diesel, que subiu 1,75% mesmo com o petróleo moderando; 2) com chips e memória em alta, feche os volumes do primeiro trimestre; 3) amanhã reabre o mercado de títulos: acompanhe se o Treasury volta a 5% antes de financiar estoque."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters vía Yahoo Finance: las bolsas cierran al alza porque CoreWeave calma las dudas sobre el gasto en IA (11 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-104431138.html"
+  },
+  {
+   "t": "Reuters vía Yahoo Finance: el petróleo sube porque Irán conservará su material nuclear (11 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-rebounds-hormuz-shipping-attacks-045504059.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas al cierre (11 nov 2026, 15:16 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

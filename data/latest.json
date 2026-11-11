@@ -1,175 +1,187 @@
 {
- "actualizado": "2026-11-11T17:43:58Z",
- "momento": "mediodia",
+ "actualizado": "2026-11-11T21:19:27Z",
+ "momento": "cierre",
  "briefs": {
   "global": {
-   "id": "2026-11-11-mediodia-global",
+   "id": "2026-11-11-cierre-global",
    "fecha": "2026-11-11",
-   "momento": "mediodia",
+   "momento": "cierre",
    "mercado": "global",
-   "hora": "11:42 CDMX",
+   "hora": "15:16 CDMX",
    "es": {
-    "titular": "El rebote de la IA se amplía: el Nasdaq sube 2.2%, Micron 13.5% y el diésel 2.5%",
+    "titular": "Wall Street cierra con +1.3% en el S&P 500: CoreWeave calma las dudas sobre la IA y los chips suben 5.7%",
     "esencial": [
-     "A las 11:42 CDMX el S&P 500 subía 1.53%, el Nasdaq 2.22% y el Dow 0.30%; el índice de semiconductores de Filadelfia ganaba 7%, según Reuters.",
-     "CoreWeave subía 26%, Micron 13.5%, AMD 8.6% y Nvidia 4.7%; el VIX bajaba a 17.73.",
-     "Para supply chain: el futuro del diésel sube 2.5% por Ormuz; revisa los recargos de flete de la próxima semana."
+     "El S&P 500 cerró con +1.29% (7,617.84), el Nasdaq con +1.59% (25,464.57) y el Dow con +0.47% (52,476.92), con cifras preliminares de Reuters.",
+     "El índice de semiconductores subió 5.7%; CoreWeave ganó 26.7%, Micron 11.9% y Nvidia 3.3%, y el VIX bajó 10% a 17.51.",
+     "Para supply chain: el diésel subió 1.75% y el Brent 1.1%; pide recargos de flete calculados con el diésel y asegura la memoria del primer trimestre."
     ],
     "bloques": [
      {
-      "t": "Lo que se esperaba",
-      "x": "En la apertura se esperaba un rebote de la tecnología tras los resultados de CoreWeave, con el mercado de bonos cerrado por el Día de los Veteranos y el crudo al alza por Ormuz."
+      "t": "Qué pasó",
+      "x": "Se cumplió el rebote que se esperaba en la apertura, aunque se moderó al final. El S&P 500 cerró con +1.29% (7,617.84), el Nasdaq con +1.59% (25,464.57) y el Dow con +0.47% (52,476.92), según cifras preliminares de Reuters; el VIX bajó 10% a 17.51, su cuarta baja seguida. El índice de semiconductores de Filadelfia subió 5.7% con todos sus componentes al alza: CoreWeave +26.7%, Micron +11.9%, AMD +7.3% y Nvidia +3.3%. El WTI cerró cerca de 86.38 dólares (+0.4%) y el Brent de 92.53 (+1.1%), lejos de las alzas de más de 2% de la mañana; el diésel subió 1.75% (4.20 dólares por galón), el oro bajó 1.0% a 3,990.8 y el índice del dólar subió 0.7% a 102.95. El Euro Stoxx 50 cerró con +1.04%."
      },
      {
-      "t": "Cómo va",
-      "x": "El rebote se amplió: a las 11:42 CDMX el S&P 500 estaba en 7,635.66 (+1.53%), el Nasdaq en 25,622.48 (+2.22%) y el Dow en 52,390.08 (+0.30%); el VIX bajaba 8.9% a 17.73. CoreWeave subía 26.3%, Micron 13.5%, AMD 8.6% y Nvidia 4.7% (176.76). El WTI estaba en 86.82 dólares (+0.9%) y el Brent en 92.86 (+1.5%), tras subir más de 2% a media mañana; el futuro del diésel ganaba 2.5% (4.23 dólares por galón). Europa cerró al alza: Euro Stoxx 50 +1.04%, DAX +1.20%."
+      "t": "Por qué",
+      "x": "CoreWeave dijo que será rentable en términos ajustados en la primera mitad de 2028 y subió su pronóstico de ingresos, lo que calmó las dudas sobre el gasto en IA; Nvidia se estabilizó tras perder unos 430,000 millones de dólares de valor en dos sesiones. El crudo subió porque Irán dijo que no dejará salir su material nuclear enriquecido. El mercado de bonos estuvo cerrado por el Día de los Veteranos; según CME FedWatch, un alza de la Fed en diciembre está descontada por completo y la de medio punto tiene 12.7% de probabilidad."
      },
      {
-      "t": "Lo que sorprendió",
-      "x": "La fuerza del rebote: el índice de semiconductores de Filadelfia subió 7% a su máximo de una semana, y Nebius ganó 17.4%, según Reuters. Los inversionistas también revisan los términos de la oferta pública de Anthropic, que busca una valuación de hasta 1.4 billones de dólares. El mercado ya descuenta por completo un alza de la Fed en diciembre, según CME FedWatch."
+      "t": "Qué se espera",
+      "x": "Asia abre tras el rebote de la tecnología en Wall Street, lo que favorece a Corea y Taiwán por la memoria y los chips. Mañana jueves reabre el mercado de bonos de EE. UU. tras el cierre de hoy y salen las solicitudes semanales de subsidio por desempleo; Brasil publica el IPCA de octubre. El viernes 13 sale el PPI de octubre (7:30 CDMX)."
      }
     ],
-    "scm": "El diésel vuelve a subir (+2.5%) aunque el crudo modera: pide que los recargos de flete de la próxima semana se calculen con el diésel. Con los chips y la memoria al alza, cierra hoy volúmenes del primer trimestre."
+    "scm": "Para mañana: 1) pide que los recargos de flete se calculen con el diésel, que subió 1.75% aunque el crudo moderó; 2) con los chips y la memoria al alza, cierra volúmenes del primer trimestre; 3) mañana reabre el mercado de bonos: vigila si el Treasury vuelve a 5% antes de financiar inventario."
    },
    "en": {
-    "titular": "The AI rebound broadens: the Nasdaq rises 2.2%, Micron 13.5% and diesel 2.5%",
+    "titular": "Wall Street closes with the S&P 500 up 1.3%: CoreWeave eases AI doubts and chips rise 5.7%",
     "esencial": [
-     "At 12:42 p.m. ET the S&P 500 was up 1.53%, the Nasdaq 2.22% and the Dow 0.30%; the Philadelphia semiconductor index gained 7%, according to Reuters.",
-     "CoreWeave was up 26%, Micron 13.5%, AMD 8.6% and Nvidia 4.7%; the VIX fell to 17.73.",
-     "For supply chain: diesel futures rise 2.5% on Hormuz; review next week's freight surcharges."
+     "The S&P 500 closed +1.29% (7,617.84), the Nasdaq +1.59% (25,464.57) and the Dow +0.47% (52,476.92), on preliminary Reuters data.",
+     "The semiconductor index rose 5.7%; CoreWeave gained 26.7%, Micron 11.9% and Nvidia 3.3%, and the VIX fell 10% to 17.51.",
+     "For supply chain: diesel rose 1.75% and Brent 1.1%; ask for freight surcharges based on diesel and secure first-quarter memory."
     ],
     "bloques": [
      {
-      "t": "What was expected",
-      "x": "At the open a tech rebound was expected after CoreWeave results, with the bond market closed for Veterans Day and crude rising on Hormuz."
+      "t": "What happened",
+      "x": "The rebound expected at the open came through, though it eased late. The S&P 500 closed +1.29% (7,617.84), the Nasdaq +1.59% (25,464.57) and the Dow +0.47% (52,476.92), according to preliminary Reuters data; the VIX fell 10% to 17.51, its fourth straight decline. The Philadelphia semiconductor index rose 5.7% with every component higher: CoreWeave +26.7%, Micron +11.9%, AMD +7.3% and Nvidia +3.3%. WTI closed near $86.38 (+0.4%) and Brent near $92.53 (+1.1%), well off the morning's gains of more than 2%; diesel rose 1.75% ($4.20 per gallon), gold fell 1.0% to $3,990.8 and the dollar index rose 0.7% to 102.95. The Euro Stoxx 50 closed +1.04%."
      },
      {
-      "t": "How it is going",
-      "x": "The rebound broadened: at 12:42 p.m. ET the S&P 500 stood at 7,635.66 (+1.53%), the Nasdaq at 25,622.48 (+2.22%) and the Dow at 52,390.08 (+0.30%); the VIX fell 8.9% to 17.73. CoreWeave was up 26.3%, Micron 13.5%, AMD 8.6% and Nvidia 4.7% ($176.76). WTI was at $86.82 (+0.9%) and Brent at $92.86 (+1.5%), after rising more than 2% mid-morning; diesel futures gained 2.5% ($4.23 per gallon). Europe closed higher: Euro Stoxx 50 +1.04%, DAX +1.20%."
+      "t": "Why",
+      "x": "CoreWeave said it will be profitable on an adjusted basis in the first half of 2028 and raised its revenue forecast, easing doubts about AI spending; Nvidia stabilized after shedding about $430 billion in value over two sessions. Crude rose after Iran said it will not let its enriched nuclear material leave the country. The bond market was closed for Veterans Day; according to CME FedWatch, a December Fed hike is fully priced and a half-point move has a 12.7% probability."
      },
      {
-      "t": "What surprised",
-      "x": "The strength of the rebound: the Philadelphia semiconductor index rose 7% to a one-week high, and Nebius gained 17.4%, according to Reuters. Investors are also weighing the terms of Anthropic's IPO, which seeks a valuation of up to $1.4 trillion. The market now fully prices a December Fed hike, according to CME FedWatch."
+      "t": "What to expect",
+      "x": "Asia opens after Wall Street's tech rebound, which favors Korea and Taiwan on memory and chips. Tomorrow, Thursday, the US bond market reopens after today's closure and weekly jobless claims come out; Brazil publishes October IPCA. October PPI comes out Friday the 13th (8:30 a.m. ET)."
      }
     ],
-    "scm": "Diesel is rising again (+2.5%) even as crude eases: ask for next week's freight surcharges to be calculated on diesel. With chips and memory rallying, lock in first-quarter volumes today."
+    "scm": "For tomorrow: 1) ask for freight surcharges based on diesel, which rose 1.75% even as crude eased; 2) with chips and memory rallying, lock in first-quarter volumes; 3) the bond market reopens tomorrow: watch whether the Treasury returns to 5% before financing inventory."
    },
    "pt": {
-    "titular": "A recuperação da IA se amplia: o Nasdaq sobe 2,2%, a Micron 13,5% e o diesel 2,5%",
+    "titular": "Wall Street fecha com o S&P 500 em alta de 1,3%: a CoreWeave acalma as dúvidas sobre IA e os chips sobem 5,7%",
     "esencial": [
-     "Às 11h42 (Cidade do México) o S&P 500 subia 1,53%, o Nasdaq 2,22% e o Dow 0,30%; o índice de semicondutores da Filadélfia ganhava 7%, segundo a Reuters.",
-     "A CoreWeave subia 26%, a Micron 13,5%, a AMD 8,6% e a Nvidia 4,7%; o VIX caía para 17,73.",
-     "Para supply chain: o futuro do diesel sobe 2,5% por Ormuz; revise as sobretaxas de frete da próxima semana."
+     "O S&P 500 fechou com +1,29% (7.617,84), o Nasdaq com +1,59% (25.464,57) e o Dow com +0,47% (52.476,92), com dados preliminares da Reuters.",
+     "O índice de semicondutores subiu 5,7%; a CoreWeave ganhou 26,7%, a Micron 11,9% e a Nvidia 3,3%, e o VIX caiu 10% para 17,51.",
+     "Para supply chain: o diesel subiu 1,75% e o Brent 1,1%; peça sobretaxas de frete calculadas com o diesel e garanta a memória do primeiro trimestre."
     ],
     "bloques": [
      {
-      "t": "O que se esperava",
-      "x": "Na abertura se esperava uma recuperação da tecnologia após os resultados da CoreWeave, com o mercado de títulos fechado pelo Dia dos Veteranos e o petróleo em alta por Ormuz."
+      "t": "O que aconteceu",
+      "x": "A recuperação esperada na abertura se confirmou, embora tenha moderado no fim. O S&P 500 fechou com +1,29% (7.617,84), o Nasdaq com +1,59% (25.464,57) e o Dow com +0,47% (52.476,92), segundo dados preliminares da Reuters; o VIX caiu 10% para 17,51, sua quarta queda seguida. O índice de semicondutores da Filadélfia subiu 5,7% com todos os componentes em alta: CoreWeave +26,7%, Micron +11,9%, AMD +7,3% e Nvidia +3,3%. O WTI fechou perto de 86,38 dólares (+0,4%) e o Brent de 92,53 (+1,1%), longe das altas de mais de 2% da manhã; o diesel subiu 1,75% (4,20 dólares por galão), o ouro caiu 1,0% para 3.990,8 e o índice do dólar subiu 0,7% para 102,95. O Euro Stoxx 50 fechou com +1,04%."
      },
      {
-      "t": "Como está",
-      "x": "A recuperação se ampliou: às 11h42 (Cidade do México) o S&P 500 estava em 7.635,66 (+1,53%), o Nasdaq em 25.622,48 (+2,22%) e o Dow em 52.390,08 (+0,30%); o VIX caía 8,9% para 17,73. A CoreWeave subia 26,3%, a Micron 13,5%, a AMD 8,6% e a Nvidia 4,7% (176,76). O WTI estava a 86,82 dólares (+0,9%) e o Brent a 92,86 (+1,5%), depois de subir mais de 2% no meio da manhã; o futuro do diesel ganhava 2,5% (4,23 dólares por galão). A Europa fechou em alta: Euro Stoxx 50 +1,04%, DAX +1,20%."
+      "t": "Por quê",
+      "x": "A CoreWeave disse que será lucrativa em termos ajustados no primeiro semestre de 2028 e elevou sua previsão de receita, o que acalmou as dúvidas sobre os gastos com IA; a Nvidia se estabilizou depois de perder cerca de 430 bilhões de dólares em valor em dois pregões. O petróleo subiu porque o Irã disse que não deixará sair seu material nuclear enriquecido. O mercado de títulos esteve fechado pelo Dia dos Veteranos; segundo o CME FedWatch, uma alta do Fed em dezembro está totalmente precificada e a de meio ponto tem 12,7% de probabilidade."
      },
      {
-      "t": "O que surpreendeu",
-      "x": "A força da recuperação: o índice de semicondutores da Filadélfia subiu 7% para a máxima de uma semana, e a Nebius ganhou 17,4%, segundo a Reuters. Os investidores também avaliam os termos da oferta pública da Anthropic, que busca avaliação de até 1,4 trilhão de dólares. O mercado já precifica totalmente uma alta do Fed em dezembro, segundo o CME FedWatch."
+      "t": "O que se espera",
+      "x": "A Ásia abre depois da recuperação da tecnologia em Wall Street, o que favorece Coreia e Taiwan pela memória e pelos chips. Amanhã, quinta, o mercado de títulos dos EUA reabre e saem os pedidos semanais de auxílio-desemprego; o Brasil divulga o IPCA de outubro. Na sexta, dia 13, sai o PPI de outubro (7h30, Cidade do México)."
      }
     ],
-    "scm": "O diesel volta a subir (+2,5%) mesmo com o petróleo moderando: peça que as sobretaxas de frete da próxima semana sejam calculadas com o diesel. Com chips e memória em alta, feche hoje os volumes do primeiro trimestre."
+    "scm": "Para amanhã: 1) peça sobretaxas de frete calculadas com o diesel, que subiu 1,75% mesmo com o petróleo moderando; 2) com chips e memória em alta, feche os volumes do primeiro trimestre; 3) amanhã reabre o mercado de títulos: acompanhe se o Treasury volta a 5% antes de financiar estoque."
    },
    "fuentes": [
     {
-     "t": "Reuters vía Yahoo Finance: S&P 500 y Nasdaq suben más de 1% por CoreWeave (11 nov 2026)",
+     "t": "Reuters vía Yahoo Finance: las bolsas cierran al alza porque CoreWeave calma las dudas sobre el gasto en IA (11 nov 2026)",
      "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-104431138.html"
     },
     {
-     "t": "Reuters vía Yahoo Finance: el petróleo sube 2% porque Irán conservará su material nuclear (11 nov 2026)",
+     "t": "Reuters vía Yahoo Finance: el petróleo sube porque Irán conservará su material nuclear (11 nov 2026)",
      "u": "https://finance.yahoo.com/energy/articles/oil-rebounds-hormuz-shipping-attacks-045504059.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (11 nov 2026, 11:42 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas al cierre (11 nov 2026, 15:16 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-11-mediodia-latam",
+   "id": "2026-11-11-cierre-latam",
    "fecha": "2026-11-11",
-   "momento": "mediodia",
+   "momento": "cierre",
    "mercado": "latam",
-   "hora": "11:42 CDMX",
+   "hora": "15:16 CDMX",
    "es": {
-    "titular": "La región sube con Wall Street; el COLCAP cae 1.4% y el peso colombiano se fortalece",
+    "titular": "La región cierra mixta: Brasil y Canadá suben, Colombia cae 1.6%",
     "esencial": [
-     "A las 11:27 CDMX el Ibovespa subía 0.66% (172,461) y el S&P/TSX 0.82%.",
-     "El iCOLCAP de Colombia perdía 1.35%, mientras el peso colombiano ganaba 0.33% (3,280 por dólar).",
-     "Con el cobre +1.0% y el diésel +2.5%, cotiza hoy insumos de cobre y revisa los recargos de flete regionales."
+     "El Ibovespa cerró con +0.54% (172,268.70) y el S&P/TSX con +0.67% (36,411.72).",
+     "El iCOLCAP de Colombia perdió 1.62% y el ETF de Chile 0.56%, mientras las monedas de la región terminaron casi sin cambio.",
+     "Cotiza hoy insumos de cobre y pide recargos de flete regionales calculados con el diésel."
     ],
     "bloques": [
      {
-      "t": "Lo que se esperaba",
-      "x": "En la apertura el Ibovespa subía 0.78% y el real se fortalecía a 5.55; Colombia era la excepción a la baja."
+      "t": "Qué pasó",
+      "x": "El Ibovespa cerró con +0.54% (172,268.70) y el S&P/TSX con +0.67% (36,411.72). Los ETF de MSCI cerraron con +0.22% en Argentina, +0.07% en Perú y −0.56% en Chile; el iCOLCAP de Colombia perdía 1.62% a las 13:45 CDMX."
      },
      {
-      "t": "Cómo va",
-      "x": "A las 11:27 CDMX el Ibovespa estaba en 172,460.55 (+0.66%) y a las 11:42 el S&P/TSX en 36,468 (+0.82%). El ETF de MSCI de Perú subía 0.72% y el de Argentina 0.39%; el de Chile no cambiaba y el iCOLCAP bajaba 1.35%. El real estaba en 5.56 por dólar (dólar −0.30%), el peso colombiano en 3,280 (−0.33%), el peso chileno en 983.8, el sol en 3.41 y el peso argentino en 1,546.5."
+      "t": "Por qué",
+      "x": "El rebote de la tecnología en Wall Street mejoró el ánimo, pero el dólar más fuerte (DXY +0.7%) y un cobre que moderó su alza a 0.5% (6.26 dólares por libra) limitaron a Chile; Colombia siguió con ventas en su bolsa."
      },
      {
-      "t": "Lo que sorprendió",
-      "x": "La caída de la bolsa de Colombia mientras su moneda se fortalece. El cobre amplió su alza a 1.0% (6.30 dólares por libra), lo que favorece a Perú."
+      "t": "Monedas",
+      "x": "A las 15:16 CDMX el real estaba en 5.58 por dólar (−0.06% el dólar), el peso colombiano en 3,281 (−0.31%) y el dólar canadiense en 1.425 (+0.43%); a las 15:04 el sol estaba en 3.41 (−0.09%) y el peso argentino en 1,544 (−0.08%), y a las 14:30 el peso chileno en 982.1 (−0.16%)."
+     },
+     {
+      "t": "Qué se espera",
+      "x": "Mañana jueves Brasil publica el IPCA de octubre y reabre el mercado de bonos de EE. UU., que puede mover a las monedas de la región."
      }
     ],
-    "scm": "Cotiza hoy cable e insumos de cobre, y pide recargos de flete regionales calculados con el diésel, que sube 2.5%."
+    "scm": "Cotiza hoy cable e insumos de cobre mientras el precio modera, y pide recargos de flete regionales calculados con el diésel, que subió 1.75%."
    },
    "en": {
-    "titular": "The region rises with Wall Street; the COLCAP falls 1.4% and the Colombian peso strengthens",
+    "titular": "The region closes mixed: Brazil and Canada rise, Colombia falls 1.6%",
     "esencial": [
-     "At 11:27 a.m. Mexico City time the Ibovespa was up 0.66% (172,461) and the S&P/TSX 0.82%.",
-     "Colombia's iCOLCAP was down 1.35%, while the Colombian peso gained 0.33% (3,280 per dollar).",
-     "With copper +1.0% and diesel +2.5%, quote copper inputs today and review regional freight surcharges."
+     "The Ibovespa closed +0.54% (172,268.70) and the S&P/TSX +0.67% (36,411.72).",
+     "Colombia's iCOLCAP lost 1.62% and the Chile ETF 0.56%, while the region's currencies ended nearly flat.",
+     "Quote copper inputs today and ask for regional freight surcharges based on diesel."
     ],
     "bloques": [
      {
-      "t": "What was expected",
-      "x": "At the open the Ibovespa was up 0.78% and the real strengthened to 5.55; Colombia was the exception to the downside."
+      "t": "What happened",
+      "x": "The Ibovespa closed +0.54% (172,268.70) and the S&P/TSX +0.67% (36,411.72). The MSCI ETFs closed +0.22% for Argentina, +0.07% for Peru and −0.56% for Chile; Colombia's iCOLCAP was down 1.62% at 1:45 p.m. Mexico City time."
      },
      {
-      "t": "How it is going",
-      "x": "At 11:27 a.m. Mexico City time the Ibovespa stood at 172,460.55 (+0.66%) and at 11:42 the S&P/TSX at 36,468 (+0.82%). The MSCI Peru ETF was up 0.72% and Argentina's 0.39%; Chile's was flat and the iCOLCAP fell 1.35%. The real was at 5.56 per dollar (dollar −0.30%), the Colombian peso at 3,280 (−0.33%), the Chilean peso at 983.8, the sol at 3.41 and the Argentine peso at 1,546.5."
+      "t": "Why",
+      "x": "Wall Street's tech rebound lifted sentiment, but a stronger dollar (DXY +0.7%) and copper, which pared its gain to 0.5% ($6.26 per pound), held back Chile; Colombia's stock market kept selling off."
      },
      {
-      "t": "What surprised",
-      "x": "Colombia's stock market fell while its currency strengthened. Copper extended its gain to 1.0% ($6.30 per pound), helping Peru."
+      "t": "Currencies",
+      "x": "At 3:16 p.m. Mexico City time the real was at 5.58 per dollar (dollar −0.06%), the Colombian peso at 3,281 (−0.31%) and the Canadian dollar at 1.425 (+0.43%); at 3:04 p.m. the sol was at 3.41 (−0.09%) and the Argentine peso at 1,544 (−0.08%), and at 2:30 p.m. the Chilean peso at 982.1 (−0.16%)."
+     },
+     {
+      "t": "What to expect",
+      "x": "On Thursday Brazil publishes October IPCA and the US bond market reopens, which may move the region's currencies."
      }
     ],
-    "scm": "Quote cable and copper inputs today, and ask for regional freight surcharges based on diesel, which is up 2.5%."
+    "scm": "Quote cable and copper inputs today while prices ease, and ask for regional freight surcharges based on diesel, which rose 1.75%."
    },
    "pt": {
-    "titular": "A região sobe com Wall Street; o COLCAP cai 1,4% e o peso colombiano se fortalece",
+    "titular": "A região fecha mista: Brasil e Canadá sobem, a Colômbia cai 1,6%",
     "esencial": [
-     "Às 11h27 (Cidade do México) o Ibovespa subia 0,66% (172.461) e o S&P/TSX 0,82%.",
-     "O iCOLCAP da Colômbia perdia 1,35%, enquanto o peso colombiano ganhava 0,33% (3.280 por dólar).",
-     "Com o cobre +1,0% e o diesel +2,5%, cote hoje insumos de cobre e revise as sobretaxas de frete regionais."
+     "O Ibovespa fechou com +0,54% (172.268,70) e o S&P/TSX com +0,67% (36.411,72).",
+     "O iCOLCAP da Colômbia perdeu 1,62% e o ETF do Chile 0,56%, enquanto as moedas da região terminaram quase sem variação.",
+     "Cote hoje insumos de cobre e peça sobretaxas de frete regionais calculadas com o diesel."
     ],
     "bloques": [
      {
-      "t": "O que se esperava",
-      "x": "Na abertura o Ibovespa subia 0,78% e o real se fortalecia para R$ 5,55; a Colômbia era a exceção em queda."
+      "t": "O que aconteceu",
+      "x": "O Ibovespa fechou com +0,54% (172.268,70) e o S&P/TSX com +0,67% (36.411,72). Os ETFs da MSCI fecharam com +0,22% na Argentina, +0,07% no Peru e −0,56% no Chile; o iCOLCAP da Colômbia perdia 1,62% às 13h45 (Cidade do México)."
      },
      {
-      "t": "Como está",
-      "x": "Às 11h27 (Cidade do México) o Ibovespa estava em 172.460,55 (+0,66%) e às 11h42 o S&P/TSX em 36.468 (+0,82%). O ETF da MSCI do Peru subia 0,72% e o da Argentina 0,39%; o do Chile não mudava e o iCOLCAP caía 1,35%. O dólar estava em R$ 5,56 (dólar −0,30%), o peso colombiano em 3.280 (−0,33%), o peso chileno em 983,8, o sol em 3,41 e o peso argentino em 1.546,5."
+      "t": "Por quê",
+      "x": "A recuperação da tecnologia em Wall Street melhorou o ânimo, mas o dólar mais forte (DXY +0,7%) e o cobre, que moderou a alta para 0,5% (6,26 dólares por libra), seguraram o Chile; a bolsa da Colômbia seguiu em queda."
      },
      {
-      "t": "O que surpreendeu",
-      "x": "A queda da bolsa da Colômbia enquanto sua moeda se fortalece. O cobre ampliou a alta para 1,0% (6,30 dólares por libra), o que favorece o Peru."
+      "t": "Moedas",
+      "x": "Às 15h16 (Cidade do México) o dólar estava em R$ 5,58 (−0,06%), o peso colombiano em 3.281 (−0,31%) e o dólar canadense em 1,425 (+0,43%); às 15h04 o sol estava em 3,41 (−0,09%) e o peso argentino em 1.544 (−0,08%), e às 14h30 o peso chileno em 982,1 (−0,16%)."
+     },
+     {
+      "t": "O que se espera",
+      "x": "Amanhã, quinta, o Brasil divulga o IPCA de outubro e reabre o mercado de títulos dos EUA, que pode mexer com as moedas da região."
      }
     ],
-    "scm": "Cote hoje cabos e insumos de cobre, e peça sobretaxas de frete regionais calculadas com o diesel, que sobe 2,5%."
+    "scm": "Cote hoje cabos e insumos de cobre enquanto o preço modera, e peça sobretaxas de frete regionais calculadas com o diesel, que subiu 1,75%."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (11 nov 2026, 11:42 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas al cierre (11 nov 2026, 15:16 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
@@ -179,100 +191,104 @@
    ]
   },
   "mexico": {
-   "id": "2026-11-11-mediodia-mexico",
+   "id": "2026-11-11-cierre-mexico",
    "fecha": "2026-11-11",
-   "momento": "mediodia",
+   "momento": "cierre",
    "mercado": "mexico",
-   "hora": "11:42 CDMX",
+   "hora": "15:16 CDMX",
    "es": {
-    "titular": "El IPC sube 0.85% y el peso se mantiene en 18.61 pese a la caída industrial",
+    "titular": "El IPC cierra con +0.1% tras devolver casi toda su ganancia; el peso termina estable en 18.61",
     "esencial": [
-     "A las 11:22 CDMX el IPC subía 0.85% (72,504.95) y a las 11:42 el peso estaba en 18.61 por dólar, sin cambio.",
-     "El mercado pasó por alto la caída de 1.4% de la actividad industrial de septiembre y siguió a Wall Street.",
-     "Para supply chain: con el peso estable en 18.61, cubre por tramos los dólares de noviembre antes del puente del lunes 16."
+     "El S&P/BMV IPC cerró con +0.14% (71,993.18), después de subir 0.85% a media sesión.",
+     "A las 15:16 CDMX el peso estaba en 18.61 por dólar, sin cambio en el día, aunque el dólar ganó 0.7% frente a otras monedas.",
+     "Para supply chain: con la industria más débil y el peso estable, cubre por tramos los dólares de noviembre y adelanta los pagos del lunes 16."
     ],
     "bloques": [
      {
-      "t": "Lo que se esperaba",
-      "x": "En la apertura el IPC subía 0.59% y el peso operaba en 18.62, con la caída de 1.4% mensual de la actividad industrial de septiembre como dato del día."
+      "t": "Qué pasó",
+      "x": "El S&P/BMV IPC cerró con +0.14% (71,993.18), según Yahoo Finance, después de llegar a subir 0.85% a media sesión. A las 15:16 CDMX el peso cotizaba en 18.61 por dólar, sin cambio en el día. No hubo subasta de Cetes ni mercado de bonos en EE. UU."
      },
      {
-      "t": "Cómo va",
-      "x": "A las 11:22 CDMX el S&P/BMV IPC subía 0.85% a 72,504.95 y a las 11:42 el peso cotizaba en 18.61 por dólar, sin cambio en el día. Sin mercado de bonos en EE. UU., la operación del peso es más ligera."
+      "t": "Por qué",
+      "x": "La bolsa siguió a Wall Street en la mañana, pero perdió fuerza por la tarde; en el día pesó el dato industrial débil: la actividad industrial cayó 1.4% mensual en septiembre, con manufacturas −1.7% y construcción −2.0%. El peso se mantuvo pese a que el índice del dólar subió 0.7%, con poca operación por el cierre del mercado de bonos en EE. UU."
      },
      {
-      "t": "Lo que sorprendió",
-      "x": "La bolsa amplió su alza pese al dato industrial débil (manufacturas −1.7%, construcción −2.0% mensual), arrastrada por el ánimo de Wall Street. El peso no se movió aunque el dólar se fortalece frente al euro (−0.64%) y al yen."
+      "t": "Qué se espera",
+      "x": "Mañana jueves el INEGI publica la Encuesta de Viajeros Internacionales de septiembre y reabre el mercado de bonos de EE. UU. El viernes 13 el PPI de EE. UU. puede mover al peso. El lunes 16 cierran la BMV y los bancos por el Día de la Revolución, y el 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre."
      }
     ],
-    "scm": "Con el peso estable en 18.61, cubre por tramos los dólares de noviembre y adelanta los pagos del lunes 16. Ajusta a la baja el pronóstico de demanda de clientes manufactureros por el dato industrial."
+    "scm": "Con el peso estable en 18.61, cubre por tramos los dólares de noviembre y adelanta los pagos del lunes 16. Ajusta a la baja el pronóstico de pedidos de clientes manufactureros por la caída industrial de septiembre."
    },
    "en": {
-    "titular": "The IPC rises 0.85% and the peso holds at 18.61 despite the industrial drop",
+    "titular": "The IPC closes +0.1% after giving back most of its gain; the peso ends steady at 18.61",
     "esencial": [
-     "At 11:22 a.m. Mexico City time the IPC was up 0.85% (72,504.95) and at 11:42 the peso stood at 18.61 per dollar, unchanged.",
-     "The market brushed off September's 1.4% drop in industrial activity and followed Wall Street.",
-     "For supply chain: with the peso steady at 18.61, hedge November dollars in tranches before the Monday the 16th long weekend."
+     "The S&P/BMV IPC closed +0.14% (71,993.18), after rising 0.85% at midday.",
+     "At 3:16 p.m. Mexico City time the peso stood at 18.61 per dollar, flat on the day, even as the dollar gained 0.7% against other currencies.",
+     "For supply chain: with weaker industry and a steady peso, hedge November dollars in tranches and move forward payments due Monday the 16th."
     ],
     "bloques": [
      {
-      "t": "What was expected",
-      "x": "At the open the IPC was up 0.59% and the peso traded at 18.62, with September's 1.4% monthly drop in industrial activity as the day's data point."
+      "t": "What happened",
+      "x": "The S&P/BMV IPC closed +0.14% (71,993.18), according to Yahoo Finance, after rising as much as 0.85% at midday. At 3:16 p.m. Mexico City time the peso traded at 18.61 per dollar, flat on the day. There was no Cetes auction and no US bond market."
      },
      {
-      "t": "How it is going",
-      "x": "At 11:22 a.m. Mexico City time the S&P/BMV IPC was up 0.85% at 72,504.95 and at 11:42 the peso traded at 18.61 per dollar, flat on the day. With no US bond market, peso trading is lighter."
+      "t": "Why",
+      "x": "Stocks followed Wall Street in the morning but lost steam in the afternoon; weak industrial data weighed: industrial activity fell 1.4% monthly in September, with manufacturing −1.7% and construction −2.0%. The peso held even as the dollar index rose 0.7%, with light trading due to the US bond market closure."
      },
      {
-      "t": "What surprised",
-      "x": "Stocks extended gains despite weak industrial data (manufacturing −1.7%, construction −2.0% monthly), carried by Wall Street's mood. The peso didn't move even as the dollar strengthens against the euro (−0.64%) and the yen."
+      "t": "What to expect",
+      "x": "On Thursday INEGI publishes September's International Travelers Survey and the US bond market reopens. US PPI on Friday the 13th can move the peso. On Monday the 16th the BMV and banks close for Revolution Day, and on November 24 INEGI publishes first-half November inflation."
      }
     ],
-    "scm": "With the peso steady at 18.61, hedge November dollars in tranches and move forward payments due Monday the 16th. Revise down demand forecasts for manufacturing customers given the industrial data."
+    "scm": "With the peso steady at 18.61, hedge November dollars in tranches and move forward payments due Monday the 16th. Revise down order forecasts for manufacturing customers given September's industrial drop."
    },
    "pt": {
-    "titular": "O IPC sobe 0,85% e o peso se mantém a 18,61 apesar da queda industrial",
+    "titular": "O IPC fecha com +0,1% depois de devolver quase todo o ganho; o peso termina estável a 18,61",
     "esencial": [
-     "Às 11h22 (Cidade do México) o IPC subia 0,85% (72.504,95) e às 11h42 o peso estava a 18,61 por dólar, sem variação.",
-     "O mercado ignorou a queda de 1,4% da atividade industrial de setembro e seguiu Wall Street.",
-     "Para supply chain: com o peso estável a 18,61, cubra em parcelas os dólares de novembro antes do feriado de segunda, dia 16."
+     "O S&P/BMV IPC fechou com +0,14% (71.993,18), depois de subir 0,85% no meio do pregão.",
+     "Às 15h16 (Cidade do México) o peso estava a 18,61 por dólar, sem variação no dia, embora o dólar tenha ganhado 0,7% frente a outras moedas.",
+     "Para supply chain: com a indústria mais fraca e o peso estável, cubra em parcelas os dólares de novembro e antecipe os pagamentos da segunda, dia 16."
     ],
     "bloques": [
      {
-      "t": "O que se esperava",
-      "x": "Na abertura o IPC subia 0,59% e o peso operava a 18,62, com a queda de 1,4% no mês da atividade industrial de setembro como dado do dia."
+      "t": "O que aconteceu",
+      "x": "O S&P/BMV IPC fechou com +0,14% (71.993,18), segundo o Yahoo Finance, depois de chegar a subir 0,85% no meio do pregão. Às 15h16 (Cidade do México) o peso era cotado a 18,61 por dólar, sem variação no dia. Não houve leilão de Cetes nem mercado de títulos nos EUA."
      },
      {
-      "t": "Como está",
-      "x": "Às 11h22 (Cidade do México) o S&P/BMV IPC subia 0,85% para 72.504,95 e às 11h42 o peso era cotado a 18,61 por dólar, sem variação no dia. Sem mercado de títulos nos EUA, a negociação do peso é mais leve."
+      "t": "Por quê",
+      "x": "A bolsa seguiu Wall Street pela manhã, mas perdeu força à tarde; pesou o dado industrial fraco: a atividade industrial caiu 1,4% no mês em setembro, com manufatura −1,7% e construção −2,0%. O peso se manteve mesmo com o índice do dólar subindo 0,7%, com pouca negociação pelo fechamento do mercado de títulos nos EUA."
      },
      {
-      "t": "O que surpreendeu",
-      "x": "A bolsa ampliou a alta apesar do dado industrial fraco (manufatura −1,7%, construção −2,0% no mês), puxada pelo ânimo de Wall Street. O peso não se mexeu mesmo com o dólar se fortalecendo frente ao euro (−0,64%) e ao iene."
+      "t": "O que se espera",
+      "x": "Amanhã, quinta, o INEGI divulga a Pesquisa de Viajantes Internacionais de setembro e reabre o mercado de títulos dos EUA. Na sexta, dia 13, o PPI dos EUA pode mexer com o peso. Na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução, e em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro."
      }
     ],
-    "scm": "Com o peso estável a 18,61, cubra em parcelas os dólares de novembro e antecipe os pagamentos da segunda, dia 16. Revise para baixo a previsão de demanda de clientes industriais pelo dado da indústria."
+    "scm": "Com o peso estável a 18,61, cubra em parcelas os dólares de novembro e antecipe os pagamentos da segunda, dia 16. Revise para baixo a previsão de pedidos de clientes industriais pela queda da indústria em setembro."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: IPC México (^MXX), 11 nov 2026",
+     "t": "Yahoo Finance: IPC México (^MXX), cierre del 11 nov 2026",
      "u": "https://finance.yahoo.com/quote/%5EMXX/"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (11 nov 2026, 11:42 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas al cierre (11 nov 2026, 15:16 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
      "t": "EFE vía Infobae: la producción industrial de México sube 1.3% anual en septiembre (11 nov 2026)",
      "u": "https://www.infobae.com/america/agencias/2026/11/11/la-produccion-industrial-de-mexico-se-eleva-un-13-interanual-en-septiembre/"
+    },
+    {
+     "t": "INEGI: calendario de difusión 2026",
+     "u": "https://inegi.org.mx/contenidos/saladeprensa/doc/cal_2026.pdf"
     }
    ]
   }
  },
  "lectura": {
   "es": {
-   "titular": "El rebote de la IA se amplía (Nasdaq +2.2%), pero el diésel vuelve a subir y la industria mexicana se frena",
-   "resumen": "Wall Street abre al alza (S&P 500 +0.79%, Nasdaq +1.22%) porque CoreWeave elevó su pronóstico de ingresos y reanimó la demanda de chips y memoria. El crudo sube 1.7% (WTI 87.51 dólares) por los ataques a buques en Ormuz, lo que mantiene caros los combustibles y el diésel. En México la actividad industrial cayó 1.4% mensual en septiembre, con manufacturas −1.7% y construcción −2.0%, una señal de menos pedidos industriales. El peso opera en 18.62 y el FIX del martes fue de 18.6678. La prioridad es ajustar pronósticos de demanda industrial, cuidar los recargos de combustible y asegurar capacidad de memoria y chips.",
+   "titular": "CoreWeave calma las dudas sobre la IA y los chips suben 5.7%, pero el diésel vuelve a subir y la industria mexicana se frena",
+   "resumen": "Wall Street cerró al alza (S&P 500 +1.29%, Nasdaq +1.59%) porque CoreWeave elevó su pronóstico y dijo que será rentable en 2028, lo que reanimó a los chips y la memoria (índice de semiconductores +5.7%). El crudo moderó su alza (WTI 86.38 dólares), pero el diésel subió 1.75% por el riesgo en Ormuz, donde en octubre hubo 37 barcos atacados. En México la actividad industrial cayó 1.4% mensual en septiembre (manufacturas −1.7%) y el IPC devolvió casi toda su ganancia (+0.14%); el peso cerró estable en 18.61. Mañana reabre el mercado de bonos de EE. UU. con un alza de la Fed en diciembre ya descontada. La prioridad es ajustar pronósticos de demanda industrial, atar los recargos de flete al diésel y asegurar capacidad de memoria.",
    "temas": [
     {
      "tema": "Peso y tasas",
@@ -361,11 +377,6 @@
    ],
    "vigilar": [
     {
-     "cuando": "Hoy, miércoles 11",
-     "evento": "Inventarios oficiales de crudo de la EIA (el API reportó +9 millones de barriles)",
-     "por_que": "Un alza grande frenaría el rebote del crudo y del diésel."
-    },
-    {
      "cuando": "Viernes 13 de noviembre, 7:30 CDMX",
      "evento": "Precios al productor (PPI) de octubre en EE. UU.",
      "por_que": "Tras el CPI alto, un PPI alto reforzaría un alza de la Fed de medio punto y anticipa costos de insumos."
@@ -383,8 +394,8 @@
    ]
   },
   "en": {
-   "titular": "The AI rebound broadens (Nasdaq +2.2%), but diesel rises again and Mexican industry slows",
-   "resumen": "Wall Street opens higher (S&P 500 +0.79%, Nasdaq +1.22%) as CoreWeave raised its revenue outlook and revived demand for chips and memory. Crude rises 1.7% (WTI $87.51) on ship attacks in Hormuz, keeping fuel and diesel expensive. In Mexico industrial activity fell 1.4% monthly in September, with manufacturing −1.7% and construction −2.0%, a sign of fewer industrial orders. The peso trades at 18.62 and Tuesday's FIX was 18.6678. The priority is to adjust industrial demand forecasts, watch fuel surcharges and secure memory and chip capacity.",
+   "titular": "CoreWeave eases AI doubts and chips rise 5.7%, but diesel climbs again and Mexican industry slows",
+   "resumen": "Wall Street closed higher (S&P 500 +1.29%, Nasdaq +1.59%) as CoreWeave raised its outlook and said it will be profitable in 2028, reviving chips and memory (semiconductor index +5.7%). Crude pared its gain (WTI $86.38), but diesel rose 1.75% on Hormuz risk, where 37 ships were attacked in October. In Mexico industrial activity fell 1.4% monthly in September (manufacturing −1.7%) and the IPC gave back most of its gain (+0.14%); the peso closed steady at 18.61. The US bond market reopens tomorrow with a December Fed hike already priced. The priority is to adjust industrial demand forecasts, tie freight surcharges to diesel and secure memory capacity.",
    "temas": [
     {
      "tema": "Peso and rates",
@@ -473,11 +484,6 @@
    ],
    "vigilar": [
     {
-     "cuando": "Today, Wednesday the 11th",
-     "evento": "Official EIA crude inventories (the API reported +9 million barrels)",
-     "por_que": "A large build would cap crude's and diesel's rebound."
-    },
-    {
      "cuando": "Friday, Nov. 13, 8:30 a.m. ET",
      "evento": "US October PPI",
      "por_que": "After hot CPI, a hot PPI would reinforce a half-point Fed hike and signals input costs."
@@ -495,8 +501,8 @@
    ]
   },
   "pt": {
-   "titular": "A recuperação da IA se amplia (Nasdaq +2,2%), mas o diesel volta a subir e a indústria mexicana desacelera",
-   "resumen": "Wall Street abre em alta (S&P 500 +0,79%, Nasdaq +1,22%) porque a CoreWeave elevou sua previsão de receita e reanimou a demanda por chips e memória. O petróleo sobe 1,7% (WTI 87,51 dólares) pelos ataques a navios em Ormuz, o que mantém caros os combustíveis e o diesel. No México a atividade industrial caiu 1,4% no mês em setembro, com manufatura −1,7% e construção −2,0%, sinal de menos pedidos industriais. O peso opera a 18,62 e o FIX de terça foi de 18,6678. A prioridade é ajustar as previsões de demanda industrial, cuidar das sobretaxas de combustível e garantir capacidade de memória e chips.",
+   "titular": "A CoreWeave acalma as dúvidas sobre IA e os chips sobem 5,7%, mas o diesel volta a subir e a indústria mexicana desacelera",
+   "resumen": "Wall Street fechou em alta (S&P 500 +1,29%, Nasdaq +1,59%) porque a CoreWeave elevou sua previsão e disse que será lucrativa em 2028, o que reanimou chips e memória (índice de semicondutores +5,7%). O petróleo moderou a alta (WTI 86,38 dólares), mas o diesel subiu 1,75% pelo risco em Ormuz, onde 37 navios foram atacados em outubro. No México a atividade industrial caiu 1,4% no mês em setembro (manufatura −1,7%) e o IPC devolveu quase todo o ganho (+0,14%); o peso fechou estável a 18,61. Amanhã reabre o mercado de títulos dos EUA com uma alta do Fed em dezembro já precificada. A prioridade é ajustar as previsões de demanda industrial, atrelar as sobretaxas de frete ao diesel e garantir capacidade de memória.",
    "temas": [
     {
      "tema": "Peso e juros",
@@ -585,11 +591,6 @@
    ],
    "vigilar": [
     {
-     "cuando": "Hoje, quarta, 11",
-     "evento": "Estoques oficiais de petróleo da EIA (o API reportou +9 milhões de barris)",
-     "por_que": "Uma alta grande frearia a recuperação do petróleo e do diesel."
-    },
-    {
      "cuando": "Sexta, 13 de novembro, 7h30",
      "evento": "PPI de outubro nos EUA",
      "por_que": "Depois do CPI alto, um PPI alto reforçaria uma alta de meio ponto do Fed e antecipa custos de insumos."
@@ -612,8 +613,8 @@
    "nombre": "IPC BMV",
    "name_en": "IPC BMV",
    "grupo": "bolsa",
-   "valor": 72504.95,
-   "cambio": 0.85,
+   "valor": 71993.18,
+   "cambio": 0.14,
    "unidad": "puntos",
    "name_pt": "IPC BMV"
   },
@@ -621,8 +622,8 @@
    "nombre": "S&P 500",
    "name_en": "S&P 500",
    "grupo": "bolsa",
-   "valor": 7635.66,
-   "cambio": 1.53,
+   "valor": 7617.84,
+   "cambio": 1.29,
    "unidad": "puntos",
    "name_pt": "S&P 500"
   },
@@ -630,8 +631,8 @@
    "nombre": "Nasdaq",
    "name_en": "Nasdaq",
    "grupo": "bolsa",
-   "valor": 25622.48,
-   "cambio": 2.22,
+   "valor": 25464.57,
+   "cambio": 1.59,
    "unidad": "puntos",
    "name_pt": "Nasdaq"
   },
@@ -639,8 +640,8 @@
    "nombre": "Dow Jones",
    "name_en": "Dow Jones",
    "grupo": "bolsa",
-   "valor": 52390.08,
-   "cambio": 0.3,
+   "valor": 52476.92,
+   "cambio": 0.47,
    "unidad": "puntos",
    "name_pt": "Dow Jones"
   },
@@ -676,7 +677,7 @@
    "name_en": "USD/MXN",
    "grupo": "divisa",
    "valor": 18.61,
-   "cambio": 0.0,
+   "cambio": -0.01,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -684,8 +685,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.1095,
-   "cambio": -0.64,
+   "valor": 1.109,
+   "cambio": -0.69,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -693,8 +694,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 159.85,
-   "cambio": 0.72,
+   "valor": 159.86,
+   "cambio": 0.73,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -702,8 +703,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 86.82,
-   "cambio": 0.91,
+   "valor": 86.38,
+   "cambio": 0.4,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -711,8 +712,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 92.86,
-   "cambio": 1.5,
+   "valor": 92.53,
+   "cambio": 1.14,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -729,8 +730,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 4010.0,
-   "cambio": -0.5,
+   "valor": 3990.8,
+   "cambio": -0.98,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -738,8 +739,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 6.3,
-   "cambio": 0.99,
+   "valor": 6.26,
+   "cambio": 0.48,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -774,19 +775,13 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 74462.48,
-   "cambio": 1.02,
+   "valor": 74631.86,
+   "cambio": 1.25,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }
  ],
  "agenda": [
-  {
-   "fecha": "2026-11-11",
-   "es": "EE. UU.: Día de los Veteranos, mercado de bonos cerrado (bolsas abiertas)",
-   "en": "US: Veterans Day, bond market closed (stocks open)",
-   "pt": "EUA: Dia dos Veteranos, mercado de títulos fechado (bolsas abertas)"
-  },
   {
    "fecha": "2026-11-13",
    "es": "EE. UU.: precios al productor (PPI) de octubre, 7:30 CDMX",
