@@ -1,0 +1,87 @@
+{
+ "id": "2026-11-11-premercado-latam",
+ "fecha": "2026-11-11",
+ "momento": "premercado",
+ "mercado": "latam",
+ "hora": "05:16 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "La región busca recuperarse tras su caída del martes; el cobre y el crudo suben",
+  "esencial": [
+   "El martes el Ibovespa cerró con −0.45% y el ETF de Argentina con −2.12%, por el dólar fuerte tras el CPI de EE. UU.",
+   "En la madrugada el cobre sube 1.1% y el Brent 1.7%, lo que favorece a Chile, Perú, Colombia y Brasil.",
+   "Convierte pronto los cobros en monedas locales y cotiza hoy los insumos de cobre."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El martes el Ibovespa cerró con −0.45% (171,454), el S&P/TSX con −0.76% y los ETF de MSCI con −2.12% en Argentina, −1.70% en Chile y −1.46% en Perú. A las 5:15 CDMX el peso chileno estaba en 983.7 por dólar, el real en 5.58 y el peso colombiano en 3,299."
+   },
+   {
+    "t": "Contexto",
+    "x": "El rebote de la tecnología mejora el apetito por riesgo, y el alza del cobre (+1.1%, 6.30 dólares por libra) y del crudo (Brent 93.04) favorece a los exportadores de la región. En contra pesa el dólar más firme (DXY +0.3%)."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "La agenda regional es ligera; mañana jueves Brasil publica el IPCA de octubre. Sin mercado de bonos en EE. UU., las monedas pueden operar con menos liquidez."
+   }
+  ],
+  "scm": "Convierte pronto los cobros en monedas locales y escalona los pagos en dólares. Con el cobre otra vez al alza, cotiza hoy cable y componentes antes de que suba más."
+ },
+ "en": {
+  "titular": "The region seeks to recover after Tuesday's drop; copper and crude rise",
+  "esencial": [
+   "On Tuesday the Ibovespa closed −0.45% and the Argentina ETF −2.12%, on a strong dollar after US CPI.",
+   "Overnight copper rises 1.1% and Brent 1.7%, helping Chile, Peru, Colombia and Brazil.",
+   "Convert local-currency receivables soon and quote copper inputs today."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Tuesday the Ibovespa closed −0.45% (171,454), the S&P/TSX −0.76% and the MSCI ETFs −2.12% for Argentina, −1.70% for Chile and −1.46% for Peru. At 5:15 a.m. Mexico City time the Chilean peso was at 983.7 per dollar, the real at 5.58 and the Colombian peso at 3,299."
+   },
+   {
+    "t": "Context",
+    "x": "The tech rebound improves risk appetite, and higher copper (+1.1%, $6.30 per pound) and crude (Brent $93.04) help the region's exporters. A firmer dollar (DXY +0.3%) weighs."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The regional agenda is light; Brazil publishes October IPCA on Thursday. With no US bond market, currencies may trade with thinner liquidity."
+   }
+  ],
+  "scm": "Convert local-currency receivables soon and stagger dollar payments. With copper rising again, quote cable and components today before it climbs further."
+ },
+ "pt": {
+  "titular": "A região busca se recuperar depois da queda de terça; cobre e petróleo sobem",
+  "esencial": [
+   "Na terça o Ibovespa fechou com −0,45% e o ETF da Argentina com −2,12%, pelo dólar forte após o CPI dos EUA.",
+   "Na madrugada o cobre sobe 1,1% e o Brent 1,7%, o que favorece Chile, Peru, Colômbia e Brasil.",
+   "Converta logo os recebíveis em moeda local e cote hoje os insumos de cobre."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na terça o Ibovespa fechou com −0,45% (171.454), o S&P/TSX com −0,76% e os ETFs da MSCI com −2,12% na Argentina, −1,70% no Chile e −1,46% no Peru. Às 5h15 (Cidade do México) o peso chileno estava em 983,7 por dólar, o dólar em R$ 5,58 e o peso colombiano em 3.299."
+   },
+   {
+    "t": "Contexto",
+    "x": "A alta da tecnologia melhora o apetite por risco, e a alta do cobre (+1,1%, 6,30 dólares por libra) e do petróleo (Brent 93,04) favorece os exportadores da região. Contra pesa o dólar mais firme (DXY +0,3%)."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "A agenda regional é leve; amanhã, quinta, o Brasil divulga o IPCA de outubro. Sem mercado de títulos nos EUA, as moedas podem operar com menos liquidez."
+   }
+  ],
+  "scm": "Converta logo os recebíveis em moeda local e escalone os pagamentos em dólares. Com o cobre subindo de novo, cote hoje cabos e componentes antes que suba mais."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (cierres del 10 nov)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (11 nov 2026, 05:16 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

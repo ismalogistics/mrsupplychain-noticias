@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-11-premercado-global",
+   "fecha": "2026-11-11",
+   "momento": "premercado",
+   "mercado": "global",
+   "titular_es": "CoreWeave reanima a la tecnología: los futuros del Nasdaq suben 1.7% y el crudo rebota por Ormuz",
+   "titular_en": "CoreWeave revives tech: Nasdaq futures rise 1.7% and crude rebounds on Hormuz",
+   "titular_pt": "A CoreWeave reanima a tecnologia: os futuros do Nasdaq sobem 1,7% e o petróleo reage com Ormuz"
+  },
+  {
+   "id": "2026-11-11-premercado-latam",
+   "fecha": "2026-11-11",
+   "momento": "premercado",
+   "mercado": "latam",
+   "titular_es": "La región busca recuperarse tras su caída del martes; el cobre y el crudo suben",
+   "titular_en": "The region seeks to recover after Tuesday's drop; copper and crude rise",
+   "titular_pt": "A região busca se recuperar depois da queda de terça; cobre e petróleo sobem"
+  },
+  {
+   "id": "2026-11-11-premercado-mexico",
+   "fecha": "2026-11-11",
+   "momento": "premercado",
+   "mercado": "mexico",
+   "titular_es": "El peso amanece en 18.59 con el apetito por la tecnología; a las 6:00 sale la actividad industrial",
+   "titular_en": "The peso starts at 18.59 on tech appetite; industrial activity comes out at 6:00",
+   "titular_pt": "O peso amanhece a 18,59 com o apetite por tecnologia; às 6h sai a atividade industrial"
+  },
+  {
    "id": "2026-11-10-cierre-global",
    "fecha": "2026-11-10",
    "momento": "cierre",

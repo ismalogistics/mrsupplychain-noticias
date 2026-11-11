@@ -1,0 +1,95 @@
+{
+ "id": "2026-11-11-premercado-mexico",
+ "fecha": "2026-11-11",
+ "momento": "premercado",
+ "mercado": "mexico",
+ "hora": "05:16 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El peso amanece en 18.59 con el apetito por la tecnología; a las 6:00 sale la actividad industrial",
+  "esencial": [
+   "A las 5:16 CDMX el peso estaba en 18.59 por dólar, mejor que el cierre de 18.67 del martes.",
+   "A las 6:00 CDMX el INEGI publica la actividad industrial de septiembre.",
+   "Para supply chain: aprovecha el peso en 18.59 para cubrir parte de los pagos en dólares de noviembre antes del puente del lunes 16."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El martes el IPC cerró con +0.14% (71,957.80) y el peso en 18.67 por dólar, según Bloomberg citado por El Financiero. En la noche el peso se recuperó: a las 5:16 CDMX cotizaba en 18.59, con el rebote de los futuros de EE. UU. tras los resultados de CoreWeave. Los Cetes a 28 días quedaron en 6.20% en la subasta del martes."
+   },
+   {
+    "t": "Contexto",
+    "x": "El CPI de EE. UU. del martes dejó casi seguro un alza de la Fed en diciembre, lo que estrecha el diferencial de tasas con Banxico (6.25%). Hoy pesa a favor el apetito por riesgo y en contra el dólar más firme (DXY +0.3%) y el rebote del crudo, que encarece los combustibles importados."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "A las 6:00 CDMX el INEGI publica el Indicador Mensual de la Actividad Industrial de septiembre, clave para manufactura y construcción. Sin mercado de bonos en EE. UU., el peso puede operar con menos liquidez. El lunes 16 cierran la BMV y los bancos por el Día de la Revolución."
+   }
+  ],
+  "scm": "Aprovecha el peso en 18.59 para cubrir parte de los pagos en dólares de noviembre y adelanta los que vencen el lunes 16. Revisa el dato industrial de las 6:00 para ajustar el pronóstico de demanda de clientes manufactureros."
+ },
+ "en": {
+  "titular": "The peso starts at 18.59 on tech appetite; industrial activity comes out at 6:00",
+  "esencial": [
+   "At 5:16 a.m. Mexico City time the peso was at 18.59 per dollar, stronger than Tuesday's 18.67 close.",
+   "At 6:00 a.m. Mexico City time INEGI publishes September industrial activity.",
+   "For supply chain: use the peso at 18.59 to hedge part of November dollar payments before Monday the 16th long weekend."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Tuesday the IPC closed +0.14% (71,957.80) and the peso at 18.67 per dollar, according to Bloomberg as cited by El Financiero. Overnight the peso recovered: at 5:16 a.m. Mexico City time it traded at 18.59, with the rebound in US futures after CoreWeave results. 28-day Cetes came in at 6.20% in Tuesday's auction."
+   },
+   {
+    "t": "Context",
+    "x": "Tuesday's US CPI made a December Fed hike nearly certain, narrowing the rate differential with Banxico (6.25%). Today risk appetite helps, while a firmer dollar (DXY +0.3%) and crude's rebound, which makes imported fuels pricier, weigh."
+   },
+   {
+    "t": "What to expect today",
+    "x": "At 6:00 a.m. Mexico City time INEGI publishes September's Monthly Industrial Activity Indicator, key for manufacturing and construction. With no US bond market, the peso may trade with thinner liquidity. On Monday the 16th the BMV and banks close for Revolution Day."
+   }
+  ],
+  "scm": "Use the peso at 18.59 to hedge part of November dollar payments and move forward those due Monday the 16th. Check the 6:00 a.m. industrial data to adjust demand forecasts for manufacturing customers."
+ },
+ "pt": {
+  "titular": "O peso amanhece a 18,59 com o apetite por tecnologia; às 6h sai a atividade industrial",
+  "esencial": [
+   "Às 5h16 (Cidade do México) o peso estava a 18,59 por dólar, melhor que o fechamento de 18,67 de terça.",
+   "Às 6h (Cidade do México) o INEGI divulga a atividade industrial de setembro.",
+   "Para supply chain: aproveite o peso a 18,59 para cobrir parte dos pagamentos em dólares de novembro antes do feriado de segunda, dia 16."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na terça o IPC fechou com +0,14% (71.957,80) e o peso a 18,67 por dólar, segundo a Bloomberg citada pelo El Financiero. Durante a noite o peso se recuperou: às 5h16 era cotado a 18,59, com a alta dos futuros dos EUA após os resultados da CoreWeave. Os Cetes de 28 dias ficaram em 6,20% no leilão de terça."
+   },
+   {
+    "t": "Contexto",
+    "x": "O CPI dos EUA de terça deixou quase certa uma alta do Fed em dezembro, o que estreita o diferencial de juros com o Banxico (6,25%). Hoje ajuda o apetite por risco e pesam contra o dólar mais firme (DXY +0,3%) e a alta do petróleo, que encarece os combustíveis importados."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Às 6h (Cidade do México) o INEGI divulga o Indicador Mensal da Atividade Industrial de setembro, chave para manufatura e construção. Sem mercado de títulos nos EUA, o peso pode operar com menos liquidez. Na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução."
+   }
+  ],
+  "scm": "Aproveite o peso a 18,59 para cobrir parte dos pagamentos em dólares de novembro e antecipe os que vencem na segunda, dia 16. Confira o dado industrial das 6h para ajustar a previsão de demanda de clientes industriais."
+ },
+ "fuentes": [
+  {
+   "t": "El Financiero: cierre del peso del 10 nov 2026",
+   "u": "https://www.elfinanciero.com.mx/mercados/2026/11/10/peso-dolar-tipo-de-cambio-precio-hoy-10-de-noviembre-de-2026/"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (11 nov 2026, 05:16 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "INEGI: calendario de difusión 2026 (IMAI de septiembre, 11 nov)",
+   "u": "https://inegi.org.mx/contenidos/saladeprensa/doc/cal_2026.pdf"
+  },
+  {
+   "t": "FOX 4: Veterans Day 2026, qué abre y qué cierra",
+   "u": "https://www.fox4news.com/news/veterans-day-open-closed-2026"
+  }
+ ]
+}

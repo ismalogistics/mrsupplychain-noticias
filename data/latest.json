@@ -1,293 +1,284 @@
 {
- "actualizado": "2026-11-10T21:21:47Z",
- "momento": "cierre",
+ "actualizado": "2026-11-11T11:19:37Z",
+ "momento": "premercado",
  "briefs": {
   "global": {
-   "id": "2026-11-10-cierre-global",
-   "fecha": "2026-11-10",
-   "momento": "cierre",
+   "id": "2026-11-11-premercado-global",
+   "fecha": "2026-11-11",
+   "momento": "premercado",
    "mercado": "global",
-   "hora": "15:20 CDMX",
+   "hora": "05:16 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "Wall Street cierra a la baja pero lejos de sus mínimos; Nvidia cae 5.5% y el Treasury termina en 4.98%",
+    "titular": "CoreWeave reanima a la tecnología: los futuros del Nasdaq suben 1.7% y el crudo rebota por Ormuz",
     "esencial": [
-     "El S&P 500 cerró con −0.38% (7,520.93), el Nasdaq con −0.74% y el Dow con −0.30%; a mediodía el S&P 500 llegó a perder 0.94%.",
-     "El CPI de octubre (+0.4% mensual) dejó en 90.5% la probabilidad de un alza de la Fed en diciembre, según CME FedWatch; Nvidia cayó 5.47%.",
-     "Para supply chain: con el Treasury en 4.98%, revisa el costo de financiar inventario; mañana el mercado de bonos de EE. UU. cierra por el Día de los Veteranos."
+     "A las 5:06 CDMX los futuros del Nasdaq 100 subían 1.7% y los del S&P 500 0.8%, tras los resultados de CoreWeave.",
+     "El Brent sube 1.7% a 93.04 dólares por nuevos ataques a buques en el estrecho de Ormuz.",
+     "Para supply chain: hoy cierra el mercado de bonos de EE. UU. y la ruta de Ormuz sigue en riesgo; revisa recargos de combustible y seguros de carga."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "Se cumplió la baja que se esperaba en la apertura, pero el mercado recortó la caída por la tarde. El S&P 500 cerró con −0.38% (7,520.93), el Nasdaq con −0.74% (25,065.88), el Dow con −0.30% (52,231.89) y el Russell 2000 con −0.68%; el VIX bajó 1.7% a 19.58. Nvidia cerró en 168.89 dólares (−5.47%), su nivel más bajo desde el 30 de marzo, mientras Broadcom subió 3.91% y AMD 1.30%. El Treasury a 10 años cerró en 4.98% (+12 pb) tras pasar de 5% a mediodía, y el índice del dólar subió 0.6% a 102.26. El WTI terminó en 86.30 dólares (−0.6%), el Brent en 91.92 (−0.7%), el oro en 4,038.60 (−1.8%) y el cobre en 6.27 dólares por libra (−1.2%). El Euro Stoxx 50 cerró con +0.59%."
+      "t": "Lo que pasó desde el cierre",
+      "x": "CoreWeave dijo que será rentable en términos ajustados en la primera mitad de 2028 y su acción subía más de 10% antes de la apertura, según Reuters; eso calmó los temores por el gasto en IA. Nvidia subía 4% en el premercado tras perder unos 480 mil millones de dólares de valor en dos sesiones, y Marvell y Micron cerca de 7%. El martes un buque tanque fue atacado al noreste de Lima, Omán, y la Guardia Revolucionaria de Irán dijo que dos tanqueros se incendiaron por minas en el estrecho de Ormuz. En octubre hubo 37 barcos atacados, el mayor número mensual desde que empezó la guerra, según el Washington Institute."
      },
      {
-      "t": "Por qué",
-      "x": "El CPI de octubre subió 0.4% mensual y el subyacente 0.3%, una décima arriba de lo esperado en ambos casos. La probabilidad de un alza de la Fed en diciembre quedó en 90.5% y la de un alza de medio punto en 9.5%, según CME FedWatch. El gobernador Christopher Waller dijo que, con un dato alto, debería considerarse subir 50 pb. Nvidia sumó su segundo día de caídas por la investigación de su consejo sobre su director, Jensen Huang; a mediodía su RSI llegó a 23, su nivel de sobreventa más extremo desde junio de 2019, según Yahoo Finance."
+      "t": "Asia, Europa y futuros",
+      "x": "Asia cerró al alza: KOSPI +2.60% (5,375.36), Nikkei +1.31% (61,248.59) y Shanghái +0.54%; Hang Seng −0.54%. A las 5:01 CDMX el Euro Stoxx 50 subía 0.68%, el DAX 0.68% (Siemens Energy +8.3%) y el Stoxx 600 0.33%, cerca de su récord de agosto. A las 5:06 CDMX los futuros del Nasdaq 100 subían 1.73%, los del S&P 500 0.76% y los del Dow 0.04%. El WTI estaba en 86.87 dólares (+1.0%), el Brent en 93.04 (+1.7%), el oro en 4,061 (+0.8%), el cobre en 6.30 dólares por libra (+1.1%) y el índice del dólar en 102.50 (+0.3%)."
      },
      {
-      "t": "Qué se espera",
-      "x": "A las 15:06 CDMX los futuros del S&P 500 bajaban 0.27% y los del Nasdaq 0.43%, así que Asia abre sin impulso tras sus alzas del martes (KOSPI +4.39%, Nikkei +2.87%). Después del cierre reportan CoreWeave, D-Wave y Rigetti. Mañana miércoles, por el Día de los Veteranos, el mercado de bonos de EE. UU. cierra y las bolsas operan normal. El jueves sale la venta de casas usadas y el viernes el PPI de octubre (7:30 CDMX)."
+      "t": "Qué se espera hoy",
+      "x": "Por el Día de los Veteranos el mercado de bonos de EE. UU. cierra y las bolsas operan normal; no hay datos económicos relevantes en EE. UU. El mercado ya da por hecho un alza de la Fed en diciembre: CME FedWatch asigna 11.5% a una de medio punto. El viernes 13 sale el PPI de octubre (7:30 CDMX)."
      }
     ],
-    "scm": "Para mañana: 1) con el Treasury en 4.98% y un alza de la Fed casi segura, revisa los días de inventario que financias con deuda; 2) mañana no hay mercado de bonos en EE. UU. y la liquidez en dólares baja: no programes coberturas grandes; 3) sigue pidiendo que los recargos de flete se ajusten con el diésel, que sigue en 6.16 dólares por galón."
+    "scm": "Pide a tus navieras y transportistas el recargo de combustible con base semanal: el Brent volvió a 93 dólares por Ormuz. Si mueves carga por el Golfo Pérsico, confirma hoy primas de seguro de guerra y rutas alternas."
    },
    "en": {
-    "titular": "Wall Street closes lower but well off its lows; Nvidia falls 5.5% and the Treasury ends at 4.98%",
+    "titular": "CoreWeave revives tech: Nasdaq futures rise 1.7% and crude rebounds on Hormuz",
     "esencial": [
-     "The S&P 500 closed −0.38% (7,520.93), the Nasdaq −0.74% and the Dow −0.30%; at midday the S&P 500 was down as much as 0.94%.",
-     "October CPI (+0.4% monthly) left the probability of a December Fed hike at 90.5%, according to CME FedWatch; Nvidia fell 5.47%.",
-     "For supply chain: with the Treasury at 4.98%, review the cost of financing inventory; tomorrow the US bond market closes for Veterans Day."
+     "At 6:06 a.m. ET Nasdaq 100 futures were up 1.7% and S&P 500 futures 0.8%, after CoreWeave results.",
+     "Brent rises 1.7% to $93.04 on new attacks on ships in the Strait of Hormuz.",
+     "For supply chain: the US bond market is closed today and the Hormuz route remains at risk; review fuel surcharges and cargo insurance."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "The decline expected at the open materialized, but the market pared losses in the afternoon. The S&P 500 closed −0.38% (7,520.93), the Nasdaq −0.74% (25,065.88), the Dow −0.30% (52,231.89) and the Russell 2000 −0.68%; the VIX fell 1.7% to 19.58. Nvidia closed at $168.89 (−5.47%), its lowest since March 30, while Broadcom rose 3.91% and AMD 1.30%. The 10-year Treasury closed at 4.98% (+12 bp) after topping 5% at midday, and the dollar index rose 0.6% to 102.26. WTI ended at $86.30 (−0.6%), Brent at $91.92 (−0.7%), gold at $4,038.60 (−1.8%) and copper at $6.27 per pound (−1.2%). The Euro Stoxx 50 closed +0.59%."
+      "t": "What happened since the close",
+      "x": "CoreWeave said it will be profitable on an adjusted basis in the first half of 2028 and its shares were up more than 10% premarket, according to Reuters, easing fears over AI spending. Nvidia was up 4% premarket after shedding about $480 billion in value over two sessions, and Marvell and Micron nearly 7%. On Tuesday a tanker was struck northeast of Lima, Oman, and Iran's Revolutionary Guards said two tankers caught fire after hitting mines in the Strait of Hormuz. In October 37 ships were attacked, the highest monthly total since the war began, according to the Washington Institute."
      },
      {
-      "t": "Why",
-      "x": "October CPI rose 0.4% monthly and core 0.3%, both a tenth above expectations. The probability of a December Fed hike stood at 90.5% and that of a half-point hike at 9.5%, according to CME FedWatch. Governor Christopher Waller said a hot reading should put a 50 bp hike on the table. Nvidia fell for a second day on its board's probe into CEO Jensen Huang; at midday its RSI hit 23, its most oversold reading since June 2019, according to Yahoo Finance."
+      "t": "Asia, Europe and futures",
+      "x": "Asia closed higher: KOSPI +2.60% (5,375.36), Nikkei +1.31% (61,248.59) and Shanghai +0.54%; Hang Seng −0.54%. At 6:01 a.m. ET the Euro Stoxx 50 was up 0.68%, the DAX 0.68% (Siemens Energy +8.3%) and the Stoxx 600 0.33%, near its August record. At 6:06 a.m. ET Nasdaq 100 futures were up 1.73%, S&P 500 futures 0.76% and Dow futures 0.04%. WTI was at $86.87 (+1.0%), Brent at $93.04 (+1.7%), gold at $4,061 (+0.8%), copper at $6.30 per pound (+1.1%) and the dollar index at 102.50 (+0.3%)."
      },
      {
-      "t": "What to expect",
-      "x": "At 4:06 p.m. ET S&P 500 futures were down 0.27% and Nasdaq futures 0.43%, so Asia opens without momentum after Tuesday's gains (KOSPI +4.39%, Nikkei +2.87%). CoreWeave, D-Wave and Rigetti report after the close. Tomorrow, Wednesday, the US bond market closes for Veterans Day while stocks trade normally. Existing-home sales come out Thursday and October PPI on Friday (8:30 a.m. ET)."
+      "t": "What to expect today",
+      "x": "For Veterans Day the US bond market is closed while stocks trade normally; there is no major US data. The market already prices a December Fed hike: CME FedWatch puts the odds of a half-point move at 11.5%. October PPI comes out Friday the 13th (8:30 a.m. ET)."
      }
     ],
-    "scm": "For tomorrow: 1) with the Treasury at 4.98% and a Fed hike nearly certain, review the inventory days you finance with debt; 2) there is no US bond market tomorrow and dollar liquidity is thinner: avoid scheduling large hedges; 3) keep asking for freight surcharges to track diesel, still at $6.16 a gallon."
+    "scm": "Ask carriers for fuel surcharges on a weekly basis: Brent is back at $93 on Hormuz. If you move cargo through the Persian Gulf, confirm war-risk premiums and alternative routes today."
    },
    "pt": {
-    "titular": "Wall Street fecha em queda, mas longe das mínimas; a Nvidia cai 5,5% e o Treasury termina em 4,98%",
+    "titular": "A CoreWeave reanima a tecnologia: os futuros do Nasdaq sobem 1,7% e o petróleo reage com Ormuz",
     "esencial": [
-     "O S&P 500 fechou com −0,38% (7.520,93), o Nasdaq com −0,74% e o Dow com −0,30%; no meio do dia o S&P 500 chegou a perder 0,94%.",
-     "O CPI de outubro (+0,4% mensal) deixou em 90,5% a probabilidade de alta do Fed em dezembro, segundo o CME FedWatch; a Nvidia caiu 5,47%.",
-     "Para supply chain: com o Treasury em 4,98%, revise o custo de financiar estoque; amanhã o mercado de títulos dos EUA fecha pelo Dia dos Veteranos."
+     "Às 5h06 (Cidade do México) os futuros do Nasdaq 100 subiam 1,7% e os do S&P 500 0,8%, após os resultados da CoreWeave.",
+     "O Brent sobe 1,7% para 93,04 dólares com novos ataques a navios no estreito de Ormuz.",
+     "Para supply chain: hoje o mercado de títulos dos EUA fecha e a rota de Ormuz segue em risco; revise sobretaxas de combustível e seguros de carga."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "A queda esperada na abertura se confirmou, mas o mercado reduziu as perdas à tarde. O S&P 500 fechou com −0,38% (7.520,93), o Nasdaq com −0,74% (25.065,88), o Dow com −0,30% (52.231,89) e o Russell 2000 com −0,68%; o VIX caiu 1,7% para 19,58. A Nvidia fechou a 168,89 dólares (−5,47%), seu menor nível desde 30 de março, enquanto a Broadcom subiu 3,91% e a AMD 1,30%. O Treasury de 10 anos fechou em 4,98% (+12 pb) depois de passar de 5% no meio do dia, e o índice do dólar subiu 0,6% para 102,26. O WTI terminou a 86,30 dólares (−0,6%), o Brent a 91,92 (−0,7%), o ouro a 4.038,60 (−1,8%) e o cobre a 6,27 dólares por libra (−1,2%). O Euro Stoxx 50 fechou com +0,59%."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "A CoreWeave disse que será lucrativa em termos ajustados no primeiro semestre de 2028 e sua ação subia mais de 10% no pré-mercado, segundo a Reuters, o que acalmou os temores sobre os gastos com IA. A Nvidia subia 4% no pré-mercado depois de perder cerca de 480 bilhões de dólares em valor em duas sessões, e Marvell e Micron perto de 7%. Na terça um navio-tanque foi atacado a nordeste de Lima, Omã, e a Guarda Revolucionária do Irã disse que dois petroleiros pegaram fogo ao atingir minas no estreito de Ormuz. Em outubro 37 navios foram atacados, o maior número mensal desde o início da guerra, segundo o Washington Institute."
      },
      {
-      "t": "Por quê",
-      "x": "O CPI de outubro subiu 0,4% no mês e o núcleo 0,3%, um décimo acima do esperado em ambos os casos. A probabilidade de alta do Fed em dezembro ficou em 90,5% e a de meio ponto em 9,5%, segundo o CME FedWatch. O diretor Christopher Waller disse que, com um dado alto, uma alta de 50 pb deveria ser considerada. A Nvidia caiu pelo segundo dia pela investigação do seu conselho sobre o CEO, Jensen Huang; no meio do dia seu RSI chegou a 23, a leitura de sobrevenda mais extrema desde junho de 2019, segundo o Yahoo Finance."
+      "t": "Ásia, Europa e futuros",
+      "x": "A Ásia fechou em alta: KOSPI +2,60% (5.375,36), Nikkei +1,31% (61.248,59) e Xangai +0,54%; Hang Seng −0,54%. Às 5h01 (Cidade do México) o Euro Stoxx 50 subia 0,68%, o DAX 0,68% (Siemens Energy +8,3%) e o Stoxx 600 0,33%, perto do recorde de agosto. Às 5h06 os futuros do Nasdaq 100 subiam 1,73%, os do S&P 500 0,76% e os do Dow 0,04%. O WTI estava a 86,87 dólares (+1,0%), o Brent a 93,04 (+1,7%), o ouro a 4.061 (+0,8%), o cobre a 6,30 dólares por libra (+1,1%) e o índice do dólar em 102,50 (+0,3%)."
      },
      {
-      "t": "O que se espera",
-      "x": "Às 15h06 (Cidade do México) os futuros do S&P 500 caíam 0,27% e os do Nasdaq 0,43%, então a Ásia abre sem impulso depois das altas de terça (KOSPI +4,39%, Nikkei +2,87%). Depois do fechamento divulgam resultados CoreWeave, D-Wave e Rigetti. Amanhã, quarta, o mercado de títulos dos EUA fecha pelo Dia dos Veteranos e as bolsas operam normalmente. Na quinta saem as vendas de imóveis usados e na sexta o PPI de outubro (7h30, Cidade do México)."
+      "t": "O que se espera hoje",
+      "x": "Pelo Dia dos Veteranos o mercado de títulos dos EUA fecha e as bolsas operam normalmente; não há dados econômicos relevantes nos EUA. O mercado já dá como certa uma alta do Fed em dezembro: o CME FedWatch atribui 11,5% a uma de meio ponto. Na sexta, dia 13, sai o PPI de outubro (7h30, Cidade do México)."
      }
     ],
-    "scm": "Para amanhã: 1) com o Treasury em 4,98% e uma alta do Fed quase certa, revise os dias de estoque que você financia com dívida; 2) amanhã não há mercado de títulos nos EUA e a liquidez em dólar é menor: evite programar hedges grandes; 3) continue pedindo que as sobretaxas de frete acompanhem o diesel, ainda a 6,16 dólares por galão."
+    "scm": "Peça às transportadoras a sobretaxa de combustível com base semanal: o Brent voltou a 93 dólares por Ormuz. Se você movimenta carga pelo Golfo Pérsico, confirme hoje os prêmios de seguro de guerra e rotas alternativas."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan por el CPI que refuerza el alza de la Fed; Nvidia se hunde (10 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
+     "t": "Reuters vía Yahoo Finance: futuros del S&P 500 y Nasdaq suben tras los resultados de CoreWeave (11 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-104431138.html"
     },
     {
-     "t": "IBT vía Yahoo Finance: la inflación supera lo esperado y el alza de la Fed es casi un hecho (10 nov 2026)",
-     "u": "https://finance.yahoo.com/economy/policy/articles/inflation-came-hotter-expected-rate-210357827.html"
+     "t": "Reuters vía Yahoo Finance: bolsas europeas cerca de récord por Siemens Energy y CoreWeave (11 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/european-stocks-near-record-high-102945417.html"
     },
     {
-     "t": "Yahoo Finance: índices, materias primas, bonos y divisas al cierre (10 nov 2026)",
+     "t": "Reuters vía The Star: el petróleo rebota por ataques a buques en Ormuz (11 nov 2026)",
+     "u": "https://www.thestar.com.my/business/business-news/2026/11/11/oil-rebounds-as-hormuz-shipping-attacks-blunt-hopes-for-iran-truce"
+    },
+    {
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (11 nov 2026, 05:16 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
-     "t": "FOX 4: Veterans Day 2026, qué abre y qué cierra (bolsa abierta, mercado de bonos cerrado)",
+     "t": "FOX 4: Veterans Day 2026, qué abre y qué cierra",
      "u": "https://www.fox4news.com/news/veterans-day-open-closed-2026"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-10-cierre-latam",
-   "fecha": "2026-11-10",
-   "momento": "cierre",
+   "id": "2026-11-11-premercado-latam",
+   "fecha": "2026-11-11",
+   "momento": "premercado",
    "mercado": "latam",
-   "hora": "15:20 CDMX",
+   "hora": "05:16 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "La región cierra a la baja por el dólar fuerte: el peso chileno cae 1.7% y el real 1.4%",
+    "titular": "La región busca recuperarse tras su caída del martes; el cobre y el crudo suben",
     "esencial": [
-     "El Ibovespa cerró con −0.45% (171,454.42) y el S&P/TSX de Canadá con −0.76% (36,170.45).",
-     "El dólar subió 1.73% frente al peso chileno (983.7) y 1.40% frente al real (5.58) tras el CPI de EE. UU.",
-     "Convierte pronto los cobros en monedas locales y escalona los pagos en dólares de esta semana."
+     "El martes el Ibovespa cerró con −0.45% y el ETF de Argentina con −2.12%, por el dólar fuerte tras el CPI de EE. UU.",
+     "En la madrugada el cobre sube 1.1% y el Brent 1.7%, lo que favorece a Chile, Perú, Colombia y Brasil.",
+     "Convierte pronto los cobros en monedas locales y cotiza hoy los insumos de cobre."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "El Ibovespa cerró con −0.45% (171,454.42) y el S&P/TSX con −0.76% (36,170.45). Los ETF de MSCI bajaron 2.12% en Argentina, 1.70% en Chile y 1.46% en Perú, y el iCOLCAP de Colombia perdía 1.31% a las 14:27 CDMX."
+      "t": "Lo que pasó desde el cierre",
+      "x": "El martes el Ibovespa cerró con −0.45% (171,454), el S&P/TSX con −0.76% y los ETF de MSCI con −2.12% en Argentina, −1.70% en Chile y −1.46% en Perú. A las 5:15 CDMX el peso chileno estaba en 983.7 por dólar, el real en 5.58 y el peso colombiano en 3,299."
      },
      {
-      "t": "Por qué",
-      "x": "El CPI de EE. UU. arriba de lo esperado subió el Treasury a 10 años a 4.98% y fortaleció al dólar (DXY +0.6%), lo que presiona a los activos de la región. La baja del cobre (−1.2%) pesó sobre Chile y Perú."
+      "t": "Contexto",
+      "x": "El rebote de la tecnología mejora el apetito por riesgo, y el alza del cobre (+1.1%, 6.30 dólares por libra) y del crudo (Brent 93.04) favorece a los exportadores de la región. En contra pesa el dólar más firme (DXY +0.3%)."
      },
      {
-      "t": "Monedas",
-      "x": "A las 15:15 CDMX el peso chileno estaba en 983.7 por dólar (dólar +1.73%), el real en 5.58 (+1.40%), el peso colombiano en 3,290 (+0.72%), el dólar canadiense en 1.419 (+0.50%), el sol en 3.41 (+0.02%) y el peso argentino en 1,545 (+0.05%)."
-     },
-     {
-      "t": "Qué se espera",
-      "x": "Hoy salió el acta del Copom, que mantuvo la Selic en 13.75%; el jueves Brasil publica el IPCA de octubre. Mañana, sin mercado de bonos en EE. UU., las monedas de la región pueden operar con menos liquidez."
+      "t": "Qué se espera hoy",
+      "x": "La agenda regional es ligera; mañana jueves Brasil publica el IPCA de octubre. Sin mercado de bonos en EE. UU., las monedas pueden operar con menos liquidez."
      }
     ],
-    "scm": "Convierte pronto los cobros en monedas locales y escalona los pagos en dólares de esta semana. Si compras cobre o concentrados en Chile o Perú, aprovecha la baja del día para cotizar."
+    "scm": "Convierte pronto los cobros en monedas locales y escalona los pagos en dólares. Con el cobre otra vez al alza, cotiza hoy cable y componentes antes de que suba más."
    },
    "en": {
-    "titular": "The region closes lower on a strong dollar: the Chilean peso falls 1.7% and the real 1.4%",
+    "titular": "The region seeks to recover after Tuesday's drop; copper and crude rise",
     "esencial": [
-     "The Ibovespa closed −0.45% (171,454.42) and Canada's S&P/TSX −0.76% (36,170.45).",
-     "The dollar rose 1.73% against the Chilean peso (983.7) and 1.40% against the real (5.58) after US CPI.",
-     "Convert local-currency receivables soon and stagger this week's dollar payments."
+     "On Tuesday the Ibovespa closed −0.45% and the Argentina ETF −2.12%, on a strong dollar after US CPI.",
+     "Overnight copper rises 1.1% and Brent 1.7%, helping Chile, Peru, Colombia and Brazil.",
+     "Convert local-currency receivables soon and quote copper inputs today."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "The Ibovespa closed −0.45% (171,454.42) and the S&P/TSX −0.76% (36,170.45). The MSCI ETFs fell 2.12% for Argentina, 1.70% for Chile and 1.46% for Peru, and Colombia's iCOLCAP was down 1.31% at 2:27 p.m. Mexico City time."
+      "t": "What happened since the close",
+      "x": "On Tuesday the Ibovespa closed −0.45% (171,454), the S&P/TSX −0.76% and the MSCI ETFs −2.12% for Argentina, −1.70% for Chile and −1.46% for Peru. At 5:15 a.m. Mexico City time the Chilean peso was at 983.7 per dollar, the real at 5.58 and the Colombian peso at 3,299."
      },
      {
-      "t": "Why",
-      "x": "Hotter-than-expected US CPI pushed the 10-year Treasury to 4.98% and strengthened the dollar (DXY +0.6%), weighing on the region's assets. Lower copper (−1.2%) hit Chile and Peru."
+      "t": "Context",
+      "x": "The tech rebound improves risk appetite, and higher copper (+1.1%, $6.30 per pound) and crude (Brent $93.04) help the region's exporters. A firmer dollar (DXY +0.3%) weighs."
      },
      {
-      "t": "Currencies",
-      "x": "At 3:15 p.m. Mexico City time the Chilean peso was at 983.7 per dollar (dollar +1.73%), the real at 5.58 (+1.40%), the Colombian peso at 3,290 (+0.72%), the Canadian dollar at 1.419 (+0.50%), the sol at 3.41 (+0.02%) and the Argentine peso at 1,545 (+0.05%)."
-     },
-     {
-      "t": "What to expect",
-      "x": "The minutes of the Copom, which held the Selic at 13.75%, came out today; Brazil publishes October IPCA on Thursday. Tomorrow, with no US bond market, the region's currencies may trade with thinner liquidity."
+      "t": "What to expect today",
+      "x": "The regional agenda is light; Brazil publishes October IPCA on Thursday. With no US bond market, currencies may trade with thinner liquidity."
      }
     ],
-    "scm": "Convert local-currency receivables soon and stagger this week's dollar payments. If you buy copper or concentrates in Chile or Peru, use today's dip to request quotes."
+    "scm": "Convert local-currency receivables soon and stagger dollar payments. With copper rising again, quote cable and components today before it climbs further."
    },
    "pt": {
-    "titular": "A região fecha em queda pelo dólar forte: o peso chileno cai 1,7% e o real 1,4%",
+    "titular": "A região busca se recuperar depois da queda de terça; cobre e petróleo sobem",
     "esencial": [
-     "O Ibovespa fechou com −0,45% (171.454,42) e o S&P/TSX do Canadá com −0,76% (36.170,45).",
-     "O dólar subiu 1,73% frente ao peso chileno (983,7) e 1,40% frente ao real (R$ 5,58) após o CPI dos EUA.",
-     "Converta logo os recebíveis em moeda local e escalone os pagamentos em dólares desta semana."
+     "Na terça o Ibovespa fechou com −0,45% e o ETF da Argentina com −2,12%, pelo dólar forte após o CPI dos EUA.",
+     "Na madrugada o cobre sobe 1,1% e o Brent 1,7%, o que favorece Chile, Peru, Colômbia e Brasil.",
+     "Converta logo os recebíveis em moeda local e cote hoje os insumos de cobre."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "O Ibovespa fechou com −0,45% (171.454,42) e o S&P/TSX com −0,76% (36.170,45). Os ETFs da MSCI caíram 2,12% na Argentina, 1,70% no Chile e 1,46% no Peru, e o iCOLCAP da Colômbia perdia 1,31% às 14h27 (Cidade do México)."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "Na terça o Ibovespa fechou com −0,45% (171.454), o S&P/TSX com −0,76% e os ETFs da MSCI com −2,12% na Argentina, −1,70% no Chile e −1,46% no Peru. Às 5h15 (Cidade do México) o peso chileno estava em 983,7 por dólar, o dólar em R$ 5,58 e o peso colombiano em 3.299."
      },
      {
-      "t": "Por quê",
-      "x": "O CPI dos EUA acima do esperado elevou o Treasury de 10 anos para 4,98% e fortaleceu o dólar (DXY +0,6%), o que pressiona os ativos da região. A queda do cobre (−1,2%) pesou sobre Chile e Peru."
+      "t": "Contexto",
+      "x": "A alta da tecnologia melhora o apetite por risco, e a alta do cobre (+1,1%, 6,30 dólares por libra) e do petróleo (Brent 93,04) favorece os exportadores da região. Contra pesa o dólar mais firme (DXY +0,3%)."
      },
      {
-      "t": "Moedas",
-      "x": "Às 15h15 (Cidade do México) o peso chileno estava em 983,7 por dólar (dólar +1,73%), o dólar em R$ 5,58 (+1,40%), o peso colombiano em 3.290 (+0,72%), o dólar canadense em 1,419 (+0,50%), o sol em 3,41 (+0,02%) e o peso argentino em 1.545 (+0,05%)."
-     },
-     {
-      "t": "O que se espera",
-      "x": "Hoje saiu a ata do Copom, que manteve a Selic em 13,75%; na quinta o Brasil divulga o IPCA de outubro. Amanhã, sem mercado de títulos nos EUA, as moedas da região podem operar com menos liquidez."
+      "t": "O que se espera hoje",
+      "x": "A agenda regional é leve; amanhã, quinta, o Brasil divulga o IPCA de outubro. Sem mercado de títulos nos EUA, as moedas podem operar com menos liquidez."
      }
     ],
-    "scm": "Converta logo os recebíveis em moeda local e escalone os pagamentos em dólares desta semana. Se você compra cobre ou concentrados no Chile ou no Peru, aproveite a queda do dia para cotar."
+    "scm": "Converta logo os recebíveis em moeda local e escalone os pagamentos em dólares. Com o cobre subindo de novo, cote hoje cabos e componentes antes que suba mais."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, materias primas, bonos y divisas al cierre (10 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/"
+     "t": "Mr. Supply Chain México: mapa de calor de América (cierres del 10 nov)",
+     "u": "https://mrsupplychain.ai/noticias/"
     },
     {
-     "t": "Mr. Supply Chain México: mapa de calor de América (datos de mercado de la GitHub Action del portal)",
-     "u": "https://mrsupplychain.ai/noticias/"
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (11 nov 2026, 05:16 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   "mexico": {
-   "id": "2026-11-10-cierre-mexico",
-   "fecha": "2026-11-10",
-   "momento": "cierre",
+   "id": "2026-11-11-premercado-mexico",
+   "fecha": "2026-11-11",
+   "momento": "premercado",
    "mercado": "mexico",
-   "hora": "15:20 CDMX",
+   "hora": "05:16 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "El IPC cierra con +0.1% pese a la inflación de EE. UU.; el peso termina en 18.67 y los Cetes bajan a 6.20%",
+    "titular": "El peso amanece en 18.59 con el apetito por la tecnología; a las 6:00 sale la actividad industrial",
     "esencial": [
-     "El S&P/BMV IPC cerró con +0.14% (71,957.80) tras abrir con −0.6%; el peso cerró en 18.67 por dólar (−0.75%), según Bloomberg.",
-     "En la subasta de hoy el Cete a 28 días bajó 30 puntos base a 6.20%, la primera tras el recorte de Banxico a 6.25%.",
-     "Para supply chain: compra por tramos los dólares de noviembre y adelanta los pagos del lunes 16, día inhábil bancario en México."
+     "A las 5:16 CDMX el peso estaba en 18.59 por dólar, mejor que el cierre de 18.67 del martes.",
+     "A las 6:00 CDMX el INEGI publica la actividad industrial de septiembre.",
+     "Para supply chain: aprovecha el peso en 18.59 para cubrir parte de los pagos en dólares de noviembre antes del puente del lunes 16."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "El S&P/BMV IPC cerró con +0.14% (71,957.80), después de abrir con −0.60%. El peso cerró en 18.67 por dólar, 14 centavos más que el lunes (−0.75%), según Bloomberg citado por El Financiero; a las 15:16 CDMX cotizaba en 18.63. En la subasta de Cetes las tasas bajaron en todos los plazos: 28 días a 6.20% (−30 pb), 91 días a 6.47%, 182 días a 6.61% y 364 días a 6.95%."
+      "t": "Lo que pasó desde el cierre",
+      "x": "El martes el IPC cerró con +0.14% (71,957.80) y el peso en 18.67 por dólar, según Bloomberg citado por El Financiero. En la noche el peso se recuperó: a las 5:16 CDMX cotizaba en 18.59, con el rebote de los futuros de EE. UU. tras los resultados de CoreWeave. Los Cetes a 28 días quedaron en 6.20% en la subasta del martes."
      },
      {
-      "t": "Por qué",
-      "x": "El CPI de EE. UU. arriba de lo esperado llevó casi a 100% la probabilidad de un alza de la Fed en diciembre; Gabriela Siller, de Banco Base, atribuyó la depreciación del peso a esa especulación. Con Banxico en 6.25% y la Fed al alza, el diferencial de tasas se estrecha. La bolsa resistió porque la caída en EE. UU. se concentró en tecnología, que pesa poco en el IPC."
+      "t": "Contexto",
+      "x": "El CPI de EE. UU. del martes dejó casi seguro un alza de la Fed en diciembre, lo que estrecha el diferencial de tasas con Banxico (6.25%). Hoy pesa a favor el apetito por riesgo y en contra el dólar más firme (DXY +0.3%) y el rebote del crudo, que encarece los combustibles importados."
      },
      {
-      "t": "Qué se espera",
-      "x": "Mañana el peso opera con menos liquidez porque el mercado de bonos de EE. UU. cierra por el Día de los Veteranos. El viernes 13 el PPI de EE. UU. es el siguiente dato que puede mover al peso. El lunes 16 cierran la BMV y los bancos por el Día de la Revolución, y el 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre."
+      "t": "Qué se espera hoy",
+      "x": "A las 6:00 CDMX el INEGI publica el Indicador Mensual de la Actividad Industrial de septiembre, clave para manufactura y construcción. Sin mercado de bonos en EE. UU., el peso puede operar con menos liquidez. El lunes 16 cierran la BMV y los bancos por el Día de la Revolución."
      }
     ],
-    "scm": "Con el peso en 18.67, compra por tramos los dólares de noviembre y adelanta los pagos que vencen el lunes 16 (día inhábil bancario). Si tienes excedentes en pesos, considera que los Cetes de corto plazo ya pagan menos (6.20%) para planear tu capital de trabajo."
+    "scm": "Aprovecha el peso en 18.59 para cubrir parte de los pagos en dólares de noviembre y adelanta los que vencen el lunes 16. Revisa el dato industrial de las 6:00 para ajustar el pronóstico de demanda de clientes manufactureros."
    },
    "en": {
-    "titular": "The IPC closes +0.1% despite US inflation; the peso ends at 18.67 and Cetes fall to 6.20%",
+    "titular": "The peso starts at 18.59 on tech appetite; industrial activity comes out at 6:00",
     "esencial": [
-     "The S&P/BMV IPC closed +0.14% (71,957.80) after opening −0.6%; the peso closed at 18.67 per dollar (−0.75%), according to Bloomberg.",
-     "In today's auction the 28-day Cete fell 30 basis points to 6.20%, the first since Banxico's cut to 6.25%.",
-     "For supply chain: buy November dollars in tranches and move forward payments due Monday the 16th, a bank holiday in Mexico."
+     "At 5:16 a.m. Mexico City time the peso was at 18.59 per dollar, stronger than Tuesday's 18.67 close.",
+     "At 6:00 a.m. Mexico City time INEGI publishes September industrial activity.",
+     "For supply chain: use the peso at 18.59 to hedge part of November dollar payments before Monday the 16th long weekend."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "The S&P/BMV IPC closed +0.14% (71,957.80) after opening −0.60%. The peso closed at 18.67 per dollar, 14 cents weaker than Monday (−0.75%), according to Bloomberg as cited by El Financiero; at 3:16 p.m. Mexico City time it traded at 18.63. In the Cetes auction rates fell across all tenors: 28-day to 6.20% (−30 bp), 91-day to 6.47%, 182-day to 6.61% and 364-day to 6.95%."
+      "t": "What happened since the close",
+      "x": "On Tuesday the IPC closed +0.14% (71,957.80) and the peso at 18.67 per dollar, according to Bloomberg as cited by El Financiero. Overnight the peso recovered: at 5:16 a.m. Mexico City time it traded at 18.59, with the rebound in US futures after CoreWeave results. 28-day Cetes came in at 6.20% in Tuesday's auction."
      },
      {
-      "t": "Why",
-      "x": "Hotter-than-expected US CPI pushed the probability of a December Fed hike to nearly 100%; Gabriela Siller of Banco Base attributed the peso's slide to that speculation. With Banxico at 6.25% and the Fed heading higher, the rate differential narrows. Stocks held up because the US selloff was concentrated in tech, which weighs little in the IPC."
+      "t": "Context",
+      "x": "Tuesday's US CPI made a December Fed hike nearly certain, narrowing the rate differential with Banxico (6.25%). Today risk appetite helps, while a firmer dollar (DXY +0.3%) and crude's rebound, which makes imported fuels pricier, weigh."
      },
      {
-      "t": "What to expect",
-      "x": "Tomorrow the peso trades with thinner liquidity as the US bond market closes for Veterans Day. US PPI on Friday the 13th is the next data point that can move the peso. On Monday the 16th the BMV and banks close for Revolution Day, and on November 24 INEGI publishes first-half November inflation."
+      "t": "What to expect today",
+      "x": "At 6:00 a.m. Mexico City time INEGI publishes September's Monthly Industrial Activity Indicator, key for manufacturing and construction. With no US bond market, the peso may trade with thinner liquidity. On Monday the 16th the BMV and banks close for Revolution Day."
      }
     ],
-    "scm": "With the peso at 18.67, buy November dollars in tranches and move forward payments due Monday the 16th (bank holiday). If you hold excess pesos, note that short-term Cetes now pay less (6.20%) when planning working capital."
+    "scm": "Use the peso at 18.59 to hedge part of November dollar payments and move forward those due Monday the 16th. Check the 6:00 a.m. industrial data to adjust demand forecasts for manufacturing customers."
    },
    "pt": {
-    "titular": "O IPC fecha com +0,1% apesar da inflação dos EUA; o peso termina a 18,67 e os Cetes caem para 6,20%",
+    "titular": "O peso amanhece a 18,59 com o apetite por tecnologia; às 6h sai a atividade industrial",
     "esencial": [
-     "O S&P/BMV IPC fechou com +0,14% (71.957,80) depois de abrir com −0,6%; o peso fechou a 18,67 por dólar (−0,75%), segundo a Bloomberg.",
-     "No leilão de hoje o Cete de 28 dias caiu 30 pontos-base para 6,20%, o primeiro após o corte do Banxico para 6,25%.",
-     "Para supply chain: compre em parcelas os dólares de novembro e antecipe os pagamentos da segunda, dia 16, feriado bancário no México."
+     "Às 5h16 (Cidade do México) o peso estava a 18,59 por dólar, melhor que o fechamento de 18,67 de terça.",
+     "Às 6h (Cidade do México) o INEGI divulga a atividade industrial de setembro.",
+     "Para supply chain: aproveite o peso a 18,59 para cobrir parte dos pagamentos em dólares de novembro antes do feriado de segunda, dia 16."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "O S&P/BMV IPC fechou com +0,14% (71.957,80), depois de abrir com −0,60%. O peso fechou a 18,67 por dólar, 14 centavos acima de segunda (−0,75%), segundo a Bloomberg citada pelo El Financiero; às 15h16 (Cidade do México) era cotado a 18,63. No leilão de Cetes as taxas caíram em todos os prazos: 28 dias para 6,20% (−30 pb), 91 dias para 6,47%, 182 dias para 6,61% e 364 dias para 6,95%."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "Na terça o IPC fechou com +0,14% (71.957,80) e o peso a 18,67 por dólar, segundo a Bloomberg citada pelo El Financiero. Durante a noite o peso se recuperou: às 5h16 era cotado a 18,59, com a alta dos futuros dos EUA após os resultados da CoreWeave. Os Cetes de 28 dias ficaram em 6,20% no leilão de terça."
      },
      {
-      "t": "Por quê",
-      "x": "O CPI dos EUA acima do esperado levou quase a 100% a probabilidade de alta do Fed em dezembro; Gabriela Siller, do Banco Base, atribuiu a desvalorização do peso a essa especulação. Com o Banxico em 6,25% e o Fed subindo, o diferencial de juros se estreita. A bolsa resistiu porque a queda nos EUA se concentrou em tecnologia, que pesa pouco no IPC."
+      "t": "Contexto",
+      "x": "O CPI dos EUA de terça deixou quase certa uma alta do Fed em dezembro, o que estreita o diferencial de juros com o Banxico (6,25%). Hoje ajuda o apetite por risco e pesam contra o dólar mais firme (DXY +0,3%) e a alta do petróleo, que encarece os combustíveis importados."
      },
      {
-      "t": "O que se espera",
-      "x": "Amanhã o peso opera com menos liquidez porque o mercado de títulos dos EUA fecha pelo Dia dos Veteranos. Na sexta, dia 13, o PPI dos EUA é o próximo dado que pode mexer com o peso. Na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução, e em 24 de novembro o INEGI publica a inflação da primeira quinzena de novembro."
+      "t": "O que se espera hoje",
+      "x": "Às 6h (Cidade do México) o INEGI divulga o Indicador Mensal da Atividade Industrial de setembro, chave para manufatura e construção. Sem mercado de títulos nos EUA, o peso pode operar com menos liquidez. Na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução."
      }
     ],
-    "scm": "Com o peso a 18,67, compre em parcelas os dólares de novembro e antecipe os pagamentos que vencem na segunda, dia 16 (feriado bancário). Se tiver excedentes em pesos, considere que os Cetes de curto prazo já pagam menos (6,20%) ao planejar o capital de giro."
+    "scm": "Aproveite o peso a 18,59 para cobrir parte dos pagamentos em dólares de novembro e antecipe os que vencem na segunda, dia 16. Confira o dado industrial das 6h para ajustar a previsão de demanda de clientes industriais."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: IPC México (^MXX), cierre del 10 nov 2026",
-     "u": "https://finance.yahoo.com/quote/%5EMXX/"
-    },
-    {
-     "t": "El Financiero: inflación en EE. UU. y la Fed \"dan baje\" al peso (10 nov 2026)",
+     "t": "El Financiero: cierre del peso del 10 nov 2026",
      "u": "https://www.elfinanciero.com.mx/mercados/2026/11/10/peso-dolar-tipo-de-cambio-precio-hoy-10-de-noviembre-de-2026/"
     },
     {
-     "t": "Imagen Radio: así quedaron las tasas de Cetes, subasta del 10 nov 2026",
-     "u": "https://www.imagenradio.com.mx/finanzas/cetes-quedaron-tasas-semana-10-17-noviembre-2026"
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (11 nov 2026, 05:16 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     },
     {
-     "t": "La Opinión: precio del dólar en México, 10 nov 2026 (FIX publicado en el DOF)",
-     "u": "https://laopinion.com/2026/11/10/precio-del-dolar-en-mexico-hoy-10-de-noviembre-del-2026/"
+     "t": "INEGI: calendario de difusión 2026 (IMAI de septiembre, 11 nov)",
+     "u": "https://inegi.org.mx/contenidos/saladeprensa/doc/cal_2026.pdf"
     },
     {
-     "t": "FOX 4: Veterans Day 2026, qué abre y qué cierra (bolsa abierta, mercado de bonos cerrado)",
+     "t": "FOX 4: Veterans Day 2026, qué abre y qué cierra",
      "u": "https://www.fox4news.com/news/veterans-day-open-closed-2026"
     }
    ]
@@ -672,8 +663,8 @@
    "nombre": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
    "grupo": "bolsa",
-   "valor": 6327.87,
-   "cambio": 0.59,
+   "valor": 6371.09,
+   "cambio": 0.68,
    "unidad": "puntos",
    "name_pt": "Euro Stoxx 50"
   },
@@ -681,8 +672,8 @@
    "nombre": "Nikkei 225",
    "name_en": "Nikkei 225",
    "grupo": "bolsa",
-   "valor": 60459.58,
-   "cambio": 2.87,
+   "valor": 61248.59,
+   "cambio": 1.31,
    "unidad": "puntos",
    "name_pt": "Nikkei 225"
   },
@@ -690,8 +681,8 @@
    "nombre": "KOSPI",
    "name_en": "KOSPI",
    "grupo": "bolsa",
-   "valor": 5239.13,
-   "cambio": 4.39,
+   "valor": 5375.36,
+   "cambio": 2.6,
    "unidad": "puntos",
    "name_pt": "KOSPI"
   },
@@ -699,8 +690,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 18.67,
-   "cambio": 0.75,
+   "valor": 18.59,
+   "cambio": -0.15,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -708,8 +699,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.1166,
-   "cambio": -0.46,
+   "valor": 1.1141,
+   "cambio": -0.23,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -717,8 +708,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 158.76,
-   "cambio": 0.54,
+   "valor": 159.14,
+   "cambio": 0.27,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -726,8 +717,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 86.3,
-   "cambio": -0.63,
+   "valor": 86.87,
+   "cambio": 0.96,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -735,8 +726,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 91.92,
-   "cambio": -0.7,
+   "valor": 93.04,
+   "cambio": 1.69,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -753,8 +744,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 4038.6,
-   "cambio": -1.84,
+   "valor": 4061.3,
+   "cambio": 0.77,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -762,8 +753,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 6.27,
-   "cambio": -1.17,
+   "valor": 6.3,
+   "cambio": 1.07,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -798,8 +789,8 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 73876.94,
-   "cambio": -1.83,
+   "valor": 73962.19,
+   "cambio": 0.34,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }

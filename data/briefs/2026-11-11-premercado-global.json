@@ -1,0 +1,99 @@
+{
+ "id": "2026-11-11-premercado-global",
+ "fecha": "2026-11-11",
+ "momento": "premercado",
+ "mercado": "global",
+ "hora": "05:16 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "CoreWeave reanima a la tecnología: los futuros del Nasdaq suben 1.7% y el crudo rebota por Ormuz",
+  "esencial": [
+   "A las 5:06 CDMX los futuros del Nasdaq 100 subían 1.7% y los del S&P 500 0.8%, tras los resultados de CoreWeave.",
+   "El Brent sube 1.7% a 93.04 dólares por nuevos ataques a buques en el estrecho de Ormuz.",
+   "Para supply chain: hoy cierra el mercado de bonos de EE. UU. y la ruta de Ormuz sigue en riesgo; revisa recargos de combustible y seguros de carga."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "CoreWeave dijo que será rentable en términos ajustados en la primera mitad de 2028 y su acción subía más de 10% antes de la apertura, según Reuters; eso calmó los temores por el gasto en IA. Nvidia subía 4% en el premercado tras perder unos 480 mil millones de dólares de valor en dos sesiones, y Marvell y Micron cerca de 7%. El martes un buque tanque fue atacado al noreste de Lima, Omán, y la Guardia Revolucionaria de Irán dijo que dos tanqueros se incendiaron por minas en el estrecho de Ormuz. En octubre hubo 37 barcos atacados, el mayor número mensual desde que empezó la guerra, según el Washington Institute."
+   },
+   {
+    "t": "Asia, Europa y futuros",
+    "x": "Asia cerró al alza: KOSPI +2.60% (5,375.36), Nikkei +1.31% (61,248.59) y Shanghái +0.54%; Hang Seng −0.54%. A las 5:01 CDMX el Euro Stoxx 50 subía 0.68%, el DAX 0.68% (Siemens Energy +8.3%) y el Stoxx 600 0.33%, cerca de su récord de agosto. A las 5:06 CDMX los futuros del Nasdaq 100 subían 1.73%, los del S&P 500 0.76% y los del Dow 0.04%. El WTI estaba en 86.87 dólares (+1.0%), el Brent en 93.04 (+1.7%), el oro en 4,061 (+0.8%), el cobre en 6.30 dólares por libra (+1.1%) y el índice del dólar en 102.50 (+0.3%)."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Por el Día de los Veteranos el mercado de bonos de EE. UU. cierra y las bolsas operan normal; no hay datos económicos relevantes en EE. UU. El mercado ya da por hecho un alza de la Fed en diciembre: CME FedWatch asigna 11.5% a una de medio punto. El viernes 13 sale el PPI de octubre (7:30 CDMX)."
+   }
+  ],
+  "scm": "Pide a tus navieras y transportistas el recargo de combustible con base semanal: el Brent volvió a 93 dólares por Ormuz. Si mueves carga por el Golfo Pérsico, confirma hoy primas de seguro de guerra y rutas alternas."
+ },
+ "en": {
+  "titular": "CoreWeave revives tech: Nasdaq futures rise 1.7% and crude rebounds on Hormuz",
+  "esencial": [
+   "At 6:06 a.m. ET Nasdaq 100 futures were up 1.7% and S&P 500 futures 0.8%, after CoreWeave results.",
+   "Brent rises 1.7% to $93.04 on new attacks on ships in the Strait of Hormuz.",
+   "For supply chain: the US bond market is closed today and the Hormuz route remains at risk; review fuel surcharges and cargo insurance."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "CoreWeave said it will be profitable on an adjusted basis in the first half of 2028 and its shares were up more than 10% premarket, according to Reuters, easing fears over AI spending. Nvidia was up 4% premarket after shedding about $480 billion in value over two sessions, and Marvell and Micron nearly 7%. On Tuesday a tanker was struck northeast of Lima, Oman, and Iran's Revolutionary Guards said two tankers caught fire after hitting mines in the Strait of Hormuz. In October 37 ships were attacked, the highest monthly total since the war began, according to the Washington Institute."
+   },
+   {
+    "t": "Asia, Europe and futures",
+    "x": "Asia closed higher: KOSPI +2.60% (5,375.36), Nikkei +1.31% (61,248.59) and Shanghai +0.54%; Hang Seng −0.54%. At 6:01 a.m. ET the Euro Stoxx 50 was up 0.68%, the DAX 0.68% (Siemens Energy +8.3%) and the Stoxx 600 0.33%, near its August record. At 6:06 a.m. ET Nasdaq 100 futures were up 1.73%, S&P 500 futures 0.76% and Dow futures 0.04%. WTI was at $86.87 (+1.0%), Brent at $93.04 (+1.7%), gold at $4,061 (+0.8%), copper at $6.30 per pound (+1.1%) and the dollar index at 102.50 (+0.3%)."
+   },
+   {
+    "t": "What to expect today",
+    "x": "For Veterans Day the US bond market is closed while stocks trade normally; there is no major US data. The market already prices a December Fed hike: CME FedWatch puts the odds of a half-point move at 11.5%. October PPI comes out Friday the 13th (8:30 a.m. ET)."
+   }
+  ],
+  "scm": "Ask carriers for fuel surcharges on a weekly basis: Brent is back at $93 on Hormuz. If you move cargo through the Persian Gulf, confirm war-risk premiums and alternative routes today."
+ },
+ "pt": {
+  "titular": "A CoreWeave reanima a tecnologia: os futuros do Nasdaq sobem 1,7% e o petróleo reage com Ormuz",
+  "esencial": [
+   "Às 5h06 (Cidade do México) os futuros do Nasdaq 100 subiam 1,7% e os do S&P 500 0,8%, após os resultados da CoreWeave.",
+   "O Brent sobe 1,7% para 93,04 dólares com novos ataques a navios no estreito de Ormuz.",
+   "Para supply chain: hoje o mercado de títulos dos EUA fecha e a rota de Ormuz segue em risco; revise sobretaxas de combustível e seguros de carga."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "A CoreWeave disse que será lucrativa em termos ajustados no primeiro semestre de 2028 e sua ação subia mais de 10% no pré-mercado, segundo a Reuters, o que acalmou os temores sobre os gastos com IA. A Nvidia subia 4% no pré-mercado depois de perder cerca de 480 bilhões de dólares em valor em duas sessões, e Marvell e Micron perto de 7%. Na terça um navio-tanque foi atacado a nordeste de Lima, Omã, e a Guarda Revolucionária do Irã disse que dois petroleiros pegaram fogo ao atingir minas no estreito de Ormuz. Em outubro 37 navios foram atacados, o maior número mensal desde o início da guerra, segundo o Washington Institute."
+   },
+   {
+    "t": "Ásia, Europa e futuros",
+    "x": "A Ásia fechou em alta: KOSPI +2,60% (5.375,36), Nikkei +1,31% (61.248,59) e Xangai +0,54%; Hang Seng −0,54%. Às 5h01 (Cidade do México) o Euro Stoxx 50 subia 0,68%, o DAX 0,68% (Siemens Energy +8,3%) e o Stoxx 600 0,33%, perto do recorde de agosto. Às 5h06 os futuros do Nasdaq 100 subiam 1,73%, os do S&P 500 0,76% e os do Dow 0,04%. O WTI estava a 86,87 dólares (+1,0%), o Brent a 93,04 (+1,7%), o ouro a 4.061 (+0,8%), o cobre a 6,30 dólares por libra (+1,1%) e o índice do dólar em 102,50 (+0,3%)."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Pelo Dia dos Veteranos o mercado de títulos dos EUA fecha e as bolsas operam normalmente; não há dados econômicos relevantes nos EUA. O mercado já dá como certa uma alta do Fed em dezembro: o CME FedWatch atribui 11,5% a uma de meio ponto. Na sexta, dia 13, sai o PPI de outubro (7h30, Cidade do México)."
+   }
+  ],
+  "scm": "Peça às transportadoras a sobretaxa de combustível com base semanal: o Brent voltou a 93 dólares por Ormuz. Se você movimenta carga pelo Golfo Pérsico, confirme hoje os prêmios de seguro de guerra e rotas alternativas."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters vía Yahoo Finance: futuros del S&P 500 y Nasdaq suben tras los resultados de CoreWeave (11 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-104431138.html"
+  },
+  {
+   "t": "Reuters vía Yahoo Finance: bolsas europeas cerca de récord por Siemens Energy y CoreWeave (11 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/european-stocks-near-record-high-102945417.html"
+  },
+  {
+   "t": "Reuters vía The Star: el petróleo rebota por ataques a buques en Ormuz (11 nov 2026)",
+   "u": "https://www.thestar.com.my/business/business-news/2026/11/11/oil-rebounds-as-hormuz-shipping-attacks-blunt-hopes-for-iran-truce"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (11 nov 2026, 05:16 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "FOX 4: Veterans Day 2026, qué abre y qué cierra",
+   "u": "https://www.fox4news.com/news/veterans-day-open-closed-2026"
+  }
+ ]
+}
