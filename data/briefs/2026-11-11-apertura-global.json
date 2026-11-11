@@ -1,0 +1,106 @@
+{
+ "id": "2026-11-11-apertura-global",
+ "fecha": "2026-11-11",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:11 CDMX",
+ "es": {
+  "titular": "Wall Street abre al alza con el rebote de los chips: el Nasdaq sube 1.2% y CoreWeave casi 20%",
+  "esencial": [
+   "A las 9:11 CDMX el S&P 500 subía 0.79%, el Nasdaq 1.22% y el Dow bajaba 0.21%; el mercado de bonos de EE. UU. está cerrado.",
+   "CoreWeave subía 19.8% tras elevar su pronóstico de ingresos de 2026 a entre 13,000 y 13,300 millones de dólares; Nvidia ganaba 2.2%.",
+   "Para supply chain: el WTI sube 1.7% a 87.51 dólares por los ataques en Ormuz; revisa recargos de combustible y la capacidad de chips y memoria."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "Los futuros anticipaban un rebote de la tecnología y se cumplió: al abrir el S&P 500 subía 0.9%, el Nasdaq 1.5% y el Dow bajaba 0.1%. A las 9:11 CDMX el S&P 500 estaba en 7,580.28 (+0.79%), el Nasdaq en 25,370.65 (+1.22%) y el Dow en 52,123.11 (−0.21%); el VIX bajaba 5.9% a 18.32. CoreWeave subía 19.8% después de elevar su pronóstico de ingresos de 2026 a entre 13,000 y 13,300 millones de dólares (antes 12,000 a 13,000) y reportar un trimestre con ingresos de 3,660 millones (+168%). Nvidia ganaba 2.2% (172.54) pese a que Baird bajó su recomendación a Neutral; AMD subía 4.9%, Intel 6.2%, y Micron y SK Hynix más de 8%. El WTI estaba en 87.51 dólares (+1.7%), el Brent en 93.24 (+1.9%) y el índice del dólar en 102.96 (+0.7%). Hoy no hay datos de las 8:30 ni de las 10:00 por el Día de los Veteranos y el mercado de bonos está cerrado; el Treasury a 10 años se quedó en 4.98% del martes."
+   },
+   {
+    "t": "Asia y Europa",
+    "x": "Asia cerró al alza: KOSPI +2.60% (5,375.36), Nikkei +1.31% (61,248.59) y Shanghái +0.54%; Hang Seng −0.54%. A las 8:55 CDMX el Euro Stoxx 50 subía 0.58% (6,364.75), el DAX 0.92%, el CAC 40 0.47%, el FTSE 100 0.41% y el Stoxx 600 0.40%, cerca de su récord."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Más tarde salen los inventarios oficiales de crudo de la EIA; el martes el API reportó un alza de 9 millones de barriles. Irán dijo que no dejará salir su material nuclear enriquecido, lo que enfría las esperanzas de un acuerdo y mantiene el riesgo en Ormuz. El viernes 13 sale el PPI de octubre (7:30 CDMX)."
+   }
+  ],
+  "scm": "Con el crudo otra vez al alza por Ormuz, pide recargos de combustible con ajuste semanal y confirma primas de seguro en rutas del Golfo. El rebote de los chips no cambia la escasez de memoria: asegura hoy volúmenes de memoria y almacenamiento para el primer trimestre."
+ },
+ "en": {
+  "titular": "Wall Street opens higher on a chip rebound: the Nasdaq rises 1.2% and CoreWeave nearly 20%",
+  "esencial": [
+   "At 10:11 a.m. ET the S&P 500 was up 0.79%, the Nasdaq 1.22% and the Dow down 0.21%; the US bond market is closed.",
+   "CoreWeave rose 19.8% after raising its 2026 revenue forecast to $13 billion to $13.3 billion; Nvidia gained 2.2%.",
+   "For supply chain: WTI rises 1.7% to $87.51 on Hormuz attacks; review fuel surcharges and chip and memory capacity."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "Futures pointed to a tech rebound and it came: at the open the S&P 500 rose 0.9%, the Nasdaq 1.5% and the Dow slipped 0.1%. At 10:11 a.m. ET the S&P 500 stood at 7,580.28 (+0.79%), the Nasdaq at 25,370.65 (+1.22%) and the Dow at 52,123.11 (−0.21%); the VIX fell 5.9% to 18.32. CoreWeave rose 19.8% after raising its 2026 revenue forecast to $13 billion to $13.3 billion (from $12 billion to $13 billion) and reporting quarterly revenue of $3.66 billion (+168%). Nvidia gained 2.2% ($172.54) despite a Baird downgrade to Neutral; AMD rose 4.9%, Intel 6.2%, and Micron and SK Hynix more than 8%. WTI was at $87.51 (+1.7%), Brent at $93.24 (+1.9%) and the dollar index at 102.96 (+0.7%). There is no 8:30 or 10:00 data today for Veterans Day and the bond market is closed; the 10-year Treasury stays at Tuesday's 4.98%."
+   },
+   {
+    "t": "Asia and Europe",
+    "x": "Asia closed higher: KOSPI +2.60% (5,375.36), Nikkei +1.31% (61,248.59) and Shanghai +0.54%; Hang Seng −0.54%. At 9:55 a.m. ET the Euro Stoxx 50 was up 0.58% (6,364.75), the DAX 0.92%, the CAC 40 0.47%, the FTSE 100 0.41% and the Stoxx 600 0.40%, near its record."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Official EIA crude inventories come out later; on Tuesday the API reported a 9-million-barrel build. Iran said it will not let its enriched nuclear material leave the country, cooling hopes for a deal and keeping Hormuz risk alive. October PPI comes out Friday the 13th (8:30 a.m. ET)."
+   }
+  ],
+  "scm": "With crude rising again on Hormuz, ask for fuel surcharges with weekly adjustment and confirm insurance premiums on Gulf routes. The chip rebound doesn't change the memory shortage: secure memory and storage volumes for the first quarter today."
+ },
+ "pt": {
+  "titular": "Wall Street abre em alta com a recuperação dos chips: o Nasdaq sobe 1,2% e a CoreWeave quase 20%",
+  "esencial": [
+   "Às 9h11 (Cidade do México) o S&P 500 subia 0,79%, o Nasdaq 1,22% e o Dow caía 0,21%; o mercado de títulos dos EUA está fechado.",
+   "A CoreWeave subia 19,8% após elevar sua previsão de receita de 2026 para entre 13 e 13,3 bilhões de dólares; a Nvidia ganhava 2,2%.",
+   "Para supply chain: o WTI sobe 1,7% para 87,51 dólares pelos ataques em Ormuz; revise sobretaxas de combustível e a capacidade de chips e memória."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Os futuros antecipavam uma recuperação da tecnologia e ela veio: na abertura o S&P 500 subia 0,9%, o Nasdaq 1,5% e o Dow caía 0,1%. Às 9h11 (Cidade do México) o S&P 500 estava em 7.580,28 (+0,79%), o Nasdaq em 25.370,65 (+1,22%) e o Dow em 52.123,11 (−0,21%); o VIX caía 5,9% para 18,32. A CoreWeave subia 19,8% depois de elevar sua previsão de receita de 2026 para entre 13 e 13,3 bilhões de dólares (antes 12 a 13 bilhões) e reportar receita trimestral de 3,66 bilhões (+168%). A Nvidia ganhava 2,2% (172,54) apesar de a Baird rebaixar sua recomendação para Neutra; a AMD subia 4,9%, a Intel 6,2%, e Micron e SK Hynix mais de 8%. O WTI estava a 87,51 dólares (+1,7%), o Brent a 93,24 (+1,9%) e o índice do dólar em 102,96 (+0,7%). Hoje não há dados das 8h30 nem das 10h pelo Dia dos Veteranos e o mercado de títulos está fechado; o Treasury de 10 anos ficou nos 4,98% de terça."
+   },
+   {
+    "t": "Ásia e Europa",
+    "x": "A Ásia fechou em alta: KOSPI +2,60% (5.375,36), Nikkei +1,31% (61.248,59) e Xangai +0,54%; Hang Seng −0,54%. Às 8h55 (Cidade do México) o Euro Stoxx 50 subia 0,58% (6.364,75), o DAX 0,92%, o CAC 40 0,47%, o FTSE 100 0,41% e o Stoxx 600 0,40%, perto do recorde."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Mais tarde saem os estoques oficiais de petróleo da EIA; na terça o API reportou alta de 9 milhões de barris. O Irã disse que não deixará seu material nuclear enriquecido sair do país, o que esfria as esperanças de acordo e mantém o risco em Ormuz. Na sexta, dia 13, sai o PPI de outubro (7h30, Cidade do México)."
+   }
+  ],
+  "scm": "Com o petróleo de novo em alta por Ormuz, peça sobretaxas de combustível com ajuste semanal e confirme os prêmios de seguro nas rotas do Golfo. A recuperação dos chips não muda a escassez de memória: garanta hoje volumes de memória e armazenamento para o primeiro trimestre."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: S&P 500 y Nasdaq suben con el rebote de Nvidia y los chips tras CoreWeave (11 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+  },
+  {
+   "t": "Yahoo Finance: Nvidia rebota y los chips suben por los resultados de CoreWeave (11 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/article/nvidia-stock-rebounds-chip-stocks-surge-as-coreweave-earnings-boost-ai-trade-151001136.html"
+  },
+  {
+   "t": "TIKR vía Yahoo Finance: AMD sube 4% por el pronóstico de CoreWeave (11 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amd-rises-4-coreweave-raised-150051550.html"
+  },
+  {
+   "t": "Reuters vía Yahoo Finance: el petróleo sube 1% tras declaraciones de Irán; ataques en Ormuz (11 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-rebounds-hormuz-shipping-attacks-045504059.html"
+  },
+  {
+   "t": "Reuters vía Yahoo Finance: bolsas europeas cerca de récord (11 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/european-stocks-near-record-high-102945417.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (11 nov 2026, 09:11 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "FOX 4: Veterans Day 2026, qué abre y qué cierra",
+   "u": "https://www.fox4news.com/news/veterans-day-open-closed-2026"
+  }
+ ]
+}

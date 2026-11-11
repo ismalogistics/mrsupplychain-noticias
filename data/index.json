@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-11-apertura-global",
+   "fecha": "2026-11-11",
+   "momento": "apertura",
+   "mercado": "global",
+   "titular_es": "Wall Street abre al alza con el rebote de los chips: el Nasdaq sube 1.2% y CoreWeave casi 20%",
+   "titular_en": "Wall Street opens higher on a chip rebound: the Nasdaq rises 1.2% and CoreWeave nearly 20%",
+   "titular_pt": "Wall Street abre em alta com a recuperação dos chips: o Nasdaq sobe 1,2% e a CoreWeave quase 20%"
+  },
+  {
+   "id": "2026-11-11-apertura-latam",
+   "fecha": "2026-11-11",
+   "momento": "apertura",
+   "mercado": "latam",
+   "titular_es": "El Ibovespa abre con +0.8% y el real se fortalece; Colombia baja 0.5%",
+   "titular_en": "The Ibovespa opens +0.8% and the real strengthens; Colombia falls 0.5%",
+   "titular_pt": "O Ibovespa abre com +0,8% e o real se fortalece; a Colômbia cai 0,5%"
+  },
+  {
+   "id": "2026-11-11-apertura-mexico",
+   "fecha": "2026-11-11",
+   "momento": "apertura",
+   "mercado": "mexico",
+   "titular_es": "La actividad industrial cae 1.4% en septiembre; el IPC sube 0.6% y el peso opera en 18.62",
+   "titular_en": "Industrial activity falls 1.4% in September; the IPC rises 0.6% and the peso trades at 18.62",
+   "titular_pt": "A atividade industrial cai 1,4% em setembro; o IPC sobe 0,6% e o peso opera a 18,62"
+  },
+  {
    "id": "2026-11-11-premercado-global",
    "fecha": "2026-11-11",
    "momento": "premercado",

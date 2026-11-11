@@ -1,0 +1,86 @@
+{
+ "id": "2026-11-11-apertura-latam",
+ "fecha": "2026-11-11",
+ "momento": "apertura",
+ "mercado": "latam",
+ "hora": "09:11 CDMX",
+ "es": {
+  "titular": "El Ibovespa abre con +0.8% y el real se fortalece; Colombia baja 0.5%",
+  "esencial": [
+   "A las 8:56 CDMX el Ibovespa subía 0.78% (172,675) y a las 9:11 el S&P/TSX 0.50%.",
+   "El real se aprecia 0.46% a 5.55 por dólar, mientras el peso colombiano pierde 0.31% (3,301).",
+   "Con el cobre y el crudo al alza, cotiza hoy insumos de cobre y fija fletes regionales con ajuste semanal."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 8:56 CDMX el Ibovespa subía 0.78% a 172,675.06 y a las 9:11 el S&P/TSX de Canadá 0.50% (36,350.08). Los ETF de MSCI subían 0.45% en Argentina y 0.14% en Chile, y bajaban 0.04% en Perú; el iCOLCAP de Colombia perdía 0.51% a las 8:49. En monedas, a las 9:11 CDMX el real estaba en 5.55 por dólar (dólar −0.46%), el peso chileno en 984.1 (+0.04%), el peso colombiano en 3,301 (+0.31%), el sol en 3.41 (−0.01%), el peso argentino en 1,548.5 (+0.21%) y el dólar canadiense en 1.424 (+0.34%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "El rebote de la tecnología en Wall Street mejora el apetito por riesgo. El crudo sube 1.7% por los ataques a buques en Ormuz y el cobre 0.5% (6.27 dólares por libra), lo que apoya a los exportadores de Brasil, Colombia, Chile y Perú; el dólar más fuerte (DXY +0.7%) frena a algunas monedas."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "La agenda regional de hoy es ligera; mañana jueves Brasil publica el IPCA de octubre."
+   }
+  ],
+  "scm": "Cotiza hoy cable e insumos de cobre y fija fletes regionales con ajuste semanal por el crudo. Si pagas en dólares desde Brasil, el real más fuerte (5.55) es buena ventana para cubrir."
+ },
+ "en": {
+  "titular": "The Ibovespa opens +0.8% and the real strengthens; Colombia falls 0.5%",
+  "esencial": [
+   "At 8:56 a.m. Mexico City time the Ibovespa was up 0.78% (172,675) and at 9:11 the S&P/TSX 0.50%.",
+   "The real gains 0.46% to 5.55 per dollar, while the Colombian peso loses 0.31% (3,301).",
+   "With copper and crude rising, quote copper inputs today and set regional freight with weekly adjustment."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "At 8:56 a.m. Mexico City time the Ibovespa was up 0.78% at 172,675.06 and at 9:11 Canada's S&P/TSX 0.50% (36,350.08). The MSCI ETFs rose 0.45% for Argentina and 0.14% for Chile, and fell 0.04% for Peru; Colombia's iCOLCAP was down 0.51% at 8:49. In currencies, at 9:11 a.m. the real was at 5.55 per dollar (dollar −0.46%), the Chilean peso at 984.1 (+0.04%), the Colombian peso at 3,301 (+0.31%), the sol at 3.41 (−0.01%), the Argentine peso at 1,548.5 (+0.21%) and the Canadian dollar at 1.424 (+0.34%)."
+   },
+   {
+    "t": "Context",
+    "x": "Wall Street's tech rebound improves risk appetite. Crude rises 1.7% on ship attacks in Hormuz and copper 0.5% ($6.27 per pound), supporting exporters in Brazil, Colombia, Chile and Peru; a stronger dollar (DXY +0.7%) holds back some currencies."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Today's regional agenda is light; Brazil publishes October IPCA on Thursday."
+   }
+  ],
+  "scm": "Quote cable and copper inputs today and set regional freight with weekly adjustment for crude. If you pay in dollars from Brazil, the stronger real (5.55) is a good hedging window."
+ },
+ "pt": {
+  "titular": "O Ibovespa abre com +0,8% e o real se fortalece; a Colômbia cai 0,5%",
+  "esencial": [
+   "Às 8h56 (Cidade do México) o Ibovespa subia 0,78% (172.675) e às 9h11 o S&P/TSX 0,50%.",
+   "O real se valoriza 0,46% para R$ 5,55 por dólar, enquanto o peso colombiano perde 0,31% (3.301).",
+   "Com cobre e petróleo em alta, cote hoje insumos de cobre e fixe fretes regionais com ajuste semanal."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 8h56 (Cidade do México) o Ibovespa subia 0,78% para 172.675,06 e às 9h11 o S&P/TSX do Canadá 0,50% (36.350,08). Os ETFs da MSCI subiam 0,45% na Argentina e 0,14% no Chile, e caíam 0,04% no Peru; o iCOLCAP da Colômbia perdia 0,51% às 8h49. Nas moedas, às 9h11 o dólar estava em R$ 5,55 (dólar −0,46%), o peso chileno em 984,1 (+0,04%), o peso colombiano em 3.301 (+0,31%), o sol em 3,41 (−0,01%), o peso argentino em 1.548,5 (+0,21%) e o dólar canadense em 1,424 (+0,34%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "A recuperação da tecnologia em Wall Street melhora o apetite por risco. O petróleo sobe 1,7% pelos ataques a navios em Ormuz e o cobre 0,5% (6,27 dólares por libra), o que apoia os exportadores do Brasil, Colômbia, Chile e Peru; o dólar mais forte (DXY +0,7%) segura algumas moedas."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "A agenda regional de hoje é leve; amanhã, quinta, o Brasil divulga o IPCA de outubro."
+   }
+  ],
+  "scm": "Cote hoje cabos e insumos de cobre e fixe fretes regionais com ajuste semanal pelo petróleo. Se você paga em dólares a partir do Brasil, o real mais forte (R$ 5,55) é uma boa janela para hedge."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (11 nov 2026, 09:11 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

@@ -1,12 +1,175 @@
 {
- "actualizado": "2026-11-10T21:21:47Z",
- "fecha": "2026-11-10",
+ "actualizado": "2026-11-11T15:15:08Z",
+ "fecha": "2026-11-11",
  "titular": {
-  "es": "Cierre del martes: el diésel sigue caro, el crudo se estabiliza y Nvidia cae 5.5%",
-  "en": "Tuesday close: diesel stays expensive, crude stabilizes and Nvidia falls 5.5%",
-  "pt": "Fechamento de terça: o diesel segue caro, o petróleo se estabiliza e a Nvidia cai 5,5%"
+  "es": "Miércoles: los chips rebotan con CoreWeave, el crudo sube por Ormuz y la industria mexicana cae 1.4%",
+  "en": "Wednesday: chips rebound on CoreWeave, crude rises on Hormuz and Mexican industry falls 1.4%",
+  "pt": "Quarta: os chips se recuperam com a CoreWeave, o petróleo sobe por Ormuz e a indústria mexicana cai 1,4%"
  },
  "items": [
+  {
+   "id": "semis",
+   "dir": "up",
+   "calor": 3,
+   "mx": false,
+   "latam": false,
+   "es": "Semiconductores y electrónica",
+   "en": "Semiconductors and electronics",
+   "pt": "Semicondutores e eletrônicos",
+   "titular": {
+    "es": "CoreWeave eleva su pronóstico y los chips rebotan: AMD +4.9%, Intel +6.2% y Micron más de 8%",
+    "en": "CoreWeave raises its outlook and chips rebound: AMD +4.9%, Intel +6.2% and Micron over 8%",
+    "pt": "A CoreWeave eleva sua previsão e os chips se recuperam: AMD +4,9%, Intel +6,2% e Micron mais de 8%"
+   },
+   "x": {
+    "es": "CoreWeave subió su pronóstico de ingresos de 2026 a entre 13,000 y 13,300 millones de dólares; sus ingresos del trimestre crecieron 168% a 3,660 millones y su cartera llegó a 132,500 millones. Nvidia rebotaba 2.2% pese a la baja de recomendación de Baird; Micron y SK Hynix ganaban más de 8%.",
+    "en": "CoreWeave raised its 2026 revenue forecast to $13 billion to $13.3 billion; quarterly revenue grew 168% to $3.66 billion and its backlog reached $132.5 billion. Nvidia bounced 2.2% despite Baird's downgrade; Micron and SK Hynix gained more than 8%.",
+    "pt": "A CoreWeave elevou sua previsão de receita de 2026 para entre 13 e 13,3 bilhões de dólares; a receita do trimestre cresceu 168% para 3,66 bilhões e sua carteira chegou a 132,5 bilhões. A Nvidia subia 2,2% apesar do rebaixamento da Baird; Micron e SK Hynix ganhavam mais de 8%."
+   },
+   "scm": {
+    "es": "La demanda de cómputo supera la capacidad: asegura hoy volúmenes de memoria y almacenamiento para el primer trimestre.",
+    "en": "Compute demand outruns capacity: secure memory and storage volumes for the first quarter today.",
+    "pt": "A demanda por computação supera a capacidade: garanta hoje volumes de memória e armazenamento para o primeiro trimestre."
+   },
+   "fuentes": [
+    {
+     "t": "Yahoo Finance: Nvidia rebota y los chips suben por los resultados de CoreWeave (11 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/article/nvidia-stock-rebounds-chip-stocks-surge-as-coreweave-earnings-boost-ai-trade-151001136.html"
+    },
+    {
+     "t": "TIKR vía Yahoo Finance: AMD sube 4% por el pronóstico de CoreWeave (11 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/amd-rises-4-coreweave-raised-150051550.html"
+    }
+   ]
+  },
+  {
+   "id": "energia",
+   "dir": "up",
+   "calor": 3,
+   "mx": true,
+   "latam": true,
+   "es": "Energía y combustibles",
+   "en": "Energy and fuels",
+   "pt": "Energia e combustíveis",
+   "titular": {
+    "es": "El crudo sube 1.7% por Ormuz: WTI en 87.51 dólares y Brent en 93.24",
+    "en": "Crude rises 1.7% on Hormuz: WTI at $87.51 and Brent at $93.24",
+    "pt": "O petróleo sobe 1,7% por Ormuz: WTI a 87,51 dólares e Brent a 93,24"
+   },
+   "x": {
+    "es": "El petróleo rebota desde mínimos de dos meses porque Irán dijo que su material nuclear enriquecido no saldrá del país y siguen los ataques a buques: en octubre hubo 37, el máximo mensual desde que empezó la guerra. Brent y WTI acumulan bajas de 21% y 17% en noviembre; hoy salen los inventarios de la EIA.",
+    "en": "Oil rebounds from two-month lows after Iran said its enriched nuclear material will not leave the country and ship attacks continue: there were 37 in October, the monthly high since the war began. Brent and WTI are down 21% and 17% in November; EIA inventories come out today.",
+    "pt": "O petróleo se recupera das mínimas de dois meses porque o Irã disse que seu material nuclear enriquecido não sairá do país e os ataques a navios continuam: em outubro foram 37, o máximo mensal desde o início da guerra. Brent e WTI acumulam quedas de 21% e 17% em novembro; hoje saem os estoques da EIA."
+   },
+   "scm": {
+    "es": "Fija recargos de combustible con ajuste semanal: el crudo ya rebota.",
+    "en": "Set fuel surcharges with weekly adjustment: crude is already rebounding.",
+    "pt": "Fixe sobretaxas de combustível com ajuste semanal: o petróleo já está se recuperando."
+   },
+   "fuentes": [
+    {
+     "t": "Reuters vía Yahoo Finance: el petróleo sube 1% tras declaraciones de Irán; ataques en Ormuz (11 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-rebounds-hormuz-shipping-attacks-045504059.html"
+    }
+   ]
+  },
+  {
+   "id": "puertos",
+   "dir": "down",
+   "calor": 3,
+   "mx": true,
+   "latam": true,
+   "es": "Marítimo y puertos",
+   "en": "Maritime and ports",
+   "pt": "Marítimo e portos",
+   "titular": {
+    "es": "Más ataques a tanqueros en Ormuz: un buque golpeado frente a Omán y dos incendiados por minas",
+    "en": "More tanker attacks in Hormuz: one ship hit off Oman and two set ablaze by mines",
+    "pt": "Mais ataques a petroleiros em Ormuz: um navio atingido perto de Omã e dois incendiados por minas"
+   },
+   "x": {
+    "es": "El martes un tanquero fue atacado al noreste de Lima, Omán, según la UKMTO, y la Guardia Revolucionaria de Irán dijo que dos tanqueros se incendiaron por minas. LSEG advierte que, aun con un acuerdo, el tránsito dependerá del desminado, del costo de los seguros y de que los navieros acepten el riesgo.",
+    "en": "On Tuesday a tanker was attacked northeast of Lima, Oman, according to UKMTO, and Iran's Revolutionary Guards said two tankers caught fire after hitting mines. LSEG warns that even with a deal, traffic will depend on mine clearance, insurance costs and shipowners' willingness to take the risk.",
+    "pt": "Na terça um petroleiro foi atacado a nordeste de Lima, Omã, segundo a UKMTO, e a Guarda Revolucionária do Irã disse que dois petroleiros pegaram fogo por minas. A LSEG alerta que, mesmo com acordo, o trânsito dependerá da remoção de minas, do custo dos seguros e de os armadores aceitarem o risco."
+   },
+   "scm": {
+    "es": "Confirma primas de seguro de guerra y tiempos de tránsito en rutas del Golfo, y agrega colchón a los envíos de Asia que pasan por Medio Oriente.",
+    "en": "Confirm war-risk premiums and transit times on Gulf routes, and add buffer to Asian shipments routed through the Middle East.",
+    "pt": "Confirme os prêmios de seguro de guerra e os tempos de trânsito nas rotas do Golfo, e acrescente folga aos envios da Ásia que passam pelo Oriente Médio."
+   },
+   "fuentes": [
+    {
+     "t": "Reuters vía Yahoo Finance: el petróleo sube 1% tras declaraciones de Irán; ataques en Ormuz (11 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-rebounds-hormuz-shipping-attacks-045504059.html"
+    }
+   ]
+  },
+  {
+   "id": "manufactura",
+   "dir": "down",
+   "calor": 3,
+   "mx": true,
+   "latam": false,
+   "es": "Manufactura",
+   "en": "Manufacturing",
+   "pt": "Manufatura",
+   "titular": {
+    "es": "La actividad industrial de México cae 1.4% en septiembre; manufacturas −1.7% y construcción −2.0%",
+    "en": "Mexico's industrial activity falls 1.4% in September; manufacturing −1.7% and construction −2.0%",
+    "pt": "A atividade industrial do México cai 1,4% em setembro; manufatura −1,7% e construção −2,0%"
+   },
+   "x": {
+    "es": "Con cifras desestacionalizadas la industria cayó 1.4% mensual; energía subió 1.4% y minería 0.4%. A tasa anual creció 1.3% (construcción +4.9%, manufacturas +0.6%) y de enero a septiembre acumula +1.1%.",
+    "en": "Seasonally adjusted, industry fell 1.4% monthly; energy rose 1.4% and mining 0.4%. Year over year it grew 1.3% (construction +4.9%, manufacturing +0.6%) and January–September it is up 1.1%.",
+    "pt": "Com ajuste sazonal a indústria caiu 1,4% no mês; energia subiu 1,4% e mineração 0,4%. Na comparação anual cresceu 1,3% (construção +4,9%, manufatura +0,6%) e de janeiro a setembro acumula +1,1%."
+   },
+   "scm": {
+    "es": "Ajusta a la baja el pronóstico de pedidos de clientes manufactureros del cuarto trimestre y revisa su inventario de seguridad.",
+    "en": "Revise down fourth-quarter order forecasts for manufacturing customers and review their safety stock.",
+    "pt": "Revise para baixo a previsão de pedidos de clientes industriais do quarto trimestre e reveja seu estoque de segurança."
+   },
+   "fuentes": [
+    {
+     "t": "EFE vía Infobae: la producción industrial de México sube 1.3% anual en septiembre (11 nov 2026)",
+     "u": "https://www.infobae.com/america/agencias/2026/11/11/la-produccion-industrial-de-mexico-se-eleva-un-13-interanual-en-septiembre/"
+    }
+   ]
+  },
+  {
+   "id": "software",
+   "dir": "up",
+   "calor": 2,
+   "mx": false,
+   "latam": false,
+   "es": "Software e IA para supply chain",
+   "en": "Software and AI for supply chain",
+   "pt": "Software e IA para supply chain",
+   "titular": {
+    "es": "CoreWeave: \"la demanda de cómputo crece más rápido que la capacidad\"; su cartera llega a 132,500 millones",
+    "en": "CoreWeave: \"compute demand is growing faster than capacity\"; its backlog reaches $132.5 billion",
+    "pt": "CoreWeave: \"a demanda por computação cresce mais rápido que a capacidade\"; sua carteira chega a 132,5 bilhões"
+   },
+   "x": {
+    "es": "El director de CoreWeave dijo que la demanda de cómputo crece más rápido que la capacidad para entregarla y que los márgenes de cada contrato nuevo se amplían. Su cartera pasó de unos 104,000 millones en junio a 132,500 millones; la acción subía 19.8%.",
+    "en": "CoreWeave's CEO said demand for compute is growing faster than the capacity to deliver it and margins on each new contract are expanding. Its backlog rose from about $104 billion in June to $132.5 billion; the stock was up 19.8%.",
+    "pt": "O CEO da CoreWeave disse que a demanda por computação cresce mais rápido que a capacidade de entregá-la e que as margens de cada contrato novo se ampliam. Sua carteira passou de cerca de 104 bilhões em junho para 132,5 bilhões; a ação subia 19,8%."
+   },
+   "scm": {
+    "es": "Si vas a contratar cómputo o nube para planeación con IA, negocia precio y capacidad a plazo: la oferta sigue apretada.",
+    "en": "If you plan to buy compute or cloud for AI planning, lock in price and capacity on term contracts: supply remains tight.",
+    "pt": "Se você vai contratar computação ou nuvem para planejamento com IA, negocie preço e capacidade a prazo: a oferta segue apertada."
+   },
+   "fuentes": [
+    {
+     "t": "Yahoo Finance: Nvidia rebota y los chips suben por los resultados de CoreWeave (11 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/article/nvidia-stock-rebounds-chip-stocks-surge-as-coreweave-earnings-boost-ai-trade-151001136.html"
+    },
+    {
+     "t": "TIKR vía Yahoo Finance: AMD sube 4% por el pronóstico de CoreWeave (11 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/amd-rises-4-coreweave-raised-150051550.html"
+    }
+   ]
+  },
   {
    "id": "autotransporte",
    "dir": "up",
@@ -35,169 +198,6 @@
     {
      "t": "Oilprice.com: la gasolina en EE. UU. baja de 4 dólares por galón; el diésel sigue arriba de 6 (10 nov 2026)",
      "u": "https://finance.yahoo.com/energy/articles/average-u-gasoline-price-dips-160000575.html"
-    }
-   ]
-  },
-  {
-   "id": "energia",
-   "dir": "mixed",
-   "calor": 3,
-   "mx": true,
-   "latam": true,
-   "es": "Energía y combustibles",
-   "en": "Energy and fuels",
-   "pt": "Energia e combustíveis",
-   "titular": {
-    "es": "El crudo cierra casi estable: WTI en 86.30 dólares (−0.6%) y Brent en 91.92 (−0.7%)",
-    "en": "Crude closes nearly flat: WTI at $86.30 (−0.6%) and Brent at $91.92 (−0.7%)",
-    "pt": "O petróleo fecha quase estável: WTI a 86,30 dólares (−0,6%) e Brent a 91,92 (−0,7%)"
-   },
-   "x": {
-    "es": "El petróleo recortó la baja de la mañana, cuando el WTI llegó a 84 dólares, y cerró con caídas menores a 1%. El gas natural subió 2.8% y el dólar más fuerte (+0.6%) limitó a las materias primas.",
-    "en": "Oil pared the morning decline, when WTI reached $84, and closed down less than 1%. Natural gas rose 2.8% and a stronger dollar (+0.6%) capped commodities.",
-    "pt": "O petróleo reduziu a queda da manhã, quando o WTI chegou a 84 dólares, e fechou com perdas menores que 1%. O gás natural subiu 2,8% e o dólar mais forte (+0,6%) limitou as matérias-primas."
-   },
-   "scm": {
-    "es": "Fija recargos de combustible con ajuste semanal: el crudo ya no baja tan rápido.",
-    "en": "Set fuel surcharges with weekly adjustment: crude is no longer falling as fast.",
-    "pt": "Fixe sobretaxas de combustível com ajuste semanal: o petróleo já não cai tão rápido."
-   },
-   "fuentes": [
-    {
-     "t": "Yahoo Finance: índices, materias primas, bonos y divisas al cierre (10 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/"
-    },
-    {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan por el CPI que refuerza el alza de la Fed; Nvidia se hunde (10 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
-    }
-   ]
-  },
-  {
-   "id": "semis",
-   "dir": "mixed",
-   "calor": 3,
-   "mx": false,
-   "latam": false,
-   "es": "Semiconductores y electrónica",
-   "en": "Semiconductors and electronics",
-   "pt": "Semicondutores e eletrônicos",
-   "titular": {
-    "es": "Nvidia cierra con −5.47%, en su mínimo desde marzo; Broadcom sube 3.9% y AMD 1.3%",
-    "en": "Nvidia closes −5.47%, at its lowest since March; Broadcom rises 3.9% and AMD 1.3%",
-    "pt": "A Nvidia fecha com −5,47%, na mínima desde março; a Broadcom sobe 3,9% e a AMD 1,3%"
-   },
-   "x": {
-    "es": "Nvidia cerró en 168.89 dólares por la investigación de su consejo sobre su director, Jensen Huang, y el reporte de envíos de equipo a China. El resto de los chips cerró mixto; a mediodía el RSI de Nvidia llegó a 23, su mayor sobreventa desde junio de 2019.",
-    "en": "Nvidia closed at $168.89 on its board's probe into CEO Jensen Huang and the report of equipment shipments to China. The rest of chips closed mixed; at midday Nvidia's RSI hit 23, its most oversold since June 2019.",
-    "pt": "A Nvidia fechou a 168,89 dólares pela investigação do seu conselho sobre o CEO, Jensen Huang, e pelo relatório de envios de equipamentos à China. O resto dos chips fechou misto; no meio do dia o RSI da Nvidia chegou a 23, a maior sobrevenda desde junho de 2019."
-   },
-   "scm": {
-    "es": "La capacidad de chips avanzados sigue apretada: asegura con tiempo tus compras de servidores para 2027.",
-    "en": "Advanced chip capacity remains tight: secure 2027 server purchases early.",
-    "pt": "A capacidade de chips avançados segue apertada: garanta com antecedência suas compras de servidores para 2027."
-   },
-   "fuentes": [
-    {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan por el CPI que refuerza el alza de la Fed; Nvidia se hunde (10 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
-    },
-    {
-     "t": "GuruFocus: las ventas de octubre de TSMC suben 59.7% anual (10 nov 2026)",
-     "u": "https://finance.yahoo.com/technology/articles/nvidias-key-chip-supplier-reveals-144143948.html"
-    }
-   ]
-  },
-  {
-   "id": "ferroviario",
-   "dir": "down",
-   "calor": 2,
-   "mx": true,
-   "latam": false,
-   "es": "Ferroviario",
-   "en": "Rail",
-   "pt": "Ferroviário",
-   "titular": {
-    "es": "FreightCar America entregó 662 carros de ferrocarril en el tercer trimestre, la mitad que hace un año",
-    "en": "FreightCar America delivered 662 railcars in Q3, half as many as a year earlier",
-    "pt": "A FreightCar America entregou 662 vagões no terceiro trimestre, metade de um ano antes"
-   },
-   "x": {
-    "es": "Sus ingresos cayeron a 76.5 millones de dólares (160.5 millones un año antes), aunque su cartera de pedidos sube 28% a 284.5 millones. La empresa dice que algunos indicadores mejoran, pero la demanda de carros todavía no repunta.",
-    "en": "Revenue fell to $76.5 million ($160.5 million a year earlier), although its backlog rose 28% to $284.5 million. The company says some indicators are improving, but railcar demand has not yet picked up.",
-    "pt": "A receita caiu para 76,5 milhões de dólares (160,5 milhões um ano antes), embora a carteira de pedidos suba 28% para 284,5 milhões. A empresa diz que alguns indicadores melhoram, mas a demanda por vagões ainda não reagiu."
-   },
-   "scm": {
-    "es": "Si rentas o compras carros de ferrocarril, es buen momento para negociar plazos de entrega.",
-    "en": "If you lease or buy railcars, it is a good time to negotiate delivery terms.",
-    "pt": "Se você aluga ou compra vagões, é um bom momento para negociar prazos de entrega."
-   },
-   "fuentes": [
-    {
-     "t": "FreightCar America: resultados del tercer trimestre de 2026",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/freightcar-america-inc-reports-third-211500805.html"
-    }
-   ]
-  },
-  {
-   "id": "puertos",
-   "dir": "up",
-   "calor": 3,
-   "mx": true,
-   "latam": true,
-   "es": "Marítimo y puertos",
-   "en": "Maritime and ports",
-   "pt": "Marítimo e portos",
-   "titular": {
-    "es": "Long Beach aleja la huelga: los vigilantes y los puertos extienden las pláticas hasta el 20 de noviembre",
-    "en": "Long Beach pushes back the strike: watchmen and ports extend talks to Nov. 20",
-    "pt": "Long Beach afasta a greve: vigilantes e portos estendem as negociações até 20 de novembro"
-   },
-   "x": {
-    "es": "La Asociación Marítima del Pacífico (PMA) y el sindicato ILWU Local 26, con unos 250 vigilantes, acordaron extender la negociación hasta el 20 de noviembre. Una huelga habría afectado terminales con cerca de 85% de la carga de Long Beach y 33% de la de Los Ángeles.",
-    "en": "The Pacific Maritime Association (PMA) and ILWU Local 26, with about 250 watchmen, agreed to extend talks through Nov. 20. A strike would have hit terminals handling about 85% of Long Beach cargo and 33% of Los Angeles cargo.",
-    "pt": "A Associação Marítima do Pacífico (PMA) e o sindicato ILWU Local 26, com cerca de 250 vigilantes, acordaram estender a negociação até 20 de novembro. Uma greve teria afetado terminais com cerca de 85% da carga de Long Beach e 33% da de Los Angeles."
-   },
-   "scm": {
-    "es": "Usa estas dos semanas para retirar contenedores y dejar listo el desvío por si no hay acuerdo el 20.",
-    "en": "Use these two weeks to pick up containers and have the diversion ready in case there is no deal on the 20th.",
-    "pt": "Use estas duas semanas para retirar contêineres e deixar pronto o desvio caso não haja acordo no dia 20."
-   },
-   "fuentes": [
-    {
-     "t": "GV Wire (Reuters): empleadores y vigilantes de los puertos de California extienden las pláticas al 20 de noviembre",
-     "u": "https://gvwire.com/2026/11/07/employers-watchmen-at-california-ports-extend-contract-talks/"
-    }
-   ]
-  },
-  {
-   "id": "agro",
-   "dir": "up",
-   "calor": 2,
-   "mx": true,
-   "latam": false,
-   "es": "Agroalimentos",
-   "en": "Agri-food",
-   "pt": "Agroalimentos",
-   "titular": {
-    "es": "Tyson reabre un turno en Texas y EE. UU. vuelve a importar ganado de México",
-    "en": "Tyson reopens a shift in Texas as the US resumes cattle imports from Mexico",
-    "pt": "A Tyson reabre um turno no Texas e os EUA voltam a importar gado do México"
-   },
-   "x": {
-    "es": "Tyson Foods se asoció con el grupo de ganaderos Allied Beef y reabrirá el segundo turno de su planta de Amarillo, al 100% en el verano de 2027, en medio de la menor oferta de ganado en EE. UU. en 75 años. El USDA reanudó las importaciones de ganado de México, que había frenado por el gusano barrenador.",
-    "en": "Tyson Foods partnered with rancher group Allied Beef and will reopen the second shift at its Amarillo plant, fully running by summer 2027, amid the tightest US cattle supply in 75 years. The USDA resumed cattle imports from Mexico, which it had halted over the screwworm.",
-    "pt": "A Tyson Foods se associou ao grupo de pecuaristas Allied Beef e vai reabrir o segundo turno de sua planta de Amarillo, a 100% no verão de 2027, em meio à menor oferta de gado nos EUA em 75 anos. O USDA retomou as importações de gado do México, que havia suspendido pela bicheira."
-   },
-   "scm": {
-    "es": "Si exportas ganado, revisa con tus compradores de EE. UU. los volúmenes y requisitos sanitarios de 2027.",
-    "en": "If you export cattle, review 2027 volumes and sanitary requirements with US buyers.",
-    "pt": "Se você exporta gado, revise com seus compradores dos EUA os volumes e requisitos sanitários de 2027."
-   },
-   "fuentes": [
-    {
-     "t": "Reuters: Tyson se asocia con ganaderos y reabre un segundo turno en su planta de Amarillo, Texas",
-     "u": "https://finance.yahoo.com/markets/commodities/articles/tyson-partner-rancher-group-restart-170217334.html"
     }
    ]
   }
