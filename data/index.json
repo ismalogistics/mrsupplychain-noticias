@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-12-cierre-global",
+   "fecha": "2026-11-12",
+   "momento": "cierre",
+   "mercado": "global",
+   "titular_es": "Wall Street cierra con −0.35% por la salida de Jensen Huang y el Treasury en 5.10%; el Brent sube 3.7% a 96.22 dólares",
+   "titular_en": "Wall Street closes −0.35% on Jensen Huang's exit and the Treasury at 5.10%; Brent rises 3.7% to $96.22",
+   "titular_pt": "Wall Street fecha com −0,35% pela saída de Jensen Huang e o Treasury em 5,10%; o Brent sobe 3,7% para 96,22 dólares"
+  },
+  {
+   "id": "2026-11-12-cierre-latam",
+   "fecha": "2026-11-12",
+   "momento": "cierre",
+   "mercado": "latam",
+   "titular_es": "La región cierra a la baja: Argentina −1.7%, Perú −1.2% y el peso chileno pierde 1.3%",
+   "titular_en": "The region closes lower: Argentina −1.7%, Peru −1.2% and the Chilean peso loses 1.3%",
+   "titular_pt": "A região fecha em queda: Argentina −1,7%, Peru −1,2% e o peso chileno perde 1,3%"
+  },
+  {
+   "id": "2026-11-12-cierre-mexico",
+   "fecha": "2026-11-12",
+   "momento": "cierre",
+   "mercado": "mexico",
+   "titular_es": "El IPC cierra con −0.30% y el peso termina en 18.59, firme pese al Treasury en 5.10%",
+   "titular_en": "The IPC closes −0.30% and the peso ends at 18.59, steady despite the Treasury at 5.10%",
+   "titular_pt": "O IPC fecha com −0,30% e o peso termina a 18,59, firme apesar do Treasury em 5,10%"
+  },
+  {
    "id": "2026-11-12-mediodia-global",
    "fecha": "2026-11-12",
    "momento": "mediodia",
@@ -782,33 +809,6 @@
    "titular_es": "El IPC rebota más de 1% al reabrir, impulsado por aerolíneas y aeropuertos, mientras el peso sigue debilitándose hacia 18.72",
    "titular_en": "The IPC rebounds more than 1% as it reopens, led by airlines and airports, while the peso keeps weakening toward 18.72",
    "titular_pt": "O IPC sobe mais de 1% na reabertura, puxado por aéreas e aeroportos, enquanto o peso segue se enfraquecendo rumo a 18,72"
-  },
-  {
-   "id": "2026-11-03-apertura-global",
-   "fecha": "2026-11-03",
-   "momento": "apertura",
-   "mercado": "global",
-   "titular_es": "Wall Street abre mixta en día de elección: la tecnología rebota, el Dow cae 0.4% y el JOLTS sorprende al alza con 7.5 millones de vacantes",
-   "titular_en": "Wall Street opens mixed on election day: tech rebounds, the Dow falls 0.4% and JOLTS surprises higher at 7.5 million openings",
-   "titular_pt": "Wall Street abre mista no dia da eleição: a tecnologia sobe, o Dow cai 0,4% e o JOLTS surpreende com 7,5 milhões de vagas"
-  },
-  {
-   "id": "2026-11-03-apertura-latam",
-   "fecha": "2026-11-03",
-   "momento": "apertura",
-   "mercado": "latam",
-   "titular_es": "Brasil reabre con el Ibovespa 1.45% abajo y el real cerca de 5.50; la región arranca en rojo con la elección de EE. UU. de fondo",
-   "titular_en": "Brazil reopens with the Ibovespa down 1.45% and the real near 5.50; the region starts in the red with the US election in the background",
-   "titular_pt": "O Brasil reabre com o Ibovespa em queda de 1,45% e o dólar perto de R$ 5,50; a região começa no vermelho com a eleição dos EUA ao fundo"
-  },
-  {
-   "id": "2026-11-03-apertura-mexico",
-   "fecha": "2026-11-03",
-   "momento": "apertura",
-   "mercado": "mexico",
-   "titular_es": "El peso cede a 18.66 por dólar al reabrir el mercado local y la BMV regresa tras el feriado, con la elección de EE. UU. de fondo",
-   "titular_en": "The peso eases to 18.66 per dollar as the local market reopens and the BMV returns from the holiday, with the US election in the background",
-   "titular_pt": "O peso recua a 18,66 por dólar com a reabertura do mercado local e a BMV volta do feriado, com a eleição dos EUA ao fundo"
   }
  ]
 }

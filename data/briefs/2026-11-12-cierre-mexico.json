@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-12-cierre-mexico",
+ "fecha": "2026-11-12",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "15:16 CDMX",
+ "es": {
+  "titular": "El IPC cierra con −0.30% y el peso termina en 18.59, firme pese al Treasury en 5.10%",
+  "esencial": [
+   "El S&P/BMV IPC cerró con −0.30% (71,787.09) y a las 15:16 CDMX el peso estaba en 18.59 por dólar, un poco mejor que el miércoles (18.61).",
+   "El peso aguantó mientras el real y el peso chileno perdieron más de 1%; el FIX del miércoles fue de 18.6285.",
+   "Para supply chain: mañana es el último día hábil antes del puente del lunes 16; cierra tus compras de dólares y pagos."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El S&P/BMV IPC cerró con −0.30% (71,787.09), según Yahoo Finance, tras moverse entre −0.19% y −0.16% en la mañana. A las 15:16 CDMX el peso cotizaba en 18.59 por dólar, ligeramente mejor que el cierre del miércoles (18.61). El FIX determinado por Banxico el miércoles, publicado hoy en el Diario Oficial, fue de 18.6285."
+   },
+   {
+    "t": "Por qué",
+    "x": "La bolsa siguió a Wall Street a la baja por Nvidia y por el Treasury en 5.10%. El peso se sostuvo mejor que otras monedas de la región, apoyado en el alza del crudo (+2.9% el WTI), que favorece a los exportadores de petróleo."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana viernes 13 el PPI de EE. UU. (7:30 CDMX) es el último dato antes del fin de semana largo. El lunes 16 cierran la BMV y los bancos por el Día de la Revolución, y el 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre."
+   }
+  ],
+  "scm": "Mañana es el último día hábil antes del puente: cierra la compra de dólares de noviembre por tramos y programa los pagos que vencen el lunes 16. Con el diésel al alza, revisa los recargos de autotransporte de la próxima semana."
+ },
+ "en": {
+  "titular": "The IPC closes −0.30% and the peso ends at 18.59, steady despite the Treasury at 5.10%",
+  "esencial": [
+   "The S&P/BMV IPC closed −0.30% (71,787.09) and at 3:16 p.m. Mexico City time the peso stood at 18.59 per dollar, slightly better than Wednesday (18.61).",
+   "The peso held up while the real and the Chilean peso lost more than 1%; Wednesday's FIX was 18.6285.",
+   "For supply chain: tomorrow is the last business day before the Monday the 16th long weekend; close your dollar purchases and payments."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The S&P/BMV IPC closed −0.30% (71,787.09), according to Yahoo Finance, after trading between −0.19% and −0.16% in the morning. At 3:16 p.m. Mexico City time the peso traded at 18.59 per dollar, slightly better than Wednesday's close (18.61). The FIX set by Banxico on Wednesday, published today in the Official Gazette, was 18.6285."
+   },
+   {
+    "t": "Why",
+    "x": "Stocks followed Wall Street lower on Nvidia and the Treasury at 5.10%. The peso held up better than other currencies in the region, supported by higher crude (WTI +2.9%), which favors oil exporters."
+   },
+   {
+    "t": "What to expect",
+    "x": "US PPI tomorrow, Friday the 13th (8:30 a.m. ET), is the last data point before the long weekend. On Monday the 16th the BMV and banks close for Revolution Day, and on November 24 INEGI publishes first-half November inflation."
+   }
+  ],
+  "scm": "Tomorrow is the last business day before the long weekend: close November dollar purchases in tranches and schedule payments due Monday the 16th. With diesel rising, review next week's trucking surcharges."
+ },
+ "pt": {
+  "titular": "O IPC fecha com −0,30% e o peso termina a 18,59, firme apesar do Treasury em 5,10%",
+  "esencial": [
+   "O S&P/BMV IPC fechou com −0,30% (71.787,09) e às 15h16 (Cidade do México) o peso estava a 18,59 por dólar, um pouco melhor que na quarta (18,61).",
+   "O peso resistiu enquanto o real e o peso chileno perderam mais de 1%; o FIX de quarta foi de 18,6285.",
+   "Para supply chain: amanhã é o último dia útil antes do feriado de segunda, dia 16; feche suas compras de dólares e pagamentos."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O S&P/BMV IPC fechou com −0,30% (71.787,09), segundo o Yahoo Finance, depois de oscilar entre −0,19% e −0,16% pela manhã. Às 15h16 (Cidade do México) o peso era cotado a 18,59 por dólar, ligeiramente melhor que o fechamento de quarta (18,61). O FIX definido pelo Banxico na quarta, publicado hoje no Diário Oficial, foi de 18,6285."
+   },
+   {
+    "t": "Por quê",
+    "x": "A bolsa seguiu Wall Street em queda pela Nvidia e pelo Treasury em 5,10%. O peso se sustentou melhor que outras moedas da região, apoiado na alta do petróleo (WTI +2,9%), que favorece os exportadores."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã, sexta, dia 13, o PPI dos EUA (7h30) é o último dado antes do feriado prolongado. Na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução, e em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro."
+   }
+  ],
+  "scm": "Amanhã é o último dia útil antes do feriado: feche em parcelas a compra de dólares de novembro e programe os pagamentos que vencem na segunda, dia 16. Com o diesel em alta, revise as sobretaxas de transporte rodoviário da próxima semana."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), cierre del 12 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "La Razón: precio del dólar hoy, 12 nov 2026 (FIX 18.6285 publicado en el DOF)",
+   "u": "https://www.razon.com.mx/negocios/2026/11/12/este-es-el-precio-del-dolar-hoy-jueves-12-de-noviembre-de-2026/"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas al cierre (12 nov 2026, 15:16 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

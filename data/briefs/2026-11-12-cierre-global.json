@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-12-cierre-global",
+ "fecha": "2026-11-12",
+ "momento": "cierre",
+ "mercado": "global",
+ "hora": "15:16 CDMX",
+ "es": {
+  "titular": "Wall Street cierra con −0.35% por la salida de Jensen Huang y el Treasury en 5.10%; el Brent sube 3.7% a 96.22 dólares",
+  "esencial": [
+   "El S&P 500 cerró con −0.35% (7,592.40), el Dow con −0.36% y el Nasdaq con −0.39%; Nvidia terminó con −4.34% (166.19 dólares).",
+   "El Brent subió 3.73% a 96.22 dólares y el WTI 2.92% a 89.06, después de que Trump dijo que no necesita un acuerdo con Irán; el diésel ganó 2.2%.",
+   "Para supply chain: el combustible vuelve a encarecerse y el Treasury sigue en 5.10%; ajusta recargos de flete y el costo de financiar inventario antes del PPI del viernes."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "Wall Street perdió la recuperación del mediodía y cerró a la baja: el S&P 500 con −0.35% (7,592.40), el Dow con −0.36% (52,297.09), el Nasdaq con −0.39% (25,366.09) y el Russell 2000 con −1.66%; el VIX subió 7.2% a 18.74. Nvidia cerró con −4.34% (166.19 dólares) tras la renuncia de Jensen Huang, lejos del −7.7% de la apertura; Nebius cayó 16.8% y CoreWeave 6.9%, mientras AMD subió 5.9% y Broadcom 5.5%. El Treasury a 10 años terminó en 5.10%. El Brent cerró cerca de 96.22 dólares (+3.73%), el WTI de 89.06 (+2.92%) y el diésel subió 2.2% (4.30 dólares por galón); el oro cayó 3.0% a 3,879.50 y el cobre 1.6%. Europa cerró casi plana (Euro Stoxx 50 +0.09%)."
+   },
+   {
+    "t": "Por qué",
+    "x": "Pesaron la incertidumbre sobre Nvidia, centro del auge de la IA y socia de muchas empresas del sector, y el alza del Treasury por la expectativa de más alzas de la Fed tras el CPI caliente del martes. El crudo revirtió una semana de bajas porque Trump dijo que \"no necesitamos un acuerdo con Irán\". Austan Goolsbee, de la Fed de Chicago, dijo que \"estamos en un momento precario\"."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Después del cierre, Applied Materials reportó ingresos récord de 10,410 millones de dólares en su trimestre (+53% anual), un dato clave para el equipo de fabricación de chips. Asia abre tras la caída de Wall Street y con el crudo más caro. Mañana viernes 13 sale el PPI de octubre (7:30 CDMX), el último dato antes del fin de semana largo en México."
+   }
+  ],
+  "scm": "Para mañana: 1) con el Brent en 96 dólares y el diésel +2.2%, pide recargos de flete con ajuste semanal; 2) con el Treasury en 5.10%, revisa los días de inventario que financias con deuda; 3) si compras GPU o servidores de Nvidia, confirma pedidos y fechas con tu distribuidor."
+ },
+ "en": {
+  "titular": "Wall Street closes −0.35% on Jensen Huang's exit and the Treasury at 5.10%; Brent rises 3.7% to $96.22",
+  "esencial": [
+   "The S&P 500 closed −0.35% (7,592.40), the Dow −0.36% and the Nasdaq −0.39%; Nvidia ended −4.34% ($166.19).",
+   "Brent rose 3.73% to $96.22 and WTI 2.92% to $89.06 after Trump said he doesn't need a deal with Iran; diesel gained 2.2%.",
+   "For supply chain: fuel is getting pricier again and the Treasury is still at 5.10%; adjust freight surcharges and the cost of financing inventory before Friday's PPI."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "Wall Street lost its midday recovery and closed lower: the S&P 500 −0.35% (7,592.40), the Dow −0.36% (52,297.09), the Nasdaq −0.39% (25,366.09) and the Russell 2000 −1.66%; the VIX rose 7.2% to 18.74. Nvidia closed −4.34% ($166.19) after Jensen Huang's resignation, well off its −7.7% open; Nebius fell 16.8% and CoreWeave 6.9%, while AMD rose 5.9% and Broadcom 5.5%. The 10-year Treasury ended at 5.10%. Brent closed near $96.22 (+3.73%), WTI near $89.06 (+2.92%) and diesel rose 2.2% ($4.30 per gallon); gold fell 3.0% to $3,879.50 and copper 1.6%. Europe closed nearly flat (Euro Stoxx 50 +0.09%)."
+   },
+   {
+    "t": "Why",
+    "x": "Uncertainty over Nvidia, at the center of the AI boom and a partner to many companies in the sector, weighed, along with higher Treasury yields on expectations of more Fed hikes after Tuesday's hot CPI. Crude reversed a week of declines after Trump said \"we don't need a deal with Iran.\" Chicago Fed President Austan Goolsbee said \"we're at a precarious moment.\""
+   },
+   {
+    "t": "What to expect",
+    "x": "After the close, Applied Materials reported record quarterly revenue of $10.41 billion (+53% year over year), a key read for chipmaking equipment. Asia opens after Wall Street's decline and with pricier crude. October PPI comes out tomorrow, Friday the 13th (8:30 a.m. ET), the last data point before Mexico's long weekend."
+   }
+  ],
+  "scm": "For tomorrow: 1) with Brent at $96 and diesel +2.2%, ask for freight surcharges with weekly adjustment; 2) with the Treasury at 5.10%, review the inventory days you finance with debt; 3) if you buy Nvidia GPUs or servers, confirm orders and dates with your distributor."
+ },
+ "pt": {
+  "titular": "Wall Street fecha com −0,35% pela saída de Jensen Huang e o Treasury em 5,10%; o Brent sobe 3,7% para 96,22 dólares",
+  "esencial": [
+   "O S&P 500 fechou com −0,35% (7.592,40), o Dow com −0,36% e o Nasdaq com −0,39%; a Nvidia terminou com −4,34% (166,19 dólares).",
+   "O Brent subiu 3,73% para 96,22 dólares e o WTI 2,92% para 89,06, depois de Trump dizer que não precisa de um acordo com o Irã; o diesel ganhou 2,2%.",
+   "Para supply chain: o combustível volta a encarecer e o Treasury segue em 5,10%; ajuste as sobretaxas de frete e o custo de financiar estoque antes do PPI de sexta."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "Wall Street perdeu a recuperação do meio-dia e fechou em queda: o S&P 500 com −0,35% (7.592,40), o Dow com −0,36% (52.297,09), o Nasdaq com −0,39% (25.366,09) e o Russell 2000 com −1,66%; o VIX subiu 7,2% para 18,74. A Nvidia fechou com −4,34% (166,19 dólares) após a renúncia de Jensen Huang, longe do −7,7% da abertura; a Nebius caiu 16,8% e a CoreWeave 6,9%, enquanto a AMD subiu 5,9% e a Broadcom 5,5%. O Treasury de 10 anos terminou em 5,10%. O Brent fechou perto de 96,22 dólares (+3,73%), o WTI de 89,06 (+2,92%) e o diesel subiu 2,2% (4,30 dólares por galão); o ouro caiu 3,0% para 3.879,50 e o cobre 1,6%. A Europa fechou quase estável (Euro Stoxx 50 +0,09%)."
+   },
+   {
+    "t": "Por quê",
+    "x": "Pesaram a incerteza sobre a Nvidia, centro do boom da IA e parceira de muitas empresas do setor, e a alta do Treasury pela expectativa de mais altas do Fed após o CPI quente de terça. O petróleo reverteu uma semana de quedas porque Trump disse que \"não precisamos de um acordo com o Irã\". Austan Goolsbee, do Fed de Chicago, disse que \"estamos em um momento precário\"."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Depois do fechamento, a Applied Materials reportou receita trimestral recorde de 10,41 bilhões de dólares (+53% no ano), um dado-chave para equipamentos de fabricação de chips. A Ásia abre depois da queda de Wall Street e com o petróleo mais caro. Amanhã, sexta, dia 13, sai o PPI de outubro (7h30, Cidade do México), o último dado antes do feriado prolongado no México."
+   }
+  ],
+  "scm": "Para amanhã: 1) com o Brent a 96 dólares e o diesel +2,2%, peça sobretaxas de frete com ajuste semanal; 2) com o Treasury em 5,10%, revise os dias de estoque que você financia com dívida; 3) se você compra GPUs ou servidores da Nvidia, confirme pedidos e datas com seu distribuidor."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan por la salida de Jensen Huang y el alza de los bonos (12 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-fall-as-nvidia-ceo-exit-rising-bond-yields-roil-markets-195710154.html"
+  },
+  {
+   "t": "Reuters vía Yahoo Finance: Wall Street y Nvidia (12 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-fall-nvidia-turmoil-093910045.html"
+  },
+  {
+   "t": "Applied Materials: resultados del cuarto trimestre y del año fiscal 2026 (12 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-announces-fourth-quarter-210100253.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas al cierre (12 nov 2026, 15:16 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

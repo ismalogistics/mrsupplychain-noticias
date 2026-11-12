@@ -1,0 +1,102 @@
+{
+ "id": "2026-11-12-cierre-latam",
+ "fecha": "2026-11-12",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "15:16 CDMX",
+ "es": {
+  "titular": "La región cierra a la baja: Argentina −1.7%, Perú −1.2% y el peso chileno pierde 1.3%",
+  "esencial": [
+   "El Ibovespa cerró con −0.60% (171,035.56) y el S&P/TSX con −0.75% (36,137.19).",
+   "El dólar subió 1.29% frente al peso chileno (994.8) y 1.03% frente al real (5.64), pese a que el IPCA de Brasil salió debajo de lo esperado.",
+   "Escalona los pagos en dólares desde Chile y Brasil, y cotiza insumos de cobre con el precio a la baja."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El Ibovespa cerró con −0.60% (171,035.56) y el S&P/TSX con −0.75% (36,137.19). Los ETF de MSCI cerraron con −1.69% en Argentina, −1.16% en Perú y −0.50% en Chile; el iCOLCAP de Colombia perdía 1.06% a las 13:58 CDMX."
+   },
+   {
+    "t": "Por qué",
+    "x": "La caída de Nvidia y el Treasury en 5.10% enfriaron el apetito por riesgo, y el cobre cayó 1.6% (6.19 dólares por libra), lo que pesó sobre Chile y Perú. El IPCA de Brasil subió sólo 0.14% en octubre (se esperaba 0.25%) y la inflación anual bajó a 4.63%, pero no alcanzó para sostener al real."
+   },
+   {
+    "t": "Monedas",
+    "x": "A las 15:16 CDMX el real estaba en 5.64 por dólar (dólar +1.03%), el peso colombiano en 3,305 (+0.77%) y el dólar canadiense en 1.425 (+0.04%); a las 14:59 el peso chileno estaba en 994.8 (+1.29%), a las 15:11 el sol en 3.40 (−0.21%) y a las 14:16 el peso argentino en 1,545 (+0.06%)."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana viernes el PPI de EE. UU. (7:30 CDMX) puede mover a las monedas de la región. Con la inflación de Brasil debajo de lo esperado, el mercado seguirá discutiendo el ritmo de recortes del Copom."
+   }
+  ],
+  "scm": "Escalona los pagos en dólares desde Chile y Brasil, donde las monedas se debilitan, y cotiza cable e insumos de cobre (−1.6%). En Brasil, la inflación más baja ayuda a negociar contratos indexados."
+ },
+ "en": {
+  "titular": "The region closes lower: Argentina −1.7%, Peru −1.2% and the Chilean peso loses 1.3%",
+  "esencial": [
+   "The Ibovespa closed −0.60% (171,035.56) and the S&P/TSX −0.75% (36,137.19).",
+   "The dollar rose 1.29% against the Chilean peso (994.8) and 1.03% against the real (5.64), even though Brazil's IPCA came in below expectations.",
+   "Stagger dollar payments from Chile and Brazil, and quote copper inputs while the price dips."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The Ibovespa closed −0.60% (171,035.56) and the S&P/TSX −0.75% (36,137.19). The MSCI ETFs closed −1.69% for Argentina, −1.16% for Peru and −0.50% for Chile; Colombia's iCOLCAP was down 1.06% at 1:58 p.m. Mexico City time."
+   },
+   {
+    "t": "Why",
+    "x": "Nvidia's drop and the Treasury at 5.10% cooled risk appetite, and copper fell 1.6% ($6.19 per pound), weighing on Chile and Peru. Brazil's IPCA rose only 0.14% in October (0.25% expected) and annual inflation fell to 4.63%, but it wasn't enough to support the real."
+   },
+   {
+    "t": "Currencies",
+    "x": "At 3:16 p.m. Mexico City time the real was at 5.64 per dollar (dollar +1.03%), the Colombian peso at 3,305 (+0.77%) and the Canadian dollar at 1.425 (+0.04%); at 2:59 p.m. the Chilean peso was at 994.8 (+1.29%), at 3:11 p.m. the sol at 3.40 (−0.21%) and at 2:16 p.m. the Argentine peso at 1,545 (+0.06%)."
+   },
+   {
+    "t": "What to expect",
+    "x": "US PPI tomorrow, Friday (8:30 a.m. ET), may move the region's currencies. With Brazil's inflation below expectations, the market will keep debating the pace of Copom cuts."
+   }
+  ],
+  "scm": "Stagger dollar payments from Chile and Brazil, where currencies are weakening, and quote cable and copper inputs (−1.6%). In Brazil, lower inflation helps when negotiating indexed contracts."
+ },
+ "pt": {
+  "titular": "A região fecha em queda: Argentina −1,7%, Peru −1,2% e o peso chileno perde 1,3%",
+  "esencial": [
+   "O Ibovespa fechou com −0,60% (171.035,56) e o S&P/TSX com −0,75% (36.137,19).",
+   "O dólar subiu 1,29% frente ao peso chileno (994,8) e 1,03% frente ao real (R$ 5,64), apesar de o IPCA ter vindo abaixo do esperado.",
+   "Escalone os pagamentos em dólares a partir do Chile e do Brasil e cote insumos de cobre com o preço em queda."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O Ibovespa fechou com −0,60% (171.035,56) e o S&P/TSX com −0,75% (36.137,19). Os ETFs da MSCI fecharam com −1,69% na Argentina, −1,16% no Peru e −0,50% no Chile; o iCOLCAP da Colômbia perdia 1,06% às 13h58 (Cidade do México)."
+   },
+   {
+    "t": "Por quê",
+    "x": "A queda da Nvidia e o Treasury em 5,10% esfriaram o apetite por risco, e o cobre caiu 1,6% (6,19 dólares por libra), o que pesou sobre Chile e Peru. O IPCA subiu só 0,14% em outubro (esperava-se 0,25%) e a inflação em 12 meses caiu para 4,63%, mas não bastou para sustentar o real."
+   },
+   {
+    "t": "Moedas",
+    "x": "Às 15h16 (Cidade do México) o dólar estava em R$ 5,64 (+1,03%), o peso colombiano em 3.305 (+0,77%) e o dólar canadense em 1,425 (+0,04%); às 14h59 o peso chileno estava em 994,8 (+1,29%), às 15h11 o sol em 3,40 (−0,21%) e às 14h16 o peso argentino em 1.545 (+0,06%)."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã, sexta, o PPI dos EUA (7h30, Cidade do México) pode mexer com as moedas da região. Com a inflação do Brasil abaixo do esperado, o mercado seguirá discutindo o ritmo de cortes do Copom."
+   }
+  ],
+  "scm": "Escalone os pagamentos em dólares a partir do Chile e do Brasil, onde as moedas se enfraquecem, e cote cabos e insumos de cobre (−1,6%). No Brasil, a inflação mais baixa ajuda a negociar contratos indexados."
+ },
+ "fuentes": [
+  {
+   "t": "InfoMoney: el IPCA sube 0.14% en octubre, debajo de lo esperado (12 nov 2026)",
+   "u": "https://www.infomoney.com.br/economia/ipca-inflacao-outubro-2026-dados-ibge/"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas al cierre (12 nov 2026, 15:16 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}
