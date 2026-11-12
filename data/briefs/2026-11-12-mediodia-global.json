@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-12-mediodia-global",
+ "fecha": "2026-11-12",
+ "momento": "mediodia",
+ "mercado": "global",
+ "hora": "11:42 CDMX",
+ "es": {
+  "titular": "Wall Street se recupera pese a Nvidia: la energía sube 1.3% y el Brent llega a 94.57 dólares",
+  "esencial": [
+   "A las 11:42 CDMX el S&P 500 subía 0.21%, el Dow 0.38% y el Nasdaq 0.14%, tras abrir a la baja por la renuncia de Jensen Huang.",
+   "Nvidia recortó su caída a 4.75%, mientras AMD subía 5.1% y Broadcom más de 6%; Nebius caía 17% por recortar su pronóstico.",
+   "Para supply chain: el Brent sube 1.95% a 94.57 dólares y el Treasury a 5.10%; ajusta recargos de combustible y el costo de financiar inventario."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el mercado caía por la renuncia de Jensen Huang en Nvidia (−7.7%), con el Treasury de vuelta en 5.06% y el Brent al alza tras los comentarios de Trump sobre Irán."
+   },
+   {
+    "t": "Cómo va",
+    "x": "El mercado dio la vuelta: a las 11:42 CDMX el S&P 500 estaba en 7,635.70 (+0.21%), el Dow en 52,683.75 (+0.38%) y el Nasdaq en 25,503.00 (+0.14%); ocho de los 11 sectores del S&P 500 subían, encabezados por la energía (+1.3%), según Reuters. Nvidia recortó su caída a 4.75% (165.47 dólares), mientras AMD ganaba 5.1%, Broadcom más de 6% y Alphabet, Microsoft y Amazon más de 1%. El Treasury a 10 años subía a 5.10%. El Brent estaba en 94.57 dólares (+1.95%) y el WTI en 87.63 (+1.3%); el oro caía 3.1% a 3,876 y el cobre 1.5%. Europa cerró casi plana: Euro Stoxx 50 +0.09% y DAX +0.41%."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "Los inversionistas minoristas compraron unos 111 millones de dólares de acciones de Nvidia en la primera media hora, la mayor compra de apertura registrada para la acción, según Vanda Analytics. Nebius dijo que sus ingresos de 2026 quedarán en la parte baja de su pronóstico y caía 17%. Beth Hammack, de la Fed de Cleveland, dijo que no cree necesario subir tasas de forma más agresiva; CME FedWatch da 8% a un alza de medio punto en diciembre."
+   }
+  ],
+  "scm": "Con el Brent en 94.57 dólares y la energía al alza, ajusta los recargos de combustible con base semanal. Con el Treasury en 5.10%, revisa el costo de financiar inventario en dólares. Si compras GPU o servidores de Nvidia, confirma pedidos con tu distribuidor."
+ },
+ "en": {
+  "titular": "Wall Street recovers despite Nvidia: energy rises 1.3% and Brent reaches $94.57",
+  "esencial": [
+   "At 12:42 p.m. ET the S&P 500 was up 0.21%, the Dow 0.38% and the Nasdaq 0.14%, after opening lower on Jensen Huang's resignation.",
+   "Nvidia trimmed its loss to 4.75%, while AMD rose 5.1% and Broadcom more than 6%; Nebius fell 17% after cutting its outlook.",
+   "For supply chain: Brent rises 1.95% to $94.57 and the Treasury to 5.10%; adjust fuel surcharges and the cost of financing inventory."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the market was falling on Jensen Huang's resignation at Nvidia (−7.7%), with the Treasury back at 5.06% and Brent rising after Trump's comments on Iran."
+   },
+   {
+    "t": "How it is going",
+    "x": "The market turned around: at 12:42 p.m. ET the S&P 500 stood at 7,635.70 (+0.21%), the Dow at 52,683.75 (+0.38%) and the Nasdaq at 25,503.00 (+0.14%); eight of the 11 S&P 500 sectors were up, led by energy (+1.3%), according to Reuters. Nvidia trimmed its loss to 4.75% ($165.47), while AMD gained 5.1%, Broadcom more than 6% and Alphabet, Microsoft and Amazon over 1%. The 10-year Treasury rose to 5.10%. Brent was at $94.57 (+1.95%) and WTI at $87.63 (+1.3%); gold fell 3.1% to $3,876 and copper 1.5%. Europe closed nearly flat: Euro Stoxx 50 +0.09% and DAX +0.41%."
+   },
+   {
+    "t": "What surprised",
+    "x": "Retail investors bought about $111 million of Nvidia shares in the first half hour, the biggest opening bid on record for the stock, according to Vanda Analytics. Nebius said its 2026 revenue will land at the low end of its forecast and fell 17%. Cleveland Fed President Beth Hammack said she doesn't see a need for more aggressive rate hikes; CME FedWatch puts an 8% chance on a half-point hike in December."
+   }
+  ],
+  "scm": "With Brent at $94.57 and energy rising, adjust fuel surcharges on a weekly basis. With the Treasury at 5.10%, review the cost of financing inventory in dollars. If you buy Nvidia GPUs or servers, confirm orders with your distributor."
+ },
+ "pt": {
+  "titular": "Wall Street se recupera apesar da Nvidia: a energia sobe 1,3% e o Brent chega a 94,57 dólares",
+  "esencial": [
+   "Às 11h42 (Cidade do México) o S&P 500 subia 0,21%, o Dow 0,38% e o Nasdaq 0,14%, depois de abrir em queda pela renúncia de Jensen Huang.",
+   "A Nvidia reduziu a queda para 4,75%, enquanto a AMD subia 5,1% e a Broadcom mais de 6%; a Nebius caía 17% por cortar sua previsão.",
+   "Para supply chain: o Brent sobe 1,95% para 94,57 dólares e o Treasury para 5,10%; ajuste sobretaxas de combustível e o custo de financiar estoque."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o mercado caía pela renúncia de Jensen Huang na Nvidia (−7,7%), com o Treasury de volta a 5,06% e o Brent em alta após os comentários de Trump sobre o Irã."
+   },
+   {
+    "t": "Como está",
+    "x": "O mercado virou: às 11h42 (Cidade do México) o S&P 500 estava em 7.635,70 (+0,21%), o Dow em 52.683,75 (+0,38%) e o Nasdaq em 25.503,00 (+0,14%); oito dos 11 setores do S&P 500 subiam, liderados pela energia (+1,3%), segundo a Reuters. A Nvidia reduziu a queda para 4,75% (165,47 dólares), enquanto a AMD ganhava 5,1%, a Broadcom mais de 6% e Alphabet, Microsoft e Amazon mais de 1%. O Treasury de 10 anos subia para 5,10%. O Brent estava a 94,57 dólares (+1,95%) e o WTI a 87,63 (+1,3%); o ouro caía 3,1% para 3.876 e o cobre 1,5%. A Europa fechou quase estável: Euro Stoxx 50 +0,09% e DAX +0,41%."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "Os investidores de varejo compraram cerca de 111 milhões de dólares em ações da Nvidia na primeira meia hora, a maior compra de abertura já registrada para a ação, segundo a Vanda Analytics. A Nebius disse que sua receita de 2026 ficará na parte baixa da previsão e caía 17%. Beth Hammack, do Fed de Cleveland, disse não ver necessidade de altas de juros mais agressivas; o CME FedWatch atribui 8% a uma alta de meio ponto em dezembro."
+   }
+  ],
+  "scm": "Com o Brent a 94,57 dólares e a energia em alta, ajuste as sobretaxas de combustível com base semanal. Com o Treasury em 5,10%, revise o custo de financiar estoque em dólares. Se você compra GPUs ou servidores da Nvidia, confirme os pedidos com seu distribuidor."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters vía Yahoo Finance: Wall Street se recupera con la energía; se agravan los problemas de Nvidia (12 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-fall-nvidia-turmoil-093910045.html"
+  },
+  {
+   "t": "Reuters vía Yahoo Finance: el petróleo sube por los riesgos geopolíticos (12 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-falls-over-1-easing-045152522.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (12 nov 2026, 11:42 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

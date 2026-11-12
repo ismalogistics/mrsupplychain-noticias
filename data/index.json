@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-12-mediodia-global",
+   "fecha": "2026-11-12",
+   "momento": "mediodia",
+   "mercado": "global",
+   "titular_es": "Wall Street se recupera pese a Nvidia: la energía sube 1.3% y el Brent llega a 94.57 dólares",
+   "titular_en": "Wall Street recovers despite Nvidia: energy rises 1.3% and Brent reaches $94.57",
+   "titular_pt": "Wall Street se recupera apesar da Nvidia: a energia sobe 1,3% e o Brent chega a 94,57 dólares"
+  },
+  {
+   "id": "2026-11-12-mediodia-latam",
+   "fecha": "2026-11-12",
+   "momento": "mediodia",
+   "mercado": "latam",
+   "titular_es": "El real y el peso chileno pierden más de 1% pese al IPCA bajo; el Ibovespa cae 0.5%",
+   "titular_en": "The real and the Chilean peso lose more than 1% despite soft IPCA; the Ibovespa falls 0.5%",
+   "titular_pt": "O real e o peso chileno perdem mais de 1% apesar do IPCA baixo; o Ibovespa cai 0,5%"
+  },
+  {
+   "id": "2026-11-12-mediodia-mexico",
+   "fecha": "2026-11-12",
+   "momento": "mediodia",
+   "mercado": "mexico",
+   "titular_es": "El IPC baja 0.16% y el peso se mantiene en 18.61 pese al Treasury en 5.10%",
+   "titular_en": "The IPC falls 0.16% and the peso holds at 18.61 despite the Treasury at 5.10%",
+   "titular_pt": "O IPC cai 0,16% e o peso se mantém a 18,61 apesar do Treasury em 5,10%"
+  },
+  {
    "id": "2026-11-12-apertura-global",
    "fecha": "2026-11-12",
    "momento": "apertura",
@@ -782,33 +809,6 @@
    "titular_es": "El peso cede a 18.66 por dólar al reabrir el mercado local y la BMV regresa tras el feriado, con la elección de EE. UU. de fondo",
    "titular_en": "The peso eases to 18.66 per dollar as the local market reopens and the BMV returns from the holiday, with the US election in the background",
    "titular_pt": "O peso recua a 18,66 por dólar com a reabertura do mercado local e a BMV volta do feriado, com a eleição dos EUA ao fundo"
-  },
-  {
-   "id": "2026-11-03-premercado-global",
-   "fecha": "2026-11-03",
-   "momento": "premercado",
-   "mercado": "global",
-   "titular_es": "Día de elección en EE. UU.: Apple cae 3% fuera de horario, el crudo rebota casi 2% por ataques en Ormuz y Europa abre a la baja",
-   "titular_en": "US election day: Apple falls 3% after hours, crude rebounds nearly 2% on Hormuz strikes and Europe opens lower",
-   "titular_pt": "Dia de eleição nos EUA: a Apple cai 3% fora do horário, o petróleo sobe quase 2% por ataques em Ormuz e a Europa abre em queda"
-  },
-  {
-   "id": "2026-11-03-premercado-latam",
-   "fecha": "2026-11-03",
-   "momento": "premercado",
-   "mercado": "latam",
-   "titular_es": "Brasil, Colombia y México reabren tras los feriados; Chile y Perú vienen de subir cerca de 2% y el Copom decide mañana",
-   "titular_en": "Brazil, Colombia and Mexico reopen after the holidays; Chile and Peru come off gains near 2% and Copom decides tomorrow",
-   "titular_pt": "Brasil, Colômbia e México reabrem após os feriados; Chile e Peru vêm de altas perto de 2% e o Copom decide amanhã"
-  },
-  {
-   "id": "2026-11-03-premercado-mexico",
-   "fecha": "2026-11-03",
-   "momento": "premercado",
-   "mercado": "mexico",
-   "titular_es": "Reabre la BMV con el peso en 18.57 por dólar y la elección de EE. UU. como factor del día; hoy hay subasta de Cetes",
-   "titular_en": "The BMV reopens with the peso at 18.57 per dollar and the US election as the day's driver; Cetes auction today",
-   "titular_pt": "A BMV reabre com o peso a 18,57 por dólar e a eleição dos EUA como fator do dia; hoje há leilão de Cetes"
   }
  ]
 }

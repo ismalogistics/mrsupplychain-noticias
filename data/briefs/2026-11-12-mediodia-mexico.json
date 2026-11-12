@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-12-mediodia-mexico",
+ "fecha": "2026-11-12",
+ "momento": "mediodia",
+ "mercado": "mexico",
+ "hora": "11:42 CDMX",
+ "es": {
+  "titular": "El IPC baja 0.16% y el peso se mantiene en 18.61 pese al Treasury en 5.10%",
+  "esencial": [
+   "A las 11:22 CDMX el IPC bajaba 0.16% (71,893.91) y a las 11:42 el peso estaba en 18.61 por dólar.",
+   "El peso recuperó parte de lo perdido en la apertura (18.63) aunque el Treasury a 10 años subió a 5.10%.",
+   "Para supply chain: con el peso en 18.61, cubre por tramos los dólares de noviembre antes del puente del lunes 16."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el IPC bajaba 0.19% y el peso se debilitaba a 18.63, presionado por Nvidia y el Treasury en 5.06%; el FIX del miércoles fue de 18.6285."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:22 CDMX el S&P/BMV IPC bajaba 0.16% a 71,893.91 y a las 11:42 el peso cotizaba en 18.61 por dólar (+0.16% el dólar)."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El peso aguantó mejor que otras monedas de la región (el real y el peso chileno perdían más de 1%) aunque el Treasury a 10 años subió a 5.10% y el índice del dólar 0.26%."
+   }
+  ],
+  "scm": "Con el peso en 18.61, cubre por tramos los dólares de noviembre y adelanta los pagos del lunes 16. Si importas de Brasil o Chile, sus monedas débiles abaratan las compras en moneda local."
+ },
+ "en": {
+  "titular": "The IPC falls 0.16% and the peso holds at 18.61 despite the Treasury at 5.10%",
+  "esencial": [
+   "At 11:22 a.m. Mexico City time the IPC was down 0.16% (71,893.91) and at 11:42 the peso stood at 18.61 per dollar.",
+   "The peso recovered part of its opening loss (18.63) even as the 10-year Treasury rose to 5.10%.",
+   "For supply chain: with the peso at 18.61, hedge November dollars in tranches before the Monday the 16th long weekend."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the IPC was down 0.19% and the peso weakened to 18.63, pressured by Nvidia and the Treasury at 5.06%; Wednesday's FIX was 18.6285."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:22 a.m. Mexico City time the S&P/BMV IPC was down 0.16% at 71,893.91 and at 11:42 the peso traded at 18.61 per dollar (dollar +0.16%)."
+   },
+   {
+    "t": "What surprised",
+    "x": "The peso held up better than other currencies in the region (the real and the Chilean peso lost more than 1%) even as the 10-year Treasury rose to 5.10% and the dollar index 0.26%."
+   }
+  ],
+  "scm": "With the peso at 18.61, hedge November dollars in tranches and move forward payments due Monday the 16th. If you import from Brazil or Chile, their weaker currencies make local-currency purchases cheaper."
+ },
+ "pt": {
+  "titular": "O IPC cai 0,16% e o peso se mantém a 18,61 apesar do Treasury em 5,10%",
+  "esencial": [
+   "Às 11h22 (Cidade do México) o IPC caía 0,16% (71.893,91) e às 11h42 o peso estava a 18,61 por dólar.",
+   "O peso recuperou parte do que perdeu na abertura (18,63) mesmo com o Treasury de 10 anos subindo para 5,10%.",
+   "Para supply chain: com o peso a 18,61, cubra em parcelas os dólares de novembro antes do feriado de segunda, dia 16."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o IPC caía 0,19% e o peso se enfraquecia para 18,63, pressionado pela Nvidia e pelo Treasury em 5,06%; o FIX de quarta foi de 18,6285."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h22 (Cidade do México) o S&P/BMV IPC caía 0,16% para 71.893,91 e às 11h42 o peso era cotado a 18,61 por dólar (dólar +0,16%)."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O peso resistiu melhor que outras moedas da região (o real e o peso chileno perdiam mais de 1%) mesmo com o Treasury de 10 anos subindo para 5,10% e o índice do dólar 0,26%."
+   }
+  ],
+  "scm": "Com o peso a 18,61, cubra em parcelas os dólares de novembro e antecipe os pagamentos da segunda, dia 16. Se você importa do Brasil ou do Chile, as moedas fracas barateiam as compras em moeda local."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 12 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (12 nov 2026, 11:42 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "La Razón: precio del dólar hoy, 12 nov 2026 (FIX 18.6285 publicado en el DOF)",
+   "u": "https://www.razon.com.mx/negocios/2026/11/12/este-es-el-precio-del-dolar-hoy-jueves-12-de-noviembre-de-2026/"
+  }
+ ]
+}

@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-11-12T15:13:04Z",
+ "actualizado": "2026-11-12T17:44:37Z",
  "fecha": "2026-11-12",
  "titular": {
-  "es": "Jueves: Jensen Huang deja Nvidia, el crudo sube por Irán y los metales caen con el Treasury en 5%",
-  "en": "Thursday: Jensen Huang leaves Nvidia, crude rises on Iran and metals fall with the Treasury at 5%",
-  "pt": "Quinta: Jensen Huang deixa a Nvidia, o petróleo sobe pelo Irã e os metais caem com o Treasury em 5%"
+  "es": "Mediodía: Nvidia recorta su caída, Nebius se hunde 17% y el Brent sube a 94.57 dólares",
+  "en": "Midday: Nvidia trims its loss, Nebius sinks 17% and Brent rises to $94.57",
+  "pt": "Meio-dia: a Nvidia reduz a queda, a Nebius afunda 17% e o Brent sobe para 94,57 dólares"
  },
  "items": [
   {
    "id": "semis",
-   "dir": "down",
+   "dir": "mixed",
    "calor": 3,
    "mx": false,
    "latam": false,
@@ -17,14 +17,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Jensen Huang renuncia a Nvidia; Colette Kress será directora interina y la acción cae 7.7%",
-    "en": "Jensen Huang resigns from Nvidia; Colette Kress will be interim CEO and the stock falls 7.7%",
-    "pt": "Jensen Huang renuncia à Nvidia; Colette Kress será CEO interina e a ação cai 7,7%"
+    "es": "Nvidia recorta su caída a 4.75% tras la salida de Huang; AMD sube 5.1% y Broadcom más de 6%",
+    "en": "Nvidia trims its loss to 4.75% after Huang's exit; AMD rises 5.1% and Broadcom over 6%",
+    "pt": "A Nvidia reduz a queda para 4,75% após a saída de Huang; a AMD sobe 5,1% e a Broadcom mais de 6%"
    },
    "x": {
-    "es": "Nvidia informó que Huang renunció como presidente, director general y consejero con efecto inmediato, tras reportes de prensa sobre su conducta personal; su jefa de finanzas, Colette Kress, lo sustituye en forma interina. A las 9:10 CDMX la acción caía 7.7% a 160.28 dólares, Micron 5.4% e Intel cerca de 4%; AMD subía.",
-    "en": "Nvidia said Huang resigned as president, CEO and director effective immediately, following press reports about his personal conduct; CFO Colette Kress replaces him on an interim basis. At 10:10 a.m. ET the stock was down 7.7% at $160.28, Micron 5.4% and Intel nearly 4%; AMD rose.",
-    "pt": "A Nvidia informou que Huang renunciou como presidente, CEO e conselheiro com efeito imediato, após reportagens sobre sua conduta pessoal; a diretora financeira, Colette Kress, o substitui de forma interina. Às 9h10 (Cidade do México) a ação caía 7,7% para 160,28 dólares, a Micron 5,4% e a Intel quase 4%; a AMD subia."
+    "es": "A las 11:42 CDMX Nvidia caía 4.75% (165.47 dólares), lejos de su mínimo de la mañana; minoristas compraron unos 111 millones de dólares de la acción en la primera media hora, récord según Vanda Analytics. Inversionistas citados por Reuters cuestionan el financiamiento que Nvidia da a clientes que construyen centros de datos.",
+    "en": "At 12:42 p.m. ET Nvidia was down 4.75% ($165.47), well off its morning low; retail investors bought about $111 million of the stock in the first half hour, a record according to Vanda Analytics. Investors cited by Reuters question the financing Nvidia provides to customers building data centers.",
+    "pt": "Às 11h42 (Cidade do México) a Nvidia caía 4,75% (165,47 dólares), longe da mínima da manhã; investidores de varejo compraram cerca de 111 milhões de dólares da ação na primeira meia hora, recorde segundo a Vanda Analytics. Investidores citados pela Reuters questionam o financiamento que a Nvidia dá a clientes que constroem data centers."
    },
    "scm": {
     "es": "Confirma hoy con tu distribuidor pedidos abiertos y fechas de entrega de GPU y servidores, y califica una alternativa.",
@@ -32,6 +32,10 @@
     "pt": "Confirme hoje com seu distribuidor pedidos abertos e datas de entrega de GPUs e servidores, e qualifique uma alternativa."
    },
    "fuentes": [
+    {
+     "t": "Reuters vía Yahoo Finance: Wall Street se recupera con la energía; se agravan los problemas de Nvidia (12 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-fall-nvidia-turmoil-093910045.html"
+    },
     {
      "t": "Yahoo Finance: Nvidia en vivo, Jensen Huang renuncia y Colette Kress será directora interina (12 nov 2026)",
      "u": "https://finance.yahoo.com/technology/live/nvidia-live-updates-jensen-huang-resigns-cfo-colette-kress-to-serve-as-interim-ceo-140341430.html"
@@ -52,14 +56,14 @@
    "en": "Software and AI for supply chain",
    "pt": "Software e IA para supply chain",
    "titular": {
-    "es": "La infraestructura de IA cae con Nvidia: Nebius −20.4% y CoreWeave −10.5%",
-    "en": "AI infrastructure falls with Nvidia: Nebius −20.4% and CoreWeave −10.5%",
-    "pt": "A infraestrutura de IA cai com a Nvidia: Nebius −20,4% e CoreWeave −10,5%"
+    "es": "Nebius cae 17% al prever ingresos en la parte baja de su rango; CoreWeave baja 6.7%",
+    "en": "Nebius falls 17% as it sees revenue at the low end of its range; CoreWeave drops 6.7%",
+    "pt": "A Nebius cai 17% ao prever receita na parte baixa da faixa; a CoreWeave cai 6,7%"
    },
    "x": {
-    "es": "Las empresas de nube para IA borran parte del rebote del miércoles: a las 9:10 CDMX Nebius caía 20.4% y CoreWeave 10.5%, que el día anterior había subido 26.7% por sus resultados. Yahoo Finance señala que la turbulencia presiona también el debut en bolsa de Anthropic, previsto para la próxima semana.",
-    "en": "AI cloud companies erase part of Wednesday's rebound: at 10:10 a.m. ET Nebius was down 20.4% and CoreWeave 10.5%, after rising 26.7% the day before on its results. Yahoo Finance notes the turmoil also adds pressure on Anthropic's stock market debut, planned for next week.",
-    "pt": "As empresas de nuvem para IA apagam parte da recuperação de quarta: às 9h10 (Cidade do México) a Nebius caía 20,4% e a CoreWeave 10,5%, depois de subir 26,7% no dia anterior pelos resultados. O Yahoo Finance aponta que a turbulência também pressiona a estreia na bolsa da Anthropic, prevista para a próxima semana."
+    "es": "Nebius dijo que sus ingresos de 2026 quedarán en la parte baja de su pronóstico anterior; IREN y Applied Digital caían 5% y 4%. En cambio, Alphabet, Microsoft y Amazon subían más de 1%, según Reuters.",
+    "en": "Nebius said its 2026 revenue will be at the low end of its prior forecast; IREN and Applied Digital fell 5% and 4%. Alphabet, Microsoft and Amazon, by contrast, rose more than 1%, according to Reuters.",
+    "pt": "A Nebius disse que sua receita de 2026 ficará na parte baixa da previsão anterior; IREN e Applied Digital caíam 5% e 4%. Já Alphabet, Microsoft e Amazon subiam mais de 1%, segundo a Reuters."
    },
    "scm": {
     "es": "Si vas a contratar nube o cómputo para planeación con IA, pide precio fijo a plazo y cláusulas de continuidad del servicio.",
@@ -68,12 +72,8 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: S&P 500 y Nasdaq caen tras la renuncia de Jensen Huang en Nvidia (12 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (12 nov 2026, 09:10 CDMX)",
-     "u": "https://finance.yahoo.com/markets/"
+     "t": "Reuters vía Yahoo Finance: Wall Street se recupera con la energía; se agravan los problemas de Nvidia (12 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-fall-nvidia-turmoil-093910045.html"
     }
    ]
   },
@@ -87,14 +87,14 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "Trump: \"No necesitamos un acuerdo con Irán\"; el Brent sube 1% a 93.71 dólares",
-    "en": "Trump: \"We don't need a deal with Iran\"; Brent rises 1% to $93.71",
-    "pt": "Trump: \"Não precisamos de um acordo com o Irã\"; o Brent sobe 1% para 93,71 dólares"
+    "es": "El Brent sube 1.95% a 94.57 dólares y la energía lidera Wall Street (+1.3%)",
+    "en": "Brent rises 1.95% to $94.57 and energy leads Wall Street (+1.3%)",
+    "pt": "O Brent sobe 1,95% para 94,57 dólares e a energia lidera Wall Street (+1,3%)"
    },
    "x": {
-    "es": "El crudo revirtió sus bajas de la madrugada después del mensaje de Trump; a las 8:59 CDMX el Brent estaba en 93.71 dólares (+1.0%) y el WTI en 86.68 (+0.2%). La OPEP+ elevó su producción en octubre y hoy salen los inventarios de la EIA, retrasados por el feriado.",
-    "en": "Crude reversed its overnight losses after Trump's message; at 9:59 a.m. ET Brent was at $93.71 (+1.0%) and WTI at $86.68 (+0.2%). OPEC+ raised output in October and EIA inventories, delayed by the holiday, come out today.",
-    "pt": "O petróleo reverteu as quedas da madrugada depois da mensagem de Trump; às 8h59 (Cidade do México) o Brent estava a 93,71 dólares (+1,0%) e o WTI a 86,68 (+0,2%). A OPEP+ elevou a produção em outubro e hoje saem os estoques da EIA, adiados pelo feriado."
+    "es": "A las 11:30 CDMX el Brent estaba en 94.57 dólares (+1.95%) y el WTI en 87.63 (+1.3%), tras escribir Trump que \"no necesitamos un acuerdo con Irán\". El sector energía del S&P 500 subía 1.3%; el gas natural ganaba 3.6%.",
+    "en": "At 12:30 p.m. ET Brent was at $94.57 (+1.95%) and WTI at $87.63 (+1.3%), after Trump wrote that \"we don't need a deal with Iran.\" The S&P 500 energy sector rose 1.3%; natural gas gained 3.6%.",
+    "pt": "Às 11h30 (Cidade do México) o Brent estava a 94,57 dólares (+1,95%) e o WTI a 87,63 (+1,3%), depois de Trump escrever que \"não precisamos de um acordo com o Irã\". O setor de energia do S&P 500 subia 1,3%; o gás natural ganhava 3,6%."
    },
    "scm": {
     "es": "Espera el dato de la EIA antes de fijar recargos de combustible de la próxima semana y pide ajuste semanal.",
@@ -103,12 +103,16 @@
    },
    "fuentes": [
     {
+     "t": "Reuters vía Yahoo Finance: Wall Street se recupera con la energía; se agravan los problemas de Nvidia (12 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-fall-nvidia-turmoil-093910045.html"
+    },
+    {
      "t": "Reuters vía Yahoo Finance: el petróleo sube por los riesgos geopolíticos (12 nov 2026)",
      "u": "https://finance.yahoo.com/energy/articles/oil-falls-over-1-easing-045152522.html"
     },
     {
-     "t": "Yahoo Finance: S&P 500 y Nasdaq caen tras la renuncia de Jensen Huang en Nvidia (12 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
+     "t": "Yahoo Finance: índices, divisas y materias primas (12 nov 2026, 11:42 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },

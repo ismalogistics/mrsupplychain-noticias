@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-12-mediodia-latam",
+ "fecha": "2026-11-12",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:42 CDMX",
+ "es": {
+  "titular": "El real y el peso chileno pierden más de 1% pese al IPCA bajo; el Ibovespa cae 0.5%",
+  "esencial": [
+   "A las 11:42 CDMX el dólar subía 1.20% frente al peso chileno (993.9) y 1.03% frente al real (5.64).",
+   "El Ibovespa bajaba 0.54% (171,139) a las 11:27 y el S&P/TSX 0.44%; el IPCA de octubre (0.14%) salió debajo de lo esperado.",
+   "Escalona los pagos en dólares desde Brasil y Chile, y cotiza insumos de cobre con el precio a la baja."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el Ibovespa caía 1.04% pese a que el IPCA de octubre subió sólo 0.14%, debajo del 0.25% esperado, y el peso chileno perdía 1.2%."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:27 CDMX el Ibovespa estaba en 171,139.10 (−0.54%) y a las 11:42 el S&P/TSX en 36,252 (−0.44%). Los ETF de MSCI bajaban 0.98% en Argentina, 0.41% en Chile y 0.51% en Perú, y el iCOLCAP 0.97%. A las 11:42 el dólar estaba en 993.9 pesos chilenos (+1.20%), 5.64 reales (+1.03%) y 3,312 pesos colombianos (+0.95%); el sol estaba en 3.40 y el peso argentino en 1,544."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "Las monedas de la región se debilitan aunque el crudo sube casi 2%, por el Treasury en 5.10% y el dólar más firme; el Ibovespa recortó la mitad de su caída de la mañana."
+   }
+  ],
+  "scm": "Escalona los pagos en dólares desde Brasil y Chile, donde las monedas se debilitan, y cotiza insumos de cobre (−1.5%) antes de que rebote."
+ },
+ "en": {
+  "titular": "The real and the Chilean peso lose more than 1% despite soft IPCA; the Ibovespa falls 0.5%",
+  "esencial": [
+   "At 12:42 p.m. ET the dollar was up 1.20% against the Chilean peso (993.9) and 1.03% against the real (5.64).",
+   "The Ibovespa was down 0.54% (171,139) at 12:27 p.m. ET and the S&P/TSX 0.44%; October IPCA (0.14%) came in below expectations.",
+   "Stagger dollar payments from Brazil and Chile, and quote copper inputs while the price dips."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the Ibovespa was down 1.04% even though October IPCA rose only 0.14%, below the 0.25% expected, and the Chilean peso was losing 1.2%."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:27 a.m. Mexico City time the Ibovespa stood at 171,139.10 (−0.54%) and at 11:42 the S&P/TSX at 36,252 (−0.44%). The MSCI ETFs fell 0.98% for Argentina, 0.41% for Chile and 0.51% for Peru, and the iCOLCAP 0.97%. At 11:42 the dollar stood at 993.9 Chilean pesos (+1.20%), 5.64 reais (+1.03%) and 3,312 Colombian pesos (+0.95%); the sol was at 3.40 and the Argentine peso at 1,544."
+   },
+   {
+    "t": "What surprised",
+    "x": "The region's currencies weaken even as crude rises almost 2%, due to the Treasury at 5.10% and a firmer dollar; the Ibovespa pared half of its morning loss."
+   }
+  ],
+  "scm": "Stagger dollar payments from Brazil and Chile, where currencies are weakening, and quote copper inputs (−1.5%) before they rebound."
+ },
+ "pt": {
+  "titular": "O real e o peso chileno perdem mais de 1% apesar do IPCA baixo; o Ibovespa cai 0,5%",
+  "esencial": [
+   "Às 11h42 (Cidade do México) o dólar subia 1,20% frente ao peso chileno (993,9) e 1,03% frente ao real (R$ 5,64).",
+   "O Ibovespa caía 0,54% (171.139) às 11h27 e o S&P/TSX 0,44%; o IPCA de outubro (0,14%) veio abaixo do esperado.",
+   "Escalone os pagamentos em dólares a partir do Brasil e do Chile e cote insumos de cobre com o preço em queda."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o Ibovespa caía 1,04% apesar de o IPCA de outubro subir só 0,14%, abaixo dos 0,25% esperados, e o peso chileno perdia 1,2%."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h27 (Cidade do México) o Ibovespa estava em 171.139,10 (−0,54%) e às 11h42 o S&P/TSX em 36.252 (−0,44%). Os ETFs da MSCI caíam 0,98% na Argentina, 0,41% no Chile e 0,51% no Peru, e o iCOLCAP 0,97%. Às 11h42 o dólar estava em 993,9 pesos chilenos (+1,20%), R$ 5,64 (+1,03%) e 3.312 pesos colombianos (+0,95%); o sol estava em 3,40 e o peso argentino em 1.544."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "As moedas da região se enfraquecem mesmo com o petróleo subindo quase 2%, pelo Treasury em 5,10% e pelo dólar mais firme; o Ibovespa reduziu à metade a queda da manhã."
+   }
+  ],
+  "scm": "Escalone os pagamentos em dólares a partir do Brasil e do Chile, onde as moedas se enfraquecem, e cote insumos de cobre (−1,5%) antes que se recupere."
+ },
+ "fuentes": [
+  {
+   "t": "InfoMoney: el IPCA sube 0.14% en octubre, debajo de lo esperado (12 nov 2026)",
+   "u": "https://www.infomoney.com.br/economia/ipca-inflacao-outubro-2026-dados-ibge/"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (12 nov 2026, 11:42 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}
