@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-12-premercado-global",
+   "fecha": "2026-11-12",
+   "momento": "premercado",
+   "mercado": "global",
+   "titular_es": "Nvidia vuelve a hundirse en el premercado y arrastra a los futuros del Nasdaq; el crudo baja 0.8%",
+   "titular_en": "Nvidia sinks again premarket and drags Nasdaq futures; crude falls 0.8%",
+   "titular_pt": "A Nvidia volta a afundar no pré-mercado e arrasta os futuros do Nasdaq; o petróleo cai 0,8%"
+  },
+  {
+   "id": "2026-11-12-premercado-latam",
+   "fecha": "2026-11-12",
+   "momento": "premercado",
+   "mercado": "latam",
+   "titular_es": "La región espera el IPCA de Brasil; el cobre baja 1.2% en la madrugada",
+   "titular_en": "The region awaits Brazil's IPCA; copper falls 1.2% overnight",
+   "titular_pt": "A região aguarda o IPCA do Brasil; o cobre cai 1,2% na madrugada"
+  },
+  {
+   "id": "2026-11-12-premercado-mexico",
+   "fecha": "2026-11-12",
+   "momento": "premercado",
+   "mercado": "mexico",
+   "titular_es": "El peso amanece en 18.58 pese al tropiezo de Nvidia; hoy sale la encuesta de viajeros del INEGI",
+   "titular_en": "The peso starts at 18.58 despite Nvidia's stumble; INEGI's travelers survey comes out today",
+   "titular_pt": "O peso amanhece a 18,58 apesar do tropeço da Nvidia; hoje sai a pesquisa de viajantes do INEGI"
+  },
+  {
    "id": "2026-11-11-cierre-global",
    "fecha": "2026-11-11",
    "momento": "cierre",
@@ -782,33 +809,6 @@
    "titular_es": "El peso cierra en 18.57 por dólar, su mejor nivel en semanas, en un día sin BMV ni FIX; mañana reabre el mercado local",
    "titular_en": "The peso closes at 18.57 per dollar, its best level in weeks, on a day with no BMV or FIX; the local market reopens tomorrow",
    "titular_pt": "O peso fecha a 18,57 por dólar, seu melhor nível em semanas, num dia sem BMV nem FIX; o mercado local reabre amanhã"
-  },
-  {
-   "id": "2026-11-02-mediodia-global",
-   "fecha": "2026-11-02",
-   "momento": "mediodia",
-   "mercado": "global",
-   "titular_es": "El rebote de Wall Street pierde fuerza: el Dow conserva 0.8% por el crudo barato, pero el Nasdaq ya baja antes de Apple",
-   "titular_en": "Wall Street's rebound fades: the Dow holds a 0.8% gain on cheaper crude, but the Nasdaq slips ahead of Apple",
-   "titular_pt": "A alta de Wall Street perde força: o Dow mantém 0,8% com o petróleo mais barato, mas o Nasdaq já cai antes da Apple"
-  },
-  {
-   "id": "2026-11-02-mediodia-latam",
-   "fecha": "2026-11-02",
-   "momento": "mediodia",
-   "mercado": "latam",
-   "titular_es": "Chile y Perú suben más de 2% y Canadá cerca de 1%; el real y el peso colombiano siguen débiles con sus bolsas cerradas",
-   "titular_en": "Chile and Peru rise more than 2% and Canada nearly 1%; the real and the Colombian peso stay weak with their markets closed",
-   "titular_pt": "Chile e Peru sobem mais de 2% e Canadá perto de 1%; o real e o peso colombiano seguem fracos com suas bolsas fechadas"
-  },
-  {
-   "id": "2026-11-02-mediodia-mexico",
-   "fecha": "2026-11-02",
-   "momento": "mediodia",
-   "mercado": "mexico",
-   "titular_es": "El peso amplía su avance a 1.5% y cotiza en 18.57 por dólar, con la BMV cerrada y el crudo a la baja",
-   "titular_en": "The peso extends its gain to 1.5% at 18.57 per dollar, with the BMV closed and crude falling",
-   "titular_pt": "O peso amplia o ganho para 1,5% e é cotado a 18,57 por dólar, com a BMV fechada e o petróleo em queda"
   }
  ]
 }

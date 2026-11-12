@@ -1,0 +1,91 @@
+{
+ "id": "2026-11-12-premercado-mexico",
+ "fecha": "2026-11-12",
+ "momento": "premercado",
+ "mercado": "mexico",
+ "hora": "05:10 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El peso amanece en 18.58 pese al tropiezo de Nvidia; hoy sale la encuesta de viajeros del INEGI",
+  "esencial": [
+   "A las 5:10 CDMX el peso estaba en 18.58 por dólar, mejor que el cierre de 18.61 del miércoles.",
+   "El miércoles el IPC cerró con +0.14% (71,993.18) tras devolver casi toda su ganancia por el dato industrial débil.",
+   "Para supply chain: aprovecha el peso en 18.58 para cubrir dólares antes del puente del lunes 16, día inhábil bancario."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El miércoles el S&P/BMV IPC cerró con +0.14% (71,993.18) y el peso en 18.61 por dólar, en una sesión marcada por la caída de 1.4% mensual de la actividad industrial de septiembre. En la madrugada el peso mejoró: a las 5:10 CDMX cotizaba en 18.58, con el dólar ligeramente débil (DXY −0.1%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "La caída de Nvidia presiona a los futuros de Wall Street, pero el peso no la resiente. A favor juegan el dólar estable y el crudo a la baja (WTI 85.83); en contra, que un alza de la Fed en diciembre ya está descontada y estrecha el diferencial con Banxico (6.25%)."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "El INEGI publica la Encuesta de Viajeros Internacionales de septiembre. Reabre el mercado de bonos de EE. UU., que puede mover a los bonos M y al peso. El viernes 13 sale el PPI de EE. UU. y el lunes 16 cierran la BMV y los bancos por el Día de la Revolución."
+   }
+  ],
+  "scm": "Con el peso en 18.58, cubre por tramos los dólares de noviembre y adelanta los pagos del lunes 16. Si el bono a 10 años de EE. UU. vuelve a 5% al reabrir, el peso puede debilitarse: no dejes toda la compra para el viernes."
+ },
+ "en": {
+  "titular": "The peso starts at 18.58 despite Nvidia's stumble; INEGI's travelers survey comes out today",
+  "esencial": [
+   "At 5:10 a.m. Mexico City time the peso was at 18.58 per dollar, stronger than Wednesday's 18.61 close.",
+   "On Wednesday the IPC closed +0.14% (71,993.18) after giving back most of its gain on weak industrial data.",
+   "For supply chain: use the peso at 18.58 to hedge dollars before the Monday the 16th bank holiday."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Wednesday the S&P/BMV IPC closed +0.14% (71,993.18) and the peso at 18.61 per dollar, in a session marked by September's 1.4% monthly drop in industrial activity. Overnight the peso improved: at 5:10 a.m. Mexico City time it traded at 18.58, with the dollar slightly weaker (DXY −0.1%)."
+   },
+   {
+    "t": "Context",
+    "x": "Nvidia's drop weighs on Wall Street futures, but the peso doesn't feel it. A steady dollar and lower crude (WTI $85.83) help; a December Fed hike already priced, which narrows the gap with Banxico (6.25%), weighs."
+   },
+   {
+    "t": "What to expect today",
+    "x": "INEGI publishes September's International Travelers Survey. The US bond market reopens, which may move Mbonos and the peso. US PPI comes out Friday the 13th and on Monday the 16th the BMV and banks close for Revolution Day."
+   }
+  ],
+  "scm": "With the peso at 18.58, hedge November dollars in tranches and move forward payments due Monday the 16th. If the US 10-year returns to 5% when it reopens, the peso may weaken: don't leave all purchases for Friday."
+ },
+ "pt": {
+  "titular": "O peso amanhece a 18,58 apesar do tropeço da Nvidia; hoje sai a pesquisa de viajantes do INEGI",
+  "esencial": [
+   "Às 5h10 (Cidade do México) o peso estava a 18,58 por dólar, melhor que o fechamento de 18,61 de quarta.",
+   "Na quarta o IPC fechou com +0,14% (71.993,18) depois de devolver quase todo o ganho pelo dado industrial fraco.",
+   "Para supply chain: aproveite o peso a 18,58 para cobrir dólares antes do feriado bancário de segunda, dia 16."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na quarta o S&P/BMV IPC fechou com +0,14% (71.993,18) e o peso a 18,61 por dólar, numa sessão marcada pela queda de 1,4% no mês da atividade industrial de setembro. Durante a madrugada o peso melhorou: às 5h10 (Cidade do México) era cotado a 18,58, com o dólar ligeiramente fraco (DXY −0,1%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "A queda da Nvidia pressiona os futuros de Wall Street, mas o peso não sente. Ajudam o dólar estável e o petróleo em queda (WTI 85,83); pesa contra que uma alta do Fed em dezembro já está precificada e estreita o diferencial com o Banxico (6,25%)."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "O INEGI divulga a Pesquisa de Viajantes Internacionais de setembro. Reabre o mercado de títulos dos EUA, que pode mexer com os bonos M e o peso. Na sexta, dia 13, sai o PPI dos EUA e na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução."
+   }
+  ],
+  "scm": "Com o peso a 18,58, cubra em parcelas os dólares de novembro e antecipe os pagamentos da segunda, dia 16. Se o título de 10 anos dos EUA voltar a 5% ao reabrir, o peso pode se enfraquecer: não deixe toda a compra para sexta."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), cierre del 11 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (12 nov 2026, 05:10 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "INEGI: calendario de difusión 2026",
+   "u": "https://inegi.org.mx/contenidos/saladeprensa/doc/cal_2026.pdf"
+  }
+ ]
+}

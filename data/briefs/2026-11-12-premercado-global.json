@@ -1,0 +1,99 @@
+{
+ "id": "2026-11-12-premercado-global",
+ "fecha": "2026-11-12",
+ "momento": "premercado",
+ "mercado": "global",
+ "hora": "05:10 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Nvidia vuelve a hundirse en el premercado y arrastra a los futuros del Nasdaq; el crudo baja 0.8%",
+  "esencial": [
+   "Nvidia caía cerca de 7% antes de la apertura tras reportes de que su consejo evalúa remover a su director, Jensen Huang.",
+   "A las 5:00 CDMX los futuros del Nasdaq 100 bajaban 0.82% y los del S&P 500 0.37%; Asia cerró a la baja (Hang Seng −2.23%).",
+   "Para supply chain: hoy salen los inventarios de crudo de la EIA y reabre el mercado de bonos; revisa recargos de combustible antes del PPI del viernes."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El miércoles Wall Street cerró al alza (S&P 500 +1.29%, Nasdaq +1.59%) por los resultados de CoreWeave. Después del cierre, Nvidia cayó cerca de 9% en operaciones extendidas tras un reporte de The New York Times sobre la conducta personal de su director, Jensen Huang, y otro de The Wall Street Journal de que su consejo se reúne para decidir si lo remueve. Antes de la apertura la acción bajaba alrededor de 7% y se perfila para abrir en su mínimo de 52 semanas, según Yahoo Finance; CoreWeave caía cerca de 6% e Intel, Marvell y Micron entre 1.9% y 2.8%, según Reuters."
+   },
+   {
+    "t": "Asia, Europa y futuros",
+    "x": "Asia cerró a la baja: Nikkei −0.70% (60,819.36), KOSPI −0.61% (5,342.73), Hang Seng −2.23% y Shanghái −0.22%. Europa sube: a las 4:55 CDMX el Euro Stoxx 50 ganaba 0.30%, el DAX 0.77% y el Stoxx 600 0.37%. A las 5:00 CDMX los futuros del Nasdaq 100 bajaban 0.82%, los del S&P 500 0.37% y los del Dow subían 0.07%. El WTI estaba en 85.83 dólares (−0.8%), el Brent en 92.06 (−0.8%), el oro en 3,959 (−1.0%), el cobre en 6.21 dólares por libra (−1.2%) y el índice del dólar en 102.84 (−0.1%)."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Reabre el mercado de bonos de EE. UU. tras el Día de los Veteranos; el Treasury a 10 años cerró el martes en 4.98%. A las 7:30 CDMX salen las solicitudes semanales de subsidio por desempleo y más tarde los inventarios de crudo de la EIA, retrasados un día por el feriado (el API reportó +9 millones de barriles). Nebius reporta resultados. El viernes 13 sale el PPI de octubre (7:30 CDMX); según CME FedWatch el alza de la Fed en diciembre es un hecho y la de medio punto tiene cerca de 10% de probabilidad."
+   }
+  ],
+  "scm": "Con el crudo a la baja y los inventarios de la EIA hoy, espera al dato antes de fijar recargos de combustible de la próxima semana. Si dependes de GPU o servidores de Nvidia, revisa con tu proveedor fechas de entrega y alternativas: el riesgo de liderazgo no cambia el abasto de inmediato, pero sí la visibilidad."
+ },
+ "en": {
+  "titular": "Nvidia sinks again premarket and drags Nasdaq futures; crude falls 0.8%",
+  "esencial": [
+   "Nvidia was down about 7% before the open on reports that its board is weighing the removal of CEO Jensen Huang.",
+   "At 6:00 a.m. ET Nasdaq 100 futures were down 0.82% and S&P 500 futures 0.37%; Asia closed lower (Hang Seng −2.23%).",
+   "For supply chain: EIA crude inventories come out today and the bond market reopens; review fuel surcharges before Friday's PPI."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Wednesday Wall Street closed higher (S&P 500 +1.29%, Nasdaq +1.59%) on CoreWeave results. After the close Nvidia fell about 9% in extended trading after a New York Times report on CEO Jensen Huang's personal conduct and a Wall Street Journal report that its board is meeting to decide whether to remove him. Premarket the stock was down about 7% and was set to open at a 52-week low, according to Yahoo Finance; CoreWeave fell about 6% and Intel, Marvell and Micron between 1.9% and 2.8%, according to Reuters."
+   },
+   {
+    "t": "Asia, Europe and futures",
+    "x": "Asia closed lower: Nikkei −0.70% (60,819.36), KOSPI −0.61% (5,342.73), Hang Seng −2.23% and Shanghai −0.22%. Europe rises: at 5:55 a.m. ET the Euro Stoxx 50 was up 0.30%, the DAX 0.77% and the Stoxx 600 0.37%. At 6:00 a.m. ET Nasdaq 100 futures were down 0.82%, S&P 500 futures 0.37% and Dow futures up 0.07%. WTI was at $85.83 (−0.8%), Brent at $92.06 (−0.8%), gold at $3,959 (−1.0%), copper at $6.21 per pound (−1.2%) and the dollar index at 102.84 (−0.1%)."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The US bond market reopens after Veterans Day; the 10-year Treasury closed Tuesday at 4.98%. Weekly jobless claims come out at 8:30 a.m. ET and EIA crude inventories later, delayed a day by the holiday (the API reported +9 million barrels). Nebius reports results. October PPI comes out Friday the 13th (8:30 a.m. ET); according to CME FedWatch a December Fed hike is a given and a half-point move has about a 10% probability."
+   }
+  ],
+  "scm": "With crude lower and EIA inventories due today, wait for the data before setting next week's fuel surcharges. If you rely on Nvidia GPUs or servers, check delivery dates and alternatives with your supplier: leadership risk doesn't change supply right away, but it does reduce visibility."
+ },
+ "pt": {
+  "titular": "A Nvidia volta a afundar no pré-mercado e arrasta os futuros do Nasdaq; o petróleo cai 0,8%",
+  "esencial": [
+   "A Nvidia caía cerca de 7% antes da abertura após reportagens de que seu conselho avalia afastar o CEO, Jensen Huang.",
+   "Às 5h (Cidade do México) os futuros do Nasdaq 100 caíam 0,82% e os do S&P 500 0,37%; a Ásia fechou em queda (Hang Seng −2,23%).",
+   "Para supply chain: hoje saem os estoques de petróleo da EIA e reabre o mercado de títulos; revise as sobretaxas de combustível antes do PPI de sexta."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na quarta Wall Street fechou em alta (S&P 500 +1,29%, Nasdaq +1,59%) pelos resultados da CoreWeave. Depois do fechamento, a Nvidia caiu cerca de 9% no after-hours após uma reportagem do New York Times sobre a conduta pessoal do CEO, Jensen Huang, e outra do Wall Street Journal de que seu conselho se reúne para decidir se o afasta. No pré-mercado a ação caía cerca de 7% e caminhava para abrir na mínima de 52 semanas, segundo o Yahoo Finance; a CoreWeave caía cerca de 6% e Intel, Marvell e Micron entre 1,9% e 2,8%, segundo a Reuters."
+   },
+   {
+    "t": "Ásia, Europa e futuros",
+    "x": "A Ásia fechou em queda: Nikkei −0,70% (60.819,36), KOSPI −0,61% (5.342,73), Hang Seng −2,23% e Xangai −0,22%. A Europa sobe: às 4h55 (Cidade do México) o Euro Stoxx 50 ganhava 0,30%, o DAX 0,77% e o Stoxx 600 0,37%. Às 5h os futuros do Nasdaq 100 caíam 0,82%, os do S&P 500 0,37% e os do Dow subiam 0,07%. O WTI estava a 85,83 dólares (−0,8%), o Brent a 92,06 (−0,8%), o ouro a 3.959 (−1,0%), o cobre a 6,21 dólares por libra (−1,2%) e o índice do dólar em 102,84 (−0,1%)."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Reabre o mercado de títulos dos EUA depois do Dia dos Veteranos; o Treasury de 10 anos fechou na terça em 4,98%. Às 7h30 (Cidade do México) saem os pedidos semanais de auxílio-desemprego e mais tarde os estoques de petróleo da EIA, adiados um dia pelo feriado (o API reportou +9 milhões de barris). A Nebius divulga resultados. Na sexta, dia 13, sai o PPI de outubro (7h30); segundo o CME FedWatch a alta do Fed em dezembro é certa e a de meio ponto tem cerca de 10% de probabilidade."
+   }
+  ],
+  "scm": "Com o petróleo em queda e os estoques da EIA hoje, espere o dado antes de fixar as sobretaxas de combustível da próxima semana. Se você depende de GPUs ou servidores da Nvidia, revise com seu fornecedor datas de entrega e alternativas: o risco de liderança não muda o abastecimento de imediato, mas reduz a visibilidade."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters vía Yahoo Finance: futuros del Nasdaq y S&P 500 bajan por la turbulencia en Nvidia (12 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-fall-nvidia-turmoil-093910045.html"
+  },
+  {
+   "t": "Yahoo Finance: Nvidia en vivo, la acción cae tras nuevos reportes sobre su director (12 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/live/nvidia-live-updates-nvidia-stock-tanks-in-after-hours-after-allegations-of-a-second-affair-surface-222438011.html"
+  },
+  {
+   "t": "InvestorsHub vía Yahoo Finance: el petróleo se recupera; inventarios de la EIA el jueves (12 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-prices-recover-middle-east-100644185.html"
+  },
+  {
+   "t": "Reuters vía Yahoo Finance: las bolsas cierran al alza por CoreWeave (11 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-104431138.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (12 nov 2026, 05:10 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

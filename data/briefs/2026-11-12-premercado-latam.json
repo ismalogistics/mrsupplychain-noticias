@@ -1,0 +1,87 @@
+{
+ "id": "2026-11-12-premercado-latam",
+ "fecha": "2026-11-12",
+ "momento": "premercado",
+ "mercado": "latam",
+ "hora": "05:10 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "La región espera el IPCA de Brasil; el cobre baja 1.2% en la madrugada",
+  "esencial": [
+   "El miércoles el Ibovespa cerró con +0.54% y el S&P/TSX con +0.67%, mientras Colombia cayó 1.6%.",
+   "En la madrugada el cobre baja 1.2% (6.21 dólares por libra) y el crudo 0.8%, lo que pesa sobre Chile, Perú y Colombia.",
+   "Hoy Brasil publica el IPCA de octubre: escalona los pagos en reales y cotiza insumos de cobre con el precio a la baja."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El miércoles el Ibovespa cerró con +0.54% (172,268.70) y el S&P/TSX con +0.67% (36,411.72); el ETF de MSCI de Chile bajó 0.56% y el iCOLCAP de Colombia 1.62%. A las 5:00 CDMX el real estaba en 5.58 por dólar, el peso chileno en 984 y el peso colombiano en 3,279."
+   },
+   {
+    "t": "Contexto",
+    "x": "La caída de Nvidia en el premercado enfría el apetito por riesgo. El cobre baja 1.2% y el crudo 0.8%, lo que resta a los exportadores de Chile, Perú y Colombia; el dólar estable (DXY −0.1%) da algo de soporte a las monedas."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Brasil publica el IPCA de octubre, clave para la siguiente decisión del Copom. Reabre el mercado de bonos de EE. UU., que puede mover a las monedas de la región."
+   }
+  ],
+  "scm": "Cotiza insumos de cobre con el precio a la baja y escalona los pagos en reales hasta conocer el IPCA. Con el crudo bajando, espera los inventarios de la EIA antes de cerrar fletes regionales."
+ },
+ "en": {
+  "titular": "The region awaits Brazil's IPCA; copper falls 1.2% overnight",
+  "esencial": [
+   "On Wednesday the Ibovespa closed +0.54% and the S&P/TSX +0.67%, while Colombia fell 1.6%.",
+   "Overnight copper falls 1.2% ($6.21 per pound) and crude 0.8%, weighing on Chile, Peru and Colombia.",
+   "Brazil publishes October IPCA today: stagger payments in reais and quote copper inputs while the price dips."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Wednesday the Ibovespa closed +0.54% (172,268.70) and the S&P/TSX +0.67% (36,411.72); the MSCI Chile ETF fell 0.56% and Colombia's iCOLCAP 1.62%. At 5:00 a.m. Mexico City time the real was at 5.58 per dollar, the Chilean peso at 984 and the Colombian peso at 3,279."
+   },
+   {
+    "t": "Context",
+    "x": "Nvidia's premarket drop cools risk appetite. Copper falls 1.2% and crude 0.8%, hurting exporters in Chile, Peru and Colombia; a steady dollar (DXY −0.1%) gives currencies some support."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Brazil publishes October IPCA, key for the Copom's next decision. The US bond market reopens, which may move the region's currencies."
+   }
+  ],
+  "scm": "Quote copper inputs while the price dips and stagger payments in reais until IPCA is out. With crude falling, wait for EIA inventories before locking in regional freight."
+ },
+ "pt": {
+  "titular": "A região aguarda o IPCA do Brasil; o cobre cai 1,2% na madrugada",
+  "esencial": [
+   "Na quarta o Ibovespa fechou com +0,54% e o S&P/TSX com +0,67%, enquanto a Colômbia caiu 1,6%.",
+   "Na madrugada o cobre cai 1,2% (6,21 dólares por libra) e o petróleo 0,8%, o que pesa sobre Chile, Peru e Colômbia.",
+   "Hoje o Brasil divulga o IPCA de outubro: escalone os pagamentos em reais e cote insumos de cobre com o preço em queda."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na quarta o Ibovespa fechou com +0,54% (172.268,70) e o S&P/TSX com +0,67% (36.411,72); o ETF da MSCI do Chile caiu 0,56% e o iCOLCAP da Colômbia 1,62%. Às 5h (Cidade do México) o dólar estava em R$ 5,58, o peso chileno em 984 e o peso colombiano em 3.279."
+   },
+   {
+    "t": "Contexto",
+    "x": "A queda da Nvidia no pré-mercado esfria o apetite por risco. O cobre cai 1,2% e o petróleo 0,8%, o que tira força dos exportadores do Chile, Peru e Colômbia; o dólar estável (DXY −0,1%) dá algum suporte às moedas."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "O Brasil divulga o IPCA de outubro, chave para a próxima decisão do Copom. Reabre o mercado de títulos dos EUA, que pode mexer com as moedas da região."
+   }
+  ],
+  "scm": "Cote insumos de cobre com o preço em queda e escalone os pagamentos em reais até conhecer o IPCA. Com o petróleo caindo, espere os estoques da EIA antes de fechar fretes regionais."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (cierres del 11 nov)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (12 nov 2026, 05:10 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
