@@ -7,7 +7,34 @@
   <description>Briefs diarios de mercados (premercado, apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
   <language>es-MX</language>
   <copyright>Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</copyright>
-  <lastBuildDate>Thu, 12 Nov 2026 09:10:00 -0600</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 11:42:00 -0600</lastBuildDate>
+  <item>
+    <title>El IPC baja 0.16% y el peso se mantiene en 18.61 pese al Treasury en 5.10%</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-12-mediodia-mexico/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-12-mediodia-mexico/</guid>
+    <pubDate>Thu, 12 Nov 2026 11:42:00 -0600</pubDate>
+    <category>Mediodía · México</category>
+    <description>En la apertura el IPC bajaba 0.19% y el peso se debilitaba a 18.63, presionado por Nvidia y el Treasury en 5.06%; el FIX del miércoles fue de 18.6285. A las 11:22 CDMX el S&amp;P/BMV IPC bajaba 0.16% a 71,893.91 y a las 11:42 el peso cotizaba en 18.61 por dólar (+0.16% el dólar). — Con el peso en 18.61, cubre por tramos los dólares de noviembre y adelanta los pagos del lunes 16. Si importas de Brasil o Chile, sus monedas débiles abaratan las compras en moneda local.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-12-mediodia-mexico/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>El real y el peso chileno pierden más de 1% pese al IPCA bajo; el Ibovespa cae 0.5%</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-12-mediodia-latam/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-12-mediodia-latam/</guid>
+    <pubDate>Thu, 12 Nov 2026 11:42:00 -0600</pubDate>
+    <category>Mediodía · LATAM</category>
+    <description>En la apertura el Ibovespa caía 1.04% pese a que el IPCA de octubre subió sólo 0.14%, debajo del 0.25% esperado, y el peso chileno perdía 1.2%. A las 11:27 CDMX el Ibovespa estaba en 171,139.10 (−0.54%) y a las 11:42 el S&amp;P/TSX en 36,252 (−0.44%). Los ETF de MSCI bajaban 0.98% en Argentina, 0.41% en Chile y 0.51% en Perú, y el iCOLCAP 0.97%. A las 11:42 el dólar estaba en 993.9 pesos chilenos (+1.20%), 5.64 reales (+1.03%) y 3,312 pesos colombianos (+0.95%); el sol estaba en 3.40 y el peso argentino en 1,544. — Escalona los pagos en dólares desde Brasil y Chile, donde las monedas se debilitan, y cotiza insumos de cobre (−1.5%) antes de que rebote.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-12-mediodia-latam/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>Wall Street se recupera pese a Nvidia: la energía sube 1.3% y el Brent llega a 94.57 dólares</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-12-mediodia-global/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-12-mediodia-global/</guid>
+    <pubDate>Thu, 12 Nov 2026 11:42:00 -0600</pubDate>
+    <category>Mediodía · Global</category>
+    <description>En la apertura el mercado caía por la renuncia de Jensen Huang en Nvidia (−7.7%), con el Treasury de vuelta en 5.06% y el Brent al alza tras los comentarios de Trump sobre Irán. El mercado dio la vuelta: a las 11:42 CDMX el S&amp;P 500 estaba en 7,635.70 (+0.21%), el Dow en 52,683.75 (+0.38%) y el Nasdaq en 25,503.00 (+0.14%); ocho de los 11 sectores del S&amp;P 500 subían, encabezados por la energía (+1.3%), según Reuters. Nvidia recortó su caída a 4.75% (165.47 dólares), mientras AMD ganaba 5.1%, Broadcom más de 6% y Alphabet, Microsoft y Amazon más de 1%. El Treasury a 10 años subía a 5.10%. El Brent estaba en 94.57 dólares (+1.95%) y el WTI en 87.63 (+1.3%); el oro caía 3.1% a 3,876 y el cobre 1.5%. Europa cerró casi plana: Euro Stoxx 50 +0.09% y DAX +0.41%. — Con el Brent en 94.57 dólares y la energía al alza, ajusta los recargos de combustible con base semanal. Con el Treasury en 5.10%, revisa el costo de financiar inventario en dólares. Si compras GPU o servidores de Nvidia, confirma pedidos con tu distribuidor.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-12-mediodia-global/og.png" type="image/png" length="0"/>
+  </item>
   <item>
     <title>El IPC abre con −0.2% por Nvidia y el Treasury; el peso se debilita a 18.63</title>
     <link>https://mrsupplychain.ai/noticias/brief/2026-11-12-apertura-mexico/</link>
@@ -340,33 +367,6 @@
     <category>Apertura · México</category>
     <description>El peso abrió en 18.61 por dólar, con un rango previsto para hoy de 18.52 a 18.75; en la madrugada llegó a 18.555. A las 9:35 CDMX estaba en 18.58. La Bolsa sube: el S&amp;P/BMV IPC ganaba 0.89% a 72,025 puntos y tocó 72,227, su máximo de 52 semanas. El peso se beneficia del dólar débil, de la caída del petróleo y de señales de distensión comercial entre EE. UU. y China. En EE. UU. sigue el caso antidumping y de subsidios contra los carros tanque fabricados en México, con aranceles propuestos de cerca de 32%. — Con el peso en 18.61, cubre hoy una parte de tus pagos en dólares de noviembre y deja el resto para después del CPI del martes. Si exportas equipo ferroviario a EE. UU., revisa con tu agente el estatus del caso de carros tanque.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-09-apertura-mexico/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Las monedas de la región se fortalecen con el dólar débil; el petróleo a la baja pesa en Colombia</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-09-apertura-latam/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-09-apertura-latam/</guid>
-    <pubDate>Mon, 09 Nov 2026 09:35:00 -0600</pubDate>
-    <category>Apertura · LATAM</category>
-    <description>Con datos de las 5:17 CDMX, el peso chileno estaba en 972.7 por dólar (−0.5% el dólar), el real en 5.50, el peso colombiano en 3,237.9 y el sol en 3.44. A las 9:35 CDMX, el Ibovespa subía 0.99% (170,173) y el S&amp;P/TSX de Canadá 1.30% (36,255.65). El dólar débil, el rebote de Asia y la prórroga en Long Beach apoyan a la región. La caída de 3.4% del petróleo favorece a importadores, pero pesa en Petrobras y en el peso colombiano. — Convierte pronto los cobros en monedas locales y deja los pagos para después del CPI del martes. Con el crudo a la baja, pide revisión de recargos de flete en rutas regionales.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-09-apertura-latam/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Wall Street sube con fuerza y el petróleo cae, pero Nvidia baja 4% por la investigación sobre su director</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-09-apertura-global/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-09-apertura-global/</guid>
-    <pubDate>Mon, 09 Nov 2026 09:35:00 -0600</pubDate>
-    <category>Apertura · Global</category>
-    <description>Los futuros anticipaban un rebote tras la peor semana desde junio, y el mercado abrió al alza. A las 9:35 CDMX, el Nasdaq subía 2.46% (25,184.19), el S&amp;P 500 1.92% (7,518.69) y el Dow 1.60% (52,105.38), con AMD +9.4% y Alphabet +3.2% tras presentar dos chips de IA propios. Nvidia abrió con caída de 7.3% porque su consejo investiga a su director, Jensen Huang, y luego recortó a −3.8%. El WTI bajaba 3.4% a 87.74 dólares, el Brent 4.1% a 94.26, el oro subía 1.3% a 4,126 y el Treasury a 10 años estaba en 4.87%. En Asia, el Taiex de Taiwán cerró con +4.9% y el Nikkei de Japón con +2.3% (58,775.50), pero el KOSPI de Corea bajó 0.81% (5,018.85). Europa sube: Euro Stoxx 50 +1.9%, DAX +1.7%, CAC 40 +1.3% y FTSE 100 +0.8%. — Para esta semana: 1) aprovecha la baja del crudo para negociar recargos de combustible con ajuste semanal; 2) usa la prórroga de Long Beach para retirar contenedores antes del 20 de noviembre; 3) espera al CPI del martes antes de cerrar contratos en dólares de largo plazo.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-09-apertura-global/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>El peso empieza la semana cerca de 18.62 tras su mejor semana en dos meses; hoy EE. UU. decide sobre los carros tanque mexicanos</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-09-premercado-mexico/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-09-premercado-mexico/</guid>
-    <pubDate>Mon, 09 Nov 2026 05:15:00 -0600</pubDate>
-    <category>Premercado · México</category>
-    <description>El peso cerró el viernes en 18.62 por dólar y ganó 0.9% en la semana, con lo que rompió una racha de dos meses de pérdidas, pese al recorte de Banxico a 6.25%. El fin de semana se mantuvo cerca de 18.63. En EE. UU., hoy vence el plazo para decidir si se investiga a los carros tanque fabricados en México. El rebote de Asia y la extensión de las pláticas en Long Beach mejoran el ánimo, pero la caída de Nvidia antes de la apertura y el CPI de EE. UU. del martes pueden mover al peso. Con el diferencial de tasas en mínimos, un CPI alto que refuerce el alza de la Fed presionaría al peso. — Si fabricas o compras carros tanque o componentes ferroviarios en México, sigue hoy la decisión de EE. UU.: una investigación podría traer aranceles. Con el peso cerca de 18.62, cubre antes del CPI del martes una parte de tus pagos en dólares de noviembre.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-09-premercado-mexico/og.png" type="image/png" length="0"/>
   </item>
 </channel>
 </rss>
