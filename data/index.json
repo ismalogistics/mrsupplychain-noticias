@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-12-apertura-global",
+   "fecha": "2026-11-12",
+   "momento": "apertura",
+   "mercado": "global",
+   "titular_es": "Jensen Huang renuncia a Nvidia y la acción cae 7.7%; el Treasury vuelve a 5.06% y el oro se desploma 3.2%",
+   "titular_en": "Jensen Huang resigns from Nvidia and the stock falls 7.7%; the Treasury returns to 5.06% and gold slumps 3.2%",
+   "titular_pt": "Jensen Huang renuncia à Nvidia e a ação cai 7,7%; o Treasury volta a 5,06% e o ouro despenca 3,2%"
+  },
+  {
+   "id": "2026-11-12-apertura-latam",
+   "fecha": "2026-11-12",
+   "momento": "apertura",
+   "mercado": "latam",
+   "titular_es": "El Ibovespa cae 1% pese a un IPCA menor a lo esperado; el peso chileno pierde 1.2%",
+   "titular_en": "The Ibovespa falls 1% despite softer-than-expected IPCA; the Chilean peso loses 1.2%",
+   "titular_pt": "O Ibovespa cai 1% apesar do IPCA abaixo do esperado; o peso chileno perde 1,2%"
+  },
+  {
+   "id": "2026-11-12-apertura-mexico",
+   "fecha": "2026-11-12",
+   "momento": "apertura",
+   "mercado": "mexico",
+   "titular_es": "El IPC abre con −0.2% por Nvidia y el Treasury; el peso se debilita a 18.63",
+   "titular_en": "The IPC opens −0.2% on Nvidia and the Treasury; the peso weakens to 18.63",
+   "titular_pt": "O IPC abre com −0,2% pela Nvidia e pelo Treasury; o peso se enfraquece para 18,63"
+  },
+  {
    "id": "2026-11-12-premercado-global",
    "fecha": "2026-11-12",
    "momento": "premercado",
@@ -782,33 +809,6 @@
    "titular_es": "Reabre la BMV con el peso en 18.57 por dólar y la elección de EE. UU. como factor del día; hoy hay subasta de Cetes",
    "titular_en": "The BMV reopens with the peso at 18.57 per dollar and the US election as the day's driver; Cetes auction today",
    "titular_pt": "A BMV reabre com o peso a 18,57 por dólar e a eleição dos EUA como fator do dia; hoje há leilão de Cetes"
-  },
-  {
-   "id": "2026-11-02-cierre-global",
-   "fecha": "2026-11-02",
-   "momento": "cierre",
-   "mercado": "global",
-   "titular_es": "Wall Street cierra dividido: el Dow sube 0.45% por el crudo barato, pero la tecnología hunde al Nasdaq 1.1% antes de Apple",
-   "titular_en": "Wall Street ends split: the Dow gains 0.45% on cheap crude, but tech drags the Nasdaq down 1.1% ahead of Apple",
-   "titular_pt": "Wall Street fecha dividida: o Dow sobe 0,45% com o petróleo barato, mas a tecnologia derruba o Nasdaq em 1,1% antes da Apple"
-  },
-  {
-   "id": "2026-11-02-cierre-latam",
-   "fecha": "2026-11-02",
-   "momento": "cierre",
-   "mercado": "latam",
-   "titular_es": "Chile y Perú encabezan la región con alzas cercanas a 2% y Canadá sube 0.7%; Argentina cae y el real y el peso colombiano se debilitan",
-   "titular_en": "Chile and Peru lead the region with gains near 2% and Canada rises 0.7%; Argentina falls and the real and Colombian peso weaken",
-   "titular_pt": "Chile e Peru lideram a região com altas perto de 2% e o Canadá sobe 0,7%; a Argentina cai e o real e o peso colombiano se enfraquecem"
-  },
-  {
-   "id": "2026-11-02-cierre-mexico",
-   "fecha": "2026-11-02",
-   "momento": "cierre",
-   "mercado": "mexico",
-   "titular_es": "El peso cierra en 18.57 por dólar, su mejor nivel en semanas, en un día sin BMV ni FIX; mañana reabre el mercado local",
-   "titular_en": "The peso closes at 18.57 per dollar, its best level in weeks, on a day with no BMV or FIX; the local market reopens tomorrow",
-   "titular_pt": "O peso fecha a 18,57 por dólar, seu melhor nível em semanas, num dia sem BMV nem FIX; o mercado local reabre amanhã"
   }
  ]
 }

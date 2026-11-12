@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-11-11T21:19:27Z",
- "fecha": "2026-11-11",
+ "actualizado": "2026-11-12T15:13:04Z",
+ "fecha": "2026-11-12",
  "titular": {
-  "es": "Cierre del miércoles: los chips suben 5.7%, el diésel 1.75% y la industria mexicana cae 1.4%",
-  "en": "Wednesday close: chips rise 5.7%, diesel 1.75% and Mexican industry falls 1.4%",
-  "pt": "Fechamento de quarta: os chips sobem 5,7%, o diesel 1,75% e a indústria mexicana cai 1,4%"
+  "es": "Jueves: Jensen Huang deja Nvidia, el crudo sube por Irán y los metales caen con el Treasury en 5%",
+  "en": "Thursday: Jensen Huang leaves Nvidia, crude rises on Iran and metals fall with the Treasury at 5%",
+  "pt": "Quinta: Jensen Huang deixa a Nvidia, o petróleo sobe pelo Irã e os metais caem com o Treasury em 5%"
  },
  "items": [
   {
    "id": "semis",
-   "dir": "up",
+   "dir": "down",
    "calor": 3,
    "mx": false,
    "latam": false,
@@ -17,38 +17,69 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Los chips cierran con +5.7%: CoreWeave +26.7%, Micron +11.9% y Nvidia +3.3%",
-    "en": "Chips close up 5.7%: CoreWeave +26.7%, Micron +11.9% and Nvidia +3.3%",
-    "pt": "Os chips fecham com +5,7%: CoreWeave +26,7%, Micron +11,9% e Nvidia +3,3%"
+    "es": "Jensen Huang renuncia a Nvidia; Colette Kress será directora interina y la acción cae 7.7%",
+    "en": "Jensen Huang resigns from Nvidia; Colette Kress will be interim CEO and the stock falls 7.7%",
+    "pt": "Jensen Huang renuncia à Nvidia; Colette Kress será CEO interina e a ação cai 7,7%"
    },
    "x": {
-    "es": "El índice de semiconductores de Filadelfia cerró con +5.7% y todos sus componentes al alza; AMD ganó 7.3%. CoreWeave subió su pronóstico de ingresos de 2026 a entre 13,000 y 13,300 millones de dólares y dijo que será rentable en la primera mitad de 2028.",
-    "en": "The Philadelphia semiconductor index closed +5.7% with every component higher; AMD gained 7.3%. CoreWeave raised its 2026 revenue forecast to $13 billion to $13.3 billion and said it will be profitable in the first half of 2028.",
-    "pt": "O índice de semicondutores da Filadélfia fechou com +5,7% e todos os componentes em alta; a AMD ganhou 7,3%. A CoreWeave elevou sua previsão de receita de 2026 para entre 13 e 13,3 bilhões de dólares e disse que será lucrativa no primeiro semestre de 2028."
+    "es": "Nvidia informó que Huang renunció como presidente, director general y consejero con efecto inmediato, tras reportes de prensa sobre su conducta personal; su jefa de finanzas, Colette Kress, lo sustituye en forma interina. A las 9:10 CDMX la acción caía 7.7% a 160.28 dólares, Micron 5.4% e Intel cerca de 4%; AMD subía.",
+    "en": "Nvidia said Huang resigned as president, CEO and director effective immediately, following press reports about his personal conduct; CFO Colette Kress replaces him on an interim basis. At 10:10 a.m. ET the stock was down 7.7% at $160.28, Micron 5.4% and Intel nearly 4%; AMD rose.",
+    "pt": "A Nvidia informou que Huang renunciou como presidente, CEO e conselheiro com efeito imediato, após reportagens sobre sua conduta pessoal; a diretora financeira, Colette Kress, o substitui de forma interina. Às 9h10 (Cidade do México) a ação caía 7,7% para 160,28 dólares, a Micron 5,4% e a Intel quase 4%; a AMD subia."
    },
    "scm": {
-    "es": "La demanda de cómputo supera la capacidad: asegura hoy volúmenes de memoria y almacenamiento para el primer trimestre.",
-    "en": "Compute demand outruns capacity: secure memory and storage volumes for the first quarter today.",
-    "pt": "A demanda por computação supera a capacidade: garanta hoje volumes de memória e armazenamento para o primeiro trimestre."
+    "es": "Confirma hoy con tu distribuidor pedidos abiertos y fechas de entrega de GPU y servidores, y califica una alternativa.",
+    "en": "Confirm open orders and delivery dates for GPUs and servers with your distributor today, and qualify an alternative.",
+    "pt": "Confirme hoje com seu distribuidor pedidos abertos e datas de entrega de GPUs e servidores, e qualifique uma alternativa."
    },
    "fuentes": [
     {
-     "t": "Reuters vía Yahoo Finance: las bolsas cierran al alza porque CoreWeave calma las dudas sobre el gasto en IA (11 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-104431138.html"
+     "t": "Yahoo Finance: Nvidia en vivo, Jensen Huang renuncia y Colette Kress será directora interina (12 nov 2026)",
+     "u": "https://finance.yahoo.com/technology/live/nvidia-live-updates-jensen-huang-resigns-cfo-colette-kress-to-serve-as-interim-ceo-140341430.html"
     },
     {
-     "t": "Yahoo Finance: Nvidia rebota y los chips suben por los resultados de CoreWeave (11 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/article/nvidia-stock-rebounds-chip-stocks-surge-as-coreweave-earnings-boost-ai-trade-151001136.html"
+     "t": "Yahoo Finance: S&P 500 y Nasdaq caen tras la renuncia de Jensen Huang en Nvidia (12 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
+    }
+   ]
+  },
+  {
+   "id": "software",
+   "dir": "down",
+   "calor": 2,
+   "mx": false,
+   "latam": false,
+   "es": "Software e IA para supply chain",
+   "en": "Software and AI for supply chain",
+   "pt": "Software e IA para supply chain",
+   "titular": {
+    "es": "La infraestructura de IA cae con Nvidia: Nebius −20.4% y CoreWeave −10.5%",
+    "en": "AI infrastructure falls with Nvidia: Nebius −20.4% and CoreWeave −10.5%",
+    "pt": "A infraestrutura de IA cai com a Nvidia: Nebius −20,4% e CoreWeave −10,5%"
+   },
+   "x": {
+    "es": "Las empresas de nube para IA borran parte del rebote del miércoles: a las 9:10 CDMX Nebius caía 20.4% y CoreWeave 10.5%, que el día anterior había subido 26.7% por sus resultados. Yahoo Finance señala que la turbulencia presiona también el debut en bolsa de Anthropic, previsto para la próxima semana.",
+    "en": "AI cloud companies erase part of Wednesday's rebound: at 10:10 a.m. ET Nebius was down 20.4% and CoreWeave 10.5%, after rising 26.7% the day before on its results. Yahoo Finance notes the turmoil also adds pressure on Anthropic's stock market debut, planned for next week.",
+    "pt": "As empresas de nuvem para IA apagam parte da recuperação de quarta: às 9h10 (Cidade do México) a Nebius caía 20,4% e a CoreWeave 10,5%, depois de subir 26,7% no dia anterior pelos resultados. O Yahoo Finance aponta que a turbulência também pressiona a estreia na bolsa da Anthropic, prevista para a próxima semana."
+   },
+   "scm": {
+    "es": "Si vas a contratar nube o cómputo para planeación con IA, pide precio fijo a plazo y cláusulas de continuidad del servicio.",
+    "en": "If you plan to buy cloud or compute for AI planning, ask for fixed term pricing and service-continuity clauses.",
+    "pt": "Se você vai contratar nuvem ou computação para planejamento com IA, peça preço fixo a prazo e cláusulas de continuidade do serviço."
+   },
+   "fuentes": [
+    {
+     "t": "Yahoo Finance: S&P 500 y Nasdaq caen tras la renuncia de Jensen Huang en Nvidia (12 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
     },
     {
-     "t": "TIKR vía Yahoo Finance: AMD sube 4% por el pronóstico de CoreWeave (11 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/amd-rises-4-coreweave-raised-150051550.html"
+     "t": "Yahoo Finance: índices, divisas y materias primas (12 nov 2026, 09:10 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   {
    "id": "energia",
-   "dir": "mixed",
+   "dir": "up",
    "calor": 3,
    "mx": true,
    "latam": true,
@@ -56,28 +87,28 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo modera su alza (Brent +1.1%), pero el diésel cierra con +1.75%",
-    "en": "Crude pares its gain (Brent +1.1%), but diesel closes up 1.75%",
-    "pt": "O petróleo modera a alta (Brent +1,1%), mas o diesel fecha com +1,75%"
+    "es": "Trump: \"No necesitamos un acuerdo con Irán\"; el Brent sube 1% a 93.71 dólares",
+    "en": "Trump: \"We don't need a deal with Iran\"; Brent rises 1% to $93.71",
+    "pt": "Trump: \"Não precisamos de um acordo com o Irã\"; o Brent sobe 1% para 93,71 dólares"
    },
    "x": {
-    "es": "El WTI cerró cerca de 86.38 dólares (+0.4%) y el Brent de 92.53 (+1.1%), lejos de las alzas de más de 2% de la mañana tras los comentarios de Irán sobre su material nuclear. El futuro del diésel subió 1.75% a 4.20 dólares por galón.",
-    "en": "WTI closed near $86.38 (+0.4%) and Brent near $92.53 (+1.1%), well off the morning's gains of more than 2% after Iran's comments on its nuclear material. Diesel futures rose 1.75% to $4.20 per gallon.",
-    "pt": "O WTI fechou perto de 86,38 dólares (+0,4%) e o Brent de 92,53 (+1,1%), longe das altas de mais de 2% da manhã depois dos comentários do Irã sobre seu material nuclear. O futuro do diesel subiu 1,75% para 4,20 dólares por galão."
+    "es": "El crudo revirtió sus bajas de la madrugada después del mensaje de Trump; a las 8:59 CDMX el Brent estaba en 93.71 dólares (+1.0%) y el WTI en 86.68 (+0.2%). La OPEP+ elevó su producción en octubre y hoy salen los inventarios de la EIA, retrasados por el feriado.",
+    "en": "Crude reversed its overnight losses after Trump's message; at 9:59 a.m. ET Brent was at $93.71 (+1.0%) and WTI at $86.68 (+0.2%). OPEC+ raised output in October and EIA inventories, delayed by the holiday, come out today.",
+    "pt": "O petróleo reverteu as quedas da madrugada depois da mensagem de Trump; às 8h59 (Cidade do México) o Brent estava a 93,71 dólares (+1,0%) e o WTI a 86,68 (+0,2%). A OPEP+ elevou a produção em outubro e hoje saem os estoques da EIA, adiados pelo feriado."
    },
    "scm": {
-    "es": "Fija recargos de combustible con ajuste semanal: el crudo ya rebota.",
-    "en": "Set fuel surcharges with weekly adjustment: crude is already rebounding.",
-    "pt": "Fixe sobretaxas de combustível com ajuste semanal: o petróleo já está se recuperando."
+    "es": "Espera el dato de la EIA antes de fijar recargos de combustible de la próxima semana y pide ajuste semanal.",
+    "en": "Wait for EIA data before setting next week's fuel surcharges and ask for weekly adjustment.",
+    "pt": "Espere o dado da EIA antes de fixar as sobretaxas de combustível da próxima semana e peça ajuste semanal."
    },
    "fuentes": [
     {
-     "t": "Reuters vía Yahoo Finance: el petróleo sube porque Irán conservará su material nuclear (11 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-rebounds-hormuz-shipping-attacks-045504059.html"
+     "t": "Reuters vía Yahoo Finance: el petróleo sube por los riesgos geopolíticos (12 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-falls-over-1-easing-045152522.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas al cierre (11 nov 2026, 15:16 CDMX)",
-     "u": "https://finance.yahoo.com/markets/"
+     "t": "Yahoo Finance: S&P 500 y Nasdaq caen tras la renuncia de Jensen Huang en Nvidia (12 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
     }
    ]
   },
@@ -91,14 +122,14 @@
    "en": "Maritime and ports",
    "pt": "Marítimo e portos",
    "titular": {
-    "es": "Más ataques a tanqueros en Ormuz: un buque golpeado frente a Omán y dos incendiados por minas",
-    "en": "More tanker attacks in Hormuz: one ship hit off Oman and two set ablaze by mines",
-    "pt": "Mais ataques a petroleiros em Ormuz: um navio atingido perto de Omã e dois incendiados por minas"
+    "es": "Dos superpetroleros quedan inutilizados por minas en Ormuz",
+    "en": "Two supertankers disabled by mines in Hormuz",
+    "pt": "Dois superpetroleiros ficam inutilizados por minas em Ormuz"
    },
    "x": {
-    "es": "El martes un tanquero fue atacado al noreste de Lima, Omán, según la UKMTO, y la Guardia Revolucionaria de Irán dijo que dos tanqueros se incendiaron por minas. LSEG advierte que, aun con un acuerdo, el tránsito dependerá del desminado, del costo de los seguros y de que los navieros acepten el riesgo.",
-    "en": "On Tuesday a tanker was attacked northeast of Lima, Oman, according to UKMTO, and Iran's Revolutionary Guards said two tankers caught fire after hitting mines. LSEG warns that even with a deal, traffic will depend on mine clearance, insurance costs and shipowners' willingness to take the risk.",
-    "pt": "Na terça um petroleiro foi atacado a nordeste de Lima, Omã, segundo a UKMTO, e a Guarda Revolucionária do Irã disse que dois petroleiros pegaram fogo por minas. A LSEG alerta que, mesmo com acordo, o trânsito dependerá da remoção de minas, do custo dos seguros e de os armadores aceitarem o risco."
+    "es": "La Guardia Revolucionaria de Irán dijo que dos superpetroleros quedaron inutilizados por explosiones al chocar con minas el miércoles en la noche, tras ignorar advertencias de no usar una \"ruta no autorizada\" en el estrecho de Ormuz, según Reuters. Siguen buques en llamas, derrames y ataques a infraestructura en la zona.",
+    "en": "Iran's Revolutionary Guards said two supertankers were disabled by explosions after hitting mines on Wednesday night, having ignored warnings not to use an \"unauthorized route\" in the Strait of Hormuz, according to Reuters. Burning ships, spills and attacks on infrastructure continue in the area.",
+    "pt": "A Guarda Revolucionária do Irã disse que dois superpetroleiros ficaram inutilizados por explosões ao atingir minas na quarta à noite, depois de ignorar avisos para não usar uma \"rota não autorizada\" no estreito de Ormuz, segundo a Reuters. Continuam navios em chamas, vazamentos e ataques à infraestrutura na região."
    },
    "scm": {
     "es": "Confirma primas de seguro de guerra y tiempos de tránsito en rutas del Golfo, y agrega colchón a los envíos de Asia que pasan por Medio Oriente.",
@@ -107,8 +138,39 @@
    },
    "fuentes": [
     {
-     "t": "Reuters vía Yahoo Finance: el petróleo sube 1% tras declaraciones de Irán; ataques en Ormuz (11 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-rebounds-hormuz-shipping-attacks-045504059.html"
+     "t": "Reuters vía Yahoo Finance: el petróleo sube por los riesgos geopolíticos (12 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-falls-over-1-easing-045152522.html"
+    }
+   ]
+  },
+  {
+   "id": "mineria",
+   "dir": "down",
+   "calor": 2,
+   "mx": true,
+   "latam": true,
+   "es": "Minería y metales",
+   "en": "Mining and metals",
+   "pt": "Mineração e metais",
+   "titular": {
+    "es": "El oro cae 3.2%, la plata 3.8% y el cobre 2.0% con el Treasury en 5.06%",
+    "en": "Gold falls 3.2%, silver 3.8% and copper 2.0% with the Treasury at 5.06%",
+    "pt": "O ouro cai 3,2%, a prata 3,8% e o cobre 2,0% com o Treasury em 5,06%"
+   },
+   "x": {
+    "es": "A las 9:00 CDMX el oro estaba en 3,873 dólares la onza (−3.2%), la plata en 50.02 (−3.8%) y el cobre en 6.17 dólares por libra (−2.0%), con el dólar más firme (DXY +0.1%) y el Treasury a 10 años en 5.06% al reabrir el mercado de bonos.",
+    "en": "At 10:00 a.m. ET gold was at $3,873 an ounce (−3.2%), silver at $50.02 (−3.8%) and copper at $6.17 per pound (−2.0%), with a firmer dollar (DXY +0.1%) and the 10-year Treasury at 5.06% as the bond market reopened.",
+    "pt": "Às 9h (Cidade do México) o ouro estava a 3.873 dólares a onça (−3,2%), a prata a 50,02 (−3,8%) e o cobre a 6,17 dólares por libra (−2,0%), com o dólar mais firme (DXY +0,1%) e o Treasury de 10 anos em 5,06% na reabertura do mercado de títulos."
+   },
+   "scm": {
+    "es": "Aprovecha la baja para cotizar cable, conectores y componentes con cobre o plata para el primer trimestre.",
+    "en": "Use the dip to quote cable, connectors and copper or silver components for the first quarter.",
+    "pt": "Aproveite a queda para cotar cabos, conectores e componentes com cobre ou prata para o primeiro trimestre."
+   },
+   "fuentes": [
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (12 nov 2026, 09:10 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
@@ -140,72 +202,6 @@
     {
      "t": "EFE vía Infobae: la producción industrial de México sube 1.3% anual en septiembre (11 nov 2026)",
      "u": "https://www.infobae.com/america/agencias/2026/11/11/la-produccion-industrial-de-mexico-se-eleva-un-13-interanual-en-septiembre/"
-    }
-   ]
-  },
-  {
-   "id": "software",
-   "dir": "up",
-   "calor": 2,
-   "mx": false,
-   "latam": false,
-   "es": "Software e IA para supply chain",
-   "en": "Software and AI for supply chain",
-   "pt": "Software e IA para supply chain",
-   "titular": {
-    "es": "CoreWeave: \"la demanda de cómputo crece más rápido que la capacidad\"; su cartera llega a 132,500 millones",
-    "en": "CoreWeave: \"compute demand is growing faster than capacity\"; its backlog reaches $132.5 billion",
-    "pt": "CoreWeave: \"a demanda por computação cresce mais rápido que a capacidade\"; sua carteira chega a 132,5 bilhões"
-   },
-   "x": {
-    "es": "El director de CoreWeave dijo que la demanda de cómputo crece más rápido que la capacidad para entregarla y que los márgenes de cada contrato nuevo se amplían. Su cartera pasó de unos 104,000 millones en junio a 132,500 millones; la acción subía 19.8%.",
-    "en": "CoreWeave's CEO said demand for compute is growing faster than the capacity to deliver it and margins on each new contract are expanding. Its backlog rose from about $104 billion in June to $132.5 billion; the stock was up 19.8%.",
-    "pt": "O CEO da CoreWeave disse que a demanda por computação cresce mais rápido que a capacidade de entregá-la e que as margens de cada contrato novo se ampliam. Sua carteira passou de cerca de 104 bilhões em junho para 132,5 bilhões; a ação subia 19,8%."
-   },
-   "scm": {
-    "es": "Si vas a contratar cómputo o nube para planeación con IA, negocia precio y capacidad a plazo: la oferta sigue apretada.",
-    "en": "If you plan to buy compute or cloud for AI planning, lock in price and capacity on term contracts: supply remains tight.",
-    "pt": "Se você vai contratar computação ou nuvem para planejamento com IA, negocie preço e capacidade a prazo: a oferta segue apertada."
-   },
-   "fuentes": [
-    {
-     "t": "Yahoo Finance: Nvidia rebota y los chips suben por los resultados de CoreWeave (11 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/article/nvidia-stock-rebounds-chip-stocks-surge-as-coreweave-earnings-boost-ai-trade-151001136.html"
-    },
-    {
-     "t": "TIKR vía Yahoo Finance: AMD sube 4% por el pronóstico de CoreWeave (11 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/amd-rises-4-coreweave-raised-150051550.html"
-    }
-   ]
-  },
-  {
-   "id": "autotransporte",
-   "dir": "up",
-   "calor": 3,
-   "mx": true,
-   "latam": false,
-   "es": "Autotransporte",
-   "en": "Trucking",
-   "pt": "Transporte rodoviário",
-   "titular": {
-    "es": "El diésel en EE. UU. sigue en 6.16 dólares por galón aunque la gasolina bajó de 4",
-    "en": "US diesel stays at $6.16 a gallon even as gasoline falls below $4",
-    "pt": "O diesel nos EUA segue em 6,16 dólares por galão, embora a gasolina tenha caído abaixo de 4"
-   },
-   "x": {
-    "es": "La gasolina promedio bajó a 3.98 dólares por galón, la primera vez abajo de 4 desde julio, pero el diésel está en 6.16 (3.74 hace un año) porque las exportaciones de combustible de Medio Oriente siguen por debajo de antes de la guerra.",
-    "en": "Average gasoline fell to $3.98 a gallon, below $4 for the first time since July, but diesel is at $6.16 ($3.74 a year ago) because Middle East fuel exports remain below pre-war levels.",
-    "pt": "A gasolina média caiu para 3,98 dólares por galão, abaixo de 4 pela primeira vez desde julho, mas o diesel está em 6,16 (3,74 há um ano) porque as exportações de combustível do Oriente Médio seguem abaixo de antes da guerra."
-   },
-   "scm": {
-    "es": "Negocia que el recargo de combustible de tus fletes se calcule con el índice semanal de diésel, no con el precio del crudo.",
-    "en": "Negotiate fuel surcharges based on the weekly diesel index, not crude prices.",
-    "pt": "Negocie que a sobretaxa de combustível dos fretes seja calculada com o índice semanal do diesel, não com o preço do petróleo."
-   },
-   "fuentes": [
-    {
-     "t": "Oilprice.com: la gasolina en EE. UU. baja de 4 dólares por galón; el diésel sigue arriba de 6 (10 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/average-u-gasoline-price-dips-160000575.html"
     }
    ]
   }

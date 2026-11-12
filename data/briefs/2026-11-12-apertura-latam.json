@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-12-apertura-latam",
+ "fecha": "2026-11-12",
+ "momento": "apertura",
+ "mercado": "latam",
+ "hora": "09:10 CDMX",
+ "es": {
+  "titular": "El Ibovespa cae 1% pese a un IPCA menor a lo esperado; el peso chileno pierde 1.2%",
+  "esencial": [
+   "El IPCA de Brasil subió 0.14% en octubre, debajo del 0.25% esperado; la inflación anual bajó a 4.63%.",
+   "A las 8:55 CDMX el Ibovespa caía 1.04% (170,272.58) y a las 9:10 el S&P/TSX 0.80%.",
+   "El cobre cae 2.0%: cotiza hoy insumos de cobre y escalona los pagos en dólares con las monedas débiles."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 8:55 CDMX el Ibovespa caía 1.04% a 170,272.58 y a las 9:10 el S&P/TSX 0.80% (36,121.47). Los ETF de MSCI bajaban 2.61% en Argentina, 1.25% en Perú y 0.60% en Chile, y el iCOLCAP 0.52%. En monedas, a las 9:10 CDMX el dólar subía 1.17% frente al peso chileno (993.5), 0.71% frente al real (5.62) y 0.67% frente al peso colombiano (3,302); el sol estaba en 3.40 y el peso argentino en 1,543.5."
+   },
+   {
+    "t": "Contexto",
+    "x": "El IPCA de Brasil subió 0.14% en octubre, debajo del 0.25% que esperaban los analistas de Reuters, y la inflación a 12 meses bajó a 4.63%. Aun así, la región cae por la renuncia de Jensen Huang en Nvidia, el Treasury en 5.06% y el cobre −2.0% (6.17 dólares por libra)."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Con la inflación de Brasil debajo de lo esperado, el mercado discutirá el ritmo de recortes del Copom. Más tarde salen los inventarios de crudo de la EIA."
+   }
+  ],
+  "scm": "Cotiza insumos de cobre con el precio a la baja y escalona los pagos en dólares: el peso chileno y el real se debilitan. En Brasil, la inflación menor a lo esperado ayuda a negociar contratos indexados."
+ },
+ "en": {
+  "titular": "The Ibovespa falls 1% despite softer-than-expected IPCA; the Chilean peso loses 1.2%",
+  "esencial": [
+   "Brazil's IPCA rose 0.14% in October, below the 0.25% expected; annual inflation fell to 4.63%.",
+   "At 8:55 a.m. Mexico City time the Ibovespa was down 1.04% (170,272.58) and at 9:10 the S&P/TSX 0.80%.",
+   "Copper falls 2.0%: quote copper inputs today and stagger dollar payments as currencies weaken."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "At 8:55 a.m. Mexico City time the Ibovespa was down 1.04% at 170,272.58 and at 9:10 the S&P/TSX 0.80% (36,121.47). The MSCI ETFs fell 2.61% for Argentina, 1.25% for Peru and 0.60% for Chile, and the iCOLCAP 0.52%. In currencies, at 9:10 a.m. the dollar rose 1.17% against the Chilean peso (993.5), 0.71% against the real (5.62) and 0.67% against the Colombian peso (3,302); the sol was at 3.40 and the Argentine peso at 1,543.5."
+   },
+   {
+    "t": "Context",
+    "x": "Brazil's IPCA rose 0.14% in October, below the 0.25% analysts polled by Reuters expected, and 12-month inflation fell to 4.63%. Still, the region falls on Jensen Huang's resignation at Nvidia, the Treasury at 5.06% and copper −2.0% ($6.17 per pound)."
+   },
+   {
+    "t": "What to expect today",
+    "x": "With Brazil's inflation below expectations, the market will debate the pace of Copom cuts. EIA crude inventories come out later."
+   }
+  ],
+  "scm": "Quote copper inputs while prices dip and stagger dollar payments: the Chilean peso and the real are weakening. In Brazil, softer inflation helps when negotiating indexed contracts."
+ },
+ "pt": {
+  "titular": "O Ibovespa cai 1% apesar do IPCA abaixo do esperado; o peso chileno perde 1,2%",
+  "esencial": [
+   "O IPCA subiu 0,14% em outubro, abaixo dos 0,25% esperados; a inflação em 12 meses caiu para 4,63%.",
+   "Às 8h55 (Cidade do México) o Ibovespa caía 1,04% (170.272,58) e às 9h10 o S&P/TSX 0,80%.",
+   "O cobre cai 2,0%: cote hoje insumos de cobre e escalone os pagamentos em dólares com as moedas fracas."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 8h55 (Cidade do México) o Ibovespa caía 1,04% para 170.272,58 e às 9h10 o S&P/TSX 0,80% (36.121,47). Os ETFs da MSCI caíam 2,61% na Argentina, 1,25% no Peru e 0,60% no Chile, e o iCOLCAP 0,52%. Nas moedas, às 9h10 o dólar subia 1,17% frente ao peso chileno (993,5), 0,71% frente ao real (R$ 5,62) e 0,67% frente ao peso colombiano (3.302); o sol estava em 3,40 e o peso argentino em 1.543,5."
+   },
+   {
+    "t": "Contexto",
+    "x": "O IPCA subiu 0,14% em outubro, abaixo dos 0,25% esperados pelos analistas consultados pela Reuters, e a inflação em 12 meses caiu para 4,63%. Mesmo assim, a região cai pela renúncia de Jensen Huang na Nvidia, pelo Treasury em 5,06% e pelo cobre −2,0% (6,17 dólares por libra)."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Com a inflação do Brasil abaixo do esperado, o mercado vai discutir o ritmo de cortes do Copom. Mais tarde saem os estoques de petróleo da EIA."
+   }
+  ],
+  "scm": "Cote insumos de cobre com o preço em queda e escalone os pagamentos em dólares: o peso chileno e o real se enfraquecem. No Brasil, a inflação menor que o esperado ajuda a negociar contratos indexados."
+ },
+ "fuentes": [
+  {
+   "t": "InfoMoney: el IPCA sube 0.14% en octubre, debajo de lo esperado (12 nov 2026)",
+   "u": "https://www.infomoney.com.br/economia/ipca-inflacao-outubro-2026-dados-ibge/"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (12 nov 2026, 09:10 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

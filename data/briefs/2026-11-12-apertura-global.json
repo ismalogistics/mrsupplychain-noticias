@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-12-apertura-global",
+ "fecha": "2026-11-12",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:10 CDMX",
+ "es": {
+  "titular": "Jensen Huang renuncia a Nvidia y la acción cae 7.7%; el Treasury vuelve a 5.06% y el oro se desploma 3.2%",
+  "esencial": [
+   "Nvidia anunció la renuncia de su director, Jensen Huang, con efecto inmediato y nombró directora interina a su jefa de finanzas, Colette Kress; a las 9:10 CDMX la acción caía 7.7%.",
+   "El S&P 500 bajaba 0.49% y el Nasdaq 0.82%; al reabrir, el Treasury a 10 años subió a 5.06% y el oro caía 3.2%.",
+   "Para supply chain: si compras GPU o servidores de Nvidia, confirma pedidos y fechas con tu distribuidor; el Brent sube 1% a 93.71 dólares."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "Los futuros ya anticipaban caídas por Nvidia y se cumplió: al abrir el S&P 500 bajaba 0.3% y el Nasdaq 0.6%. Nvidia anunció en la mañana que Jensen Huang renunció como presidente, director general y miembro del consejo, con efecto inmediato, y que su jefa de finanzas, Colette Kress, será directora interina. A las 9:10 CDMX la acción caía 7.7% (160.28 dólares), CoreWeave 10.5%, Nebius 20.4% y Micron 5.4%, mientras AMD subía. El S&P 500 estaba en 7,582.41 (−0.49%), el Nasdaq en 25,257.12 (−0.82%) y el Dow en 52,447.04 (−0.08%); el VIX subía a 18.18. Al reabrir el mercado de bonos, el Treasury a 10 años subió a 5.06%. Las solicitudes de subsidio por desempleo subieron a 200,000 (191,000 la semana previa; se esperaban 195,000). El Brent estaba en 93.71 dólares (+1.0%) y el WTI en 86.68 (+0.2%), tras escribir Trump que \"no necesitamos un acuerdo con Irán\"; el oro caía 3.2% a 3,873 y la plata 3.8%."
+   },
+   {
+    "t": "Asia y Europa",
+    "x": "Asia cerró a la baja: Nikkei −0.70% (60,819.36), KOSPI −0.61% (5,342.73), Hang Seng −2.23% y Shanghái −0.22%. A las 8:55 CDMX Europa estaba mixta: Euro Stoxx 50 −0.04%, DAX +0.26%, CAC 40 +0.31% y FTSE 100 +0.06%."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Más tarde salen los inventarios de crudo de la EIA, retrasados por el Día de los Veteranos (el API reportó +9 millones de barriles). Después del cierre reporta Applied Materials, clave para el equipo de fabricación de chips. El viernes 13 sale el PPI de octubre (7:30 CDMX)."
+   }
+  ],
+  "scm": "Si dependes de GPU o servidores de Nvidia, confirma hoy pedidos abiertos y fechas de entrega con tu distribuidor y ten una alternativa calificada. Con el Treasury otra vez arriba de 5%, revisa el costo de financiar inventario y espera el dato de la EIA antes de fijar recargos de combustible."
+ },
+ "en": {
+  "titular": "Jensen Huang resigns from Nvidia and the stock falls 7.7%; the Treasury returns to 5.06% and gold slumps 3.2%",
+  "esencial": [
+   "Nvidia announced the immediate resignation of CEO Jensen Huang and named CFO Colette Kress interim CEO; at 10:10 a.m. ET the stock was down 7.7%.",
+   "The S&P 500 was down 0.49% and the Nasdaq 0.82%; as bonds reopened, the 10-year Treasury rose to 5.06% and gold fell 3.2%.",
+   "For supply chain: if you buy Nvidia GPUs or servers, confirm orders and dates with your distributor; Brent rises 1% to $93.71."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "Futures already pointed to losses on Nvidia and they came: at the open the S&P 500 fell 0.3% and the Nasdaq 0.6%. Nvidia announced in the morning that Jensen Huang resigned as president, CEO and board member, effective immediately, and that CFO Colette Kress will serve as interim CEO. At 10:10 a.m. ET the stock was down 7.7% ($160.28), CoreWeave 10.5%, Nebius 20.4% and Micron 5.4%, while AMD rose. The S&P 500 stood at 7,582.41 (−0.49%), the Nasdaq at 25,257.12 (−0.82%) and the Dow at 52,447.04 (−0.08%); the VIX rose to 18.18. As the bond market reopened, the 10-year Treasury rose to 5.06%. Jobless claims rose to 200,000 (191,000 the prior week; 195,000 expected). Brent was at $93.71 (+1.0%) and WTI at $86.68 (+0.2%), after Trump wrote that \"we don't need a deal with Iran\"; gold fell 3.2% to $3,873 and silver 3.8%."
+   },
+   {
+    "t": "Asia and Europe",
+    "x": "Asia closed lower: Nikkei −0.70% (60,819.36), KOSPI −0.61% (5,342.73), Hang Seng −2.23% and Shanghai −0.22%. At 9:55 a.m. ET Europe was mixed: Euro Stoxx 50 −0.04%, DAX +0.26%, CAC 40 +0.31% and FTSE 100 +0.06%."
+   },
+   {
+    "t": "What to expect today",
+    "x": "EIA crude inventories come out later, delayed by Veterans Day (the API reported +9 million barrels). Applied Materials, key for chipmaking equipment, reports after the close. October PPI comes out Friday the 13th (8:30 a.m. ET)."
+   }
+  ],
+  "scm": "If you rely on Nvidia GPUs or servers, confirm open orders and delivery dates with your distributor today and keep a qualified alternative. With the Treasury back above 5%, review the cost of financing inventory and wait for EIA data before setting fuel surcharges."
+ },
+ "pt": {
+  "titular": "Jensen Huang renuncia à Nvidia e a ação cai 7,7%; o Treasury volta a 5,06% e o ouro despenca 3,2%",
+  "esencial": [
+   "A Nvidia anunciou a renúncia imediata do CEO, Jensen Huang, e nomeou a diretora financeira, Colette Kress, CEO interina; às 9h10 (Cidade do México) a ação caía 7,7%.",
+   "O S&P 500 caía 0,49% e o Nasdaq 0,82%; na reabertura do mercado de títulos, o Treasury de 10 anos subiu para 5,06% e o ouro caía 3,2%.",
+   "Para supply chain: se você compra GPUs ou servidores da Nvidia, confirme pedidos e datas com seu distribuidor; o Brent sobe 1% para 93,71 dólares."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Os futuros já antecipavam quedas pela Nvidia e elas vieram: na abertura o S&P 500 caía 0,3% e o Nasdaq 0,6%. A Nvidia anunciou pela manhã que Jensen Huang renunciou como presidente, CEO e membro do conselho, com efeito imediato, e que a diretora financeira, Colette Kress, será CEO interina. Às 9h10 (Cidade do México) a ação caía 7,7% (160,28 dólares), a CoreWeave 10,5%, a Nebius 20,4% e a Micron 5,4%, enquanto a AMD subia. O S&P 500 estava em 7.582,41 (−0,49%), o Nasdaq em 25.257,12 (−0,82%) e o Dow em 52.447,04 (−0,08%); o VIX subia para 18,18. Na reabertura do mercado de títulos, o Treasury de 10 anos subiu para 5,06%. Os pedidos de auxílio-desemprego subiram para 200 mil (191 mil na semana anterior; esperavam-se 195 mil). O Brent estava a 93,71 dólares (+1,0%) e o WTI a 86,68 (+0,2%), depois de Trump escrever que \"não precisamos de um acordo com o Irã\"; o ouro caía 3,2% para 3.873 e a prata 3,8%."
+   },
+   {
+    "t": "Ásia e Europa",
+    "x": "A Ásia fechou em queda: Nikkei −0,70% (60.819,36), KOSPI −0,61% (5.342,73), Hang Seng −2,23% e Xangai −0,22%. Às 8h55 (Cidade do México) a Europa estava mista: Euro Stoxx 50 −0,04%, DAX +0,26%, CAC 40 +0,31% e FTSE 100 +0,06%."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Mais tarde saem os estoques de petróleo da EIA, adiados pelo Dia dos Veteranos (o API reportou +9 milhões de barris). Depois do fechamento divulga resultados a Applied Materials, chave para equipamentos de fabricação de chips. Na sexta, dia 13, sai o PPI de outubro (7h30, Cidade do México)."
+   }
+  ],
+  "scm": "Se você depende de GPUs ou servidores da Nvidia, confirme hoje pedidos abertos e datas de entrega com seu distribuidor e tenha uma alternativa qualificada. Com o Treasury de novo acima de 5%, revise o custo de financiar estoque e espere o dado da EIA antes de fixar sobretaxas de combustível."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: S&P 500 y Nasdaq caen tras la renuncia de Jensen Huang en Nvidia (12 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
+  },
+  {
+   "t": "Yahoo Finance: Nvidia en vivo, Jensen Huang renuncia y Colette Kress será directora interina (12 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/live/nvidia-live-updates-jensen-huang-resigns-cfo-colette-kress-to-serve-as-interim-ceo-140341430.html"
+  },
+  {
+   "t": "Reuters vía Yahoo Finance: el petróleo sube por los riesgos geopolíticos (12 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-falls-over-1-easing-045152522.html"
+  },
+  {
+   "t": "Seoul Economic Daily: las solicitudes de subsidio por desempleo en EE. UU. suben a 200,000 (12 nov 2026)",
+   "u": "https://en.sedaily.com/world/2026/11/12/us-jobless-claims-rise-to-200000-topping-forecasts"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (12 nov 2026, 09:10 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-12-apertura-mexico",
+ "fecha": "2026-11-12",
+ "momento": "apertura",
+ "mercado": "mexico",
+ "hora": "09:10 CDMX",
+ "es": {
+  "titular": "El IPC abre con −0.2% por Nvidia y el Treasury; el peso se debilita a 18.63",
+  "esencial": [
+   "A las 8:50 CDMX el IPC bajaba 0.19% (71,866.44) y a las 9:10 el peso estaba en 18.63 por dólar (+0.26% el dólar).",
+   "El FIX determinado por Banxico el miércoles fue de 18.6285, publicado hoy en el Diario Oficial.",
+   "Para supply chain: con el Treasury otra vez en 5.06%, cubre por tramos los dólares de noviembre antes del puente del lunes 16."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 9:10 CDMX el peso cotizaba en 18.63 por dólar (+0.26% el dólar), después de tocar 18.58 en la madrugada. El FIX determinado por Banxico el miércoles fue de 18.6285, publicado hoy en el Diario Oficial. El S&P/BMV IPC bajaba 0.19% a 71,866.44 a las 8:50 CDMX."
+   },
+   {
+    "t": "Contexto",
+    "x": "La renuncia de Jensen Huang en Nvidia enfría el apetito por riesgo y el Treasury a 10 años sube a 5.06% al reabrir, lo que presiona al peso. Las solicitudes de subsidio por desempleo en EE. UU. subieron a 200,000, poco arriba de lo esperado. En México sigue pesando la caída de 1.4% mensual de la actividad industrial de septiembre."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "El INEGI publica la Encuesta de Viajeros Internacionales de septiembre. El viernes 13 sale el PPI de EE. UU. y el lunes 16 cierran la BMV y los bancos por el Día de la Revolución."
+   }
+  ],
+  "scm": "Con el peso en 18.63 y el Treasury en 5.06%, cubre por tramos los dólares de noviembre y adelanta los pagos del lunes 16. Si importas servidores o GPU, confirma precios en dólares antes de que se mueva más el tipo de cambio."
+ },
+ "en": {
+  "titular": "The IPC opens −0.2% on Nvidia and the Treasury; the peso weakens to 18.63",
+  "esencial": [
+   "At 8:50 a.m. Mexico City time the IPC was down 0.19% (71,866.44) and at 9:10 the peso was at 18.63 per dollar (dollar +0.26%).",
+   "The FIX set by Banxico on Wednesday was 18.6285, published today in the Official Gazette.",
+   "For supply chain: with the Treasury back at 5.06%, hedge November dollars in tranches before the Monday the 16th long weekend."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "At 9:10 a.m. Mexico City time the peso traded at 18.63 per dollar (dollar +0.26%), after touching 18.58 overnight. The FIX set by Banxico on Wednesday was 18.6285, published today in the Official Gazette. The S&P/BMV IPC was down 0.19% at 71,866.44 at 8:50 a.m."
+   },
+   {
+    "t": "Context",
+    "x": "Jensen Huang's resignation at Nvidia cools risk appetite and the 10-year Treasury rises to 5.06% as it reopens, pressuring the peso. US jobless claims rose to 200,000, slightly above expectations. In Mexico, September's 1.4% monthly drop in industrial activity still weighs."
+   },
+   {
+    "t": "What to expect today",
+    "x": "INEGI publishes September's International Travelers Survey. US PPI comes out Friday the 13th and on Monday the 16th the BMV and banks close for Revolution Day."
+   }
+  ],
+  "scm": "With the peso at 18.63 and the Treasury at 5.06%, hedge November dollars in tranches and move forward payments due Monday the 16th. If you import servers or GPUs, confirm dollar prices before the exchange rate moves further."
+ },
+ "pt": {
+  "titular": "O IPC abre com −0,2% pela Nvidia e pelo Treasury; o peso se enfraquece para 18,63",
+  "esencial": [
+   "Às 8h50 (Cidade do México) o IPC caía 0,19% (71.866,44) e às 9h10 o peso estava a 18,63 por dólar (dólar +0,26%).",
+   "O FIX definido pelo Banxico na quarta foi de 18,6285, publicado hoje no Diário Oficial.",
+   "Para supply chain: com o Treasury de novo em 5,06%, cubra em parcelas os dólares de novembro antes do feriado de segunda, dia 16."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 9h10 (Cidade do México) o peso era cotado a 18,63 por dólar (dólar +0,26%), depois de tocar 18,58 na madrugada. O FIX definido pelo Banxico na quarta foi de 18,6285, publicado hoje no Diário Oficial. O S&P/BMV IPC caía 0,19% para 71.866,44 às 8h50."
+   },
+   {
+    "t": "Contexto",
+    "x": "A renúncia de Jensen Huang na Nvidia esfria o apetite por risco e o Treasury de 10 anos sobe para 5,06% na reabertura, o que pressiona o peso. Os pedidos de auxílio-desemprego nos EUA subiram para 200 mil, pouco acima do esperado. No México segue pesando a queda de 1,4% no mês da atividade industrial de setembro."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "O INEGI divulga a Pesquisa de Viajantes Internacionais de setembro. Na sexta, dia 13, sai o PPI dos EUA e na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução."
+   }
+  ],
+  "scm": "Com o peso a 18,63 e o Treasury em 5,06%, cubra em parcelas os dólares de novembro e antecipe os pagamentos da segunda, dia 16. Se você importa servidores ou GPUs, confirme os preços em dólares antes que o câmbio se mova mais."
+ },
+ "fuentes": [
+  {
+   "t": "La Razón: precio del dólar hoy, 12 nov 2026 (FIX 18.6285 publicado en el DOF)",
+   "u": "https://www.razon.com.mx/negocios/2026/11/12/este-es-el-precio-del-dolar-hoy-jueves-12-de-noviembre-de-2026/"
+  },
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 12 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (12 nov 2026, 09:10 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Seoul Economic Daily: las solicitudes de subsidio por desempleo en EE. UU. suben a 200,000 (12 nov 2026)",
+   "u": "https://en.sedaily.com/world/2026/11/12/us-jobless-claims-rise-to-200000-topping-forecasts"
+  }
+ ]
+}
