@@ -7,7 +7,34 @@
   <description>Briefs diarios de mercados (premercado, apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
   <language>es-MX</language>
   <copyright>Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</copyright>
-  <lastBuildDate>Fri, 13 Nov 2026 09:08:00 -0600</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 11:37:00 -0600</lastBuildDate>
+  <item>
+    <title>El IPC baja 0.48% con los chips y el peso se mantiene en 18.56</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-13-mediodia-mexico/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-13-mediodia-mexico/</guid>
+    <pubDate>Fri, 13 Nov 2026 11:37:00 -0600</pubDate>
+    <category>Mediodía · México</category>
+    <description>En la apertura el peso se fortalecía a 18.56 y el IPC bajaba 0.25%, tras un PPI de EE. UU. menor a lo esperado en el mes; el FIX del jueves fue de 18.6188. A las 11:17 CDMX el S&amp;P/BMV IPC bajaba 0.48% a 71,469.52 y a las 11:37 el peso cotizaba en 18.56 por dólar (−0.17% el dólar). — Hoy es el último día hábil antes del puente del lunes 16: con el peso en 18.56, cierra la compra de dólares de noviembre y programa los pagos. Prepara aumentos de insumos importados por la inflación mayorista de EE. UU.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-13-mediodia-mexico/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>El Ibovespa sube 0.55% y el TSX 0.12% pese a la venta de chips; Colombia cae 0.9%</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-13-mediodia-latam/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-13-mediodia-latam/</guid>
+    <pubDate>Fri, 13 Nov 2026 11:37:00 -0600</pubDate>
+    <category>Mediodía · LATAM</category>
+    <description>En la apertura el Ibovespa subía 0.62% y el ETF de Argentina 0.81%, mientras el peso chileno llegaba a 999 por dólar. A las 11:22 CDMX el Ibovespa estaba en 172,274.31 (+0.55%) y a las 11:37 el S&amp;P/TSX en 36,180.22 (+0.12%). Los ETF de MSCI subían 0.45% en Argentina y 0.11% en Chile, y Perú no cambiaba; el iCOLCAP bajaba 0.86% a las 10:48. A las 11:37 el dólar estaba en 994.8 pesos chilenos (+0.08%), 5.64 reales (−0.09%), 3,324 pesos colombianos (+0.48%), 3.40 soles (−0.10%) y 1,544 pesos argentinos (−0.06%). — Cotiza hoy cable e insumos de cobre con el precio a la baja, y escalona los pagos en pesos colombianos, que se debilitan.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-13-mediodia-latam/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>La venta de chips se acelera: AMD cae 10% y el Nasdaq 1.2%; el VIX sube a 20</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-13-mediodia-global/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-13-mediodia-global/</guid>
+    <pubDate>Fri, 13 Nov 2026 11:37:00 -0600</pubDate>
+    <category>Mediodía · Global</category>
+    <description>En la apertura el mercado giró a la baja tras el PPI de octubre (0.3% mensual, 6.5% anual), con el Treasury a 10 años en 5.16% y el Nasdaq −1.0% por los chips. La venta de chips se aceleró: a las 11:37 CDMX el S&amp;P 500 estaba en 7,542.10 (−0.66%), el Nasdaq en 25,070.53 (−1.17%) y el Dow en 52,260.89 (−0.07%); el VIX subía 6.8% a 19.98. AMD caía 10.2%, Applied Materials 4.4% y Nvidia 2.9% (161.37 dólares); Broadcom e Intel perdían cerca de 6% y 5%, y Micron y SK Hynix entre 5% y 6%, según Yahoo Finance. El Treasury a 10 años llegó a 5.17% y estaba en 5.13%. El Brent estaba en 95.85 dólares (sin cambio), el WTI en 88.57 (−0.2%), el cobre caía 1.7% y el bitcoin seguía debajo de 70,000. Europa cerró casi plana: Euro Stoxx 50 −0.19%. — Con la AIE anticipando excedente de crudo, no firmes recargos de combustible de largo plazo: pide ajuste semanal. Si compras GPU, memoria o almacenamiento, confirma pedidos antes de los resultados de Nvidia del martes.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-13-mediodia-global/og.png" type="image/png" length="0"/>
+  </item>
   <item>
     <title>El peso se fortalece a 18.56 y el IPC baja 0.25%; el FIX del jueves fue de 18.6188</title>
     <link>https://mrsupplychain.ai/noticias/brief/2026-11-13-apertura-mexico/</link>
@@ -340,33 +367,6 @@
     <category>Apertura · México</category>
     <description>El S&amp;P/BMV IPC abrió con baja: a las 8:50 CDMX perdía 0.60% (71,426.80), tras subir 0.65% el lunes. El peso, que de madrugada cotizaba cerca de 18.50, estaba a las 9:10 CDMX en 18.69 por dólar (el dólar +0.71%). El CPI de EE. UU. de octubre (+0.4% mensual) superó lo esperado y refuerza un alza de la Fed en diciembre, mientras Banxico tiene la tasa en 6.25% y la inflación de México subió a 3.75%. El diferencial de tasas se estrecha y eso pesa sobre el peso. — Con el peso en 18.69, compra por tramos los dólares de noviembre en lugar de cerrar todo hoy, y adelanta los pagos que vencen el lunes 16.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-10-apertura-mexico/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Las monedas de la región se debilitan tras la inflación de EE. UU.; el real cae 1.6%</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-10-apertura-latam/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-10-apertura-latam/</guid>
-    <pubDate>Tue, 10 Nov 2026 09:10:00 -0600</pubDate>
-    <category>Apertura · LATAM</category>
-    <description>A las 8:55 CDMX el Ibovespa bajaba 0.31% (171,699.34) y a las 9:10 el S&amp;P/TSX de Canadá 0.36% (36,314.16). En divisas, el dólar subía 1.58% frente al real (5.59), 1.25% frente al peso chileno (979.0) y 0.72% frente al peso colombiano (3,290). Tras las fuertes alzas del lunes (COLCAP +3.45%, Ibovespa +2.22%), la región resiente el dólar más fuerte por el CPI de EE. UU. La caída del crudo ayuda a los importadores, pero pesa sobre Colombia y Brasil. — Convierte pronto los cobros en monedas locales y escalona los pagos en dólares de esta semana. Con el crudo a la baja, pide revisar los recargos de flete en rutas regionales.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-10-apertura-latam/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Wall Street abre a la baja tras una inflación más alta de lo esperado; el Treasury a 10 años sube a 4.99%</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-10-apertura-global/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-10-apertura-global/</guid>
-    <pubDate>Tue, 10 Nov 2026 09:10:00 -0600</pubDate>
-    <category>Apertura · Global</category>
-    <description>Como anticipaban los futuros tras el CPI, Wall Street abrió con ligeras bajas. A las 9:10 CDMX el S&amp;P 500 bajaba 0.15% (7,538.41), el Dow 0.32% (52,222.90) y el Nasdaq 0.01% (25,250.93); el Russell 2000 perdía 0.86%. Nvidia caía cerca de 4% (alrededor de 170.67 dólares) por segundo día por la investigación sobre Jensen Huang. El Treasury a 10 años subía a 4.99%, el índice del dólar 0.4% a 102.10, el WTI bajaba 1.7% a 85.40 dólares, el Brent 2.2% a 90.55 y el oro 1.5% a 4,054.60. Asia cerró con fuertes alzas: KOSPI +4.39% (5,239.13), Nikkei +2.87% (60,459.58), Hang Seng +0.31% y Shanghái +0.40%. En Europa, el Euro Stoxx 50 subía 0.90%, el DAX 0.68% y el CAC 40 0.75%; el FTSE 100 quedaba plano (−0.07%). — Para hoy: 1) el crudo sigue bajando: pide que el recargo de combustible de la próxima semana lo refleje; 2) con el bono a 10 años cerca de 5%, revisa el costo de financiar inventario y los días de cobertura; 3) no cierres de golpe compras grandes en dólares mientras el mercado asimila el CPI.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-10-apertura-global/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>El peso pierde terreno tras la inflación de EE. UU.: pasa de 18.50 en la madrugada a 18.67</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-10-premercado-mexico/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-10-premercado-mexico/</guid>
-    <pubDate>Tue, 10 Nov 2026 07:55:00 -0600</pubDate>
-    <category>Premercado · México</category>
-    <description>El peso cerró el lunes en 18.55 y a las 6:16 CDMX cotizaba cerca de 18.50. Tras el CPI de EE. UU., a las 7:50 CDMX estaba en 18.67 (el dólar +0.59%). El lunes el INEGI reportó que la inflación de México subió a 3.75% en octubre por el fin del subsidio eléctrico. Un CPI más alto en EE. UU. refuerza el alza de la Fed en diciembre y reduce el diferencial de tasas frente a Banxico (6.25%), lo que presiona al peso. La caída del crudo (Brent abajo de 90 dólares) reduce costos de combustibles, pero también los ingresos petroleros. — Con el peso en 18.67 tras el CPI, compra por tramos los dólares de noviembre en lugar de cerrar todo hoy, y adelanta los pagos del lunes 16 (día inhábil bancario).</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-10-premercado-mexico/og.png" type="image/png" length="0"/>
   </item>
 </channel>
 </rss>
