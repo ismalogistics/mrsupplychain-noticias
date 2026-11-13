@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-13-apertura-mexico",
+ "fecha": "2026-11-13",
+ "momento": "apertura",
+ "mercado": "mexico",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "El peso se fortalece a 18.56 y el IPC baja 0.25%; el FIX del jueves fue de 18.6188",
+  "esencial": [
+   "A las 9:08 CDMX el peso estaba en 18.56 por dólar (−0.16% el dólar) y a las 8:48 el IPC bajaba 0.25% (71,632.42).",
+   "El FIX determinado por Banxico el jueves fue de 18.6188, publicado hoy en el Diario Oficial.",
+   "Para supply chain: con el peso en 18.56 y el puente del lunes 16, hoy es buen día para cerrar compras de dólares y pagos."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 9:08 CDMX el peso cotizaba en 18.56 por dólar (−0.16% el dólar), su mejor nivel de la semana; a las 7:35 había tocado 18.53, según Tribuna. El FIX determinado por Banxico el jueves fue de 18.6188, publicado hoy en el Diario Oficial. El S&P/BMV IPC bajaba 0.25% a 71,632.42 a las 8:48 CDMX."
+   },
+   {
+    "t": "Contexto",
+    "x": "El PPI de EE. UU. subió 0.3% mensual, menos de lo esperado, lo que dio un respiro al peso aunque el Treasury a 10 años sube a 5.16%. La bolsa local sigue a Wall Street a la baja por la presión en tecnología."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Hoy es el último día hábil antes del puente: el lunes 16 cierran la BMV y los bancos por el Día de la Revolución. El 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre."
+   }
+  ],
+  "scm": "Aprovecha el peso en 18.56 para cerrar la compra de dólares de noviembre y programa hoy los pagos que vencen el lunes 16. Con la inflación mayorista de EE. UU. en 6.5% anual, prepara aumentos en insumos importados."
+ },
+ "en": {
+  "titular": "The peso strengthens to 18.56 and the IPC falls 0.25%; Thursday's FIX was 18.6188",
+  "esencial": [
+   "At 9:08 a.m. Mexico City time the peso was at 18.56 per dollar (dollar −0.16%) and at 8:48 the IPC was down 0.25% (71,632.42).",
+   "The FIX set by Banxico on Thursday was 18.6188, published today in the Official Gazette.",
+   "For supply chain: with the peso at 18.56 and the Monday the 16th long weekend, today is a good day to close dollar purchases and payments."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "At 9:08 a.m. Mexico City time the peso traded at 18.56 per dollar (dollar −0.16%), its best level of the week; at 7:35 it touched 18.53, according to Tribuna. The FIX set by Banxico on Thursday was 18.6188, published today in the Official Gazette. The S&P/BMV IPC was down 0.25% at 71,632.42 at 8:48 a.m."
+   },
+   {
+    "t": "Context",
+    "x": "US PPI rose 0.3% monthly, less than expected, giving the peso some relief even as the 10-year Treasury rises to 5.16%. Local stocks follow Wall Street lower on pressure in tech."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Today is the last business day before the long weekend: on Monday the 16th the BMV and banks close for Revolution Day. On November 24 INEGI publishes first-half November inflation."
+   }
+  ],
+  "scm": "Use the peso at 18.56 to close November dollar purchases and schedule today the payments due Monday the 16th. With US wholesale inflation at 6.5% year over year, prepare for increases in imported inputs."
+ },
+ "pt": {
+  "titular": "O peso se fortalece para 18,56 e o IPC cai 0,25%; o FIX de quinta foi de 18,6188",
+  "esencial": [
+   "Às 9h08 (Cidade do México) o peso estava a 18,56 por dólar (dólar −0,16%) e às 8h48 o IPC caía 0,25% (71.632,42).",
+   "O FIX definido pelo Banxico na quinta foi de 18,6188, publicado hoje no Diário Oficial.",
+   "Para supply chain: com o peso a 18,56 e o feriado de segunda, dia 16, hoje é um bom dia para fechar compras de dólares e pagamentos."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 9h08 (Cidade do México) o peso era cotado a 18,56 por dólar (dólar −0,16%), seu melhor nível da semana; às 7h35 tinha tocado 18,53, segundo o Tribuna. O FIX definido pelo Banxico na quinta foi de 18,6188, publicado hoje no Diário Oficial. O S&P/BMV IPC caía 0,25% para 71.632,42 às 8h48."
+   },
+   {
+    "t": "Contexto",
+    "x": "O PPI dos EUA subiu 0,3% no mês, menos que o esperado, o que deu fôlego ao peso mesmo com o Treasury de 10 anos subindo para 5,16%. A bolsa local segue Wall Street em queda pela pressão na tecnologia."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Hoje é o último dia útil antes do feriado: na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução. Em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro."
+   }
+  ],
+  "scm": "Aproveite o peso a 18,56 para fechar a compra de dólares de novembro e programe hoje os pagamentos que vencem na segunda, dia 16. Com a inflação no atacado dos EUA em 6,5% em 12 meses, prepare-se para aumentos em insumos importados."
+ },
+ "fuentes": [
+  {
+   "t": "Tribuna: precio del dólar hoy, 13 nov 2026 (FIX del jueves 18.6188)",
+   "u": "https://tribuna.com.mx/politica-y-economia/2026/11/13/precio-del-dolar-en-mexico-hoy-13-de-noviembre-peso-mexicano-avanza-y-asi-cotiza-en-los-bancos_714851/"
+  },
+  {
+   "t": "El Informador: el dólar arranca el viernes en 18.61 pesos (FIX 18.6188)",
+   "u": "https://www.informador.mx/economia/dolar-hoy-en-mexico-el-precio-de-la-divisa-arranca-este-viernes-13-de-noviembre-en-18.61-pesos-20261113-0046.html"
+  },
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 13 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

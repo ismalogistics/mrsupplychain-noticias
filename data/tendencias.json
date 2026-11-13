@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-11-12T21:18:15Z",
- "fecha": "2026-11-12",
+ "actualizado": "2026-11-13T15:10:58Z",
+ "fecha": "2026-11-13",
  "titular": {
-  "es": "Cierre del jueves: Nvidia cae 4.3% tras la salida de Huang y el Brent sube 3.7%",
-  "en": "Thursday close: Nvidia falls 4.3% after Huang's exit and Brent rises 3.7%",
-  "pt": "Fechamento de quinta: a Nvidia cai 4,3% após a saída de Huang e o Brent sobe 3,7%"
+  "es": "Viernes: el PPI sube 6.5% anual, los chips vuelven a caer y el crudo sigue cerca de 97 dólares",
+  "en": "Friday: PPI rises 6.5% year over year, chips fall again and crude stays near $97",
+  "pt": "Sexta: o PPI sobe 6,5% em 12 meses, os chips voltam a cair e o petróleo segue perto de 97 dólares"
  },
  "items": [
   {
    "id": "semis",
-   "dir": "mixed",
+   "dir": "down",
    "calor": 3,
    "mx": false,
    "latam": false,
@@ -17,34 +17,38 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Nvidia cierra con −4.34% tras la renuncia de Huang; Applied Materials reporta ingresos récord",
-    "en": "Nvidia closes −4.34% after Huang's resignation; Applied Materials reports record revenue",
-    "pt": "A Nvidia fecha com −4,34% após a renúncia de Huang; a Applied Materials reporta receita recorde"
+    "es": "Los chips caen otra vez: AMD −8.0%, Applied Materials −4.8% y Nvidia −2.6%",
+    "en": "Chips fall again: AMD −8.0%, Applied Materials −4.8% and Nvidia −2.6%",
+    "pt": "Os chips caem de novo: AMD −8,0%, Applied Materials −4,8% e Nvidia −2,6%"
    },
    "x": {
-    "es": "Nvidia cerró en 166.19 dólares (−4.34%), mientras AMD subió 5.9% y Broadcom 5.5%. Después del cierre, Applied Materials reportó ingresos récord de 10,410 millones de dólares en su cuarto trimestre (+53% anual) y de 34,450 millones en el año fiscal (+21%).",
-    "en": "Nvidia closed at $166.19 (−4.34%), while AMD rose 5.9% and Broadcom 5.5%. After the close, Applied Materials reported record fourth-quarter revenue of $10.41 billion (+53% year over year) and $34.45 billion for the fiscal year (+21%).",
-    "pt": "A Nvidia fechou a 166,19 dólares (−4,34%), enquanto a AMD subiu 5,9% e a Broadcom 5,5%. Depois do fechamento, a Applied Materials reportou receita recorde de 10,41 bilhões de dólares no quarto trimestre (+53% no ano) e de 34,45 bilhões no ano fiscal (+21%)."
+    "es": "A las 9:08 CDMX Nvidia caía 2.6% (161.83 dólares) y arrastraba al sector; Applied Materials bajaba 4.8% pese a reportar ingresos récord de 10,410 millones de dólares (+53%) en su trimestre. Nvidia reporta resultados el martes 17 sin director permanente.",
+    "en": "At 10:08 a.m. ET Nvidia was down 2.6% ($161.83) and dragged the sector; Applied Materials fell 4.8% despite reporting record quarterly revenue of $10.41 billion (+53%). Nvidia reports results on Tuesday the 17th with no permanent CEO.",
+    "pt": "Às 9h08 (Cidade do México) a Nvidia caía 2,6% (161,83 dólares) e arrastava o setor; a Applied Materials caía 4,8% apesar de reportar receita trimestral recorde de 10,41 bilhões de dólares (+53%). A Nvidia divulga resultados na terça, dia 17, sem CEO permanente."
    },
    "scm": {
-    "es": "Confirma hoy con tu distribuidor pedidos abiertos y fechas de entrega de GPU y servidores, y califica una alternativa.",
-    "en": "Confirm open orders and delivery dates for GPUs and servers with your distributor today, and qualify an alternative.",
-    "pt": "Confirme hoje com seu distribuidor pedidos abertos e datas de entrega de GPUs e servidores, e qualifique uma alternativa."
+    "es": "Confirma pedidos de GPU y servidores antes de los resultados de Nvidia del martes y ten una alternativa calificada.",
+    "en": "Confirm GPU and server orders before Nvidia's Tuesday results and keep a qualified alternative.",
+    "pt": "Confirme pedidos de GPUs e servidores antes dos resultados da Nvidia de terça e tenha uma alternativa qualificada."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan por la salida de Jensen Huang y el alza de los bonos (12 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-fall-as-nvidia-ceo-exit-rising-bond-yields-roil-markets-195710154.html"
+     "t": "Yahoo Finance AlphaCheck: el Treasury sube con el PPI y Nvidia arrastra a los chips (13 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/article/copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-150655549.html"
     },
     {
      "t": "Applied Materials: resultados del cuarto trimestre y del año fiscal 2026 (12 nov 2026)",
      "u": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-announces-fourth-quarter-210100253.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 09:08 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   {
    "id": "software",
-   "dir": "down",
+   "dir": "up",
    "calor": 2,
    "mx": false,
    "latam": false,
@@ -52,28 +56,24 @@
    "en": "Software and AI for supply chain",
    "pt": "Software e IA para supply chain",
    "titular": {
-    "es": "Nebius cierra con −16.8% y CoreWeave con −6.9%; el debut de Anthropic, bajo presión",
-    "en": "Nebius closes −16.8% and CoreWeave −6.9%; Anthropic's debut under pressure",
-    "pt": "A Nebius fecha com −16,8% e a CoreWeave com −6,9%; a estreia da Anthropic sob pressão"
+    "es": "Cerebras sube 11.7%: eleva su pronóstico y firma con dos nuevos hiperescaladores",
+    "en": "Cerebras rises 11.7%: raises its outlook and signs two new hyperscalers",
+    "pt": "A Cerebras sobe 11,7%: eleva sua previsão e fecha com dois novos hiperescaladores"
    },
    "x": {
-    "es": "Nebius, que dijo que sus ingresos de 2026 quedarán en la parte baja de su pronóstico, cerró con −16.8%; CoreWeave cayó 6.9%. Yahoo Finance señala que la turbulencia aumenta la presión sobre el debut en bolsa de Anthropic, previsto para la próxima semana.",
-    "en": "Nebius, which said its 2026 revenue will land at the low end of its forecast, closed −16.8%; CoreWeave fell 6.9%. Yahoo Finance notes the turmoil adds pressure on Anthropic's stock market debut, planned for next week.",
-    "pt": "A Nebius, que disse que sua receita de 2026 ficará na parte baixa da previsão, fechou com −16,8%; a CoreWeave caiu 6,9%. O Yahoo Finance aponta que a turbulência aumenta a pressão sobre a estreia na bolsa da Anthropic, prevista para a próxima semana."
+    "es": "Cerebras reportó ingresos centrales de 230.9 millones de dólares en su tercer trimestre (+70% anual) e ingresos de nube de 144.9 millones (+272%); prevé entre 310 y 330 millones en el cuarto trimestre, arriba del consenso de 271.2 millones, y anunció acuerdos con dos nuevos hiperescaladores.",
+    "en": "Cerebras reported third-quarter core revenue of $230.9 million (+70% year over year) and cloud revenue of $144.9 million (+272%); it sees $310 million to $330 million in the fourth quarter, above the $271.2 million consensus, and announced deals with two new hyperscalers.",
+    "pt": "A Cerebras reportou receita principal de 230,9 milhões de dólares no terceiro trimestre (+70% no ano) e receita de nuvem de 144,9 milhões (+272%); prevê entre 310 e 330 milhões no quarto trimestre, acima do consenso de 271,2 milhões, e anunciou acordos com dois novos hiperescaladores."
    },
    "scm": {
-    "es": "Si vas a contratar nube o cómputo para planeación con IA, pide precio fijo a plazo y cláusulas de continuidad del servicio.",
-    "en": "If you plan to buy cloud or compute for AI planning, ask for fixed term pricing and service-continuity clauses.",
-    "pt": "Se você vai contratar nuvem ou computação para planejamento com IA, peça preço fixo a prazo e cláusulas de continuidade do serviço."
+    "es": "Hay más oferta de cómputo para IA fuera de Nvidia: cotiza alternativas si planeas proyectos de planeación con IA en 2027.",
+    "en": "There is more AI compute supply beyond Nvidia: quote alternatives if you're planning AI planning projects in 2027.",
+    "pt": "Há mais oferta de computação para IA fora da Nvidia: cote alternativas se você planeja projetos de planejamento com IA em 2027."
    },
    "fuentes": [
     {
-     "t": "Reuters vía Yahoo Finance: Wall Street y Nvidia (12 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-fall-nvidia-turmoil-093910045.html"
-    },
-    {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan por la salida de Jensen Huang y el alza de los bonos (12 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-fall-as-nvidia-ceo-exit-rising-bond-yields-roil-markets-195710154.html"
+     "t": "Yahoo Finance: Cerebras sube por sus resultados del tercer trimestre (13 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/article/cerebras-stock-surges-after-ai-chipmaker-posts-q3-record-revenue-deals-with-hyperscalers-124719638.html"
     }
    ]
   },
@@ -87,14 +87,14 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El Brent cierra con +3.7% en 96.22 dólares y el diésel sube 2.2%",
-    "en": "Brent closes up 3.7% at $96.22 and diesel rises 2.2%",
-    "pt": "O Brent fecha com +3,7% a 96,22 dólares e o diesel sobe 2,2%"
+    "es": "El Brent sube a 96.97 dólares y el diésel 0.7%; el crudo cierra la semana cerca de máximos",
+    "en": "Brent rises to $96.97 and diesel 0.7%; crude ends the week near highs",
+    "pt": "O Brent sobe para 96,97 dólares e o diesel 0,7%; o petróleo fecha a semana perto das máximas"
    },
    "x": {
-    "es": "El crudo revirtió una semana de bajas después de que Trump dijo que \"no necesitamos un acuerdo con Irán\": el Brent cerró cerca de 96.22 dólares (+3.73%) y el WTI de 89.06 (+2.92%). El futuro del diésel subió 2.2% a 4.30 dólares por galón y el gas natural 4.0%.",
-    "en": "Crude reversed a week of declines after Trump said \"we don't need a deal with Iran\": Brent closed near $96.22 (+3.73%) and WTI near $89.06 (+2.92%). Diesel futures rose 2.2% to $4.30 per gallon and natural gas 4.0%.",
-    "pt": "O petróleo reverteu uma semana de quedas depois de Trump dizer que \"não precisamos de um acordo com o Irã\": o Brent fechou perto de 96,22 dólares (+3,73%) e o WTI de 89,06 (+2,92%). O futuro do diesel subiu 2,2% para 4,30 dólares por galão e o gás natural 4,0%."
+    "es": "A las 8:58 CDMX el Brent estaba en 96.97 dólares (+1.2%), el WTI en 89.49 (+0.9%) y el futuro del diésel en 4.32 dólares por galón (+0.7%), tras el salto del jueves por el mensaje de Trump sobre Irán.",
+    "en": "At 9:58 a.m. ET Brent was at $96.97 (+1.2%), WTI at $89.49 (+0.9%) and diesel futures at $4.32 per gallon (+0.7%), after Thursday's jump on Trump's message about Iran.",
+    "pt": "Às 8h58 (Cidade do México) o Brent estava a 96,97 dólares (+1,2%), o WTI a 89,49 (+0,9%) e o futuro do diesel a 4,32 dólares por galão (+0,7%), depois do salto de quinta pela mensagem de Trump sobre o Irã."
    },
    "scm": {
     "es": "Espera el dato de la EIA antes de fijar recargos de combustible de la próxima semana y pide ajuste semanal.",
@@ -103,11 +103,73 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan por la salida de Jensen Huang y el alza de los bonos (12 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-fall-as-nvidia-ceo-exit-rising-bond-yields-roil-markets-195710154.html"
+     "t": "Yahoo Finance AlphaCheck: el Treasury sube con el PPI y Nvidia arrastra a los chips (13 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/article/copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-150655549.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas al cierre (12 nov 2026, 15:16 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 09:08 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
+    }
+   ]
+  },
+  {
+   "id": "manufactura",
+   "dir": "down",
+   "calor": 3,
+   "mx": true,
+   "latam": true,
+   "es": "Manufactura",
+   "en": "Manufacturing",
+   "pt": "Manufatura",
+   "titular": {
+    "es": "Los precios al productor de EE. UU. suben 6.5% anual, su mayor alza en cuatro años",
+    "en": "US producer prices rise 6.5% year over year, their biggest increase in four years",
+    "pt": "Os preços ao produtor dos EUA sobem 6,5% em 12 meses, a maior alta em quatro anos"
+   },
+   "x": {
+    "es": "El PPI de demanda final subió 0.3% en octubre y 6.5% anual, el mayor aumento desde noviembre de 2022; el subyacente anual fue de 4.9%. Yahoo Finance señala que la inflación es amplia y persistente en manufactura y cadenas de suministro.",
+    "en": "Final-demand PPI rose 0.3% in October and 6.5% year over year, the biggest increase since November 2022; core annual was 4.9%. Yahoo Finance notes that inflation is broad and sticky across manufacturing and supply chains.",
+    "pt": "O PPI de demanda final subiu 0,3% em outubro e 6,5% em 12 meses, a maior alta desde novembro de 2022; o núcleo anual foi de 4,9%. O Yahoo Finance aponta que a inflação é ampla e persistente na manufatura e nas cadeias de suprimentos."
+   },
+   "scm": {
+    "es": "Prepara aumentos de proveedores en insumos y empaques, y fija precios de compra del primer trimestre donde puedas.",
+    "en": "Prepare for supplier increases in inputs and packaging, and lock first-quarter purchase prices where you can.",
+    "pt": "Prepare-se para reajustes de fornecedores em insumos e embalagens e fixe preços de compra do primeiro trimestre onde puder."
+   },
+   "fuentes": [
+    {
+     "t": "Yahoo Finance: S&P 500 y Nasdaq bajan con el PPI; Nvidia cae (13 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    }
+   ]
+  },
+  {
+   "id": "mineria",
+   "dir": "mixed",
+   "calor": 2,
+   "mx": true,
+   "latam": true,
+   "es": "Minería y metales",
+   "en": "Mining and metals",
+   "pt": "Mineração e metais",
+   "titular": {
+    "es": "El cobre cae 1.0% a 6.14 dólares; el oro se estabiliza en 3,898",
+    "en": "Copper falls 1.0% to $6.14; gold steadies at $3,898",
+    "pt": "O cobre cai 1,0% para 6,14 dólares; o ouro se estabiliza em 3.898"
+   },
+   "x": {
+    "es": "A las 8:58 CDMX el cobre estaba en 6.14 dólares por libra (−1.0%) y la plata en 49.83 (−0.5%), mientras el oro subía 0.3% a 3,898 dólares tras caer 3% el jueves; el Treasury a 10 años sube a 5.16%.",
+    "en": "At 9:58 a.m. ET copper was at $6.14 per pound (−1.0%) and silver at $49.83 (−0.5%), while gold rose 0.3% to $3,898 after falling 3% on Thursday; the 10-year Treasury rises to 5.16%.",
+    "pt": "Às 8h58 (Cidade do México) o cobre estava a 6,14 dólares por libra (−1,0%) e a prata a 49,83 (−0,5%), enquanto o ouro subia 0,3% para 3.898 dólares depois de cair 3% na quinta; o Treasury de 10 anos sobe para 5,16%."
+   },
+   "scm": {
+    "es": "Aprovecha la baja para cotizar cable, conectores y componentes con cobre o plata para el primer trimestre.",
+    "en": "Use the dip to quote cable, connectors and copper or silver components for the first quarter.",
+    "pt": "Aproveite a queda para cotar cabos, conectores e componentes com cobre ou prata para o primeiro trimestre."
+   },
+   "fuentes": [
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 09:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -140,68 +202,6 @@
     {
      "t": "Reuters vía Yahoo Finance: el petróleo sube por los riesgos geopolíticos (12 nov 2026)",
      "u": "https://finance.yahoo.com/energy/articles/oil-falls-over-1-easing-045152522.html"
-    }
-   ]
-  },
-  {
-   "id": "mineria",
-   "dir": "down",
-   "calor": 2,
-   "mx": true,
-   "latam": true,
-   "es": "Minería y metales",
-   "en": "Mining and metals",
-   "pt": "Mineração e metais",
-   "titular": {
-    "es": "El oro cae 3.2%, la plata 3.8% y el cobre 2.0% con el Treasury en 5.06%",
-    "en": "Gold falls 3.2%, silver 3.8% and copper 2.0% with the Treasury at 5.06%",
-    "pt": "O ouro cai 3,2%, a prata 3,8% e o cobre 2,0% com o Treasury em 5,06%"
-   },
-   "x": {
-    "es": "A las 9:00 CDMX el oro estaba en 3,873 dólares la onza (−3.2%), la plata en 50.02 (−3.8%) y el cobre en 6.17 dólares por libra (−2.0%), con el dólar más firme (DXY +0.1%) y el Treasury a 10 años en 5.06% al reabrir el mercado de bonos.",
-    "en": "At 10:00 a.m. ET gold was at $3,873 an ounce (−3.2%), silver at $50.02 (−3.8%) and copper at $6.17 per pound (−2.0%), with a firmer dollar (DXY +0.1%) and the 10-year Treasury at 5.06% as the bond market reopened.",
-    "pt": "Às 9h (Cidade do México) o ouro estava a 3.873 dólares a onça (−3,2%), a prata a 50,02 (−3,8%) e o cobre a 6,17 dólares por libra (−2,0%), com o dólar mais firme (DXY +0,1%) e o Treasury de 10 anos em 5,06% na reabertura do mercado de títulos."
-   },
-   "scm": {
-    "es": "Aprovecha la baja para cotizar cable, conectores y componentes con cobre o plata para el primer trimestre.",
-    "en": "Use the dip to quote cable, connectors and copper or silver components for the first quarter.",
-    "pt": "Aproveite a queda para cotar cabos, conectores e componentes com cobre ou prata para o primeiro trimestre."
-   },
-   "fuentes": [
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (12 nov 2026, 09:10 CDMX)",
-     "u": "https://finance.yahoo.com/markets/"
-    }
-   ]
-  },
-  {
-   "id": "manufactura",
-   "dir": "down",
-   "calor": 3,
-   "mx": true,
-   "latam": false,
-   "es": "Manufactura",
-   "en": "Manufacturing",
-   "pt": "Manufatura",
-   "titular": {
-    "es": "La actividad industrial de México cae 1.4% en septiembre; manufacturas −1.7% y construcción −2.0%",
-    "en": "Mexico's industrial activity falls 1.4% in September; manufacturing −1.7% and construction −2.0%",
-    "pt": "A atividade industrial do México cai 1,4% em setembro; manufatura −1,7% e construção −2,0%"
-   },
-   "x": {
-    "es": "Con cifras desestacionalizadas la industria cayó 1.4% mensual; energía subió 1.4% y minería 0.4%. A tasa anual creció 1.3% (construcción +4.9%, manufacturas +0.6%) y de enero a septiembre acumula +1.1%.",
-    "en": "Seasonally adjusted, industry fell 1.4% monthly; energy rose 1.4% and mining 0.4%. Year over year it grew 1.3% (construction +4.9%, manufacturing +0.6%) and January–September it is up 1.1%.",
-    "pt": "Com ajuste sazonal a indústria caiu 1,4% no mês; energia subiu 1,4% e mineração 0,4%. Na comparação anual cresceu 1,3% (construção +4,9%, manufatura +0,6%) e de janeiro a setembro acumula +1,1%."
-   },
-   "scm": {
-    "es": "Ajusta a la baja el pronóstico de pedidos de clientes manufactureros del cuarto trimestre y revisa su inventario de seguridad.",
-    "en": "Revise down fourth-quarter order forecasts for manufacturing customers and review their safety stock.",
-    "pt": "Revise para baixo a previsão de pedidos de clientes industriais do quarto trimestre e reveja seu estoque de segurança."
-   },
-   "fuentes": [
-    {
-     "t": "EFE vía Infobae: la producción industrial de México sube 1.3% anual en septiembre (11 nov 2026)",
-     "u": "https://www.infobae.com/america/agencias/2026/11/11/la-produccion-industrial-de-mexico-se-eleva-un-13-interanual-en-septiembre/"
     }
    ]
   }

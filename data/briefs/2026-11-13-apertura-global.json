@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-13-apertura-global",
+ "fecha": "2026-11-13",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "El PPI sube 6.5% anual, su mayor alza en cuatro años; el Treasury llega a 5.16% y el Nasdaq cae 1%",
+  "esencial": [
+   "El índice de precios al productor de EE. UU. subió 0.3% en octubre (se esperaba 0.4%), pero 6.5% anual, el mayor aumento desde noviembre de 2022.",
+   "A las 9:08 CDMX el S&P 500 bajaba 0.67%, el Nasdaq 1.01% y el Dow 0.13%; el Treasury a 10 años subía a 5.16%, su nivel más alto desde octubre.",
+   "Para supply chain: la inflación mayorista se extiende a manufactura y cadenas de suministro; prepara aumentos de proveedores y revisa el costo de financiar inventario."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "Los futuros anticipaban una sesión estable y al abrir el S&P 500 y el Dow subían 0.4%, pero el mercado giró a la baja: a las 9:08 CDMX el S&P 500 estaba en 7,541.40 (−0.67%), el Nasdaq en 25,110.86 (−1.01%) y el Dow en 52,229.12 (−0.13%); el VIX subía a 19.16. A las 7:30 CDMX el índice de precios al productor (PPI) de octubre subió 0.3% mensual, menos que el 0.4% esperado, pero 6.5% anual, la mayor alza desde noviembre de 2022; el subyacente anual bajó a 4.9% desde 5.0%. El Treasury a 10 años subió a 5.16%, su nivel más alto desde octubre. Nvidia caía 2.6% (161.83 dólares) y arrastraba a los chips: AMD −8.0% y Applied Materials −4.8% pese a sus ingresos récord; Cerebras subía 11.7% tras elevar su pronóstico. El Brent estaba en 96.97 dólares (+1.2%), el WTI en 89.49 (+0.9%), el oro en 3,898 (+0.3%) y el bitcoin bajó de 70,000 dólares por primera vez en casi tres meses."
+   },
+   {
+    "t": "Asia y Europa",
+    "x": "Asia cerró mixta: Nikkei +0.53% (61,142.35), KOSPI −0.98% (5,290.53), Hang Seng −2.79% y Shanghái −1.26%. A las 8:53 CDMX Europa estaba plana: Euro Stoxx 50 −0.12%, DAX +0.02%, CAC 40 +0.05% y FTSE 100 +0.22%."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Sin más datos relevantes en EE. UU. hoy, el mercado cierra una semana marcada por la salida de Jensen Huang, el Treasury arriba de 5% y el crudo cerca de 97 dólares. Nvidia reporta resultados el martes 17. El lunes 16 la BMV cierra por el Día de la Revolución; Wall Street opera normal."
+   }
+  ],
+  "scm": "El PPI de 6.5% anual muestra que la inflación ya se extendió a manufactura y cadenas de suministro: prepara aumentos de proveedores en insumos y empaques, y fija precios de compra para el primer trimestre donde puedas. Con el Treasury en 5.16%, revisa los días de inventario que financias con deuda."
+ },
+ "en": {
+  "titular": "PPI rises 6.5% year over year, its biggest jump in four years; the Treasury hits 5.16% and the Nasdaq falls 1%",
+  "esencial": [
+   "The US producer price index rose 0.3% in October (0.4% expected), but 6.5% year over year, the biggest increase since November 2022.",
+   "At 10:08 a.m. ET the S&P 500 was down 0.67%, the Nasdaq 1.01% and the Dow 0.13%; the 10-year Treasury rose to 5.16%, its highest since October.",
+   "For supply chain: wholesale inflation is spreading through manufacturing and supply chains; prepare for supplier increases and review the cost of financing inventory."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "Futures pointed to a steady session and at the open the S&P 500 and Dow were up 0.4%, but the market turned lower: at 10:08 a.m. ET the S&P 500 stood at 7,541.40 (−0.67%), the Nasdaq at 25,110.86 (−1.01%) and the Dow at 52,229.12 (−0.13%); the VIX rose to 19.16. At 8:30 a.m. ET October's producer price index (PPI) rose 0.3% monthly, less than the 0.4% expected, but 6.5% year over year, the biggest rise since November 2022; core annual eased to 4.9% from 5.0%. The 10-year Treasury rose to 5.16%, its highest since October. Nvidia was down 2.6% ($161.83) and dragged chips: AMD −8.0% and Applied Materials −4.8% despite record revenue; Cerebras rose 11.7% after raising its outlook. Brent was at $96.97 (+1.2%), WTI at $89.49 (+0.9%), gold at $3,898 (+0.3%) and bitcoin fell below $70,000 for the first time in nearly three months."
+   },
+   {
+    "t": "Asia and Europe",
+    "x": "Asia closed mixed: Nikkei +0.53% (61,142.35), KOSPI −0.98% (5,290.53), Hang Seng −2.79% and Shanghai −1.26%. At 9:53 a.m. ET Europe was flat: Euro Stoxx 50 −0.12%, DAX +0.02%, CAC 40 +0.05% and FTSE 100 +0.22%."
+   },
+   {
+    "t": "What to expect today",
+    "x": "With no more major US data today, the market closes a week marked by Jensen Huang's exit, the Treasury above 5% and crude near $97. Nvidia reports results on Tuesday the 17th. On Monday the 16th the BMV closes for Revolution Day; Wall Street trades normally."
+   }
+  ],
+  "scm": "PPI at 6.5% year over year shows inflation has spread into manufacturing and supply chains: prepare for supplier increases in inputs and packaging, and lock first-quarter purchase prices where you can. With the Treasury at 5.16%, review the inventory days you finance with debt."
+ },
+ "pt": {
+  "titular": "O PPI sobe 6,5% no ano, a maior alta em quatro anos; o Treasury chega a 5,16% e o Nasdaq cai 1%",
+  "esencial": [
+   "O índice de preços ao produtor dos EUA subiu 0,3% em outubro (esperava-se 0,4%), mas 6,5% em 12 meses, a maior alta desde novembro de 2022.",
+   "Às 9h08 (Cidade do México) o S&P 500 caía 0,67%, o Nasdaq 1,01% e o Dow 0,13%; o Treasury de 10 anos subia para 5,16%, o maior nível desde outubro.",
+   "Para supply chain: a inflação no atacado se espalha pela manufatura e pelas cadeias de suprimentos; prepare-se para reajustes de fornecedores e revise o custo de financiar estoque."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Os futuros antecipavam uma sessão estável e na abertura o S&P 500 e o Dow subiam 0,4%, mas o mercado virou para baixo: às 9h08 (Cidade do México) o S&P 500 estava em 7.541,40 (−0,67%), o Nasdaq em 25.110,86 (−1,01%) e o Dow em 52.229,12 (−0,13%); o VIX subia para 19,16. Às 7h30 o índice de preços ao produtor (PPI) de outubro subiu 0,3% no mês, menos que os 0,4% esperados, mas 6,5% em 12 meses, a maior alta desde novembro de 2022; o núcleo anual caiu para 4,9% de 5,0%. O Treasury de 10 anos subiu para 5,16%, o maior nível desde outubro. A Nvidia caía 2,6% (161,83 dólares) e arrastava os chips: AMD −8,0% e Applied Materials −4,8% apesar da receita recorde; a Cerebras subia 11,7% após elevar sua previsão. O Brent estava a 96,97 dólares (+1,2%), o WTI a 89,49 (+0,9%), o ouro a 3.898 (+0,3%) e o bitcoin caiu abaixo de 70 mil dólares pela primeira vez em quase três meses."
+   },
+   {
+    "t": "Ásia e Europa",
+    "x": "A Ásia fechou mista: Nikkei +0,53% (61.142,35), KOSPI −0,98% (5.290,53), Hang Seng −2,79% e Xangai −1,26%. Às 8h53 (Cidade do México) a Europa estava estável: Euro Stoxx 50 −0,12%, DAX +0,02%, CAC 40 +0,05% e FTSE 100 +0,22%."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Sem mais dados relevantes nos EUA hoje, o mercado fecha uma semana marcada pela saída de Jensen Huang, pelo Treasury acima de 5% e pelo petróleo perto de 97 dólares. A Nvidia divulga resultados na terça, dia 17. Na segunda, dia 16, a BMV fecha pelo Dia da Revolução; Wall Street opera normalmente."
+   }
+  ],
+  "scm": "O PPI de 6,5% em 12 meses mostra que a inflação já se espalhou pela manufatura e pelas cadeias de suprimentos: prepare-se para reajustes de fornecedores em insumos e embalagens e fixe preços de compra para o primeiro trimestre onde puder. Com o Treasury em 5,16%, revise os dias de estoque que você financia com dívida."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: S&P 500 y Nasdaq bajan con el PPI; Nvidia cae (13 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+  },
+  {
+   "t": "Yahoo Finance AlphaCheck: el Treasury sube con el PPI y Nvidia arrastra a los chips (13 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/article/copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-150655549.html"
+  },
+  {
+   "t": "Yahoo Finance: Cerebras sube por sus resultados del tercer trimestre (13 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/article/cerebras-stock-surges-after-ai-chipmaker-posts-q3-record-revenue-deals-with-hyperscalers-124719638.html"
+  },
+  {
+   "t": "Applied Materials: resultados del cuarto trimestre y del año fiscal 2026 (12 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-announces-fourth-quarter-210100253.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
