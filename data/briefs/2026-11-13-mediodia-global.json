@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-13-mediodia-global",
+ "fecha": "2026-11-13",
+ "momento": "mediodia",
+ "mercado": "global",
+ "hora": "11:37 CDMX",
+ "es": {
+  "titular": "La venta de chips se acelera: AMD cae 10% y el Nasdaq 1.2%; el VIX sube a 20",
+  "esencial": [
+   "A las 11:37 CDMX el S&P 500 bajaba 0.66%, el Nasdaq 1.17% y el Dow 0.07%; el VIX subía 6.8% a 19.98.",
+   "AMD caía 10.2%, Broadcom cerca de 6% y Nvidia 2.9%, que queda debajo de 4 billones de dólares de valor, según Yahoo Finance.",
+   "Para supply chain: la AIE prevé que el mercado petrolero vuelva a tener excedente en el cuarto trimestre; el Brent se estabiliza en 95.85 dólares."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el mercado giró a la baja tras el PPI de octubre (0.3% mensual, 6.5% anual), con el Treasury a 10 años en 5.16% y el Nasdaq −1.0% por los chips."
+   },
+   {
+    "t": "Cómo va",
+    "x": "La venta de chips se aceleró: a las 11:37 CDMX el S&P 500 estaba en 7,542.10 (−0.66%), el Nasdaq en 25,070.53 (−1.17%) y el Dow en 52,260.89 (−0.07%); el VIX subía 6.8% a 19.98. AMD caía 10.2%, Applied Materials 4.4% y Nvidia 2.9% (161.37 dólares); Broadcom e Intel perdían cerca de 6% y 5%, y Micron y SK Hynix entre 5% y 6%, según Yahoo Finance. El Treasury a 10 años llegó a 5.17% y estaba en 5.13%. El Brent estaba en 95.85 dólares (sin cambio), el WTI en 88.57 (−0.2%), el cobre caía 1.7% y el bitcoin seguía debajo de 70,000. Europa cerró casi plana: Euro Stoxx 50 −0.19%."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "La Agencia Internacional de Energía (AIE) prevé que el mercado petrolero vuelva a tener excedente en el cuarto trimestre, por primera vez desde que empezó la guerra con Irán, según The Wall Street Journal. La próxima semana vienen dos pruebas para la IA: los resultados de Nvidia el martes, con Colette Kress como directora interina, y la oferta pública de Anthropic, prevista para el jueves."
+   }
+  ],
+  "scm": "Con la AIE anticipando excedente de crudo, no firmes recargos de combustible de largo plazo: pide ajuste semanal. Si compras GPU, memoria o almacenamiento, confirma pedidos antes de los resultados de Nvidia del martes."
+ },
+ "en": {
+  "titular": "The chip selloff accelerates: AMD falls 10% and the Nasdaq 1.2%; the VIX rises to 20",
+  "esencial": [
+   "At 12:37 p.m. ET the S&P 500 was down 0.66%, the Nasdaq 1.17% and the Dow 0.07%; the VIX rose 6.8% to 19.98.",
+   "AMD fell 10.2%, Broadcom nearly 6% and Nvidia 2.9%, which slips below $4 trillion in value, according to Yahoo Finance.",
+   "For supply chain: the IEA expects the oil market to return to surplus in the fourth quarter; Brent steadies at $95.85."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the market turned lower after October PPI (0.3% monthly, 6.5% year over year), with the 10-year Treasury at 5.16% and the Nasdaq −1.0% on chips."
+   },
+   {
+    "t": "How it is going",
+    "x": "The chip selloff accelerated: at 12:37 p.m. ET the S&P 500 stood at 7,542.10 (−0.66%), the Nasdaq at 25,070.53 (−1.17%) and the Dow at 52,260.89 (−0.07%); the VIX rose 6.8% to 19.98. AMD fell 10.2%, Applied Materials 4.4% and Nvidia 2.9% ($161.37); Broadcom and Intel lost about 6% and 5%, and Micron and SK Hynix between 5% and 6%, according to Yahoo Finance. The 10-year Treasury hit 5.17% and was at 5.13%. Brent was at $95.85 (flat), WTI at $88.57 (−0.2%), copper fell 1.7% and bitcoin stayed below $70,000. Europe closed nearly flat: Euro Stoxx 50 −0.19%."
+   },
+   {
+    "t": "What surprised",
+    "x": "The International Energy Agency (IEA) expects the oil market to return to surplus in the fourth quarter, for the first time since the Iran war began, according to The Wall Street Journal. Two tests for AI come next week: Nvidia's results on Tuesday, with Colette Kress as interim CEO, and Anthropic's IPO, expected on Thursday."
+   }
+  ],
+  "scm": "With the IEA anticipating a crude surplus, don't sign long-term fuel surcharges: ask for weekly adjustment. If you buy GPUs, memory or storage, confirm orders before Nvidia's Tuesday results."
+ },
+ "pt": {
+  "titular": "A venda de chips se acelera: a AMD cai 10% e o Nasdaq 1,2%; o VIX sobe para 20",
+  "esencial": [
+   "Às 11h37 (Cidade do México) o S&P 500 caía 0,66%, o Nasdaq 1,17% e o Dow 0,07%; o VIX subia 6,8% para 19,98.",
+   "A AMD caía 10,2%, a Broadcom quase 6% e a Nvidia 2,9%, que fica abaixo de 4 trilhões de dólares em valor, segundo o Yahoo Finance.",
+   "Para supply chain: a AIE prevê que o mercado de petróleo volte a ter excedente no quarto trimestre; o Brent se estabiliza a 95,85 dólares."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o mercado virou para baixo após o PPI de outubro (0,3% no mês, 6,5% em 12 meses), com o Treasury de 10 anos em 5,16% e o Nasdaq −1,0% pelos chips."
+   },
+   {
+    "t": "Como está",
+    "x": "A venda de chips se acelerou: às 11h37 (Cidade do México) o S&P 500 estava em 7.542,10 (−0,66%), o Nasdaq em 25.070,53 (−1,17%) e o Dow em 52.260,89 (−0,07%); o VIX subia 6,8% para 19,98. A AMD caía 10,2%, a Applied Materials 4,4% e a Nvidia 2,9% (161,37 dólares); Broadcom e Intel perdiam cerca de 6% e 5%, e Micron e SK Hynix entre 5% e 6%, segundo o Yahoo Finance. O Treasury de 10 anos chegou a 5,17% e estava em 5,13%. O Brent estava a 95,85 dólares (estável), o WTI a 88,57 (−0,2%), o cobre caía 1,7% e o bitcoin seguia abaixo de 70 mil. A Europa fechou quase estável: Euro Stoxx 50 −0,19%."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A Agência Internacional de Energia (AIE) prevê que o mercado de petróleo volte a ter excedente no quarto trimestre, pela primeira vez desde o início da guerra com o Irã, segundo o The Wall Street Journal. Na próxima semana vêm dois testes para a IA: os resultados da Nvidia na terça, com Colette Kress como CEO interina, e a oferta pública da Anthropic, prevista para quinta."
+   }
+  ],
+  "scm": "Com a AIE antecipando excedente de petróleo, não assine sobretaxas de combustível de longo prazo: peça ajuste semanal. Se você compra GPUs, memória ou armazenamento, confirme os pedidos antes dos resultados da Nvidia de terça."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: el Nasdaq encabeza las bajas por la venta de chips (13 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+  },
+  {
+   "t": "The Wall Street Journal vía Yahoo Finance: las bolsas caen y Nvidia vuelve a bajar (13 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-lower-investors-look-111900529.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 11:37 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

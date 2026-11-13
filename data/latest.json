@@ -1,183 +1,175 @@
 {
- "actualizado": "2026-11-13T15:10:58Z",
- "momento": "apertura",
+ "actualizado": "2026-11-13T17:39:36Z",
+ "momento": "mediodia",
  "briefs": {
   "global": {
-   "id": "2026-11-13-apertura-global",
+   "id": "2026-11-13-mediodia-global",
    "fecha": "2026-11-13",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "global",
-   "hora": "09:08 CDMX",
+   "hora": "11:37 CDMX",
    "es": {
-    "titular": "El PPI sube 6.5% anual, su mayor alza en cuatro años; el Treasury llega a 5.16% y el Nasdaq cae 1%",
+    "titular": "La venta de chips se acelera: AMD cae 10% y el Nasdaq 1.2%; el VIX sube a 20",
     "esencial": [
-     "El índice de precios al productor de EE. UU. subió 0.3% en octubre (se esperaba 0.4%), pero 6.5% anual, el mayor aumento desde noviembre de 2022.",
-     "A las 9:08 CDMX el S&P 500 bajaba 0.67%, el Nasdaq 1.01% y el Dow 0.13%; el Treasury a 10 años subía a 5.16%, su nivel más alto desde octubre.",
-     "Para supply chain: la inflación mayorista se extiende a manufactura y cadenas de suministro; prepara aumentos de proveedores y revisa el costo de financiar inventario."
+     "A las 11:37 CDMX el S&P 500 bajaba 0.66%, el Nasdaq 1.17% y el Dow 0.07%; el VIX subía 6.8% a 19.98.",
+     "AMD caía 10.2%, Broadcom cerca de 6% y Nvidia 2.9%, que queda debajo de 4 billones de dólares de valor, según Yahoo Finance.",
+     "Para supply chain: la AIE prevé que el mercado petrolero vuelva a tener excedente en el cuarto trimestre; el Brent se estabiliza en 95.85 dólares."
     ],
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "Los futuros anticipaban una sesión estable y al abrir el S&P 500 y el Dow subían 0.4%, pero el mercado giró a la baja: a las 9:08 CDMX el S&P 500 estaba en 7,541.40 (−0.67%), el Nasdaq en 25,110.86 (−1.01%) y el Dow en 52,229.12 (−0.13%); el VIX subía a 19.16. A las 7:30 CDMX el índice de precios al productor (PPI) de octubre subió 0.3% mensual, menos que el 0.4% esperado, pero 6.5% anual, la mayor alza desde noviembre de 2022; el subyacente anual bajó a 4.9% desde 5.0%. El Treasury a 10 años subió a 5.16%, su nivel más alto desde octubre. Nvidia caía 2.6% (161.83 dólares) y arrastraba a los chips: AMD −8.0% y Applied Materials −4.8% pese a sus ingresos récord; Cerebras subía 11.7% tras elevar su pronóstico. El Brent estaba en 96.97 dólares (+1.2%), el WTI en 89.49 (+0.9%), el oro en 3,898 (+0.3%) y el bitcoin bajó de 70,000 dólares por primera vez en casi tres meses."
+      "t": "Lo que se esperaba",
+      "x": "En la apertura el mercado giró a la baja tras el PPI de octubre (0.3% mensual, 6.5% anual), con el Treasury a 10 años en 5.16% y el Nasdaq −1.0% por los chips."
      },
      {
-      "t": "Asia y Europa",
-      "x": "Asia cerró mixta: Nikkei +0.53% (61,142.35), KOSPI −0.98% (5,290.53), Hang Seng −2.79% y Shanghái −1.26%. A las 8:53 CDMX Europa estaba plana: Euro Stoxx 50 −0.12%, DAX +0.02%, CAC 40 +0.05% y FTSE 100 +0.22%."
+      "t": "Cómo va",
+      "x": "La venta de chips se aceleró: a las 11:37 CDMX el S&P 500 estaba en 7,542.10 (−0.66%), el Nasdaq en 25,070.53 (−1.17%) y el Dow en 52,260.89 (−0.07%); el VIX subía 6.8% a 19.98. AMD caía 10.2%, Applied Materials 4.4% y Nvidia 2.9% (161.37 dólares); Broadcom e Intel perdían cerca de 6% y 5%, y Micron y SK Hynix entre 5% y 6%, según Yahoo Finance. El Treasury a 10 años llegó a 5.17% y estaba en 5.13%. El Brent estaba en 95.85 dólares (sin cambio), el WTI en 88.57 (−0.2%), el cobre caía 1.7% y el bitcoin seguía debajo de 70,000. Europa cerró casi plana: Euro Stoxx 50 −0.19%."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "Sin más datos relevantes en EE. UU. hoy, el mercado cierra una semana marcada por la salida de Jensen Huang, el Treasury arriba de 5% y el crudo cerca de 97 dólares. Nvidia reporta resultados el martes 17. El lunes 16 la BMV cierra por el Día de la Revolución; Wall Street opera normal."
+      "t": "Lo que sorprendió",
+      "x": "La Agencia Internacional de Energía (AIE) prevé que el mercado petrolero vuelva a tener excedente en el cuarto trimestre, por primera vez desde que empezó la guerra con Irán, según The Wall Street Journal. La próxima semana vienen dos pruebas para la IA: los resultados de Nvidia el martes, con Colette Kress como directora interina, y la oferta pública de Anthropic, prevista para el jueves."
      }
     ],
-    "scm": "El PPI de 6.5% anual muestra que la inflación ya se extendió a manufactura y cadenas de suministro: prepara aumentos de proveedores en insumos y empaques, y fija precios de compra para el primer trimestre donde puedas. Con el Treasury en 5.16%, revisa los días de inventario que financias con deuda."
+    "scm": "Con la AIE anticipando excedente de crudo, no firmes recargos de combustible de largo plazo: pide ajuste semanal. Si compras GPU, memoria o almacenamiento, confirma pedidos antes de los resultados de Nvidia del martes."
    },
    "en": {
-    "titular": "PPI rises 6.5% year over year, its biggest jump in four years; the Treasury hits 5.16% and the Nasdaq falls 1%",
+    "titular": "The chip selloff accelerates: AMD falls 10% and the Nasdaq 1.2%; the VIX rises to 20",
     "esencial": [
-     "The US producer price index rose 0.3% in October (0.4% expected), but 6.5% year over year, the biggest increase since November 2022.",
-     "At 10:08 a.m. ET the S&P 500 was down 0.67%, the Nasdaq 1.01% and the Dow 0.13%; the 10-year Treasury rose to 5.16%, its highest since October.",
-     "For supply chain: wholesale inflation is spreading through manufacturing and supply chains; prepare for supplier increases and review the cost of financing inventory."
+     "At 12:37 p.m. ET the S&P 500 was down 0.66%, the Nasdaq 1.17% and the Dow 0.07%; the VIX rose 6.8% to 19.98.",
+     "AMD fell 10.2%, Broadcom nearly 6% and Nvidia 2.9%, which slips below $4 trillion in value, according to Yahoo Finance.",
+     "For supply chain: the IEA expects the oil market to return to surplus in the fourth quarter; Brent steadies at $95.85."
     ],
     "bloques": [
      {
-      "t": "Open",
-      "x": "Futures pointed to a steady session and at the open the S&P 500 and Dow were up 0.4%, but the market turned lower: at 10:08 a.m. ET the S&P 500 stood at 7,541.40 (−0.67%), the Nasdaq at 25,110.86 (−1.01%) and the Dow at 52,229.12 (−0.13%); the VIX rose to 19.16. At 8:30 a.m. ET October's producer price index (PPI) rose 0.3% monthly, less than the 0.4% expected, but 6.5% year over year, the biggest rise since November 2022; core annual eased to 4.9% from 5.0%. The 10-year Treasury rose to 5.16%, its highest since October. Nvidia was down 2.6% ($161.83) and dragged chips: AMD −8.0% and Applied Materials −4.8% despite record revenue; Cerebras rose 11.7% after raising its outlook. Brent was at $96.97 (+1.2%), WTI at $89.49 (+0.9%), gold at $3,898 (+0.3%) and bitcoin fell below $70,000 for the first time in nearly three months."
+      "t": "What was expected",
+      "x": "At the open the market turned lower after October PPI (0.3% monthly, 6.5% year over year), with the 10-year Treasury at 5.16% and the Nasdaq −1.0% on chips."
      },
      {
-      "t": "Asia and Europe",
-      "x": "Asia closed mixed: Nikkei +0.53% (61,142.35), KOSPI −0.98% (5,290.53), Hang Seng −2.79% and Shanghai −1.26%. At 9:53 a.m. ET Europe was flat: Euro Stoxx 50 −0.12%, DAX +0.02%, CAC 40 +0.05% and FTSE 100 +0.22%."
+      "t": "How it is going",
+      "x": "The chip selloff accelerated: at 12:37 p.m. ET the S&P 500 stood at 7,542.10 (−0.66%), the Nasdaq at 25,070.53 (−1.17%) and the Dow at 52,260.89 (−0.07%); the VIX rose 6.8% to 19.98. AMD fell 10.2%, Applied Materials 4.4% and Nvidia 2.9% ($161.37); Broadcom and Intel lost about 6% and 5%, and Micron and SK Hynix between 5% and 6%, according to Yahoo Finance. The 10-year Treasury hit 5.17% and was at 5.13%. Brent was at $95.85 (flat), WTI at $88.57 (−0.2%), copper fell 1.7% and bitcoin stayed below $70,000. Europe closed nearly flat: Euro Stoxx 50 −0.19%."
      },
      {
-      "t": "What to expect today",
-      "x": "With no more major US data today, the market closes a week marked by Jensen Huang's exit, the Treasury above 5% and crude near $97. Nvidia reports results on Tuesday the 17th. On Monday the 16th the BMV closes for Revolution Day; Wall Street trades normally."
+      "t": "What surprised",
+      "x": "The International Energy Agency (IEA) expects the oil market to return to surplus in the fourth quarter, for the first time since the Iran war began, according to The Wall Street Journal. Two tests for AI come next week: Nvidia's results on Tuesday, with Colette Kress as interim CEO, and Anthropic's IPO, expected on Thursday."
      }
     ],
-    "scm": "PPI at 6.5% year over year shows inflation has spread into manufacturing and supply chains: prepare for supplier increases in inputs and packaging, and lock first-quarter purchase prices where you can. With the Treasury at 5.16%, review the inventory days you finance with debt."
+    "scm": "With the IEA anticipating a crude surplus, don't sign long-term fuel surcharges: ask for weekly adjustment. If you buy GPUs, memory or storage, confirm orders before Nvidia's Tuesday results."
    },
    "pt": {
-    "titular": "O PPI sobe 6,5% no ano, a maior alta em quatro anos; o Treasury chega a 5,16% e o Nasdaq cai 1%",
+    "titular": "A venda de chips se acelera: a AMD cai 10% e o Nasdaq 1,2%; o VIX sobe para 20",
     "esencial": [
-     "O índice de preços ao produtor dos EUA subiu 0,3% em outubro (esperava-se 0,4%), mas 6,5% em 12 meses, a maior alta desde novembro de 2022.",
-     "Às 9h08 (Cidade do México) o S&P 500 caía 0,67%, o Nasdaq 1,01% e o Dow 0,13%; o Treasury de 10 anos subia para 5,16%, o maior nível desde outubro.",
-     "Para supply chain: a inflação no atacado se espalha pela manufatura e pelas cadeias de suprimentos; prepare-se para reajustes de fornecedores e revise o custo de financiar estoque."
+     "Às 11h37 (Cidade do México) o S&P 500 caía 0,66%, o Nasdaq 1,17% e o Dow 0,07%; o VIX subia 6,8% para 19,98.",
+     "A AMD caía 10,2%, a Broadcom quase 6% e a Nvidia 2,9%, que fica abaixo de 4 trilhões de dólares em valor, segundo o Yahoo Finance.",
+     "Para supply chain: a AIE prevê que o mercado de petróleo volte a ter excedente no quarto trimestre; o Brent se estabiliza a 95,85 dólares."
     ],
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Os futuros antecipavam uma sessão estável e na abertura o S&P 500 e o Dow subiam 0,4%, mas o mercado virou para baixo: às 9h08 (Cidade do México) o S&P 500 estava em 7.541,40 (−0,67%), o Nasdaq em 25.110,86 (−1,01%) e o Dow em 52.229,12 (−0,13%); o VIX subia para 19,16. Às 7h30 o índice de preços ao produtor (PPI) de outubro subiu 0,3% no mês, menos que os 0,4% esperados, mas 6,5% em 12 meses, a maior alta desde novembro de 2022; o núcleo anual caiu para 4,9% de 5,0%. O Treasury de 10 anos subiu para 5,16%, o maior nível desde outubro. A Nvidia caía 2,6% (161,83 dólares) e arrastava os chips: AMD −8,0% e Applied Materials −4,8% apesar da receita recorde; a Cerebras subia 11,7% após elevar sua previsão. O Brent estava a 96,97 dólares (+1,2%), o WTI a 89,49 (+0,9%), o ouro a 3.898 (+0,3%) e o bitcoin caiu abaixo de 70 mil dólares pela primeira vez em quase três meses."
+      "t": "O que se esperava",
+      "x": "Na abertura o mercado virou para baixo após o PPI de outubro (0,3% no mês, 6,5% em 12 meses), com o Treasury de 10 anos em 5,16% e o Nasdaq −1,0% pelos chips."
      },
      {
-      "t": "Ásia e Europa",
-      "x": "A Ásia fechou mista: Nikkei +0,53% (61.142,35), KOSPI −0,98% (5.290,53), Hang Seng −2,79% e Xangai −1,26%. Às 8h53 (Cidade do México) a Europa estava estável: Euro Stoxx 50 −0,12%, DAX +0,02%, CAC 40 +0,05% e FTSE 100 +0,22%."
+      "t": "Como está",
+      "x": "A venda de chips se acelerou: às 11h37 (Cidade do México) o S&P 500 estava em 7.542,10 (−0,66%), o Nasdaq em 25.070,53 (−1,17%) e o Dow em 52.260,89 (−0,07%); o VIX subia 6,8% para 19,98. A AMD caía 10,2%, a Applied Materials 4,4% e a Nvidia 2,9% (161,37 dólares); Broadcom e Intel perdiam cerca de 6% e 5%, e Micron e SK Hynix entre 5% e 6%, segundo o Yahoo Finance. O Treasury de 10 anos chegou a 5,17% e estava em 5,13%. O Brent estava a 95,85 dólares (estável), o WTI a 88,57 (−0,2%), o cobre caía 1,7% e o bitcoin seguia abaixo de 70 mil. A Europa fechou quase estável: Euro Stoxx 50 −0,19%."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Sem mais dados relevantes nos EUA hoje, o mercado fecha uma semana marcada pela saída de Jensen Huang, pelo Treasury acima de 5% e pelo petróleo perto de 97 dólares. A Nvidia divulga resultados na terça, dia 17. Na segunda, dia 16, a BMV fecha pelo Dia da Revolução; Wall Street opera normalmente."
+      "t": "O que surpreendeu",
+      "x": "A Agência Internacional de Energia (AIE) prevê que o mercado de petróleo volte a ter excedente no quarto trimestre, pela primeira vez desde o início da guerra com o Irã, segundo o The Wall Street Journal. Na próxima semana vêm dois testes para a IA: os resultados da Nvidia na terça, com Colette Kress como CEO interina, e a oferta pública da Anthropic, prevista para quinta."
      }
     ],
-    "scm": "O PPI de 6,5% em 12 meses mostra que a inflação já se espalhou pela manufatura e pelas cadeias de suprimentos: prepare-se para reajustes de fornecedores em insumos e embalagens e fixe preços de compra para o primeiro trimestre onde puder. Com o Treasury em 5,16%, revise os dias de estoque que você financia com dívida."
+    "scm": "Com a AIE antecipando excedente de petróleo, não assine sobretaxas de combustível de longo prazo: peça ajuste semanal. Se você compra GPUs, memória ou armazenamento, confirme os pedidos antes dos resultados da Nvidia de terça."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: S&P 500 y Nasdaq bajan con el PPI; Nvidia cae (13 nov 2026)",
+     "t": "Yahoo Finance: el Nasdaq encabeza las bajas por la venta de chips (13 nov 2026)",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     },
     {
-     "t": "Yahoo Finance AlphaCheck: el Treasury sube con el PPI y Nvidia arrastra a los chips (13 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/article/copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-150655549.html"
+     "t": "The Wall Street Journal vía Yahoo Finance: las bolsas caen y Nvidia vuelve a bajar (13 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-lower-investors-look-111900529.html"
     },
     {
-     "t": "Yahoo Finance: Cerebras sube por sus resultados del tercer trimestre (13 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/article/cerebras-stock-surges-after-ai-chipmaker-posts-q3-record-revenue-deals-with-hyperscalers-124719638.html"
-    },
-    {
-     "t": "Applied Materials: resultados del cuarto trimestre y del año fiscal 2026 (12 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-announces-fourth-quarter-210100253.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 11:37 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-13-apertura-latam",
+   "id": "2026-11-13-mediodia-latam",
    "fecha": "2026-11-13",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "latam",
-   "hora": "09:08 CDMX",
+   "hora": "11:37 CDMX",
    "es": {
-    "titular": "El Ibovespa abre con +0.6% y Argentina sube 0.8%; el peso chileno llega a 999",
+    "titular": "El Ibovespa sube 0.55% y el TSX 0.12% pese a la venta de chips; Colombia cae 0.9%",
     "esencial": [
-     "A las 8:53 CDMX el Ibovespa subía 0.62% (172,383.62) y el ETF de MSCI de Argentina 0.81%.",
-     "El dólar subía 0.51% frente al peso chileno (999.1), mientras el real se apreciaba levemente (5.64).",
-     "Con el cobre −1.0%, cotiza insumos de cobre y escalona los pagos en pesos chilenos."
+     "A las 11:22 CDMX el Ibovespa subía 0.55% (172,274.31) y a las 11:37 el S&P/TSX 0.12%.",
+     "El iCOLCAP de Colombia bajaba 0.86% y el peso colombiano perdía 0.48% (3,324 por dólar).",
+     "Con el cobre −1.7%, cotiza hoy cable e insumos de cobre."
     ],
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "A las 8:53 CDMX el Ibovespa subía 0.62% a 172,383.62 y a las 9:08 el S&P/TSX estaba sin cambio (−0.01%). Los ETF de MSCI subían 0.81% en Argentina y 0.35% en Perú, y bajaban 0.14% en Chile. En monedas, a las 9:08 CDMX el dólar estaba en 999.1 pesos chilenos (+0.51%), 5.64 reales (−0.11%), 3,308 pesos colombianos (sin cambio), 3.40 soles (−0.14%), 1,547.5 pesos argentinos (+0.16%) y 1.424 dólares canadienses (−0.13%)."
+      "t": "Lo que se esperaba",
+      "x": "En la apertura el Ibovespa subía 0.62% y el ETF de Argentina 0.81%, mientras el peso chileno llegaba a 999 por dólar."
      },
      {
-      "t": "Contexto",
-      "x": "El PPI de EE. UU. menor a lo esperado en el mes da algo de alivio, pero el Treasury en 5.16% y el cobre −1.0% (6.14 dólares por libra) pesan sobre Chile. El crudo cerca de 97 dólares (Brent) favorece a los exportadores de energía."
+      "t": "Cómo va",
+      "x": "A las 11:22 CDMX el Ibovespa estaba en 172,274.31 (+0.55%) y a las 11:37 el S&P/TSX en 36,180.22 (+0.12%). Los ETF de MSCI subían 0.45% en Argentina y 0.11% en Chile, y Perú no cambiaba; el iCOLCAP bajaba 0.86% a las 10:48. A las 11:37 el dólar estaba en 994.8 pesos chilenos (+0.08%), 5.64 reales (−0.09%), 3,324 pesos colombianos (+0.48%), 3.40 soles (−0.10%) y 1,544 pesos argentinos (−0.06%)."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "La agenda regional del viernes es ligera; la región cierra una semana marcada por la debilidad del real y del peso chileno y por el IPCA de Brasil (0.14% en octubre), debajo de lo esperado."
+      "t": "Lo que sorprendió",
+      "x": "La región resiste la venta de chips de Wall Street; el peso chileno recuperó parte de lo perdido en la mañana, aunque el cobre amplió su caída a 1.7% (6.09 dólares por libra)."
      }
     ],
-    "scm": "Cotiza cable e insumos de cobre con el precio a la baja y escalona los pagos en pesos chilenos, que llegan a 999 por dólar."
+    "scm": "Cotiza hoy cable e insumos de cobre con el precio a la baja, y escalona los pagos en pesos colombianos, que se debilitan."
    },
    "en": {
-    "titular": "The Ibovespa opens +0.6% and Argentina rises 0.8%; the Chilean peso reaches 999",
+    "titular": "The Ibovespa rises 0.55% and the TSX 0.12% despite the chip selloff; Colombia falls 0.9%",
     "esencial": [
-     "At 8:53 a.m. Mexico City time the Ibovespa was up 0.62% (172,383.62) and the MSCI Argentina ETF 0.81%.",
-     "The dollar was up 0.51% against the Chilean peso (999.1), while the real firmed slightly (5.64).",
-     "With copper −1.0%, quote copper inputs and stagger payments in Chilean pesos."
+     "At 11:22 a.m. Mexico City time the Ibovespa was up 0.55% (172,274.31) and at 11:37 the S&P/TSX 0.12%.",
+     "Colombia's iCOLCAP was down 0.86% and the Colombian peso lost 0.48% (3,324 per dollar).",
+     "With copper −1.7%, quote cable and copper inputs today."
     ],
     "bloques": [
      {
-      "t": "Open",
-      "x": "At 8:53 a.m. Mexico City time the Ibovespa was up 0.62% at 172,383.62 and at 9:08 the S&P/TSX was flat (−0.01%). The MSCI ETFs rose 0.81% for Argentina and 0.35% for Peru, and fell 0.14% for Chile. In currencies, at 9:08 a.m. the dollar stood at 999.1 Chilean pesos (+0.51%), 5.64 reais (−0.11%), 3,308 Colombian pesos (flat), 3.40 soles (−0.14%), 1,547.5 Argentine pesos (+0.16%) and 1.424 Canadian dollars (−0.13%)."
+      "t": "What was expected",
+      "x": "At the open the Ibovespa was up 0.62% and the Argentina ETF 0.81%, while the Chilean peso reached 999 per dollar."
      },
      {
-      "t": "Context",
-      "x": "The softer-than-expected monthly US PPI offers some relief, but the Treasury at 5.16% and copper −1.0% ($6.14 per pound) weigh on Chile. Crude near $97 (Brent) favors energy exporters."
+      "t": "How it is going",
+      "x": "At 11:22 a.m. Mexico City time the Ibovespa stood at 172,274.31 (+0.55%) and at 11:37 the S&P/TSX at 36,180.22 (+0.12%). The MSCI ETFs rose 0.45% for Argentina and 0.11% for Chile, and Peru was flat; the iCOLCAP fell 0.86% at 10:48. At 11:37 the dollar stood at 994.8 Chilean pesos (+0.08%), 5.64 reais (−0.09%), 3,324 Colombian pesos (+0.48%), 3.40 soles (−0.10%) and 1,544 Argentine pesos (−0.06%)."
      },
      {
-      "t": "What to expect today",
-      "x": "Friday's regional agenda is light; the region closes a week marked by weakness in the real and the Chilean peso and by Brazil's IPCA (0.14% in October), below expectations."
+      "t": "What surprised",
+      "x": "The region is holding up against Wall Street's chip selloff; the Chilean peso recovered part of its morning loss, although copper extended its drop to 1.7% ($6.09 per pound)."
      }
     ],
-    "scm": "Quote cable and copper inputs while prices dip and stagger payments in Chilean pesos, now at 999 per dollar."
+    "scm": "Quote cable and copper inputs today while prices dip, and stagger payments in Colombian pesos, which are weakening."
    },
    "pt": {
-    "titular": "O Ibovespa abre com +0,6% e a Argentina sobe 0,8%; o peso chileno chega a 999",
+    "titular": "O Ibovespa sobe 0,55% e o TSX 0,12% apesar da venda de chips; a Colômbia cai 0,9%",
     "esencial": [
-     "Às 8h53 (Cidade do México) o Ibovespa subia 0,62% (172.383,62) e o ETF da MSCI da Argentina 0,81%.",
-     "O dólar subia 0,51% frente ao peso chileno (999,1), enquanto o real se valorizava levemente (R$ 5,64).",
-     "Com o cobre −1,0%, cote insumos de cobre e escalone os pagamentos em pesos chilenos."
+     "Às 11h22 (Cidade do México) o Ibovespa subia 0,55% (172.274,31) e às 11h37 o S&P/TSX 0,12%.",
+     "O iCOLCAP da Colômbia caía 0,86% e o peso colombiano perdia 0,48% (3.324 por dólar).",
+     "Com o cobre −1,7%, cote hoje cabos e insumos de cobre."
     ],
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Às 8h53 (Cidade do México) o Ibovespa subia 0,62% para 172.383,62 e às 9h08 o S&P/TSX estava estável (−0,01%). Os ETFs da MSCI subiam 0,81% na Argentina e 0,35% no Peru, e caíam 0,14% no Chile. Nas moedas, às 9h08 o dólar estava em 999,1 pesos chilenos (+0,51%), R$ 5,64 (−0,11%), 3.308 pesos colombianos (estável), 3,40 soles (−0,14%), 1.547,5 pesos argentinos (+0,16%) e 1,424 dólar canadense (−0,13%)."
+      "t": "O que se esperava",
+      "x": "Na abertura o Ibovespa subia 0,62% e o ETF da Argentina 0,81%, enquanto o peso chileno chegava a 999 por dólar."
      },
      {
-      "t": "Contexto",
-      "x": "O PPI mensal dos EUA abaixo do esperado dá algum alívio, mas o Treasury em 5,16% e o cobre −1,0% (6,14 dólares por libra) pesam sobre o Chile. O petróleo perto de 97 dólares (Brent) favorece os exportadores de energia."
+      "t": "Como está",
+      "x": "Às 11h22 (Cidade do México) o Ibovespa estava em 172.274,31 (+0,55%) e às 11h37 o S&P/TSX em 36.180,22 (+0,12%). Os ETFs da MSCI subiam 0,45% na Argentina e 0,11% no Chile, e o Peru não mudava; o iCOLCAP caía 0,86% às 10h48. Às 11h37 o dólar estava em 994,8 pesos chilenos (+0,08%), R$ 5,64 (−0,09%), 3.324 pesos colombianos (+0,48%), 3,40 soles (−0,10%) e 1.544 pesos argentinos (−0,06%)."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "A agenda regional de sexta é leve; a região fecha uma semana marcada pela fraqueza do real e do peso chileno e pelo IPCA (0,14% em outubro), abaixo do esperado."
+      "t": "O que surpreendeu",
+      "x": "A região resiste à venda de chips de Wall Street; o peso chileno recuperou parte do que perdeu pela manhã, embora o cobre tenha ampliado a queda para 1,7% (6,09 dólares por libra)."
      }
     ],
-    "scm": "Cote cabos e insumos de cobre com o preço em queda e escalone os pagamentos em pesos chilenos, que chegam a 999 por dólar."
+    "scm": "Cote hoje cabos e insumos de cobre com o preço em queda e escalone os pagamentos em pesos colombianos, que se enfraquecem."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 11:37 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
@@ -187,103 +179,99 @@
    ]
   },
   "mexico": {
-   "id": "2026-11-13-apertura-mexico",
+   "id": "2026-11-13-mediodia-mexico",
    "fecha": "2026-11-13",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "mexico",
-   "hora": "09:08 CDMX",
+   "hora": "11:37 CDMX",
    "es": {
-    "titular": "El peso se fortalece a 18.56 y el IPC baja 0.25%; el FIX del jueves fue de 18.6188",
+    "titular": "El IPC baja 0.48% con los chips y el peso se mantiene en 18.56",
     "esencial": [
-     "A las 9:08 CDMX el peso estaba en 18.56 por dólar (−0.16% el dólar) y a las 8:48 el IPC bajaba 0.25% (71,632.42).",
-     "El FIX determinado por Banxico el jueves fue de 18.6188, publicado hoy en el Diario Oficial.",
-     "Para supply chain: con el peso en 18.56 y el puente del lunes 16, hoy es buen día para cerrar compras de dólares y pagos."
+     "A las 11:17 CDMX el IPC bajaba 0.48% (71,469.52) y a las 11:37 el peso estaba en 18.56 por dólar (−0.17% el dólar).",
+     "El peso conserva su mejor nivel de la semana aunque el índice del dólar sube 0.2%.",
+     "Para supply chain: hoy es el último día hábil antes del puente; cierra compras de dólares con el peso en 18.56."
     ],
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "A las 9:08 CDMX el peso cotizaba en 18.56 por dólar (−0.16% el dólar), su mejor nivel de la semana; a las 7:35 había tocado 18.53, según Tribuna. El FIX determinado por Banxico el jueves fue de 18.6188, publicado hoy en el Diario Oficial. El S&P/BMV IPC bajaba 0.25% a 71,632.42 a las 8:48 CDMX."
+      "t": "Lo que se esperaba",
+      "x": "En la apertura el peso se fortalecía a 18.56 y el IPC bajaba 0.25%, tras un PPI de EE. UU. menor a lo esperado en el mes; el FIX del jueves fue de 18.6188."
      },
      {
-      "t": "Contexto",
-      "x": "El PPI de EE. UU. subió 0.3% mensual, menos de lo esperado, lo que dio un respiro al peso aunque el Treasury a 10 años sube a 5.16%. La bolsa local sigue a Wall Street a la baja por la presión en tecnología."
+      "t": "Cómo va",
+      "x": "A las 11:17 CDMX el S&P/BMV IPC bajaba 0.48% a 71,469.52 y a las 11:37 el peso cotizaba en 18.56 por dólar (−0.17% el dólar)."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "Hoy es el último día hábil antes del puente: el lunes 16 cierran la BMV y los bancos por el Día de la Revolución. El 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre."
+      "t": "Lo que sorprendió",
+      "x": "El peso se sostuvo mientras el peso colombiano perdía 0.5% y el índice del dólar subía 0.2%; la bolsa amplió su caída con la venta de tecnología en Wall Street."
      }
     ],
-    "scm": "Aprovecha el peso en 18.56 para cerrar la compra de dólares de noviembre y programa hoy los pagos que vencen el lunes 16. Con la inflación mayorista de EE. UU. en 6.5% anual, prepara aumentos en insumos importados."
+    "scm": "Hoy es el último día hábil antes del puente del lunes 16: con el peso en 18.56, cierra la compra de dólares de noviembre y programa los pagos. Prepara aumentos de insumos importados por la inflación mayorista de EE. UU."
    },
    "en": {
-    "titular": "The peso strengthens to 18.56 and the IPC falls 0.25%; Thursday's FIX was 18.6188",
+    "titular": "The IPC falls 0.48% with chips and the peso holds at 18.56",
     "esencial": [
-     "At 9:08 a.m. Mexico City time the peso was at 18.56 per dollar (dollar −0.16%) and at 8:48 the IPC was down 0.25% (71,632.42).",
-     "The FIX set by Banxico on Thursday was 18.6188, published today in the Official Gazette.",
-     "For supply chain: with the peso at 18.56 and the Monday the 16th long weekend, today is a good day to close dollar purchases and payments."
+     "At 11:17 a.m. Mexico City time the IPC was down 0.48% (71,469.52) and at 11:37 the peso stood at 18.56 per dollar (dollar −0.17%).",
+     "The peso keeps its best level of the week even as the dollar index rises 0.2%.",
+     "For supply chain: today is the last business day before the long weekend; close dollar purchases with the peso at 18.56."
     ],
     "bloques": [
      {
-      "t": "Open",
-      "x": "At 9:08 a.m. Mexico City time the peso traded at 18.56 per dollar (dollar −0.16%), its best level of the week; at 7:35 it touched 18.53, according to Tribuna. The FIX set by Banxico on Thursday was 18.6188, published today in the Official Gazette. The S&P/BMV IPC was down 0.25% at 71,632.42 at 8:48 a.m."
+      "t": "What was expected",
+      "x": "At the open the peso strengthened to 18.56 and the IPC was down 0.25%, after a softer-than-expected monthly US PPI; Thursday's FIX was 18.6188."
      },
      {
-      "t": "Context",
-      "x": "US PPI rose 0.3% monthly, less than expected, giving the peso some relief even as the 10-year Treasury rises to 5.16%. Local stocks follow Wall Street lower on pressure in tech."
+      "t": "How it is going",
+      "x": "At 11:17 a.m. Mexico City time the S&P/BMV IPC was down 0.48% at 71,469.52 and at 11:37 the peso traded at 18.56 per dollar (dollar −0.17%)."
      },
      {
-      "t": "What to expect today",
-      "x": "Today is the last business day before the long weekend: on Monday the 16th the BMV and banks close for Revolution Day. On November 24 INEGI publishes first-half November inflation."
+      "t": "What surprised",
+      "x": "The peso held up while the Colombian peso lost 0.5% and the dollar index rose 0.2%; stocks extended their decline with Wall Street's tech selloff."
      }
     ],
-    "scm": "Use the peso at 18.56 to close November dollar purchases and schedule today the payments due Monday the 16th. With US wholesale inflation at 6.5% year over year, prepare for increases in imported inputs."
+    "scm": "Today is the last business day before the Monday the 16th long weekend: with the peso at 18.56, close November dollar purchases and schedule payments. Prepare for higher imported input costs given US wholesale inflation."
    },
    "pt": {
-    "titular": "O peso se fortalece para 18,56 e o IPC cai 0,25%; o FIX de quinta foi de 18,6188",
+    "titular": "O IPC cai 0,48% com os chips e o peso se mantém a 18,56",
     "esencial": [
-     "Às 9h08 (Cidade do México) o peso estava a 18,56 por dólar (dólar −0,16%) e às 8h48 o IPC caía 0,25% (71.632,42).",
-     "O FIX definido pelo Banxico na quinta foi de 18,6188, publicado hoje no Diário Oficial.",
-     "Para supply chain: com o peso a 18,56 e o feriado de segunda, dia 16, hoje é um bom dia para fechar compras de dólares e pagamentos."
+     "Às 11h17 (Cidade do México) o IPC caía 0,48% (71.469,52) e às 11h37 o peso estava a 18,56 por dólar (dólar −0,17%).",
+     "O peso mantém seu melhor nível da semana mesmo com o índice do dólar subindo 0,2%.",
+     "Para supply chain: hoje é o último dia útil antes do feriado; feche as compras de dólares com o peso a 18,56."
     ],
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Às 9h08 (Cidade do México) o peso era cotado a 18,56 por dólar (dólar −0,16%), seu melhor nível da semana; às 7h35 tinha tocado 18,53, segundo o Tribuna. O FIX definido pelo Banxico na quinta foi de 18,6188, publicado hoje no Diário Oficial. O S&P/BMV IPC caía 0,25% para 71.632,42 às 8h48."
+      "t": "O que se esperava",
+      "x": "Na abertura o peso se fortalecia para 18,56 e o IPC caía 0,25%, após um PPI mensal dos EUA abaixo do esperado; o FIX de quinta foi de 18,6188."
      },
      {
-      "t": "Contexto",
-      "x": "O PPI dos EUA subiu 0,3% no mês, menos que o esperado, o que deu fôlego ao peso mesmo com o Treasury de 10 anos subindo para 5,16%. A bolsa local segue Wall Street em queda pela pressão na tecnologia."
+      "t": "Como está",
+      "x": "Às 11h17 (Cidade do México) o S&P/BMV IPC caía 0,48% para 71.469,52 e às 11h37 o peso era cotado a 18,56 por dólar (dólar −0,17%)."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Hoje é o último dia útil antes do feriado: na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução. Em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro."
+      "t": "O que surpreendeu",
+      "x": "O peso se sustentou enquanto o peso colombiano perdia 0,5% e o índice do dólar subia 0,2%; a bolsa ampliou a queda com a venda de tecnologia em Wall Street."
      }
     ],
-    "scm": "Aproveite o peso a 18,56 para fechar a compra de dólares de novembro e programe hoje os pagamentos que vencem na segunda, dia 16. Com a inflação no atacado dos EUA em 6,5% em 12 meses, prepare-se para aumentos em insumos importados."
+    "scm": "Hoje é o último dia útil antes do feriado de segunda, dia 16: com o peso a 18,56, feche a compra de dólares de novembro e programe os pagamentos. Prepare-se para aumentos de insumos importados pela inflação no atacado dos EUA."
    },
    "fuentes": [
-    {
-     "t": "Tribuna: precio del dólar hoy, 13 nov 2026 (FIX del jueves 18.6188)",
-     "u": "https://tribuna.com.mx/politica-y-economia/2026/11/13/precio-del-dolar-en-mexico-hoy-13-de-noviembre-peso-mexicano-avanza-y-asi-cotiza-en-los-bancos_714851/"
-    },
-    {
-     "t": "El Informador: el dólar arranca el viernes en 18.61 pesos (FIX 18.6188)",
-     "u": "https://www.informador.mx/economia/dolar-hoy-en-mexico-el-precio-de-la-divisa-arranca-este-viernes-13-de-noviembre-en-18.61-pesos-20261113-0046.html"
-    },
     {
      "t": "Yahoo Finance: IPC México (^MXX), 13 nov 2026",
      "u": "https://finance.yahoo.com/quote/%5EMXX/"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 11:37 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
+    },
+    {
+     "t": "Tribuna: precio del dólar hoy, 13 nov 2026 (FIX del jueves 18.6188)",
+     "u": "https://tribuna.com.mx/politica-y-economia/2026/11/13/precio-del-dolar-en-mexico-hoy-13-de-noviembre-peso-mexicano-avanza-y-asi-cotiza-en-los-bancos_714851/"
     }
    ]
   }
  },
  "lectura": {
   "es": {
-   "titular": "La inflación mayorista de EE. UU. llega a 6.5% anual y el Treasury a 5.16%: el costo de insumos y del dinero sube a la vez",
+   "titular": "La venta de chips se acelera (AMD −10%) mientras la AIE anticipa excedente de crudo en el cuarto trimestre",
    "resumen": "El PPI de octubre subió 0.3% mensual, menos de lo esperado, pero 6.5% anual, la mayor alza desde noviembre de 2022, con presiones que ya se extienden a manufactura y cadenas de suministro. El Treasury a 10 años sube a 5.16%, su nivel más alto desde octubre, y el Nasdaq cae 1% con los chips (AMD −8%, Nvidia −2.6%). El Brent sigue cerca de 97 dólares por el conflicto con Irán. En México el peso se fortalece a 18.56 y el FIX del jueves fue de 18.6188. La prioridad es preparar aumentos de proveedores, fijar precios del primer trimestre y cerrar pagos en dólares antes del puente del lunes 16.",
    "temas": [
     {
@@ -390,7 +378,7 @@
    ]
   },
   "en": {
-   "titular": "US wholesale inflation hits 6.5% year over year and the Treasury 5.16%: input costs and the cost of money rise together",
+   "titular": "The chip selloff accelerates (AMD −10%) as the IEA anticipates a crude surplus in the fourth quarter",
    "resumen": "October PPI rose 0.3% monthly, less than expected, but 6.5% year over year, the biggest rise since November 2022, with pressures now spreading into manufacturing and supply chains. The 10-year Treasury rises to 5.16%, its highest since October, and the Nasdaq falls 1% with chips (AMD −8%, Nvidia −2.6%). Brent stays near $97 on the Iran conflict. In Mexico the peso strengthens to 18.56 and Thursday's FIX was 18.6188. The priority is to prepare for supplier increases, lock first-quarter prices and close dollar payments before the Monday the 16th long weekend.",
    "temas": [
     {
@@ -497,7 +485,7 @@
    ]
   },
   "pt": {
-   "titular": "A inflação no atacado dos EUA chega a 6,5% em 12 meses e o Treasury a 5,16%: o custo dos insumos e do dinheiro sobe ao mesmo tempo",
+   "titular": "A venda de chips se acelera (AMD −10%) enquanto a AIE antecipa excedente de petróleo no quarto trimestre",
    "resumen": "O PPI de outubro subiu 0,3% no mês, menos que o esperado, mas 6,5% em 12 meses, a maior alta desde novembro de 2022, com pressões que já se espalham pela manufatura e pelas cadeias de suprimentos. O Treasury de 10 anos sobe para 5,16%, o maior nível desde outubro, e o Nasdaq cai 1% com os chips (AMD −8%, Nvidia −2,6%). O Brent segue perto de 97 dólares pelo conflito com o Irã. No México o peso se fortalece para 18,56 e o FIX de quinta foi de 18,6188. A prioridade é preparar-se para reajustes de fornecedores, fixar preços do primeiro trimestre e fechar pagamentos em dólares antes do feriado de segunda, dia 16.",
    "temas": [
     {
@@ -609,8 +597,8 @@
    "nombre": "IPC BMV",
    "name_en": "IPC BMV",
    "grupo": "bolsa",
-   "valor": 71632.42,
-   "cambio": -0.25,
+   "valor": 71469.52,
+   "cambio": -0.48,
    "unidad": "puntos",
    "name_pt": "IPC BMV"
   },
@@ -618,8 +606,8 @@
    "nombre": "S&P 500",
    "name_en": "S&P 500",
    "grupo": "bolsa",
-   "valor": 7541.4,
-   "cambio": -0.67,
+   "valor": 7542.1,
+   "cambio": -0.66,
    "unidad": "puntos",
    "name_pt": "S&P 500"
   },
@@ -627,8 +615,8 @@
    "nombre": "Nasdaq",
    "name_en": "Nasdaq",
    "grupo": "bolsa",
-   "valor": 25110.86,
-   "cambio": -1.01,
+   "valor": 25070.53,
+   "cambio": -1.17,
    "unidad": "puntos",
    "name_pt": "Nasdaq"
   },
@@ -636,8 +624,8 @@
    "nombre": "Dow Jones",
    "name_en": "Dow Jones",
    "grupo": "bolsa",
-   "valor": 52229.12,
-   "cambio": -0.13,
+   "valor": 52260.89,
+   "cambio": -0.07,
    "unidad": "puntos",
    "name_pt": "Dow Jones"
   },
@@ -645,8 +633,8 @@
    "nombre": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
    "grupo": "bolsa",
-   "valor": 6391.37,
-   "cambio": -0.12,
+   "valor": 6386.86,
+   "cambio": -0.19,
    "unidad": "puntos",
    "name_pt": "Euro Stoxx 50"
   },
@@ -673,7 +661,7 @@
    "name_en": "USD/MXN",
    "grupo": "divisa",
    "valor": 18.56,
-   "cambio": -0.16,
+   "cambio": -0.17,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -681,8 +669,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.1056,
-   "cambio": -0.03,
+   "valor": 1.1033,
+   "cambio": -0.24,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -690,8 +678,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 159.85,
-   "cambio": 0.0,
+   "valor": 159.92,
+   "cambio": 0.05,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -699,8 +687,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 89.49,
-   "cambio": 0.85,
+   "valor": 88.57,
+   "cambio": -0.19,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -708,8 +696,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 96.97,
-   "cambio": 1.2,
+   "valor": 95.85,
+   "cambio": 0.03,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -726,8 +714,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3898.1,
-   "cambio": 0.33,
+   "valor": 3884.5,
+   "cambio": -0.02,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -735,8 +723,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 6.14,
-   "cambio": -0.97,
+   "valor": 6.09,
+   "cambio": -1.66,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -744,8 +732,8 @@
    "nombre": "Treasury 10 años",
    "name_en": "10-yr Treasury",
    "grupo": "bono",
-   "valor": 5.16,
-   "cambio": 6,
+   "valor": 5.13,
+   "cambio": 3,
    "unidad": "%",
    "name_pt": "Título do Tesouro 10 anos"
   },
@@ -771,8 +759,8 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 68887.11,
-   "cambio": -3.48,
+   "valor": 68825.62,
+   "cambio": -3.57,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }

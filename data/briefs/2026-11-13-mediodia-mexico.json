@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-13-mediodia-mexico",
+ "fecha": "2026-11-13",
+ "momento": "mediodia",
+ "mercado": "mexico",
+ "hora": "11:37 CDMX",
+ "es": {
+  "titular": "El IPC baja 0.48% con los chips y el peso se mantiene en 18.56",
+  "esencial": [
+   "A las 11:17 CDMX el IPC bajaba 0.48% (71,469.52) y a las 11:37 el peso estaba en 18.56 por dólar (−0.17% el dólar).",
+   "El peso conserva su mejor nivel de la semana aunque el índice del dólar sube 0.2%.",
+   "Para supply chain: hoy es el último día hábil antes del puente; cierra compras de dólares con el peso en 18.56."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el peso se fortalecía a 18.56 y el IPC bajaba 0.25%, tras un PPI de EE. UU. menor a lo esperado en el mes; el FIX del jueves fue de 18.6188."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:17 CDMX el S&P/BMV IPC bajaba 0.48% a 71,469.52 y a las 11:37 el peso cotizaba en 18.56 por dólar (−0.17% el dólar)."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El peso se sostuvo mientras el peso colombiano perdía 0.5% y el índice del dólar subía 0.2%; la bolsa amplió su caída con la venta de tecnología en Wall Street."
+   }
+  ],
+  "scm": "Hoy es el último día hábil antes del puente del lunes 16: con el peso en 18.56, cierra la compra de dólares de noviembre y programa los pagos. Prepara aumentos de insumos importados por la inflación mayorista de EE. UU."
+ },
+ "en": {
+  "titular": "The IPC falls 0.48% with chips and the peso holds at 18.56",
+  "esencial": [
+   "At 11:17 a.m. Mexico City time the IPC was down 0.48% (71,469.52) and at 11:37 the peso stood at 18.56 per dollar (dollar −0.17%).",
+   "The peso keeps its best level of the week even as the dollar index rises 0.2%.",
+   "For supply chain: today is the last business day before the long weekend; close dollar purchases with the peso at 18.56."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the peso strengthened to 18.56 and the IPC was down 0.25%, after a softer-than-expected monthly US PPI; Thursday's FIX was 18.6188."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:17 a.m. Mexico City time the S&P/BMV IPC was down 0.48% at 71,469.52 and at 11:37 the peso traded at 18.56 per dollar (dollar −0.17%)."
+   },
+   {
+    "t": "What surprised",
+    "x": "The peso held up while the Colombian peso lost 0.5% and the dollar index rose 0.2%; stocks extended their decline with Wall Street's tech selloff."
+   }
+  ],
+  "scm": "Today is the last business day before the Monday the 16th long weekend: with the peso at 18.56, close November dollar purchases and schedule payments. Prepare for higher imported input costs given US wholesale inflation."
+ },
+ "pt": {
+  "titular": "O IPC cai 0,48% com os chips e o peso se mantém a 18,56",
+  "esencial": [
+   "Às 11h17 (Cidade do México) o IPC caía 0,48% (71.469,52) e às 11h37 o peso estava a 18,56 por dólar (dólar −0,17%).",
+   "O peso mantém seu melhor nível da semana mesmo com o índice do dólar subindo 0,2%.",
+   "Para supply chain: hoje é o último dia útil antes do feriado; feche as compras de dólares com o peso a 18,56."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o peso se fortalecia para 18,56 e o IPC caía 0,25%, após um PPI mensal dos EUA abaixo do esperado; o FIX de quinta foi de 18,6188."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h17 (Cidade do México) o S&P/BMV IPC caía 0,48% para 71.469,52 e às 11h37 o peso era cotado a 18,56 por dólar (dólar −0,17%)."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O peso se sustentou enquanto o peso colombiano perdia 0,5% e o índice do dólar subia 0,2%; a bolsa ampliou a queda com a venda de tecnologia em Wall Street."
+   }
+  ],
+  "scm": "Hoje é o último dia útil antes do feriado de segunda, dia 16: com o peso a 18,56, feche a compra de dólares de novembro e programe os pagamentos. Prepare-se para aumentos de insumos importados pela inflação no atacado dos EUA."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 13 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 11:37 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Tribuna: precio del dólar hoy, 13 nov 2026 (FIX del jueves 18.6188)",
+   "u": "https://tribuna.com.mx/politica-y-economia/2026/11/13/precio-del-dolar-en-mexico-hoy-13-de-noviembre-peso-mexicano-avanza-y-asi-cotiza-en-los-bancos_714851/"
+  }
+ ]
+}

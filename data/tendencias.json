@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-13T15:10:58Z",
+ "actualizado": "2026-11-13T17:39:36Z",
  "fecha": "2026-11-13",
  "titular": {
-  "es": "Viernes: el PPI sube 6.5% anual, los chips vuelven a caer y el crudo sigue cerca de 97 dólares",
-  "en": "Friday: PPI rises 6.5% year over year, chips fall again and crude stays near $97",
-  "pt": "Sexta: o PPI sobe 6,5% em 12 meses, os chips voltam a cair e o petróleo segue perto de 97 dólares"
+  "es": "Mediodía: la venta de chips se acelera, la AIE anticipa excedente de crudo y el cobre cae 1.7%",
+  "en": "Midday: the chip selloff accelerates, the IEA anticipates a crude surplus and copper falls 1.7%",
+  "pt": "Meio-dia: a venda de chips se acelera, a AIE antecipa excedente de petróleo e o cobre cai 1,7%"
  },
  "items": [
   {
@@ -17,14 +17,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Los chips caen otra vez: AMD −8.0%, Applied Materials −4.8% y Nvidia −2.6%",
-    "en": "Chips fall again: AMD −8.0%, Applied Materials −4.8% and Nvidia −2.6%",
-    "pt": "Os chips caem de novo: AMD −8,0%, Applied Materials −4,8% e Nvidia −2,6%"
+    "es": "La venta de chips se acelera: AMD −10.2%, Broadcom −6% y Nvidia −2.9%",
+    "en": "The chip selloff accelerates: AMD −10.2%, Broadcom −6% and Nvidia −2.9%",
+    "pt": "A venda de chips se acelera: AMD −10,2%, Broadcom −6% e Nvidia −2,9%"
    },
    "x": {
-    "es": "A las 9:08 CDMX Nvidia caía 2.6% (161.83 dólares) y arrastraba al sector; Applied Materials bajaba 4.8% pese a reportar ingresos récord de 10,410 millones de dólares (+53%) en su trimestre. Nvidia reporta resultados el martes 17 sin director permanente.",
-    "en": "At 10:08 a.m. ET Nvidia was down 2.6% ($161.83) and dragged the sector; Applied Materials fell 4.8% despite reporting record quarterly revenue of $10.41 billion (+53%). Nvidia reports results on Tuesday the 17th with no permanent CEO.",
-    "pt": "Às 9h08 (Cidade do México) a Nvidia caía 2,6% (161,83 dólares) e arrastava o setor; a Applied Materials caía 4,8% apesar de reportar receita trimestral recorde de 10,41 bilhões de dólares (+53%). A Nvidia divulga resultados na terça, dia 17, sem CEO permanente."
+    "es": "A las 11:37 CDMX AMD caía 10.2%, Broadcom e Intel cerca de 6% y 5%, Sandisk 9% y Micron y SK Hynix entre 5% y 6%, según Yahoo Finance; Nvidia bajaba 2.9% (161.37 dólares) y quedaba debajo de 4 billones de dólares de valor. Nvidia reporta el martes 17.",
+    "en": "At 12:37 p.m. ET AMD was down 10.2%, Broadcom and Intel about 6% and 5%, Sandisk 9% and Micron and SK Hynix between 5% and 6%, according to Yahoo Finance; Nvidia fell 2.9% ($161.37), slipping below $4 trillion in value. Nvidia reports on Tuesday the 17th.",
+    "pt": "Às 11h37 (Cidade do México) a AMD caía 10,2%, Broadcom e Intel cerca de 6% e 5%, a Sandisk 9% e Micron e SK Hynix entre 5% e 6%, segundo o Yahoo Finance; a Nvidia caía 2,9% (161,37 dólares) e ficava abaixo de 4 trilhões de dólares em valor. A Nvidia divulga resultados na terça, dia 17."
    },
    "scm": {
     "es": "Confirma pedidos de GPU y servidores antes de los resultados de Nvidia del martes y ten una alternativa calificada.",
@@ -33,16 +33,12 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance AlphaCheck: el Treasury sube con el PPI y Nvidia arrastra a los chips (13 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/article/copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-150655549.html"
+     "t": "Yahoo Finance: el Nasdaq encabeza las bajas por la venta de chips (13 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     },
     {
-     "t": "Applied Materials: resultados del cuarto trimestre y del año fiscal 2026 (12 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-announces-fourth-quarter-210100253.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 09:08 CDMX)",
-     "u": "https://finance.yahoo.com/markets/"
+     "t": "The Wall Street Journal vía Yahoo Finance: las bolsas caen y Nvidia vuelve a bajar (13 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-lower-investors-look-111900529.html"
     }
    ]
   },
@@ -79,7 +75,7 @@
   },
   {
    "id": "energia",
-   "dir": "up",
+   "dir": "mixed",
    "calor": 3,
    "mx": true,
    "latam": true,
@@ -87,27 +83,27 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El Brent sube a 96.97 dólares y el diésel 0.7%; el crudo cierra la semana cerca de máximos",
-    "en": "Brent rises to $96.97 and diesel 0.7%; crude ends the week near highs",
-    "pt": "O Brent sobe para 96,97 dólares e o diesel 0,7%; o petróleo fecha a semana perto das máximas"
+    "es": "La AIE prevé excedente de crudo en el cuarto trimestre; el Brent se estabiliza en 95.85 dólares",
+    "en": "The IEA sees a crude surplus in the fourth quarter; Brent steadies at $95.85",
+    "pt": "A AIE prevê excedente de petróleo no quarto trimestre; o Brent se estabiliza a 95,85 dólares"
    },
    "x": {
-    "es": "A las 8:58 CDMX el Brent estaba en 96.97 dólares (+1.2%), el WTI en 89.49 (+0.9%) y el futuro del diésel en 4.32 dólares por galón (+0.7%), tras el salto del jueves por el mensaje de Trump sobre Irán.",
-    "en": "At 9:58 a.m. ET Brent was at $96.97 (+1.2%), WTI at $89.49 (+0.9%) and diesel futures at $4.32 per gallon (+0.7%), after Thursday's jump on Trump's message about Iran.",
-    "pt": "Às 8h58 (Cidade do México) o Brent estava a 96,97 dólares (+1,2%), o WTI a 89,49 (+0,9%) e o futuro do diesel a 4,32 dólares por galão (+0,7%), depois do salto de quinta pela mensagem de Trump sobre o Irã."
+    "es": "La Agencia Internacional de Energía espera que el mercado petrolero vuelva a tener excedente en el cuarto trimestre, por primera vez desde el inicio de la guerra con Irán, según The Wall Street Journal. A las 11:27 CDMX el Brent estaba en 95.85 dólares y el WTI en 88.57 (−0.2%); el diésel bajaba 0.6% a 4.26 dólares por galón.",
+    "en": "The International Energy Agency expects the oil market to return to surplus in the fourth quarter, for the first time since the Iran war began, according to The Wall Street Journal. At 12:27 p.m. ET Brent was at $95.85 and WTI at $88.57 (−0.2%); diesel fell 0.6% to $4.26 per gallon.",
+    "pt": "A Agência Internacional de Energia espera que o mercado de petróleo volte a ter excedente no quarto trimestre, pela primeira vez desde o início da guerra com o Irã, segundo o The Wall Street Journal. Às 11h27 (Cidade do México) o Brent estava a 95,85 dólares e o WTI a 88,57 (−0,2%); o diesel caía 0,6% para 4,26 dólares por galão."
    },
    "scm": {
-    "es": "Espera el dato de la EIA antes de fijar recargos de combustible de la próxima semana y pide ajuste semanal.",
-    "en": "Wait for EIA data before setting next week's fuel surcharges and ask for weekly adjustment.",
-    "pt": "Espere o dado da EIA antes de fixar as sobretaxas de combustível da próxima semana e peça ajuste semanal."
+    "es": "No firmes recargos de combustible de largo plazo: con excedente a la vista, pide ajuste semanal.",
+    "en": "Don't sign long-term fuel surcharges: with a surplus in sight, ask for weekly adjustment.",
+    "pt": "Não assine sobretaxas de combustível de longo prazo: com excedente à vista, peça ajuste semanal."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance AlphaCheck: el Treasury sube con el PPI y Nvidia arrastra a los chips (13 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/article/copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-150655549.html"
+     "t": "The Wall Street Journal vía Yahoo Finance: las bolsas caen y Nvidia vuelve a bajar (13 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-lower-investors-look-111900529.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 11:37 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -153,14 +149,14 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "El cobre cae 1.0% a 6.14 dólares; el oro se estabiliza en 3,898",
-    "en": "Copper falls 1.0% to $6.14; gold steadies at $3,898",
-    "pt": "O cobre cai 1,0% para 6,14 dólares; o ouro se estabiliza em 3.898"
+    "es": "El cobre amplía su caída a 1.7% (6.09 dólares) y la plata cae 2.1%",
+    "en": "Copper extends its drop to 1.7% ($6.09) and silver falls 2.1%",
+    "pt": "O cobre amplia a queda para 1,7% (6,09 dólares) e a prata cai 2,1%"
    },
    "x": {
-    "es": "A las 8:58 CDMX el cobre estaba en 6.14 dólares por libra (−1.0%) y la plata en 49.83 (−0.5%), mientras el oro subía 0.3% a 3,898 dólares tras caer 3% el jueves; el Treasury a 10 años sube a 5.16%.",
-    "en": "At 9:58 a.m. ET copper was at $6.14 per pound (−1.0%) and silver at $49.83 (−0.5%), while gold rose 0.3% to $3,898 after falling 3% on Thursday; the 10-year Treasury rises to 5.16%.",
-    "pt": "Às 8h58 (Cidade do México) o cobre estava a 6,14 dólares por libra (−1,0%) e a prata a 49,83 (−0,5%), enquanto o ouro subia 0,3% para 3.898 dólares depois de cair 3% na quinta; o Treasury de 10 anos sobe para 5,16%."
+    "es": "A las 11:27 CDMX el cobre estaba en 6.09 dólares por libra (−1.7%), la plata en 49.01 (−2.1%) y el oro en 3,884.5 (sin cambio), con el índice del dólar +0.2% y el Treasury a 10 años en 5.13%.",
+    "en": "At 12:27 p.m. ET copper was at $6.09 per pound (−1.7%), silver at $49.01 (−2.1%) and gold at $3,884.5 (flat), with the dollar index +0.2% and the 10-year Treasury at 5.13%.",
+    "pt": "Às 11h27 (Cidade do México) o cobre estava a 6,09 dólares por libra (−1,7%), a prata a 49,01 (−2,1%) e o ouro a 3.884,5 (estável), com o índice do dólar +0,2% e o Treasury de 10 anos em 5,13%."
    },
    "scm": {
     "es": "Aprovecha la baja para cotizar cable, conectores y componentes con cobre o plata para el primer trimestre.",

@@ -1,0 +1,86 @@
+{
+ "id": "2026-11-13-mediodia-latam",
+ "fecha": "2026-11-13",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:37 CDMX",
+ "es": {
+  "titular": "El Ibovespa sube 0.55% y el TSX 0.12% pese a la venta de chips; Colombia cae 0.9%",
+  "esencial": [
+   "A las 11:22 CDMX el Ibovespa subía 0.55% (172,274.31) y a las 11:37 el S&P/TSX 0.12%.",
+   "El iCOLCAP de Colombia bajaba 0.86% y el peso colombiano perdía 0.48% (3,324 por dólar).",
+   "Con el cobre −1.7%, cotiza hoy cable e insumos de cobre."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el Ibovespa subía 0.62% y el ETF de Argentina 0.81%, mientras el peso chileno llegaba a 999 por dólar."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:22 CDMX el Ibovespa estaba en 172,274.31 (+0.55%) y a las 11:37 el S&P/TSX en 36,180.22 (+0.12%). Los ETF de MSCI subían 0.45% en Argentina y 0.11% en Chile, y Perú no cambiaba; el iCOLCAP bajaba 0.86% a las 10:48. A las 11:37 el dólar estaba en 994.8 pesos chilenos (+0.08%), 5.64 reales (−0.09%), 3,324 pesos colombianos (+0.48%), 3.40 soles (−0.10%) y 1,544 pesos argentinos (−0.06%)."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "La región resiste la venta de chips de Wall Street; el peso chileno recuperó parte de lo perdido en la mañana, aunque el cobre amplió su caída a 1.7% (6.09 dólares por libra)."
+   }
+  ],
+  "scm": "Cotiza hoy cable e insumos de cobre con el precio a la baja, y escalona los pagos en pesos colombianos, que se debilitan."
+ },
+ "en": {
+  "titular": "The Ibovespa rises 0.55% and the TSX 0.12% despite the chip selloff; Colombia falls 0.9%",
+  "esencial": [
+   "At 11:22 a.m. Mexico City time the Ibovespa was up 0.55% (172,274.31) and at 11:37 the S&P/TSX 0.12%.",
+   "Colombia's iCOLCAP was down 0.86% and the Colombian peso lost 0.48% (3,324 per dollar).",
+   "With copper −1.7%, quote cable and copper inputs today."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the Ibovespa was up 0.62% and the Argentina ETF 0.81%, while the Chilean peso reached 999 per dollar."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:22 a.m. Mexico City time the Ibovespa stood at 172,274.31 (+0.55%) and at 11:37 the S&P/TSX at 36,180.22 (+0.12%). The MSCI ETFs rose 0.45% for Argentina and 0.11% for Chile, and Peru was flat; the iCOLCAP fell 0.86% at 10:48. At 11:37 the dollar stood at 994.8 Chilean pesos (+0.08%), 5.64 reais (−0.09%), 3,324 Colombian pesos (+0.48%), 3.40 soles (−0.10%) and 1,544 Argentine pesos (−0.06%)."
+   },
+   {
+    "t": "What surprised",
+    "x": "The region is holding up against Wall Street's chip selloff; the Chilean peso recovered part of its morning loss, although copper extended its drop to 1.7% ($6.09 per pound)."
+   }
+  ],
+  "scm": "Quote cable and copper inputs today while prices dip, and stagger payments in Colombian pesos, which are weakening."
+ },
+ "pt": {
+  "titular": "O Ibovespa sobe 0,55% e o TSX 0,12% apesar da venda de chips; a Colômbia cai 0,9%",
+  "esencial": [
+   "Às 11h22 (Cidade do México) o Ibovespa subia 0,55% (172.274,31) e às 11h37 o S&P/TSX 0,12%.",
+   "O iCOLCAP da Colômbia caía 0,86% e o peso colombiano perdia 0,48% (3.324 por dólar).",
+   "Com o cobre −1,7%, cote hoje cabos e insumos de cobre."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o Ibovespa subia 0,62% e o ETF da Argentina 0,81%, enquanto o peso chileno chegava a 999 por dólar."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h22 (Cidade do México) o Ibovespa estava em 172.274,31 (+0,55%) e às 11h37 o S&P/TSX em 36.180,22 (+0,12%). Os ETFs da MSCI subiam 0,45% na Argentina e 0,11% no Chile, e o Peru não mudava; o iCOLCAP caía 0,86% às 10h48. Às 11h37 o dólar estava em 994,8 pesos chilenos (+0,08%), R$ 5,64 (−0,09%), 3.324 pesos colombianos (+0,48%), 3,40 soles (−0,10%) e 1.544 pesos argentinos (−0,06%)."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A região resiste à venda de chips de Wall Street; o peso chileno recuperou parte do que perdeu pela manhã, embora o cobre tenha ampliado a queda para 1,7% (6,09 dólares por libra)."
+   }
+  ],
+  "scm": "Cote hoje cabos e insumos de cobre com o preço em queda e escalone os pagamentos em pesos colombianos, que se enfraquecem."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 11:37 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

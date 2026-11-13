@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-13-mediodia-global",
+   "fecha": "2026-11-13",
+   "momento": "mediodia",
+   "mercado": "global",
+   "titular_es": "La venta de chips se acelera: AMD cae 10% y el Nasdaq 1.2%; el VIX sube a 20",
+   "titular_en": "The chip selloff accelerates: AMD falls 10% and the Nasdaq 1.2%; the VIX rises to 20",
+   "titular_pt": "A venda de chips se acelera: a AMD cai 10% e o Nasdaq 1,2%; o VIX sobe para 20"
+  },
+  {
+   "id": "2026-11-13-mediodia-latam",
+   "fecha": "2026-11-13",
+   "momento": "mediodia",
+   "mercado": "latam",
+   "titular_es": "El Ibovespa sube 0.55% y el TSX 0.12% pese a la venta de chips; Colombia cae 0.9%",
+   "titular_en": "The Ibovespa rises 0.55% and the TSX 0.12% despite the chip selloff; Colombia falls 0.9%",
+   "titular_pt": "O Ibovespa sobe 0,55% e o TSX 0,12% apesar da venda de chips; a Colômbia cai 0,9%"
+  },
+  {
+   "id": "2026-11-13-mediodia-mexico",
+   "fecha": "2026-11-13",
+   "momento": "mediodia",
+   "mercado": "mexico",
+   "titular_es": "El IPC baja 0.48% con los chips y el peso se mantiene en 18.56",
+   "titular_en": "The IPC falls 0.48% with chips and the peso holds at 18.56",
+   "titular_pt": "O IPC cai 0,48% com os chips e o peso se mantém a 18,56"
+  },
+  {
    "id": "2026-11-13-apertura-global",
    "fecha": "2026-11-13",
    "momento": "apertura",
@@ -782,33 +809,6 @@
    "titular_es": "El peso se recupera a 18.65 por dólar (+0.95%) con el dólar débil tras la elección; Banxico decide mañana",
    "titular_en": "The peso recovers to 18.65 per dollar (+0.95%) as the dollar weakens after the election; Banxico decides tomorrow",
    "titular_pt": "O peso se recupera a 18,65 por dólar (+0,95%) com o dólar fraco após a eleição; o Banxico decide amanhã"
-  },
-  {
-   "id": "2026-11-04-premercado-global",
-   "fecha": "2026-11-04",
-   "momento": "premercado",
-   "mercado": "global",
-   "titular_es": "Congreso demócrata: los futuros suben, AMD gana 6% y Europa abre al alza; hoy vence el plazo de huelga en Long Beach",
-   "titular_en": "Democratic Congress: futures rise, AMD gains 6% and Europe opens higher; the Long Beach strike deadline expires today",
-   "titular_pt": "Congresso democrata: os futuros sobem, a AMD ganha 6% e a Europa abre em alta; hoje vence o prazo da greve em Long Beach"
-  },
-  {
-   "id": "2026-11-04-premercado-latam",
-   "fecha": "2026-11-04",
-   "momento": "premercado",
-   "mercado": "latam",
-   "titular_es": "Brasil espera la Selic tras caer 1.4% y el real en 5.49; Colombia y Argentina cerraron el martes con alzas",
-   "titular_en": "Brazil awaits the Selic after falling 1.4% with the real at 5.49; Colombia and Argentina closed Tuesday higher",
-   "titular_pt": "O Brasil espera a Selic após cair 1,4% e o dólar a R$ 5,49; Colômbia e Argentina fecharam a terça em alta"
-  },
-  {
-   "id": "2026-11-04-premercado-mexico",
-   "fecha": "2026-11-04",
-   "momento": "premercado",
-   "mercado": "mexico",
-   "titular_es": "El peso amanece en 18.86 tras perder 1.4% el martes; el FIX determinado ayer fue 18.7592 y Banxico decide mañana",
-   "titular_en": "The peso starts at 18.86 after losing 1.4% on Tuesday; yesterday's FIX was 18.7592 and Banxico decides tomorrow",
-   "titular_pt": "O peso amanhece a 18,86 após perder 1,4% na terça; o FIX de ontem foi 18,7592 e o Banxico decide amanhã"
   }
  ]
 }
