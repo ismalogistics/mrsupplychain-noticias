@@ -1,0 +1,107 @@
+{
+ "id": "2026-11-13-cierre-mexico",
+ "fecha": "2026-11-13",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": true,
+ "es": {
+  "titular": "El peso cierra la semana en 18.53, su mejor nivel en días; el IPC cae 0.87%",
+  "esencial": [
+   "A las 15:15 CDMX el peso estaba en 18.53 por dólar (−0.34% el dólar), su mejor nivel de la semana; el IPC cerró con −0.87% (71,186.69).",
+   "El FIX determinado por Banxico el jueves fue de 18.6188; el lunes 16 no hay FIX ni operan los bancos por el Día de la Revolución.",
+   "Para el fin de semana: con el peso en 18.53, deja cubiertos los pagos en dólares de la próxima semana y revisa precios de insumos importados."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El S&P/BMV IPC cerró con −0.87% (71,186.69), según Yahoo Finance, después de bajar 0.48% a media sesión. A las 15:15 CDMX el peso cotizaba en 18.53 por dólar (−0.34% el dólar), su mejor nivel de la semana. El FIX determinado por Banxico el jueves fue de 18.6188."
+   },
+   {
+    "t": "Por qué",
+    "x": "La bolsa siguió la venta de tecnología en Wall Street. El peso se fortaleció pese al índice del dólar (+0.2%) y al Treasury en 5.15%, en una semana en la que se mantuvo más firme que el real y el peso chileno."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "El lunes 16 cierran la BMV y los bancos por el Día de la Revolución, así que el peso operará con poca liquidez mientras Wall Street opera normal."
+   },
+   {
+    "t": "La próxima semana",
+    "x": "El martes Nvidia reporta resultados y en la semana salen las minutas de la Fed, que pueden mover al peso. El jueves 19 reporta Walmart, referencia para el consumo en EE. UU. y para Walmex. El 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre."
+   }
+  ],
+  "scm": "Para el fin de semana: con el peso en 18.53, deja cubiertos los pagos en dólares de la próxima semana, porque el lunes no operan los bancos. Prepara aumentos de insumos importados: los precios al productor de EE. UU. subieron 6.5% anual."
+ },
+ "en": {
+  "titular": "The peso ends the week at 18.53, its best level in days; the IPC falls 0.87%",
+  "esencial": [
+   "At 3:15 p.m. Mexico City time the peso stood at 18.53 per dollar (dollar −0.34%), its best level of the week; the IPC closed −0.87% (71,186.69).",
+   "Thursday's FIX set by Banxico was 18.6188; on Monday the 16th there is no FIX and banks are closed for Revolution Day.",
+   "For the weekend: with the peso at 18.53, cover next week's dollar payments and review imported input prices."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The S&P/BMV IPC closed −0.87% (71,186.69), according to Yahoo Finance, after falling 0.48% at midday. At 3:15 p.m. Mexico City time the peso traded at 18.53 per dollar (dollar −0.34%), its best level of the week. The FIX set by Banxico on Thursday was 18.6188."
+   },
+   {
+    "t": "Why",
+    "x": "Stocks followed Wall Street's tech selloff. The peso strengthened despite the dollar index (+0.2%) and the Treasury at 5.15%, in a week when it held up better than the real and the Chilean peso."
+   },
+   {
+    "t": "What to expect",
+    "x": "On Monday the 16th the BMV and banks close for Revolution Day, so the peso will trade with thin liquidity while Wall Street trades normally."
+   },
+   {
+    "t": "Next week",
+    "x": "Nvidia reports on Tuesday and the Fed minutes come out during the week, which may move the peso. Walmart reports on Thursday the 19th, a gauge of US consumption and of Walmex. On November 24 INEGI publishes first-half November inflation."
+   }
+  ],
+  "scm": "For the weekend: with the peso at 18.53, cover next week's dollar payments, since banks are closed Monday. Prepare for higher imported input costs: US producer prices rose 6.5% year over year."
+ },
+ "pt": {
+  "titular": "O peso fecha a semana a 18,53, seu melhor nível em dias; o IPC cai 0,87%",
+  "esencial": [
+   "Às 15h15 (Cidade do México) o peso estava a 18,53 por dólar (dólar −0,34%), seu melhor nível da semana; o IPC fechou com −0,87% (71.186,69).",
+   "O FIX definido pelo Banxico na quinta foi de 18,6188; na segunda, dia 16, não há FIX nem operam os bancos pelo Dia da Revolução.",
+   "Para o fim de semana: com o peso a 18,53, deixe cobertos os pagamentos em dólares da próxima semana e revise os preços de insumos importados."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O S&P/BMV IPC fechou com −0,87% (71.186,69), segundo o Yahoo Finance, depois de cair 0,48% no meio do pregão. Às 15h15 (Cidade do México) o peso era cotado a 18,53 por dólar (dólar −0,34%), seu melhor nível da semana. O FIX definido pelo Banxico na quinta foi de 18,6188."
+   },
+   {
+    "t": "Por quê",
+    "x": "A bolsa seguiu a venda de tecnologia em Wall Street. O peso se fortaleceu apesar do índice do dólar (+0,2%) e do Treasury em 5,15%, numa semana em que se manteve mais firme que o real e o peso chileno."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução, então o peso operará com pouca liquidez enquanto Wall Street opera normalmente."
+   },
+   {
+    "t": "A próxima semana",
+    "x": "Na terça a Nvidia divulga resultados e durante a semana saem as atas do Fed, que podem mexer com o peso. Na quinta, 19, divulga resultados o Walmart, referência para o consumo nos EUA e para o Walmex. Em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro."
+   }
+  ],
+  "scm": "Para o fim de semana: com o peso a 18,53, deixe cobertos os pagamentos em dólares da próxima semana, porque na segunda os bancos não operam. Prepare-se para aumentos de insumos importados: os preços ao produtor dos EUA subiram 6,5% em 12 meses."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), cierre del 13 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Tribuna: precio del dólar hoy, 13 nov 2026 (FIX del jueves 18.6188)",
+   "u": "https://tribuna.com.mx/politica-y-economia/2026/11/13/precio-del-dolar-en-mexico-hoy-13-de-noviembre-peso-mexicano-avanza-y-asi-cotiza-en-los-bancos_714851/"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas al cierre (13 nov 2026, 15:15 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Earnings Whispers: calendario de resultados, semana del 16 de noviembre de 2026",
+   "u": "https://www.earningswhispers.com/calweek/20261116"
+  }
+ ]
+}

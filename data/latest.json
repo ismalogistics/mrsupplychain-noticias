@@ -1,176 +1,218 @@
 {
- "actualizado": "2026-11-13T17:39:36Z",
- "momento": "mediodia",
+ "actualizado": "2026-11-13T21:18:38Z",
+ "momento": "cierre",
  "briefs": {
   "global": {
-   "id": "2026-11-13-mediodia-global",
+   "id": "2026-11-13-cierre-global",
    "fecha": "2026-11-13",
-   "momento": "mediodia",
+   "momento": "cierre",
    "mercado": "global",
-   "hora": "11:37 CDMX",
+   "hora": "15:15 CDMX",
+   "fin_de_semana": true,
    "es": {
-    "titular": "La venta de chips se acelera: AMD cae 10% y el Nasdaq 1.2%; el VIX sube a 20",
+    "titular": "Wall Street cierra una semana volátil con ganancias pese a Nvidia; el Treasury termina en 5.15% y el crudo baja 2.5% en la semana",
     "esencial": [
-     "A las 11:37 CDMX el S&P 500 bajaba 0.66%, el Nasdaq 1.17% y el Dow 0.07%; el VIX subía 6.8% a 19.98.",
-     "AMD caía 10.2%, Broadcom cerca de 6% y Nvidia 2.9%, que queda debajo de 4 billones de dólares de valor, según Yahoo Finance.",
-     "Para supply chain: la AIE prevé que el mercado petrolero vuelva a tener excedente en el cuarto trimestre; el Brent se estabiliza en 95.85 dólares."
+     "El viernes el S&P 500 cerró con −0.40% y el Nasdaq con −0.91%, mientras el Dow subió 0.10%; los tres índices terminaron la semana con ganancias, según Yahoo Finance.",
+     "Nvidia cerró con −2.0% y su valor quedó debajo de 4 billones de dólares; AMD cayó 8.75%. El Treasury a 10 años terminó en 5.15% y el Brent en 95.84 dólares.",
+     "Para el fin de semana: deja cerradas las compras de dólares, pide recargos de combustible con ajuste semanal y confirma pedidos de chips antes de los resultados de Nvidia del martes."
     ],
     "bloques": [
      {
-      "t": "Lo que se esperaba",
-      "x": "En la apertura el mercado giró a la baja tras el PPI de octubre (0.3% mensual, 6.5% anual), con el Treasury a 10 años en 5.16% y el Nasdaq −1.0% por los chips."
+      "t": "Qué pasó",
+      "x": "El viernes el S&P 500 cerró con −0.40% (7,561.67), el Nasdaq con −0.91% (25,136.27) y el Dow con +0.10% (52,347.55); el VIX terminó en 18.94. Pese a la salida de Jensen Huang de Nvidia, el alza del petróleo y la venta de bonos, los tres índices cerraron la semana con ganancias, según Yahoo Finance. Nvidia cerró con −2.0% (162.85 dólares) y su valor de mercado quedó debajo de 4 billones de dólares; AMD cayó 8.75% y Broadcom 4.76%, mientras Cerebras subió 11.2%. El Treasury a 10 años llegó a 5.17%, su máximo desde octubre, y terminó en 5.15%. El Brent cerró en 95.84 dólares (+0.02%) y el WTI en 88.56 (−0.20%); ambos bajaron cerca de 2.5% en la semana, según Reuters. El cobre cayó 2.2% (6.06 dólares por libra) y el bitcoin 4.1%, debajo de 70,000 dólares."
      },
      {
-      "t": "Cómo va",
-      "x": "La venta de chips se aceleró: a las 11:37 CDMX el S&P 500 estaba en 7,542.10 (−0.66%), el Nasdaq en 25,070.53 (−1.17%) y el Dow en 52,260.89 (−0.07%); el VIX subía 6.8% a 19.98. AMD caía 10.2%, Applied Materials 4.4% y Nvidia 2.9% (161.37 dólares); Broadcom e Intel perdían cerca de 6% y 5%, y Micron y SK Hynix entre 5% y 6%, según Yahoo Finance. El Treasury a 10 años llegó a 5.17% y estaba en 5.13%. El Brent estaba en 95.85 dólares (sin cambio), el WTI en 88.57 (−0.2%), el cobre caía 1.7% y el bitcoin seguía debajo de 70,000. Europa cerró casi plana: Euro Stoxx 50 −0.19%."
+      "t": "Por qué",
+      "x": "El PPI de octubre subió 6.5% anual, su mayor alza desde noviembre de 2022, y reforzó la expectativa de un alza de la Fed en diciembre, lo que llevó al Treasury arriba de 5.1%. La venta de chips se aceleró por la incertidumbre en Nvidia antes de sus resultados. En petróleo, la Agencia Internacional de Energía anticipó más excedente y los inventarios de EE. UU. subieron, aunque siguen los ataques a tanqueros en Ormuz."
      },
      {
-      "t": "Lo que sorprendió",
-      "x": "La Agencia Internacional de Energía (AIE) prevé que el mercado petrolero vuelva a tener excedente en el cuarto trimestre, por primera vez desde que empezó la guerra con Irán, según The Wall Street Journal. La próxima semana vienen dos pruebas para la IA: los resultados de Nvidia el martes, con Colette Kress como directora interina, y la oferta pública de Anthropic, prevista para el jueves."
+      "t": "Qué se espera",
+      "x": "El lunes Asia abre tras una semana de ventas en chips; en EE. UU. el mercado opera normal y en México la BMV y los bancos cierran por el Día de la Revolución. Los futuros del Nasdaq bajaban 2.0% a las 15:05 CDMX."
+     },
+     {
+      "t": "La próxima semana",
+      "x": "Martes 17: Home Depot antes de la apertura y Nvidia después del cierre, con Colette Kress como directora interina; también reporta SQM, clave para el litio de Chile. Miércoles 18: Target, Lowe’s y TJX. Jueves 19: Walmart antes de la apertura y la oferta pública de Anthropic, prevista ese día según The Wall Street Journal. En la semana salen las minutas de la última reunión de la Fed, y el viernes 20 vence la prórroga de las pláticas con los vigilantes de Los Ángeles–Long Beach."
      }
     ],
-    "scm": "Con la AIE anticipando excedente de crudo, no firmes recargos de combustible de largo plazo: pide ajuste semanal. Si compras GPU, memoria o almacenamiento, confirma pedidos antes de los resultados de Nvidia del martes."
+    "scm": "Para el fin de semana: 1) deja cerradas las compras de dólares de noviembre, porque el lunes no operan los bancos en México; 2) pide recargos de combustible con ajuste semanal: el crudo bajó 2.5% en la semana y la AIE prevé excedente; 3) confirma pedidos de GPU, memoria y almacenamiento antes de los resultados de Nvidia del martes; 4) con los reportes de Home Depot, Target y Walmart, revisa tu pronóstico de demanda de temporada."
    },
    "en": {
-    "titular": "The chip selloff accelerates: AMD falls 10% and the Nasdaq 1.2%; the VIX rises to 20",
+    "titular": "Wall Street ends a volatile week higher despite Nvidia; the Treasury ends at 5.15% and crude falls 2.5% on the week",
     "esencial": [
-     "At 12:37 p.m. ET the S&P 500 was down 0.66%, the Nasdaq 1.17% and the Dow 0.07%; the VIX rose 6.8% to 19.98.",
-     "AMD fell 10.2%, Broadcom nearly 6% and Nvidia 2.9%, which slips below $4 trillion in value, according to Yahoo Finance.",
-     "For supply chain: the IEA expects the oil market to return to surplus in the fourth quarter; Brent steadies at $95.85."
+     "On Friday the S&P 500 closed −0.40% and the Nasdaq −0.91%, while the Dow rose 0.10%; all three indexes ended the week higher, according to Yahoo Finance.",
+     "Nvidia closed −2.0% and its value fell below $4 trillion; AMD fell 8.75%. The 10-year Treasury ended at 5.15% and Brent at $95.84.",
+     "For the weekend: have dollar purchases closed, ask for fuel surcharges with weekly adjustment and confirm chip orders before Nvidia's Tuesday results."
     ],
     "bloques": [
      {
-      "t": "What was expected",
-      "x": "At the open the market turned lower after October PPI (0.3% monthly, 6.5% year over year), with the 10-year Treasury at 5.16% and the Nasdaq −1.0% on chips."
+      "t": "What happened",
+      "x": "On Friday the S&P 500 closed −0.40% (7,561.67), the Nasdaq −0.91% (25,136.27) and the Dow +0.10% (52,347.55); the VIX ended at 18.94. Despite Jensen Huang's exit from Nvidia, higher oil and a bond selloff, all three indexes closed the week higher, according to Yahoo Finance. Nvidia closed −2.0% ($162.85) and its market value fell below $4 trillion; AMD fell 8.75% and Broadcom 4.76%, while Cerebras rose 11.2%. The 10-year Treasury hit 5.17%, its highest since October, and ended at 5.15%. Brent settled at $95.84 (+0.02%) and WTI at $88.56 (−0.20%); both fell about 2.5% on the week, according to Reuters. Copper fell 2.2% ($6.06 per pound) and bitcoin 4.1%, below $70,000."
      },
      {
-      "t": "How it is going",
-      "x": "The chip selloff accelerated: at 12:37 p.m. ET the S&P 500 stood at 7,542.10 (−0.66%), the Nasdaq at 25,070.53 (−1.17%) and the Dow at 52,260.89 (−0.07%); the VIX rose 6.8% to 19.98. AMD fell 10.2%, Applied Materials 4.4% and Nvidia 2.9% ($161.37); Broadcom and Intel lost about 6% and 5%, and Micron and SK Hynix between 5% and 6%, according to Yahoo Finance. The 10-year Treasury hit 5.17% and was at 5.13%. Brent was at $95.85 (flat), WTI at $88.57 (−0.2%), copper fell 1.7% and bitcoin stayed below $70,000. Europe closed nearly flat: Euro Stoxx 50 −0.19%."
+      "t": "Why",
+      "x": "October PPI rose 6.5% year over year, its biggest rise since November 2022, reinforcing expectations of a December Fed hike and pushing the Treasury above 5.1%. The chip selloff accelerated on uncertainty at Nvidia ahead of its results. In oil, the International Energy Agency anticipated a bigger surplus and US inventories rose, though attacks on tankers in Hormuz continue."
      },
      {
-      "t": "What surprised",
-      "x": "The International Energy Agency (IEA) expects the oil market to return to surplus in the fourth quarter, for the first time since the Iran war began, according to The Wall Street Journal. Two tests for AI come next week: Nvidia's results on Tuesday, with Colette Kress as interim CEO, and Anthropic's IPO, expected on Thursday."
+      "t": "What to expect",
+      "x": "On Monday Asia opens after a week of chip selling; in the US the market trades normally and in Mexico the BMV and banks close for Revolution Day. Nasdaq futures were down 2.0% at 4:05 p.m. ET."
+     },
+     {
+      "t": "Next week",
+      "x": "Tuesday 17: Home Depot before the open and Nvidia after the close, with Colette Kress as interim CEO; SQM, key for Chile's lithium, also reports. Wednesday 18: Target, Lowe's and TJX. Thursday 19: Walmart before the open and Anthropic's IPO, expected that day according to The Wall Street Journal. The minutes of the Fed's last meeting come out during the week, and on Friday 20 the extension of talks with the Los Angeles–Long Beach watchmen expires."
      }
     ],
-    "scm": "With the IEA anticipating a crude surplus, don't sign long-term fuel surcharges: ask for weekly adjustment. If you buy GPUs, memory or storage, confirm orders before Nvidia's Tuesday results."
+    "scm": "For the weekend: 1) have November dollar purchases closed, because Mexican banks are closed Monday; 2) ask for fuel surcharges with weekly adjustment: crude fell 2.5% on the week and the IEA sees a surplus; 3) confirm GPU, memory and storage orders before Nvidia's Tuesday results; 4) with Home Depot, Target and Walmart reporting, review your seasonal demand forecast."
    },
    "pt": {
-    "titular": "A venda de chips se acelera: a AMD cai 10% e o Nasdaq 1,2%; o VIX sobe para 20",
+    "titular": "Wall Street fecha uma semana volátil com ganhos apesar da Nvidia; o Treasury termina em 5,15% e o petróleo cai 2,5% na semana",
     "esencial": [
-     "Às 11h37 (Cidade do México) o S&P 500 caía 0,66%, o Nasdaq 1,17% e o Dow 0,07%; o VIX subia 6,8% para 19,98.",
-     "A AMD caía 10,2%, a Broadcom quase 6% e a Nvidia 2,9%, que fica abaixo de 4 trilhões de dólares em valor, segundo o Yahoo Finance.",
-     "Para supply chain: a AIE prevê que o mercado de petróleo volte a ter excedente no quarto trimestre; o Brent se estabiliza a 95,85 dólares."
+     "Na sexta o S&P 500 fechou com −0,40% e o Nasdaq com −0,91%, enquanto o Dow subiu 0,10%; os três índices terminaram a semana com ganhos, segundo o Yahoo Finance.",
+     "A Nvidia fechou com −2,0% e seu valor ficou abaixo de 4 trilhões de dólares; a AMD caiu 8,75%. O Treasury de 10 anos terminou em 5,15% e o Brent a 95,84 dólares.",
+     "Para o fim de semana: deixe fechadas as compras de dólares, peça sobretaxas de combustível com ajuste semanal e confirme pedidos de chips antes dos resultados da Nvidia de terça."
     ],
     "bloques": [
      {
-      "t": "O que se esperava",
-      "x": "Na abertura o mercado virou para baixo após o PPI de outubro (0,3% no mês, 6,5% em 12 meses), com o Treasury de 10 anos em 5,16% e o Nasdaq −1,0% pelos chips."
+      "t": "O que aconteceu",
+      "x": "Na sexta o S&P 500 fechou com −0,40% (7.561,67), o Nasdaq com −0,91% (25.136,27) e o Dow com +0,10% (52.347,55); o VIX terminou em 18,94. Apesar da saída de Jensen Huang da Nvidia, da alta do petróleo e da venda de títulos, os três índices fecharam a semana com ganhos, segundo o Yahoo Finance. A Nvidia fechou com −2,0% (162,85 dólares) e seu valor de mercado ficou abaixo de 4 trilhões de dólares; a AMD caiu 8,75% e a Broadcom 4,76%, enquanto a Cerebras subiu 11,2%. O Treasury de 10 anos chegou a 5,17%, o maior desde outubro, e terminou em 5,15%. O Brent fechou a 95,84 dólares (+0,02%) e o WTI a 88,56 (−0,20%); ambos caíram cerca de 2,5% na semana, segundo a Reuters. O cobre caiu 2,2% (6,06 dólares por libra) e o bitcoin 4,1%, abaixo de 70 mil dólares."
      },
      {
-      "t": "Como está",
-      "x": "A venda de chips se acelerou: às 11h37 (Cidade do México) o S&P 500 estava em 7.542,10 (−0,66%), o Nasdaq em 25.070,53 (−1,17%) e o Dow em 52.260,89 (−0,07%); o VIX subia 6,8% para 19,98. A AMD caía 10,2%, a Applied Materials 4,4% e a Nvidia 2,9% (161,37 dólares); Broadcom e Intel perdiam cerca de 6% e 5%, e Micron e SK Hynix entre 5% e 6%, segundo o Yahoo Finance. O Treasury de 10 anos chegou a 5,17% e estava em 5,13%. O Brent estava a 95,85 dólares (estável), o WTI a 88,57 (−0,2%), o cobre caía 1,7% e o bitcoin seguia abaixo de 70 mil. A Europa fechou quase estável: Euro Stoxx 50 −0,19%."
+      "t": "Por quê",
+      "x": "O PPI de outubro subiu 6,5% em 12 meses, a maior alta desde novembro de 2022, e reforçou a expectativa de alta do Fed em dezembro, o que levou o Treasury acima de 5,1%. A venda de chips se acelerou pela incerteza na Nvidia antes dos resultados. No petróleo, a Agência Internacional de Energia antecipou mais excedente e os estoques dos EUA subiram, embora continuem os ataques a petroleiros em Ormuz."
      },
      {
-      "t": "O que surpreendeu",
-      "x": "A Agência Internacional de Energia (AIE) prevê que o mercado de petróleo volte a ter excedente no quarto trimestre, pela primeira vez desde o início da guerra com o Irã, segundo o The Wall Street Journal. Na próxima semana vêm dois testes para a IA: os resultados da Nvidia na terça, com Colette Kress como CEO interina, e a oferta pública da Anthropic, prevista para quinta."
+      "t": "O que se espera",
+      "x": "Na segunda a Ásia abre depois de uma semana de vendas em chips; nos EUA o mercado opera normalmente e no México a BMV e os bancos fecham pelo Dia da Revolução. Os futuros do Nasdaq caíam 2,0% às 15h05 (Cidade do México)."
+     },
+     {
+      "t": "A próxima semana",
+      "x": "Terça, 17: Home Depot antes da abertura e Nvidia depois do fechamento, com Colette Kress como CEO interina; também divulga resultados a SQM, chave para o lítio do Chile. Quarta, 18: Target, Lowe’s e TJX. Quinta, 19: Walmart antes da abertura e a oferta pública da Anthropic, prevista para esse dia segundo o The Wall Street Journal. Durante a semana saem as atas da última reunião do Fed, e na sexta, 20, vence a prorrogação das negociações com os vigilantes de Los Angeles–Long Beach."
      }
     ],
-    "scm": "Com a AIE antecipando excedente de petróleo, não assine sobretaxas de combustível de longo prazo: peça ajuste semanal. Se você compra GPUs, memória ou armazenamento, confirme os pedidos antes dos resultados da Nvidia de terça."
+    "scm": "Para o fim de semana: 1) deixe fechadas as compras de dólares de novembro, porque na segunda os bancos no México não operam; 2) peça sobretaxas de combustível com ajuste semanal: o petróleo caiu 2,5% na semana e a AIE prevê excedente; 3) confirme pedidos de GPUs, memória e armazenamento antes dos resultados da Nvidia de terça; 4) com os resultados de Home Depot, Target e Walmart, revise sua previsão de demanda da temporada."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: el Nasdaq encabeza las bajas por la venta de chips (13 nov 2026)",
+     "t": "Yahoo Finance: el Dow sube y el S&P 500 y el Nasdaq bajan al cierre de una semana volátil (13 nov 2026)",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
+    {
+     "t": "Reuters vía Yahoo Finance: el petróleo va por su segunda baja semanal por señales de excedente (13 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-prices-set-second-weekly-054237957.html"
     },
     {
      "t": "The Wall Street Journal vía Yahoo Finance: las bolsas caen y Nvidia vuelve a bajar (13 nov 2026)",
      "u": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-lower-investors-look-111900529.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 11:37 CDMX)",
+     "t": "Earnings Whispers: calendario de resultados, semana del 16 de noviembre de 2026",
+     "u": "https://www.earningswhispers.com/calweek/20261116"
+    },
+    {
+     "t": "FXStreet: la semana que viene, con las minutas de la Fed (13 nov 2026)",
+     "u": "https://www.fxstreet.com/analysis/forecasting-the-upcoming-week-fed-takes-control-with-the-release-of-the-minutes-202611131822"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas al cierre (13 nov 2026, 15:15 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-13-mediodia-latam",
+   "id": "2026-11-13-cierre-latam",
    "fecha": "2026-11-13",
-   "momento": "mediodia",
+   "momento": "cierre",
    "mercado": "latam",
-   "hora": "11:37 CDMX",
+   "hora": "15:15 CDMX",
+   "fin_de_semana": true,
    "es": {
-    "titular": "El Ibovespa sube 0.55% y el TSX 0.12% pese a la venta de chips; Colombia cae 0.9%",
+    "titular": "El Ibovespa cierra con +0.77% y Argentina sube 1.6%; el real se debilita a 5.67",
     "esencial": [
-     "A las 11:22 CDMX el Ibovespa subía 0.55% (172,274.31) y a las 11:37 el S&P/TSX 0.12%.",
-     "El iCOLCAP de Colombia bajaba 0.86% y el peso colombiano perdía 0.48% (3,324 por dólar).",
-     "Con el cobre −1.7%, cotiza hoy cable e insumos de cobre."
+     "El Ibovespa cerró con +0.77% (172,642.40) y el ETF de MSCI de Argentina subió 1.56%; el S&P/TSX bajó 0.09%.",
+     "El dólar subió 0.44% frente al real (5.67), mientras el sol y el peso argentino se fortalecieron levemente.",
+     "Para el fin de semana: deja programados los pagos en reales y cotiza insumos de cobre, que cayó 2.2%."
     ],
     "bloques": [
      {
-      "t": "Lo que se esperaba",
-      "x": "En la apertura el Ibovespa subía 0.62% y el ETF de Argentina 0.81%, mientras el peso chileno llegaba a 999 por dólar."
+      "t": "Qué pasó",
+      "x": "El Ibovespa cerró con +0.77% (172,642.40) y el S&P/TSX con −0.09% (36,105.90). Los ETF de MSCI cerraron con +1.56% en Argentina, +0.20% en Chile y −0.09% en Perú."
      },
      {
-      "t": "Cómo va",
-      "x": "A las 11:22 CDMX el Ibovespa estaba en 172,274.31 (+0.55%) y a las 11:37 el S&P/TSX en 36,180.22 (+0.12%). Los ETF de MSCI subían 0.45% en Argentina y 0.11% en Chile, y Perú no cambiaba; el iCOLCAP bajaba 0.86% a las 10:48. A las 11:37 el dólar estaba en 994.8 pesos chilenos (+0.08%), 5.64 reales (−0.09%), 3,324 pesos colombianos (+0.48%), 3.40 soles (−0.10%) y 1,544 pesos argentinos (−0.06%)."
+      "t": "Por qué",
+      "x": "Brasil y Argentina se desmarcaron de la venta de chips de Wall Street. El cobre cayó 2.2% (6.06 dólares por libra), lo que frenó a Perú, y el crudo terminó estable (Brent 95.84 dólares)."
      },
      {
-      "t": "Lo que sorprendió",
-      "x": "La región resiste la venta de chips de Wall Street; el peso chileno recuperó parte de lo perdido en la mañana, aunque el cobre amplió su caída a 1.7% (6.09 dólares por libra)."
+      "t": "Monedas",
+      "x": "A las 15:15 CDMX el real estaba en 5.67 por dólar (dólar +0.44%) y el dólar canadiense en 1.427 (+0.11%); a las 15:05 el peso colombiano estaba en 3,307 (sin cambio), a las 15:06 el sol en 3.40 (−0.14%), a las 14:40 el peso argentino en 1,543.5 (−0.10%) y a las 13:55 el peso chileno en 994.2 (+0.02%)."
+     },
+     {
+      "t": "La próxima semana",
+      "x": "El martes 17 reporta SQM, clave para el litio de Chile, el mismo día que Nvidia. En la semana salen las minutas de la Fed, que pueden mover a las monedas de la región, y el jueves 19 reporta Walmart, referencia para el consumo en el continente."
      }
     ],
-    "scm": "Cotiza hoy cable e insumos de cobre con el precio a la baja, y escalona los pagos en pesos colombianos, que se debilitan."
+    "scm": "Para el fin de semana: deja programados los pagos en reales, que se debilitan, y cotiza cable e insumos de cobre con el precio a la baja. Si compras litio o químicos en Chile, revisa el reporte de SQM del martes antes de negociar."
    },
    "en": {
-    "titular": "The Ibovespa rises 0.55% and the TSX 0.12% despite the chip selloff; Colombia falls 0.9%",
+    "titular": "The Ibovespa closes +0.77% and Argentina rises 1.6%; the real weakens to 5.67",
     "esencial": [
-     "At 11:22 a.m. Mexico City time the Ibovespa was up 0.55% (172,274.31) and at 11:37 the S&P/TSX 0.12%.",
-     "Colombia's iCOLCAP was down 0.86% and the Colombian peso lost 0.48% (3,324 per dollar).",
-     "With copper −1.7%, quote cable and copper inputs today."
+     "The Ibovespa closed +0.77% (172,642.40) and the MSCI Argentina ETF rose 1.56%; the S&P/TSX fell 0.09%.",
+     "The dollar rose 0.44% against the real (5.67), while the sol and the Argentine peso firmed slightly.",
+     "For the weekend: schedule payments in reais and quote copper inputs, which fell 2.2%."
     ],
     "bloques": [
      {
-      "t": "What was expected",
-      "x": "At the open the Ibovespa was up 0.62% and the Argentina ETF 0.81%, while the Chilean peso reached 999 per dollar."
+      "t": "What happened",
+      "x": "The Ibovespa closed +0.77% (172,642.40) and the S&P/TSX −0.09% (36,105.90). The MSCI ETFs closed +1.56% for Argentina, +0.20% for Chile and −0.09% for Peru."
      },
      {
-      "t": "How it is going",
-      "x": "At 11:22 a.m. Mexico City time the Ibovespa stood at 172,274.31 (+0.55%) and at 11:37 the S&P/TSX at 36,180.22 (+0.12%). The MSCI ETFs rose 0.45% for Argentina and 0.11% for Chile, and Peru was flat; the iCOLCAP fell 0.86% at 10:48. At 11:37 the dollar stood at 994.8 Chilean pesos (+0.08%), 5.64 reais (−0.09%), 3,324 Colombian pesos (+0.48%), 3.40 soles (−0.10%) and 1,544 Argentine pesos (−0.06%)."
+      "t": "Why",
+      "x": "Brazil and Argentina decoupled from Wall Street's chip selloff. Copper fell 2.2% ($6.06 per pound), holding back Peru, and crude ended flat (Brent $95.84)."
      },
      {
-      "t": "What surprised",
-      "x": "The region is holding up against Wall Street's chip selloff; the Chilean peso recovered part of its morning loss, although copper extended its drop to 1.7% ($6.09 per pound)."
+      "t": "Currencies",
+      "x": "At 3:15 p.m. Mexico City time the real was at 5.67 per dollar (dollar +0.44%) and the Canadian dollar at 1.427 (+0.11%); at 3:05 p.m. the Colombian peso was at 3,307 (flat), at 3:06 p.m. the sol at 3.40 (−0.14%), at 2:40 p.m. the Argentine peso at 1,543.5 (−0.10%) and at 1:55 p.m. the Chilean peso at 994.2 (+0.02%)."
+     },
+     {
+      "t": "Next week",
+      "x": "SQM, key for Chile's lithium, reports on Tuesday the 17th, the same day as Nvidia. The Fed minutes come out during the week, which may move the region's currencies, and Walmart reports on Thursday the 19th, a gauge of consumption across the continent."
      }
     ],
-    "scm": "Quote cable and copper inputs today while prices dip, and stagger payments in Colombian pesos, which are weakening."
+    "scm": "For the weekend: schedule payments in reais, which are weakening, and quote cable and copper inputs while prices dip. If you buy lithium or chemicals in Chile, review SQM's Tuesday report before negotiating."
    },
    "pt": {
-    "titular": "O Ibovespa sobe 0,55% e o TSX 0,12% apesar da venda de chips; a Colômbia cai 0,9%",
+    "titular": "O Ibovespa fecha com +0,77% e a Argentina sobe 1,6%; o real se enfraquece para 5,67",
     "esencial": [
-     "Às 11h22 (Cidade do México) o Ibovespa subia 0,55% (172.274,31) e às 11h37 o S&P/TSX 0,12%.",
-     "O iCOLCAP da Colômbia caía 0,86% e o peso colombiano perdia 0,48% (3.324 por dólar).",
-     "Com o cobre −1,7%, cote hoje cabos e insumos de cobre."
+     "O Ibovespa fechou com +0,77% (172.642,40) e o ETF da MSCI da Argentina subiu 1,56%; o S&P/TSX caiu 0,09%.",
+     "O dólar subiu 0,44% frente ao real (R$ 5,67), enquanto o sol e o peso argentino se fortaleceram levemente.",
+     "Para o fim de semana: deixe programados os pagamentos em reais e cote insumos de cobre, que caiu 2,2%."
     ],
     "bloques": [
      {
-      "t": "O que se esperava",
-      "x": "Na abertura o Ibovespa subia 0,62% e o ETF da Argentina 0,81%, enquanto o peso chileno chegava a 999 por dólar."
+      "t": "O que aconteceu",
+      "x": "O Ibovespa fechou com +0,77% (172.642,40) e o S&P/TSX com −0,09% (36.105,90). Os ETFs da MSCI fecharam com +1,56% na Argentina, +0,20% no Chile e −0,09% no Peru."
      },
      {
-      "t": "Como está",
-      "x": "Às 11h22 (Cidade do México) o Ibovespa estava em 172.274,31 (+0,55%) e às 11h37 o S&P/TSX em 36.180,22 (+0,12%). Os ETFs da MSCI subiam 0,45% na Argentina e 0,11% no Chile, e o Peru não mudava; o iCOLCAP caía 0,86% às 10h48. Às 11h37 o dólar estava em 994,8 pesos chilenos (+0,08%), R$ 5,64 (−0,09%), 3.324 pesos colombianos (+0,48%), 3,40 soles (−0,10%) e 1.544 pesos argentinos (−0,06%)."
+      "t": "Por quê",
+      "x": "Brasil e Argentina se descolaram da venda de chips de Wall Street. O cobre caiu 2,2% (6,06 dólares por libra), o que segurou o Peru, e o petróleo terminou estável (Brent 95,84 dólares)."
      },
      {
-      "t": "O que surpreendeu",
-      "x": "A região resiste à venda de chips de Wall Street; o peso chileno recuperou parte do que perdeu pela manhã, embora o cobre tenha ampliado a queda para 1,7% (6,09 dólares por libra)."
+      "t": "Moedas",
+      "x": "Às 15h15 (Cidade do México) o dólar estava em R$ 5,67 (+0,44%) e o dólar canadense em 1,427 (+0,11%); às 15h05 o peso colombiano estava em 3.307 (estável), às 15h06 o sol em 3,40 (−0,14%), às 14h40 o peso argentino em 1.543,5 (−0,10%) e às 13h55 o peso chileno em 994,2 (+0,02%)."
+     },
+     {
+      "t": "A próxima semana",
+      "x": "Na terça, 17, divulga resultados a SQM, chave para o lítio do Chile, no mesmo dia que a Nvidia. Durante a semana saem as atas do Fed, que podem mexer com as moedas da região, e na quinta, 19, divulga resultados o Walmart, referência para o consumo no continente."
      }
     ],
-    "scm": "Cote hoje cabos e insumos de cobre com o preço em queda e escalone os pagamentos em pesos colombianos, que se enfraquecem."
+    "scm": "Para o fim de semana: deixe programados os pagamentos em reais, que se enfraquecem, e cote cabos e insumos de cobre com o preço em queda. Se você compra lítio ou químicos no Chile, revise o resultado da SQM de terça antes de negociar."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 11:37 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas al cierre (13 nov 2026, 15:15 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
+    },
+    {
+     "t": "Earnings Whispers: calendario de resultados, semana del 16 de noviembre de 2026",
+     "u": "https://www.earningswhispers.com/calweek/20261116"
     },
     {
      "t": "Mr. Supply Chain México: mapa de calor de América",
@@ -179,100 +221,117 @@
    ]
   },
   "mexico": {
-   "id": "2026-11-13-mediodia-mexico",
+   "id": "2026-11-13-cierre-mexico",
    "fecha": "2026-11-13",
-   "momento": "mediodia",
+   "momento": "cierre",
    "mercado": "mexico",
-   "hora": "11:37 CDMX",
+   "hora": "15:15 CDMX",
+   "fin_de_semana": true,
    "es": {
-    "titular": "El IPC baja 0.48% con los chips y el peso se mantiene en 18.56",
+    "titular": "El peso cierra la semana en 18.53, su mejor nivel en días; el IPC cae 0.87%",
     "esencial": [
-     "A las 11:17 CDMX el IPC bajaba 0.48% (71,469.52) y a las 11:37 el peso estaba en 18.56 por dólar (−0.17% el dólar).",
-     "El peso conserva su mejor nivel de la semana aunque el índice del dólar sube 0.2%.",
-     "Para supply chain: hoy es el último día hábil antes del puente; cierra compras de dólares con el peso en 18.56."
+     "A las 15:15 CDMX el peso estaba en 18.53 por dólar (−0.34% el dólar), su mejor nivel de la semana; el IPC cerró con −0.87% (71,186.69).",
+     "El FIX determinado por Banxico el jueves fue de 18.6188; el lunes 16 no hay FIX ni operan los bancos por el Día de la Revolución.",
+     "Para el fin de semana: con el peso en 18.53, deja cubiertos los pagos en dólares de la próxima semana y revisa precios de insumos importados."
     ],
     "bloques": [
      {
-      "t": "Lo que se esperaba",
-      "x": "En la apertura el peso se fortalecía a 18.56 y el IPC bajaba 0.25%, tras un PPI de EE. UU. menor a lo esperado en el mes; el FIX del jueves fue de 18.6188."
+      "t": "Qué pasó",
+      "x": "El S&P/BMV IPC cerró con −0.87% (71,186.69), según Yahoo Finance, después de bajar 0.48% a media sesión. A las 15:15 CDMX el peso cotizaba en 18.53 por dólar (−0.34% el dólar), su mejor nivel de la semana. El FIX determinado por Banxico el jueves fue de 18.6188."
      },
      {
-      "t": "Cómo va",
-      "x": "A las 11:17 CDMX el S&P/BMV IPC bajaba 0.48% a 71,469.52 y a las 11:37 el peso cotizaba en 18.56 por dólar (−0.17% el dólar)."
+      "t": "Por qué",
+      "x": "La bolsa siguió la venta de tecnología en Wall Street. El peso se fortaleció pese al índice del dólar (+0.2%) y al Treasury en 5.15%, en una semana en la que se mantuvo más firme que el real y el peso chileno."
      },
      {
-      "t": "Lo que sorprendió",
-      "x": "El peso se sostuvo mientras el peso colombiano perdía 0.5% y el índice del dólar subía 0.2%; la bolsa amplió su caída con la venta de tecnología en Wall Street."
+      "t": "Qué se espera",
+      "x": "El lunes 16 cierran la BMV y los bancos por el Día de la Revolución, así que el peso operará con poca liquidez mientras Wall Street opera normal."
+     },
+     {
+      "t": "La próxima semana",
+      "x": "El martes Nvidia reporta resultados y en la semana salen las minutas de la Fed, que pueden mover al peso. El jueves 19 reporta Walmart, referencia para el consumo en EE. UU. y para Walmex. El 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre."
      }
     ],
-    "scm": "Hoy es el último día hábil antes del puente del lunes 16: con el peso en 18.56, cierra la compra de dólares de noviembre y programa los pagos. Prepara aumentos de insumos importados por la inflación mayorista de EE. UU."
+    "scm": "Para el fin de semana: con el peso en 18.53, deja cubiertos los pagos en dólares de la próxima semana, porque el lunes no operan los bancos. Prepara aumentos de insumos importados: los precios al productor de EE. UU. subieron 6.5% anual."
    },
    "en": {
-    "titular": "The IPC falls 0.48% with chips and the peso holds at 18.56",
+    "titular": "The peso ends the week at 18.53, its best level in days; the IPC falls 0.87%",
     "esencial": [
-     "At 11:17 a.m. Mexico City time the IPC was down 0.48% (71,469.52) and at 11:37 the peso stood at 18.56 per dollar (dollar −0.17%).",
-     "The peso keeps its best level of the week even as the dollar index rises 0.2%.",
-     "For supply chain: today is the last business day before the long weekend; close dollar purchases with the peso at 18.56."
+     "At 3:15 p.m. Mexico City time the peso stood at 18.53 per dollar (dollar −0.34%), its best level of the week; the IPC closed −0.87% (71,186.69).",
+     "Thursday's FIX set by Banxico was 18.6188; on Monday the 16th there is no FIX and banks are closed for Revolution Day.",
+     "For the weekend: with the peso at 18.53, cover next week's dollar payments and review imported input prices."
     ],
     "bloques": [
      {
-      "t": "What was expected",
-      "x": "At the open the peso strengthened to 18.56 and the IPC was down 0.25%, after a softer-than-expected monthly US PPI; Thursday's FIX was 18.6188."
+      "t": "What happened",
+      "x": "The S&P/BMV IPC closed −0.87% (71,186.69), according to Yahoo Finance, after falling 0.48% at midday. At 3:15 p.m. Mexico City time the peso traded at 18.53 per dollar (dollar −0.34%), its best level of the week. The FIX set by Banxico on Thursday was 18.6188."
      },
      {
-      "t": "How it is going",
-      "x": "At 11:17 a.m. Mexico City time the S&P/BMV IPC was down 0.48% at 71,469.52 and at 11:37 the peso traded at 18.56 per dollar (dollar −0.17%)."
+      "t": "Why",
+      "x": "Stocks followed Wall Street's tech selloff. The peso strengthened despite the dollar index (+0.2%) and the Treasury at 5.15%, in a week when it held up better than the real and the Chilean peso."
      },
      {
-      "t": "What surprised",
-      "x": "The peso held up while the Colombian peso lost 0.5% and the dollar index rose 0.2%; stocks extended their decline with Wall Street's tech selloff."
+      "t": "What to expect",
+      "x": "On Monday the 16th the BMV and banks close for Revolution Day, so the peso will trade with thin liquidity while Wall Street trades normally."
+     },
+     {
+      "t": "Next week",
+      "x": "Nvidia reports on Tuesday and the Fed minutes come out during the week, which may move the peso. Walmart reports on Thursday the 19th, a gauge of US consumption and of Walmex. On November 24 INEGI publishes first-half November inflation."
      }
     ],
-    "scm": "Today is the last business day before the Monday the 16th long weekend: with the peso at 18.56, close November dollar purchases and schedule payments. Prepare for higher imported input costs given US wholesale inflation."
+    "scm": "For the weekend: with the peso at 18.53, cover next week's dollar payments, since banks are closed Monday. Prepare for higher imported input costs: US producer prices rose 6.5% year over year."
    },
    "pt": {
-    "titular": "O IPC cai 0,48% com os chips e o peso se mantém a 18,56",
+    "titular": "O peso fecha a semana a 18,53, seu melhor nível em dias; o IPC cai 0,87%",
     "esencial": [
-     "Às 11h17 (Cidade do México) o IPC caía 0,48% (71.469,52) e às 11h37 o peso estava a 18,56 por dólar (dólar −0,17%).",
-     "O peso mantém seu melhor nível da semana mesmo com o índice do dólar subindo 0,2%.",
-     "Para supply chain: hoje é o último dia útil antes do feriado; feche as compras de dólares com o peso a 18,56."
+     "Às 15h15 (Cidade do México) o peso estava a 18,53 por dólar (dólar −0,34%), seu melhor nível da semana; o IPC fechou com −0,87% (71.186,69).",
+     "O FIX definido pelo Banxico na quinta foi de 18,6188; na segunda, dia 16, não há FIX nem operam os bancos pelo Dia da Revolução.",
+     "Para o fim de semana: com o peso a 18,53, deixe cobertos os pagamentos em dólares da próxima semana e revise os preços de insumos importados."
     ],
     "bloques": [
      {
-      "t": "O que se esperava",
-      "x": "Na abertura o peso se fortalecia para 18,56 e o IPC caía 0,25%, após um PPI mensal dos EUA abaixo do esperado; o FIX de quinta foi de 18,6188."
+      "t": "O que aconteceu",
+      "x": "O S&P/BMV IPC fechou com −0,87% (71.186,69), segundo o Yahoo Finance, depois de cair 0,48% no meio do pregão. Às 15h15 (Cidade do México) o peso era cotado a 18,53 por dólar (dólar −0,34%), seu melhor nível da semana. O FIX definido pelo Banxico na quinta foi de 18,6188."
      },
      {
-      "t": "Como está",
-      "x": "Às 11h17 (Cidade do México) o S&P/BMV IPC caía 0,48% para 71.469,52 e às 11h37 o peso era cotado a 18,56 por dólar (dólar −0,17%)."
+      "t": "Por quê",
+      "x": "A bolsa seguiu a venda de tecnologia em Wall Street. O peso se fortaleceu apesar do índice do dólar (+0,2%) e do Treasury em 5,15%, numa semana em que se manteve mais firme que o real e o peso chileno."
      },
      {
-      "t": "O que surpreendeu",
-      "x": "O peso se sustentou enquanto o peso colombiano perdia 0,5% e o índice do dólar subia 0,2%; a bolsa ampliou a queda com a venda de tecnologia em Wall Street."
+      "t": "O que se espera",
+      "x": "Na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução, então o peso operará com pouca liquidez enquanto Wall Street opera normalmente."
+     },
+     {
+      "t": "A próxima semana",
+      "x": "Na terça a Nvidia divulga resultados e durante a semana saem as atas do Fed, que podem mexer com o peso. Na quinta, 19, divulga resultados o Walmart, referência para o consumo nos EUA e para o Walmex. Em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro."
      }
     ],
-    "scm": "Hoje é o último dia útil antes do feriado de segunda, dia 16: com o peso a 18,56, feche a compra de dólares de novembro e programe os pagamentos. Prepare-se para aumentos de insumos importados pela inflação no atacado dos EUA."
+    "scm": "Para o fim de semana: com o peso a 18,53, deixe cobertos os pagamentos em dólares da próxima semana, porque na segunda os bancos não operam. Prepare-se para aumentos de insumos importados: os preços ao produtor dos EUA subiram 6,5% em 12 meses."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: IPC México (^MXX), 13 nov 2026",
+     "t": "Yahoo Finance: IPC México (^MXX), cierre del 13 nov 2026",
      "u": "https://finance.yahoo.com/quote/%5EMXX/"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 11:37 CDMX)",
-     "u": "https://finance.yahoo.com/markets/"
     },
     {
      "t": "Tribuna: precio del dólar hoy, 13 nov 2026 (FIX del jueves 18.6188)",
      "u": "https://tribuna.com.mx/politica-y-economia/2026/11/13/precio-del-dolar-en-mexico-hoy-13-de-noviembre-peso-mexicano-avanza-y-asi-cotiza-en-los-bancos_714851/"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas al cierre (13 nov 2026, 15:15 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
+    },
+    {
+     "t": "Earnings Whispers: calendario de resultados, semana del 16 de noviembre de 2026",
+     "u": "https://www.earningswhispers.com/calweek/20261116"
     }
    ]
   }
  },
  "lectura": {
   "es": {
-   "titular": "La venta de chips se acelera (AMD −10%) mientras la AIE anticipa excedente de crudo en el cuarto trimestre",
-   "resumen": "El PPI de octubre subió 0.3% mensual, menos de lo esperado, pero 6.5% anual, la mayor alza desde noviembre de 2022, con presiones que ya se extienden a manufactura y cadenas de suministro. El Treasury a 10 años sube a 5.16%, su nivel más alto desde octubre, y el Nasdaq cae 1% con los chips (AMD −8%, Nvidia −2.6%). El Brent sigue cerca de 97 dólares por el conflicto con Irán. En México el peso se fortalece a 18.56 y el FIX del jueves fue de 18.6188. La prioridad es preparar aumentos de proveedores, fijar precios del primer trimestre y cerrar pagos en dólares antes del puente del lunes 16.",
+   "titular": "Una semana de choques: salida de Jensen Huang, PPI de 6.5% y Treasury arriba de 5%; aun así, las bolsas de EE. UU. ganaron en la semana",
+   "resumen": "La semana combinó tres presiones para supply chain. Primero, el costo del dinero: el CPI y el PPI de octubre (6.5% anual en precios al productor) dejaron casi seguro un alza de la Fed en diciembre y llevaron al Treasury a 10 años a 5.17%, su máximo desde octubre. Segundo, la volatilidad en la cadena de la IA: Jensen Huang dejó Nvidia, cuyo valor bajó de 4 billones de dólares, y AMD cayó 8.75% el viernes, antes de los resultados de Nvidia del martes. Tercero, la energía: el Brent llegó a 96 dólares por Irán, pero terminó la semana con una baja de 2.5% ante el excedente que anticipa la AIE. En México el peso cerró en 18.53, su mejor nivel de la semana, mientras el real y el peso chileno se debilitaron. La prioridad es preparar aumentos de proveedores, financiar menos inventario con deuda en dólares y mantener recargos de combustible con ajuste semanal.",
    "temas": [
     {
      "tema": "Peso y tasas",
@@ -378,8 +437,8 @@
    ]
   },
   "en": {
-   "titular": "The chip selloff accelerates (AMD −10%) as the IEA anticipates a crude surplus in the fourth quarter",
-   "resumen": "October PPI rose 0.3% monthly, less than expected, but 6.5% year over year, the biggest rise since November 2022, with pressures now spreading into manufacturing and supply chains. The 10-year Treasury rises to 5.16%, its highest since October, and the Nasdaq falls 1% with chips (AMD −8%, Nvidia −2.6%). Brent stays near $97 on the Iran conflict. In Mexico the peso strengthens to 18.56 and Thursday's FIX was 18.6188. The priority is to prepare for supplier increases, lock first-quarter prices and close dollar payments before the Monday the 16th long weekend.",
+   "titular": "A week of shocks: Jensen Huang's exit, 6.5% PPI and the Treasury above 5%; even so, US stocks gained on the week",
+   "resumen": "The week combined three pressures for supply chain. First, the cost of money: October CPI and PPI (6.5% year over year in producer prices) made a December Fed hike nearly certain and pushed the 10-year Treasury to 5.17%, its highest since October. Second, volatility in the AI chain: Jensen Huang left Nvidia, whose value fell below $4 trillion, and AMD fell 8.75% on Friday, ahead of Nvidia's Tuesday results. Third, energy: Brent reached $96 on Iran but ended the week down 2.5% on the surplus the IEA anticipates. In Mexico the peso closed at 18.53, its best level of the week, while the real and the Chilean peso weakened. The priority is to prepare for supplier increases, finance less inventory with dollar debt and keep fuel surcharges on weekly adjustment.",
    "temas": [
     {
      "tema": "Peso and rates",
@@ -485,8 +544,8 @@
    ]
   },
   "pt": {
-   "titular": "A venda de chips se acelera (AMD −10%) enquanto a AIE antecipa excedente de petróleo no quarto trimestre",
-   "resumen": "O PPI de outubro subiu 0,3% no mês, menos que o esperado, mas 6,5% em 12 meses, a maior alta desde novembro de 2022, com pressões que já se espalham pela manufatura e pelas cadeias de suprimentos. O Treasury de 10 anos sobe para 5,16%, o maior nível desde outubro, e o Nasdaq cai 1% com os chips (AMD −8%, Nvidia −2,6%). O Brent segue perto de 97 dólares pelo conflito com o Irã. No México o peso se fortalece para 18,56 e o FIX de quinta foi de 18,6188. A prioridade é preparar-se para reajustes de fornecedores, fixar preços do primeiro trimestre e fechar pagamentos em dólares antes do feriado de segunda, dia 16.",
+   "titular": "Uma semana de choques: saída de Jensen Huang, PPI de 6,5% e Treasury acima de 5%; mesmo assim, as bolsas dos EUA ganharam na semana",
+   "resumen": "A semana combinou três pressões para supply chain. Primeiro, o custo do dinheiro: o CPI e o PPI de outubro (6,5% em 12 meses nos preços ao produtor) deixaram quase certa uma alta do Fed em dezembro e levaram o Treasury de 10 anos a 5,17%, o maior desde outubro. Segundo, a volatilidade na cadeia da IA: Jensen Huang deixou a Nvidia, cujo valor caiu abaixo de 4 trilhões de dólares, e a AMD caiu 8,75% na sexta, antes dos resultados da Nvidia de terça. Terceiro, a energia: o Brent chegou a 96 dólares pelo Irã, mas terminou a semana com queda de 2,5% diante do excedente que a AIE antecipa. No México o peso fechou a 18,53, seu melhor nível da semana, enquanto o real e o peso chileno se enfraqueceram. A prioridade é preparar-se para reajustes de fornecedores, financiar menos estoque com dívida em dólar e manter as sobretaxas de combustível com ajuste semanal.",
    "temas": [
     {
      "tema": "Peso e juros",
@@ -597,8 +656,8 @@
    "nombre": "IPC BMV",
    "name_en": "IPC BMV",
    "grupo": "bolsa",
-   "valor": 71469.52,
-   "cambio": -0.48,
+   "valor": 71186.69,
+   "cambio": -0.87,
    "unidad": "puntos",
    "name_pt": "IPC BMV"
   },
@@ -606,8 +665,8 @@
    "nombre": "S&P 500",
    "name_en": "S&P 500",
    "grupo": "bolsa",
-   "valor": 7542.1,
-   "cambio": -0.66,
+   "valor": 7561.67,
+   "cambio": -0.4,
    "unidad": "puntos",
    "name_pt": "S&P 500"
   },
@@ -615,8 +674,8 @@
    "nombre": "Nasdaq",
    "name_en": "Nasdaq",
    "grupo": "bolsa",
-   "valor": 25070.53,
-   "cambio": -1.17,
+   "valor": 25136.27,
+   "cambio": -0.91,
    "unidad": "puntos",
    "name_pt": "Nasdaq"
   },
@@ -624,8 +683,8 @@
    "nombre": "Dow Jones",
    "name_en": "Dow Jones",
    "grupo": "bolsa",
-   "valor": 52260.89,
-   "cambio": -0.07,
+   "valor": 52347.55,
+   "cambio": 0.1,
    "unidad": "puntos",
    "name_pt": "Dow Jones"
   },
@@ -660,8 +719,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 18.56,
-   "cambio": -0.17,
+   "valor": 18.53,
+   "cambio": -0.34,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -669,8 +728,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.1033,
-   "cambio": -0.24,
+   "valor": 1.1027,
+   "cambio": -0.29,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -678,8 +737,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 159.92,
-   "cambio": 0.05,
+   "valor": 159.74,
+   "cambio": -0.06,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -687,8 +746,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 88.57,
-   "cambio": -0.19,
+   "valor": 88.56,
+   "cambio": -0.2,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -696,8 +755,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 95.85,
-   "cambio": 0.03,
+   "valor": 95.84,
+   "cambio": 0.02,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -714,8 +773,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3884.5,
-   "cambio": -0.02,
+   "valor": 3879.2,
+   "cambio": -0.16,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -723,8 +782,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 6.09,
-   "cambio": -1.66,
+   "valor": 6.06,
+   "cambio": -2.18,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -732,8 +791,8 @@
    "nombre": "Treasury 10 años",
    "name_en": "10-yr Treasury",
    "grupo": "bono",
-   "valor": 5.13,
-   "cambio": 3,
+   "valor": 5.15,
+   "cambio": 5,
    "unidad": "%",
    "name_pt": "Título do Tesouro 10 anos"
   },
@@ -759,8 +818,8 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 68825.62,
-   "cambio": -3.57,
+   "valor": 68483.53,
+   "cambio": -4.05,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }
@@ -771,6 +830,24 @@
    "es": "México: Día de la Revolución, BMV y bancos cerrados",
    "en": "Mexico: Revolution Day, BMV and banks closed",
    "pt": "México: Dia da Revolução, BMV e bancos fechados"
+  },
+  {
+   "fecha": "2026-11-17",
+   "es": "Nvidia reporta resultados después del cierre; Home Depot antes de la apertura",
+   "en": "Nvidia reports after the close; Home Depot before the open",
+   "pt": "Nvidia divulga resultados após o fechamento; Home Depot antes da abertura"
+  },
+  {
+   "fecha": "2026-11-18",
+   "es": "Target, Lowe’s y TJX reportan resultados",
+   "en": "Target, Lowe's and TJX report results",
+   "pt": "Target, Lowe’s e TJX divulgam resultados"
+  },
+  {
+   "fecha": "2026-11-19",
+   "es": "Walmart reporta antes de la apertura; oferta pública de Anthropic prevista",
+   "en": "Walmart reports before the open; Anthropic's IPO expected",
+   "pt": "Walmart divulga antes da abertura; oferta pública da Anthropic prevista"
   },
   {
    "fecha": "2026-11-24",

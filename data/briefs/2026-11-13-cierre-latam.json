@@ -1,0 +1,103 @@
+{
+ "id": "2026-11-13-cierre-latam",
+ "fecha": "2026-11-13",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": true,
+ "es": {
+  "titular": "El Ibovespa cierra con +0.77% y Argentina sube 1.6%; el real se debilita a 5.67",
+  "esencial": [
+   "El Ibovespa cerró con +0.77% (172,642.40) y el ETF de MSCI de Argentina subió 1.56%; el S&P/TSX bajó 0.09%.",
+   "El dólar subió 0.44% frente al real (5.67), mientras el sol y el peso argentino se fortalecieron levemente.",
+   "Para el fin de semana: deja programados los pagos en reales y cotiza insumos de cobre, que cayó 2.2%."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El Ibovespa cerró con +0.77% (172,642.40) y el S&P/TSX con −0.09% (36,105.90). Los ETF de MSCI cerraron con +1.56% en Argentina, +0.20% en Chile y −0.09% en Perú."
+   },
+   {
+    "t": "Por qué",
+    "x": "Brasil y Argentina se desmarcaron de la venta de chips de Wall Street. El cobre cayó 2.2% (6.06 dólares por libra), lo que frenó a Perú, y el crudo terminó estable (Brent 95.84 dólares)."
+   },
+   {
+    "t": "Monedas",
+    "x": "A las 15:15 CDMX el real estaba en 5.67 por dólar (dólar +0.44%) y el dólar canadiense en 1.427 (+0.11%); a las 15:05 el peso colombiano estaba en 3,307 (sin cambio), a las 15:06 el sol en 3.40 (−0.14%), a las 14:40 el peso argentino en 1,543.5 (−0.10%) y a las 13:55 el peso chileno en 994.2 (+0.02%)."
+   },
+   {
+    "t": "La próxima semana",
+    "x": "El martes 17 reporta SQM, clave para el litio de Chile, el mismo día que Nvidia. En la semana salen las minutas de la Fed, que pueden mover a las monedas de la región, y el jueves 19 reporta Walmart, referencia para el consumo en el continente."
+   }
+  ],
+  "scm": "Para el fin de semana: deja programados los pagos en reales, que se debilitan, y cotiza cable e insumos de cobre con el precio a la baja. Si compras litio o químicos en Chile, revisa el reporte de SQM del martes antes de negociar."
+ },
+ "en": {
+  "titular": "The Ibovespa closes +0.77% and Argentina rises 1.6%; the real weakens to 5.67",
+  "esencial": [
+   "The Ibovespa closed +0.77% (172,642.40) and the MSCI Argentina ETF rose 1.56%; the S&P/TSX fell 0.09%.",
+   "The dollar rose 0.44% against the real (5.67), while the sol and the Argentine peso firmed slightly.",
+   "For the weekend: schedule payments in reais and quote copper inputs, which fell 2.2%."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The Ibovespa closed +0.77% (172,642.40) and the S&P/TSX −0.09% (36,105.90). The MSCI ETFs closed +1.56% for Argentina, +0.20% for Chile and −0.09% for Peru."
+   },
+   {
+    "t": "Why",
+    "x": "Brazil and Argentina decoupled from Wall Street's chip selloff. Copper fell 2.2% ($6.06 per pound), holding back Peru, and crude ended flat (Brent $95.84)."
+   },
+   {
+    "t": "Currencies",
+    "x": "At 3:15 p.m. Mexico City time the real was at 5.67 per dollar (dollar +0.44%) and the Canadian dollar at 1.427 (+0.11%); at 3:05 p.m. the Colombian peso was at 3,307 (flat), at 3:06 p.m. the sol at 3.40 (−0.14%), at 2:40 p.m. the Argentine peso at 1,543.5 (−0.10%) and at 1:55 p.m. the Chilean peso at 994.2 (+0.02%)."
+   },
+   {
+    "t": "Next week",
+    "x": "SQM, key for Chile's lithium, reports on Tuesday the 17th, the same day as Nvidia. The Fed minutes come out during the week, which may move the region's currencies, and Walmart reports on Thursday the 19th, a gauge of consumption across the continent."
+   }
+  ],
+  "scm": "For the weekend: schedule payments in reais, which are weakening, and quote cable and copper inputs while prices dip. If you buy lithium or chemicals in Chile, review SQM's Tuesday report before negotiating."
+ },
+ "pt": {
+  "titular": "O Ibovespa fecha com +0,77% e a Argentina sobe 1,6%; o real se enfraquece para 5,67",
+  "esencial": [
+   "O Ibovespa fechou com +0,77% (172.642,40) e o ETF da MSCI da Argentina subiu 1,56%; o S&P/TSX caiu 0,09%.",
+   "O dólar subiu 0,44% frente ao real (R$ 5,67), enquanto o sol e o peso argentino se fortaleceram levemente.",
+   "Para o fim de semana: deixe programados os pagamentos em reais e cote insumos de cobre, que caiu 2,2%."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O Ibovespa fechou com +0,77% (172.642,40) e o S&P/TSX com −0,09% (36.105,90). Os ETFs da MSCI fecharam com +1,56% na Argentina, +0,20% no Chile e −0,09% no Peru."
+   },
+   {
+    "t": "Por quê",
+    "x": "Brasil e Argentina se descolaram da venda de chips de Wall Street. O cobre caiu 2,2% (6,06 dólares por libra), o que segurou o Peru, e o petróleo terminou estável (Brent 95,84 dólares)."
+   },
+   {
+    "t": "Moedas",
+    "x": "Às 15h15 (Cidade do México) o dólar estava em R$ 5,67 (+0,44%) e o dólar canadense em 1,427 (+0,11%); às 15h05 o peso colombiano estava em 3.307 (estável), às 15h06 o sol em 3,40 (−0,14%), às 14h40 o peso argentino em 1.543,5 (−0,10%) e às 13h55 o peso chileno em 994,2 (+0,02%)."
+   },
+   {
+    "t": "A próxima semana",
+    "x": "Na terça, 17, divulga resultados a SQM, chave para o lítio do Chile, no mesmo dia que a Nvidia. Durante a semana saem as atas do Fed, que podem mexer com as moedas da região, e na quinta, 19, divulga resultados o Walmart, referência para o consumo no continente."
+   }
+  ],
+  "scm": "Para o fim de semana: deixe programados os pagamentos em reais, que se enfraquecem, e cote cabos e insumos de cobre com o preço em queda. Se você compra lítio ou químicos no Chile, revise o resultado da SQM de terça antes de negociar."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas al cierre (13 nov 2026, 15:15 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Earnings Whispers: calendario de resultados, semana del 16 de noviembre de 2026",
+   "u": "https://www.earningswhispers.com/calweek/20261116"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

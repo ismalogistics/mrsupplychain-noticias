@@ -1,0 +1,115 @@
+{
+ "id": "2026-11-13-cierre-global",
+ "fecha": "2026-11-13",
+ "momento": "cierre",
+ "mercado": "global",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": true,
+ "es": {
+  "titular": "Wall Street cierra una semana volátil con ganancias pese a Nvidia; el Treasury termina en 5.15% y el crudo baja 2.5% en la semana",
+  "esencial": [
+   "El viernes el S&P 500 cerró con −0.40% y el Nasdaq con −0.91%, mientras el Dow subió 0.10%; los tres índices terminaron la semana con ganancias, según Yahoo Finance.",
+   "Nvidia cerró con −2.0% y su valor quedó debajo de 4 billones de dólares; AMD cayó 8.75%. El Treasury a 10 años terminó en 5.15% y el Brent en 95.84 dólares.",
+   "Para el fin de semana: deja cerradas las compras de dólares, pide recargos de combustible con ajuste semanal y confirma pedidos de chips antes de los resultados de Nvidia del martes."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El viernes el S&P 500 cerró con −0.40% (7,561.67), el Nasdaq con −0.91% (25,136.27) y el Dow con +0.10% (52,347.55); el VIX terminó en 18.94. Pese a la salida de Jensen Huang de Nvidia, el alza del petróleo y la venta de bonos, los tres índices cerraron la semana con ganancias, según Yahoo Finance. Nvidia cerró con −2.0% (162.85 dólares) y su valor de mercado quedó debajo de 4 billones de dólares; AMD cayó 8.75% y Broadcom 4.76%, mientras Cerebras subió 11.2%. El Treasury a 10 años llegó a 5.17%, su máximo desde octubre, y terminó en 5.15%. El Brent cerró en 95.84 dólares (+0.02%) y el WTI en 88.56 (−0.20%); ambos bajaron cerca de 2.5% en la semana, según Reuters. El cobre cayó 2.2% (6.06 dólares por libra) y el bitcoin 4.1%, debajo de 70,000 dólares."
+   },
+   {
+    "t": "Por qué",
+    "x": "El PPI de octubre subió 6.5% anual, su mayor alza desde noviembre de 2022, y reforzó la expectativa de un alza de la Fed en diciembre, lo que llevó al Treasury arriba de 5.1%. La venta de chips se aceleró por la incertidumbre en Nvidia antes de sus resultados. En petróleo, la Agencia Internacional de Energía anticipó más excedente y los inventarios de EE. UU. subieron, aunque siguen los ataques a tanqueros en Ormuz."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "El lunes Asia abre tras una semana de ventas en chips; en EE. UU. el mercado opera normal y en México la BMV y los bancos cierran por el Día de la Revolución. Los futuros del Nasdaq bajaban 2.0% a las 15:05 CDMX."
+   },
+   {
+    "t": "La próxima semana",
+    "x": "Martes 17: Home Depot antes de la apertura y Nvidia después del cierre, con Colette Kress como directora interina; también reporta SQM, clave para el litio de Chile. Miércoles 18: Target, Lowe’s y TJX. Jueves 19: Walmart antes de la apertura y la oferta pública de Anthropic, prevista ese día según The Wall Street Journal. En la semana salen las minutas de la última reunión de la Fed, y el viernes 20 vence la prórroga de las pláticas con los vigilantes de Los Ángeles–Long Beach."
+   }
+  ],
+  "scm": "Para el fin de semana: 1) deja cerradas las compras de dólares de noviembre, porque el lunes no operan los bancos en México; 2) pide recargos de combustible con ajuste semanal: el crudo bajó 2.5% en la semana y la AIE prevé excedente; 3) confirma pedidos de GPU, memoria y almacenamiento antes de los resultados de Nvidia del martes; 4) con los reportes de Home Depot, Target y Walmart, revisa tu pronóstico de demanda de temporada."
+ },
+ "en": {
+  "titular": "Wall Street ends a volatile week higher despite Nvidia; the Treasury ends at 5.15% and crude falls 2.5% on the week",
+  "esencial": [
+   "On Friday the S&P 500 closed −0.40% and the Nasdaq −0.91%, while the Dow rose 0.10%; all three indexes ended the week higher, according to Yahoo Finance.",
+   "Nvidia closed −2.0% and its value fell below $4 trillion; AMD fell 8.75%. The 10-year Treasury ended at 5.15% and Brent at $95.84.",
+   "For the weekend: have dollar purchases closed, ask for fuel surcharges with weekly adjustment and confirm chip orders before Nvidia's Tuesday results."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "On Friday the S&P 500 closed −0.40% (7,561.67), the Nasdaq −0.91% (25,136.27) and the Dow +0.10% (52,347.55); the VIX ended at 18.94. Despite Jensen Huang's exit from Nvidia, higher oil and a bond selloff, all three indexes closed the week higher, according to Yahoo Finance. Nvidia closed −2.0% ($162.85) and its market value fell below $4 trillion; AMD fell 8.75% and Broadcom 4.76%, while Cerebras rose 11.2%. The 10-year Treasury hit 5.17%, its highest since October, and ended at 5.15%. Brent settled at $95.84 (+0.02%) and WTI at $88.56 (−0.20%); both fell about 2.5% on the week, according to Reuters. Copper fell 2.2% ($6.06 per pound) and bitcoin 4.1%, below $70,000."
+   },
+   {
+    "t": "Why",
+    "x": "October PPI rose 6.5% year over year, its biggest rise since November 2022, reinforcing expectations of a December Fed hike and pushing the Treasury above 5.1%. The chip selloff accelerated on uncertainty at Nvidia ahead of its results. In oil, the International Energy Agency anticipated a bigger surplus and US inventories rose, though attacks on tankers in Hormuz continue."
+   },
+   {
+    "t": "What to expect",
+    "x": "On Monday Asia opens after a week of chip selling; in the US the market trades normally and in Mexico the BMV and banks close for Revolution Day. Nasdaq futures were down 2.0% at 4:05 p.m. ET."
+   },
+   {
+    "t": "Next week",
+    "x": "Tuesday 17: Home Depot before the open and Nvidia after the close, with Colette Kress as interim CEO; SQM, key for Chile's lithium, also reports. Wednesday 18: Target, Lowe's and TJX. Thursday 19: Walmart before the open and Anthropic's IPO, expected that day according to The Wall Street Journal. The minutes of the Fed's last meeting come out during the week, and on Friday 20 the extension of talks with the Los Angeles–Long Beach watchmen expires."
+   }
+  ],
+  "scm": "For the weekend: 1) have November dollar purchases closed, because Mexican banks are closed Monday; 2) ask for fuel surcharges with weekly adjustment: crude fell 2.5% on the week and the IEA sees a surplus; 3) confirm GPU, memory and storage orders before Nvidia's Tuesday results; 4) with Home Depot, Target and Walmart reporting, review your seasonal demand forecast."
+ },
+ "pt": {
+  "titular": "Wall Street fecha uma semana volátil com ganhos apesar da Nvidia; o Treasury termina em 5,15% e o petróleo cai 2,5% na semana",
+  "esencial": [
+   "Na sexta o S&P 500 fechou com −0,40% e o Nasdaq com −0,91%, enquanto o Dow subiu 0,10%; os três índices terminaram a semana com ganhos, segundo o Yahoo Finance.",
+   "A Nvidia fechou com −2,0% e seu valor ficou abaixo de 4 trilhões de dólares; a AMD caiu 8,75%. O Treasury de 10 anos terminou em 5,15% e o Brent a 95,84 dólares.",
+   "Para o fim de semana: deixe fechadas as compras de dólares, peça sobretaxas de combustível com ajuste semanal e confirme pedidos de chips antes dos resultados da Nvidia de terça."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "Na sexta o S&P 500 fechou com −0,40% (7.561,67), o Nasdaq com −0,91% (25.136,27) e o Dow com +0,10% (52.347,55); o VIX terminou em 18,94. Apesar da saída de Jensen Huang da Nvidia, da alta do petróleo e da venda de títulos, os três índices fecharam a semana com ganhos, segundo o Yahoo Finance. A Nvidia fechou com −2,0% (162,85 dólares) e seu valor de mercado ficou abaixo de 4 trilhões de dólares; a AMD caiu 8,75% e a Broadcom 4,76%, enquanto a Cerebras subiu 11,2%. O Treasury de 10 anos chegou a 5,17%, o maior desde outubro, e terminou em 5,15%. O Brent fechou a 95,84 dólares (+0,02%) e o WTI a 88,56 (−0,20%); ambos caíram cerca de 2,5% na semana, segundo a Reuters. O cobre caiu 2,2% (6,06 dólares por libra) e o bitcoin 4,1%, abaixo de 70 mil dólares."
+   },
+   {
+    "t": "Por quê",
+    "x": "O PPI de outubro subiu 6,5% em 12 meses, a maior alta desde novembro de 2022, e reforçou a expectativa de alta do Fed em dezembro, o que levou o Treasury acima de 5,1%. A venda de chips se acelerou pela incerteza na Nvidia antes dos resultados. No petróleo, a Agência Internacional de Energia antecipou mais excedente e os estoques dos EUA subiram, embora continuem os ataques a petroleiros em Ormuz."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Na segunda a Ásia abre depois de uma semana de vendas em chips; nos EUA o mercado opera normalmente e no México a BMV e os bancos fecham pelo Dia da Revolução. Os futuros do Nasdaq caíam 2,0% às 15h05 (Cidade do México)."
+   },
+   {
+    "t": "A próxima semana",
+    "x": "Terça, 17: Home Depot antes da abertura e Nvidia depois do fechamento, com Colette Kress como CEO interina; também divulga resultados a SQM, chave para o lítio do Chile. Quarta, 18: Target, Lowe’s e TJX. Quinta, 19: Walmart antes da abertura e a oferta pública da Anthropic, prevista para esse dia segundo o The Wall Street Journal. Durante a semana saem as atas da última reunião do Fed, e na sexta, 20, vence a prorrogação das negociações com os vigilantes de Los Angeles–Long Beach."
+   }
+  ],
+  "scm": "Para o fim de semana: 1) deixe fechadas as compras de dólares de novembro, porque na segunda os bancos no México não operam; 2) peça sobretaxas de combustível com ajuste semanal: o petróleo caiu 2,5% na semana e a AIE prevê excedente; 3) confirme pedidos de GPUs, memória e armazenamento antes dos resultados da Nvidia de terça; 4) com os resultados de Home Depot, Target e Walmart, revise sua previsão de demanda da temporada."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: el Dow sube y el S&P 500 y el Nasdaq bajan al cierre de una semana volátil (13 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+  },
+  {
+   "t": "Reuters vía Yahoo Finance: el petróleo va por su segunda baja semanal por señales de excedente (13 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-prices-set-second-weekly-054237957.html"
+  },
+  {
+   "t": "The Wall Street Journal vía Yahoo Finance: las bolsas caen y Nvidia vuelve a bajar (13 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-lower-investors-look-111900529.html"
+  },
+  {
+   "t": "Earnings Whispers: calendario de resultados, semana del 16 de noviembre de 2026",
+   "u": "https://www.earningswhispers.com/calweek/20261116"
+  },
+  {
+   "t": "FXStreet: la semana que viene, con las minutas de la Fed (13 nov 2026)",
+   "u": "https://www.fxstreet.com/analysis/forecasting-the-upcoming-week-fed-takes-control-with-the-release-of-the-minutes-202611131822"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas al cierre (13 nov 2026, 15:15 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-13T17:39:36Z",
+ "actualizado": "2026-11-13T21:18:38Z",
  "fecha": "2026-11-13",
  "titular": {
-  "es": "Mediodía: la venta de chips se acelera, la AIE anticipa excedente de crudo y el cobre cae 1.7%",
-  "en": "Midday: the chip selloff accelerates, the IEA anticipates a crude surplus and copper falls 1.7%",
-  "pt": "Meio-dia: a venda de chips se acelera, a AIE antecipa excedente de petróleo e o cobre cai 1,7%"
+  "es": "Cierre de la semana: chips a la baja, crudo −2.5% en la semana y cobre −2.2% el viernes",
+  "en": "Week close: chips lower, crude −2.5% on the week and copper −2.2% on Friday",
+  "pt": "Fechamento da semana: chips em queda, petróleo −2,5% na semana e cobre −2,2% na sexta"
  },
  "items": [
   {
@@ -17,14 +17,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "La venta de chips se acelera: AMD −10.2%, Broadcom −6% y Nvidia −2.9%",
-    "en": "The chip selloff accelerates: AMD −10.2%, Broadcom −6% and Nvidia −2.9%",
-    "pt": "A venda de chips se acelera: AMD −10,2%, Broadcom −6% e Nvidia −2,9%"
+    "es": "Nvidia cierra con −2.0% y queda debajo de 4 billones de dólares; AMD cae 8.75%",
+    "en": "Nvidia closes −2.0% and slips below $4 trillion; AMD falls 8.75%",
+    "pt": "A Nvidia fecha com −2,0% e fica abaixo de 4 trilhões de dólares; a AMD cai 8,75%"
    },
    "x": {
-    "es": "A las 11:37 CDMX AMD caía 10.2%, Broadcom e Intel cerca de 6% y 5%, Sandisk 9% y Micron y SK Hynix entre 5% y 6%, según Yahoo Finance; Nvidia bajaba 2.9% (161.37 dólares) y quedaba debajo de 4 billones de dólares de valor. Nvidia reporta el martes 17.",
-    "en": "At 12:37 p.m. ET AMD was down 10.2%, Broadcom and Intel about 6% and 5%, Sandisk 9% and Micron and SK Hynix between 5% and 6%, according to Yahoo Finance; Nvidia fell 2.9% ($161.37), slipping below $4 trillion in value. Nvidia reports on Tuesday the 17th.",
-    "pt": "Às 11h37 (Cidade do México) a AMD caía 10,2%, Broadcom e Intel cerca de 6% e 5%, a Sandisk 9% e Micron e SK Hynix entre 5% e 6%, segundo o Yahoo Finance; a Nvidia caía 2,9% (161,37 dólares) e ficava abaixo de 4 trilhões de dólares em valor. A Nvidia divulga resultados na terça, dia 17."
+    "es": "Nvidia cerró en 162.85 dólares (−2.0%) y su valor de mercado quedó debajo de 4 billones de dólares; AMD cayó 8.75% y Broadcom 4.76%, mientras Cerebras subió 11.2%. Nvidia reporta el martes 17 después del cierre, con Colette Kress como directora interina.",
+    "en": "Nvidia closed at $162.85 (−2.0%) and its market value slipped below $4 trillion; AMD fell 8.75% and Broadcom 4.76%, while Cerebras rose 11.2%. Nvidia reports on Tuesday the 17th after the close, with Colette Kress as interim CEO.",
+    "pt": "A Nvidia fechou a 162,85 dólares (−2,0%) e seu valor de mercado ficou abaixo de 4 trilhões de dólares; a AMD caiu 8,75% e a Broadcom 4,76%, enquanto a Cerebras subiu 11,2%. A Nvidia divulga resultados na terça, dia 17, após o fechamento, com Colette Kress como CEO interina."
    },
    "scm": {
     "es": "Confirma pedidos de GPU y servidores antes de los resultados de Nvidia del martes y ten una alternativa calificada.",
@@ -33,12 +33,12 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: el Nasdaq encabeza las bajas por la venta de chips (13 nov 2026)",
+     "t": "Yahoo Finance: el Dow sube y el S&P 500 y el Nasdaq bajan al cierre de una semana volátil (13 nov 2026)",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     },
     {
-     "t": "The Wall Street Journal vía Yahoo Finance: las bolsas caen y Nvidia vuelve a bajar (13 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-lower-investors-look-111900529.html"
+     "t": "Earnings Whispers: calendario de resultados, semana del 16 de noviembre de 2026",
+     "u": "https://www.earningswhispers.com/calweek/20261116"
     }
    ]
   },
@@ -75,7 +75,7 @@
   },
   {
    "id": "energia",
-   "dir": "mixed",
+   "dir": "down",
    "calor": 3,
    "mx": true,
    "latam": true,
@@ -83,14 +83,14 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "La AIE prevé excedente de crudo en el cuarto trimestre; el Brent se estabiliza en 95.85 dólares",
-    "en": "The IEA sees a crude surplus in the fourth quarter; Brent steadies at $95.85",
-    "pt": "A AIE prevê excedente de petróleo no quarto trimestre; o Brent se estabiliza a 95,85 dólares"
+    "es": "El crudo cierra la semana con −2.5%: Brent en 95.84 dólares por el excedente que anticipa la AIE",
+    "en": "Crude ends the week −2.5%: Brent at $95.84 on the surplus the IEA anticipates",
+    "pt": "O petróleo fecha a semana com −2,5%: Brent a 95,84 dólares pelo excedente que a AIE antecipa"
    },
    "x": {
-    "es": "La Agencia Internacional de Energía espera que el mercado petrolero vuelva a tener excedente en el cuarto trimestre, por primera vez desde el inicio de la guerra con Irán, según The Wall Street Journal. A las 11:27 CDMX el Brent estaba en 95.85 dólares y el WTI en 88.57 (−0.2%); el diésel bajaba 0.6% a 4.26 dólares por galón.",
-    "en": "The International Energy Agency expects the oil market to return to surplus in the fourth quarter, for the first time since the Iran war began, according to The Wall Street Journal. At 12:27 p.m. ET Brent was at $95.85 and WTI at $88.57 (−0.2%); diesel fell 0.6% to $4.26 per gallon.",
-    "pt": "A Agência Internacional de Energia espera que o mercado de petróleo volte a ter excedente no quarto trimestre, pela primeira vez desde o início da guerra com o Irã, segundo o The Wall Street Journal. Às 11h27 (Cidade do México) o Brent estava a 95,85 dólares e o WTI a 88,57 (−0,2%); o diesel caía 0,6% para 4,26 dólares por galão."
+    "es": "El Brent cerró en 95.84 dólares (+0.02%) y el WTI en 88.56 (−0.20%); ambos bajaron cerca de 2.5% en la semana, tras caer 16% y 13% la semana previa, según Reuters. La AIE anticipa más excedente y los inventarios de EE. UU. subieron, aunque siguen los ataques a tanqueros en Ormuz.",
+    "en": "Brent settled at $95.84 (+0.02%) and WTI at $88.56 (−0.20%); both fell about 2.5% on the week, after dropping 16% and 13% the prior week, according to Reuters. The IEA anticipates a bigger surplus and US inventories rose, though tanker attacks in Hormuz continue.",
+    "pt": "O Brent fechou a 95,84 dólares (+0,02%) e o WTI a 88,56 (−0,20%); ambos caíram cerca de 2,5% na semana, depois de cair 16% e 13% na semana anterior, segundo a Reuters. A AIE antecipa mais excedente e os estoques dos EUA subiram, embora continuem os ataques a petroleiros em Ormuz."
    },
    "scm": {
     "es": "No firmes recargos de combustible de largo plazo: con excedente a la vista, pide ajuste semanal.",
@@ -99,12 +99,8 @@
    },
    "fuentes": [
     {
-     "t": "The Wall Street Journal vía Yahoo Finance: las bolsas caen y Nvidia vuelve a bajar (13 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-lower-investors-look-111900529.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 11:37 CDMX)",
-     "u": "https://finance.yahoo.com/markets/"
+     "t": "Reuters vía Yahoo Finance: el petróleo va por su segunda baja semanal por señales de excedente (13 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-prices-set-second-weekly-054237957.html"
     }
    ]
   },
@@ -149,14 +145,14 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "El cobre amplía su caída a 1.7% (6.09 dólares) y la plata cae 2.1%",
-    "en": "Copper extends its drop to 1.7% ($6.09) and silver falls 2.1%",
-    "pt": "O cobre amplia a queda para 1,7% (6,09 dólares) e a prata cai 2,1%"
+    "es": "El cobre cae 2.2% a 6.06 dólares y la plata 2.7%",
+    "en": "Copper falls 2.2% to $6.06 and silver 2.7%",
+    "pt": "O cobre cai 2,2% para 6,06 dólares e a prata 2,7%"
    },
    "x": {
-    "es": "A las 11:27 CDMX el cobre estaba en 6.09 dólares por libra (−1.7%), la plata en 49.01 (−2.1%) y el oro en 3,884.5 (sin cambio), con el índice del dólar +0.2% y el Treasury a 10 años en 5.13%.",
-    "en": "At 12:27 p.m. ET copper was at $6.09 per pound (−1.7%), silver at $49.01 (−2.1%) and gold at $3,884.5 (flat), with the dollar index +0.2% and the 10-year Treasury at 5.13%.",
-    "pt": "Às 11h27 (Cidade do México) o cobre estava a 6,09 dólares por libra (−1,7%), a prata a 49,01 (−2,1%) e o ouro a 3.884,5 (estável), com o índice do dólar +0,2% e o Treasury de 10 anos em 5,13%."
+    "es": "El cobre cerró la semana en 6.06 dólares por libra (−2.2% el viernes) y la plata en 48.71 (−2.7%), con el índice del dólar en 103.38 y el Treasury a 10 años en 5.15%. El martes reporta SQM, clave para el litio de Chile.",
+    "en": "Copper ended the week at $6.06 per pound (−2.2% on Friday) and silver at $48.71 (−2.7%), with the dollar index at 103.38 and the 10-year Treasury at 5.15%. SQM, key for Chile's lithium, reports on Tuesday.",
+    "pt": "O cobre fechou a semana a 6,06 dólares por libra (−2,2% na sexta) e a prata a 48,71 (−2,7%), com o índice do dólar em 103,38 e o Treasury de 10 anos em 5,15%. Na terça divulga resultados a SQM, chave para o lítio do Chile."
    },
    "scm": {
     "es": "Aprovecha la baja para cotizar cable, conectores y componentes con cobre o plata para el primer trimestre.",
@@ -165,8 +161,12 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (13 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas al cierre (13 nov 2026, 15:15 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
+    },
+    {
+     "t": "Earnings Whispers: calendario de resultados, semana del 16 de noviembre de 2026",
+     "u": "https://www.earningswhispers.com/calweek/20261116"
     }
    ]
   },
