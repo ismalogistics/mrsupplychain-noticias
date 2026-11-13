@@ -1,0 +1,99 @@
+{
+ "id": "2026-11-13-premercado-global",
+ "fecha": "2026-11-13",
+ "momento": "premercado",
+ "mercado": "global",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Los futuros se estabilizan tras la salida de Jensen Huang; hoy el PPI define la semana",
+  "esencial": [
+   "A las 5:00 CDMX los futuros del S&P 500 subían 0.18%, los del Dow 0.17% y los del Nasdaq 100 0.05%; Nvidia ganaba cerca de 3% antes de la apertura.",
+   "A las 7:30 CDMX sale el PPI de octubre: se espera +0.4% mensual (1.3% el mes previo) y +0.3% el subyacente.",
+   "Para supply chain: un PPI alto anticipa costos de insumos más caros; el Brent sigue en 95.74 dólares y el Treasury terminó el jueves en 5.10%."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El jueves Wall Street cerró a la baja (S&P 500 −0.35%) por la renuncia de Jensen Huang en Nvidia y un Treasury a 10 años en 5.10%, su nivel más alto desde octubre; el Brent subió 3.7%. Nvidia llegó a caer 14% en la apertura del jueves, a su nivel más bajo desde junio de 2025, y cerró con −4.34%; los inversionistas minoristas compraron una cifra neta de 111 millones de dólares en la primera media hora, según Vanda Research. La empresa reporta resultados el martes 17 sin director permanente. Después del cierre, Applied Materials reportó ingresos récord de 10,410 millones de dólares en su trimestre (+53%)."
+   },
+   {
+    "t": "Asia, Europa y futuros",
+    "x": "Asia cerró mixta: Nikkei +0.53% (61,142.35), KOSPI −0.98% (5,290.53), Hang Seng −2.79% y Shanghái −1.26%. A las 4:53 CDMX el Euro Stoxx 50 subía 0.19%, el DAX 0.17%, el CAC 40 0.17% y el FTSE 100 0.25%. A las 5:00 CDMX los futuros del S&P 500 ganaban 0.18%, los del Dow 0.17% y los del Nasdaq 100 0.05%. El WTI estaba en 88.19 dólares (−0.6%), el Brent en 95.74 (−0.1%), el oro en 3,896 (+0.3%), el cobre en 6.15 dólares por libra (−0.8%) y el índice del dólar en 103.26 (+0.1%)."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "A las 7:30 CDMX sale el índice de precios al productor (PPI) de octubre: se espera +0.4% mensual (1.3% el mes anterior) y +0.3% el subyacente (0.7% antes), según Yahoo Finance. Tras el CPI caliente del martes, un PPI alto reforzaría las apuestas por un alza mayor de la Fed en diciembre. El lunes 16 la BMV y los bancos de México cierran por el Día de la Revolución; Wall Street opera normal."
+   }
+  ],
+  "scm": "Antes del fin de semana: 1) si el PPI sale arriba de 0.4%, prepara aumentos de proveedores en insumos y empaques; 2) con el Brent cerca de 96 dólares, pide recargos de flete con ajuste semanal; 3) con el Treasury en 5.10%, revisa los días de inventario que financias con deuda."
+ },
+ "en": {
+  "titular": "Futures steady after Jensen Huang's exit; today's PPI decides the week",
+  "esencial": [
+   "At 6:00 a.m. ET S&P 500 futures were up 0.18%, Dow futures 0.17% and Nasdaq 100 futures 0.05%; Nvidia was up about 3% premarket.",
+   "October PPI comes out at 8:30 a.m. ET: +0.4% monthly is expected (1.3% the prior month) and +0.3% core.",
+   "For supply chain: a hot PPI signals pricier inputs; Brent is still at $95.74 and the Treasury ended Thursday at 5.10%."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Thursday Wall Street closed lower (S&P 500 −0.35%) on Jensen Huang's resignation at Nvidia and a 10-year Treasury at 5.10%, its highest since October; Brent rose 3.7%. Nvidia fell as much as 14% at Thursday's open, to its lowest since June 2025, and closed −4.34%; retail investors bought a net $111 million in the first half hour, according to Vanda Research. The company reports results on Tuesday the 17th with no permanent CEO. After the close, Applied Materials reported record quarterly revenue of $10.41 billion (+53%)."
+   },
+   {
+    "t": "Asia, Europe and futures",
+    "x": "Asia closed mixed: Nikkei +0.53% (61,142.35), KOSPI −0.98% (5,290.53), Hang Seng −2.79% and Shanghai −1.26%. At 5:53 a.m. ET the Euro Stoxx 50 was up 0.19%, the DAX 0.17%, the CAC 40 0.17% and the FTSE 100 0.25%. At 6:00 a.m. ET S&P 500 futures gained 0.18%, Dow futures 0.17% and Nasdaq 100 futures 0.05%. WTI was at $88.19 (−0.6%), Brent at $95.74 (−0.1%), gold at $3,896 (+0.3%), copper at $6.15 per pound (−0.8%) and the dollar index at 103.26 (+0.1%)."
+   },
+   {
+    "t": "What to expect today",
+    "x": "October producer price index (PPI) comes out at 8:30 a.m. ET: +0.4% monthly is expected (1.3% the prior month) and +0.3% core (0.7% before), according to Yahoo Finance. After Tuesday's hot CPI, a hot PPI would reinforce bets on a bigger Fed hike in December. On Monday the 16th the BMV and Mexican banks close for Revolution Day; Wall Street trades normally."
+   }
+  ],
+  "scm": "Before the weekend: 1) if PPI comes in above 0.4%, prepare for supplier increases in inputs and packaging; 2) with Brent near $96, ask for freight surcharges with weekly adjustment; 3) with the Treasury at 5.10%, review the inventory days you finance with debt."
+ },
+ "pt": {
+  "titular": "Os futuros se estabilizam após a saída de Jensen Huang; hoje o PPI define a semana",
+  "esencial": [
+   "Às 5h (Cidade do México) os futuros do S&P 500 subiam 0,18%, os do Dow 0,17% e os do Nasdaq 100 0,05%; a Nvidia ganhava cerca de 3% no pré-mercado.",
+   "Às 7h30 sai o PPI de outubro: espera-se +0,4% no mês (1,3% no mês anterior) e +0,3% no núcleo.",
+   "Para supply chain: um PPI alto antecipa insumos mais caros; o Brent segue a 95,74 dólares e o Treasury terminou a quinta em 5,10%."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na quinta Wall Street fechou em queda (S&P 500 −0,35%) pela renúncia de Jensen Huang na Nvidia e por um Treasury de 10 anos em 5,10%, o maior nível desde outubro; o Brent subiu 3,7%. A Nvidia chegou a cair 14% na abertura de quinta, para o menor nível desde junho de 2025, e fechou com −4,34%; investidores de varejo compraram em termos líquidos 111 milhões de dólares na primeira meia hora, segundo a Vanda Research. A empresa divulga resultados na terça, dia 17, sem CEO permanente. Depois do fechamento, a Applied Materials reportou receita trimestral recorde de 10,41 bilhões de dólares (+53%)."
+   },
+   {
+    "t": "Ásia, Europa e futuros",
+    "x": "A Ásia fechou mista: Nikkei +0,53% (61.142,35), KOSPI −0,98% (5.290,53), Hang Seng −2,79% e Xangai −1,26%. Às 4h53 (Cidade do México) o Euro Stoxx 50 subia 0,19%, o DAX 0,17%, o CAC 40 0,17% e o FTSE 100 0,25%. Às 5h os futuros do S&P 500 ganhavam 0,18%, os do Dow 0,17% e os do Nasdaq 100 0,05%. O WTI estava a 88,19 dólares (−0,6%), o Brent a 95,74 (−0,1%), o ouro a 3.896 (+0,3%), o cobre a 6,15 dólares por libra (−0,8%) e o índice do dólar em 103,26 (+0,1%)."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Às 7h30 (Cidade do México) sai o índice de preços ao produtor (PPI) de outubro: espera-se +0,4% no mês (1,3% no anterior) e +0,3% no núcleo (0,7% antes), segundo o Yahoo Finance. Depois do CPI quente de terça, um PPI alto reforçaria as apostas numa alta maior do Fed em dezembro. Na segunda, dia 16, a BMV e os bancos do México fecham pelo Dia da Revolução; Wall Street opera normalmente."
+   }
+  ],
+  "scm": "Antes do fim de semana: 1) se o PPI vier acima de 0,4%, prepare-se para reajustes de fornecedores em insumos e embalagens; 2) com o Brent perto de 96 dólares, peça sobretaxas de frete com ajuste semanal; 3) com o Treasury em 5,10%, revise os dias de estoque que você financia com dívida."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: los futuros de Wall Street dudan mientras se profundiza la turbulencia en Nvidia (13 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-110151154.html"
+  },
+  {
+   "t": "Yahoo Finance: Nvidia en vivo tras la renuncia de Jensen Huang (13 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/live/nvidia-live-updates-following-jensen-huangs-resignation-as-ceo-allegations-of-a-third-affair-emerge-195535310.html"
+  },
+  {
+   "t": "Barron's vía Yahoo Finance: el petróleo va por una baja semanal; persisten los temores por Irán (13 nov 2026)",
+   "u": "https://finance.yahoo.com/m/5e8aa009-9dea-3d80-b0c6-fe4ade3de6d4/oil-heads-for-weekly-fall-as.html"
+  },
+  {
+   "t": "Yahoo Finance: Wall Street cierra a la baja por la salida de Jensen Huang y el alza de los bonos (12 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-fall-as-nvidia-ceo-exit-rising-bond-yields-roil-markets-195710154.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (13 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

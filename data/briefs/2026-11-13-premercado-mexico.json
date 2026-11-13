@@ -1,0 +1,91 @@
+{
+ "id": "2026-11-13-premercado-mexico",
+ "fecha": "2026-11-13",
+ "momento": "premercado",
+ "mercado": "mexico",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El peso amanece en 18.59 antes del PPI; el lunes no abren la BMV ni los bancos",
+  "esencial": [
+   "A las 5:08 CDMX el peso estaba en 18.59 por dólar, igual que el cierre del jueves.",
+   "El jueves el IPC cerró con −0.30% (71,787.09) por Nvidia y el Treasury en 5.10%.",
+   "Para supply chain: hoy es el último día hábil antes del puente; cierra compras de dólares y pagos que vencen el lunes 16."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El jueves el S&P/BMV IPC cerró con −0.30% (71,787.09) y el peso en 18.59 por dólar, más firme que otras monedas de la región. En la madrugada el peso se mantuvo: a las 5:08 CDMX cotizaba en 18.59, con el índice del dólar en 103.26 (+0.1%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "El peso llega al PPI de EE. UU. sin presión: el alza del crudo (Brent 95.74 dólares) lo apoya, pero un Treasury en 5.10% y la expectativa de un alza de la Fed en diciembre estrechan el diferencial con Banxico (6.25%)."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "A las 7:30 CDMX sale el PPI de EE. UU., el dato que puede mover al peso antes del fin de semana largo. El lunes 16 cierran la BMV y los bancos por el Día de la Revolución, y el 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre."
+   }
+  ],
+  "scm": "Hoy es el último día hábil antes del puente: cierra por tramos la compra de dólares de noviembre, antes y después del PPI, y programa los pagos que vencen el lunes 16."
+ },
+ "en": {
+  "titular": "The peso starts at 18.59 ahead of PPI; the BMV and banks are closed Monday",
+  "esencial": [
+   "At 5:08 a.m. Mexico City time the peso was at 18.59 per dollar, the same as Thursday's close.",
+   "On Thursday the IPC closed −0.30% (71,787.09) on Nvidia and the Treasury at 5.10%.",
+   "For supply chain: today is the last business day before the long weekend; close dollar purchases and payments due Monday the 16th."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Thursday the S&P/BMV IPC closed −0.30% (71,787.09) and the peso at 18.59 per dollar, firmer than other currencies in the region. Overnight the peso held: at 5:08 a.m. Mexico City time it traded at 18.59, with the dollar index at 103.26 (+0.1%)."
+   },
+   {
+    "t": "Context",
+    "x": "The peso heads into US PPI without pressure: higher crude (Brent $95.74) supports it, but a Treasury at 5.10% and expectations of a December Fed hike narrow the gap with Banxico (6.25%)."
+   },
+   {
+    "t": "What to expect today",
+    "x": "US PPI comes out at 7:30 a.m. Mexico City time, the data point that can move the peso before the long weekend. On Monday the 16th the BMV and banks close for Revolution Day, and on November 24 INEGI publishes first-half November inflation."
+   }
+  ],
+  "scm": "Today is the last business day before the long weekend: close November dollar purchases in tranches, before and after PPI, and schedule payments due Monday the 16th."
+ },
+ "pt": {
+  "titular": "O peso amanhece a 18,59 antes do PPI; na segunda não abrem a BMV nem os bancos",
+  "esencial": [
+   "Às 5h08 (Cidade do México) o peso estava a 18,59 por dólar, igual ao fechamento de quinta.",
+   "Na quinta o IPC fechou com −0,30% (71.787,09) pela Nvidia e pelo Treasury em 5,10%.",
+   "Para supply chain: hoje é o último dia útil antes do feriado; feche compras de dólares e pagamentos que vencem na segunda, dia 16."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na quinta o S&P/BMV IPC fechou com −0,30% (71.787,09) e o peso a 18,59 por dólar, mais firme que outras moedas da região. Durante a madrugada o peso se manteve: às 5h08 (Cidade do México) era cotado a 18,59, com o índice do dólar em 103,26 (+0,1%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "O peso chega ao PPI dos EUA sem pressão: a alta do petróleo (Brent 95,74 dólares) o apoia, mas um Treasury em 5,10% e a expectativa de alta do Fed em dezembro estreitam o diferencial com o Banxico (6,25%)."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Às 7h30 (Cidade do México) sai o PPI dos EUA, o dado que pode mexer com o peso antes do feriado prolongado. Na segunda, dia 16, a BMV e os bancos fecham pelo Dia da Revolução, e em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro."
+   }
+  ],
+  "scm": "Hoje é o último dia útil antes do feriado: feche em parcelas a compra de dólares de novembro, antes e depois do PPI, e programe os pagamentos que vencem na segunda, dia 16."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), cierre del 12 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (13 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "INEGI: calendario de difusión 2026",
+   "u": "https://inegi.org.mx/contenidos/saladeprensa/doc/cal_2026.pdf"
+  }
+ ]
+}

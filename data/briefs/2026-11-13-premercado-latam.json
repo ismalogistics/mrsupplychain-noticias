@@ -1,0 +1,87 @@
+{
+ "id": "2026-11-13-premercado-latam",
+ "fecha": "2026-11-13",
+ "momento": "premercado",
+ "mercado": "latam",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "La región busca rebotar tras su caída del jueves; el real amanece en 5.65",
+  "esencial": [
+   "El jueves el Ibovespa cerró con −0.43% (171,324) y el S&P/TSX con −0.75%; Argentina perdió 1.7%.",
+   "A las 5:00 CDMX el real estaba en 5.65 por dólar y el peso chileno en 996, con el cobre −0.8%.",
+   "Cotiza insumos de cobre con el precio a la baja y escalona los pagos en reales y pesos chilenos."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El jueves el Ibovespa cerró con −0.43% (171,324.31) y el S&P/TSX con −0.75% (36,137.19); los ETF de MSCI bajaron 1.69% en Argentina, 1.16% en Perú y 0.50% en Chile. En la madrugada, a las 5:00 CDMX, el real estaba en 5.65 por dólar, el peso chileno en 996 y el peso colombiano en 3,307."
+   },
+   {
+    "t": "Contexto",
+    "x": "Los futuros de Wall Street se estabilizan, pero el cobre baja 0.8% (6.15 dólares por libra) y el dólar sigue firme (DXY 103.26), lo que pesa sobre Chile, Perú y Brasil."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "El PPI de EE. UU. (7:30 CDMX) puede mover a las monedas de la región. En Brasil, tras el IPCA de octubre (0.14%, debajo de lo esperado), sigue el debate sobre el ritmo de recortes del Copom."
+   }
+  ],
+  "scm": "Cotiza cable e insumos de cobre con el precio a la baja y escalona los pagos en reales y pesos chilenos, que siguen débiles."
+ },
+ "en": {
+  "titular": "The region seeks a rebound after Thursday's drop; the real starts at 5.65",
+  "esencial": [
+   "On Thursday the Ibovespa closed −0.43% (171,324) and the S&P/TSX −0.75%; Argentina lost 1.7%.",
+   "At 5:00 a.m. Mexico City time the real was at 5.65 per dollar and the Chilean peso at 996, with copper −0.8%.",
+   "Quote copper inputs while prices dip and stagger payments in reais and Chilean pesos."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Thursday the Ibovespa closed −0.43% (171,324.31) and the S&P/TSX −0.75% (36,137.19); the MSCI ETFs fell 1.69% for Argentina, 1.16% for Peru and 0.50% for Chile. Overnight, at 5:00 a.m. Mexico City time, the real was at 5.65 per dollar, the Chilean peso at 996 and the Colombian peso at 3,307."
+   },
+   {
+    "t": "Context",
+    "x": "Wall Street futures steady, but copper falls 0.8% ($6.15 per pound) and the dollar stays firm (DXY 103.26), weighing on Chile, Peru and Brazil."
+   },
+   {
+    "t": "What to expect today",
+    "x": "US PPI (8:30 a.m. ET) may move the region's currencies. In Brazil, after October IPCA (0.14%, below expectations), the debate over the pace of Copom cuts continues."
+   }
+  ],
+  "scm": "Quote cable and copper inputs while prices dip and stagger payments in reais and Chilean pesos, which remain weak."
+ },
+ "pt": {
+  "titular": "A região busca se recuperar depois da queda de quinta; o real amanhece a R$ 5,65",
+  "esencial": [
+   "Na quinta o Ibovespa fechou com −0,43% (171.324) e o S&P/TSX com −0,75%; a Argentina perdeu 1,7%.",
+   "Às 5h (Cidade do México) o dólar estava em R$ 5,65 e o peso chileno em 996, com o cobre −0,8%.",
+   "Cote insumos de cobre com o preço em queda e escalone os pagamentos em reais e pesos chilenos."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na quinta o Ibovespa fechou com −0,43% (171.324,31) e o S&P/TSX com −0,75% (36.137,19); os ETFs da MSCI caíram 1,69% na Argentina, 1,16% no Peru e 0,50% no Chile. Na madrugada, às 5h (Cidade do México), o dólar estava em R$ 5,65, o peso chileno em 996 e o peso colombiano em 3.307."
+   },
+   {
+    "t": "Contexto",
+    "x": "Os futuros de Wall Street se estabilizam, mas o cobre cai 0,8% (6,15 dólares por libra) e o dólar segue firme (DXY 103,26), o que pesa sobre Chile, Peru e Brasil."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "O PPI dos EUA (7h30, Cidade do México) pode mexer com as moedas da região. No Brasil, após o IPCA de outubro (0,14%, abaixo do esperado), segue o debate sobre o ritmo de cortes do Copom."
+   }
+  ],
+  "scm": "Cote cabos e insumos de cobre com o preço em queda e escalone os pagamentos em reais e pesos chilenos, que seguem fracos."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (cierres del 12 nov)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (13 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
