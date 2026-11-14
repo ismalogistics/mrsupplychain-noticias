@@ -505,8 +505,14 @@ details.nx-sec summary h4 { margin: 0; color: var(--accent); font-size: 12.5px; 
 .nx-promo, .nx-nl { display: grid; grid-template-columns: 120px minmax(0, 1fr) auto; gap: 18px 22px; align-items: center; padding: 16px 20px 16px 16px; border-radius: 16px; background: linear-gradient(135deg, #163e86, #0b1f47); color: #fff; text-decoration: none; box-shadow: 0 12px 30px -20px rgba(8,22,49,.8); transition: transform .2s, box-shadow .2s; }
 .nx-promo:hover { transform: translateY(-2px); box-shadow: 0 18px 34px -20px rgba(8,22,49,.9); }
 #especial-elecciones { margin-top: 32px; margin-bottom: -16px; }
-#especial-paro-aereo { margin-top: 32px; }
-#especial-paro-aereo + #especial-elecciones { margin-top: 14px; }
+#especial-paro-aereo { margin-top: 22px; margin-bottom: 4px; }
+.nx-promo.live { background: linear-gradient(135deg, #a83246, #5c1424); box-shadow: 0 14px 34px -18px rgba(92,20,36,.9); }
+.nx-promo.live .nx-promo-k { background: #fff; color: #a83246; display: inline-flex; align-items: center; gap: 7px; }
+.nx-promo.live .nx-promo-k::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: #a83246; animation: nxlive 1.6s infinite; }
+.nx-promo.live .nx-promo-p { color: #ffe3e8; }
+.nx-promo.live .nx-promo-btn { color: #a83246; }
+@keyframes nxlive { 0% { box-shadow: 0 0 0 0 rgba(168,50,70,.6); } 70% { box-shadow: 0 0 0 8px rgba(168,50,70,0); } 100% { box-shadow: 0 0 0 0 rgba(168,50,70,0); } }
+.nx-sections a.nx-sec-live { color: #a83246; font-weight: 800; }
 .nx-promo-img, .nx-nl-logo { width: 120px; height: 90px; object-fit: cover; border-radius: 10px; display: block; }
 .nx-nl-logo { height: 120px; object-fit: contain; background: #fff; }
 .nx-promo-txt { display: flex; flex-direction: column; gap: 6px; min-width: 0; }

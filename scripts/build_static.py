@@ -262,7 +262,7 @@ def pagina_brief(b, prev_b, next_b):
   <meta name="theme-color" content="#163e86">
   <link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
   <meta name="apple-mobile-web-app-title" content="MSC México">
-  <link rel="stylesheet" href="../../news.css?v=21">
+  <link rel="stylesheet" href="../../news.css?v=22">
   <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
   <script src="../../art.js?v=1" defer></script>
   <script src="../../static.js?v=4" defer></script>
@@ -342,7 +342,7 @@ def pagina_archivo(lista):
   <meta name="theme-color" content="#163e86">
   <link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
   <meta name="apple-mobile-web-app-title" content="MSC México">
-  <link rel="stylesheet" href="../news.css?v=21">
+  <link rel="stylesheet" href="../news.css?v=22">
   <script src="../static.js?v=4" defer></script>
   <script src="../ui.js?v=2" defer></script>
 </head>
