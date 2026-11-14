@@ -106,7 +106,7 @@ def cifras_html(items, cls='ex-kpis'):
 def crono_html():
     return ('<div class="ex-panelc"><p class="ex-ct">' + sp(L('Cronología del viernes (hora CDMX)', 'Friday timeline (Mexico City time)', 'Cronologia de sexta (hora da Cidade do México)')) + '</p>'
             '<ol class="ex-tl">' + ''.join(f'<li><b>{E(h)}</b>{blk(t)}</li>' for h, t in CRONO) + '</ol>'
-            '<p class="ex-src">' + fuentes_html(['yahoo_adv', 'duffy_x', 'cbs_main', 'ef_afac', 'abc_live', 'fox_live']) + '</p></div>')
+            '<p class="ex-src">' + fuentes_html(['yahoo_adv', 'duffy_x', 'cbs_main', 'ef_afac', 'abc_live', 'fox_live', 'cbsphl', 'efe_infobae']) + '</p></div>')
 
 
 def tarjetas_html(lista):
@@ -433,7 +433,7 @@ def pagina():
         <h2 class="nx-h2">{sp(L("En 60 segundos", "In 60 seconds", "Em 60 segundos"))}</h2>
         <div class="ex-two"><ol class="ex-60">{''.join(f"<li>{blk(r)}</li>" for r in RESUMEN)}</ol>{crono_html()}</div>
         {cifras_html(KPIS, cls='ex-kpis six')}
-        <p class="ex-src">{fuentes_html(['cnbc', 'wsvn', 'foxwx', 'fr24', 'aljaz', 'efe_unitel'])}</p>
+        <p class="ex-src">{fuentes_html(['abc_sat', 'cbsphl', 'autonoc', 'cronista', 'cnbc', 'wsvn', 'efe_unitel'])}</p>
       </section>
 
       <section class="ex-sec" id="falla">
@@ -496,7 +496,7 @@ def pagina():
 
       <section class="ex-sec" id="fuentes">
         <h2 class="nx-h2">{sp(L("Fuentes", "Sources", "Fontes"))}</h2>
-        {blk(L("Cifras al 13 de noviembre de 2026, 18:35 h CDMX; las horas están en hora de la Ciudad de México (la hora del Este es una hora más). Los conteos de vuelos cambian minuto a minuto: usamos el corte más reciente con hora. La causa técnica citada proviene de reportes con fuentes y no está confirmada por la FAA.", "Figures as of November 13, 2026, 6:35 p.m. Mexico City time; times are Mexico City time (Eastern is one hour later). Flight counts change by the minute: we used the latest time-stamped count. The technical cause cited comes from sourced reports and has not been confirmed by the FAA.", "Dados de 13 de novembro de 2026, 18h35 (Cidade do México); os horários estão na hora da Cidade do México (o horário do Leste é uma hora a mais). As contagens de voos mudam a cada minuto: usamos o corte mais recente com horário. A causa técnica citada vem de relatos com fontes e não foi confirmada pela FAA."), cls='ex-method')}
+        {blk(L("Cifras al 14 de noviembre de 2026, 08:07 h CDMX; las horas están en hora de la Ciudad de México (la hora del Este es una hora más). Los conteos de vuelos cambian minuto a minuto: usamos el corte más reciente con hora. La causa técnica es la que explicaron Duffy y Mullin; el informe formal de la FAA aún no se publica.", "Figures as of November 14, 2026, 8:07 a.m. Mexico City time; times are Mexico City time (Eastern is one hour later). Flight counts change by the minute: we used the latest time-stamped count. The technical cause is the one Duffy and Mullin described; the FAA's formal report has not been published yet.", "Dados de 14 de novembro de 2026, 08h07 (Cidade do México); os horários estão na hora da Cidade do México (o horário do Leste é uma hora a mais). As contagens de voos mudam a cada minuto: usamos o corte mais recente com horário. A causa técnica é a explicada por Duffy e Mullin; o relatório formal da FAA ainda não foi publicado."), cls='ex-method')}
         {todas_fuentes()}
       </section>
     </article>
