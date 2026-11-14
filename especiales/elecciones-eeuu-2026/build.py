@@ -647,7 +647,7 @@ def pagina():
   <meta name="theme-color" content="#163e86">
   <link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
   <meta name="apple-mobile-web-app-title" content="MSC México">
-  <link rel="stylesheet" href="../../news.css?v=20">
+  <link rel="stylesheet" href="../../news.css?v=21">
   <style>{CSS}</style>
   <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
   <script src="../../static.js?v=4" defer></script>

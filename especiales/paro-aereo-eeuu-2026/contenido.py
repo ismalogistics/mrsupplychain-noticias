@@ -1,0 +1,298 @@
+# -*- coding: utf-8 -*-
+"""Contenido del especial "Paro nacional de vuelos en EE. UU. (13 nov 2026) y supply chain".
+Cada cifra lleva su fuente en FUENTES (clave corta). Texto en ES / EN / PT.
+Horas en hora de la Ciudad de México (CDMX, UTC-6); hora del Este = CDMX + 1."""
+
+
+def L(es, en, pt):
+    return {'es': es, 'en': en, 'pt': pt}
+
+
+# ------------------------------------------------------------------ Bitácora "Al momento"
+# Cada actualización AGREGA una entrada al final (no borra las anteriores):
+# {'t': 'AAAA-MM-DDTHH:MM:00-06:00', 'titulo': L(es, en, pt), 'x': L(es, en, pt), 'f': ['clave', ...]}
+ACTUALIZACIONES = [
+    {'t': '2026-11-13T14:54:00-06:00',
+     'titulo': L('La FAA detiene todos los despegues en EE. UU. por una falla de comunicaciones en sus centros de control',
+                 'The FAA halts all departures in the US over a communications failure at its control centers',
+                 'A FAA suspende todas as decolagens nos EUA por uma falha de comunicações em seus centros de controle'),
+     'x': L('A las 15:54 hora del Este (14:54 CDMX), el Centro de Mando del control de tráfico aéreo ordenó que todas las salidas de los aeropuertos de EE. UU. quedaran detenidas hasta nuevo aviso, por circunstancias extraordinarias y razones de seguridad; los vuelos internacionales que llegan se manejan caso por caso. Minutos antes ya había paros en O\'Hare y Midway (Chicago) por una falla de equipo, y reportes de aviación ubican el inicio en el Centro de Kansas City, algo que la FAA no ha confirmado. El secretario de Transporte, Sean Duffy, dijo que la falla afecta a todos los centros de control en ruta y que técnicos de la FAA investigan. Es apenas el tercer paro nacional del siglo, después del 11 de septiembre de 2001 y de enero de 2023.',
+            'At 3:54 p.m. Eastern (2:54 p.m. Mexico City), the air traffic control Command Center ordered all departures from US airports to remain grounded until further notice, citing extraordinary circumstances and safety; inbound international flights are handled case by case. Minutes earlier, O\'Hare and Midway (Chicago) were already stopped over an equipment outage, and aviation reports place the start at the Kansas City Center, which the FAA has not confirmed. Transportation Secretary Sean Duffy said the failure affects all en-route control centers and that FAA technicians are investigating. It is only the third nationwide stop this century, after September 11, 2001 and January 2023.',
+            'Às 15h54 do Leste (14h54 na Cidade do México), o Centro de Comando do controle de tráfego aéreo ordenou que todas as saídas dos aeroportos dos EUA ficassem retidas até novo aviso, por circunstâncias extraordinárias e razões de segurança; voos internacionais que chegam são tratados caso a caso. Minutos antes, O\'Hare e Midway (Chicago) já estavam parados por falha de equipamento, e relatos do setor situam o início no Centro de Kansas City, o que a FAA não confirmou. O secretário de Transportes, Sean Duffy, disse que a falha afeta todos os centros de controle em rota e que técnicos da FAA investigam. É apenas a terceira paralisação nacional do século, depois de 11 de setembro de 2001 e de janeiro de 2023.'),
+     'f': ['yahoo_adv', 'duffy_x', 'insbiz', 'efe_unitel']},
+    {'t': '2026-11-13T17:00:00-06:00',
+     'titulo': L('Seguridad Nacional descarta un ataque; México y Canadá detienen sus vuelos hacia EE. UU.',
+                 'Homeland Security rules out an attack for now; Mexico and Canada hold their flights to the US',
+                 'Segurança Interna descarta ataque por ora; México e Canadá retêm seus voos para os EUA'),
+     'x': L('El secretario de Seguridad Nacional, Markwayne Mullin, dijo que hasta ahora no hay indicios de un ataque y que se trata de una caída de telecomunicaciones. En México, la AFAC pidió que todas las aeronaves con vuelos programados a EE. UU. permanezcan en tierra hasta que la autoridad estadounidense autorice reanudar; Aeroméxico informó que sus operaciones desde y hacia EE. UU. están suspendidas hasta nuevo aviso, y Volaris y Viva advirtieron demoras y cancelaciones. En Canadá, Toronto Pearson y Montreal-Trudeau suspendieron los vuelos con EE. UU. y NAV Canada aplicó medidas de tráfico en Pearson, Montreal, Calgary y Vancouver, aunque los vuelos domésticos canadienses operan con normalidad. Para supply chain, esto detiene también la carga que viaja en la bodega de los aviones de pasajeros entre los tres socios del T-MEC.',
+            'Homeland Security Secretary Markwayne Mullin said there is so far no indication of an attack and that it is a telecommunications outage. In Mexico, the AFAC asked all aircraft with flights scheduled to the US to stay on the ground until US authorities allow a restart; Aeroméxico said its operations to and from the US are suspended until further notice, and Volaris and Viva warned of delays and cancellations. In Canada, Toronto Pearson and Montreal-Trudeau suspended flights with the US and NAV Canada applied traffic measures at Pearson, Montreal, Calgary and Vancouver, while Canadian domestic flights operate normally. For supply chains, this also stops the cargo that travels in the bellies of passenger aircraft among the three USMCA partners.',
+            'O secretário de Segurança Interna, Markwayne Mullin, disse que até agora não há indícios de ataque e que se trata de uma queda de telecomunicações. No México, a AFAC pediu que todas as aeronaves com voos programados para os EUA permaneçam em solo até que a autoridade norte-americana autorize a retomada; a Aeroméxico informou que suas operações de e para os EUA estão suspensas até novo aviso, e Volaris e Viva alertaram para atrasos e cancelamentos. No Canadá, Toronto Pearson e Montreal-Trudeau suspenderam os voos com os EUA e a NAV Canada aplicou medidas de tráfego em Pearson, Montreal, Calgary e Vancouver, enquanto os voos domésticos canadenses operam normalmente. Para supply chain, isso também paralisa a carga que viaja no porão dos aviões de passageiros entre os três sócios do USMCA.'),
+     'f': ['cbs_main', 'ef_afac', 'razon_mx', 'cbc_pearson', 'cochrane']},
+    {'t': '2026-11-13T17:30:00-06:00',
+     'titulo': L('Más de 2,500 cancelaciones y 10,500 demoras; los hubs de FedEx y UPS, detenidos',
+                 'More than 2,500 cancellations and 10,500 delays; FedEx and UPS hubs held',
+                 'Mais de 2.500 cancelamentos e 10.500 atrasos; hubs da FedEx e da UPS parados'),
+     'x': L('A las 18:30 hora del Este (17:30 CDMX), FlightAware contaba más de 10,500 vuelos demorados y más de 2,500 cancelados; según Cirium, 11,000 vuelos estaban programados para salir el viernes y unos 600 fueron desviados. Hacia las 18:00 del Este, Reagan National (Washington) ya no tenía dónde estacionar aviones y O\'Hare estaba cerca de su límite. FedEx dijo que está lista para activar planes de contingencia y que reanudará vuelos en cuanto la FAA lo permita; su hub mundial en Memphis y el Worldport de UPS en Louisville quedaron bajo el paro. Delta ofrece cambios sin costo para viajes del viernes y el sábado. Para supply chain, el golpe llegó justo antes del ciclo nocturno de los hubs de paquetería, que es cuando sale la mayor parte de los envíos urgentes.',
+            'At 6:30 p.m. Eastern (5:30 p.m. Mexico City), FlightAware counted more than 10,500 delayed and more than 2,500 canceled flights; according to Cirium, 11,000 flights were scheduled to depart on Friday and about 600 were diverted. By 6 p.m. Eastern, Reagan National (Washington) had no room left to park aircraft and O\'Hare was near capacity. FedEx said it is ready to activate contingency plans and will resume flights as soon as the FAA allows; its Memphis World Hub and UPS Worldport in Louisville were under the stop. Delta is offering free changes for Friday and Saturday travel. For supply chains, the blow landed just before the parcel hubs\' overnight cycle, when most urgent shipments fly.',
+            'Às 18h30 do Leste (17h30 na Cidade do México), o FlightAware contava mais de 10.500 voos atrasados e mais de 2.500 cancelados; segundo a Cirium, 11.000 voos estavam programados para sair na sexta e cerca de 600 foram desviados. Por volta das 18h do Leste, o Reagan National (Washington) já não tinha onde estacionar aviões e O\'Hare estava perto do limite. A FedEx disse estar pronta para ativar planos de contingência e retomar os voos assim que a FAA permitir; seu hub mundial em Memphis e o Worldport da UPS em Louisville ficaram sob a paralisação. A Delta oferece remarcação sem custo para viagens de sexta e sábado. Para supply chain, o golpe chegou logo antes do ciclo noturno dos hubs de encomendas, quando sai a maior parte dos envios urgentes.'),
+     'f': ['foxwx', 'cnbc', 'nbc_main', 'nbc_live', 'wbko', 'wmc_mem', 'abc_live']},
+    {'t': '2026-11-13T18:20:00-06:00',
+     'titulo': L('La FAA empieza a levantar restricciones de forma gradual; habrá demoras residuales',
+                 'The FAA begins lifting restrictions gradually; residual delays expected',
+                 'A FAA começa a suspender as restrições de forma gradual; haverá atrasos residuais'),
+     'x': L('Hacia las 19:20 del Este (18:20 CDMX), la FAA informó que levanta las restricciones poco a poco conforme sus sistemas vuelven a operar, y advirtió de demoras y cancelaciones residuales en todo el país. Desde las 18:00 del Este ya permitía salidas coordinadas con el Centro de Mando a medida que se recuperaban los centros en ruta: Alaska y Hawaiian reanudaron sus vuelos a la Costa Oeste y algunos vuelos a Alemania y Praga recibieron autorización. Sobre la causa, CBS News reporta, con fuentes, que una actualización a la red privada de comunicaciones del control aéreo, operada por L3Harris, provocó un reinicio y la caída; la FAA no lo ha confirmado y dice que no cree que haya sido un ciberataque. Para supply chain, la recuperación no termina cuando se levanta el paro: tripulaciones al límite de sus horas y aviones fuera de posición alargan el efecto al fin de semana.',
+            'Around 7:20 p.m. Eastern (6:20 p.m. Mexico City), the FAA said it is gradually lifting restrictions as its systems come back online and warned of residual delays and cancellations nationwide. Since 6 p.m. Eastern it had been allowing departures coordinated with the Command Center as en-route centers recovered: Alaska and Hawaiian resumed West Coast flights and some flights to Germany and Prague were cleared. On the cause, CBS News reports, citing sources, that an update to the air traffic control\'s private communications network, operated by L3Harris, triggered a reboot and the outage; the FAA has not confirmed this and says it does not believe it was a cyberattack. For supply chains, recovery does not end when the stop lifts: crews hitting duty-hour limits and aircraft out of position stretch the impact into the weekend.',
+            'Por volta das 19h20 do Leste (18h20 na Cidade do México), a FAA informou que suspende as restrições aos poucos, à medida que seus sistemas voltam a operar, e alertou para atrasos e cancelamentos residuais em todo o país. Desde as 18h do Leste já permitia saídas coordenadas com o Centro de Comando conforme os centros em rota se recuperavam: Alaska e Hawaiian retomaram os voos para a Costa Oeste e alguns voos para a Alemanha e Praga foram autorizados. Sobre a causa, a CBS News relata, com fontes, que uma atualização da rede privada de comunicações do controle aéreo, operada pela L3Harris, provocou uma reinicialização e a queda; a FAA não confirmou e diz não acreditar que tenha sido um ciberataque. Para supply chain, a recuperação não termina quando a paralisação é suspensa: tripulações no limite de horas e aviões fora de posição estendem o efeito ao fim de semana.'),
+     'f': ['fox_live', 'abc_live', 'yahoo_cbs', 'nbc_live', 'cnbc']},
+]
+
+# ------------------------------------------------------------------ Estado al momento (recuadro principal)
+ESTADO = {
+    'titulo': L('Estado al momento: la FAA reabre el cielo poco a poco; el efecto sigue el fin de semana',
+                'Status now: the FAA reopens the skies gradually; the impact runs into the weekend',
+                'Situação agora: a FAA reabre o céu aos poucos; o efeito segue no fim de semana'),
+    'esencial': [
+        L('La FAA detuvo todos los despegues de EE. UU. desde las 14:54 CDMX por una falla de telecomunicaciones en sus 22 centros en ruta; a las 18:20 levantaba restricciones de forma gradual.',
+          'The FAA halted all US departures from 2:54 p.m. Mexico City time over a telecom failure at its 22 en-route centers; by 6:20 p.m. it was lifting restrictions gradually.',
+          'A FAA suspendeu todas as decolagens nos EUA a partir das 14h54 (Cidade do México) por uma falha de telecomunicações em seus 22 centros em rota; às 18h20 suspendia as restrições aos poucos.'),
+        L('Más de 2,500 vuelos cancelados y 10,500 demorados; los hubs de FedEx (Memphis) y UPS (Louisville) y los vuelos con México y Canadá quedaron detenidos.',
+          'More than 2,500 flights canceled and 10,500 delayed; the FedEx (Memphis) and UPS (Louisville) hubs and flights with Mexico and Canada were held.',
+          'Mais de 2.500 voos cancelados e 10.500 atrasados; os hubs da FedEx (Memphis) e da UPS (Louisville) e os voos com México e Canadá ficaram parados.'),
+        L('Para supply chain: asume 24 a 48 horas de retraso en envíos aéreos urgentes, ten un plan B terrestre para piezas críticas y vigila la causa rumbo a Thanksgiving y Black Friday.',
+          'For supply chains: assume 24 to 48 hours of delay on urgent air shipments, have a ground plan B for critical parts, and watch the root cause heading into Thanksgiving and Black Friday.',
+          'Para supply chain: considere 24 a 48 horas de atraso em envios aéreos urgentes, tenha um plano B rodoviário para peças críticas e acompanhe a causa rumo ao Thanksgiving e à Black Friday.'),
+    ],
+    'parrafos': [
+        L('Qué pasó. A las 14:54 CDMX la FAA ordenó detener todas las salidas de los aeropuertos de EE. UU. por una falla de comunicaciones que afectó a los centros que guían a los aviones entre ciudades. Los aviones en el aire aterrizaron; los que estaban en tierra no pudieron despegar, ni siquiera los que iban a México, Centroamérica o Canadá. Hacia las 18:20 CDMX la FAA empezó a levantar restricciones de forma gradual.',
+          'What happened. At 2:54 p.m. Mexico City time the FAA ordered all departures from US airports to stop over a communications failure that hit the centers that guide aircraft between cities. Aircraft in the air landed; those on the ground could not take off, including flights bound for Mexico, Central America or Canada. Around 6:20 p.m. Mexico City time the FAA began lifting restrictions gradually.',
+          'O que aconteceu. Às 14h54 (Cidade do México) a FAA ordenou suspender todas as saídas dos aeroportos dos EUA por uma falha de comunicações que atingiu os centros que guiam os aviões entre cidades. Os aviões no ar pousaram; os que estavam em solo não puderam decolar, nem mesmo os que iam para México, América Central ou Canadá. Por volta das 18h20 (Cidade do México) a FAA começou a suspender as restrições aos poucos.'),
+        L('Por qué importa. No fue un problema de una aerolínea ni de un aeropuerto: fue la red que conecta a todo el control de tráfico aéreo. Por eso se detuvo también la carga: los hubs nocturnos de FedEx y UPS, los aviones cargueros y la carga que viaja en la bodega de los vuelos de pasajeros. La causa oficial aún no se publica; CBS reporta, con fuentes, que una actualización de la red de comunicaciones que opera L3Harris provocó un reinicio.',
+          'Why it matters. This was not one airline\'s or one airport\'s problem: it was the network that links all of air traffic control. That is why cargo stopped too: FedEx and UPS overnight hubs, freighters, and the cargo carried in passenger-flight bellies. The official cause has not been published; CBS reports, citing sources, that an update to the communications network operated by L3Harris triggered a reboot.',
+          'Por que importa. Não foi problema de uma companhia aérea nem de um aeroporto: foi a rede que conecta todo o controle de tráfego aéreo. Por isso a carga também parou: os hubs noturnos da FedEx e da UPS, os cargueiros e a carga que viaja no porão dos voos de passageiros. A causa oficial ainda não foi publicada; a CBS relata, com fontes, que uma atualização da rede de comunicações operada pela L3Harris provocou uma reinicialização.'),
+        L('Qué sigue. El sábado será de recuperación: aviones y tripulaciones fuera de lugar, más cancelaciones y envíos que se recorren un día. La prueba de fondo es la causa: si fue un error puntual, el efecto se diluye en días; si revela una falla de diseño en una red que ya falló en septiembre en el noreste, el riesgo se traslada a la temporada de Thanksgiving (26 de noviembre), Black Friday (27) y Cyber Monday (30).',
+          'What comes next. Saturday will be about recovery: aircraft and crews out of position, more cancellations and shipments slipping a day. The real test is the cause: if it was a one-off error, the impact fades within days; if it reveals a design flaw in a network that already failed in the Northeast in September, the risk carries into Thanksgiving (November 26), Black Friday (27) and Cyber Monday (30).',
+          'O que vem. O sábado será de recuperação: aviões e tripulações fora de posição, mais cancelamentos e envios que escorregam um dia. O teste de fundo é a causa: se foi um erro pontual, o efeito se dilui em dias; se revelar uma falha de projeto numa rede que já falhou no nordeste em setembro, o risco passa para a temporada de Thanksgiving (26 de novembro), Black Friday (27) e Cyber Monday (30).'),
+    ],
+    'f': ['fox_live', 'yahoo_adv', 'yahoo_cbs', 'foxwx', 'pbs_sep'],
+}
+
+# ------------------------------------------------------------------ En 60 segundos
+RESUMEN = [
+    L('Qué: la FAA ordenó un paro nacional de despegues ("ground stop") a las 14:54 CDMX; los vuelos en el aire aterrizaron y los internacionales que llegaban se atendieron caso por caso.',
+      'What: the FAA ordered a nationwide ground stop at 2:54 p.m. Mexico City time; aircraft in the air landed and inbound international flights were handled case by case.',
+      'O quê: a FAA ordenou uma paralisação nacional de decolagens ("ground stop") às 14h54 (Cidade do México); os voos no ar pousaram e os internacionais que chegavam foram tratados caso a caso.'),
+    L('Por qué: una caída de telecomunicaciones en los centros de control en ruta; el gobierno dice que no hay indicios de ataque y la causa técnica aún no es oficial.',
+      'Why: a telecommunications outage at the en-route control centers; the government says there is no sign of an attack, and the technical cause is not yet official.',
+      'Por quê: uma queda de telecomunicações nos centros de controle em rota; o governo diz que não há indícios de ataque e a causa técnica ainda não é oficial.'),
+    L('Cuánto: 11,000 vuelos programados, 1.5 millones de pasajeros, más de 2,500 cancelaciones y 10,500 demoras al corte de las 17:30 CDMX.',
+      'How much: 11,000 scheduled flights, 1.5 million passengers, more than 2,500 cancellations and 10,500 delays as of 5:30 p.m. Mexico City time.',
+      'Quanto: 11.000 voos programados, 1,5 milhão de passageiros, mais de 2.500 cancelamentos e 10.500 atrasos às 17h30 (Cidade do México).'),
+    L('Carga: el paro alcanzó a FedEx y UPS justo antes de su ciclo nocturno y a la carga en bodega de los vuelos con México y Canadá.',
+      'Cargo: the stop hit FedEx and UPS right before their overnight cycle, along with belly cargo on flights with Mexico and Canada.',
+      'Carga: a paralisação atingiu FedEx e UPS logo antes do ciclo noturno e a carga de porão dos voos com México e Canadá.'),
+    L('Lectura para supply chain: el viernes se pierde un día de red aérea; el riesgo real es que la falla se repita en plena temporada alta.',
+      'Supply chain read: Friday loses a day of air network; the real risk is a repeat in the middle of peak season.',
+      'Leitura para supply chain: a sexta perde um dia de rede aérea; o risco real é a falha se repetir em plena alta temporada.'),
+]
+
+KPIS = [
+    (L('Vuelos programados para salir el viernes', 'Flights scheduled to depart Friday', 'Voos programados para sair na sexta'), '11,000', L('1.5 millones de pasajeros', '1.5 million passengers', '1,5 milhão de passageiros')),
+    (L('Cancelados (18:30 h del Este)', 'Canceled (6:30 p.m. ET)', 'Cancelados (18h30 do Leste)'), '+2,500', L('FlightAware', 'FlightAware', 'FlightAware')),
+    (L('Demorados (18:30 h del Este)', 'Delayed (6:30 p.m. ET)', 'Atrasados (18h30 do Leste)'), '+10,500', L('FlightAware', 'FlightAware', 'FlightAware')),
+    (L('Vuelos desviados', 'Diverted flights', 'Voos desviados'), '≈600', L('Cirium', 'Cirium', 'Cirium')),
+    (L('En el aire rumbo a EE. UU. al ordenarse', 'In the air bound for the US when ordered', 'No ar rumo aos EUA na ordem'), '4,042', L('Flightradar24', 'Flightradar24', 'Flightradar24')),
+    (L('Centros de control en ruta afectados', 'En-route control centers affected', 'Centros de controle em rota afetados'), '22', L('3er paro nacional del siglo', '3rd nationwide stop this century', '3ª paralisação nacional do século')),
+]
+
+# ------------------------------------------------------------------ Qué falló
+FALLA = {
+    'parrafos': [
+        L('EE. UU. divide su espacio aéreo en 22 centros de control en ruta, que guían a los aviones a gran altitud entre aeropuertos. El viernes, una falla de comunicaciones los alcanzó a todos: The Air Current la atribuye a problemas en las frecuencias de radio y empleados de la FAA citados por el Washington Examiner la describieron como una caída "en cadena" de frecuencias. Un mensaje interno de Alaska Airlines visto por CNBC mencionaba problemas de comunicación y de radar.',
+          'The US splits its airspace among 22 en-route control centers, which guide aircraft at high altitude between airports. On Friday, a communications failure reached all of them: The Air Current attributes it to radio-frequency problems, and FAA employees quoted by the Washington Examiner described a "rolling" frequency outage. An internal Alaska Airlines message seen by CNBC mentioned both communications and radar problems.',
+          'Os EUA dividem seu espaço aéreo entre 22 centros de controle em rota, que guiam os aviões em grande altitude entre aeroportos. Na sexta, uma falha de comunicações atingiu todos eles: o The Air Current a atribui a problemas nas frequências de rádio e funcionários da FAA citados pelo Washington Examiner descreveram uma queda "em cadeia" de frequências. Uma mensagem interna da Alaska Airlines vista pela CNBC mencionava problemas de comunicação e de radar.'),
+        L('La causa oficial no se ha publicado. CBS News reporta, con varias fuentes, que una actualización a la red privada de comunicaciones del control aéreo, operada por L3Harris, hizo que el sistema se reiniciara y cayera, y CNN cita a una fuente de aerolínea según la cual la FAA atribuyó la caída a un problema de enrutadores de red. Air Space Intelligence, proveedor del nuevo sistema de IA SMART de la FAA, afirmó que su software no causó el paro. El gobierno descarta por ahora un ataque, aunque Mullin dijo que no se descarta nada.',
+          'The official cause has not been published. CBS News reports, citing multiple sources, that an update to the air traffic control\'s private communications network, operated by L3Harris, caused the system to reboot and crash, and CNN cites an airline source saying the FAA attributed the outage to a problem with network routers. Air Space Intelligence, vendor of the FAA\'s new SMART AI system, said its software did not cause the stop. The government rules out an attack for now, though Mullin said nothing has been ruled out.',
+          'A causa oficial não foi publicada. A CBS News relata, com várias fontes, que uma atualização da rede privada de comunicações do controle aéreo, operada pela L3Harris, fez o sistema reiniciar e cair, e a CNN cita uma fonte de companhia aérea segundo a qual a FAA atribuiu a queda a um problema de roteadores de rede. A Air Space Intelligence, fornecedora do novo sistema de IA SMART da FAA, afirmou que seu software não causou a paralisação. O governo descarta por ora um ataque, embora Mullin tenha dito que nada foi descartado.'),
+        L('No es un hecho aislado. El 21 de septiembre falló el circuito principal de datos de un centro regional y se detuvieron por horas JFK, LaGuardia, Newark y Filadelfia; Duffy culpó a una cuadrilla de obra de Amtrak. El Congreso aprobó 12,500 millones de dólares para reformar el control aéreo, y el administrador de la FAA, Bryan Bedford, ha dicho que cambiar el cobre por fibra, previsto para septiembre de 2027, no bastará para evitar nuevas caídas.',
+          'It is not an isolated event. On September 21 a regional center\'s primary data circuit failed and JFK, LaGuardia, Newark and Philadelphia stopped for hours; Duffy blamed an Amtrak construction crew. Congress approved $12.5 billion to reform air traffic control, and FAA Administrator Bryan Bedford has said replacing copper with fiber, due by September 2027, will not be enough to prevent new outages.',
+          'Não é um fato isolado. Em 21 de setembro falhou o circuito principal de dados de um centro regional e JFK, LaGuardia, Newark e Filadélfia pararam por horas; Duffy culpou uma equipe de obras da Amtrak. O Congresso aprovou 12,5 bilhões de dólares para reformar o controle aéreo, e o administrador da FAA, Bryan Bedford, disse que trocar o cobre por fibra, previsto para setembro de 2027, não bastará para evitar novas quedas.'),
+    ],
+    'vigilar': L('Qué vigilar: el informe de causa de la FAA o del Departamento de Transporte; si la falla vino de un cambio de software (corregible rápido) o de la arquitectura de la red (riesgo de repetición); y las audiencias que ya pidieron legisladores del subcomité de aviación.',
+                 'What to watch: the FAA or Transportation Department root-cause report; whether the failure came from a software change (quick to fix) or from the network architecture (risk of repeat); and the hearings aviation subcommittee lawmakers have already called for.',
+                 'O que acompanhar: o relatório de causa da FAA ou do Departamento de Transportes; se a falha veio de uma mudança de software (corrigível rápido) ou da arquitetura da rede (risco de repetição); e as audiências que legisladores do subcomitê de aviação já pediram.'),
+    'f': ['southpas', 'cnbc', 'yahoo_cbs', 'cnn_live', 'nbc_live', 'nbc_main', 'pbs_sep', 'live5_sep', 'reuters_125', 'reuters_bedford', 'yahoo_main'],
+}
+
+CRONO = [
+    ('14:10', L('Paro en O\'Hare y Midway por falla de equipo y comunicaciones.', 'Stop at O\'Hare and Midway over equipment and communications failure.', 'Paralisação em O\'Hare e Midway por falha de equipamento e comunicações.')),
+    ('14:54', L('La FAA ordena el paro nacional de despegues.', 'The FAA orders the nationwide ground stop.', 'A FAA ordena a paralisação nacional de decolagens.')),
+    ('15:16', L('Duffy lo confirma: falla en todos los centros en ruta.', 'Duffy confirms: failure at all en-route centers.', 'Duffy confirma: falha em todos os centros em rota.')),
+    ('≈16:00', L('Mullin: sin indicios de ataque. AFAC retiene vuelos de México a EE. UU.', 'Mullin: no sign of attack. AFAC holds Mexico–US flights.', 'Mullin: sem indícios de ataque. AFAC retém voos México–EUA.')),
+    ('17:00', L('La FAA permite salidas coordinadas conforme se recuperan los centros.', 'The FAA allows coordinated departures as centers recover.', 'A FAA permite saídas coordenadas conforme os centros se recuperam.')),
+    ('18:20', L('La FAA levanta restricciones de forma gradual; habrá demoras residuales.', 'The FAA lifts restrictions gradually; residual delays expected.', 'A FAA suspende restrições aos poucos; haverá atrasos residuais.')),
+]
+
+# ------------------------------------------------------------------ Carga aérea y paquetería
+CARGA = [
+    {'t': L('FedEx · hub mundial de Memphis', 'FedEx · Memphis World Hub', 'FedEx · hub mundial de Memphis'), 'tag': L('≈400 vuelos/día', '≈400 flights/day', '≈400 voos/dia'),
+     'x': L('FedEx opera casi 700 aviones y mueve en promedio 17 millones de paquetes al día, la mayoría dentro de EE. UU. Su hub de Memphis, con cerca de 400 vuelos diarios sobre todo de noche, quedó bajo el paro; la empresa dijo que activará contingencias y reanudará en cuanto la FAA lo permita. El paro llegó a media tarde, horas antes del ciclo nocturno, por lo que el impacto depende de qué tan rápido se normalice la noche del viernes.',
+            'FedEx operates nearly 700 aircraft and moves an average of 17 million packages a day, most within the US. Its Memphis hub, with about 400 daily flights mostly at night, was under the stop; the company said it will activate contingencies and resume as soon as the FAA allows. The stop came mid-afternoon, hours before the overnight cycle, so the impact depends on how fast Friday night normalizes.',
+            'A FedEx opera quase 700 aviões e movimenta em média 17 milhões de pacotes por dia, a maioria dentro dos EUA. Seu hub de Memphis, com cerca de 400 voos diários sobretudo à noite, ficou sob a paralisação; a empresa disse que ativará contingências e retomará assim que a FAA permitir. A paralisação chegou no meio da tarde, horas antes do ciclo noturno, então o impacto depende de quão rápido a noite de sexta se normalizar.'),
+     'f': ['nbc_live', 'wmc_mem', 'kwam']},
+    {'t': L('UPS · Worldport de Louisville', 'UPS · Louisville Worldport', 'UPS · Worldport de Louisville'), 'tag': L('hub automatizado n.º 1', 'No. 1 automated hub', 'hub automatizado n.º 1'),
+     'x': L('El aeropuerto de Louisville, sede del Worldport de UPS, la mayor instalación automatizada de paquetería del mundo, confirmó que ninguna aeronave podía despegar y que habría demoras en salidas y llegadas. UPS no había emitido un comunicado propio al corte. UPS es además el principal transportista aéreo del Servicio Postal de EE. UU., así que el correo prioritario también se recorre.',
+            'Louisville\'s airport, home of UPS Worldport, the world\'s largest automated package facility, confirmed no aircraft could depart and that departures and arrivals would be delayed. UPS had not issued its own statement at this update. UPS is also the main air carrier for the US Postal Service, so priority mail slips as well.',
+            'O aeroporto de Louisville, sede do Worldport da UPS, a maior instalação automatizada de encomendas do mundo, confirmou que nenhuma aeronave podia decolar e que haveria atrasos em saídas e chegadas. A UPS não havia emitido comunicado próprio até esta atualização. A UPS é ainda a principal transportadora aérea do Serviço Postal dos EUA, então o correio prioritário também atrasa.'),
+     'f': ['wbko', 'malay_ups']},
+    {'t': L('Carga en bodega de vuelos de pasajeros', 'Belly cargo on passenger flights', 'Carga de porão em voos de passageiros'), 'tag': L('detenida', 'held', 'parada'),
+     'x': L('Con los vuelos de pasajeros en tierra se detuvo también la carga que viaja en su bodega: muestras, refacciones, farmacéuticos, electrónica y perecederos de alto valor. En las rutas México–EE. UU. la AFAC retuvo los aviones en tierra y Aeroméxico suspendió sus operaciones con EE. UU. hasta nuevo aviso. Lo que no salió el viernes compite el fin de semana con pasajeros reacomodados por espacio.',
+            'With passenger flights grounded, the cargo in their bellies stopped too: samples, spare parts, pharmaceuticals, electronics and high-value perishables. On Mexico–US routes, the AFAC held aircraft on the ground and Aeroméxico suspended its US operations until further notice. What did not leave Friday competes over the weekend with rebooked passengers for space.',
+            'Com os voos de passageiros em solo, parou também a carga de porão: amostras, peças de reposição, farmacêuticos, eletrônicos e perecíveis de alto valor. Nas rotas México–EUA a AFAC reteve as aeronaves em solo e a Aeroméxico suspendeu suas operações com os EUA até novo aviso. O que não saiu na sexta disputa espaço no fim de semana com passageiros remarcados.'),
+     'f': ['ef_afac', 'razon_mx', 'nbc_live']},
+    {'t': L('Temporada alta de comercio electrónico', 'E-commerce peak season', 'Alta temporada do e-commerce'), 'tag': L('26–30 nov', 'Nov 26–30', '26–30 nov'),
+     'x': L('El paro cae a dos semanas de Thanksgiving (26 de noviembre), Black Friday (27) y Cyber Monday (30), cuando la red de paquetería trabaja al máximo. Un día perdido ahora se absorbe; una repetición en esas fechas pegaría a promesas de entrega y a inventario en tránsito. Vale recordar que en 2025 la FAA ya recortó vuelos durante el cierre de gobierno por falta de controladores, y el financiamiento federal vuelve a vencer el 11 de diciembre.',
+            'The stop comes two weeks before Thanksgiving (November 26), Black Friday (27) and Cyber Monday (30), when the parcel network runs at full tilt. One day lost now can be absorbed; a repeat on those dates would hit delivery promises and inventory in transit. Recall that in 2025 the FAA already cut flights during the government shutdown due to controller shortages, and federal funding expires again on December 11.',
+            'A paralisação ocorre a duas semanas do Thanksgiving (26 de novembro), Black Friday (27) e Cyber Monday (30), quando a rede de encomendas trabalha no máximo. Um dia perdido agora se absorve; uma repetição nessas datas afetaria promessas de entrega e estoque em trânsito. Vale lembrar que em 2025 a FAA já cortou voos durante a paralisação do governo por falta de controladores, e o financiamento federal vence de novo em 11 de dezembro.'),
+     'f': ['pbs_shutdown', 'wh_cr']},
+]
+
+# ------------------------------------------------------------------ México
+MEXICO = {
+    'parrafos': [
+        L('La orden de la FAA detiene salidas, no cierra el espacio aéreo, pero el efecto en México fue inmediato. La AFAC pidió que todas las aeronaves en aeropuertos mexicanos con vuelos programados a EE. UU. permanezcan en tierra hasta que la autoridad estadounidense autorice reanudar. Aeroméxico informó que sus operaciones desde y hacia EE. UU. están suspendidas hasta nuevo aviso; Volaris y Viva advirtieron demoras y cancelaciones, y el Grupo Aeroportuario del Pacífico avisó de afectaciones.',
+          'The FAA order halts departures and does not close the airspace, but the effect in Mexico was immediate. The AFAC asked all aircraft at Mexican airports with flights scheduled to the US to stay on the ground until US authorities allow a restart. Aeroméxico said its operations to and from the US are suspended until further notice; Volaris and Viva warned of delays and cancellations, and Grupo Aeroportuario del Pacífico flagged disruptions.',
+          'A ordem da FAA suspende saídas, não fecha o espaço aéreo, mas o efeito no México foi imediato. A AFAC pediu que todas as aeronaves em aeroportos mexicanos com voos programados para os EUA permaneçam em solo até que a autoridade norte-americana autorize a retomada. A Aeroméxico informou que suas operações de e para os EUA estão suspensas até novo aviso; Volaris e Viva alertaram para atrasos e cancelamentos, e o Grupo Aeroportuario del Pacífico avisou de afetações.'),
+        L('Para la manufactura de exportación, el riesgo inmediato son los envíos urgentes por avión: refacciones para evitar paros de línea, muestras y componentes electrónicos que cruzan en bodega de pasajeros o con integradores. La ruta terrestre por la frontera no se vio afectada y es la válvula natural para lo que no puede esperar al fin de semana.',
+          'For export manufacturing, the immediate risk is urgent air shipments: spare parts to avoid line stoppages, samples and electronic components that cross in passenger bellies or with integrators. The land route through the border was not affected and is the natural release valve for what cannot wait for the weekend.',
+          'Para a manufatura de exportação, o risco imediato são os envios urgentes por avião: peças para evitar paradas de linha, amostras e componentes eletrônicos que cruzam no porão de passageiros ou com integradores. A rota terrestre pela fronteira não foi afetada e é a válvula natural para o que não pode esperar o fim de semana.'),
+        L('El episodio se suma a una conectividad aérea ya presionada: EE. UU. mantiene bloqueados desde finales de 2025 los vuelos del AIFA hacia su territorio, la terminal a la que México trasladó la carga aérea, pese a un convenio preliminar para resolver la disputa.',
+          'The episode adds to already strained air connectivity: since late 2025 the US has kept flights from AIFA to its territory blocked, the airport to which Mexico moved air cargo, despite a preliminary agreement to resolve the dispute.',
+          'O episódio se soma a uma conectividade aérea já pressionada: desde o fim de 2025 os EUA mantêm bloqueados os voos do AIFA para seu território, o aeroporto para onde o México transferiu a carga aérea, apesar de um convênio preliminar para resolver a disputa.'),
+    ],
+    'vigilar': L('Qué vigilar: el aviso de la AFAC para reanudar, el reacomodo de Aeroméxico, Volaris y Viva el sábado, y si los integradores (FedEx, UPS, DHL) anuncian recargos o restricciones de servicio para envíos a y desde México.',
+                 'What to watch: the AFAC notice to resume, how Aeroméxico, Volaris and Viva reaccommodate on Saturday, and whether integrators (FedEx, UPS, DHL) announce surcharges or service restrictions for shipments to and from Mexico.',
+                 'O que acompanhar: o aviso da AFAC para retomar, o reacomodamento de Aeroméxico, Volaris e Viva no sábado, e se os integradores (FedEx, UPS, DHL) anunciam sobretaxas ou restrições de serviço para envios de e para o México.'),
+    'f': ['unotv_mx', 'ef_afac', 'razon_mx', 'infobae_aicm', 'efe_unitel', 'elceo_aifa'],
+}
+
+CANADA = L('En Canadá, Toronto Pearson y Montreal-Trudeau suspendieron los vuelos con EE. UU., Calgary retuvo sus salidas y Vancouver advirtió por los vuelos internacionales que cruzan espacio estadounidense. NAV Canada aplicó medidas de gestión de tráfico en esos cuatro aeropuertos y aclaró que sus sistemas operan con normalidad; el ministro de Transporte, Steven MacKinnon, dijo que el gobierno está en contacto con NAV Canada. Para supply chain, el corredor aéreo Canadá–EE. UU. se detuvo, pero los vuelos domésticos canadienses siguieron.',
+           'In Canada, Toronto Pearson and Montreal-Trudeau suspended flights with the US, Calgary held its departures and Vancouver warned about international flights crossing US airspace. NAV Canada applied traffic-management measures at those four airports and said its systems are operating normally; Transport Minister Steven MacKinnon said the government is in contact with NAV Canada. For supply chains, the Canada–US air corridor stopped, but Canadian domestic flights kept going.',
+           'No Canadá, Toronto Pearson e Montreal-Trudeau suspenderam os voos com os EUA, Calgary reteve suas saídas e Vancouver alertou para voos internacionais que cruzam o espaço norte-americano. A NAV Canada aplicou medidas de gestão de tráfego nesses quatro aeroportos e esclareceu que seus sistemas operam normalmente; o ministro dos Transportes, Steven MacKinnon, disse que o governo está em contato com a NAV Canada. Para supply chain, o corredor aéreo Canadá–EUA parou, mas os voos domésticos canadenses continuaram.')
+CANADA_F = ['cbc_pearson', 'cochrane', 'cbc_7000', 'globe', 'cultalb']
+
+# ------------------------------------------------------------------ Mercados
+ACCIONES_MERCADO = [  # (etiqueta, cambio % al cierre del viernes 13 nov)
+    ('United (UAL)', -1.74), ('American (AAL)', -1.05), ('JETS (ETF aerolíneas)', -0.69), ('Southwest (LUV)', -0.64),
+    ('Delta (DAL)', -0.35), ('L3Harris (LHX)', 0.19), ('FedEx (FDX)', 1.52), ('UPS', 1.83),
+]
+MERCADOS = L('El paro nacional se ordenó seis minutos antes del cierre de Wall Street, así que las cotizaciones del viernes casi no lo reflejan: las aerolíneas cerraron con bajas moderadas y FedEx y UPS con alzas. La reacción real se verá el lunes. Como referencia, tras el paro de enero de 2023 las aerolíneas apenas se movieron en la preapertura, y analistas han señalado que un paro corto recorre ingresos más que borrarlos, porque los pasajeros se reacomodan. Si el problema se repite, el costo sube para aerolíneas e integradores. El peso cotizaba en 18.52 por dólar a las 16:33 CDMX.',
+             'The nationwide stop was ordered six minutes before Wall Street\'s close, so Friday\'s quotes barely reflect it: airlines closed with moderate losses and FedEx and UPS with gains. The real reaction will come on Monday. For reference, after the January 2023 stop airlines barely moved in premarket trading, and analysts have noted that a short stop shifts revenue rather than erasing it, because passengers are rebooked. If the problem repeats, costs rise for airlines and integrators. The peso traded at 18.52 per dollar at 4:33 p.m. Mexico City time.',
+             'A paralisação nacional foi ordenada seis minutos antes do fechamento de Wall Street, então as cotações de sexta quase não a refletem: as aéreas fecharam com quedas moderadas e FedEx e UPS com altas. A reação real virá na segunda. Como referência, após a paralisação de janeiro de 2023 as aéreas mal se moveram no pré-mercado, e analistas apontam que uma paralisação curta desloca receita em vez de apagá-la, porque os passageiros são remarcados. Se o problema se repetir, o custo sobe para aéreas e integradores. O peso era cotado a 18,52 por dólar às 16h33 (Cidade do México).')
+MERCADOS_F = ['yf_jets', 'thestreet_2023', 'benzinga_gs']
+
+# ------------------------------------------------------------------ Escenarios
+ESCENARIOS = [
+    {'k': 'A', 't': L('Recuperación en horas', 'Recovery within hours', 'Recuperação em horas'),
+     'p': L('Lo que perfila la FAA a las 18:20 CDMX', 'What the FAA signals as of 6:20 p.m. Mexico City time', 'O que a FAA sinaliza às 18h20 (Cidade do México)'),
+     'x': L('La red vuelve el viernes por la noche, como en enero de 2023, cuando el paro duró unos 90 minutos. Quedan demoras y cancelaciones el sábado por aviones y tripulaciones fuera de lugar.',
+            'The network returns Friday night, as in January 2023, when the stop lasted about 90 minutes. Delays and cancellations linger on Saturday from aircraft and crews out of position.',
+            'A rede volta na sexta à noite, como em janeiro de 2023, quando a paralisação durou cerca de 90 minutos. Atrasos e cancelamentos persistem no sábado por aviões e tripulações fora de posição.'),
+     'scm': L('Un día de retraso en envíos aéreos del viernes; sin efecto en inventario. Confirma ETA con tu integrador y avisa a clientes.',
+              'One day of delay on Friday air shipments; no inventory effect. Confirm ETAs with your integrator and notify customers.',
+              'Um dia de atraso nos envios aéreos de sexta; sem efeito no estoque. Confirme o ETA com o integrador e avise os clientes.')},
+    {'k': 'B', 't': L('Fallas intermitentes el fin de semana', 'Intermittent failures over the weekend', 'Falhas intermitentes no fim de semana'),
+     'p': L('Si la corrección no es estable', 'If the fix is not stable', 'Se a correção não for estável'),
+     'x': L('La red se restablece pero hay caídas parciales o paros regionales mientras se corrige la causa, como pasó en el noreste en septiembre. La FAA podría limitar la capacidad en algunos centros.',
+            'The network is restored but partial outages or regional stops occur while the cause is fixed, as in the Northeast in September. The FAA could cap capacity at some centers.',
+            'A rede é restabelecida, mas há quedas parciais ou paralisações regionais enquanto a causa é corrigida, como no nordeste em setembro. A FAA pode limitar a capacidade em alguns centros.'),
+     'scm': L('Dos a tres días de servicio aéreo irregular. Mueve piezas críticas por tierra y prioriza en el integrador lo que detiene líneas.',
+              'Two to three days of irregular air service. Move critical parts by ground and prioritize line-stopping items with your integrator.',
+              'Dois a três dias de serviço aéreo irregular. Mova peças críticas por terra e priorize com o integrador o que para linhas.')},
+    {'k': 'C', 't': L('Falla estructural rumbo a la temporada alta', 'Structural flaw heading into peak season', 'Falha estrutural rumo à alta temporada'),
+     'p': L('Si la investigación revela un problema de diseño', 'If the investigation reveals a design problem', 'Se a investigação revelar um problema de projeto'),
+     'x': L('La causa apunta a la arquitectura de la red y no a un error puntual. Crece el riesgo de nuevas caídas o de recortes preventivos de vuelos en Thanksgiving y Black Friday, y se suma el vencimiento del presupuesto federal el 11 de diciembre.',
+            'The cause points to the network architecture rather than a one-off error. The risk of new outages or preventive flight cuts over Thanksgiving and Black Friday grows, on top of federal funding expiring December 11.',
+            'A causa aponta para a arquitetura da rede e não para um erro pontual. Cresce o risco de novas quedas ou de cortes preventivos de voos no Thanksgiving e na Black Friday, somado ao vencimento do orçamento federal em 11 de dezembro.'),
+     'scm': L('Adelanta inventario de temporada a centros de distribución, reserva capacidad terrestre y diversifica integradores antes del 26 de noviembre.',
+              'Pull seasonal inventory forward to distribution centers, book ground capacity and diversify integrators before November 26.',
+              'Antecipe o estoque da temporada para centros de distribuição, reserve capacidade rodoviária e diversifique integradores antes de 26 de novembro.')},
+]
+ESCENARIOS_F = ['fox_live', 'yahoo_adv', 'bloomberg_2023', 'pbs_sep', 'reuters_bedford', 'pbs_shutdown', 'wh_cr']
+
+# ------------------------------------------------------------------ Calendario
+CALENDARIO = [
+    ('2026-11-14', L('Sábado de recuperación: cancelaciones residuales y reacomodo de tripulaciones.', 'Recovery Saturday: residual cancellations and crew repositioning.', 'Sábado de recuperação: cancelamentos residuais e reposicionamento de tripulações.')),
+    ('2026-11-16', L('Abre Wall Street: primera reacción de aerolíneas, FedEx, UPS y L3Harris.', 'Wall Street opens: first reaction from airlines, FedEx, UPS and L3Harris.', 'Abre Wall Street: primeira reação de aéreas, FedEx, UPS e L3Harris.')),
+    ('2026-11-26', L('Thanksgiving: uno de los periodos de mayor tráfico aéreo del año.', 'Thanksgiving: one of the year\'s busiest air-travel periods.', 'Thanksgiving: um dos períodos de maior tráfego aéreo do ano.')),
+    ('2026-11-27', L('Black Friday; el 30 es Cyber Monday: pico de paquetería.', 'Black Friday; the 30th is Cyber Monday: parcel peak.', 'Black Friday; dia 30 é Cyber Monday: pico de encomendas.')),
+    ('2026-12-11', L('Vence el financiamiento federal: riesgo de cierre y de recortes de vuelos.', 'Federal funding expires: shutdown risk and possible flight cuts.', 'Vence o financiamento federal: risco de paralisação e cortes de voos.')),
+    ('2027-09', L('Meta de la FAA para cambiar cobre por fibra en su red de telecomunicaciones.', 'FAA target to replace copper with fiber in its telecom network.', 'Meta da FAA para trocar cobre por fibra em sua rede de telecomunicações.')),
+]
+
+# ------------------------------------------------------------------ Qué hacer
+ACCIONES = [
+    L('Revisa hoy con tu integrador o agente de carga los embarques aéreos del viernes y del fin de semana; asume 24 a 48 horas de retraso en servicios de día siguiente.',
+      'Check Friday and weekend air shipments with your integrator or forwarder today; assume 24 to 48 hours of delay on next-day services.',
+      'Revise hoje com o integrador ou agente de carga os embarques aéreos de sexta e do fim de semana; considere 24 a 48 horas de atraso em serviços de dia seguinte.'),
+    L('Ten listo un plan B terrestre para piezas críticas entre México y EE. UU.: transporte dedicado o con doble operador por la frontera, para evitar paros de línea.',
+      'Have a ground plan B ready for critical parts between Mexico and the US: dedicated or team-driver trucking across the border to avoid line stoppages.',
+      'Tenha pronto um plano B rodoviário para peças críticas entre México e EUA: transporte dedicado ou com dupla de motoristas pela fronteira, para evitar paradas de linha.'),
+    L('Actualiza fechas de entrega a clientes y en tu tienda en línea; documenta el evento por si aplican cláusulas de fuerza mayor.',
+      'Update delivery dates for customers and on your online store; document the event in case force-majeure clauses apply.',
+      'Atualize as datas de entrega para clientes e na sua loja on-line; documente o evento caso se apliquem cláusulas de força maior.'),
+    L('Si mueves farmacéuticos o perecederos por avión, confirma la cadena de frío de la carga que se quedó en rampa o en bodegas de aeropuerto.',
+      'If you move pharmaceuticals or perishables by air, confirm the cold chain of cargo left on the ramp or in airport warehouses.',
+      'Se você movimenta farmacêuticos ou perecíveis por avião, confirme a cadeia de frio da carga que ficou na rampa ou em armazéns de aeroporto.'),
+    L('Rumbo a Thanksgiving y Black Friday, no concentres todo en el avión: adelanta inventario a tus centros de distribución y reparte el volumen entre integradores.',
+      'Heading into Thanksgiving and Black Friday, don\'t put everything on air: pull inventory forward to your distribution centers and split volume among integrators.',
+      'Rumo ao Thanksgiving e à Black Friday, não concentre tudo no avião: antecipe estoque para seus centros de distribuição e divida o volume entre integradores.'),
+    L('Reprograma viajes de negocio, auditorías y visitas a planta del fin de semana; aprovecha los cambios sin costo que ofrecen las aerolíneas.',
+      'Reschedule weekend business trips, audits and plant visits; use the free changes airlines are offering.',
+      'Reprograme viagens de negócios, auditorias e visitas a fábricas do fim de semana; aproveite as remarcações sem custo oferecidas pelas aéreas.'),
+]
+
+# ------------------------------------------------------------------ Fuentes
+FUENTES = {
+    'yahoo_adv': ('Yahoo News · aviso de la FAA a las 15:54 ET (13 nov 2026)', 'https://www.yahoo.com/news/us/articles/faa-orders-nationwide-ground-stop-212733648.html'),
+    'duffy_x': ('Sean Duffy en X (13 nov 2026)', 'https://x.com/SecDuffy/status/2121351591106072679'),
+    'insbiz': ('Insurance Business · el paro y Kansas City Center (13 nov 2026)', 'https://www.insurancebusinessmag.com/us/news/industry-news/faa-grounds-every-us-departure-as-air-traffic-control-communications-fail-nationwide-597405.aspx'),
+    'efe_unitel': ('EFE vía Unitel · Volaris y Aeroméxico (13 nov 2026)', 'https://unitel.bo/noticias/agencias/volaris-y-aeromexico-alertan-demoras-y-cancelaciones-por-suspension-de-despegues-en-eeuu-BI24793534'),
+    'cbs_main': ('CBS News · Mullin: sin indicios de acto malicioso (13 nov 2026)', 'https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/'),
+    'ef_afac': ('El Financiero · AFAC retiene vuelos a EE. UU. (13 nov 2026)', 'https://www.elfinanciero.com.mx/empresas/2026/11/13/mexico-activa-protocolo-por-suspension-de-vuelos-en-eu-afac-pide-mantener-aviones-en-tierra/'),
+    'razon_mx': ('La Razón · Aeroméxico, Volaris, Viva y GAP (13 nov 2026)', 'https://www.razon.com.mx/negocios/2026/11/13/vuelos-entre-mexico-y-eu-registran-afectaciones-por-restricciones-de-faa/'),
+    'unotv_mx': ('UnoTV · AFAC pide esperar autorización (13 nov 2026)', 'https://www.unotv.com/nacional/vuelos-de-mexico-a-estados-unidos-afac-pide-esperar-autorizacion-para-despegar/'),
+    'infobae_aicm': ('Infobae · AICM y vuelos con EE. UU. (13 nov 2026)', 'https://www.infobae.com/mexico/2026/11/13/aeropuerto-de-cdmx-informa-sobre-afectaciones-de-vuelos-desde-y-hacia-eeuu/'),
+    'elceo_aifa': ('El CEO · AIFA y vuelos a EE. UU. (2026)', 'https://elceo.com/politica/aifa-foco-de-tension-entre-mexico-y-eu-esta-es-la-razon-por-la-que-no-hay-vuelos-a-territorio-estadounidense/'),
+    'cbc_pearson': ('CBC · Toronto Pearson sin vuelos a EE. UU. (13 nov 2026)', 'https://www.cbc.ca/lite/story/9.7421481'),
+    'cbc_7000': ('CBC · casi 7,000 vuelos afectados (13 nov 2026)', 'https://www.cbc.ca/news/world/us-faa-national-ground-stop-9.7421358'),
+    'cochrane': ('CochraneNow · NAV Canada y Calgary (13 nov 2026)', 'https://cochranenow.com/articles/us-ground-stop-disrupts-flights-between-canada-and-us'),
+    'globe': ('The Globe and Mail · en vivo (13 nov 2026)', 'https://www.theglobeandmail.com/world/article-faa-ground-stop-us-flights-live-updates/'),
+    'cultalb': ('Culture Alberta · qué deben saber los viajeros (13 nov 2026)', 'https://www.culturealberta.com/articles/faa-orders-nationwide-ground-stop-after-communications-outage-what-canadian-travellers-need-to-know'),
+    'foxwx': ('Fox Weather · 10,500 demoras y 2,500 cancelaciones a las 18:30 ET (13 nov 2026)', 'https://www.foxweather.com/weather-news/nationwide-ground-stop-ordered-faa'),
+    'cnbc': ('CNBC · Cirium: 11,000 vuelos y 600 desvíos (13 nov 2026)', 'https://www.cnbc.com/2026/11/13/faa-ground-stop.html'),
+    'nbc_main': ('NBC News · aeropuertos al límite (13 nov 2026)', 'https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247'),
+    'nbc_live': ('NBC News · en vivo, carga y FedEx (13 nov 2026)', 'https://www.nbcnews.com/news/us-news/live-blog/live-updates-flights-grounded-faa-communications-outage-rcna609268'),
+    'wbko': ('WBKO · Louisville y UPS Worldport (13 nov 2026)', 'https://www.wbko.com/2026/11/13/flights-grounded-louisvilles-airport-faa-investigates-air-traffic-control-problems/'),
+    'wmc_mem': ('Action News 5 · Memphis y FedEx (13 nov 2026)', 'https://www.actionnews5.com/2026/11/13/memphis-airport-fedex-issue-statements-following-national-ground-stoppage/'),
+    'kwam': ('KWAM · Memphis y el World Hub de FedEx (13 nov 2026)', 'https://mighty990.com/ground-stop-travelers-stranded-at-memphis-airport/'),
+    'abc_live': ('ABC7 · en vivo: FAA, Alaska/Hawaiian y waivers (13 nov 2026)', 'https://abc7.com/live-updates/faa-ground-stop-live-updates-what-know-nationwide-flights-are-grounded/20038887/'),
+    'fox_live': ('Fox News · la FAA levanta restricciones de forma gradual (13 nov 2026)', 'https://www.foxnews.com/live-news/faa-issues-nationwide-ground-stop-cites-communications-issue'),
+    'yahoo_cbs': ('Yahoo News · CBS: actualización de la red de L3Harris (13 nov 2026)', 'https://www.yahoo.com/news/us/article/faa-issues-nationwide-ground-stop-on-all-departing-flights-citing-communication-issue-213136811.html'),
+    'yahoo_main': ('AP vía Yahoo · lo último (14 nov 2026)', 'https://ca.news.yahoo.com/latest-faa-grounds-flights-nationwide-221416623.html'),
+    'southpas': ('South Pasadenan · The Air Current y Washington Examiner (13 nov 2026)', 'https://southpasadenan.com/faa-grounds-every-flight-in-the-nation-after-air-traffic-control-communications-failure-lax-burbank-all-southern-california-airports-halted/'),
+    'cnn_live': ('CNN · en vivo: problema de enrutadores, según fuente de aerolínea (13 nov 2026)', 'https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa'),
+    'fr24': ('Flightradar24 · 4,042 vuelos en el aire al ordenarse el paro (13 nov 2026)', 'https://www.flightradar24.com/blog/live/nationwide-ground-stop-issued-for-united-states/'),
+    'aljaz': ('Al Jazeera · Flightradar24: 4,042 vuelos en el aire (13 nov 2026)', 'https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue'),
+    'wsvn': ('AP vía WSVN · 22 centros y 1.5 millones de pasajeros (13 nov 2026)', 'https://wsvn.com/news/us-world/faa-grounds-all-us-flights/'),
+    'pbs_sep': ('AP vía PBS · falla en el noreste (21 sep 2026)', 'https://www.pbs.org/newshour/nation/technical-problems-at-a-key-air-traffic-center-disrupt-flights-across-northeast'),
+    'live5_sep': ('AP vía Live 5 · Amtrak y el circuito principal (21 sep 2026)', 'https://www.live5news.com/2026/09/21/flights-disrupted-across-us-northeast-due-technical-problems-key-air-traffic-center/'),
+    'reuters_125': ('Reuters vía WSAU · 12,500 millones para el control aéreo (2026)', 'https://wsau.com/?p=1019499'),
+    'reuters_bedford': ('Reuters vía WTVB · Bedford: fibra en 2027 no basta (2026)', 'https://wtvbam.com/?p=984237'),
+    'malay_ups': ('Malay Mail · UPS, transportista aéreo del USPS (2025)', 'https://malaymail.com/news/money/2025/11/08/ups-fedex-ground-md-11-fleets-after-louisville-crash-kills-14-citing-abundance-of-caution/197646'),
+    'pbs_shutdown': ('AP vía PBS · recortes de vuelos en el cierre de 2025', 'https://www.pbs.org/newshour/nation/daily-flight-cancellations-top-2000-for-first-time-since-start-of-shutdown-air-traffic-cuts'),
+    'wh_cr': ('Casa Blanca · H.R. 6500, financiamiento al 11 de diciembre (sep 2026)', 'https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-6500-signed-into-law/'),
+    'yf_jets': ('Yahoo Finance · cierres del 13 nov 2026 (JETS, UAL, DAL, AAL, LUV, FDX, UPS, LHX, MXN)', 'https://finance.yahoo.com/quote/JETS/'),
+    'thestreet_2023': ('TheStreet · aerolíneas tras el paro de 2023', 'https://inkl.com/news/faa-system-failure-grounds-all-us-flights-airline-stocks-slide'),
+    'benzinga_gs': ('Benzinga · los paros recorren ingresos (2026)', 'https://www.benzinga.com/node/61909427'),
+    'bloomberg_2023': ('Bloomberg · paro de enero de 2023', 'https://www.bloomberg.com/news/articles/2023-01-11/us-flights-disrupted-after-outage-of-faa-pilot-advisory-system'),
+}

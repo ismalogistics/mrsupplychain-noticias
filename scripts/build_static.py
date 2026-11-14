@@ -21,7 +21,7 @@ DATA = os.path.join(ROOT, 'data')
 SITE = 'https://mrsupplychain.ai/noticias/'
 MARCA = 'Mr. Supply Chain® México'
 # Páginas especiales (carpeta, fecha de última modificación ISO)
-ESPECIALES = [('elecciones-eeuu-2026', '2026-11-05T16:00:00-06:00')]
+ESPECIALES = [('paro-aereo-eeuu-2026', '2026-11-13T18:35:00-06:00'), ('elecciones-eeuu-2026', '2026-11-05T16:00:00-06:00')]
 MOM = {'es': {'premercado': 'Premercado', 'apertura': 'Apertura', 'mediodia': 'Mediodía', 'cierre': 'Cierre'},
        'en': {'premercado': 'Pre-market', 'apertura': 'Open', 'mediodia': 'Midday', 'cierre': 'Close'},
        'pt': {'premercado': 'Pré-mercado', 'apertura': 'Abertura', 'mediodia': 'Meio-dia', 'cierre': 'Fechamento'}}
@@ -262,7 +262,7 @@ def pagina_brief(b, prev_b, next_b):
   <meta name="theme-color" content="#163e86">
   <link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
   <meta name="apple-mobile-web-app-title" content="MSC México">
-  <link rel="stylesheet" href="../../news.css?v=20">
+  <link rel="stylesheet" href="../../news.css?v=21">
   <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
   <script src="../../art.js?v=1" defer></script>
   <script src="../../static.js?v=4" defer></script>
@@ -342,7 +342,7 @@ def pagina_archivo(lista):
   <meta name="theme-color" content="#163e86">
   <link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
   <meta name="apple-mobile-web-app-title" content="MSC México">
-  <link rel="stylesheet" href="../news.css?v=20">
+  <link rel="stylesheet" href="../news.css?v=21">
   <script src="../static.js?v=4" defer></script>
   <script src="../ui.js?v=2" defer></script>
 </head>
