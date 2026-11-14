@@ -58,6 +58,22 @@ def blk(d, tag='p', cls=''):
     return ''.join(f'<div data-lang="{l}"><{tag}{c}>{E(d[l])}</{tag}></div>' for l in LANGS)
 
 
+LEADS = ('Qué pasó.', 'Por qué importa.', 'Qué sigue.', 'What happened.', 'Why it matters.', 'What comes next.',
+         'O que aconteceu.', 'Por que importa.', 'O que vem.')
+
+
+def blk_lead(d):
+    out = []
+    for l in LANGS:
+        t = d[l]
+        lead = next((x for x in LEADS if t.startswith(x)), None)
+        if lead:
+            out.append(f'<div data-lang="{l}"><p><strong class="ex-lead">{E(lead)}</strong> {E(t[len(lead):].strip())}</p></div>')
+        else:
+            out.append(f'<div data-lang="{l}"><p>{E(t)}</p></div>')
+    return ''.join(out)
+
+
 def fuentes_html(keys):
     vis = [k for i, k in enumerate(keys) if k in F and k not in keys[:i]]
     return ' · '.join(f'<a href="{E(F[k][1])}" target="_blank" rel="noopener nofollow">{E(F[k][0])}</a>' for k in vis)
@@ -91,8 +107,8 @@ def bloque_estado():
     ess = (f'<aside class="nx-ess"><p class="nx-essh"><span class="ic">⏱</span>{sp(L("Lo esencial en 30 segundos", "The essentials in 30 seconds", "O essencial em 30 segundos"))}</p>'
            f'<ul>{"".join(f"<li>{sp(x)}</li>" for x in ESTADO["esencial"])}</ul></aside>')
     ps = ESTADO['parrafos']
-    pars = blk(ps[0]) + (f'<details class="nx-moreblk"><summary>{sp(L("Leer el análisis completo", "Read the full analysis", "Ler a análise completa"))}</summary>'
-                         f'{"".join(blk(p) for p in ps[1:])}</details>')
+    pars = blk_lead(ps[0]) + (f'<details class="nx-moreblk"><summary>{sp(L("Leer el análisis completo", "Read the full analysis", "Ler a análise completa"))}</summary>'
+                         f'{"".join(blk_lead(p) for p in ps[1:])}</details>')
     return f'<section class="ex-res" id="estado"><h2 class="nx-h2">{sp(ESTADO["titulo"])}</h2>{ess}<div class="nx-body ex-prose">{pars}</div><p class="ex-src">{fuentes_html(ESTADO["f"])}</p></section>'
 
 
@@ -347,6 +363,7 @@ CSS = r'''
 .ex-dv .b em{position:absolute;left:50%;top:-3px;bottom:-3px;width:1px;background:#15171b}
 .ex-dv .v{font-weight:700;font-variant-numeric:tabular-nums;text-align:right}
 .ex-ca{margin-top:22px}
+.ex-lead{font-weight:800;color:var(--accent);text-transform:uppercase;letter-spacing:.04em;font-size:.82em;margin-right:4px}
 @media (max-width:599px){.ex-dv li{grid-template-columns:minmax(0,8.5em) minmax(0,1fr) 4.4em;font-size:12.5px}}
 '''
 
