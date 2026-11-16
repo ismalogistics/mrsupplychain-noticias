@@ -6,16 +6,16 @@
  "hora": "15:15 CDMX",
  "fin_de_semana": true,
  "es": {
-  "titular": "El peso cierra la semana en 18.53, su mejor nivel en días; el IPC cae 0.87%",
+  "titular": "El peso cierra la semana en 18.53, su mejor nivel en días; el IPC cae 0.84%",
   "esencial": [
-   "A las 15:15 CDMX el peso estaba en 18.53 por dólar (−0.34% el dólar), su mejor nivel de la semana; el IPC cerró con −0.87% (71,186.69).",
+   "A las 15:15 CDMX el peso estaba en 18.53 por dólar (−0.34% el dólar), su mejor nivel de la semana; el IPC cerró con −0.84% (71,204.98).",
    "El FIX determinado por Banxico el jueves fue de 18.6188; el lunes 16 no hay FIX ni operan los bancos por el Día de la Revolución.",
    "Para el fin de semana: con el peso en 18.53, deja cubiertos los pagos en dólares de la próxima semana y revisa precios de insumos importados."
   ],
   "bloques": [
    {
     "t": "Qué pasó",
-    "x": "El S&P/BMV IPC cerró con −0.87% (71,186.69), según Yahoo Finance, después de bajar 0.48% a media sesión. A las 15:15 CDMX el peso cotizaba en 18.53 por dólar (−0.34% el dólar), su mejor nivel de la semana. El FIX determinado por Banxico el jueves fue de 18.6188."
+    "x": "El S&P/BMV IPC cerró con −0.84% (71,204.98), según Yahoo Finance, después de bajar 0.48% a media sesión. A las 15:15 CDMX el peso cotizaba en 18.53 por dólar (−0.34% el dólar), su mejor nivel de la semana. El FIX determinado por Banxico el jueves fue de 18.6188."
    },
    {
     "t": "Por qué",
@@ -33,16 +33,16 @@
   "scm": "Para el fin de semana: con el peso en 18.53, deja cubiertos los pagos en dólares de la próxima semana, porque el lunes no operan los bancos. Prepara aumentos de insumos importados: los precios al productor de EE. UU. subieron 6.5% anual."
  },
  "en": {
-  "titular": "The peso ends the week at 18.53, its best level in days; the IPC falls 0.87%",
+  "titular": "The peso ends the week at 18.53, its best level in days; the IPC falls 0.84%",
   "esencial": [
-   "At 3:15 p.m. Mexico City time the peso stood at 18.53 per dollar (dollar −0.34%), its best level of the week; the IPC closed −0.87% (71,186.69).",
+   "At 3:15 p.m. Mexico City time the peso stood at 18.53 per dollar (dollar −0.34%), its best level of the week; the IPC closed −0.84% (71,204.98).",
    "Thursday's FIX set by Banxico was 18.6188; on Monday the 16th there is no FIX and banks are closed for Revolution Day.",
    "For the weekend: with the peso at 18.53, cover next week's dollar payments and review imported input prices."
   ],
   "bloques": [
    {
     "t": "What happened",
-    "x": "The S&P/BMV IPC closed −0.87% (71,186.69), according to Yahoo Finance, after falling 0.48% at midday. At 3:15 p.m. Mexico City time the peso traded at 18.53 per dollar (dollar −0.34%), its best level of the week. The FIX set by Banxico on Thursday was 18.6188."
+    "x": "The S&P/BMV IPC closed −0.84% (71,204.98), according to Yahoo Finance, after falling 0.48% at midday. At 3:15 p.m. Mexico City time the peso traded at 18.53 per dollar (dollar −0.34%), its best level of the week. The FIX set by Banxico on Thursday was 18.6188."
    },
    {
     "t": "Why",
@@ -60,16 +60,16 @@
   "scm": "For the weekend: with the peso at 18.53, cover next week's dollar payments, since banks are closed Monday. Prepare for higher imported input costs: US producer prices rose 6.5% year over year."
  },
  "pt": {
-  "titular": "O peso fecha a semana a 18,53, seu melhor nível em dias; o IPC cai 0,87%",
+  "titular": "O peso fecha a semana a 18,53, seu melhor nível em dias; o IPC cai 0,84%",
   "esencial": [
-   "Às 15h15 (Cidade do México) o peso estava a 18,53 por dólar (dólar −0,34%), seu melhor nível da semana; o IPC fechou com −0,87% (71.186,69).",
+   "Às 15h15 (Cidade do México) o peso estava a 18,53 por dólar (dólar −0,34%), seu melhor nível da semana; o IPC fechou com −0,84% (71.204,98).",
    "O FIX definido pelo Banxico na quinta foi de 18,6188; na segunda, dia 16, não há FIX nem operam os bancos pelo Dia da Revolução.",
    "Para o fim de semana: com o peso a 18,53, deixe cobertos os pagamentos em dólares da próxima semana e revise os preços de insumos importados."
   ],
   "bloques": [
    {
     "t": "O que aconteceu",
-    "x": "O S&P/BMV IPC fechou com −0,87% (71.186,69), segundo o Yahoo Finance, depois de cair 0,48% no meio do pregão. Às 15h15 (Cidade do México) o peso era cotado a 18,53 por dólar (dólar −0,34%), seu melhor nível da semana. O FIX definido pelo Banxico na quinta foi de 18,6188."
+    "x": "O S&P/BMV IPC fechou com −0,84% (71.204,98), segundo o Yahoo Finance, depois de cair 0,48% no meio do pregão. Às 15h15 (Cidade do México) o peso era cotado a 18,53 por dólar (dólar −0,34%), seu melhor nível da semana. O FIX definido pelo Banxico na quinta foi de 18,6188."
    },
    {
     "t": "Por quê",

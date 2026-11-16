@@ -1,0 +1,91 @@
+{
+ "id": "2026-11-16-premercado-mexico",
+ "fecha": "2026-11-16",
+ "momento": "premercado",
+ "mercado": "mexico",
+ "hora": "05:07 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Hoy no opera la BMV por el Día de la Revolución; el peso amanece en 18.57",
+  "esencial": [
+   "La BMV y los bancos de México cierran hoy por el Día de la Revolución; no hay FIX de Banxico.",
+   "A las 5:07 CDMX el peso estaba en 18.57 por dólar, poco cambio frente a su cierre de 18.53 del viernes.",
+   "Para supply chain: con poca liquidez hoy, deja las compras de dólares para mañana y revisa los pagos que vencían hoy."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El viernes el S&P/BMV IPC cerró con −0.84% (71,204.98) y el peso en 18.53 por dólar, su mejor nivel de la semana. Hoy la BMV y los bancos cierran por el Día de la Revolución; el peso opera en el mercado internacional: a las 5:07 CDMX cotizaba en 18.57."
+   },
+   {
+    "t": "Contexto",
+    "x": "El dólar se fortalece (índice DXY +0.1%) y los chips vuelven a caer antes de los resultados de Nvidia. El mercado da por hecha un alza de la Fed en diciembre, lo que estrecha el diferencial con Banxico (6.25%)."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Sin operaciones en México, el peso puede moverse con poca liquidez si el discurso de Kevin Warsh, presidente de la Fed, sorprende. En la semana: Nvidia el martes, las minutas de la Fed el miércoles y Walmart el jueves, referencia para el consumo y para Walmex. El 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre."
+   }
+  ],
+  "scm": "Con los bancos cerrados y poca liquidez, deja las compras de dólares para mañana y confirma que los pagos que vencían hoy se hayan programado. Revisa con importadores los envíos que llegan esta semana."
+ },
+ "en": {
+  "titular": "The BMV is closed today for Revolution Day; the peso starts at 18.57",
+  "esencial": [
+   "The BMV and Mexican banks close today for Revolution Day; there is no Banxico FIX.",
+   "At 5:07 a.m. Mexico City time the peso was at 18.57 per dollar, little changed from Friday's 18.53 close.",
+   "For supply chain: with thin liquidity today, leave dollar purchases for tomorrow and review payments that were due today."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Friday the S&P/BMV IPC closed −0.84% (71,204.98) and the peso at 18.53 per dollar, its best level of the week. Today the BMV and banks close for Revolution Day; the peso trades in the international market: at 5:07 a.m. Mexico City time it was at 18.57."
+   },
+   {
+    "t": "Context",
+    "x": "The dollar firms (DXY +0.1%) and chips fall again ahead of Nvidia results. The market takes a December Fed hike for granted, narrowing the gap with Banxico (6.25%)."
+   },
+   {
+    "t": "What to expect today",
+    "x": "With no trading in Mexico, the peso may move on thin liquidity if Fed Chair Kevin Warsh's speech surprises. This week: Nvidia on Tuesday, Fed minutes on Wednesday and Walmart on Thursday, a gauge of consumption and of Walmex. On November 24 INEGI publishes first-half November inflation."
+   }
+  ],
+  "scm": "With banks closed and thin liquidity, leave dollar purchases for tomorrow and confirm that payments due today were scheduled. Review shipments arriving this week with importers."
+ },
+ "pt": {
+  "titular": "Hoje a BMV não opera pelo Dia da Revolução; o peso amanhece a 18,57",
+  "esencial": [
+   "A BMV e os bancos do México fecham hoje pelo Dia da Revolução; não há FIX do Banxico.",
+   "Às 5h07 (Cidade do México) o peso estava a 18,57 por dólar, pouca variação frente ao fechamento de 18,53 de sexta.",
+   "Para supply chain: com pouca liquidez hoje, deixe as compras de dólares para amanhã e revise os pagamentos que venciam hoje."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na sexta o S&P/BMV IPC fechou com −0,84% (71.204,98) e o peso a 18,53 por dólar, seu melhor nível da semana. Hoje a BMV e os bancos fecham pelo Dia da Revolução; o peso opera no mercado internacional: às 5h07 (Cidade do México) estava a 18,57."
+   },
+   {
+    "t": "Contexto",
+    "x": "O dólar se fortalece (DXY +0,1%) e os chips voltam a cair antes dos resultados da Nvidia. O mercado dá como certa uma alta do Fed em dezembro, o que estreita o diferencial com o Banxico (6,25%)."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Sem operações no México, o peso pode se mover com pouca liquidez se o discurso de Kevin Warsh, presidente do Fed, surpreender. Na semana: Nvidia na terça, as atas do Fed na quarta e Walmart na quinta, referência para o consumo e para o Walmex. Em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro."
+   }
+  ],
+  "scm": "Com os bancos fechados e pouca liquidez, deixe as compras de dólares para amanhã e confirme que os pagamentos que venciam hoje foram programados. Revise com os importadores os envios que chegam nesta semana."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), cierre del 13 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (16 nov 2026, 05:07 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Reuters vía Yahoo Finance: futuros del S&P 500 y Nasdaq bajan antes de Nvidia y del debut de Anthropic (16 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-slide-104351968.html"
+  }
+ ]
+}

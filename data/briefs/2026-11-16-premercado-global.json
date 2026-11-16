@@ -1,0 +1,99 @@
+{
+ "id": "2026-11-16-premercado-global",
+ "fecha": "2026-11-16",
+ "momento": "premercado",
+ "mercado": "global",
+ "hora": "05:07 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Los chips vuelven a caer antes de Nvidia: los futuros del Nasdaq bajan 1% y el KOSPI se hunde 3.6%",
+  "esencial": [
+   "A las 5:08 de Nueva York los futuros del Nasdaq 100 bajaban 0.97% y los del S&P 500 0.36%; Nvidia caía 2.2% antes de la apertura, tras su racha semanal de caídas más larga desde 2012.",
+   "Asia cerró a la baja: KOSPI −3.59% y Nikkei −2.42%; la economía de Japón se estancó en el tercer trimestre por el petróleo caro.",
+   "Para supply chain: semana de alto riesgo para la electrónica (Nvidia el martes, Anthropic más adelante) y nuevos reportes de tanqueros dañados en Ormuz."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El viernes el S&P 500 cerró con −0.40% y el Nasdaq con −0.91%, aunque los índices ganaron en la semana. El fin de semana, la Guardia Revolucionaria de Irán dijo que seis tanqueros se incendiaron el domingo y el lunes en el estrecho de Ormuz y que dos más chocaron con minas; Reuters no pudo confirmarlo. El Financial Times reportó que Jensen Huang considera regresar como director de Nvidia, lo que aumenta la incertidumbre antes de sus resultados del martes. En Japón, el PIB del tercer trimestre quedó prácticamente sin cambio frente al anterior (se esperaba +0.1%), golpeado por el petróleo caro y el yen débil."
+   },
+   {
+    "t": "Asia, Europa y futuros",
+    "x": "Asia cerró a la baja: KOSPI −3.59% (5,100.50), Nikkei −2.42% (59,662.02) y Shanghái −0.87%; Hang Seng +0.49%. A las 4:52 CDMX Europa estaba mixta: Euro Stoxx 50 −0.23%, DAX −0.18%, CAC 40 +0.07% y FTSE 100 +0.26%. A las 5:08 de Nueva York los futuros del Nasdaq 100 bajaban 0.97%, los del S&P 500 0.36% y los del Dow subían 0.02%; antes de la apertura, Intel, AMD, Broadcom y Micron perdían entre 3.5% y 5%, según Reuters. El WTI estaba en 88.44 dólares (−0.1%), el Brent en 95.50 (−0.4%), el oro en 3,875 (−0.3%), la plata caía 3.0%, el cobre 0.9% (6.04 dólares por libra) y el bitcoin bajaba a 64,556."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Habla el presidente de la Fed, Kevin Warsh, en San Francisco, y también Beth Hammack, de la Fed de Cleveland. El mercado descuenta por completo un alza de la Fed en diciembre; la de medio punto tiene cerca de 8%, según CME FedWatch. En la semana: Nvidia el martes después del cierre, las minutas de la Fed el miércoles, Walmart el jueves, el debut en bolsa de Anthropic y las pláticas entre Trump y Xi Jinping. Hoy la BMV y los bancos de México cierran por el Día de la Revolución."
+   }
+  ],
+  "scm": "Con los chips otra vez a la baja y Nvidia sin director confirmado, confirma hoy pedidos y fechas de GPU, memoria y servidores; Dell y HP también caen antes de la apertura. Los reportes de tanqueros dañados en Ormuz mantienen caras las tarifas de buques: revisa recargos de flete marítimo de Asia y Medio Oriente."
+ },
+ "en": {
+  "titular": "Chips fall again ahead of Nvidia: Nasdaq futures drop 1% and the KOSPI sinks 3.6%",
+  "esencial": [
+   "At 5:08 a.m. ET Nasdaq 100 futures were down 0.97% and S&P 500 futures 0.36%; Nvidia fell 2.2% premarket after its longest weekly losing streak since 2012.",
+   "Asia closed lower: KOSPI −3.59% and Nikkei −2.42%; Japan's economy stalled in the third quarter on expensive oil.",
+   "For supply chain: a high-risk week for electronics (Nvidia on Tuesday, Anthropic later) and new reports of damaged tankers in Hormuz."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Friday the S&P 500 closed −0.40% and the Nasdaq −0.91%, though the indexes gained on the week. Over the weekend, Iran's Revolutionary Guards said six tankers caught fire on Sunday and Monday in the Strait of Hormuz and two more hit mines; Reuters could not confirm it. The Financial Times reported that Jensen Huang is considering a return as Nvidia CEO, adding to uncertainty ahead of Tuesday's results. In Japan, third-quarter GDP was virtually flat from the prior quarter (0.1% growth expected), hit by expensive oil and a weak yen."
+   },
+   {
+    "t": "Asia, Europe and futures",
+    "x": "Asia closed lower: KOSPI −3.59% (5,100.50), Nikkei −2.42% (59,662.02) and Shanghai −0.87%; Hang Seng +0.49%. At 5:52 a.m. ET Europe was mixed: Euro Stoxx 50 −0.23%, DAX −0.18%, CAC 40 +0.07% and FTSE 100 +0.26%. At 5:08 a.m. ET Nasdaq 100 futures were down 0.97%, S&P 500 futures 0.36% and Dow futures up 0.02%; premarket, Intel, AMD, Broadcom and Micron lost between 3.5% and 5%, according to Reuters. WTI was at $88.44 (−0.1%), Brent at $95.50 (−0.4%), gold at $3,875 (−0.3%), silver fell 3.0%, copper 0.9% ($6.04 per pound) and bitcoin dropped to $64,556."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Fed Chair Kevin Warsh speaks in San Francisco, as does Cleveland Fed President Beth Hammack. The market fully prices a December Fed hike; a half-point move has about 8%, according to CME FedWatch. This week: Nvidia on Tuesday after the close, Fed minutes on Wednesday, Walmart on Thursday, Anthropic's market debut and talks between Trump and Xi Jinping. Today the BMV and Mexican banks close for Revolution Day."
+   }
+  ],
+  "scm": "With chips falling again and Nvidia without a confirmed CEO, confirm GPU, memory and server orders and dates today; Dell and HP also fall premarket. Reports of damaged tankers in Hormuz keep ship rates high: review ocean freight surcharges from Asia and the Middle East."
+ },
+ "pt": {
+  "titular": "Os chips voltam a cair antes da Nvidia: os futuros do Nasdaq caem 1% e o KOSPI afunda 3,6%",
+  "esencial": [
+   "Às 5h08 de Nova York os futuros do Nasdaq 100 caíam 0,97% e os do S&P 500 0,36%; a Nvidia caía 2,2% no pré-mercado, após sua maior sequência semanal de quedas desde 2012.",
+   "A Ásia fechou em queda: KOSPI −3,59% e Nikkei −2,42%; a economia do Japão estagnou no terceiro trimestre pelo petróleo caro.",
+   "Para supply chain: semana de alto risco para a eletrônica (Nvidia na terça, Anthropic depois) e novos relatos de petroleiros danificados em Ormuz."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na sexta o S&P 500 fechou com −0,40% e o Nasdaq com −0,91%, embora os índices tenham ganhado na semana. No fim de semana, a Guarda Revolucionária do Irã disse que seis petroleiros pegaram fogo no domingo e na segunda no estreito de Ormuz e que outros dois atingiram minas; a Reuters não conseguiu confirmar. O Financial Times informou que Jensen Huang considera voltar como CEO da Nvidia, o que aumenta a incerteza antes dos resultados de terça. No Japão, o PIB do terceiro trimestre ficou praticamente estável frente ao anterior (esperava-se +0,1%), afetado pelo petróleo caro e pelo iene fraco."
+   },
+   {
+    "t": "Ásia, Europa e futuros",
+    "x": "A Ásia fechou em queda: KOSPI −3,59% (5.100,50), Nikkei −2,42% (59.662,02) e Xangai −0,87%; Hang Seng +0,49%. Às 4h52 (Cidade do México) a Europa estava mista: Euro Stoxx 50 −0,23%, DAX −0,18%, CAC 40 +0,07% e FTSE 100 +0,26%. Às 5h08 de Nova York os futuros do Nasdaq 100 caíam 0,97%, os do S&P 500 0,36% e os do Dow subiam 0,02%; no pré-mercado, Intel, AMD, Broadcom e Micron perdiam entre 3,5% e 5%, segundo a Reuters. O WTI estava a 88,44 dólares (−0,1%), o Brent a 95,50 (−0,4%), o ouro a 3.875 (−0,3%), a prata caía 3,0%, o cobre 0,9% (6,04 dólares por libra) e o bitcoin caía para 64.556."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Fala o presidente do Fed, Kevin Warsh, em San Francisco, e também Beth Hammack, do Fed de Cleveland. O mercado precifica totalmente uma alta do Fed em dezembro; a de meio ponto tem cerca de 8%, segundo o CME FedWatch. Na semana: Nvidia na terça após o fechamento, as atas do Fed na quarta, Walmart na quinta, a estreia na bolsa da Anthropic e as conversas entre Trump e Xi Jinping. Hoje a BMV e os bancos do México fecham pelo Dia da Revolução."
+   }
+  ],
+  "scm": "Com os chips caindo de novo e a Nvidia sem CEO confirmado, confirme hoje pedidos e datas de GPUs, memória e servidores; Dell e HP também caem no pré-mercado. Os relatos de petroleiros danificados em Ormuz mantêm altas as tarifas de navios: revise as sobretaxas de frete marítimo da Ásia e do Oriente Médio."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters vía Yahoo Finance: futuros del S&P 500 y Nasdaq bajan antes de Nvidia y del debut de Anthropic (16 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-slide-104351968.html"
+  },
+  {
+   "t": "Offshore Technology vía Yahoo Finance: el petróleo sube por reportes de incidentes en Ormuz (16 nov 2026)",
+   "u": "https://finance.yahoo.com/news/oil-prices-edge-reported-hormuz-103523652.html"
+  },
+  {
+   "t": "Euronews vía Yahoo Finance: la economía de Japón se estanca en el tercer trimestre (16 nov 2026)",
+   "u": "https://finance.yahoo.com/economy/articles/japan-economy-stalls-inflation-weighs-101413786.html"
+  },
+  {
+   "t": "Earnings Whispers: calendario de resultados, semana del 16 de noviembre de 2026",
+   "u": "https://www.earningswhispers.com/calweek/20261116"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (16 nov 2026, 05:07 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "id": "2026-11-16-premercado-latam",
+ "fecha": "2026-11-16",
+ "momento": "premercado",
+ "mercado": "latam",
+ "hora": "05:07 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "La región arranca con los chips y el cobre a la baja; SQM reporta el martes",
+  "esencial": [
+   "El viernes el Ibovespa cerró con +0.66% (172,457.77) y el S&P/TSX con −0.09%.",
+   "En la madrugada el cobre baja 0.9% (6.04 dólares por libra) y el peso chileno está en 996 por dólar; el real se aprecia a 5.64.",
+   "Cotiza insumos de cobre con el precio a la baja y revisa el reporte de SQM del martes si compras litio en Chile."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El viernes el Ibovespa cerró con +0.66% (172,457.77) y el S&P/TSX con −0.09% (36,105.90). A las 5:07 CDMX el peso chileno estaba en 996.4 por dólar (+0.23% el dólar), el real en 5.64 (−0.46%) y el peso colombiano en 3,302.5."
+   },
+   {
+    "t": "Contexto",
+    "x": "La caída de los chips y la debilidad de Asia (KOSPI −3.59%) enfrían el apetito por riesgo. El cobre baja 0.9% y el crudo se mantiene cerca de 95.50 dólares (Brent), con reportes de nuevos incidentes en Ormuz."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Hoy no opera México. En la semana, el martes reporta SQM, clave para el litio de Chile, y las minutas de la Fed del miércoles pueden mover a las monedas de la región."
+   }
+  ],
+  "scm": "Cotiza cable e insumos de cobre con el precio a la baja y escalona los pagos en pesos chilenos. Si compras litio o químicos en Chile, espera el reporte de SQM del martes antes de negociar."
+ },
+ "en": {
+  "titular": "The region starts with chips and copper lower; SQM reports Tuesday",
+  "esencial": [
+   "On Friday the Ibovespa closed +0.66% (172,457.77) and the S&P/TSX −0.09%.",
+   "Overnight copper falls 0.9% ($6.04 per pound) and the Chilean peso is at 996 per dollar; the real firms to 5.64.",
+   "Quote copper inputs while the price dips and review SQM's Tuesday report if you buy lithium in Chile."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Friday the Ibovespa closed +0.66% (172,457.77) and the S&P/TSX −0.09% (36,105.90). At 5:07 a.m. Mexico City time the Chilean peso was at 996.4 per dollar (dollar +0.23%), the real at 5.64 (−0.46%) and the Colombian peso at 3,302.5."
+   },
+   {
+    "t": "Context",
+    "x": "The chip selloff and weakness in Asia (KOSPI −3.59%) cool risk appetite. Copper falls 0.9% and crude holds near $95.50 (Brent), with reports of new incidents in Hormuz."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Mexico is closed today. This week, SQM, key for Chile's lithium, reports on Tuesday, and Wednesday's Fed minutes may move the region's currencies."
+   }
+  ],
+  "scm": "Quote cable and copper inputs while prices dip and stagger payments in Chilean pesos. If you buy lithium or chemicals in Chile, wait for SQM's Tuesday report before negotiating."
+ },
+ "pt": {
+  "titular": "A região começa com chips e cobre em queda; a SQM divulga resultados na terça",
+  "esencial": [
+   "Na sexta o Ibovespa fechou com +0,66% (172.457,77) e o S&P/TSX com −0,09%.",
+   "Na madrugada o cobre cai 0,9% (6,04 dólares por libra) e o peso chileno está em 996 por dólar; o real se valoriza para R$ 5,64.",
+   "Cote insumos de cobre com o preço em queda e acompanhe o resultado da SQM de terça se você compra lítio no Chile."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na sexta o Ibovespa fechou com +0,66% (172.457,77) e o S&P/TSX com −0,09% (36.105,90). Às 5h07 (Cidade do México) o peso chileno estava em 996,4 por dólar (dólar +0,23%), o dólar em R$ 5,64 (−0,46%) e o peso colombiano em 3.302,5."
+   },
+   {
+    "t": "Contexto",
+    "x": "A queda dos chips e a fraqueza da Ásia (KOSPI −3,59%) esfriam o apetite por risco. O cobre cai 0,9% e o petróleo se mantém perto de 95,50 dólares (Brent), com relatos de novos incidentes em Ormuz."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Hoje o México não opera. Na semana, a SQM, chave para o lítio do Chile, divulga resultados na terça, e as atas do Fed de quarta podem mexer com as moedas da região."
+   }
+  ],
+  "scm": "Cote cabos e insumos de cobre com o preço em queda e escalone os pagamentos em pesos chilenos. Se você compra lítio ou químicos no Chile, espere o resultado da SQM de terça antes de negociar."
+ },
+ "fuentes": [
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América (cierres del 13 nov)",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (16 nov 2026, 05:07 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Earnings Whispers: calendario de resultados, semana del 16 de noviembre de 2026",
+   "u": "https://www.earningswhispers.com/calweek/20261116"
+  }
+ ]
+}

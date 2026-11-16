@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-16-premercado-global",
+   "fecha": "2026-11-16",
+   "momento": "premercado",
+   "mercado": "global",
+   "titular_es": "Los chips vuelven a caer antes de Nvidia: los futuros del Nasdaq bajan 1% y el KOSPI se hunde 3.6%",
+   "titular_en": "Chips fall again ahead of Nvidia: Nasdaq futures drop 1% and the KOSPI sinks 3.6%",
+   "titular_pt": "Os chips voltam a cair antes da Nvidia: os futuros do Nasdaq caem 1% e o KOSPI afunda 3,6%"
+  },
+  {
+   "id": "2026-11-16-premercado-latam",
+   "fecha": "2026-11-16",
+   "momento": "premercado",
+   "mercado": "latam",
+   "titular_es": "La región arranca con los chips y el cobre a la baja; SQM reporta el martes",
+   "titular_en": "The region starts with chips and copper lower; SQM reports Tuesday",
+   "titular_pt": "A região começa com chips e cobre em queda; a SQM divulga resultados na terça"
+  },
+  {
+   "id": "2026-11-16-premercado-mexico",
+   "fecha": "2026-11-16",
+   "momento": "premercado",
+   "mercado": "mexico",
+   "titular_es": "Hoy no opera la BMV por el Día de la Revolución; el peso amanece en 18.57",
+   "titular_en": "The BMV is closed today for Revolution Day; the peso starts at 18.57",
+   "titular_pt": "Hoje a BMV não opera pelo Dia da Revolução; o peso amanhece a 18,57"
+  },
+  {
    "id": "2026-11-13-cierre-global",
    "fecha": "2026-11-13",
    "momento": "cierre",
@@ -23,9 +50,9 @@
    "fecha": "2026-11-13",
    "momento": "cierre",
    "mercado": "mexico",
-   "titular_es": "El peso cierra la semana en 18.53, su mejor nivel en días; el IPC cae 0.87%",
-   "titular_en": "The peso ends the week at 18.53, its best level in days; the IPC falls 0.87%",
-   "titular_pt": "O peso fecha a semana a 18,53, seu melhor nível em dias; o IPC cai 0,87%"
+   "titular_es": "El peso cierra la semana en 18.53, su mejor nivel en días; el IPC cae 0.84%",
+   "titular_en": "The peso ends the week at 18.53, its best level in days; the IPC falls 0.84%",
+   "titular_pt": "O peso fecha a semana a 18,53, seu melhor nível em dias; o IPC cai 0,84%"
   },
   {
    "id": "2026-11-13-mediodia-global",
@@ -782,33 +809,6 @@
    "titular_es": "El peso cierra en 18.57 por dólar (+1.4%) y recupera lo perdido el martes; el IPC sube 0.6% antes de Banxico",
    "titular_en": "The peso closes at 18.57 per dollar (+1.4%) and recovers Tuesday's loss; the IPC rises 0.6% ahead of Banxico",
    "titular_pt": "O peso fecha a 18,57 por dólar (+1,4%) e recupera a perda de terça; o IPC sobe 0,6% antes do Banxico"
-  },
-  {
-   "id": "2026-11-04-mediodia-global",
-   "fecha": "2026-11-04",
-   "momento": "mediodia",
-   "mercado": "global",
-   "titular_es": "El rally se amplía a media sesión: el S&P 500 sube 1.8% y el Dow más de 1,200 puntos; el ISM de servicios muestra entregas más lentas",
-   "titular_en": "The rally widens at midday: the S&P 500 rises 1.8% and the Dow over 1,200 points; ISM services shows slower deliveries",
-   "titular_pt": "A alta se amplia no meio da sessão: o S&P 500 sobe 1,8% e o Dow mais de 1.200 pontos; o ISM de serviços mostra entregas mais lentas"
-  },
-  {
-   "id": "2026-11-04-mediodia-latam",
-   "fecha": "2026-11-04",
-   "momento": "mediodia",
-   "mercado": "latam",
-   "titular_es": "Toda América Latina en verde a media sesión: Chile +3.3%, Perú y Colombia cerca de 2% y el Ibovespa +0.7% antes del Copom",
-   "titular_en": "All of Latin America in the green at midday: Chile +3.3%, Peru and Colombia near 2% and the Ibovespa +0.7% before Copom",
-   "titular_pt": "Toda a América Latina no verde no meio da sessão: Chile +3,3%, Peru e Colômbia perto de 2% e o Ibovespa +0,7% antes do Copom"
-  },
-  {
-   "id": "2026-11-04-mediodia-mexico",
-   "fecha": "2026-11-04",
-   "momento": "mediodia",
-   "mercado": "mexico",
-   "titular_es": "El peso se fortalece a 18.62 por dólar con el dólar débil; Banxico decide mañana",
-   "titular_en": "The peso strengthens to 18.62 per dollar on a weak dollar; Banxico decides tomorrow",
-   "titular_pt": "O peso se fortalece a 18,62 por dólar com o dólar fraco; o Banxico decide amanhã"
   }
  ]
 }
