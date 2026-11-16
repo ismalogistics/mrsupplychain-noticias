@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-16T15:12:04Z",
+ "actualizado": "2026-11-16T17:39:38Z",
  "fecha": "2026-11-16",
  "titular": {
-  "es": "Lunes: los chips se desploman antes de Nvidia, el crudo baja 2% y siguen los incidentes en Ormuz",
-  "en": "Monday: chips plunge ahead of Nvidia, crude falls 2% and Hormuz incidents continue",
-  "pt": "Segunda: os chips despencam antes da Nvidia, o petróleo cai 2% e seguem os incidentes em Ormuz"
+  "es": "Mediodía: la venta en chips se sostiene, Intel enfrenta una demanda y el diésel cae 3%",
+  "en": "Midday: the chip sell-off holds, Intel faces a lawsuit and diesel falls 3%",
+  "pt": "Meio-dia: a venda em chips se mantém, a Intel enfrenta uma ação e o diesel cai 3%"
  },
  "items": [
   {
@@ -17,14 +17,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Los chips se desploman: Micron −7.6%, Intel −6.3%, Broadcom −5.2% y Taiwán −6%",
-    "en": "Chips plunge: Micron −7.6%, Intel −6.3%, Broadcom −5.2% and Taiwan −6%",
-    "pt": "Os chips despencam: Micron −7,6%, Intel −6,3%, Broadcom −5,2% e Taiwan −6%"
+    "es": "Intel cae 6.8% por una demanda colectiva; TSMC −5.6% y Nvidia −3.5%",
+    "en": "Intel falls 6.8% on a class action; TSMC −5.6% and Nvidia −3.5%",
+    "pt": "A Intel cai 6,8% por uma ação coletiva; TSMC −5,6% e Nvidia −3,5%"
    },
    "x": {
-    "es": "A las 9:08 CDMX Micron caía 7.6%, Intel 6.3%, Broadcom 5.2%, AMD 4.8% y Nvidia 2.5%, tras la caída de 6% de la bolsa de Taiwán. El Departamento de Comercio endurece el control al acceso de China a cómputo por terceros países, y el secretario del Tesoro pidió un director externo para Nvidia, que reporta el martes 17.",
-    "en": "At 10:08 a.m. ET Micron was down 7.6%, Intel 6.3%, Broadcom 5.2%, AMD 4.8% and Nvidia 2.5%, after Taiwan's stock market fell 6%. The Commerce Department is tightening China's access to computing power through third countries, and the Treasury Secretary called for an outside CEO at Nvidia, which reports on Tuesday the 17th.",
-    "pt": "Às 9h08 (Cidade do México) a Micron caía 7,6%, a Intel 6,3%, a Broadcom 5,2%, a AMD 4,8% e a Nvidia 2,5%, depois da queda de 6% da bolsa de Taiwan. O Departamento de Comércio endurece o controle do acesso da China a computação por terceiros países, e o secretário do Tesouro pediu um CEO de fora para a Nvidia, que divulga resultados na terça, dia 17."
+    "es": "A las 11:37 CDMX Intel caía 6.8%, Micron 6.2%, TSMC 5.6%, AMD 5.0% y Nvidia 3.5%. Accionistas de Intel presentaron una demanda colectiva que la acusa de ocultar que límites de abasto le impidieron atender la demanda de centros de datos. Trump respaldó el regreso de Jensen Huang a Nvidia, que reporta el martes 17.",
+    "en": "At 12:37 p.m. ET Intel was down 6.8%, Micron 6.2%, TSMC 5.6%, AMD 5.0% and Nvidia 3.5%. Intel shareholders filed a class action accusing the company of hiding that supply limits kept it from meeting data center demand. Trump backed Jensen Huang's return to Nvidia, which reports on Tuesday the 17th.",
+    "pt": "Às 11h37 (Cidade do México) a Intel caía 6,8%, a Micron 6,2%, a TSMC 5,6%, a AMD 5,0% e a Nvidia 3,5%. Acionistas da Intel entraram com uma ação coletiva que a acusa de esconder que limites de abastecimento a impediram de atender a demanda de data centers. Trump apoiou a volta de Jensen Huang à Nvidia, que divulga resultados na terça, dia 17."
    },
    "scm": {
     "es": "Confirma hoy pedidos, fechas y precios de GPU, memoria y servidores, y revisa si algún proveedor depende de rutas por terceros países.",
@@ -33,16 +33,16 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance AlphaCheck: los chips caen por las restricciones de EE. UU. (16 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/article/copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-150019770.html"
-    },
-    {
-     "t": "24/7 Wall St.: Nvidia cae 4%, AMD 6% y TSMC 5% antes de los resultados (16 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-4-ahead-earnings-141051719.html"
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan antes de una semana clave para la IA (16 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
     },
     {
      "t": "AFP: las tecnológicas caen antes de los resultados de Nvidia y la salida a bolsa de Anthropic (16 nov 2026)",
      "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-extend-losses-traders-digest-030006305.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 11:37 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
@@ -56,14 +56,14 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo cae 2%: la AIE prevé superávit, pero el diésel sigue cerca de 6 dólares",
-    "en": "Crude falls 2%: the IEA sees a surplus, but diesel stays near $6",
-    "pt": "O petróleo cai 2%: a AIE prevê superávit, mas o diesel segue perto de 6 dólares"
+    "es": "El crudo amplía su caída: Brent −2.7% a 93.24 dólares y diésel −3.1%",
+    "en": "Crude extends its drop: Brent −2.7% to $93.24 and diesel −3.1%",
+    "pt": "O petróleo amplia a queda: Brent −2,7% para 93,24 dólares e diesel −3,1%"
    },
    "x": {
-    "es": "A las 8:58 CDMX el WTI estaba en 86.95 dólares (−1.8%) y el Brent en 93.70 (−2.2%). La Agencia Internacional de Energía prevé una oferta de 105 millones de barriles diarios en el cuarto trimestre, 1.7 millones arriba de la demanda; aun así, el diésel en EE. UU. promedia cerca de 6 dólares por galón y en Europa sigue 77% arriba de antes de la guerra.",
-    "en": "At 9:58 a.m. ET WTI was at $86.95 (−1.8%) and Brent at $93.70 (−2.2%). The International Energy Agency sees supply of 105 million barrels a day in the fourth quarter, 1.7 million above demand; even so, US diesel averages about $6 a gallon and in Europe remains 77% above pre-war levels.",
-    "pt": "Às 8h58 (Cidade do México) o WTI estava a 86,95 dólares (−1,8%) e o Brent a 93,70 (−2,2%). A Agência Internacional de Energia prevê oferta de 105 milhões de barris por dia no quarto trimestre, 1,7 milhão acima da demanda; mesmo assim, o diesel nos EUA tem média perto de 6 dólares por galão e na Europa segue 77% acima do nível pré-guerra."
+    "es": "A las 11:27 CDMX el Brent estaba en 93.24 dólares (−2.7%), el WTI en 86.27 (−2.6%) y el futuro del diésel en 4.04 dólares por galón (−3.1%). La Agencia Internacional de Energía prevé una oferta 1.7 millones de barriles diarios arriba de la demanda en el cuarto trimestre, y el tránsito por Ormuz sigue recuperándose.",
+    "en": "At 12:27 p.m. ET Brent was at $93.24 (−2.7%), WTI at $86.27 (−2.6%) and diesel futures at $4.04 a gallon (−3.1%). The International Energy Agency sees supply 1.7 million barrels a day above demand in the fourth quarter, and traffic through Hormuz keeps recovering.",
+    "pt": "Às 11h27 (Cidade do México) o Brent estava a 93,24 dólares (−2,7%), o WTI a 86,27 (−2,6%) e o futuro do diesel a 4,04 dólares por galão (−3,1%). A Agência Internacional de Energia prevê oferta 1,7 milhão de barris por dia acima da demanda no quarto trimestre, e o trânsito por Ormuz segue se recuperando."
    },
    "scm": {
     "es": "Calcula los recargos de combustible con el diésel, no con el crudo, y pide que se ajusten cada semana.",
@@ -76,7 +76,11 @@
      "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-markets-weigh-142928576.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan antes de una semana clave para la IA (16 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 11:37 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -153,14 +157,14 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "La plata cae 4.1% y el cobre 0.7% a 6.05 dólares",
-    "en": "Silver falls 4.1% and copper 0.7% to $6.05",
-    "pt": "A prata cai 4,1% e o cobre 0,7% para 6,05 dólares"
+    "es": "La plata cae 4.2% y el cobre amplía su baja a 1.2% (6.02 dólares)",
+    "en": "Silver falls 4.2% and copper extends its drop to 1.2% ($6.02)",
+    "pt": "A prata cai 4,2% e o cobre amplia a queda para 1,2% (6,02 dólares)"
    },
    "x": {
-    "es": "A las 8:58 CDMX la plata estaba en 47.10 dólares por onza (−4.1%), el cobre en 6.05 dólares por libra (−0.7%) y el oro en 3,884 (−0.1%), con la aversión al riesgo global.",
-    "en": "At 9:58 a.m. ET silver was at $47.10 an ounce (−4.1%), copper at $6.05 per pound (−0.7%) and gold at $3,884 (−0.1%), amid global risk aversion.",
-    "pt": "Às 8h58 (Cidade do México) a prata estava a 47,10 dólares por onça (−4,1%), o cobre a 6,05 dólares por libra (−0,7%) e o ouro a 3.884 (−0,1%), com a aversão global ao risco."
+    "es": "A las 11:27 CDMX la plata estaba en 47.07 dólares por onza (−4.2%), el cobre en 6.02 dólares por libra (−1.2%) y el oro en 3,871 (−0.4%), con la aversión al riesgo global.",
+    "en": "At 12:27 p.m. ET silver was at $47.07 an ounce (−4.2%), copper at $6.02 per pound (−1.2%) and gold at $3,871 (−0.4%), amid global risk aversion.",
+    "pt": "Às 11h27 (Cidade do México) a prata estava a 47,07 dólares por onça (−4,2%), o cobre a 6,02 dólares por libra (−1,2%) e o ouro a 3.871 (−0,4%), com a aversão global ao risco."
    },
    "scm": {
     "es": "Cotiza cable, conectores e insumos de cobre mientras el precio baja.",

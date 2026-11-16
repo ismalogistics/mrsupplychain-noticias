@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-16-mediodia-global",
+ "fecha": "2026-11-16",
+ "momento": "mediodia",
+ "mercado": "global",
+ "hora": "11:37 CDMX",
+ "es": {
+  "titular": "La venta en tecnología se sostiene: el Nasdaq cae 2%, el Dow 0.9% e Intel enfrenta una demanda colectiva",
+  "esencial": [
+   "A las 11:37 CDMX el S&P 500 bajaba 1.46%, el Nasdaq 2.03% y el Dow 0.90%; Intel caía 6.8%, TSMC 5.6%, AMD 5.0% y Nvidia 3.5%.",
+   "Trump respaldó el regreso de Jensen Huang a Nvidia, que reporta el martes; Intel enfrenta una demanda de accionistas por ocultar límites de abasto en centros de datos.",
+   "Para supply chain: el diésel cae 3% a 4.04 dólares por galón en futuros; pide que los recargos bajen con él y confirma pedidos de chips antes del martes."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el Nasdaq caía 2% por la venta en chips antes del reporte de Nvidia del martes y el endurecimiento del control a las exportaciones de chips de IA; el crudo bajaba 2% por el superávit que prevé la Agencia Internacional de Energía."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:37 CDMX el S&P 500 estaba en 7,451.40 (−1.46%), el Nasdaq en 24,626.38 (−2.03%) y el Dow en 51,878.44 (−0.90%); el VIX subía 11% a 21.43. Intel caía 6.8%, Micron 6.2%, TSMC 5.6%, AMD 5.0%, Broadcom 3.8% y Nvidia 3.5% (157.14 dólares). Europa cerró a la baja: Euro Stoxx 50 −0.60% y DAX −0.57%. El Treasury a 10 años estaba en 5.13%. El WTI caía 2.6% a 86.27 dólares, el Brent 2.7% a 93.24 y el futuro del diésel 3.1% a 4.04 dólares por galón; el oro estaba en 3,871 (−0.4%) y el cobre en 6.02 (−1.2%)."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "La caída se extendió a industriales: el Dow pasó de −0.5% a −0.9%. Trump respaldó públicamente el regreso de Jensen Huang como director de Nvidia. Intel enfrenta una demanda colectiva de accionistas que acusan a la empresa de ocultar que límites de abasto le impidieron atender la demanda de centros de datos. Llegó un tercer portaaviones de EE. UU. a Medio Oriente, mientras el tránsito por Ormuz sigue recuperándose."
+   }
+  ],
+  "scm": "Con el diésel en futuros a 4.04 dólares por galón (−3.1%), pide a tus transportistas que el recargo de combustible baje con él en la próxima revisión semanal. La venta en chips sigue: confirma pedidos y fechas de GPU, memoria y servidores antes del reporte de Nvidia del martes."
+ },
+ "en": {
+  "titular": "The tech sell-off holds: the Nasdaq falls 2%, the Dow 0.9% and Intel faces a class action",
+  "esencial": [
+   "At 12:37 p.m. ET the S&P 500 was down 1.46%, the Nasdaq 2.03% and the Dow 0.90%; Intel fell 6.8%, TSMC 5.6%, AMD 5.0% and Nvidia 3.5%.",
+   "Trump backed Jensen Huang's return to Nvidia, which reports on Tuesday; Intel faces a shareholder lawsuit over hiding supply limits in data centers.",
+   "For supply chain: diesel futures fall 3% to $4.04 a gallon; ask for surcharges to come down with it and confirm chip orders before Tuesday."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the Nasdaq was down 2% on the chip sell-off ahead of Nvidia's Tuesday report and tighter export controls on AI chips; crude fell 2% on the surplus the International Energy Agency expects."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 12:37 p.m. ET the S&P 500 stood at 7,451.40 (−1.46%), the Nasdaq at 24,626.38 (−2.03%) and the Dow at 51,878.44 (−0.90%); the VIX rose 11% to 21.43. Intel fell 6.8%, Micron 6.2%, TSMC 5.6%, AMD 5.0%, Broadcom 3.8% and Nvidia 3.5% ($157.14). Europe closed lower: Euro Stoxx 50 −0.60% and DAX −0.57%. The 10-year Treasury was at 5.13%. WTI fell 2.6% to $86.27, Brent 2.7% to $93.24 and diesel futures 3.1% to $4.04 a gallon; gold was at $3,871 (−0.4%) and copper at $6.02 (−1.2%)."
+   },
+   {
+    "t": "What surprised",
+    "x": "The decline spread to industrials: the Dow went from −0.5% to −0.9%. Trump publicly backed Jensen Huang's return as Nvidia CEO. Intel faces a shareholder class action alleging the company hid that supply limits kept it from meeting data center demand. A third US aircraft carrier arrived in the Middle East, while traffic through Hormuz keeps recovering."
+   }
+  ],
+  "scm": "With diesel futures at $4.04 a gallon (−3.1%), ask your carriers to lower the fuel surcharge with it at the next weekly review. The chip sell-off continues: confirm GPU, memory and server orders and dates before Nvidia's Tuesday report."
+ },
+ "pt": {
+  "titular": "A venda em tecnologia se mantém: o Nasdaq cai 2%, o Dow 0,9% e a Intel enfrenta uma ação coletiva",
+  "esencial": [
+   "Às 11h37 (Cidade do México) o S&P 500 caía 1,46%, o Nasdaq 2,03% e o Dow 0,90%; a Intel caía 6,8%, a TSMC 5,6%, a AMD 5,0% e a Nvidia 3,5%.",
+   "Trump apoiou a volta de Jensen Huang à Nvidia, que divulga resultados na terça; a Intel enfrenta uma ação de acionistas por esconder limites de abastecimento em data centers.",
+   "Para supply chain: o diesel cai 3% para 4,04 dólares por galão nos futuros; peça que as sobretaxas caiam junto e confirme pedidos de chips antes de terça."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o Nasdaq caía 2% pela venda em chips antes do resultado da Nvidia de terça e pelo endurecimento do controle de exportações de chips de IA; o petróleo caía 2% pelo superávit que a Agência Internacional de Energia prevê."
+   },
+   {
+    "t": "Como vai",
+    "x": "Às 11h37 (Cidade do México) o S&P 500 estava em 7.451,40 (−1,46%), o Nasdaq em 24.626,38 (−2,03%) e o Dow em 51.878,44 (−0,90%); o VIX subia 11% para 21,43. A Intel caía 6,8%, a Micron 6,2%, a TSMC 5,6%, a AMD 5,0%, a Broadcom 3,8% e a Nvidia 3,5% (157,14 dólares). A Europa fechou em queda: Euro Stoxx 50 −0,60% e DAX −0,57%. O Treasury de 10 anos estava em 5,13%. O WTI caía 2,6% para 86,27 dólares, o Brent 2,7% para 93,24 e o futuro do diesel 3,1% para 4,04 dólares por galão; o ouro estava em 3.871 (−0,4%) e o cobre em 6,02 (−1,2%)."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A queda se estendeu às industriais: o Dow passou de −0,5% para −0,9%. Trump apoiou publicamente a volta de Jensen Huang como CEO da Nvidia. A Intel enfrenta uma ação coletiva de acionistas que acusam a empresa de esconder que limites de abastecimento a impediram de atender a demanda de data centers. Chegou um terceiro porta-aviões dos EUA ao Oriente Médio, enquanto o trânsito por Ormuz segue se recuperando."
+   }
+  ],
+  "scm": "Com o diesel nos futuros a 4,04 dólares por galão (−3,1%), peça aos transportadores que a sobretaxa de combustível caia junto na próxima revisão semanal. A venda em chips continua: confirme pedidos e prazos de GPUs, memória e servidores antes do resultado da Nvidia de terça."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan antes de una semana clave para la IA (16 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+  },
+  {
+   "t": "AFP: las tecnológicas caen antes de los resultados de Nvidia y la salida a bolsa de Anthropic (16 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-extend-losses-traders-digest-030006305.html"
+  },
+  {
+   "t": "IBT: el petróleo baja por el superávit previsto; sigue el riesgo en Ormuz (16 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-markets-weigh-142928576.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 11:37 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

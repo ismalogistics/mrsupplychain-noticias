@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-16-mediodia-latam",
+ "fecha": "2026-11-16",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:37 CDMX",
+ "es": {
+  "titular": "El Ibovespa amplía su caída a 1.8% y el real se debilita a 5.78; Argentina cae 3%",
+  "esencial": [
+   "A las 11:22 CDMX el Ibovespa bajaba 1.80% (169,357.22) y el ETF de MSCI de Argentina 3.05%.",
+   "El dólar subía 1.95% frente al real (5.78); el peso chileno se recuperó a 997.7 (+0.36% el dólar) desde 1,002 en la mañana.",
+   "Para supply chain: escalona los pagos en reales, la moneda más débil del día en la región."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el Ibovespa bajaba 1.15%, el real se debilitaba a 5.75 y el peso chileno pasaba de 1,000 por dólar por la aversión al riesgo global."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:22 CDMX el Ibovespa estaba en 169,357.22 (−1.80%) y a las 11:37 el S&P/TSX de Canadá bajaba 0.72%. Los ETF de MSCI bajaban 3.05% en Argentina, 1.45% en Perú y 0.79% en Chile. En monedas, el dólar estaba en 5.78 reales (+1.95%), 997.7 pesos chilenos (+0.36%), 3,316 pesos colombianos (+0.42%), 3.41 soles (+0.37%), 1,549.5 pesos argentinos (+0.39%) y 1.430 dólares canadienses (+0.20%)."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El real se debilitó más que el resto de la región, mientras el peso chileno recuperó terreno. El cobre amplía su baja a 1.2% (6.02 dólares por libra). ExxonMobil inició producción en Uaru, su quinto proyecto en Guyana."
+   }
+  ],
+  "scm": "Escalona los pagos en reales, que se debilitan casi 2% hoy, y cotiza insumos de cobre con el precio a la baja."
+ },
+ "en": {
+  "titular": "The Ibovespa extends its drop to 1.8% and the real weakens to 5.78; Argentina falls 3%",
+  "esencial": [
+   "At 11:22 a.m. Mexico City time the Ibovespa was down 1.80% (169,357.22) and the MSCI Argentina ETF 3.05%.",
+   "The dollar rose 1.95% against the real (5.78); the Chilean peso recovered to 997.7 (dollar +0.36%) from 1,002 in the morning.",
+   "For supply chain: stagger payments in reais, the region's weakest currency today."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the Ibovespa was down 1.15%, the real weakened to 5.75 and the Chilean peso crossed 1,000 per dollar on global risk aversion."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:22 a.m. Mexico City time the Ibovespa stood at 169,357.22 (−1.80%) and at 11:37 Canada's S&P/TSX was down 0.72%. The MSCI ETFs fell 3.05% for Argentina, 1.45% for Peru and 0.79% for Chile. In currencies, the dollar stood at 5.78 reais (+1.95%), 997.7 Chilean pesos (+0.36%), 3,316 Colombian pesos (+0.42%), 3.41 soles (+0.37%), 1,549.5 Argentine pesos (+0.39%) and 1.430 Canadian dollars (+0.20%)."
+   },
+   {
+    "t": "What surprised",
+    "x": "The real weakened more than the rest of the region, while the Chilean peso regained ground. Copper extends its drop to 1.2% ($6.02 per pound). ExxonMobil started production at Uaru, its fifth project in Guyana."
+   }
+  ],
+  "scm": "Stagger payments in reais, which weaken almost 2% today, and quote copper inputs while prices dip."
+ },
+ "pt": {
+  "titular": "O Ibovespa amplia a queda para 1,8% e o real se enfraquece para 5,78; a Argentina cai 3%",
+  "esencial": [
+   "Às 11h22 (Cidade do México) o Ibovespa caía 1,80% (169.357,22) e o ETF da MSCI da Argentina 3,05%.",
+   "O dólar subia 1,95% frente ao real (R$ 5,78); o peso chileno se recuperou para 997,7 (dólar +0,36%) desde 1.002 pela manhã.",
+   "Para supply chain: escalone os pagamentos em reais, a moeda mais fraca do dia na região."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o Ibovespa caía 1,15%, o real se enfraquecia para 5,75 e o peso chileno passava de 1.000 por dólar pela aversão global ao risco."
+   },
+   {
+    "t": "Como vai",
+    "x": "Às 11h22 (Cidade do México) o Ibovespa estava em 169.357,22 (−1,80%) e às 11h37 o S&P/TSX do Canadá caía 0,72%. Os ETFs da MSCI caíam 3,05% na Argentina, 1,45% no Peru e 0,79% no Chile. Nas moedas, o dólar estava em R$ 5,78 (+1,95%), 997,7 pesos chilenos (+0,36%), 3.316 pesos colombianos (+0,42%), 3,41 soles (+0,37%), 1.549,5 pesos argentinos (+0,39%) e 1,430 dólar canadense (+0,20%)."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O real se enfraqueceu mais que o resto da região, enquanto o peso chileno recuperou terreno. O cobre amplia a queda para 1,2% (6,02 dólares por libra). A ExxonMobil iniciou a produção em Uaru, seu quinto projeto na Guiana."
+   }
+  ],
+  "scm": "Escalone os pagamentos em reais, que se enfraquecem quase 2% hoje, e cote insumos de cobre com o preço em queda."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 11:37 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan antes de una semana clave para la IA (16 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+  }
+ ]
+}

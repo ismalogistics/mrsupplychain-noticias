@@ -1,0 +1,86 @@
+{
+ "id": "2026-11-16-mediodia-mexico",
+ "fecha": "2026-11-16",
+ "momento": "mediodia",
+ "mercado": "mexico",
+ "hora": "11:37 CDMX",
+ "es": {
+  "titular": "Sin BMV por el feriado, el peso recupera terreno y vuelve a 18.57",
+  "esencial": [
+   "La Bolsa Mexicana y los bancos siguen cerrados por el Día de la Revolución; el IPC se mantiene en 71,204.98 puntos, su cierre del viernes.",
+   "A las 11:37 CDMX el peso cotizaba en 18.57 por dólar (+0.24% el dólar), después de llegar a 18.66 en la mañana.",
+   "Para supply chain: el peso se estabiliza; programa para el martes los pagos en dólares y aprovecha niveles cerca de 18.57 para comprar."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el peso se debilitaba a 18.66 por la aversión al riesgo por la venta en tecnología, en un día sin operación de la BMV ni de los bancos."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:37 CDMX el peso cotizaba en 18.57 por dólar (+0.24% el dólar), mientras el real seguía débil en 5.78 (+1.95% el dólar). El IPC no opera y se mantiene en 71,204.98 puntos, su cierre del viernes; no hay FIX hoy."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El peso recuperó buena parte de lo perdido en la mañana pese a que el Nasdaq cae 2%, ayudado por la baja del Treasury a 5.13% y del crudo. El martes 17 reabren la BMV y los bancos, con la subasta semanal de Cetes."
+   }
+  ],
+  "scm": "El peso volvió a 18.57: si tienes compras de dólares pendientes, puedes cubrir una parte cerca de este nivel y programar la liquidación para el martes, cuando reabren los bancos."
+ },
+ "en": {
+  "titular": "With the BMV closed for the holiday, the peso regains ground and returns to 18.57",
+  "esencial": [
+   "The Mexican Stock Exchange and banks remain closed for Revolution Day; the IPC stays at 71,204.98 points, its Friday close.",
+   "At 12:37 p.m. ET the peso traded at 18.57 per dollar (dollar +0.24%), after reaching 18.66 in the morning.",
+   "For supply chain: the peso steadies; schedule dollar payments for Tuesday and use levels near 18.57 to buy."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the peso was weakening to 18.66 on risk aversion from the tech sell-off, on a day with no trading at the BMV or banks."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:37 a.m. Mexico City time the peso traded at 18.57 per dollar (dollar +0.24%), while the real stayed weak at 5.78 (dollar +1.95%). The IPC is not trading and stays at 71,204.98 points, its Friday close; there is no FIX today."
+   },
+   {
+    "t": "What surprised",
+    "x": "The peso recovered much of its morning loss even as the Nasdaq falls 2%, helped by the drop in the Treasury to 5.13% and in crude. On Tuesday the 17th the BMV and banks reopen, with the weekly Cetes auction."
+   }
+  ],
+  "scm": "The peso is back at 18.57: if you have pending dollar purchases, you can hedge part near this level and schedule settlement for Tuesday, when banks reopen."
+ },
+ "pt": {
+  "titular": "Sem BMV pelo feriado, o peso recupera terreno e volta a 18,57",
+  "esencial": [
+   "A Bolsa Mexicana e os bancos seguem fechados pelo Dia da Revolução; o IPC se mantém em 71.204,98 pontos, seu fechamento de sexta.",
+   "Às 11h37 (Cidade do México) o peso era cotado a 18,57 por dólar (dólar +0,24%), depois de chegar a 18,66 pela manhã.",
+   "Para supply chain: o peso se estabiliza; programe para terça os pagamentos em dólares e aproveite níveis perto de 18,57 para comprar."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o peso se enfraquecia para 18,66 pela aversão ao risco com a venda em tecnologia, em um dia sem operação da BMV nem dos bancos."
+   },
+   {
+    "t": "Como vai",
+    "x": "Às 11h37 (Cidade do México) o peso era cotado a 18,57 por dólar (dólar +0,24%), enquanto o real seguia fraco em R$ 5,78 (dólar +1,95%). O IPC não opera e se mantém em 71.204,98 pontos, seu fechamento de sexta; não há FIX hoje."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O peso recuperou boa parte do que perdeu pela manhã apesar da queda de 2% do Nasdaq, ajudado pela queda do Treasury para 5,13% e do petróleo. Na terça, dia 17, a BMV e os bancos reabrem, com o leilão semanal de Cetes."
+   }
+  ],
+  "scm": "O peso voltou a 18,57: se você tem compras de dólares pendentes, pode proteger uma parte perto desse nível e programar a liquidação para terça, quando os bancos reabrem."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), cierre del 13 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 11:37 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

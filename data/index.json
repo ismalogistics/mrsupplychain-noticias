@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-16-mediodia-global",
+   "fecha": "2026-11-16",
+   "momento": "mediodia",
+   "mercado": "global",
+   "titular_es": "La venta en tecnología se sostiene: el Nasdaq cae 2%, el Dow 0.9% e Intel enfrenta una demanda colectiva",
+   "titular_en": "The tech sell-off holds: the Nasdaq falls 2%, the Dow 0.9% and Intel faces a class action",
+   "titular_pt": "A venda em tecnologia se mantém: o Nasdaq cai 2%, o Dow 0,9% e a Intel enfrenta uma ação coletiva"
+  },
+  {
+   "id": "2026-11-16-mediodia-latam",
+   "fecha": "2026-11-16",
+   "momento": "mediodia",
+   "mercado": "latam",
+   "titular_es": "El Ibovespa amplía su caída a 1.8% y el real se debilita a 5.78; Argentina cae 3%",
+   "titular_en": "The Ibovespa extends its drop to 1.8% and the real weakens to 5.78; Argentina falls 3%",
+   "titular_pt": "O Ibovespa amplia a queda para 1,8% e o real se enfraquece para 5,78; a Argentina cai 3%"
+  },
+  {
+   "id": "2026-11-16-mediodia-mexico",
+   "fecha": "2026-11-16",
+   "momento": "mediodia",
+   "mercado": "mexico",
+   "titular_es": "Sin BMV por el feriado, el peso recupera terreno y vuelve a 18.57",
+   "titular_en": "With the BMV closed for the holiday, the peso regains ground and returns to 18.57",
+   "titular_pt": "Sem BMV pelo feriado, o peso recupera terreno e volta a 18,57"
+  },
+  {
    "id": "2026-11-16-apertura-global",
    "fecha": "2026-11-16",
    "momento": "apertura",
@@ -782,33 +809,6 @@
    "titular_es": "El IPC abre al alza pero gira con Wall Street; el peso se debilita a 18.64 antes de Banxico",
    "titular_en": "The IPC opens higher but turns with Wall Street; the peso weakens to 18.64 ahead of Banxico",
    "titular_pt": "O IPC abre em alta mas vira com Wall Street; o peso se enfraquece a 18,64 antes do Banxico"
-  },
-  {
-   "id": "2026-11-05-premercado-global",
-   "fecha": "2026-11-05",
-   "momento": "premercado",
-   "mercado": "global",
-   "titular_es": "El KOSPI se desploma 5.3% por el temor a la regulación de la IA; Wall Street llega mixta y el Banco de Inglaterra podría subir tasas",
-   "titular_en": "The KOSPI plunges 5.3% on fears of AI regulation; Wall Street heads to a mixed open and the Bank of England could raise rates",
-   "titular_pt": "O KOSPI despenca 5,3% pelo temor de regulação da IA; Wall Street chega mista e o Banco da Inglaterra pode subir juros"
-  },
-  {
-   "id": "2026-11-05-premercado-latam",
-   "fecha": "2026-11-05",
-   "momento": "premercado",
-   "mercado": "latam",
-   "titular_es": "La región cerró al alza tras la elección y Brasil reacciona hoy a la pausa del Copom en 13.75%",
-   "titular_en": "The region closed higher after the election and Brazil reacts today to Copom's pause at 13.75%",
-   "titular_pt": "A região fechou em alta após a eleição e o Brasil reage hoje à pausa do Copom em 13,75%"
-  },
-  {
-   "id": "2026-11-05-premercado-mexico",
-   "fecha": "2026-11-05",
-   "momento": "premercado",
-   "mercado": "mexico",
-   "titular_es": "Banxico decide hoy a las 13:00 con la tasa en 6.50% y el peso en 18.57 tras su mejor día desde abril",
-   "titular_en": "Banxico decides today at 1:00 p.m. with the rate at 6.50% and the peso at 18.57 after its best day since April",
-   "titular_pt": "O Banxico decide hoje às 13h com a taxa em 6,50% e o peso a 18,57 após seu melhor dia desde abril"
   }
  ]
 }
