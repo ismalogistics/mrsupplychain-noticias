@@ -373,7 +373,7 @@ def pagina():
     t_es = TITULO['es']
     ld = {'@context': 'https://schema.org', '@type': 'NewsArticle', 'headline': t_es[:110], 'alternativeHeadline': TITULO['en'][:110],
           'description': DESC, 'inLanguage': ['es-MX', 'en-US', 'pt-BR'], 'datePublished': PUBLICADO, 'dateModified': ACTUALIZADO,
-          'url': URL, 'mainEntityOfPage': URL, 'image': [URL + 'og.png'], 'articleSection': 'Especial',
+          'url': URL, 'mainEntityOfPage': URL, 'image': [URL + 'og.png?v=2'], 'articleSection': 'Especial',
           'author': {'@type': 'Organization', 'name': f'Mesa de mercados {MARCA}', 'url': SITE},
           'publisher': {'@type': 'Organization', 'name': MARCA, 'url': 'https://mrsupplychain.ai/'}}
     toc = [('al-momento', L('Al momento', 'Live', 'Ao vivo')), ('resumen', L('En 60 segundos', 'In 60 seconds', 'Em 60 segundos')),
@@ -401,7 +401,7 @@ def pagina():
   <meta property="og:title" content="{E(t_es)}">
   <meta property="og:description" content="{E(DESC)}">
   <meta property="og:url" content="{URL}">
-  <meta property="og:image" content="{URL}og.png">
+  <meta property="og:image" content="{URL}og.png?v=2">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta property="og:locale" content="es_MX">
@@ -413,7 +413,7 @@ def pagina():
   <meta name="twitter:site" content="@MrSupplyChainX">
   <meta name="twitter:title" content="{E(t_es)}">
   <meta name="twitter:description" content="{E(DESC)}">
-  <meta name="twitter:image" content="{URL}og.png">
+  <meta name="twitter:image" content="{URL}og.png?v=2">
   <link rel="manifest" href="/manifest.webmanifest">
   <meta name="theme-color" content="#163e86">
   <link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
