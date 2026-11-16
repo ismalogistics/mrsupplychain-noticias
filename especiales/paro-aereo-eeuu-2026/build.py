@@ -6,7 +6,7 @@ import os, sys, json, html, re
 from urllib.parse import quote
 from datetime import datetime
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from contenido import (L, ACTUALIZACIONES, ESTADO, RESUMEN, KPIS, FALLA, CRONO, CARGA, MEXICO, CANADA, CANADA_F,
+from contenido import (L, ACTUALIZACIONES, ESTADO, RESUMEN, KPIS, FALLA, CRONO, CARGA, IMPACTOS, MEXICO, CANADA, CANADA_F,
                        ACCIONES_MERCADO, MERCADOS, MERCADOS_F, ESCENARIOS, ESCENARIOS_F, CALENDARIO, ACCIONES, FUENTES)
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
@@ -156,7 +156,7 @@ def escenarios_html():
 
 
 def calendario_html():
-    return '<ol class="ex-cal">' + ''.join(f'<li{" class=hoy" if f == "2026-11-14" else ""}><time datetime="{f}">{sp(fecha_corta(f))}</time>{blk(t)}</li>' for f, t in CALENDARIO) + '</ol>'
+    return '<ol class="ex-cal">' + ''.join(f'<li{" class=hoy" if f == "2026-11-16" else ""}><time datetime="{f}">{sp(fecha_corta(f))}</time>{blk(t)}</li>' for f, t in CALENDARIO) + '</ol>'
 
 
 def todas_fuentes():
@@ -168,19 +168,19 @@ def todas_fuentes():
     for a in ACTUALIZACIONES:
         add(a.get('f', []))
     add(ESTADO['f']); add(['wsvn', 'fr24', 'aljaz', 'cnbc', 'foxwx']); add(FALLA['f'])
-    for c in CARGA:
+    for c in CARGA + IMPACTOS:
         add(c['f'])
     add(MEXICO['f']); add(CANADA_F); add(MERCADOS_F); add(ESCENARIOS_F); add(list(F))
     return '<ol class="ex-fuentes">' + ''.join(f'<li><a href="{E(F[k][1])}" target="_blank" rel="noopener nofollow">{E(F[k][0])}</a></li>' for k in usadas) + '</ol>'
 
 
-TITULO = L('EE. UU. detiene sus vuelos: qué significa el paro aéreo nacional para supply chain',
-           'The US grounds its flights: what the nationwide stop means for supply chains',
-           'Os EUA param seus voos: o que a paralisação aérea nacional significa para supply chain')
-DEK = L('Qué falló, cuánto se detuvo, cómo pega a la carga aérea, a México y a Canadá, tres escenarios y qué hacer en tu operación este fin de semana.',
-        'What failed, how much stopped, how it hits air cargo, Mexico and Canada, three scenarios and what to do in your operation this weekend.',
-        'O que falhou, quanto parou, como afeta a carga aérea, o México e o Canadá, três cenários e o que fazer na sua operação neste fim de semana.')
-DESC = 'Especial: el paro nacional de vuelos de la FAA del 13 de noviembre de 2026 y su impacto en supply chain, carga aérea, México y Canadá, con escenarios y acciones.'
+TITULO = L('EE. UU. detuvo sus vuelos: los impactos del paro aéreo en supply chain',
+           'The US grounded its flights: the impacts of the air shutdown on supply chains',
+           'Os EUA pararam seus voos: os impactos da paralisação aérea em supply chain')
+DEK = L('Cuatro horas de paro, tres días de red irregular: qué le pasó a la carga aérea y la paquetería, a México y Canadá, quién absorbió el costo, qué riesgo queda para la temporada alta y qué hacer en tu operación.',
+        'Four hours of stoppage, three days of irregular network: what happened to air cargo and parcels, Mexico and Canada, who absorbed the cost, what risk remains for peak season and what to do in your operation.',
+        'Quatro horas de paralisação, três dias de rede irregular: o que aconteceu com a carga aérea e as encomendas, o México e o Canadá, quem absorveu o custo, que risco fica para a alta temporada e o que fazer na sua operação.')
+DESC = 'Especial: los impactos en supply chain del paro nacional de vuelos de la FAA del 13 de noviembre de 2026: carga aérea, paquetería, México, Canadá, costos, riesgo para la temporada alta y acciones.'
 
 CSS = r'''
 .ex-page .nx-article{max-width:1120px}
@@ -377,9 +377,10 @@ def pagina():
           'author': {'@type': 'Organization', 'name': f'Mesa de mercados {MARCA}', 'url': SITE},
           'publisher': {'@type': 'Organization', 'name': MARCA, 'url': 'https://mrsupplychain.ai/'}}
     toc = [('al-momento', L('Al momento', 'Live', 'Ao vivo')), ('resumen', L('En 60 segundos', 'In 60 seconds', 'Em 60 segundos')),
-           ('falla', L('Qué falló', 'What failed', 'O que falhou')), ('carga', L('Carga aérea', 'Air cargo', 'Carga aérea')),
+           ('impactos', L('Impactos', 'Impacts', 'Impactos')), ('carga', L('Carga aérea', 'Air cargo', 'Carga aérea')),
            ('mexico', L('México', 'Mexico', 'México')), ('canada', L('Canadá', 'Canada', 'Canadá')),
            ('mercados', L('Mercados', 'Markets', 'Mercados')), ('escenarios', L('Escenarios', 'Scenarios', 'Cenários')),
+           ('falla', L('La causa', 'The cause', 'A causa')),
            ('calendario', L('Calendario', 'Calendar', 'Calendário')), ('acciones', L('Qué hacer', 'What to do', 'O que fazer')),
            ('fuentes', L('Fuentes', 'Sources', 'Fontes'))]
     toc_html = ''.join(f'<a href="#{i}">{sp(t)}</a>' for i, t in toc)
@@ -450,18 +451,18 @@ def pagina():
         <h2 class="nx-h2">{sp(L("En 60 segundos", "In 60 seconds", "Em 60 segundos"))}</h2>
         <div class="ex-two"><ol class="ex-60">{''.join(f"<li>{blk(r)}</li>" for r in RESUMEN)}</ol>{crono_html()}</div>
         {cifras_html(KPIS, cls='ex-kpis six')}
-        <p class="ex-src">{fuentes_html(['abc_sat', 'cbsphl', 'autonoc', 'cronista', 'cnbc', 'wsvn', 'efe_unitel'])}</p>
+        <p class="ex-src">{fuentes_html(['foxbiz_mon', 'faa_qa', 'cbsphl', 'autonoc', 'cronista', 'aircargo', 'ups_alert'])}</p>
       </section>
 
-      <section class="ex-sec" id="falla">
-        <h2 class="nx-h2">{sp(L("Qué falló: la red que conecta al control aéreo", "What failed: the network that links air traffic control", "O que falhou: a rede que conecta o controle aéreo"))}</h2>
-        <div class="ex-two mx"><div class="ex-prose">{''.join(blk(p) for p in FALLA['parrafos'])}</div><div class="ex-side"><div class="ex-vig">{blk(FALLA["vigilar"])}</div></div></div>
-        <p class="ex-src">{fuentes_html(FALLA['f'])}</p>
+      <section class="ex-sec" id="impactos">
+        <h2 class="nx-h2">{sp(L("Lo que deja el paro para supply chain", "What the stop leaves for supply chains", "O que a paralisação deixa para supply chain"))}</h2>
+        {blk(L("La noticia fue el paro; el impacto está en lo que vino después. Cinco efectos que conviene llevar a tu operación y a tu matriz de riesgos.", "The news was the stop; the impact is in what came after. Five effects worth taking into your operation and your risk matrix.", "A notícia foi a paralisação; o impacto está no que veio depois. Cinco efeitos para levar à sua operação e à sua matriz de riscos."), cls='ex-intro')}
+        {tarjetas_html(IMPACTOS)}
       </section>
 
       <section class="ex-sec" id="carga">
-        <h2 class="nx-h2">{sp(L("Carga aérea y paquetería: un día menos de red", "Air cargo and parcels: one day less of network", "Carga aérea e encomendas: um dia a menos de rede"))}</h2>
-        {blk(L("El paro aplicó a todos los despegues, de pasajeros y de carga. Estos son los eslabones que más lo resienten.", "The stop applied to all departures, passenger and cargo alike. These are the links that feel it most.", "A paralisação valeu para todas as decolagens, de passageiros e de carga. Estes são os elos que mais a sentem."), cls='ex-intro')}
+        <h2 class="nx-h2">{sp(L("Carga aérea y paquetería: rezagos, embargos y garantías", "Air cargo and parcels: backlogs, embargoes and guarantees", "Carga aérea e encomendas: atrasos, embargos e garantias"))}</h2>
+        {blk(L("El paro aplicó a todos los despegues, de pasajeros y de carga. Así lo resintieron los eslabones más expuestos.", "The stop applied to all departures, passenger and cargo alike. This is how the most exposed links felt it.", "A paralisação valeu para todas as decolagens, de passageiros e de carga. Assim a sentiram os elos mais expostos."), cls='ex-intro')}
         {tarjetas_html(CARGA)}
       </section>
 
@@ -478,26 +479,32 @@ def pagina():
       </section>
 
       <section class="ex-sec" id="mercados">
-        <h2 class="nx-h2">{sp(L("Mercados: la prueba llega el lunes", "Markets: the test comes Monday", "Mercados: o teste vem na segunda"))}</h2>
+        <h2 class="nx-h2">{sp(L("Mercados: el lunes castiga al contratista, no a las aerolíneas", "Markets: Monday punishes the contractor, not the airlines", "Mercados: a segunda pune a contratada, não as aéreas"))}</h2>
         <div class="ex-two"><div class="ex-prose">{blk(MERCADOS)}</div>{mercado_html()}</div>
         <p class="ex-src">{fuentes_html(MERCADOS_F)}</p>
       </section>
 
       <section class="ex-sec" id="escenarios">
         <h2 class="nx-h2">{sp(L("Tres escenarios y lo que significan", "Three scenarios and what they mean", "Três cenários e o que significam"))}</h2>
-        {blk(L("Lo que define el impacto no es el paro del viernes, sino la causa: si fue un error puntual o una falla de diseño en la red de comunicaciones. Son escenarios, no pronósticos.", "What defines the impact is not Friday\'s stop but its cause: a one-off error or a design flaw in the communications network. These are scenarios, not forecasts.", "O que define o impacto não é a paralisação de sexta, mas a causa: um erro pontual ou uma falha de projeto na rede de comunicações. São cenários, não previsões."), cls='ex-intro')}
+        {blk(L("El escenario A ya ocurrió. Lo que define el impacto de aquí en adelante es si la falla se repite antes de que termine la modernización. Son escenarios, no pronósticos.", "Scenario A has already happened. What defines the impact from here is whether the failure repeats before modernization is complete. These are scenarios, not forecasts.", "O cenário A já ocorreu. O que define o impacto daqui em diante é se a falha se repete antes do fim da modernização. São cenários, não previsões."), cls='ex-intro')}
         {escenarios_html()}
         <p class="ex-src">{fuentes_html(ESCENARIOS_F)}</p>
+      </section>
+
+      <section class="ex-sec" id="falla">
+        <h2 class="nx-h2">{sp(L("La causa: por qué falló la red del control aéreo", "The cause: why the air traffic control network failed", "A causa: por que a rede do controle aéreo falhou"))}</h2>
+        <div class="ex-two mx"><div class="ex-prose">{''.join(blk(p) for p in FALLA['parrafos'])}</div><div class="ex-side"><div class="ex-vig">{blk(FALLA["vigilar"])}</div></div></div>
+        <p class="ex-src">{fuentes_html(FALLA['f'])}</p>
       </section>
 
       <section class="ex-sec" id="calendario">
         <h2 class="nx-h2">{sp(L("Fechas que vigilar", "Dates to watch", "Datas para acompanhar"))}</h2>
         {calendario_html()}
-        <p class="ex-src">{fuentes_html(['fox_live', 'pbs_shutdown', 'wh_cr', 'reuters_bedford'])}</p>
+        <p class="ex-src">{fuentes_html(['foxbiz_mon', 'pbs_shutdown', 'wh_cr', 'hklaw', 'wexam_2028'])}</p>
       </section>
 
       <section class="ex-sec" id="acciones">
-        <h2 class="nx-h2">{sp(L("Qué hacer en tu cadena este fin de semana", "What to do in your supply chain this weekend", "O que fazer na sua cadeia neste fim de semana"))}</h2>
+        <h2 class="nx-h2">{sp(L("Qué hacer en tu cadena esta semana", "What to do in your supply chain this week", "O que fazer na sua cadeia nesta semana"))}</h2>
         <ol class="ex-acc">{acciones}</ol>
       </section>
 
@@ -513,7 +520,7 @@ def pagina():
 
       <section class="ex-sec" id="fuentes">
         <h2 class="nx-h2">{sp(L("Fuentes", "Sources", "Fontes"))}</h2>
-        {blk(L("Cifras al 14 de noviembre de 2026, 08:07 h CDMX; las horas están en hora de la Ciudad de México (la hora del Este es una hora más). Los conteos de vuelos cambian minuto a minuto: usamos el corte más reciente con hora. La causa técnica es la que explicaron Duffy y Mullin; el informe formal de la FAA aún no se publica.", "Figures as of November 14, 2026, 8:07 a.m. Mexico City time; times are Mexico City time (Eastern is one hour later). Flight counts change by the minute: we used the latest time-stamped count. The technical cause is the one Duffy and Mullin described; the FAA's formal report has not been published yet.", "Dados de 14 de novembro de 2026, 08h07 (Cidade do México); os horários estão na hora da Cidade do México (o horário do Leste é uma hora a mais). As contagens de voos mudam a cada minuto: usamos o corte mais recente com horário. A causa técnica é a explicada por Duffy e Mullin; o relatório formal da FAA ainda não foi publicado."), cls='ex-method')}
+        {blk(L("Cifras al 16 de noviembre de 2026, 08:34 h CDMX; las horas están en hora de la Ciudad de México (la hora del Este es una hora más). Los conteos de vuelos varían según la fuente: FlightAware cuenta vuelos dentro, hacia y desde EE. UU., mientras la FAA reportó 12,462 cancelaciones del viernes de todos los operadores. La causa es la del balance preliminar de la FAA del 15 de noviembre; el informe final aún no se publica. Esta es la última actualización del especial.", "Figures as of November 16, 2026, 8:34 a.m. Mexico City time; times are Mexico City time (Eastern is one hour later). Flight counts vary by source: FlightAware counts flights within, into and out of the US, while the FAA reported 12,462 Friday cancellations across all operators. The cause is the one in the FAA\'s preliminary account of November 15; the final report has not been published yet. This is the final update of the special.", "Dados de 16 de novembro de 2026, 08h34 (Cidade do México); os horários estão na hora da Cidade do México (o horário do Leste é uma hora a mais). As contagens de voos variam conforme a fonte: o FlightAware conta voos dentro, para e a partir dos EUA, enquanto a FAA informou 12.462 cancelamentos de sexta de todos os operadores. A causa é a do balanço preliminar da FAA de 15 de novembro; o relatório final ainda não foi publicado. Esta é a última atualização do especial."), cls='ex-method')}
         {todas_fuentes()}
       </section>
     </article>
@@ -548,10 +555,10 @@ def og():
     d.text((74, 66), 'ESPECIAL · 13 NOV 2026', font=font('DejaVuSans-Bold', 22), fill='#ffffff')
     f1 = font('DejaVuSerif-Bold', 46)
     y = 128
-    for line in ['EE. UU. detiene', 'sus vuelos:', 'qué significa', 'para supply chain']:
+    for line in ['EE. UU. detuvo', 'sus vuelos:', 'los impactos', 'en supply chain']:
         d.text((60, y), line, font=f1, fill='#ffffff'); y += 58
-    d.text((60, y + 16), 'Carga aérea · México · Canadá', font=font('DejaVuSans', 22), fill='#9fc0ff')
-    d.text((60, y + 46), 'Escenarios · Qué hacer', font=font('DejaVuSans', 22), fill='#9fc0ff')
+    d.text((60, y + 16), 'Carga · Costos · México · Canadá', font=font('DejaVuSans', 22), fill='#9fc0ff')
+    d.text((60, y + 46), 'Riesgo en temporada alta · Qué hacer', font=font('DejaVuSans', 22), fill='#9fc0ff')
     d.text((60, 566), 'Mr. Supply Chain® México · Noticias', font=font('DejaVuSans-Bold', 20), fill='#ffffff')
     im.save(os.path.join(AQUI, 'og.png'), optimize=True)
 
