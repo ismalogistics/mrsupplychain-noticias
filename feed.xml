@@ -7,7 +7,34 @@
   <description>Briefs diarios de mercados (premercado, apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
   <language>es-MX</language>
   <copyright>Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</copyright>
-  <lastBuildDate>Mon, 16 Nov 2026 09:08:00 -0600</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 11:37:00 -0600</lastBuildDate>
+  <item>
+    <title>Sin BMV por el feriado, el peso recupera terreno y vuelve a 18.57</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-16-mediodia-mexico/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-16-mediodia-mexico/</guid>
+    <pubDate>Mon, 16 Nov 2026 11:37:00 -0600</pubDate>
+    <category>Mediodía · México</category>
+    <description>En la apertura el peso se debilitaba a 18.66 por la aversión al riesgo por la venta en tecnología, en un día sin operación de la BMV ni de los bancos. A las 11:37 CDMX el peso cotizaba en 18.57 por dólar (+0.24% el dólar), mientras el real seguía débil en 5.78 (+1.95% el dólar). El IPC no opera y se mantiene en 71,204.98 puntos, su cierre del viernes; no hay FIX hoy. — El peso volvió a 18.57: si tienes compras de dólares pendientes, puedes cubrir una parte cerca de este nivel y programar la liquidación para el martes, cuando reabren los bancos.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-16-mediodia-mexico/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>El Ibovespa amplía su caída a 1.8% y el real se debilita a 5.78; Argentina cae 3%</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-16-mediodia-latam/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-16-mediodia-latam/</guid>
+    <pubDate>Mon, 16 Nov 2026 11:37:00 -0600</pubDate>
+    <category>Mediodía · LATAM</category>
+    <description>En la apertura el Ibovespa bajaba 1.15%, el real se debilitaba a 5.75 y el peso chileno pasaba de 1,000 por dólar por la aversión al riesgo global. A las 11:22 CDMX el Ibovespa estaba en 169,357.22 (−1.80%) y a las 11:37 el S&amp;P/TSX de Canadá bajaba 0.72%. Los ETF de MSCI bajaban 3.05% en Argentina, 1.45% en Perú y 0.79% en Chile. En monedas, el dólar estaba en 5.78 reales (+1.95%), 997.7 pesos chilenos (+0.36%), 3,316 pesos colombianos (+0.42%), 3.41 soles (+0.37%), 1,549.5 pesos argentinos (+0.39%) y 1.430 dólares canadienses (+0.20%). — Escalona los pagos en reales, que se debilitan casi 2% hoy, y cotiza insumos de cobre con el precio a la baja.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-16-mediodia-latam/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>La venta en tecnología se sostiene: el Nasdaq cae 2%, el Dow 0.9% e Intel enfrenta una demanda colectiva</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-16-mediodia-global/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-16-mediodia-global/</guid>
+    <pubDate>Mon, 16 Nov 2026 11:37:00 -0600</pubDate>
+    <category>Mediodía · Global</category>
+    <description>En la apertura el Nasdaq caía 2% por la venta en chips antes del reporte de Nvidia del martes y el endurecimiento del control a las exportaciones de chips de IA; el crudo bajaba 2% por el superávit que prevé la Agencia Internacional de Energía. A las 11:37 CDMX el S&amp;P 500 estaba en 7,451.40 (−1.46%), el Nasdaq en 24,626.38 (−2.03%) y el Dow en 51,878.44 (−0.90%); el VIX subía 11% a 21.43. Intel caía 6.8%, Micron 6.2%, TSMC 5.6%, AMD 5.0%, Broadcom 3.8% y Nvidia 3.5% (157.14 dólares). Europa cerró a la baja: Euro Stoxx 50 −0.60% y DAX −0.57%. El Treasury a 10 años estaba en 5.13%. El WTI caía 2.6% a 86.27 dólares, el Brent 2.7% a 93.24 y el futuro del diésel 3.1% a 4.04 dólares por galón; el oro estaba en 3,871 (−0.4%) y el cobre en 6.02 (−1.2%). — Con el diésel en futuros a 4.04 dólares por galón (−3.1%), pide a tus transportistas que el recargo de combustible baje con él en la próxima revisión semanal. La venta en chips sigue: confirma pedidos y fechas de GPU, memoria y servidores antes del reporte de Nvidia del martes.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-16-mediodia-global/og.png" type="image/png" length="0"/>
+  </item>
   <item>
     <title>La BMV no opera por el Día de la Revolución; el peso se debilita a 18.66 con la venta en tecnología</title>
     <link>https://mrsupplychain.ai/noticias/brief/2026-11-16-apertura-mexico/</link>
@@ -340,33 +367,6 @@
     <category>Apertura · México</category>
     <description>A las 9:11 CDMX el peso cotizaba en 18.62 por dólar, casi sin cambio (+0.05% el dólar), después de llegar a 18.59 en la madrugada. El FIX determinado por Banxico el martes fue de 18.6678, publicado hoy en el Diario Oficial. El S&amp;P/BMV IPC subía 0.59% a 72,314.57 a las 8:51 CDMX, con el ánimo de Wall Street. El INEGI informó que la actividad industrial cayó 1.4% mensual en septiembre con cifras desestacionalizadas: manufacturas −1.7%, construcción −2.0%, energía +1.4% y minería +0.4%. A tasa anual con cifras originales creció 1.3%, y de enero a septiembre acumula +1.1%. Afuera, el dólar se fortalece (DXY +0.7%) y el crudo sube 1.7%; hoy no hay datos en EE. UU. y el mercado de bonos está cerrado. — La caída de manufacturas (−1.7% mensual) sugiere menos pedidos de la industria en el cuarto trimestre: ajusta el pronóstico de demanda y el inventario de seguridad de clientes industriales. Con el peso en 18.62, cubre por tramos los dólares de noviembre y adelanta los pagos del lunes 16.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-11-apertura-mexico/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>El Ibovespa abre con +0.8% y el real se fortalece; Colombia baja 0.5%</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-11-apertura-latam/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-11-apertura-latam/</guid>
-    <pubDate>Wed, 11 Nov 2026 09:11:00 -0600</pubDate>
-    <category>Apertura · LATAM</category>
-    <description>A las 8:56 CDMX el Ibovespa subía 0.78% a 172,675.06 y a las 9:11 el S&amp;P/TSX de Canadá 0.50% (36,350.08). Los ETF de MSCI subían 0.45% en Argentina y 0.14% en Chile, y bajaban 0.04% en Perú; el iCOLCAP de Colombia perdía 0.51% a las 8:49. En monedas, a las 9:11 CDMX el real estaba en 5.55 por dólar (dólar −0.46%), el peso chileno en 984.1 (+0.04%), el peso colombiano en 3,301 (+0.31%), el sol en 3.41 (−0.01%), el peso argentino en 1,548.5 (+0.21%) y el dólar canadiense en 1.424 (+0.34%). El rebote de la tecnología en Wall Street mejora el apetito por riesgo. El crudo sube 1.7% por los ataques a buques en Ormuz y el cobre 0.5% (6.27 dólares por libra), lo que apoya a los exportadores de Brasil, Colombia, Chile y Perú; el dólar más fuerte (DXY +0.7%) frena a algunas monedas. — Cotiza hoy cable e insumos de cobre y fija fletes regionales con ajuste semanal por el crudo. Si pagas en dólares desde Brasil, el real más fuerte (5.55) es buena ventana para cubrir.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-11-apertura-latam/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Wall Street abre al alza con el rebote de los chips: el Nasdaq sube 1.2% y CoreWeave casi 20%</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-11-apertura-global/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-11-apertura-global/</guid>
-    <pubDate>Wed, 11 Nov 2026 09:11:00 -0600</pubDate>
-    <category>Apertura · Global</category>
-    <description>Los futuros anticipaban un rebote de la tecnología y se cumplió: al abrir el S&amp;P 500 subía 0.9%, el Nasdaq 1.5% y el Dow bajaba 0.1%. A las 9:11 CDMX el S&amp;P 500 estaba en 7,580.28 (+0.79%), el Nasdaq en 25,370.65 (+1.22%) y el Dow en 52,123.11 (−0.21%); el VIX bajaba 5.9% a 18.32. CoreWeave subía 19.8% después de elevar su pronóstico de ingresos de 2026 a entre 13,000 y 13,300 millones de dólares (antes 12,000 a 13,000) y reportar un trimestre con ingresos de 3,660 millones (+168%). Nvidia ganaba 2.2% (172.54) pese a que Baird bajó su recomendación a Neutral; AMD subía 4.9%, Intel 6.2%, y Micron y SK Hynix más de 8%. El WTI estaba en 87.51 dólares (+1.7%), el Brent en 93.24 (+1.9%) y el índice del dólar en 102.96 (+0.7%). Hoy no hay datos de las 8:30 ni de las 10:00 por el Día de los Veteranos y el mercado de bonos está cerrado; el Treasury a 10 años se quedó en 4.98% del martes. Asia cerró al alza: KOSPI +2.60% (5,375.36), Nikkei +1.31% (61,248.59) y Shanghái +0.54%; Hang Seng −0.54%. A las 8:55 CDMX el Euro Stoxx 50 subía 0.58% (6,364.75), el DAX 0.92%, el CAC 40 0.47%, el FTSE 100 0.41% y el Stoxx 600 0.40%, cerca de su récord. — Con el crudo otra vez al alza por Ormuz, pide recargos de combustible con ajuste semanal y confirma primas de seguro en rutas del Golfo. El rebote de los chips no cambia la escasez de memoria: asegura hoy volúmenes de memoria y almacenamiento para el primer trimestre.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-11-apertura-global/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>El peso amanece en 18.59 con el apetito por la tecnología; a las 6:00 sale la actividad industrial</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-11-premercado-mexico/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-11-premercado-mexico/</guid>
-    <pubDate>Wed, 11 Nov 2026 05:16:00 -0600</pubDate>
-    <category>Premercado · México</category>
-    <description>El martes el IPC cerró con +0.14% (71,957.80) y el peso en 18.67 por dólar, según Bloomberg citado por El Financiero. En la noche el peso se recuperó: a las 5:16 CDMX cotizaba en 18.59, con el rebote de los futuros de EE. UU. tras los resultados de CoreWeave. Los Cetes a 28 días quedaron en 6.20% en la subasta del martes. El CPI de EE. UU. del martes dejó casi seguro un alza de la Fed en diciembre, lo que estrecha el diferencial de tasas con Banxico (6.25%). Hoy pesa a favor el apetito por riesgo y en contra el dólar más firme (DXY +0.3%) y el rebote del crudo, que encarece los combustibles importados. — Aprovecha el peso en 18.59 para cubrir parte de los pagos en dólares de noviembre y adelanta los que vencen el lunes 16. Revisa el dato industrial de las 6:00 para ajustar el pronóstico de demanda de clientes manufactureros.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-11-premercado-mexico/og.png" type="image/png" length="0"/>
   </item>
 </channel>
 </rss>
