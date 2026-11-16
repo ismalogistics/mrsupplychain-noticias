@@ -1,0 +1,95 @@
+{
+ "id": "2026-11-16-cierre-global",
+ "fecha": "2026-11-16",
+ "momento": "cierre",
+ "mercado": "global",
+ "hora": "15:16 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El Nasdaq entra en corrección: cae 2.5% con los chips y el crudo baja 3.6% a 92.44 dólares",
+  "esencial": [
+   "El S&P 500 cerró con −1.92% (7,416.59), el Nasdaq con −2.49% (24,509.76) y el Dow con −1.41% (51,608.17); el Nasdaq quedó más de 10% debajo de su máximo del 6 de octubre.",
+   "Micron cayó 7.6%, Intel 7.0%, TSMC 6.3% y Nvidia 4.1% por la nueva regla que restringe el acceso de China a chips de IA; Nvidia reporta mañana después del cierre.",
+   "Para supply chain: el Brent cerró en 92.44 dólares (−3.6%) y el diésel en futuros bajó de 4 dólares por galón; pide que los recargos bajen y confirma pedidos de cómputo antes del reporte de Nvidia."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "Se cumplió lo que anticipaba la apertura y la venta se amplió durante la sesión: el S&P 500 cerró en 7,416.59 (−1.92%), el Nasdaq en 24,509.76 (−2.49%) y el Dow en 51,608.17 (−1.41%); el VIX subió 20.7% a 23.29. Con esto el Nasdaq quedó más de 10% debajo de su máximo del 6 de octubre, en corrección, según Reuters. Micron cayó 7.6%, Intel 7.0%, TSMC 6.3%, AMD 5.6%, Nvidia 4.1% y Broadcom 3.9%; también cayeron Alphabet, Amazon, Meta, Dell y Super Micro. Europa cerró con Euro Stoxx 50 −0.60% y DAX −0.57%. El Treasury a 10 años bajó a 5.12%. El Brent cerró en 92.44 dólares (−3.6%) y el WTI en 85.72 (−3.2%); el oro en 3,853 (−0.9%), la plata −4.6% y el cobre 5.99 (−1.7%)."
+   },
+   {
+    "t": "Por qué",
+    "x": "La salida de Jensen Huang de Nvidia llevó al gobierno de Trump a emitir una regla que restringe el acceso de China a los chips de IA más avanzados, y el Departamento de Comercio busca cerrar la compra por terceros países. Los inversionistas además rotan fuera de la IA antes de la salida a bolsa de Anthropic el jueves. En petróleo, la recuperación del tránsito por Ormuz refuerza el superávit que prevé la Agencia Internacional de Energía (1.7 millones de barriles diarios en el cuarto trimestre), y el procesamiento de las refinerías de China cayó 8.1% anual en octubre. El mercado da 96% de probabilidad a un alza de 25 pb de la Fed en diciembre."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Después del cierre, los futuros del S&P 500 seguían en −1.9% y los del Nasdaq en −2.6%, lo que anticipa una apertura presionada en Asia, sobre todo en Taiwán y Corea. Mañana martes: Home Depot reporta antes de la apertura y Nvidia y SQM después del cierre; los analistas esperan que Nvidia reporte ingresos por 109,100 millones de dólares. El miércoles salen las minutas de la Fed."
+   }
+  ],
+  "scm": "El diésel en futuros bajó a 4.00 dólares por galón (−4.1%) y el Brent a 92.44: pide que el recargo de combustible baje en la próxima revisión. La venta en chips y la nueva regla a China pueden mover precios y plazos de GPU, memoria y servidores: confirma pedidos y fechas antes del reporte de Nvidia de mañana."
+ },
+ "en": {
+  "titular": "The Nasdaq enters a correction: it falls 2.5% on chips and crude drops 3.6% to $92.44",
+  "esencial": [
+   "The S&P 500 closed −1.92% (7,416.59), the Nasdaq −2.49% (24,509.76) and the Dow −1.41% (51,608.17); the Nasdaq ended more than 10% below its October 6 high.",
+   "Micron fell 7.6%, Intel 7.0%, TSMC 6.3% and Nvidia 4.1% on the new rule restricting China's access to AI chips; Nvidia reports tomorrow after the close.",
+   "For supply chain: Brent closed at $92.44 (−3.6%) and diesel futures fell below $4 a gallon; ask for surcharges to come down and confirm compute orders before Nvidia's report."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "What the open anticipated came true and the selling broadened through the session: the S&P 500 closed at 7,416.59 (−1.92%), the Nasdaq at 24,509.76 (−2.49%) and the Dow at 51,608.17 (−1.41%); the VIX jumped 20.7% to 23.29. That left the Nasdaq more than 10% below its October 6 high, in a correction, according to Reuters. Micron fell 7.6%, Intel 7.0%, TSMC 6.3%, AMD 5.6%, Nvidia 4.1% and Broadcom 3.9%; Alphabet, Amazon, Meta, Dell and Super Micro also fell. Europe closed with the Euro Stoxx 50 −0.60% and the DAX −0.57%. The 10-year Treasury eased to 5.12%. Brent settled at $92.44 (−3.6%) and WTI at $85.72 (−3.2%); gold at $3,853 (−0.9%), silver −4.6% and copper $5.99 (−1.7%)."
+   },
+   {
+    "t": "Why",
+    "x": "Jensen Huang's exit from Nvidia led the Trump administration to issue a rule restricting China's access to the most advanced AI chips, and the Commerce Department is moving to close purchases through third countries. Investors are also rotating out of AI ahead of Anthropic's IPO on Thursday. In oil, recovering traffic through Hormuz reinforces the surplus the International Energy Agency expects (1.7 million barrels a day in the fourth quarter), and China's refinery throughput fell 8.1% year over year in October. Markets price a 96% probability of a 25 bp Fed hike in December."
+   },
+   {
+    "t": "What to expect",
+    "x": "After the close, S&P 500 futures were still −1.9% and Nasdaq futures −2.6%, pointing to a pressured open in Asia, especially in Taiwan and Korea. Tomorrow, Tuesday: Home Depot reports before the open and Nvidia and SQM after the close; analysts expect Nvidia to report revenue of $109.1 billion. The Fed minutes come out on Wednesday."
+   }
+  ],
+  "scm": "Diesel futures fell to $4.00 a gallon (−4.1%) and Brent to $92.44: ask for the fuel surcharge to come down at the next review. The chip sell-off and the new China rule could move GPU, memory and server prices and lead times: confirm orders and dates before Nvidia's report tomorrow."
+ },
+ "pt": {
+  "titular": "O Nasdaq entra em correção: cai 2,5% com os chips e o petróleo cai 3,6% para 92,44 dólares",
+  "esencial": [
+   "O S&P 500 fechou com −1,92% (7.416,59), o Nasdaq com −2,49% (24.509,76) e o Dow com −1,41% (51.608,17); o Nasdaq ficou mais de 10% abaixo da máxima de 6 de outubro.",
+   "A Micron caiu 7,6%, a Intel 7,0%, a TSMC 6,3% e a Nvidia 4,1% pela nova regra que restringe o acesso da China a chips de IA; a Nvidia divulga resultados amanhã depois do fechamento.",
+   "Para supply chain: o Brent fechou a 92,44 dólares (−3,6%) e o diesel nos futuros caiu abaixo de 4 dólares por galão; peça que as sobretaxas caiam e confirme pedidos de computação antes do resultado da Nvidia."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "Confirmou-se o que a abertura antecipava e a venda se ampliou ao longo da sessão: o S&P 500 fechou em 7.416,59 (−1,92%), o Nasdaq em 24.509,76 (−2,49%) e o Dow em 51.608,17 (−1,41%); o VIX subiu 20,7% para 23,29. Com isso o Nasdaq ficou mais de 10% abaixo da máxima de 6 de outubro, em correção, segundo a Reuters. A Micron caiu 7,6%, a Intel 7,0%, a TSMC 6,3%, a AMD 5,6%, a Nvidia 4,1% e a Broadcom 3,9%; também caíram Alphabet, Amazon, Meta, Dell e Super Micro. A Europa fechou com Euro Stoxx 50 −0,60% e DAX −0,57%. O Treasury de 10 anos caiu para 5,12%. O Brent fechou a 92,44 dólares (−3,6%) e o WTI a 85,72 (−3,2%); o ouro a 3.853 (−0,9%), a prata −4,6% e o cobre 5,99 (−1,7%)."
+   },
+   {
+    "t": "Por quê",
+    "x": "A saída de Jensen Huang da Nvidia levou o governo Trump a emitir uma regra que restringe o acesso da China aos chips de IA mais avançados, e o Departamento de Comércio busca fechar a compra por terceiros países. Os investidores também saem da IA antes do IPO da Anthropic na quinta. No petróleo, a recuperação do trânsito por Ormuz reforça o superávit que a Agência Internacional de Energia prevê (1,7 milhão de barris por dia no quarto trimestre), e o processamento das refinarias da China caiu 8,1% em outubro na comparação anual. O mercado dá 96% de probabilidade a uma alta de 25 pb do Fed em dezembro."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Depois do fechamento, os futuros do S&P 500 seguiam em −1,9% e os do Nasdaq em −2,6%, o que antecipa uma abertura pressionada na Ásia, sobretudo em Taiwan e na Coreia. Amanhã, terça: a Home Depot divulga resultados antes da abertura e a Nvidia e a SQM depois do fechamento; os analistas esperam que a Nvidia reporte receita de 109,1 bilhões de dólares. Na quarta sai a ata do Fed."
+   }
+  ],
+  "scm": "O diesel nos futuros caiu para 4,00 dólares por galão (−4,1%) e o Brent para 92,44: peça que a sobretaxa de combustível caia na próxima revisão. A venda em chips e a nova regra para a China podem mexer em preços e prazos de GPUs, memória e servidores: confirme pedidos e datas antes do resultado da Nvidia de amanhã."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters: Wall Street cierra con fuertes pérdidas por nerviosismo en IA antes de Nvidia y Anthropic (16 nov 2026)",
+   "u": "https://finance.yahoo.com/news/p-500-nasdaq-futures-slide-104351968.html"
+  },
+  {
+   "t": "Reuters: el petróleo cierra a la baja por la recuperación de las exportaciones de Medio Oriente (16 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-expectations-coming-020042042.html"
+  },
+  {
+   "t": "Yahoo Finance: Dow y S&P 500 caen, el Nasdaq pierde más de 2% (16 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 15:16 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

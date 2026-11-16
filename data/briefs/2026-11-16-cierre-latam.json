@@ -1,0 +1,103 @@
+{
+ "id": "2026-11-16-cierre-latam",
+ "fecha": "2026-11-16",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "15:16 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El Ibovespa cae 1.9% y el real se debilita 2.2% a 5.79; Argentina y Perú caen fuerte",
+  "esencial": [
+   "El Ibovespa cerró en 169,168.45 (−1.91%) y el S&P/TSX de Canadá en 35,722.13 (−1.06%).",
+   "Los ETF de MSCI cayeron 4.3% en Argentina, 2.9% en Perú y 1.4% en Chile, con el cobre en 5.99 dólares (−1.7%).",
+   "Para supply chain: el real fue la moneda más débil de la región; escalona los pagos en reales y cotiza insumos de cobre con el precio a la baja."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El Ibovespa cerró en 169,168.45 (−1.91%) y el S&P/TSX de Canadá en 35,722.13 (−1.06%). Los ETF de MSCI cayeron 4.34% en Argentina, 2.86% en Perú y 1.38% en Chile. México no operó por el Día de la Revolución."
+   },
+   {
+    "t": "Por qué",
+    "x": "La venta global en tecnología y la aversión al riesgo pesaron sobre la región. El cobre bajó 1.7% a 5.99 dólares por libra y la plata 4.6%, lo que afecta a Chile, Perú y México; el crudo cayó 3.6% (Brent 92.44 dólares), un golpe para Colombia y un alivio para los importadores de combustible."
+   },
+   {
+    "t": "Monedas",
+    "x": "Al cierre, el dólar estaba en 5.79 reales (+2.18%), 998 pesos chilenos (+0.39%), 3,311 pesos colombianos (+0.25%), 3.40 soles (+0.11%), 1,549.5 pesos argentinos (+0.39%) y 1.430 dólares canadienses (+0.23%); el peso mexicano terminó en 18.51 (−0.08% el dólar)."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana martes reabre México y SQM, clave para el litio de Chile, reporta después del cierre, el mismo día que Nvidia. Los futuros de EE. UU. siguen a la baja, lo que anticipa otra sesión de aversión al riesgo."
+   }
+  ],
+  "scm": "Escalona los pagos en reales, que perdieron 2.2% hoy, y cotiza cable e insumos de cobre mientras el precio baja."
+ },
+ "en": {
+  "titular": "The Ibovespa falls 1.9% and the real weakens 2.2% to 5.79; Argentina and Peru fall sharply",
+  "esencial": [
+   "The Ibovespa closed at 169,168.45 (−1.91%) and Canada's S&P/TSX at 35,722.13 (−1.06%).",
+   "The MSCI ETFs fell 4.3% for Argentina, 2.9% for Peru and 1.4% for Chile, with copper at $5.99 (−1.7%).",
+   "For supply chain: the real was the region's weakest currency; stagger payments in reais and quote copper inputs while prices fall."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The Ibovespa closed at 169,168.45 (−1.91%) and Canada's S&P/TSX at 35,722.13 (−1.06%). The MSCI ETFs fell 4.34% for Argentina, 2.86% for Peru and 1.38% for Chile. Mexico was closed for Revolution Day."
+   },
+   {
+    "t": "Why",
+    "x": "The global tech sell-off and risk aversion weighed on the region. Copper fell 1.7% to $5.99 per pound and silver 4.6%, hitting Chile, Peru and Mexico; crude dropped 3.6% (Brent $92.44), a blow for Colombia and a relief for fuel importers."
+   },
+   {
+    "t": "Currencies",
+    "x": "At the close, the dollar stood at 5.79 reais (+2.18%), 998 Chilean pesos (+0.39%), 3,311 Colombian pesos (+0.25%), 3.40 soles (+0.11%), 1,549.5 Argentine pesos (+0.39%) and 1.430 Canadian dollars (+0.23%); the Mexican peso ended at 18.51 (dollar −0.08%)."
+   },
+   {
+    "t": "What to expect",
+    "x": "Tomorrow, Tuesday, Mexico reopens and SQM, key for Chile's lithium, reports after the close, the same day as Nvidia. US futures remain lower, pointing to another risk-off session."
+   }
+  ],
+  "scm": "Stagger payments in reais, which lost 2.2% today, and quote cable and copper inputs while prices fall."
+ },
+ "pt": {
+  "titular": "O Ibovespa cai 1,9% e o real se enfraquece 2,2% para 5,79; Argentina e Peru caem forte",
+  "esencial": [
+   "O Ibovespa fechou em 169.168,45 (−1,91%) e o S&P/TSX do Canadá em 35.722,13 (−1,06%).",
+   "Os ETFs da MSCI caíram 4,3% na Argentina, 2,9% no Peru e 1,4% no Chile, com o cobre a 5,99 dólares (−1,7%).",
+   "Para supply chain: o real foi a moeda mais fraca da região; escalone os pagamentos em reais e cote insumos de cobre com o preço em queda."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O Ibovespa fechou em 169.168,45 (−1,91%) e o S&P/TSX do Canadá em 35.722,13 (−1,06%). Os ETFs da MSCI caíram 4,34% na Argentina, 2,86% no Peru e 1,38% no Chile. O México não operou pelo Dia da Revolução."
+   },
+   {
+    "t": "Por quê",
+    "x": "A venda global em tecnologia e a aversão ao risco pesaram sobre a região. O cobre caiu 1,7% para 5,99 dólares por libra e a prata 4,6%, o que afeta Chile, Peru e México; o petróleo caiu 3,6% (Brent a 92,44 dólares), um golpe para a Colômbia e um alívio para os importadores de combustível."
+   },
+   {
+    "t": "Moedas",
+    "x": "No fechamento, o dólar estava em R$ 5,79 (+2,18%), 998 pesos chilenos (+0,39%), 3.311 pesos colombianos (+0,25%), 3,40 soles (+0,11%), 1.549,5 pesos argentinos (+0,39%) e 1,430 dólar canadense (+0,23%); o peso mexicano terminou em 18,51 (dólar −0,08%)."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã, terça, o México reabre e a SQM, chave para o lítio do Chile, divulga resultados depois do fechamento, no mesmo dia que a Nvidia. Os futuros dos EUA seguem em queda, o que antecipa outra sessão de aversão ao risco."
+   }
+  ],
+  "scm": "Escalone os pagamentos em reais, que perderam 2,2% hoje, e cote cabos e insumos de cobre enquanto o preço cai."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 15:16 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "Reuters: el petróleo cierra a la baja por la recuperación de las exportaciones de Medio Oriente (16 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-expectations-coming-020042042.html"
+  }
+ ]
+}

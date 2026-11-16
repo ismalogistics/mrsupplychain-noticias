@@ -1,0 +1,91 @@
+{
+ "id": "2026-11-16-cierre-mexico",
+ "fecha": "2026-11-16",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "15:16 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Día sin BMV: el peso termina en 18.51 y resiste la venta global; mañana reabren bolsa y bancos",
+  "esencial": [
+   "La Bolsa Mexicana y los bancos no operaron por el Día de la Revolución; el IPC sigue en 71,204.98 puntos, su cierre del viernes.",
+   "El peso terminó en 18.51 por dólar (−0.08% el dólar) a las 15:16 CDMX, después de tocar 18.66 en la mañana, y resistió mejor que el real (5.79).",
+   "Para supply chain: el peso volvió a su mejor nivel; aprovecha la reapertura de mañana para liquidar los pagos en dólares pendientes y cubrir una parte de las compras."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "La Bolsa Mexicana y los bancos no operaron por el Día de la Revolución, así que no hubo FIX ni cambios en el IPC, que sigue en 71,204.98 puntos (−0.84% el viernes), ni en Cetes y Bono M. En el mercado internacional, el peso terminó en 18.51 por dólar a las 15:16 CDMX (−0.08% el dólar), después de llegar a 18.66 en la mañana."
+   },
+   {
+    "t": "Por qué",
+    "x": "El peso resistió la venta global (Nasdaq −2.5%) gracias a la baja del Treasury a 5.12% y a que el diferencial de tasas sigue a su favor, mientras el real se debilitó 2.2%. La caída del crudo (Brent −3.6%) pesa sobre los ingresos petroleros, pero abarata la importación de combustibles."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana martes reabren la BMV y los bancos, con la subasta semanal de Cetes; el IPC abriría presionado por la venta en Wall Street. Más adelante, el 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre y el 27 la balanza comercial de octubre."
+   }
+  ],
+  "scm": "Con el peso en 18.51, su mejor nivel del día, liquida mañana los pagos en dólares que quedaron pendientes por el feriado y cubre una parte de las compras de diciembre."
+ },
+ "en": {
+  "titular": "A day without the BMV: the peso ends at 18.51 and withstands the global sell-off; markets and banks reopen tomorrow",
+  "esencial": [
+   "The Mexican Stock Exchange and banks were closed for Revolution Day; the IPC stays at 71,204.98 points, its Friday close.",
+   "The peso ended at 18.51 per dollar (dollar −0.08%) at 3:16 p.m. Mexico City time, after touching 18.66 in the morning, and held up better than the real (5.79).",
+   "For supply chain: the peso is back at its best level; use tomorrow's reopening to settle pending dollar payments and hedge part of your purchases."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The Mexican Stock Exchange and banks were closed for Revolution Day, so there was no FIX and no change in the IPC, which stays at 71,204.98 points (−0.84% on Friday), or in Cetes and M Bonds. In international trading, the peso ended at 18.51 per dollar at 3:16 p.m. Mexico City time (dollar −0.08%), after reaching 18.66 in the morning."
+   },
+   {
+    "t": "Why",
+    "x": "The peso withstood the global sell-off (Nasdaq −2.5%) thanks to the drop in the Treasury to 5.12% and an interest-rate gap that still favors it, while the real weakened 2.2%. The fall in crude (Brent −3.6%) weighs on oil revenue, but makes fuel imports cheaper."
+   },
+   {
+    "t": "What to expect",
+    "x": "Tomorrow, Tuesday, the BMV and banks reopen, with the weekly Cetes auction; the IPC would open under pressure from the Wall Street sell-off. Later, on November 24 INEGI publishes first-half November inflation and on the 27th the October trade balance."
+   }
+  ],
+  "scm": "With the peso at 18.51, its best level of the day, settle tomorrow the dollar payments left pending by the holiday and hedge part of your December purchases."
+ },
+ "pt": {
+  "titular": "Dia sem BMV: o peso termina em 18,51 e resiste à venda global; amanhã reabrem bolsa e bancos",
+  "esencial": [
+   "A Bolsa Mexicana e os bancos não operaram pelo Dia da Revolução; o IPC segue em 71.204,98 pontos, seu fechamento de sexta.",
+   "O peso terminou em 18,51 por dólar (dólar −0,08%) às 15h16 (Cidade do México), depois de tocar 18,66 pela manhã, e resistiu melhor que o real (R$ 5,79).",
+   "Para supply chain: o peso voltou ao seu melhor nível; aproveite a reabertura de amanhã para liquidar pagamentos em dólares pendentes e proteger parte das compras."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "A Bolsa Mexicana e os bancos não operaram pelo Dia da Revolução, por isso não houve FIX nem mudanças no IPC, que segue em 71.204,98 pontos (−0,84% na sexta), nem em Cetes e Bono M. No mercado internacional, o peso terminou em 18,51 por dólar às 15h16 (Cidade do México) (dólar −0,08%), depois de chegar a 18,66 pela manhã."
+   },
+   {
+    "t": "Por quê",
+    "x": "O peso resistiu à venda global (Nasdaq −2,5%) graças à queda do Treasury para 5,12% e ao diferencial de juros que segue a seu favor, enquanto o real se enfraqueceu 2,2%. A queda do petróleo (Brent −3,6%) pesa sobre a receita petroleira, mas barateia a importação de combustíveis."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã, terça, a BMV e os bancos reabrem, com o leilão semanal de Cetes; o IPC abriria pressionado pela venda em Wall Street. Mais adiante, em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro e no dia 27 a balança comercial de outubro."
+   }
+  ],
+  "scm": "Com o peso a 18,51, seu melhor nível do dia, liquide amanhã os pagamentos em dólares que ficaram pendentes pelo feriado e proteja parte das compras de dezembro."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), cierre del 13 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 15:16 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Reuters: Wall Street cierra con fuertes pérdidas por nerviosismo en IA antes de Nvidia y Anthropic (16 nov 2026)",
+   "u": "https://finance.yahoo.com/news/p-500-nasdaq-futures-slide-104351968.html"
+  }
+ ]
+}

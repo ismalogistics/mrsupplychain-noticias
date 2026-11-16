@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-16-cierre-global",
+   "fecha": "2026-11-16",
+   "momento": "cierre",
+   "mercado": "global",
+   "titular_es": "El Nasdaq entra en corrección: cae 2.5% con los chips y el crudo baja 3.6% a 92.44 dólares",
+   "titular_en": "The Nasdaq enters a correction: it falls 2.5% on chips and crude drops 3.6% to $92.44",
+   "titular_pt": "O Nasdaq entra em correção: cai 2,5% com os chips e o petróleo cai 3,6% para 92,44 dólares"
+  },
+  {
+   "id": "2026-11-16-cierre-latam",
+   "fecha": "2026-11-16",
+   "momento": "cierre",
+   "mercado": "latam",
+   "titular_es": "El Ibovespa cae 1.9% y el real se debilita 2.2% a 5.79; Argentina y Perú caen fuerte",
+   "titular_en": "The Ibovespa falls 1.9% and the real weakens 2.2% to 5.79; Argentina and Peru fall sharply",
+   "titular_pt": "O Ibovespa cai 1,9% e o real se enfraquece 2,2% para 5,79; Argentina e Peru caem forte"
+  },
+  {
+   "id": "2026-11-16-cierre-mexico",
+   "fecha": "2026-11-16",
+   "momento": "cierre",
+   "mercado": "mexico",
+   "titular_es": "Día sin BMV: el peso termina en 18.51 y resiste la venta global; mañana reabren bolsa y bancos",
+   "titular_en": "A day without the BMV: the peso ends at 18.51 and withstands the global sell-off; markets and banks reopen tomorrow",
+   "titular_pt": "Dia sem BMV: o peso termina em 18,51 e resiste à venda global; amanhã reabrem bolsa e bancos"
+  },
+  {
    "id": "2026-11-16-mediodia-global",
    "fecha": "2026-11-16",
    "momento": "mediodia",
@@ -782,33 +809,6 @@
    "titular_es": "El peso se debilita a 18.70 con la venta en Wall Street; Banxico decide a las 13:00",
    "titular_en": "The peso weakens to 18.70 on the Wall Street selloff; Banxico decides at 1:00 p.m.",
    "titular_pt": "O peso se enfraquece a 18,70 com a venda em Wall Street; o Banxico decide às 13h"
-  },
-  {
-   "id": "2026-11-05-apertura-global",
-   "fecha": "2026-11-05",
-   "momento": "apertura",
-   "mercado": "global",
-   "titular_es": "Wall Street se voltea: el Nasdaq cae más de 3% y va hacia una corrección por la venta de chips e IA; el petróleo sube a 90 dólares",
-   "titular_en": "Wall Street flips: the Nasdaq falls more than 3% and heads toward a correction on chip and AI selling; oil rises to $90",
-   "titular_pt": "Wall Street vira: o Nasdaq cai mais de 3% e caminha para uma correção pela venda de chips e IA; o petróleo sobe a 90 dólares"
-  },
-  {
-   "id": "2026-11-05-apertura-latam",
-   "fecha": "2026-11-05",
-   "momento": "apertura",
-   "mercado": "latam",
-   "titular_es": "La región abre a la baja con la venta de tecnología: Argentina −5.3%, Perú −1.8% y Chile −1.5%; el Ibovespa, plano",
-   "titular_en": "The region opens lower on the tech selloff: Argentina −5.3%, Peru −1.8% and Chile −1.5%; the Ibovespa flat",
-   "titular_pt": "A região abre em queda com a venda de tecnologia: Argentina −5,3%, Peru −1,8% e Chile −1,5%; o Ibovespa, estável"
-  },
-  {
-   "id": "2026-11-05-apertura-mexico",
-   "fecha": "2026-11-05",
-   "momento": "apertura",
-   "mercado": "mexico",
-   "titular_es": "El IPC abre al alza pero gira con Wall Street; el peso se debilita a 18.64 antes de Banxico",
-   "titular_en": "The IPC opens higher but turns with Wall Street; the peso weakens to 18.64 ahead of Banxico",
-   "titular_pt": "O IPC abre em alta mas vira com Wall Street; o peso se enfraquece a 18,64 antes do Banxico"
   }
  ]
 }

@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-16T17:39:38Z",
+ "actualizado": "2026-11-16T21:18:28Z",
  "fecha": "2026-11-16",
  "titular": {
-  "es": "Mediodía: la venta en chips se sostiene, Intel enfrenta una demanda y el diésel cae 3%",
-  "en": "Midday: the chip sell-off holds, Intel faces a lawsuit and diesel falls 3%",
-  "pt": "Meio-dia: a venda em chips se mantém, a Intel enfrenta uma ação e o diesel cai 3%"
+  "es": "Lunes: los chips arrastran al Nasdaq a corrección, el crudo cae 3.6% y el cobre baja de 6 dólares",
+  "en": "Monday: chips drag the Nasdaq into a correction, crude falls 3.6% and copper drops below $6",
+  "pt": "Segunda: os chips levam o Nasdaq à correção, o petróleo cai 3,6% e o cobre cai abaixo de 6 dólares"
  },
  "items": [
   {
@@ -17,14 +17,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Intel cae 6.8% por una demanda colectiva; TSMC −5.6% y Nvidia −3.5%",
-    "en": "Intel falls 6.8% on a class action; TSMC −5.6% and Nvidia −3.5%",
-    "pt": "A Intel cai 6,8% por uma ação coletiva; TSMC −5,6% e Nvidia −3,5%"
+    "es": "Los chips cierran con fuertes caídas: Micron −7.6%, Intel −7.0%, TSMC −6.3% y Nvidia −4.1%",
+    "en": "Chips close sharply lower: Micron −7.6%, Intel −7.0%, TSMC −6.3% and Nvidia −4.1%",
+    "pt": "Os chips fecham com fortes quedas: Micron −7,6%, Intel −7,0%, TSMC −6,3% e Nvidia −4,1%"
    },
    "x": {
-    "es": "A las 11:37 CDMX Intel caía 6.8%, Micron 6.2%, TSMC 5.6%, AMD 5.0% y Nvidia 3.5%. Accionistas de Intel presentaron una demanda colectiva que la acusa de ocultar que límites de abasto le impidieron atender la demanda de centros de datos. Trump respaldó el regreso de Jensen Huang a Nvidia, que reporta el martes 17.",
-    "en": "At 12:37 p.m. ET Intel was down 6.8%, Micron 6.2%, TSMC 5.6%, AMD 5.0% and Nvidia 3.5%. Intel shareholders filed a class action accusing the company of hiding that supply limits kept it from meeting data center demand. Trump backed Jensen Huang's return to Nvidia, which reports on Tuesday the 17th.",
-    "pt": "Às 11h37 (Cidade do México) a Intel caía 6,8%, a Micron 6,2%, a TSMC 5,6%, a AMD 5,0% e a Nvidia 3,5%. Acionistas da Intel entraram com uma ação coletiva que a acusa de esconder que limites de abastecimento a impediram de atender a demanda de data centers. Trump apoiou a volta de Jensen Huang à Nvidia, que divulga resultados na terça, dia 17."
+    "es": "Micron cerró con −7.6%, Intel −7.0%, TSMC −6.3%, AMD −5.6% y Nvidia −4.1%, y el Nasdaq quedó en corrección. El gobierno de Trump emitió una regla que restringe el acceso de China a los chips de IA más avanzados, y Intel enfrenta una demanda colectiva de accionistas. Los analistas esperan que Nvidia reporte mañana ingresos por 109,100 millones de dólares.",
+    "en": "Micron closed −7.6%, Intel −7.0%, TSMC −6.3%, AMD −5.6% and Nvidia −4.1%, and the Nasdaq entered a correction. The Trump administration issued a rule restricting China's access to the most advanced AI chips, and Intel faces a shareholder class action. Analysts expect Nvidia to report revenue of $109.1 billion tomorrow.",
+    "pt": "A Micron fechou com −7,6%, a Intel −7,0%, a TSMC −6,3%, a AMD −5,6% e a Nvidia −4,1%, e o Nasdaq entrou em correção. O governo Trump emitiu uma regra que restringe o acesso da China aos chips de IA mais avançados, e a Intel enfrenta uma ação coletiva de acionistas. Os analistas esperam que a Nvidia reporte amanhã receita de 109,1 bilhões de dólares."
    },
    "scm": {
     "es": "Confirma hoy pedidos, fechas y precios de GPU, memoria y servidores, y revisa si algún proveedor depende de rutas por terceros países.",
@@ -33,15 +33,15 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan antes de una semana clave para la IA (16 nov 2026)",
+     "t": "Reuters: Wall Street cierra con fuertes pérdidas por nerviosismo en IA antes de Nvidia y Anthropic (16 nov 2026)",
+     "u": "https://finance.yahoo.com/news/p-500-nasdaq-futures-slide-104351968.html"
+    },
+    {
+     "t": "Yahoo Finance: Dow y S&P 500 caen, el Nasdaq pierde más de 2% (16 nov 2026)",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
     },
     {
-     "t": "AFP: las tecnológicas caen antes de los resultados de Nvidia y la salida a bolsa de Anthropic (16 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-extend-losses-traders-digest-030006305.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 11:37 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 15:16 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -56,14 +56,14 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo amplía su caída: Brent −2.7% a 93.24 dólares y diésel −3.1%",
-    "en": "Crude extends its drop: Brent −2.7% to $93.24 and diesel −3.1%",
-    "pt": "O petróleo amplia a queda: Brent −2,7% para 93,24 dólares e diesel −3,1%"
+    "es": "El crudo cierra con −3.6% (Brent 92.44 dólares) y el diésel baja de 4 dólares por galón",
+    "en": "Crude settles −3.6% (Brent $92.44) and diesel drops below $4 a gallon",
+    "pt": "O petróleo fecha com −3,6% (Brent a 92,44 dólares) e o diesel cai abaixo de 4 dólares por galão"
    },
    "x": {
-    "es": "A las 11:27 CDMX el Brent estaba en 93.24 dólares (−2.7%), el WTI en 86.27 (−2.6%) y el futuro del diésel en 4.04 dólares por galón (−3.1%). La Agencia Internacional de Energía prevé una oferta 1.7 millones de barriles diarios arriba de la demanda en el cuarto trimestre, y el tránsito por Ormuz sigue recuperándose.",
-    "en": "At 12:27 p.m. ET Brent was at $93.24 (−2.7%), WTI at $86.27 (−2.6%) and diesel futures at $4.04 a gallon (−3.1%). The International Energy Agency sees supply 1.7 million barrels a day above demand in the fourth quarter, and traffic through Hormuz keeps recovering.",
-    "pt": "Às 11h27 (Cidade do México) o Brent estava a 93,24 dólares (−2,7%), o WTI a 86,27 (−2,6%) e o futuro do diesel a 4,04 dólares por galão (−3,1%). A Agência Internacional de Energia prevê oferta 1,7 milhão de barris por dia acima da demanda no quarto trimestre, e o trânsito por Ormuz segue se recuperando."
+    "es": "El Brent cerró en 92.44 dólares (−3.6%) y el WTI en 85.72 (−3.2%), según Reuters, y el futuro del diésel bajó 4.1% a 4.00 dólares por galón. La recuperación del tránsito por Ormuz refuerza el superávit que prevé la AIE, que liberará 71 millones de barriles de reservas hasta febrero, 15 millones de ellos de diésel; Goldman Sachs prevé un Brent promedio de 88 dólares en 2027.",
+    "en": "Brent settled at $92.44 (−3.6%) and WTI at $85.72 (−3.2%), according to Reuters, and diesel futures fell 4.1% to $4.00 a gallon. Recovering traffic through Hormuz reinforces the surplus the IEA expects; the agency will release 71 million barrels of reserves through February, 15 million of them diesel; Goldman Sachs sees Brent averaging $88 in 2027.",
+    "pt": "O Brent fechou a 92,44 dólares (−3,6%) e o WTI a 85,72 (−3,2%), segundo a Reuters, e o futuro do diesel caiu 4,1% para 4,00 dólares por galão. A recuperação do trânsito por Ormuz reforça o superávit que a AIE prevê; a agência vai liberar 71 milhões de barris de reservas até fevereiro, 15 milhões deles de diesel; o Goldman Sachs prevê Brent médio de 88 dólares em 2027."
    },
    "scm": {
     "es": "Calcula los recargos de combustible con el diésel, no con el crudo, y pide que se ajusten cada semana.",
@@ -72,15 +72,11 @@
    },
    "fuentes": [
     {
-     "t": "IBT: el petróleo baja por el superávit previsto; sigue el riesgo en Ormuz (16 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-markets-weigh-142928576.html"
+     "t": "Reuters: el petróleo cierra a la baja por la recuperación de las exportaciones de Medio Oriente (16 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-expectations-coming-020042042.html"
     },
     {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan antes de una semana clave para la IA (16 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 11:37 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 15:16 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -157,14 +153,14 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "La plata cae 4.2% y el cobre amplía su baja a 1.2% (6.02 dólares)",
-    "en": "Silver falls 4.2% and copper extends its drop to 1.2% ($6.02)",
-    "pt": "A prata cai 4,2% e o cobre amplia a queda para 1,2% (6,02 dólares)"
+    "es": "El cobre cierra debajo de 6 dólares (5.99, −1.7%) y la plata cae 4.6%",
+    "en": "Copper closes below $6 ($5.99, −1.7%) and silver falls 4.6%",
+    "pt": "O cobre fecha abaixo de 6 dólares (5,99, −1,7%) e a prata cai 4,6%"
    },
    "x": {
-    "es": "A las 11:27 CDMX la plata estaba en 47.07 dólares por onza (−4.2%), el cobre en 6.02 dólares por libra (−1.2%) y el oro en 3,871 (−0.4%), con la aversión al riesgo global.",
-    "en": "At 12:27 p.m. ET silver was at $47.07 an ounce (−4.2%), copper at $6.02 per pound (−1.2%) and gold at $3,871 (−0.4%), amid global risk aversion.",
-    "pt": "Às 11h27 (Cidade do México) a prata estava a 47,07 dólares por onça (−4,2%), o cobre a 6,02 dólares por libra (−1,2%) e o ouro a 3.871 (−0,4%), com a aversão global ao risco."
+    "es": "El cobre terminó en 5.99 dólares por libra (−1.7%), la plata en 46.88 (−4.6%) y el oro en 3,853 (−0.9%), con el índice del dólar en 103.61 (+0.2%) y la aversión al riesgo global.",
+    "en": "Copper ended at $5.99 per pound (−1.7%), silver at $46.88 (−4.6%) and gold at $3,853 (−0.9%), with the dollar index at 103.61 (+0.2%) and global risk aversion.",
+    "pt": "O cobre terminou a 5,99 dólares por libra (−1,7%), a prata a 46,88 (−4,6%) e o ouro a 3.853 (−0,9%), com o índice do dólar em 103,61 (+0,2%) e a aversão global ao risco."
    },
    "scm": {
     "es": "Cotiza cable, conectores e insumos de cobre mientras el precio baja.",
