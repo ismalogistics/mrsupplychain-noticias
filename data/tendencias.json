@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-13T21:18:38Z",
- "fecha": "2026-11-13",
+ "actualizado": "2026-11-16T15:12:04Z",
+ "fecha": "2026-11-16",
  "titular": {
-  "es": "Cierre de la semana: chips a la baja, crudo −2.5% en la semana y cobre −2.2% el viernes",
-  "en": "Week close: chips lower, crude −2.5% on the week and copper −2.2% on Friday",
-  "pt": "Fechamento da semana: chips em queda, petróleo −2,5% na semana e cobre −2,2% na sexta"
+  "es": "Lunes: los chips se desploman antes de Nvidia, el crudo baja 2% y siguen los incidentes en Ormuz",
+  "en": "Monday: chips plunge ahead of Nvidia, crude falls 2% and Hormuz incidents continue",
+  "pt": "Segunda: os chips despencam antes da Nvidia, o petróleo cai 2% e seguem os incidentes em Ormuz"
  },
  "items": [
   {
@@ -17,59 +17,32 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Nvidia cierra con −2.0% y queda debajo de 4 billones de dólares; AMD cae 8.75%",
-    "en": "Nvidia closes −2.0% and slips below $4 trillion; AMD falls 8.75%",
-    "pt": "A Nvidia fecha com −2,0% e fica abaixo de 4 trilhões de dólares; a AMD cai 8,75%"
+    "es": "Los chips se desploman: Micron −7.6%, Intel −6.3%, Broadcom −5.2% y Taiwán −6%",
+    "en": "Chips plunge: Micron −7.6%, Intel −6.3%, Broadcom −5.2% and Taiwan −6%",
+    "pt": "Os chips despencam: Micron −7,6%, Intel −6,3%, Broadcom −5,2% e Taiwan −6%"
    },
    "x": {
-    "es": "Nvidia cerró en 162.85 dólares (−2.0%) y su valor de mercado quedó debajo de 4 billones de dólares; AMD cayó 8.75% y Broadcom 4.76%, mientras Cerebras subió 11.2%. Nvidia reporta el martes 17 después del cierre, con Colette Kress como directora interina.",
-    "en": "Nvidia closed at $162.85 (−2.0%) and its market value slipped below $4 trillion; AMD fell 8.75% and Broadcom 4.76%, while Cerebras rose 11.2%. Nvidia reports on Tuesday the 17th after the close, with Colette Kress as interim CEO.",
-    "pt": "A Nvidia fechou a 162,85 dólares (−2,0%) e seu valor de mercado ficou abaixo de 4 trilhões de dólares; a AMD caiu 8,75% e a Broadcom 4,76%, enquanto a Cerebras subiu 11,2%. A Nvidia divulga resultados na terça, dia 17, após o fechamento, com Colette Kress como CEO interina."
+    "es": "A las 9:08 CDMX Micron caía 7.6%, Intel 6.3%, Broadcom 5.2%, AMD 4.8% y Nvidia 2.5%, tras la caída de 6% de la bolsa de Taiwán. El Departamento de Comercio endurece el control al acceso de China a cómputo por terceros países, y el secretario del Tesoro pidió un director externo para Nvidia, que reporta el martes 17.",
+    "en": "At 10:08 a.m. ET Micron was down 7.6%, Intel 6.3%, Broadcom 5.2%, AMD 4.8% and Nvidia 2.5%, after Taiwan's stock market fell 6%. The Commerce Department is tightening China's access to computing power through third countries, and the Treasury Secretary called for an outside CEO at Nvidia, which reports on Tuesday the 17th.",
+    "pt": "Às 9h08 (Cidade do México) a Micron caía 7,6%, a Intel 6,3%, a Broadcom 5,2%, a AMD 4,8% e a Nvidia 2,5%, depois da queda de 6% da bolsa de Taiwan. O Departamento de Comércio endurece o controle do acesso da China a computação por terceiros países, e o secretário do Tesouro pediu um CEO de fora para a Nvidia, que divulga resultados na terça, dia 17."
    },
    "scm": {
-    "es": "Confirma pedidos de GPU y servidores antes de los resultados de Nvidia del martes y ten una alternativa calificada.",
-    "en": "Confirm GPU and server orders before Nvidia's Tuesday results and keep a qualified alternative.",
-    "pt": "Confirme pedidos de GPUs e servidores antes dos resultados da Nvidia de terça e tenha uma alternativa qualificada."
+    "es": "Confirma hoy pedidos, fechas y precios de GPU, memoria y servidores, y revisa si algún proveedor depende de rutas por terceros países.",
+    "en": "Confirm GPU, memory and server orders, dates and prices today, and check whether any supplier relies on third-country routes.",
+    "pt": "Confirme hoje pedidos, prazos e preços de GPUs, memória e servidores e verifique se algum fornecedor depende de rotas por terceiros países."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: el Dow sube y el S&P 500 y el Nasdaq bajan al cierre de una semana volátil (13 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+     "t": "Yahoo Finance AlphaCheck: los chips caen por las restricciones de EE. UU. (16 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/article/copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-150019770.html"
     },
     {
-     "t": "Earnings Whispers: calendario de resultados, semana del 16 de noviembre de 2026",
-     "u": "https://www.earningswhispers.com/calweek/20261116"
-    }
-   ]
-  },
-  {
-   "id": "software",
-   "dir": "up",
-   "calor": 2,
-   "mx": false,
-   "latam": false,
-   "es": "Software e IA para supply chain",
-   "en": "Software and AI for supply chain",
-   "pt": "Software e IA para supply chain",
-   "titular": {
-    "es": "Cerebras sube 11.7%: eleva su pronóstico y firma con dos nuevos hiperescaladores",
-    "en": "Cerebras rises 11.7%: raises its outlook and signs two new hyperscalers",
-    "pt": "A Cerebras sobe 11,7%: eleva sua previsão e fecha com dois novos hiperescaladores"
-   },
-   "x": {
-    "es": "Cerebras reportó ingresos centrales de 230.9 millones de dólares en su tercer trimestre (+70% anual) e ingresos de nube de 144.9 millones (+272%); prevé entre 310 y 330 millones en el cuarto trimestre, arriba del consenso de 271.2 millones, y anunció acuerdos con dos nuevos hiperescaladores.",
-    "en": "Cerebras reported third-quarter core revenue of $230.9 million (+70% year over year) and cloud revenue of $144.9 million (+272%); it sees $310 million to $330 million in the fourth quarter, above the $271.2 million consensus, and announced deals with two new hyperscalers.",
-    "pt": "A Cerebras reportou receita principal de 230,9 milhões de dólares no terceiro trimestre (+70% no ano) e receita de nuvem de 144,9 milhões (+272%); prevê entre 310 e 330 milhões no quarto trimestre, acima do consenso de 271,2 milhões, e anunciou acordos com dois novos hiperescaladores."
-   },
-   "scm": {
-    "es": "Hay más oferta de cómputo para IA fuera de Nvidia: cotiza alternativas si planeas proyectos de planeación con IA en 2027.",
-    "en": "There is more AI compute supply beyond Nvidia: quote alternatives if you're planning AI planning projects in 2027.",
-    "pt": "Há mais oferta de computação para IA fora da Nvidia: cote alternativas se você planeja projetos de planejamento com IA em 2027."
-   },
-   "fuentes": [
+     "t": "24/7 Wall St.: Nvidia cae 4%, AMD 6% y TSMC 5% antes de los resultados (16 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-4-ahead-earnings-141051719.html"
+    },
     {
-     "t": "Yahoo Finance: Cerebras sube por sus resultados del tercer trimestre (13 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/article/cerebras-stock-surges-after-ai-chipmaker-posts-q3-record-revenue-deals-with-hyperscalers-124719638.html"
+     "t": "AFP: las tecnológicas caen antes de los resultados de Nvidia y la salida a bolsa de Anthropic (16 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-extend-losses-traders-digest-030006305.html"
     }
    ]
   },
@@ -83,24 +56,121 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo cierra la semana con −2.5%: Brent en 95.84 dólares por el excedente que anticipa la AIE",
-    "en": "Crude ends the week −2.5%: Brent at $95.84 on the surplus the IEA anticipates",
-    "pt": "O petróleo fecha a semana com −2,5%: Brent a 95,84 dólares pelo excedente que a AIE antecipa"
+    "es": "El crudo cae 2%: la AIE prevé superávit, pero el diésel sigue cerca de 6 dólares",
+    "en": "Crude falls 2%: the IEA sees a surplus, but diesel stays near $6",
+    "pt": "O petróleo cai 2%: a AIE prevê superávit, mas o diesel segue perto de 6 dólares"
    },
    "x": {
-    "es": "El Brent cerró en 95.84 dólares (+0.02%) y el WTI en 88.56 (−0.20%); ambos bajaron cerca de 2.5% en la semana, tras caer 16% y 13% la semana previa, según Reuters. La AIE anticipa más excedente y los inventarios de EE. UU. subieron, aunque siguen los ataques a tanqueros en Ormuz.",
-    "en": "Brent settled at $95.84 (+0.02%) and WTI at $88.56 (−0.20%); both fell about 2.5% on the week, after dropping 16% and 13% the prior week, according to Reuters. The IEA anticipates a bigger surplus and US inventories rose, though tanker attacks in Hormuz continue.",
-    "pt": "O Brent fechou a 95,84 dólares (+0,02%) e o WTI a 88,56 (−0,20%); ambos caíram cerca de 2,5% na semana, depois de cair 16% e 13% na semana anterior, segundo a Reuters. A AIE antecipa mais excedente e os estoques dos EUA subiram, embora continuem os ataques a petroleiros em Ormuz."
+    "es": "A las 8:58 CDMX el WTI estaba en 86.95 dólares (−1.8%) y el Brent en 93.70 (−2.2%). La Agencia Internacional de Energía prevé una oferta de 105 millones de barriles diarios en el cuarto trimestre, 1.7 millones arriba de la demanda; aun así, el diésel en EE. UU. promedia cerca de 6 dólares por galón y en Europa sigue 77% arriba de antes de la guerra.",
+    "en": "At 9:58 a.m. ET WTI was at $86.95 (−1.8%) and Brent at $93.70 (−2.2%). The International Energy Agency sees supply of 105 million barrels a day in the fourth quarter, 1.7 million above demand; even so, US diesel averages about $6 a gallon and in Europe remains 77% above pre-war levels.",
+    "pt": "Às 8h58 (Cidade do México) o WTI estava a 86,95 dólares (−1,8%) e o Brent a 93,70 (−2,2%). A Agência Internacional de Energia prevê oferta de 105 milhões de barris por dia no quarto trimestre, 1,7 milhão acima da demanda; mesmo assim, o diesel nos EUA tem média perto de 6 dólares por galão e na Europa segue 77% acima do nível pré-guerra."
    },
    "scm": {
-    "es": "No firmes recargos de combustible de largo plazo: con excedente a la vista, pide ajuste semanal.",
-    "en": "Don't sign long-term fuel surcharges: with a surplus in sight, ask for weekly adjustment.",
-    "pt": "Não assine sobretaxas de combustível de longo prazo: com excedente à vista, peça ajuste semanal."
+    "es": "Calcula los recargos de combustible con el diésel, no con el crudo, y pide que se ajusten cada semana.",
+    "en": "Base fuel surcharges on diesel, not crude, and ask for weekly adjustments.",
+    "pt": "Calcule as sobretaxas de combustível com o diesel, não com o petróleo, e peça ajustes semanais."
    },
    "fuentes": [
     {
-     "t": "Reuters vía Yahoo Finance: el petróleo va por su segunda baja semanal por señales de excedente (13 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-prices-set-second-weekly-054237957.html"
+     "t": "IBT: el petróleo baja por el superávit previsto; sigue el riesgo en Ormuz (16 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-markets-weigh-142928576.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 09:08 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
+    }
+   ]
+  },
+  {
+   "id": "puertos",
+   "dir": "down",
+   "calor": 2,
+   "mx": true,
+   "latam": true,
+   "es": "Marítimo y puertos",
+   "en": "Maritime and ports",
+   "pt": "Marítimo e portos",
+   "titular": {
+    "es": "Irán dice que dos tanqueros chocaron con minas en Ormuz; la OMI suma 137 incidentes",
+    "en": "Iran says two tankers hit mines in Hormuz; the IMO counts 137 incidents",
+    "pt": "O Irã diz que dois petroleiros atingiram minas em Ormuz; a OMI soma 137 incidentes"
+   },
+   "x": {
+    "es": "La Guardia Revolucionaria de Irán afirmó que dos tanqueros chocaron con minas en el estrecho de Ormuz y que seis se incendiaron desde el domingo; Reuters no pudo verificarlo. La Organización Marítima Internacional registra 137 incidentes confirmados en Ormuz y Medio Oriente al 16 de noviembre.",
+    "en": "Iran's Revolutionary Guards said two tankers struck mines in the Strait of Hormuz and six caught fire since Sunday; Reuters could not verify the claims. The International Maritime Organization has recorded 137 confirmed incidents in Hormuz and the Middle East as of November 16.",
+    "pt": "A Guarda Revolucionária do Irã afirmou que dois petroleiros atingiram minas no estreito de Ormuz e que seis pegaram fogo desde domingo; a Reuters não conseguiu verificar. A Organização Marítima Internacional registra 137 incidentes confirmados em Ormuz e no Oriente Médio até 16 de novembro."
+   },
+   "scm": {
+    "es": "Mantén colchón de días en embarques que crucen Medio Oriente y confirma con tu naviera recargos de riesgo de guerra.",
+    "en": "Keep buffer days on shipments crossing the Middle East and confirm war-risk surcharges with your carrier.",
+    "pt": "Mantenha folga de dias em embarques que cruzem o Oriente Médio e confirme com o armador as sobretaxas de risco de guerra."
+   },
+   "fuentes": [
+    {
+     "t": "IBT: el petróleo baja por el superávit previsto; sigue el riesgo en Ormuz (16 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-markets-weigh-142928576.html"
+    }
+   ]
+  },
+  {
+   "id": "software",
+   "dir": "mixed",
+   "calor": 2,
+   "mx": false,
+   "latam": false,
+   "es": "Software e IA para supply chain",
+   "en": "Software and AI for supply chain",
+   "pt": "Software e IA para supply chain",
+   "titular": {
+    "es": "Anthropic saldría a bolsa el jueves 19 y levantaría unos 65,000 millones de dólares",
+    "en": "Anthropic is expected to list on Thursday the 19th and raise about $65 billion",
+    "pt": "A Anthropic deve abrir capital na quinta, dia 19, e captar cerca de 65 bilhões de dólares"
+   },
+   "x": {
+    "es": "Según AFP, analistas esperan que la oferta pública de Anthropic levante alrededor de 65,000 millones de dólares y la valúe en 1.3 billones; algunos inversionistas venden otras acciones de IA para entrar a la oferta.",
+    "en": "According to AFP, analysts expect Anthropic's IPO to raise around $65 billion and value it at $1.3 trillion; some investors are selling other AI holdings to buy into the offering.",
+    "pt": "Segundo a AFP, analistas esperam que o IPO da Anthropic capte cerca de 65 bilhões de dólares e a avalie em 1,3 trilhão; alguns investidores vendem outras ações de IA para entrar na oferta."
+   },
+   "scm": {
+    "es": "Si evalúas herramientas de IA para planeación, pide a tus proveedores precios y niveles de servicio fijos para 2027.",
+    "en": "If you are evaluating AI planning tools, ask vendors for fixed 2027 pricing and service levels.",
+    "pt": "Se você avalia ferramentas de IA para planejamento, peça aos fornecedores preços e níveis de serviço fixos para 2027."
+   },
+   "fuentes": [
+    {
+     "t": "AFP: las tecnológicas caen antes de los resultados de Nvidia y la salida a bolsa de Anthropic (16 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-extend-losses-traders-digest-030006305.html"
+    }
+   ]
+  },
+  {
+   "id": "mineria",
+   "dir": "down",
+   "calor": 2,
+   "mx": true,
+   "latam": true,
+   "es": "Minería y metales",
+   "en": "Mining and metals",
+   "pt": "Mineração e metais",
+   "titular": {
+    "es": "La plata cae 4.1% y el cobre 0.7% a 6.05 dólares",
+    "en": "Silver falls 4.1% and copper 0.7% to $6.05",
+    "pt": "A prata cai 4,1% e o cobre 0,7% para 6,05 dólares"
+   },
+   "x": {
+    "es": "A las 8:58 CDMX la plata estaba en 47.10 dólares por onza (−4.1%), el cobre en 6.05 dólares por libra (−0.7%) y el oro en 3,884 (−0.1%), con la aversión al riesgo global.",
+    "en": "At 9:58 a.m. ET silver was at $47.10 an ounce (−4.1%), copper at $6.05 per pound (−0.7%) and gold at $3,884 (−0.1%), amid global risk aversion.",
+    "pt": "Às 8h58 (Cidade do México) a prata estava a 47,10 dólares por onça (−4,1%), o cobre a 6,05 dólares por libra (−0,7%) e o ouro a 3.884 (−0,1%), com a aversão global ao risco."
+   },
+   "scm": {
+    "es": "Cotiza cable, conectores e insumos de cobre mientras el precio baja.",
+    "en": "Quote cable, connectors and copper inputs while prices fall.",
+    "pt": "Cote cabos, conectores e insumos de cobre enquanto o preço cai."
+   },
+   "fuentes": [
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 09:08 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
@@ -132,72 +202,6 @@
     {
      "t": "Yahoo Finance: S&P 500 y Nasdaq bajan con el PPI; Nvidia cae (13 nov 2026)",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    }
-   ]
-  },
-  {
-   "id": "mineria",
-   "dir": "mixed",
-   "calor": 2,
-   "mx": true,
-   "latam": true,
-   "es": "Minería y metales",
-   "en": "Mining and metals",
-   "pt": "Mineração e metais",
-   "titular": {
-    "es": "El cobre cae 2.2% a 6.06 dólares y la plata 2.7%",
-    "en": "Copper falls 2.2% to $6.06 and silver 2.7%",
-    "pt": "O cobre cai 2,2% para 6,06 dólares e a prata 2,7%"
-   },
-   "x": {
-    "es": "El cobre cerró la semana en 6.06 dólares por libra (−2.2% el viernes) y la plata en 48.71 (−2.7%), con el índice del dólar en 103.38 y el Treasury a 10 años en 5.15%. El martes reporta SQM, clave para el litio de Chile.",
-    "en": "Copper ended the week at $6.06 per pound (−2.2% on Friday) and silver at $48.71 (−2.7%), with the dollar index at 103.38 and the 10-year Treasury at 5.15%. SQM, key for Chile's lithium, reports on Tuesday.",
-    "pt": "O cobre fechou a semana a 6,06 dólares por libra (−2,2% na sexta) e a prata a 48,71 (−2,7%), com o índice do dólar em 103,38 e o Treasury de 10 anos em 5,15%. Na terça divulga resultados a SQM, chave para o lítio do Chile."
-   },
-   "scm": {
-    "es": "Aprovecha la baja para cotizar cable, conectores y componentes con cobre o plata para el primer trimestre.",
-    "en": "Use the dip to quote cable, connectors and copper or silver components for the first quarter.",
-    "pt": "Aproveite a queda para cotar cabos, conectores e componentes com cobre ou prata para o primeiro trimestre."
-   },
-   "fuentes": [
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas al cierre (13 nov 2026, 15:15 CDMX)",
-     "u": "https://finance.yahoo.com/markets/"
-    },
-    {
-     "t": "Earnings Whispers: calendario de resultados, semana del 16 de noviembre de 2026",
-     "u": "https://www.earningswhispers.com/calweek/20261116"
-    }
-   ]
-  },
-  {
-   "id": "puertos",
-   "dir": "down",
-   "calor": 3,
-   "mx": true,
-   "latam": true,
-   "es": "Marítimo y puertos",
-   "en": "Maritime and ports",
-   "pt": "Marítimo e portos",
-   "titular": {
-    "es": "Dos superpetroleros quedan inutilizados por minas en Ormuz",
-    "en": "Two supertankers disabled by mines in Hormuz",
-    "pt": "Dois superpetroleiros ficam inutilizados por minas em Ormuz"
-   },
-   "x": {
-    "es": "La Guardia Revolucionaria de Irán dijo que dos superpetroleros quedaron inutilizados por explosiones al chocar con minas el miércoles en la noche, tras ignorar advertencias de no usar una \"ruta no autorizada\" en el estrecho de Ormuz, según Reuters. Siguen buques en llamas, derrames y ataques a infraestructura en la zona.",
-    "en": "Iran's Revolutionary Guards said two supertankers were disabled by explosions after hitting mines on Wednesday night, having ignored warnings not to use an \"unauthorized route\" in the Strait of Hormuz, according to Reuters. Burning ships, spills and attacks on infrastructure continue in the area.",
-    "pt": "A Guarda Revolucionária do Irã disse que dois superpetroleiros ficaram inutilizados por explosões ao atingir minas na quarta à noite, depois de ignorar avisos para não usar uma \"rota não autorizada\" no estreito de Ormuz, segundo a Reuters. Continuam navios em chamas, vazamentos e ataques à infraestrutura na região."
-   },
-   "scm": {
-    "es": "Confirma primas de seguro de guerra y tiempos de tránsito en rutas del Golfo, y agrega colchón a los envíos de Asia que pasan por Medio Oriente.",
-    "en": "Confirm war-risk premiums and transit times on Gulf routes, and add buffer to Asian shipments routed through the Middle East.",
-    "pt": "Confirme os prêmios de seguro de guerra e os tempos de trânsito nas rotas do Golfo, e acrescente folga aos envios da Ásia que passam pelo Oriente Médio."
-   },
-   "fuentes": [
-    {
-     "t": "Reuters vía Yahoo Finance: el petróleo sube por los riesgos geopolíticos (12 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-falls-over-1-easing-045152522.html"
     }
    ]
   }

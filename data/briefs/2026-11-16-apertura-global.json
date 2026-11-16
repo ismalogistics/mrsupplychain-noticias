@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-16-apertura-global",
+ "fecha": "2026-11-16",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "Los chips se desploman antes de Nvidia: el Nasdaq cae 2% y Micron, Intel y Broadcom pierden más de 5%",
+  "esencial": [
+   "A las 9:08 CDMX el Nasdaq caía 2.00%, el S&P 500 1.25% y el Dow 0.52%; Micron bajaba 7.6%, Intel 6.3%, Broadcom 5.2%, AMD 4.8% y Nvidia 2.5%.",
+   "El Departamento de Comercio endurece el control a los chips de IA que llegan a China por terceros países, y Nvidia reporta el martes sin director permanente.",
+   "Para supply chain: confirma hoy pedidos, fechas y precios de GPU, memoria y servidores; el crudo baja 2% y abarata el combustible, pero el diésel sigue cerca de 6 dólares por galón."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "Los futuros anticipaban una caída en tecnología y la apertura la confirmó: a las 9:08 CDMX el S&P 500 estaba en 7,467.38 (−1.25%), el Nasdaq en 24,633.87 (−2.00%) y el Dow en 52,073.95 (−0.52%); el VIX subía 7.2% a 20.69. Micron caía 7.6%, Intel 6.3%, Broadcom 5.2%, AMD 4.8% y Nvidia 2.5% (158.77 dólares), según Yahoo Finance, por el endurecimiento de las restricciones a chips avanzados: el Departamento de Comercio cierra el acceso de China a cómputo por terceros países, y el secretario del Tesoro, Scott Bessent, pidió el domingo una sacudida en Nvidia con un director externo. El Treasury a 10 años bajaba a 5.13% (−2 pb). El WTI caía 1.8% a 86.95 dólares y el Brent 2.2% a 93.70, porque la Agencia Internacional de Energía prevé más oferta que demanda en el cuarto trimestre; el oro estaba en 3,884 (−0.1%), la plata caía 4.1% y el bitcoin estaba en 64,588 (−1.1%)."
+   },
+   {
+    "t": "Asia y Europa",
+    "x": "Asia cerró con fuertes caídas en tecnología: Taiwán −6.03%, KOSPI −3.59% (5,100.50), Nikkei −2.42% (59,662.02) y Shanghái −0.87%; Hang Seng +0.49%. A las 8:53 CDMX Europa resistía: Euro Stoxx 50 −0.14%, DAX −0.08%, CAC 40 +0.25% y FTSE 100 +0.34%."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Hoy no hay datos clave en EE. UU.; la Bolsa Mexicana no opera por el Día de la Revolución. En la semana: resultados de Home Depot y Nvidia el martes 17, de Target y Lowe's el miércoles 18, de Walmart y la salida a bolsa de Anthropic el jueves 19 (AFP estima que levantará unos 65,000 millones de dólares), además de las minutas de la Fed y las ventas minoristas de EE. UU."
+   }
+  ],
+  "scm": "La venta en chips y memoria y el control a las exportaciones pueden mover precios y plazos de GPU, servidores y almacenamiento: confirma hoy pedidos y fechas con tus distribuidores antes del reporte de Nvidia del martes. Aprovecha la baja del crudo para revisar recargos, pero calcúlalos con el diésel, que sigue cerca de 6 dólares por galón."
+ },
+ "en": {
+  "titular": "Chips plunge ahead of Nvidia: the Nasdaq falls 2% and Micron, Intel and Broadcom lose more than 5%",
+  "esencial": [
+   "At 10:08 a.m. ET the Nasdaq was down 2.00%, the S&P 500 1.25% and the Dow 0.52%; Micron fell 7.6%, Intel 6.3%, Broadcom 5.2%, AMD 4.8% and Nvidia 2.5%.",
+   "The Commerce Department is tightening control of AI chips reaching China through third countries, and Nvidia reports on Tuesday with no permanent CEO.",
+   "For supply chain: confirm GPU, memory and server orders, dates and prices today; crude falls 2% and eases fuel costs, but diesel stays near $6 a gallon."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "Futures pointed to a tech sell-off and the open confirmed it: at 10:08 a.m. ET the S&P 500 stood at 7,467.38 (−1.25%), the Nasdaq at 24,633.87 (−2.00%) and the Dow at 52,073.95 (−0.52%); the VIX rose 7.2% to 20.69. Micron fell 7.6%, Intel 6.3%, Broadcom 5.2%, AMD 4.8% and Nvidia 2.5% ($158.77), according to Yahoo Finance, on tighter restrictions on advanced chips: the Commerce Department is closing China's access to computing power through third countries, and Treasury Secretary Scott Bessent called on Sunday for a shakeup at Nvidia with an outside CEO. The 10-year Treasury eased to 5.13% (−2 bp). WTI fell 1.8% to $86.95 and Brent 2.2% to $93.70, as the International Energy Agency sees supply exceeding demand in the fourth quarter; gold was at $3,884 (−0.1%), silver fell 4.1% and bitcoin was at $64,588 (−1.1%)."
+   },
+   {
+    "t": "Asia and Europe",
+    "x": "Asia closed with steep tech losses: Taiwan −6.03%, KOSPI −3.59% (5,100.50), Nikkei −2.42% (59,662.02) and Shanghai −0.87%; Hang Seng +0.49%. At 9:53 a.m. ET Europe held up: Euro Stoxx 50 −0.14%, DAX −0.08%, CAC 40 +0.25% and FTSE 100 +0.34%."
+   },
+   {
+    "t": "What to expect today",
+    "x": "No key US data today; the Mexican Stock Exchange is closed for Revolution Day. This week: Home Depot and Nvidia results on Tuesday the 17th, Target and Lowe's on Wednesday the 18th, Walmart and Anthropic's IPO on Thursday the 19th (AFP estimates it will raise about $65 billion), plus the Fed minutes and US retail sales."
+   }
+  ],
+  "scm": "The sell-off in chips and memory and export controls could move GPU, server and storage prices and lead times: confirm orders and dates with your distributors today, before Nvidia's Tuesday report. Use the drop in crude to review surcharges, but base them on diesel, which stays near $6 a gallon."
+ },
+ "pt": {
+  "titular": "Os chips despencam antes da Nvidia: o Nasdaq cai 2% e Micron, Intel e Broadcom perdem mais de 5%",
+  "esencial": [
+   "Às 9h08 (Cidade do México) o Nasdaq caía 2,00%, o S&P 500 1,25% e o Dow 0,52%; a Micron caía 7,6%, a Intel 6,3%, a Broadcom 5,2%, a AMD 4,8% e a Nvidia 2,5%.",
+   "O Departamento de Comércio endurece o controle dos chips de IA que chegam à China por terceiros países, e a Nvidia divulga resultados na terça sem CEO permanente.",
+   "Para supply chain: confirme hoje pedidos, prazos e preços de GPUs, memória e servidores; o petróleo cai 2% e barateia o combustível, mas o diesel segue perto de 6 dólares por galão."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Os futuros antecipavam uma queda na tecnologia e a abertura confirmou: às 9h08 (Cidade do México) o S&P 500 estava em 7.467,38 (−1,25%), o Nasdaq em 24.633,87 (−2,00%) e o Dow em 52.073,95 (−0,52%); o VIX subia 7,2% para 20,69. A Micron caía 7,6%, a Intel 6,3%, a Broadcom 5,2%, a AMD 4,8% e a Nvidia 2,5% (158,77 dólares), segundo o Yahoo Finance, pelo endurecimento das restrições a chips avançados: o Departamento de Comércio fecha o acesso da China a computação por terceiros países, e o secretário do Tesouro, Scott Bessent, pediu no domingo uma sacudida na Nvidia com um CEO de fora. O Treasury de 10 anos caía para 5,13% (−2 pb). O WTI caía 1,8% para 86,95 dólares e o Brent 2,2% para 93,70, porque a Agência Internacional de Energia prevê oferta acima da demanda no quarto trimestre; o ouro estava em 3.884 (−0,1%), a prata caía 4,1% e o bitcoin estava em 64.588 (−1,1%)."
+   },
+   {
+    "t": "Ásia e Europa",
+    "x": "A Ásia fechou com fortes quedas na tecnologia: Taiwan −6,03%, KOSPI −3,59% (5.100,50), Nikkei −2,42% (59.662,02) e Xangai −0,87%; Hang Seng +0,49%. Às 8h53 (Cidade do México) a Europa resistia: Euro Stoxx 50 −0,14%, DAX −0,08%, CAC 40 +0,25% e FTSE 100 +0,34%."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Hoje não há dados-chave nos EUA; a Bolsa Mexicana não opera pelo Dia da Revolução. Na semana: resultados da Home Depot e da Nvidia na terça, dia 17, da Target e da Lowe's na quarta, dia 18, do Walmart e o IPO da Anthropic na quinta, dia 19 (a AFP estima que vai captar cerca de 65 bilhões de dólares), além da ata do Fed e das vendas no varejo dos EUA."
+   }
+  ],
+  "scm": "A queda em chips e memória e o controle de exportações podem mexer em preços e prazos de GPUs, servidores e armazenamento: confirme hoje pedidos e datas com seus distribuidores, antes do resultado da Nvidia de terça. Aproveite a queda do petróleo para revisar sobretaxas, mas calcule-as com o diesel, que segue perto de 6 dólares por galão."
+ },
+ "fuentes": [
+  {
+   "t": "AFP: las tecnológicas caen antes de los resultados de Nvidia y la salida a bolsa de Anthropic (16 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-extend-losses-traders-digest-030006305.html"
+  },
+  {
+   "t": "24/7 Wall St.: Nvidia cae 4%, AMD 6% y TSMC 5% antes de los resultados (16 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-4-ahead-earnings-141051719.html"
+  },
+  {
+   "t": "Yahoo Finance AlphaCheck: los chips caen por las restricciones de EE. UU. (16 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/article/copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-150019770.html"
+  },
+  {
+   "t": "IBT: el petróleo baja por el superávit previsto; sigue el riesgo en Ormuz (16 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-markets-weigh-142928576.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

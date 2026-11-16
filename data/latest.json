@@ -1,272 +1,269 @@
 {
- "actualizado": "2026-11-16T11:09:08Z",
- "momento": "premercado",
+ "actualizado": "2026-11-16T15:12:04Z",
+ "momento": "apertura",
  "briefs": {
   "global": {
-   "id": "2026-11-16-premercado-global",
+   "id": "2026-11-16-apertura-global",
    "fecha": "2026-11-16",
-   "momento": "premercado",
+   "momento": "apertura",
    "mercado": "global",
-   "hora": "05:07 CDMX",
-   "fin_de_semana": false,
+   "hora": "09:08 CDMX",
    "es": {
-    "titular": "Los chips vuelven a caer antes de Nvidia: los futuros del Nasdaq bajan 1% y el KOSPI se hunde 3.6%",
+    "titular": "Los chips se desploman antes de Nvidia: el Nasdaq cae 2% y Micron, Intel y Broadcom pierden más de 5%",
     "esencial": [
-     "A las 5:08 de Nueva York los futuros del Nasdaq 100 bajaban 0.97% y los del S&P 500 0.36%; Nvidia caía 2.2% antes de la apertura, tras su racha semanal de caídas más larga desde 2012.",
-     "Asia cerró a la baja: KOSPI −3.59% y Nikkei −2.42%; la economía de Japón se estancó en el tercer trimestre por el petróleo caro.",
-     "Para supply chain: semana de alto riesgo para la electrónica (Nvidia el martes, Anthropic más adelante) y nuevos reportes de tanqueros dañados en Ormuz."
+     "A las 9:08 CDMX el Nasdaq caía 2.00%, el S&P 500 1.25% y el Dow 0.52%; Micron bajaba 7.6%, Intel 6.3%, Broadcom 5.2%, AMD 4.8% y Nvidia 2.5%.",
+     "El Departamento de Comercio endurece el control a los chips de IA que llegan a China por terceros países, y Nvidia reporta el martes sin director permanente.",
+     "Para supply chain: confirma hoy pedidos, fechas y precios de GPU, memoria y servidores; el crudo baja 2% y abarata el combustible, pero el diésel sigue cerca de 6 dólares por galón."
     ],
     "bloques": [
      {
-      "t": "Lo que pasó desde el cierre",
-      "x": "El viernes el S&P 500 cerró con −0.40% y el Nasdaq con −0.91%, aunque los índices ganaron en la semana. El fin de semana, la Guardia Revolucionaria de Irán dijo que seis tanqueros se incendiaron el domingo y el lunes en el estrecho de Ormuz y que dos más chocaron con minas; Reuters no pudo confirmarlo. El Financial Times reportó que Jensen Huang considera regresar como director de Nvidia, lo que aumenta la incertidumbre antes de sus resultados del martes. En Japón, el PIB del tercer trimestre quedó prácticamente sin cambio frente al anterior (se esperaba +0.1%), golpeado por el petróleo caro y el yen débil."
+      "t": "Apertura",
+      "x": "Los futuros anticipaban una caída en tecnología y la apertura la confirmó: a las 9:08 CDMX el S&P 500 estaba en 7,467.38 (−1.25%), el Nasdaq en 24,633.87 (−2.00%) y el Dow en 52,073.95 (−0.52%); el VIX subía 7.2% a 20.69. Micron caía 7.6%, Intel 6.3%, Broadcom 5.2%, AMD 4.8% y Nvidia 2.5% (158.77 dólares), según Yahoo Finance, por el endurecimiento de las restricciones a chips avanzados: el Departamento de Comercio cierra el acceso de China a cómputo por terceros países, y el secretario del Tesoro, Scott Bessent, pidió el domingo una sacudida en Nvidia con un director externo. El Treasury a 10 años bajaba a 5.13% (−2 pb). El WTI caía 1.8% a 86.95 dólares y el Brent 2.2% a 93.70, porque la Agencia Internacional de Energía prevé más oferta que demanda en el cuarto trimestre; el oro estaba en 3,884 (−0.1%), la plata caía 4.1% y el bitcoin estaba en 64,588 (−1.1%)."
      },
      {
-      "t": "Asia, Europa y futuros",
-      "x": "Asia cerró a la baja: KOSPI −3.59% (5,100.50), Nikkei −2.42% (59,662.02) y Shanghái −0.87%; Hang Seng +0.49%. A las 4:52 CDMX Europa estaba mixta: Euro Stoxx 50 −0.23%, DAX −0.18%, CAC 40 +0.07% y FTSE 100 +0.26%. A las 5:08 de Nueva York los futuros del Nasdaq 100 bajaban 0.97%, los del S&P 500 0.36% y los del Dow subían 0.02%; antes de la apertura, Intel, AMD, Broadcom y Micron perdían entre 3.5% y 5%, según Reuters. El WTI estaba en 88.44 dólares (−0.1%), el Brent en 95.50 (−0.4%), el oro en 3,875 (−0.3%), la plata caía 3.0%, el cobre 0.9% (6.04 dólares por libra) y el bitcoin bajaba a 64,556."
+      "t": "Asia y Europa",
+      "x": "Asia cerró con fuertes caídas en tecnología: Taiwán −6.03%, KOSPI −3.59% (5,100.50), Nikkei −2.42% (59,662.02) y Shanghái −0.87%; Hang Seng +0.49%. A las 8:53 CDMX Europa resistía: Euro Stoxx 50 −0.14%, DAX −0.08%, CAC 40 +0.25% y FTSE 100 +0.34%."
      },
      {
       "t": "Qué se espera hoy",
-      "x": "Habla el presidente de la Fed, Kevin Warsh, en San Francisco, y también Beth Hammack, de la Fed de Cleveland. El mercado descuenta por completo un alza de la Fed en diciembre; la de medio punto tiene cerca de 8%, según CME FedWatch. En la semana: Nvidia el martes después del cierre, las minutas de la Fed el miércoles, Walmart el jueves, el debut en bolsa de Anthropic y las pláticas entre Trump y Xi Jinping. Hoy la BMV y los bancos de México cierran por el Día de la Revolución."
+      "x": "Hoy no hay datos clave en EE. UU.; la Bolsa Mexicana no opera por el Día de la Revolución. En la semana: resultados de Home Depot y Nvidia el martes 17, de Target y Lowe's el miércoles 18, de Walmart y la salida a bolsa de Anthropic el jueves 19 (AFP estima que levantará unos 65,000 millones de dólares), además de las minutas de la Fed y las ventas minoristas de EE. UU."
      }
     ],
-    "scm": "Con los chips otra vez a la baja y Nvidia sin director confirmado, confirma hoy pedidos y fechas de GPU, memoria y servidores; Dell y HP también caen antes de la apertura. Los reportes de tanqueros dañados en Ormuz mantienen caras las tarifas de buques: revisa recargos de flete marítimo de Asia y Medio Oriente."
+    "scm": "La venta en chips y memoria y el control a las exportaciones pueden mover precios y plazos de GPU, servidores y almacenamiento: confirma hoy pedidos y fechas con tus distribuidores antes del reporte de Nvidia del martes. Aprovecha la baja del crudo para revisar recargos, pero calcúlalos con el diésel, que sigue cerca de 6 dólares por galón."
    },
    "en": {
-    "titular": "Chips fall again ahead of Nvidia: Nasdaq futures drop 1% and the KOSPI sinks 3.6%",
+    "titular": "Chips plunge ahead of Nvidia: the Nasdaq falls 2% and Micron, Intel and Broadcom lose more than 5%",
     "esencial": [
-     "At 5:08 a.m. ET Nasdaq 100 futures were down 0.97% and S&P 500 futures 0.36%; Nvidia fell 2.2% premarket after its longest weekly losing streak since 2012.",
-     "Asia closed lower: KOSPI −3.59% and Nikkei −2.42%; Japan's economy stalled in the third quarter on expensive oil.",
-     "For supply chain: a high-risk week for electronics (Nvidia on Tuesday, Anthropic later) and new reports of damaged tankers in Hormuz."
+     "At 10:08 a.m. ET the Nasdaq was down 2.00%, the S&P 500 1.25% and the Dow 0.52%; Micron fell 7.6%, Intel 6.3%, Broadcom 5.2%, AMD 4.8% and Nvidia 2.5%.",
+     "The Commerce Department is tightening control of AI chips reaching China through third countries, and Nvidia reports on Tuesday with no permanent CEO.",
+     "For supply chain: confirm GPU, memory and server orders, dates and prices today; crude falls 2% and eases fuel costs, but diesel stays near $6 a gallon."
     ],
     "bloques": [
      {
-      "t": "What happened since the close",
-      "x": "On Friday the S&P 500 closed −0.40% and the Nasdaq −0.91%, though the indexes gained on the week. Over the weekend, Iran's Revolutionary Guards said six tankers caught fire on Sunday and Monday in the Strait of Hormuz and two more hit mines; Reuters could not confirm it. The Financial Times reported that Jensen Huang is considering a return as Nvidia CEO, adding to uncertainty ahead of Tuesday's results. In Japan, third-quarter GDP was virtually flat from the prior quarter (0.1% growth expected), hit by expensive oil and a weak yen."
+      "t": "Open",
+      "x": "Futures pointed to a tech sell-off and the open confirmed it: at 10:08 a.m. ET the S&P 500 stood at 7,467.38 (−1.25%), the Nasdaq at 24,633.87 (−2.00%) and the Dow at 52,073.95 (−0.52%); the VIX rose 7.2% to 20.69. Micron fell 7.6%, Intel 6.3%, Broadcom 5.2%, AMD 4.8% and Nvidia 2.5% ($158.77), according to Yahoo Finance, on tighter restrictions on advanced chips: the Commerce Department is closing China's access to computing power through third countries, and Treasury Secretary Scott Bessent called on Sunday for a shakeup at Nvidia with an outside CEO. The 10-year Treasury eased to 5.13% (−2 bp). WTI fell 1.8% to $86.95 and Brent 2.2% to $93.70, as the International Energy Agency sees supply exceeding demand in the fourth quarter; gold was at $3,884 (−0.1%), silver fell 4.1% and bitcoin was at $64,588 (−1.1%)."
      },
      {
-      "t": "Asia, Europe and futures",
-      "x": "Asia closed lower: KOSPI −3.59% (5,100.50), Nikkei −2.42% (59,662.02) and Shanghai −0.87%; Hang Seng +0.49%. At 5:52 a.m. ET Europe was mixed: Euro Stoxx 50 −0.23%, DAX −0.18%, CAC 40 +0.07% and FTSE 100 +0.26%. At 5:08 a.m. ET Nasdaq 100 futures were down 0.97%, S&P 500 futures 0.36% and Dow futures up 0.02%; premarket, Intel, AMD, Broadcom and Micron lost between 3.5% and 5%, according to Reuters. WTI was at $88.44 (−0.1%), Brent at $95.50 (−0.4%), gold at $3,875 (−0.3%), silver fell 3.0%, copper 0.9% ($6.04 per pound) and bitcoin dropped to $64,556."
+      "t": "Asia and Europe",
+      "x": "Asia closed with steep tech losses: Taiwan −6.03%, KOSPI −3.59% (5,100.50), Nikkei −2.42% (59,662.02) and Shanghai −0.87%; Hang Seng +0.49%. At 9:53 a.m. ET Europe held up: Euro Stoxx 50 −0.14%, DAX −0.08%, CAC 40 +0.25% and FTSE 100 +0.34%."
      },
      {
       "t": "What to expect today",
-      "x": "Fed Chair Kevin Warsh speaks in San Francisco, as does Cleveland Fed President Beth Hammack. The market fully prices a December Fed hike; a half-point move has about 8%, according to CME FedWatch. This week: Nvidia on Tuesday after the close, Fed minutes on Wednesday, Walmart on Thursday, Anthropic's market debut and talks between Trump and Xi Jinping. Today the BMV and Mexican banks close for Revolution Day."
+      "x": "No key US data today; the Mexican Stock Exchange is closed for Revolution Day. This week: Home Depot and Nvidia results on Tuesday the 17th, Target and Lowe's on Wednesday the 18th, Walmart and Anthropic's IPO on Thursday the 19th (AFP estimates it will raise about $65 billion), plus the Fed minutes and US retail sales."
      }
     ],
-    "scm": "With chips falling again and Nvidia without a confirmed CEO, confirm GPU, memory and server orders and dates today; Dell and HP also fall premarket. Reports of damaged tankers in Hormuz keep ship rates high: review ocean freight surcharges from Asia and the Middle East."
+    "scm": "The sell-off in chips and memory and export controls could move GPU, server and storage prices and lead times: confirm orders and dates with your distributors today, before Nvidia's Tuesday report. Use the drop in crude to review surcharges, but base them on diesel, which stays near $6 a gallon."
    },
    "pt": {
-    "titular": "Os chips voltam a cair antes da Nvidia: os futuros do Nasdaq caem 1% e o KOSPI afunda 3,6%",
+    "titular": "Os chips despencam antes da Nvidia: o Nasdaq cai 2% e Micron, Intel e Broadcom perdem mais de 5%",
     "esencial": [
-     "Às 5h08 de Nova York os futuros do Nasdaq 100 caíam 0,97% e os do S&P 500 0,36%; a Nvidia caía 2,2% no pré-mercado, após sua maior sequência semanal de quedas desde 2012.",
-     "A Ásia fechou em queda: KOSPI −3,59% e Nikkei −2,42%; a economia do Japão estagnou no terceiro trimestre pelo petróleo caro.",
-     "Para supply chain: semana de alto risco para a eletrônica (Nvidia na terça, Anthropic depois) e novos relatos de petroleiros danificados em Ormuz."
+     "Às 9h08 (Cidade do México) o Nasdaq caía 2,00%, o S&P 500 1,25% e o Dow 0,52%; a Micron caía 7,6%, a Intel 6,3%, a Broadcom 5,2%, a AMD 4,8% e a Nvidia 2,5%.",
+     "O Departamento de Comércio endurece o controle dos chips de IA que chegam à China por terceiros países, e a Nvidia divulga resultados na terça sem CEO permanente.",
+     "Para supply chain: confirme hoje pedidos, prazos e preços de GPUs, memória e servidores; o petróleo cai 2% e barateia o combustível, mas o diesel segue perto de 6 dólares por galão."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu desde o fechamento",
-      "x": "Na sexta o S&P 500 fechou com −0,40% e o Nasdaq com −0,91%, embora os índices tenham ganhado na semana. No fim de semana, a Guarda Revolucionária do Irã disse que seis petroleiros pegaram fogo no domingo e na segunda no estreito de Ormuz e que outros dois atingiram minas; a Reuters não conseguiu confirmar. O Financial Times informou que Jensen Huang considera voltar como CEO da Nvidia, o que aumenta a incerteza antes dos resultados de terça. No Japão, o PIB do terceiro trimestre ficou praticamente estável frente ao anterior (esperava-se +0,1%), afetado pelo petróleo caro e pelo iene fraco."
+      "t": "Abertura",
+      "x": "Os futuros antecipavam uma queda na tecnologia e a abertura confirmou: às 9h08 (Cidade do México) o S&P 500 estava em 7.467,38 (−1,25%), o Nasdaq em 24.633,87 (−2,00%) e o Dow em 52.073,95 (−0,52%); o VIX subia 7,2% para 20,69. A Micron caía 7,6%, a Intel 6,3%, a Broadcom 5,2%, a AMD 4,8% e a Nvidia 2,5% (158,77 dólares), segundo o Yahoo Finance, pelo endurecimento das restrições a chips avançados: o Departamento de Comércio fecha o acesso da China a computação por terceiros países, e o secretário do Tesouro, Scott Bessent, pediu no domingo uma sacudida na Nvidia com um CEO de fora. O Treasury de 10 anos caía para 5,13% (−2 pb). O WTI caía 1,8% para 86,95 dólares e o Brent 2,2% para 93,70, porque a Agência Internacional de Energia prevê oferta acima da demanda no quarto trimestre; o ouro estava em 3.884 (−0,1%), a prata caía 4,1% e o bitcoin estava em 64.588 (−1,1%)."
      },
      {
-      "t": "Ásia, Europa e futuros",
-      "x": "A Ásia fechou em queda: KOSPI −3,59% (5.100,50), Nikkei −2,42% (59.662,02) e Xangai −0,87%; Hang Seng +0,49%. Às 4h52 (Cidade do México) a Europa estava mista: Euro Stoxx 50 −0,23%, DAX −0,18%, CAC 40 +0,07% e FTSE 100 +0,26%. Às 5h08 de Nova York os futuros do Nasdaq 100 caíam 0,97%, os do S&P 500 0,36% e os do Dow subiam 0,02%; no pré-mercado, Intel, AMD, Broadcom e Micron perdiam entre 3,5% e 5%, segundo a Reuters. O WTI estava a 88,44 dólares (−0,1%), o Brent a 95,50 (−0,4%), o ouro a 3.875 (−0,3%), a prata caía 3,0%, o cobre 0,9% (6,04 dólares por libra) e o bitcoin caía para 64.556."
+      "t": "Ásia e Europa",
+      "x": "A Ásia fechou com fortes quedas na tecnologia: Taiwan −6,03%, KOSPI −3,59% (5.100,50), Nikkei −2,42% (59.662,02) e Xangai −0,87%; Hang Seng +0,49%. Às 8h53 (Cidade do México) a Europa resistia: Euro Stoxx 50 −0,14%, DAX −0,08%, CAC 40 +0,25% e FTSE 100 +0,34%."
      },
      {
       "t": "O que se espera hoje",
-      "x": "Fala o presidente do Fed, Kevin Warsh, em San Francisco, e também Beth Hammack, do Fed de Cleveland. O mercado precifica totalmente uma alta do Fed em dezembro; a de meio ponto tem cerca de 8%, segundo o CME FedWatch. Na semana: Nvidia na terça após o fechamento, as atas do Fed na quarta, Walmart na quinta, a estreia na bolsa da Anthropic e as conversas entre Trump e Xi Jinping. Hoje a BMV e os bancos do México fecham pelo Dia da Revolução."
+      "x": "Hoje não há dados-chave nos EUA; a Bolsa Mexicana não opera pelo Dia da Revolução. Na semana: resultados da Home Depot e da Nvidia na terça, dia 17, da Target e da Lowe's na quarta, dia 18, do Walmart e o IPO da Anthropic na quinta, dia 19 (a AFP estima que vai captar cerca de 65 bilhões de dólares), além da ata do Fed e das vendas no varejo dos EUA."
      }
     ],
-    "scm": "Com os chips caindo de novo e a Nvidia sem CEO confirmado, confirme hoje pedidos e datas de GPUs, memória e servidores; Dell e HP também caem no pré-mercado. Os relatos de petroleiros danificados em Ormuz mantêm altas as tarifas de navios: revise as sobretaxas de frete marítimo da Ásia e do Oriente Médio."
+    "scm": "A queda em chips e memória e o controle de exportações podem mexer em preços e prazos de GPUs, servidores e armazenamento: confirme hoje pedidos e datas com seus distribuidores, antes do resultado da Nvidia de terça. Aproveite a queda do petróleo para revisar sobretaxas, mas calcule-as com o diesel, que segue perto de 6 dólares por galão."
    },
    "fuentes": [
     {
-     "t": "Reuters vía Yahoo Finance: futuros del S&P 500 y Nasdaq bajan antes de Nvidia y del debut de Anthropic (16 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-slide-104351968.html"
+     "t": "AFP: las tecnológicas caen antes de los resultados de Nvidia y la salida a bolsa de Anthropic (16 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-extend-losses-traders-digest-030006305.html"
     },
     {
-     "t": "Offshore Technology vía Yahoo Finance: el petróleo sube por reportes de incidentes en Ormuz (16 nov 2026)",
-     "u": "https://finance.yahoo.com/news/oil-prices-edge-reported-hormuz-103523652.html"
+     "t": "24/7 Wall St.: Nvidia cae 4%, AMD 6% y TSMC 5% antes de los resultados (16 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-4-ahead-earnings-141051719.html"
     },
     {
-     "t": "Euronews vía Yahoo Finance: la economía de Japón se estanca en el tercer trimestre (16 nov 2026)",
-     "u": "https://finance.yahoo.com/economy/articles/japan-economy-stalls-inflation-weighs-101413786.html"
+     "t": "Yahoo Finance AlphaCheck: los chips caen por las restricciones de EE. UU. (16 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/article/copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-150019770.html"
     },
     {
-     "t": "Earnings Whispers: calendario de resultados, semana del 16 de noviembre de 2026",
-     "u": "https://www.earningswhispers.com/calweek/20261116"
+     "t": "IBT: el petróleo baja por el superávit previsto; sigue el riesgo en Ormuz (16 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-markets-weigh-142928576.html"
     },
     {
-     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (16 nov 2026, 05:07 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 09:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-16-premercado-latam",
+   "id": "2026-11-16-apertura-latam",
    "fecha": "2026-11-16",
-   "momento": "premercado",
+   "momento": "apertura",
    "mercado": "latam",
-   "hora": "05:07 CDMX",
-   "fin_de_semana": false,
+   "hora": "09:08 CDMX",
    "es": {
-    "titular": "La región arranca con los chips y el cobre a la baja; SQM reporta el martes",
+    "titular": "El Ibovespa cae 1.2% y el real se debilita a 5.75; el peso chileno pasa de 1,000",
     "esencial": [
-     "El viernes el Ibovespa cerró con +0.66% (172,457.77) y el S&P/TSX con −0.09%.",
-     "En la madrugada el cobre baja 0.9% (6.04 dólares por libra) y el peso chileno está en 996 por dólar; el real se aprecia a 5.64.",
-     "Cotiza insumos de cobre con el precio a la baja y revisa el reporte de SQM del martes si compras litio en Chile."
+     "A las 8:53 CDMX el Ibovespa bajaba 1.15% (170,473.53) y el ETF de MSCI de Argentina 2.0%.",
+     "El dólar subía 1.43% frente al real (5.75) y 0.82% frente al peso chileno (1,002), por la aversión al riesgo global.",
+     "Para supply chain: con monedas débiles y el cobre a la baja, escalona los pagos en reales y pesos chilenos y cotiza insumos de cobre."
     ],
     "bloques": [
      {
-      "t": "Lo que pasó desde el cierre",
-      "x": "El viernes el Ibovespa cerró con +0.66% (172,457.77) y el S&P/TSX con −0.09% (36,105.90). A las 5:07 CDMX el peso chileno estaba en 996.4 por dólar (+0.23% el dólar), el real en 5.64 (−0.46%) y el peso colombiano en 3,302.5."
+      "t": "Apertura",
+      "x": "A las 8:53 CDMX el Ibovespa bajaba 1.15% a 170,473.53 y a las 9:08 el S&P/TSX de Canadá 0.48%. Los ETF de MSCI bajaban 2.0% en Argentina, 0.8% en Perú y 0.6% en Chile. En monedas, a las 9:08 CDMX el dólar estaba en 5.75 reales (+1.43%), 1,002.3 pesos chilenos (+0.82%), 3,316 pesos colombianos (+0.41%), 3.41 soles (+0.41%), 1,550 pesos argentinos (+0.42%) y 1.430 dólares canadienses (+0.26%)."
      },
      {
       "t": "Contexto",
-      "x": "La caída de los chips y la debilidad de Asia (KOSPI −3.59%) enfrían el apetito por riesgo. El cobre baja 0.9% y el crudo se mantiene cerca de 95.50 dólares (Brent), con reportes de nuevos incidentes en Ormuz."
+      "x": "La venta global en tecnología y chips aumenta la aversión al riesgo y pesa sobre las monedas de la región. El cobre baja 0.7% (6.05 dólares por libra) y la plata 4.1%, lo que afecta a Chile, Perú y México; el Brent cae a 93.70 dólares, un respiro para los importadores de combustible."
      },
      {
       "t": "Qué se espera hoy",
-      "x": "Hoy no opera México. En la semana, el martes reporta SQM, clave para el litio de Chile, y las minutas de la Fed del miércoles pueden mover a las monedas de la región."
+      "x": "La agenda regional del lunes es ligera; México no opera por feriado. El martes 17 SQM, clave para el litio de Chile, reporta resultados después del cierre."
      }
     ],
-    "scm": "Cotiza cable e insumos de cobre con el precio a la baja y escalona los pagos en pesos chilenos. Si compras litio o químicos en Chile, espera el reporte de SQM del martes antes de negociar."
+    "scm": "Escalona los pagos en reales y pesos chilenos, que se debilitan hoy, y cotiza cable e insumos de cobre con el precio a la baja."
    },
    "en": {
-    "titular": "The region starts with chips and copper lower; SQM reports Tuesday",
+    "titular": "The Ibovespa falls 1.2% and the real weakens to 5.75; the Chilean peso crosses 1,000",
     "esencial": [
-     "On Friday the Ibovespa closed +0.66% (172,457.77) and the S&P/TSX −0.09%.",
-     "Overnight copper falls 0.9% ($6.04 per pound) and the Chilean peso is at 996 per dollar; the real firms to 5.64.",
-     "Quote copper inputs while the price dips and review SQM's Tuesday report if you buy lithium in Chile."
+     "At 8:53 a.m. Mexico City time the Ibovespa was down 1.15% (170,473.53) and the MSCI Argentina ETF 2.0%.",
+     "The dollar rose 1.43% against the real (5.75) and 0.82% against the Chilean peso (1,002), on global risk aversion.",
+     "For supply chain: with weak currencies and copper lower, stagger payments in reais and Chilean pesos and quote copper inputs."
     ],
     "bloques": [
      {
-      "t": "What happened since the close",
-      "x": "On Friday the Ibovespa closed +0.66% (172,457.77) and the S&P/TSX −0.09% (36,105.90). At 5:07 a.m. Mexico City time the Chilean peso was at 996.4 per dollar (dollar +0.23%), the real at 5.64 (−0.46%) and the Colombian peso at 3,302.5."
+      "t": "Open",
+      "x": "At 8:53 a.m. Mexico City time the Ibovespa was down 1.15% at 170,473.53 and at 9:08 Canada's S&P/TSX 0.48%. The MSCI ETFs fell 2.0% for Argentina, 0.8% for Peru and 0.6% for Chile. In currencies, at 9:08 a.m. the dollar stood at 5.75 reais (+1.43%), 1,002.3 Chilean pesos (+0.82%), 3,316 Colombian pesos (+0.41%), 3.41 soles (+0.41%), 1,550 Argentine pesos (+0.42%) and 1.430 Canadian dollars (+0.26%)."
      },
      {
       "t": "Context",
-      "x": "The chip selloff and weakness in Asia (KOSPI −3.59%) cool risk appetite. Copper falls 0.9% and crude holds near $95.50 (Brent), with reports of new incidents in Hormuz."
+      "x": "The global sell-off in tech and chips raises risk aversion and weighs on the region's currencies. Copper falls 0.7% ($6.05 per pound) and silver 4.1%, hitting Chile, Peru and Mexico; Brent drops to $93.70, a relief for fuel importers."
      },
      {
       "t": "What to expect today",
-      "x": "Mexico is closed today. This week, SQM, key for Chile's lithium, reports on Tuesday, and Wednesday's Fed minutes may move the region's currencies."
+      "x": "Monday's regional agenda is light; Mexico is closed for a holiday. On Tuesday the 17th SQM, key for Chile's lithium, reports results after the close."
      }
     ],
-    "scm": "Quote cable and copper inputs while prices dip and stagger payments in Chilean pesos. If you buy lithium or chemicals in Chile, wait for SQM's Tuesday report before negotiating."
+    "scm": "Stagger payments in reais and Chilean pesos, which weaken today, and quote cable and copper inputs while prices dip."
    },
    "pt": {
-    "titular": "A região começa com chips e cobre em queda; a SQM divulga resultados na terça",
+    "titular": "O Ibovespa cai 1,2% e o real se enfraquece para 5,75; o peso chileno passa de 1.000",
     "esencial": [
-     "Na sexta o Ibovespa fechou com +0,66% (172.457,77) e o S&P/TSX com −0,09%.",
-     "Na madrugada o cobre cai 0,9% (6,04 dólares por libra) e o peso chileno está em 996 por dólar; o real se valoriza para R$ 5,64.",
-     "Cote insumos de cobre com o preço em queda e acompanhe o resultado da SQM de terça se você compra lítio no Chile."
+     "Às 8h53 (Cidade do México) o Ibovespa caía 1,15% (170.473,53) e o ETF da MSCI da Argentina 2,0%.",
+     "O dólar subia 1,43% frente ao real (R$ 5,75) e 0,82% frente ao peso chileno (1.002), pela aversão global ao risco.",
+     "Para supply chain: com moedas fracas e o cobre em queda, escalone os pagamentos em reais e pesos chilenos e cote insumos de cobre."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu desde o fechamento",
-      "x": "Na sexta o Ibovespa fechou com +0,66% (172.457,77) e o S&P/TSX com −0,09% (36.105,90). Às 5h07 (Cidade do México) o peso chileno estava em 996,4 por dólar (dólar +0,23%), o dólar em R$ 5,64 (−0,46%) e o peso colombiano em 3.302,5."
+      "t": "Abertura",
+      "x": "Às 8h53 (Cidade do México) o Ibovespa caía 1,15% para 170.473,53 e às 9h08 o S&P/TSX do Canadá 0,48%. Os ETFs da MSCI caíam 2,0% na Argentina, 0,8% no Peru e 0,6% no Chile. Nas moedas, às 9h08 o dólar estava em R$ 5,75 (+1,43%), 1.002,3 pesos chilenos (+0,82%), 3.316 pesos colombianos (+0,41%), 3,41 soles (+0,41%), 1.550 pesos argentinos (+0,42%) e 1,430 dólar canadense (+0,26%)."
      },
      {
       "t": "Contexto",
-      "x": "A queda dos chips e a fraqueza da Ásia (KOSPI −3,59%) esfriam o apetite por risco. O cobre cai 0,9% e o petróleo se mantém perto de 95,50 dólares (Brent), com relatos de novos incidentes em Ormuz."
+      "x": "A venda global em tecnologia e chips aumenta a aversão ao risco e pesa sobre as moedas da região. O cobre cai 0,7% (6,05 dólares por libra) e a prata 4,1%, o que afeta Chile, Peru e México; o Brent cai para 93,70 dólares, um alívio para os importadores de combustível."
      },
      {
       "t": "O que se espera hoje",
-      "x": "Hoje o México não opera. Na semana, a SQM, chave para o lítio do Chile, divulga resultados na terça, e as atas do Fed de quarta podem mexer com as moedas da região."
+      "x": "A agenda regional de segunda é leve; o México não opera por feriado. Na terça, dia 17, a SQM, chave para o lítio do Chile, divulga resultados depois do fechamento."
      }
     ],
-    "scm": "Cote cabos e insumos de cobre com o preço em queda e escalone os pagamentos em pesos chilenos. Se você compra lítio ou químicos no Chile, espere o resultado da SQM de terça antes de negociar."
+    "scm": "Escalone os pagamentos em reais e pesos chilenos, que se enfraquecem hoje, e cote cabos e insumos de cobre com o preço em queda."
    },
    "fuentes": [
     {
-     "t": "Mr. Supply Chain México: mapa de calor de América (cierres del 13 nov)",
-     "u": "https://mrsupplychain.ai/noticias/"
-    },
-    {
-     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (16 nov 2026, 05:07 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 09:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
-     "t": "Earnings Whispers: calendario de resultados, semana del 16 de noviembre de 2026",
-     "u": "https://www.earningswhispers.com/calweek/20261116"
+     "t": "Mr. Supply Chain México: mapa de calor de América",
+     "u": "https://mrsupplychain.ai/noticias/"
+    },
+    {
+     "t": "IBT: el petróleo baja por el superávit previsto; sigue el riesgo en Ormuz (16 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-markets-weigh-142928576.html"
     }
    ]
   },
   "mexico": {
-   "id": "2026-11-16-premercado-mexico",
+   "id": "2026-11-16-apertura-mexico",
    "fecha": "2026-11-16",
-   "momento": "premercado",
+   "momento": "apertura",
    "mercado": "mexico",
-   "hora": "05:07 CDMX",
-   "fin_de_semana": false,
+   "hora": "09:08 CDMX",
    "es": {
-    "titular": "Hoy no opera la BMV por el Día de la Revolución; el peso amanece en 18.57",
+    "titular": "La BMV no opera por el Día de la Revolución; el peso se debilita a 18.66 con la venta en tecnología",
     "esencial": [
-     "La BMV y los bancos de México cierran hoy por el Día de la Revolución; no hay FIX de Banxico.",
-     "A las 5:07 CDMX el peso estaba en 18.57 por dólar, poco cambio frente a su cierre de 18.53 del viernes.",
-     "Para supply chain: con poca liquidez hoy, deja las compras de dólares para mañana y revisa los pagos que vencían hoy."
+     "La Bolsa Mexicana y los bancos cierran hoy por el Día de la Revolución; el IPC se quedó en 71,204.98 puntos (−0.84%) el viernes.",
+     "A las 9:08 CDMX el peso cotizaba en 18.66 por dólar (+0.74% el dólar), su nivel más débil en una semana, presionado por la aversión al riesgo.",
+     "Para supply chain: hoy no hay FIX ni liquidación bancaria; programa para el martes los pagos en dólares y cotiza coberturas con el peso en 18.66."
     ],
     "bloques": [
      {
-      "t": "Lo que pasó desde el cierre",
-      "x": "El viernes el S&P/BMV IPC cerró con −0.84% (71,204.98) y el peso en 18.53 por dólar, su mejor nivel de la semana. Hoy la BMV y los bancos cierran por el Día de la Revolución; el peso opera en el mercado internacional: a las 5:07 CDMX cotizaba en 18.57."
+      "t": "Apertura",
+      "x": "La Bolsa Mexicana y los bancos no operan hoy por el Día de la Revolución, así que no se determina el FIX. El S&P/BMV IPC quedó el viernes en 71,204.98 puntos (−0.84%). En el mercado internacional, a las 9:08 CDMX el peso cotizaba en 18.66 por dólar (+0.74% el dólar), su nivel más débil desde el lunes 9."
      },
      {
       "t": "Contexto",
-      "x": "El dólar se fortalece (índice DXY +0.1%) y los chips vuelven a caer antes de los resultados de Nvidia. El mercado da por hecha un alza de la Fed en diciembre, lo que estrecha el diferencial con Banxico (6.25%)."
+      "x": "La venta en tecnología en Wall Street (Nasdaq −2%) y en Asia (Taiwán −6%) aumenta la aversión al riesgo y presiona al peso, junto con el real (5.75, +1.4% el dólar) y el peso chileno (1,002). El Treasury a 10 años baja a 5.13% y el crudo cae 2%, lo que limita la presión."
      },
      {
       "t": "Qué se espera hoy",
-      "x": "Sin operaciones en México, el peso puede moverse con poca liquidez si el discurso de Kevin Warsh, presidente de la Fed, sorprende. En la semana: Nvidia el martes, las minutas de la Fed el miércoles y Walmart el jueves, referencia para el consumo y para Walmex. El 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre."
+      "x": "El martes 17 reabren la BMV y los bancos, con la subasta semanal de Cetes. El 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre y el 27 la balanza comercial de octubre."
      }
     ],
-    "scm": "Con los bancos cerrados y poca liquidez, deja las compras de dólares para mañana y confirma que los pagos que vencían hoy se hayan programado. Revisa con importadores los envíos que llegan esta semana."
+    "scm": "Hoy no hay FIX ni liquidación bancaria en México: programa para el martes los pagos en dólares que vencían hoy. Con el peso en 18.66, más débil que el viernes, escalona las compras de dólares en lugar de cerrar todo en un día."
    },
    "en": {
-    "titular": "The BMV is closed today for Revolution Day; the peso starts at 18.57",
+    "titular": "The BMV is closed for Revolution Day; the peso weakens to 18.66 on the tech sell-off",
     "esencial": [
-     "The BMV and Mexican banks close today for Revolution Day; there is no Banxico FIX.",
-     "At 5:07 a.m. Mexico City time the peso was at 18.57 per dollar, little changed from Friday's 18.53 close.",
-     "For supply chain: with thin liquidity today, leave dollar purchases for tomorrow and review payments that were due today."
+     "The Mexican Stock Exchange and banks are closed today for Revolution Day; the IPC ended Friday at 71,204.98 points (−0.84%).",
+     "At 9:08 a.m. Mexico City time the peso traded at 18.66 per dollar (dollar +0.74%), its weakest in a week, pressured by risk aversion.",
+     "For supply chain: there is no FIX or bank settlement today; schedule dollar payments for Tuesday and quote hedges with the peso at 18.66."
     ],
     "bloques": [
      {
-      "t": "What happened since the close",
-      "x": "On Friday the S&P/BMV IPC closed −0.84% (71,204.98) and the peso at 18.53 per dollar, its best level of the week. Today the BMV and banks close for Revolution Day; the peso trades in the international market: at 5:07 a.m. Mexico City time it was at 18.57."
+      "t": "Open",
+      "x": "The Mexican Stock Exchange and banks are closed today for Revolution Day, so no FIX is set. The S&P/BMV IPC ended Friday at 71,204.98 points (−0.84%). In international trading, at 9:08 a.m. Mexico City time the peso traded at 18.66 per dollar (dollar +0.74%), its weakest since Monday the 9th."
      },
      {
       "t": "Context",
-      "x": "The dollar firms (DXY +0.1%) and chips fall again ahead of Nvidia results. The market takes a December Fed hike for granted, narrowing the gap with Banxico (6.25%)."
+      "x": "The tech sell-off on Wall Street (Nasdaq −2%) and in Asia (Taiwan −6%) raises risk aversion and weighs on the peso, along with the real (5.75, dollar +1.4%) and the Chilean peso (1,002). The 10-year Treasury eases to 5.13% and crude falls 2%, which limits the pressure."
      },
      {
       "t": "What to expect today",
-      "x": "With no trading in Mexico, the peso may move on thin liquidity if Fed Chair Kevin Warsh's speech surprises. This week: Nvidia on Tuesday, Fed minutes on Wednesday and Walmart on Thursday, a gauge of consumption and of Walmex. On November 24 INEGI publishes first-half November inflation."
+      "x": "On Tuesday the 17th the BMV and banks reopen, with the weekly Cetes auction. On November 24 INEGI publishes first-half November inflation and on the 27th the October trade balance."
      }
     ],
-    "scm": "With banks closed and thin liquidity, leave dollar purchases for tomorrow and confirm that payments due today were scheduled. Review shipments arriving this week with importers."
+    "scm": "There is no FIX or bank settlement in Mexico today: schedule for Tuesday the dollar payments that were due today. With the peso at 18.66, weaker than Friday, stagger dollar purchases instead of closing everything in one day."
    },
    "pt": {
-    "titular": "Hoje a BMV não opera pelo Dia da Revolução; o peso amanhece a 18,57",
+    "titular": "A BMV não opera pelo Dia da Revolução; o peso se enfraquece para 18,66 com a venda em tecnologia",
     "esencial": [
-     "A BMV e os bancos do México fecham hoje pelo Dia da Revolução; não há FIX do Banxico.",
-     "Às 5h07 (Cidade do México) o peso estava a 18,57 por dólar, pouca variação frente ao fechamento de 18,53 de sexta.",
-     "Para supply chain: com pouca liquidez hoje, deixe as compras de dólares para amanhã e revise os pagamentos que venciam hoje."
+     "A Bolsa Mexicana e os bancos fecham hoje pelo Dia da Revolução; o IPC fechou a sexta em 71.204,98 pontos (−0,84%).",
+     "Às 9h08 (Cidade do México) o peso era cotado a 18,66 por dólar (dólar +0,74%), seu nível mais fraco em uma semana, pressionado pela aversão ao risco.",
+     "Para supply chain: hoje não há FIX nem liquidação bancária; programe para terça os pagamentos em dólares e cote proteções com o peso a 18,66."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu desde o fechamento",
-      "x": "Na sexta o S&P/BMV IPC fechou com −0,84% (71.204,98) e o peso a 18,53 por dólar, seu melhor nível da semana. Hoje a BMV e os bancos fecham pelo Dia da Revolução; o peso opera no mercado internacional: às 5h07 (Cidade do México) estava a 18,57."
+      "t": "Abertura",
+      "x": "A Bolsa Mexicana e os bancos não operam hoje pelo Dia da Revolução, por isso não é definido o FIX. O S&P/BMV IPC fechou a sexta em 71.204,98 pontos (−0,84%). No mercado internacional, às 9h08 (Cidade do México) o peso era cotado a 18,66 por dólar (dólar +0,74%), seu nível mais fraco desde a segunda, dia 9."
      },
      {
       "t": "Contexto",
-      "x": "O dólar se fortalece (DXY +0,1%) e os chips voltam a cair antes dos resultados da Nvidia. O mercado dá como certa uma alta do Fed em dezembro, o que estreita o diferencial com o Banxico (6,25%)."
+      "x": "A venda em tecnologia em Wall Street (Nasdaq −2%) e na Ásia (Taiwan −6%) aumenta a aversão ao risco e pressiona o peso, junto com o real (R$ 5,75, dólar +1,4%) e o peso chileno (1.002). O Treasury de 10 anos cai para 5,13% e o petróleo cai 2%, o que limita a pressão."
      },
      {
       "t": "O que se espera hoje",
-      "x": "Sem operações no México, o peso pode se mover com pouca liquidez se o discurso de Kevin Warsh, presidente do Fed, surpreender. Na semana: Nvidia na terça, as atas do Fed na quarta e Walmart na quinta, referência para o consumo e para o Walmex. Em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro."
+      "x": "Na terça, dia 17, a BMV e os bancos reabrem, com o leilão semanal de Cetes. Em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro e no dia 27 a balança comercial de outubro."
      }
     ],
-    "scm": "Com os bancos fechados e pouca liquidez, deixe as compras de dólares para amanhã e confirme que os pagamentos que venciam hoje foram programados. Revise com os importadores os envios que chegam nesta semana."
+    "scm": "Hoje não há FIX nem liquidação bancária no México: programe para terça os pagamentos em dólares que venciam hoje. Com o peso a 18,66, mais fraco que na sexta, escalone as compras de dólares em vez de fechar tudo em um dia."
    },
    "fuentes": [
     {
@@ -274,20 +271,20 @@
      "u": "https://finance.yahoo.com/quote/%5EMXX/"
     },
     {
-     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (16 nov 2026, 05:07 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 09:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
-     "t": "Reuters vía Yahoo Finance: futuros del S&P 500 y Nasdaq bajan antes de Nvidia y del debut de Anthropic (16 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-slide-104351968.html"
+     "t": "AFP: las tecnológicas caen antes de los resultados de Nvidia y la salida a bolsa de Anthropic (16 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-extend-losses-traders-digest-030006305.html"
     }
    ]
   }
  },
  "lectura": {
   "es": {
-   "titular": "Una semana de choques: salida de Jensen Huang, PPI de 6.5% y Treasury arriba de 5%; aun así, las bolsas de EE. UU. ganaron en la semana",
-   "resumen": "La semana combinó tres presiones para supply chain. Primero, el costo del dinero: el CPI y el PPI de octubre (6.5% anual en precios al productor) dejaron casi seguro un alza de la Fed en diciembre y llevaron al Treasury a 10 años a 5.17%, su máximo desde octubre. Segundo, la volatilidad en la cadena de la IA: Jensen Huang dejó Nvidia, cuyo valor bajó de 4 billones de dólares, y AMD cayó 8.75% el viernes, antes de los resultados de Nvidia del martes. Tercero, la energía: el Brent llegó a 96 dólares por Irán, pero terminó la semana con una baja de 2.5% ante el excedente que anticipa la AIE. En México el peso cerró en 18.53, su mejor nivel de la semana, mientras el real y el peso chileno se debilitaron. La prioridad es preparar aumentos de proveedores, financiar menos inventario con deuda en dólares y mantener recargos de combustible con ajuste semanal.",
+   "titular": "La venta en chips se acelera antes de Nvidia y el control a exportaciones; el crudo baja y da un respiro en combustible",
+   "resumen": "A las 9:08 CDMX el Nasdaq cae 2% y Micron, Intel y Broadcom pierden más de 5%, tras el desplome de Taiwán (−6%) y Corea (−3.6%); el Departamento de Comercio endurece el control a los chips de IA que llegan a China por terceros países y Nvidia reporta el martes sin director permanente. El crudo baja 2% (Brent en 93.70 dólares) porque la Agencia Internacional de Energía prevé superávit en el cuarto trimestre, pero el diésel sigue cerca de 6 dólares por galón y continúan los incidentes en Ormuz. El Treasury a 10 años cede a 5.13% y la Fed sigue rumbo a subir en diciembre. En México no operan la BMV ni los bancos, y el peso se debilita a 18.66. La prioridad es asegurar pedidos de cómputo y memoria, ajustar recargos al diésel y programar para el martes los pagos en dólares.",
    "temas": [
     {
      "tema": "Peso y tasas",
@@ -381,11 +378,6 @@
      "por_que": "Darán visibilidad sobre la demanda y el abasto de GPU y servidores para 2027."
     },
     {
-     "cuando": "Lunes 16 de noviembre",
-     "evento": "Día de la Revolución: cierran la BMV y los bancos en México",
-     "por_que": "Adelanta pagos y operaciones de tesorería."
-    },
-    {
      "cuando": "Viernes 20 de noviembre",
      "evento": "Vence la prórroga de las pláticas con los vigilantes de Los Ángeles–Long Beach",
      "por_que": "Un paro afectaría terminales con cerca de 85% de la carga de Long Beach."
@@ -393,8 +385,8 @@
    ]
   },
   "en": {
-   "titular": "A week of shocks: Jensen Huang's exit, 6.5% PPI and the Treasury above 5%; even so, US stocks gained on the week",
-   "resumen": "The week combined three pressures for supply chain. First, the cost of money: October CPI and PPI (6.5% year over year in producer prices) made a December Fed hike nearly certain and pushed the 10-year Treasury to 5.17%, its highest since October. Second, volatility in the AI chain: Jensen Huang left Nvidia, whose value fell below $4 trillion, and AMD fell 8.75% on Friday, ahead of Nvidia's Tuesday results. Third, energy: Brent reached $96 on Iran but ended the week down 2.5% on the surplus the IEA anticipates. In Mexico the peso closed at 18.53, its best level of the week, while the real and the Chilean peso weakened. The priority is to prepare for supplier increases, finance less inventory with dollar debt and keep fuel surcharges on weekly adjustment.",
+   "titular": "The chip sell-off accelerates ahead of Nvidia and export controls; crude falls and gives fuel costs a break",
+   "resumen": "At 10:08 a.m. ET the Nasdaq falls 2% and Micron, Intel and Broadcom lose more than 5%, after slumps in Taiwan (−6%) and Korea (−3.6%); the Commerce Department is tightening control of AI chips reaching China through third countries and Nvidia reports on Tuesday with no permanent CEO. Crude drops 2% (Brent at $93.70) as the International Energy Agency sees a fourth-quarter surplus, but diesel stays near $6 a gallon and incidents in Hormuz continue. The 10-year Treasury eases to 5.13% and the Fed remains on track to hike in December. In Mexico the BMV and banks are closed, and the peso weakens to 18.66. The priority is to secure compute and memory orders, tie surcharges to diesel and schedule dollar payments for Tuesday.",
    "temas": [
     {
      "tema": "Peso and rates",
@@ -488,11 +480,6 @@
      "por_que": "They will give visibility on GPU and server demand and supply for 2027."
     },
     {
-     "cuando": "Monday, Nov. 16",
-     "evento": "Revolution Day: the BMV and banks close in Mexico",
-     "por_que": "Pay early and move treasury operations forward."
-    },
-    {
      "cuando": "Friday, Nov. 20",
      "evento": "The extension of talks with the Los Angeles–Long Beach watchmen expires",
      "por_que": "A walkout would hit terminals handling about 85% of Long Beach cargo."
@@ -500,8 +487,8 @@
    ]
   },
   "pt": {
-   "titular": "Uma semana de choques: saída de Jensen Huang, PPI de 6,5% e Treasury acima de 5%; mesmo assim, as bolsas dos EUA ganharam na semana",
-   "resumen": "A semana combinou três pressões para supply chain. Primeiro, o custo do dinheiro: o CPI e o PPI de outubro (6,5% em 12 meses nos preços ao produtor) deixaram quase certa uma alta do Fed em dezembro e levaram o Treasury de 10 anos a 5,17%, o maior desde outubro. Segundo, a volatilidade na cadeia da IA: Jensen Huang deixou a Nvidia, cujo valor caiu abaixo de 4 trilhões de dólares, e a AMD caiu 8,75% na sexta, antes dos resultados da Nvidia de terça. Terceiro, a energia: o Brent chegou a 96 dólares pelo Irã, mas terminou a semana com queda de 2,5% diante do excedente que a AIE antecipa. No México o peso fechou a 18,53, seu melhor nível da semana, enquanto o real e o peso chileno se enfraqueceram. A prioridade é preparar-se para reajustes de fornecedores, financiar menos estoque com dívida em dólar e manter as sobretaxas de combustível com ajuste semanal.",
+   "titular": "A venda em chips se acelera antes da Nvidia e do controle de exportações; o petróleo cai e dá um alívio no combustível",
+   "resumen": "Às 9h08 (Cidade do México) o Nasdaq cai 2% e Micron, Intel e Broadcom perdem mais de 5%, depois do tombo de Taiwan (−6%) e da Coreia (−3,6%); o Departamento de Comércio endurece o controle dos chips de IA que chegam à China por terceiros países e a Nvidia divulga resultados na terça sem CEO permanente. O petróleo cai 2% (Brent a 93,70 dólares) porque a Agência Internacional de Energia prevê superávit no quarto trimestre, mas o diesel segue perto de 6 dólares por galão e continuam os incidentes em Ormuz. O Treasury de 10 anos cede para 5,13% e o Fed segue a caminho de subir os juros em dezembro. No México não operam a BMV nem os bancos, e o peso se enfraquece para 18,66. A prioridade é garantir pedidos de computação e memória, atrelar sobretaxas ao diesel e programar para terça os pagamentos em dólares.",
    "temas": [
     {
      "tema": "Peso e juros",
@@ -595,11 +582,6 @@
      "por_que": "Darão visibilidade sobre a demanda e o abastecimento de GPUs e servidores para 2027."
     },
     {
-     "cuando": "Segunda, 16 de novembro",
-     "evento": "Dia da Revolução: fecham a BMV e os bancos no México",
-     "por_que": "Antecipe pagamentos e operações de tesouraria."
-    },
-    {
      "cuando": "Sexta, 20 de novembro",
      "evento": "Vence a prorrogação das negociações com os vigilantes de Los Angeles–Long Beach",
      "por_que": "Uma paralisação afetaria terminais com cerca de 85% da carga de Long Beach."
@@ -621,8 +603,8 @@
    "nombre": "S&P 500",
    "name_en": "S&P 500",
    "grupo": "bolsa",
-   "valor": 7561.67,
-   "cambio": -0.4,
+   "valor": 7467.38,
+   "cambio": -1.25,
    "unidad": "puntos",
    "name_pt": "S&P 500"
   },
@@ -630,8 +612,8 @@
    "nombre": "Nasdaq",
    "name_en": "Nasdaq",
    "grupo": "bolsa",
-   "valor": 25136.27,
-   "cambio": -0.91,
+   "valor": 24633.87,
+   "cambio": -2.0,
    "unidad": "puntos",
    "name_pt": "Nasdaq"
   },
@@ -639,8 +621,8 @@
    "nombre": "Dow Jones",
    "name_en": "Dow Jones",
    "grupo": "bolsa",
-   "valor": 52347.55,
-   "cambio": 0.1,
+   "valor": 52073.95,
+   "cambio": -0.52,
    "unidad": "puntos",
    "name_pt": "Dow Jones"
   },
@@ -648,8 +630,8 @@
    "nombre": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
    "grupo": "bolsa",
-   "valor": 6371.86,
-   "cambio": -0.23,
+   "valor": 6377.99,
+   "cambio": -0.14,
    "unidad": "puntos",
    "name_pt": "Euro Stoxx 50"
   },
@@ -675,8 +657,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 18.57,
-   "cambio": 0.22,
+   "valor": 18.66,
+   "cambio": 0.74,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -684,8 +666,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.1008,
-   "cambio": -0.18,
+   "valor": 1.1013,
+   "cambio": -0.14,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -693,8 +675,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 159.67,
-   "cambio": -0.01,
+   "valor": 159.5,
+   "cambio": -0.12,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -702,8 +684,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 88.44,
-   "cambio": -0.14,
+   "valor": 86.95,
+   "cambio": -1.82,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -711,8 +693,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 95.5,
-   "cambio": -0.35,
+   "valor": 93.7,
+   "cambio": -2.23,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -729,8 +711,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3875.1,
-   "cambio": -0.29,
+   "valor": 3884.3,
+   "cambio": -0.05,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -738,8 +720,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 6.04,
-   "cambio": -0.88,
+   "valor": 6.05,
+   "cambio": -0.68,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -747,8 +729,8 @@
    "nombre": "Treasury 10 años",
    "name_en": "10-yr Treasury",
    "grupo": "bono",
-   "valor": 5.15,
-   "cambio": 5,
+   "valor": 5.13,
+   "cambio": -2,
    "unidad": "%",
    "name_pt": "Título do Tesouro 10 anos"
   },
@@ -774,19 +756,13 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 64556.08,
-   "cambio": -1.16,
+   "valor": 64588.39,
+   "cambio": -1.11,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }
  ],
  "agenda": [
-  {
-   "fecha": "2026-11-16",
-   "es": "México: Día de la Revolución, BMV y bancos cerrados",
-   "en": "Mexico: Revolution Day, BMV and banks closed",
-   "pt": "México: Dia da Revolução, BMV e bancos fechados"
-  },
   {
    "fecha": "2026-11-17",
    "es": "Nvidia reporta resultados después del cierre; Home Depot antes de la apertura",

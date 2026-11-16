@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-16-apertura-mexico",
+ "fecha": "2026-11-16",
+ "momento": "apertura",
+ "mercado": "mexico",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "La BMV no opera por el Día de la Revolución; el peso se debilita a 18.66 con la venta en tecnología",
+  "esencial": [
+   "La Bolsa Mexicana y los bancos cierran hoy por el Día de la Revolución; el IPC se quedó en 71,204.98 puntos (−0.84%) el viernes.",
+   "A las 9:08 CDMX el peso cotizaba en 18.66 por dólar (+0.74% el dólar), su nivel más débil en una semana, presionado por la aversión al riesgo.",
+   "Para supply chain: hoy no hay FIX ni liquidación bancaria; programa para el martes los pagos en dólares y cotiza coberturas con el peso en 18.66."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "La Bolsa Mexicana y los bancos no operan hoy por el Día de la Revolución, así que no se determina el FIX. El S&P/BMV IPC quedó el viernes en 71,204.98 puntos (−0.84%). En el mercado internacional, a las 9:08 CDMX el peso cotizaba en 18.66 por dólar (+0.74% el dólar), su nivel más débil desde el lunes 9."
+   },
+   {
+    "t": "Contexto",
+    "x": "La venta en tecnología en Wall Street (Nasdaq −2%) y en Asia (Taiwán −6%) aumenta la aversión al riesgo y presiona al peso, junto con el real (5.75, +1.4% el dólar) y el peso chileno (1,002). El Treasury a 10 años baja a 5.13% y el crudo cae 2%, lo que limita la presión."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "El martes 17 reabren la BMV y los bancos, con la subasta semanal de Cetes. El 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre y el 27 la balanza comercial de octubre."
+   }
+  ],
+  "scm": "Hoy no hay FIX ni liquidación bancaria en México: programa para el martes los pagos en dólares que vencían hoy. Con el peso en 18.66, más débil que el viernes, escalona las compras de dólares en lugar de cerrar todo en un día."
+ },
+ "en": {
+  "titular": "The BMV is closed for Revolution Day; the peso weakens to 18.66 on the tech sell-off",
+  "esencial": [
+   "The Mexican Stock Exchange and banks are closed today for Revolution Day; the IPC ended Friday at 71,204.98 points (−0.84%).",
+   "At 9:08 a.m. Mexico City time the peso traded at 18.66 per dollar (dollar +0.74%), its weakest in a week, pressured by risk aversion.",
+   "For supply chain: there is no FIX or bank settlement today; schedule dollar payments for Tuesday and quote hedges with the peso at 18.66."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "The Mexican Stock Exchange and banks are closed today for Revolution Day, so no FIX is set. The S&P/BMV IPC ended Friday at 71,204.98 points (−0.84%). In international trading, at 9:08 a.m. Mexico City time the peso traded at 18.66 per dollar (dollar +0.74%), its weakest since Monday the 9th."
+   },
+   {
+    "t": "Context",
+    "x": "The tech sell-off on Wall Street (Nasdaq −2%) and in Asia (Taiwan −6%) raises risk aversion and weighs on the peso, along with the real (5.75, dollar +1.4%) and the Chilean peso (1,002). The 10-year Treasury eases to 5.13% and crude falls 2%, which limits the pressure."
+   },
+   {
+    "t": "What to expect today",
+    "x": "On Tuesday the 17th the BMV and banks reopen, with the weekly Cetes auction. On November 24 INEGI publishes first-half November inflation and on the 27th the October trade balance."
+   }
+  ],
+  "scm": "There is no FIX or bank settlement in Mexico today: schedule for Tuesday the dollar payments that were due today. With the peso at 18.66, weaker than Friday, stagger dollar purchases instead of closing everything in one day."
+ },
+ "pt": {
+  "titular": "A BMV não opera pelo Dia da Revolução; o peso se enfraquece para 18,66 com a venda em tecnologia",
+  "esencial": [
+   "A Bolsa Mexicana e os bancos fecham hoje pelo Dia da Revolução; o IPC fechou a sexta em 71.204,98 pontos (−0,84%).",
+   "Às 9h08 (Cidade do México) o peso era cotado a 18,66 por dólar (dólar +0,74%), seu nível mais fraco em uma semana, pressionado pela aversão ao risco.",
+   "Para supply chain: hoje não há FIX nem liquidação bancária; programe para terça os pagamentos em dólares e cote proteções com o peso a 18,66."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "A Bolsa Mexicana e os bancos não operam hoje pelo Dia da Revolução, por isso não é definido o FIX. O S&P/BMV IPC fechou a sexta em 71.204,98 pontos (−0,84%). No mercado internacional, às 9h08 (Cidade do México) o peso era cotado a 18,66 por dólar (dólar +0,74%), seu nível mais fraco desde a segunda, dia 9."
+   },
+   {
+    "t": "Contexto",
+    "x": "A venda em tecnologia em Wall Street (Nasdaq −2%) e na Ásia (Taiwan −6%) aumenta a aversão ao risco e pressiona o peso, junto com o real (R$ 5,75, dólar +1,4%) e o peso chileno (1.002). O Treasury de 10 anos cai para 5,13% e o petróleo cai 2%, o que limita a pressão."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Na terça, dia 17, a BMV e os bancos reabrem, com o leilão semanal de Cetes. Em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro e no dia 27 a balança comercial de outubro."
+   }
+  ],
+  "scm": "Hoje não há FIX nem liquidação bancária no México: programe para terça os pagamentos em dólares que venciam hoje. Com o peso a 18,66, mais fraco que na sexta, escalone as compras de dólares em vez de fechar tudo em um dia."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), cierre del 13 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "AFP: las tecnológicas caen antes de los resultados de Nvidia y la salida a bolsa de Anthropic (16 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-extend-losses-traders-digest-030006305.html"
+  }
+ ]
+}

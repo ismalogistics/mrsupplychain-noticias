@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-16-apertura-latam",
+ "fecha": "2026-11-16",
+ "momento": "apertura",
+ "mercado": "latam",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "El Ibovespa cae 1.2% y el real se debilita a 5.75; el peso chileno pasa de 1,000",
+  "esencial": [
+   "A las 8:53 CDMX el Ibovespa bajaba 1.15% (170,473.53) y el ETF de MSCI de Argentina 2.0%.",
+   "El dólar subía 1.43% frente al real (5.75) y 0.82% frente al peso chileno (1,002), por la aversión al riesgo global.",
+   "Para supply chain: con monedas débiles y el cobre a la baja, escalona los pagos en reales y pesos chilenos y cotiza insumos de cobre."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 8:53 CDMX el Ibovespa bajaba 1.15% a 170,473.53 y a las 9:08 el S&P/TSX de Canadá 0.48%. Los ETF de MSCI bajaban 2.0% en Argentina, 0.8% en Perú y 0.6% en Chile. En monedas, a las 9:08 CDMX el dólar estaba en 5.75 reales (+1.43%), 1,002.3 pesos chilenos (+0.82%), 3,316 pesos colombianos (+0.41%), 3.41 soles (+0.41%), 1,550 pesos argentinos (+0.42%) y 1.430 dólares canadienses (+0.26%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "La venta global en tecnología y chips aumenta la aversión al riesgo y pesa sobre las monedas de la región. El cobre baja 0.7% (6.05 dólares por libra) y la plata 4.1%, lo que afecta a Chile, Perú y México; el Brent cae a 93.70 dólares, un respiro para los importadores de combustible."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "La agenda regional del lunes es ligera; México no opera por feriado. El martes 17 SQM, clave para el litio de Chile, reporta resultados después del cierre."
+   }
+  ],
+  "scm": "Escalona los pagos en reales y pesos chilenos, que se debilitan hoy, y cotiza cable e insumos de cobre con el precio a la baja."
+ },
+ "en": {
+  "titular": "The Ibovespa falls 1.2% and the real weakens to 5.75; the Chilean peso crosses 1,000",
+  "esencial": [
+   "At 8:53 a.m. Mexico City time the Ibovespa was down 1.15% (170,473.53) and the MSCI Argentina ETF 2.0%.",
+   "The dollar rose 1.43% against the real (5.75) and 0.82% against the Chilean peso (1,002), on global risk aversion.",
+   "For supply chain: with weak currencies and copper lower, stagger payments in reais and Chilean pesos and quote copper inputs."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "At 8:53 a.m. Mexico City time the Ibovespa was down 1.15% at 170,473.53 and at 9:08 Canada's S&P/TSX 0.48%. The MSCI ETFs fell 2.0% for Argentina, 0.8% for Peru and 0.6% for Chile. In currencies, at 9:08 a.m. the dollar stood at 5.75 reais (+1.43%), 1,002.3 Chilean pesos (+0.82%), 3,316 Colombian pesos (+0.41%), 3.41 soles (+0.41%), 1,550 Argentine pesos (+0.42%) and 1.430 Canadian dollars (+0.26%)."
+   },
+   {
+    "t": "Context",
+    "x": "The global sell-off in tech and chips raises risk aversion and weighs on the region's currencies. Copper falls 0.7% ($6.05 per pound) and silver 4.1%, hitting Chile, Peru and Mexico; Brent drops to $93.70, a relief for fuel importers."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Monday's regional agenda is light; Mexico is closed for a holiday. On Tuesday the 17th SQM, key for Chile's lithium, reports results after the close."
+   }
+  ],
+  "scm": "Stagger payments in reais and Chilean pesos, which weaken today, and quote cable and copper inputs while prices dip."
+ },
+ "pt": {
+  "titular": "O Ibovespa cai 1,2% e o real se enfraquece para 5,75; o peso chileno passa de 1.000",
+  "esencial": [
+   "Às 8h53 (Cidade do México) o Ibovespa caía 1,15% (170.473,53) e o ETF da MSCI da Argentina 2,0%.",
+   "O dólar subia 1,43% frente ao real (R$ 5,75) e 0,82% frente ao peso chileno (1.002), pela aversão global ao risco.",
+   "Para supply chain: com moedas fracas e o cobre em queda, escalone os pagamentos em reais e pesos chilenos e cote insumos de cobre."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 8h53 (Cidade do México) o Ibovespa caía 1,15% para 170.473,53 e às 9h08 o S&P/TSX do Canadá 0,48%. Os ETFs da MSCI caíam 2,0% na Argentina, 0,8% no Peru e 0,6% no Chile. Nas moedas, às 9h08 o dólar estava em R$ 5,75 (+1,43%), 1.002,3 pesos chilenos (+0,82%), 3.316 pesos colombianos (+0,41%), 3,41 soles (+0,41%), 1.550 pesos argentinos (+0,42%) e 1,430 dólar canadense (+0,26%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "A venda global em tecnologia e chips aumenta a aversão ao risco e pesa sobre as moedas da região. O cobre cai 0,7% (6,05 dólares por libra) e a prata 4,1%, o que afeta Chile, Peru e México; o Brent cai para 93,70 dólares, um alívio para os importadores de combustível."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "A agenda regional de segunda é leve; o México não opera por feriado. Na terça, dia 17, a SQM, chave para o lítio do Chile, divulga resultados depois do fechamento."
+   }
+  ],
+  "scm": "Escalone os pagamentos em reais e pesos chilenos, que se enfraquecem hoje, e cote cabos e insumos de cobre com o preço em queda."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "IBT: el petróleo baja por el superávit previsto; sigue el riesgo en Ormuz (16 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-markets-weigh-142928576.html"
+  }
+ ]
+}
