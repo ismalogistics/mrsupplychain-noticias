@@ -1,0 +1,103 @@
+{
+ "id": "2026-11-17-cierre-latam",
+ "fecha": "2026-11-17",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El Ibovespa resiste con +0.3% y el peso chileno cierra firme en 992; Canadá cae 1.1%",
+  "esencial": [
+   "El Ibovespa cerró en 169,815.73 (+0.31%) y el S&P/TSX de Canadá en 35,315.30 (−1.14%); México cayó 1.15%.",
+   "El dólar bajó frente al peso chileno (992, −0.57%), el real (5.78, −0.15%) y el peso colombiano (3,304, −0.35%).",
+   "Para supply chain: las monedas de la región cierran firmes; SQM reporta esta noche y su guía marcará el costo del litio."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El Ibovespa cerró en 169,815.73 (+0.31%), el S&P/TSX de Canadá en 35,315.30 (−1.14%) y el S&P/BMV IPC en 70,386.42 (−1.15%). Los ETF de MSCI subieron 0.40% en Chile, 0.31% en Argentina y 0.01% en Perú."
+   },
+   {
+    "t": "Por qué",
+    "x": "Brasil y los Andes resistieron la venta global en tecnología, que pegó más en Canadá y México. El cobre bajó 0.4% a 5.98 dólares por libra, cerca de su mínimo en más de cuatro meses, y el Brent subió 0.8% a 93.14 dólares."
+   },
+   {
+    "t": "Monedas",
+    "x": "Al cierre el dólar estaba en 5.78 reales (−0.15%), 992.3 pesos chilenos (−0.57%), 3,304 pesos colombianos (−0.35%), 3.41 soles (+0.06%), 1,552 pesos argentinos (+0.16%) y 1.429 dólares canadienses (−0.01%); el peso mexicano terminó en 18.42 (−0.48% el dólar)."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "SQM, clave para el litio de Chile, reporta después del cierre; su acción subió 0.9% antes del reporte. Mañana la región seguirá el resultado de Nvidia."
+   }
+  ],
+  "scm": "Aprovecha las monedas firmes para cerrar pagos en pesos chilenos y reales, y revisa contratos de litio y baterías tras el reporte de SQM."
+ },
+ "en": {
+  "titular": "The Ibovespa holds up at +0.3% and the Chilean peso closes firm at 992; Canada falls 1.1%",
+  "esencial": [
+   "The Ibovespa closed at 169,815.73 (+0.31%) and Canada's S&P/TSX at 35,315.30 (−1.14%); Mexico fell 1.15%.",
+   "The dollar fell against the Chilean peso (992, −0.57%), the real (5.78, −0.15%) and the Colombian peso (3,304, −0.35%).",
+   "For supply chain: the region's currencies close firm; SQM reports tonight and its guidance will shape lithium costs."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The Ibovespa closed at 169,815.73 (+0.31%), Canada's S&P/TSX at 35,315.30 (−1.14%) and the S&P/BMV IPC at 70,386.42 (−1.15%). The MSCI ETFs rose 0.40% for Chile, 0.31% for Argentina and 0.01% for Peru."
+   },
+   {
+    "t": "Why",
+    "x": "Brazil and the Andes withstood the global tech sell-off, which hit Canada and Mexico harder. Copper fell 0.4% to $5.98 per pound, near its lowest in more than four months, and Brent rose 0.8% to $93.14."
+   },
+   {
+    "t": "Currencies",
+    "x": "At the close the dollar stood at 5.78 reais (−0.15%), 992.3 Chilean pesos (−0.57%), 3,304 Colombian pesos (−0.35%), 3.41 soles (+0.06%), 1,552 Argentine pesos (+0.16%) and 1.429 Canadian dollars (−0.01%); the Mexican peso ended at 18.42 (dollar −0.48%)."
+   },
+   {
+    "t": "What to expect",
+    "x": "SQM, key for Chile's lithium, reports after the close; its stock rose 0.9% ahead of the report. Tomorrow the region will follow Nvidia's results."
+   }
+  ],
+  "scm": "Use the firm currencies to close payments in Chilean pesos and reais, and review lithium and battery contracts after the SQM report."
+ },
+ "pt": {
+  "titular": "O Ibovespa resiste com +0,3% e o peso chileno fecha firme em 992; o Canadá cai 1,1%",
+  "esencial": [
+   "O Ibovespa fechou em 169.815,73 (+0,31%) e o S&P/TSX do Canadá em 35.315,30 (−1,14%); o México caiu 1,15%.",
+   "O dólar caiu frente ao peso chileno (992, −0,57%), ao real (R$ 5,78, −0,15%) e ao peso colombiano (3.304, −0,35%).",
+   "Para supply chain: as moedas da região fecham firmes; a SQM divulga resultados esta noite e sua projeção vai marcar o custo do lítio."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O Ibovespa fechou em 169.815,73 (+0,31%), o S&P/TSX do Canadá em 35.315,30 (−1,14%) e o S&P/BMV IPC em 70.386,42 (−1,15%). Os ETFs da MSCI subiram 0,40% no Chile, 0,31% na Argentina e 0,01% no Peru."
+   },
+   {
+    "t": "Por quê",
+    "x": "O Brasil e os Andes resistiram à venda global em tecnologia, que atingiu mais o Canadá e o México. O cobre caiu 0,4% para 5,98 dólares por libra, perto da mínima em mais de quatro meses, e o Brent subiu 0,8% para 93,14 dólares."
+   },
+   {
+    "t": "Moedas",
+    "x": "No fechamento o dólar estava em R$ 5,78 (−0,15%), 992,3 pesos chilenos (−0,57%), 3.304 pesos colombianos (−0,35%), 3,41 soles (+0,06%), 1.552 pesos argentinos (+0,16%) e 1,429 dólar canadense (−0,01%); o peso mexicano terminou em 18,42 (dólar −0,48%)."
+   },
+   {
+    "t": "O que se espera",
+    "x": "A SQM, chave para o lítio do Chile, divulga resultados depois do fechamento; sua ação subiu 0,9% antes do resultado. Amanhã a região vai acompanhar o resultado da Nvidia."
+   }
+  ],
+  "scm": "Aproveite as moedas firmes para fechar pagamentos em pesos chilenos e reais e revise contratos de lítio e baterias depois do resultado da SQM."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 15:15 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "Reuters: el petróleo sube por ataques a tanqueros y una caída esperada de inventarios en EE. UU. (17 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-slips-supply-surplus-outlook-013927034.html"
+  }
+ ]
+}

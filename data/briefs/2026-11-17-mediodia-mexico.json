@@ -9,7 +9,7 @@
   "esencial": [
    "A las 11:18 CDMX el S&P/BMV IPC estaba en 71,170.22 puntos (−0.05%), estable pese a la caída en Wall Street.",
    "A las 11:38 CDMX el peso cotizaba en 18.41 por dólar (−0.53% el dólar), mejor que en la apertura (18.48).",
-   "Para supply chain: el peso en 18.41 es buen nivel para cubrir compras de dólares de diciembre; rige el FIX de 18.5525 para pagos de hoy."
+   "Para supply chain: el peso en 18.41 es buen nivel para cubrir compras de dólares de diciembre; para pagos de hoy rige el FIX de 18.6188 y desde mañana el de 18.5525."
   ],
   "bloques": [
    {
@@ -25,14 +25,14 @@
     "x": "El peso se fortaleció pese a la caída de Wall Street y de Europa, ayudado por la baja del Treasury y por un dólar más débil (índice del dólar −0.14%); el peso chileno también se fortaleció a 991. Hoy hay subasta semanal de Cetes y el FIX de hoy se publica mañana en el DOF."
    }
   ],
-  "scm": "Con el peso en 18.41, su mejor nivel en semanas, cubre una parte de las compras de dólares de diciembre. Los pagos en dólares de hoy en México se liquidan con el FIX de 18.5525."
+  "scm": "Con el peso en 18.41, su mejor nivel en semanas, cubre una parte de las compras de dólares de diciembre. Los pagos en dólares de hoy en México se liquidan con el FIX de 18.6188; desde mañana, con el de 18.5525."
  },
  "en": {
   "titular": "The peso firms to 18.41, its best level in weeks; the IPC holds flat",
   "esencial": [
    "At 11:18 a.m. Mexico City time the S&P/BMV IPC stood at 71,170.22 points (−0.05%), steady despite the Wall Street drop.",
    "At 11:38 a.m. the peso traded at 18.41 per dollar (dollar −0.53%), better than at the open (18.48).",
-   "For supply chain: the peso at 18.41 is a good level to hedge December dollar purchases; the 18.5525 FIX applies to payments today."
+   "For supply chain: the peso at 18.41 is a good level to hedge December dollar purchases; the 18.6188 FIX applies to payments today and 18.5525 from tomorrow."
   ],
   "bloques": [
    {
@@ -48,14 +48,14 @@
     "x": "The peso firmed despite the drop on Wall Street and in Europe, helped by the lower Treasury yield and a weaker dollar (dollar index −0.14%); the Chilean peso also firmed to 991. Today is the weekly Cetes auction and today's FIX is published tomorrow in the DOF."
    }
   ],
-  "scm": "With the peso at 18.41, its best level in weeks, hedge part of your December dollar purchases. Dollar payments in Mexico today settle at the 18.5525 FIX."
+  "scm": "With the peso at 18.41, its best level in weeks, hedge part of your December dollar purchases. Dollar payments in Mexico today settle at the 18.6188 FIX; from tomorrow, at 18.5525."
  },
  "pt": {
   "titular": "O peso se fortalece para 18,41, seu melhor nível em semanas; o IPC fica estável",
   "esencial": [
    "Às 11h18 (Cidade do México) o S&P/BMV IPC estava em 71.170,22 pontos (−0,05%), estável apesar da queda em Wall Street.",
    "Às 11h38 o peso era cotado a 18,41 por dólar (dólar −0,53%), melhor que na abertura (18,48).",
-   "Para supply chain: o peso a 18,41 é bom nível para proteger compras de dólares de dezembro; vale o FIX de 18,5525 para pagamentos de hoje."
+   "Para supply chain: o peso a 18,41 é bom nível para proteger compras de dólares de dezembro; para pagamentos de hoje vale o FIX de 18,6188 e a partir de amanhã o de 18,5525."
   ],
   "bloques": [
    {
@@ -71,7 +71,7 @@
     "x": "O peso se fortaleceu apesar da queda de Wall Street e da Europa, ajudado pela queda do Treasury e por um dólar mais fraco (índice do dólar −0,14%); o peso chileno também se fortaleceu para 991. Hoje há o leilão semanal de Cetes e o FIX de hoje sai amanhã no DOF."
    }
   ],
-  "scm": "Com o peso a 18,41, seu melhor nível em semanas, proteja parte das compras de dólares de dezembro. Os pagamentos em dólares de hoje no México são liquidados com o FIX de 18,5525."
+  "scm": "Com o peso a 18,41, seu melhor nível em semanas, proteja parte das compras de dólares de dezembro. Os pagamentos em dólares de hoje no México são liquidados com o FIX de 18,6188; a partir de amanhã, com o de 18,5525."
  },
  "fuentes": [
   {

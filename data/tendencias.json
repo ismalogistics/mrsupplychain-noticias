@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-17T17:40:12Z",
+ "actualizado": "2026-11-17T21:18:33Z",
  "fecha": "2026-11-17",
  "titular": {
-  "es": "Mediodía: los rivales de Nvidia ganan clientes, Europa tiene su peor día en ocho meses y el cobre sigue en mínimos",
-  "en": "Midday: Nvidia's rivals win customers, Europe has its worst day in eight months and copper stays at lows",
-  "pt": "Meio-dia: rivais da Nvidia ganham clientes, a Europa tem seu pior dia em oito meses e o cobre segue na mínima"
+  "es": "Martes: el mercado recorta riesgo antes de Nvidia, escalan los ataques en Medio Oriente y el cobre sigue cerca de mínimos",
+  "en": "Tuesday: markets cut risk ahead of Nvidia, Middle East attacks escalate and copper stays near lows",
+  "pt": "Terça: o mercado reduz risco antes da Nvidia, escalam os ataques no Oriente Médio e o cobre segue perto da mínima"
  },
  "items": [
   {
@@ -17,14 +17,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Rivales de Nvidia ganan clientes tras la salida de Huang; ASML cae 5.3% y TSMC 3.5%",
-    "en": "Nvidia's rivals win customers after Huang's exit; ASML falls 5.3% and TSMC 3.5%",
-    "pt": "Rivais da Nvidia ganham clientes depois da saída de Huang; ASML cai 5,3% e TSMC 3,5%"
+    "es": "TSMC cae 3.7% y Broadcom sube 2.5% en la víspera del reporte de Nvidia",
+    "en": "TSMC falls 3.7% and Broadcom rises 2.5% on the eve of Nvidia's report",
+    "pt": "A TSMC cai 3,7% e a Broadcom sobe 2,5% na véspera do resultado da Nvidia"
    },
    "x": {
-    "es": "Según The Information, AMD y Google ganan clientes de chips de IA tras la salida de Jensen Huang de Nvidia. ASML cayó 5.3% y la tecnología europea 3.9%, su peor día desde febrero; a las 11:38 CDMX TSMC bajaba 3.5%, Micron 3.2% y Nvidia 1.3%, que reporta hoy después del cierre.",
-    "en": "According to The Information, AMD and Google are winning AI chip customers after Jensen Huang's exit from Nvidia. ASML fell 5.3% and European tech 3.9%, its worst day since February; at 12:38 p.m. ET TSMC was down 3.5%, Micron 3.2% and Nvidia 1.3%, which reports today after the close.",
-    "pt": "Segundo o The Information, AMD e Google ganham clientes de chips de IA depois da saída de Jensen Huang da Nvidia. A ASML caiu 5,3% e a tecnologia europeia 3,9%, seu pior dia desde fevereiro; às 11h38 (Cidade do México) a TSMC caía 3,5%, a Micron 3,2% e a Nvidia 1,3%, que divulga resultados hoje depois do fechamento."
+    "es": "TSMC cerró con −3.7%, Micron −0.9% y Nvidia −0.4%, mientras Broadcom subió 2.5%; según The Information, AMD y Google ganan clientes de chips de IA tras la salida de Huang. Nvidia reporta después del cierre, con ingresos esperados de 109,150 millones de dólares.",
+    "en": "TSMC closed −3.7%, Micron −0.9% and Nvidia −0.4%, while Broadcom rose 2.5%; according to The Information, AMD and Google are winning AI chip customers after Huang's exit. Nvidia reports after the close, with expected revenue of $109.15 billion.",
+    "pt": "A TSMC fechou com −3,7%, a Micron −0,9% e a Nvidia −0,4%, enquanto a Broadcom subiu 2,5%; segundo o The Information, AMD e Google ganham clientes de chips de IA depois da saída de Huang. A Nvidia divulga resultados depois do fechamento, com receita esperada de 109,15 bilhões de dólares."
    },
    "scm": {
     "es": "Si dependes de un solo proveedor de GPU, pide cotizaciones alternativas (AMD, TPU de Google) antes de cerrar compras del primer trimestre.",
@@ -33,16 +33,16 @@
    },
    "fuentes": [
     {
+     "t": "Reuters: las bolsas caen en el mundo antes de Nvidia; el dólar cede (17 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-stumble-tech-weakness-012906483.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 15:15 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
+    },
+    {
      "t": "Stocktwits / The Information: rivales de Nvidia ganan clientes tras la salida de Huang (17 nov 2026)",
      "u": "https://finance.yahoo.com/technology/articles/rival-chipmakers-reportedly-chip-away-173133889.html"
-    },
-    {
-     "t": "Reuters: las bolsas europeas tienen su peor día en ocho meses por la IA (17 nov 2026)",
-     "u": "https://finance.yahoo.com/technology/ai/articles/european-shares-ease-tech-stocks-081814187.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 11:38 CDMX)",
-     "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
@@ -56,14 +56,14 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo modera su alza (Brent 93.03 dólares) y el diésel baja a 3.97",
-    "en": "Crude pares gains (Brent $93.03) and diesel drops to $3.97",
-    "pt": "O petróleo modera a alta (Brent a 93,03 dólares) e o diesel cai para 3,97"
+    "es": "El Brent cierra en 93.14 dólares (+0.8%) por ataques en Medio Oriente, pero acumula −20% en noviembre",
+    "en": "Brent settles at $93.14 (+0.8%) on Middle East attacks, but is down 20% in November",
+    "pt": "O Brent fecha a 93,14 dólares (+0,8%) por ataques no Oriente Médio, mas acumula −20% em novembro"
    },
    "x": {
-    "es": "A las 11:28 CDMX el Brent estaba en 93.03 dólares (+0.6%) y el WTI en 86.21 (+0.6%), por debajo del alza de 1.3% de la mañana tras nuevos ataques en Ormuz. El futuro del diésel bajaba 0.8% a 3.97 dólares por galón.",
-    "en": "At 12:28 p.m. ET Brent was at $93.03 (+0.6%) and WTI at $86.21 (+0.6%), below the morning gain of 1.3% after new attacks in Hormuz. Diesel futures fell 0.8% to $3.97 a gallon.",
-    "pt": "Às 11h28 (Cidade do México) o Brent estava a 93,03 dólares (+0,6%) e o WTI a 86,21 (+0,6%), abaixo da alta de 1,3% da manhã depois de novos ataques em Ormuz. O futuro do diesel caía 0,8% para 3,97 dólares por galão."
+    "es": "El Brent cerró en 93.14 dólares (+0.76%) y el WTI en 86.01 (+0.34%), según Reuters, por los ataques a tanqueros en Ormuz y una caída esperada de inventarios en EE. UU. Aun así, el Brent acumula −20% en noviembre y el WTI −16%, por la recuperación de las exportaciones de Medio Oriente; el costo de transportar petróleo por mar se desploma.",
+    "en": "Brent settled at $93.14 (+0.76%) and WTI at $86.01 (+0.34%), according to Reuters, on tanker attacks in Hormuz and an expected drop in US inventories. Even so, Brent is down 20% in November and WTI 16%, as Middle East exports recover; the cost of shipping oil by sea is plunging.",
+    "pt": "O Brent fechou a 93,14 dólares (+0,76%) e o WTI a 86,01 (+0,34%), segundo a Reuters, pelos ataques a petroleiros em Ormuz e uma queda esperada dos estoques nos EUA. Mesmo assim, o Brent acumula −20% em novembro e o WTI −16%, pela recuperação das exportações do Oriente Médio; o custo de transportar petróleo por mar despenca."
    },
    "scm": {
     "es": "No fijes recargos de combustible a largo plazo: con el crudo moviéndose 3% al día, pide revisión semanal con el diésel.",
@@ -72,15 +72,11 @@
    },
    "fuentes": [
     {
-     "t": "MT Newswires: el petróleo sube tras ataques a barcos en Ormuz (17 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/commodities/articles/canada-commodities-oil-prices-climb-144951548.html"
+     "t": "Reuters: el petróleo sube por ataques a tanqueros y una caída esperada de inventarios en EE. UU. (17 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-slips-supply-surplus-outlook-013927034.html"
     },
     {
-     "t": "Yahoo Finance AlphaCheck: las acciones bajan antes de Nvidia y cae Home Depot (17 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/article/copy-copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-145755423.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 15:15 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -88,21 +84,21 @@
   {
    "id": "puertos",
    "dir": "down",
-   "calor": 2,
+   "calor": 3,
    "mx": true,
    "latam": true,
    "es": "Marítimo y puertos",
    "en": "Maritime and ports",
    "pt": "Marítimo e portos",
    "titular": {
-    "es": "Siguen los ataques a barcos en Ormuz y el riesgo para los embarques de Medio Oriente",
-    "en": "Attacks on ships in Hormuz continue, keeping Middle East shipments at risk",
-    "pt": "Seguem os ataques a navios em Ormuz e o risco para os embarques do Oriente Médio"
+    "es": "Un barco es alcanzado dos veces en Ormuz; EE. UU. bombardea Qeshm e Irán ataca un radar en Baréin",
+    "en": "A ship is hit twice in Hormuz; the US strikes Qeshm and Iran attacks a radar in Bahrain",
+    "pt": "Um navio é atingido duas vezes em Ormuz; os EUA bombardeiam Qeshm e o Irã ataca um radar no Bahrein"
    },
    "x": {
-    "es": "El martes se reportaron nuevos ataques a barcos en el estrecho de Ormuz, un día después de que la Guardia Revolucionaria de Irán afirmara que dos tanqueros chocaron con minas. El tránsito se había recuperado, pero los incidentes mantienen el riesgo para los embarques por Medio Oriente.",
-    "en": "New attacks on ships in the Strait of Hormuz were reported on Tuesday, a day after Iran's Revolutionary Guards said two tankers struck mines. Traffic had been recovering, but the incidents keep Middle East shipments at risk.",
-    "pt": "Na terça foram relatados novos ataques a navios no estreito de Ormuz, um dia depois de a Guarda Revolucionária do Irã afirmar que dois petroleiros atingiram minas. O trânsito vinha se recuperando, mas os incidentes mantêm o risco para os embarques pelo Oriente Médio."
+    "es": "Según Reuters, la tripulación de un barco alcanzado dos veces en el estrecho de Ormuz no había sido localizada; EE. UU. atacó un sitio de lanzamiento de misiles en la isla de Qeshm y drones de Irán atacaron un radar militar de EE. UU. en Baréin. Los hutíes lanzaron cinco drones contra estaciones de bombeo del oleoducto Este-Oeste de Arabia Saudita.",
+    "en": "According to Reuters, the crew of a ship hit twice in the Strait of Hormuz was unaccounted for; the US struck a missile-launch site on Qeshm Island and Iranian drones attacked a US military radar in Bahrain. The Houthis launched five drones at pumping stations on Saudi Arabia's East-West pipeline.",
+    "pt": "Segundo a Reuters, a tripulação de um navio atingido duas vezes no estreito de Ormuz não havia sido localizada; os EUA atacaram um local de lançamento de mísseis na ilha de Qeshm e drones do Irã atacaram um radar militar dos EUA no Bahrein. Os houthis lançaram cinco drones contra estações de bombeamento do oleoduto Leste-Oeste da Arábia Saudita."
    },
    "scm": {
     "es": "Mantén colchón de días en embarques que crucen Medio Oriente y confirma con tu naviera los recargos de riesgo de guerra.",
@@ -111,8 +107,8 @@
    },
    "fuentes": [
     {
-     "t": "MT Newswires: el petróleo sube tras ataques a barcos en Ormuz (17 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/commodities/articles/canada-commodities-oil-prices-climb-144951548.html"
+     "t": "Reuters: el petróleo sube por ataques a tanqueros y una caída esperada de inventarios en EE. UU. (17 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-slips-supply-surplus-outlook-013927034.html"
     }
    ]
   },
@@ -126,9 +122,9 @@
    "en": "Retail and last mile",
    "pt": "Varejo e última milha",
    "titular": {
-    "es": "Home Depot cae 2.3% pese a superar lo esperado; las ventas minoristas suben 0.2%",
-    "en": "Home Depot falls 2.3% despite beating expectations; retail sales rise 0.2%",
-    "pt": "Home Depot cai 2,3% apesar de superar o esperado; as vendas no varejo sobem 0,2%"
+    "es": "Home Depot cierra con −2.5% pese a superar lo esperado; mañana reportan Target y Lowe's",
+    "en": "Home Depot closes −2.5% despite beating expectations; Target and Lowe's report tomorrow",
+    "pt": "Home Depot fecha com −2,5% apesar de superar o esperado; amanhã divulgam Target e Lowe's"
    },
    "x": {
     "es": "Home Depot reportó resultados mejores a lo esperado y nombró a su director de finanzas, Richard McPhail, como director general a partir de la próxima semana; su acción caía 1.5% a las 9:08 CDMX. Las ventas minoristas de EE. UU. subieron 0.2% en octubre, más de lo esperado. Esta semana reportan Target, Lowe's y TJX (miércoles) y Walmart (jueves).",
@@ -192,14 +188,14 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "El cobre se queda en 6 dólares, mínimo en más de cuatro meses; las mineras europeas caen 1.4%",
-    "en": "Copper stays at $6, a more than four-month low; European miners fall 1.4%",
-    "pt": "O cobre fica em 6 dólares, mínima em mais de quatro meses; as mineradoras europeias caem 1,4%"
+    "es": "El cobre cierra en 5.98 dólares, cerca de su mínimo en más de cuatro meses",
+    "en": "Copper closes at $5.98, near a more than four-month low",
+    "pt": "O cobre fecha a 5,98 dólares, perto da mínima em mais de quatro meses"
    },
    "x": {
-    "es": "El cobre estaba en 6.00 dólares por libra a las 11:28 CDMX, en su nivel más bajo en más de cuatro meses, y las mineras europeas cayeron 1.4%, a su menor nivel en casi ocho meses, según Reuters. La plata subía 1.6% y el oro 0.5%.",
-    "en": "Copper was at $6.00 per pound at 12:28 p.m. ET, its lowest level in more than four months, and European miners fell 1.4% to their lowest in nearly eight months, according to Reuters. Silver rose 1.6% and gold 0.5%.",
-    "pt": "O cobre estava a 6,00 dólares por libra às 11h28 (Cidade do México), no nível mais baixo em mais de quatro meses, e as mineradoras europeias caíram 1,4%, ao menor nível em quase oito meses, segundo a Reuters. A prata subia 1,6% e o ouro 0,5%."
+    "es": "El cobre terminó en 5.98 dólares por libra (−0.4%), la plata en 47.22 (+0.8%) y el oro en 3,851 (sin cambio); las mineras europeas cayeron 1.4%, a su menor nivel en casi ocho meses.",
+    "en": "Copper ended at $5.98 per pound (−0.4%), silver at $47.22 (+0.8%) and gold at $3,851 (flat); European miners fell 1.4% to their lowest in nearly eight months.",
+    "pt": "O cobre terminou a 5,98 dólares por libra (−0,4%), a prata a 47,22 (+0,8%) e o ouro a 3.851 (estável); as mineradoras europeias caíram 1,4%, ao menor nível em quase oito meses."
    },
    "scm": {
     "es": "Con el cobre debajo de 6 dólares, cotiza cable y conectores para el primer trimestre.",
@@ -212,7 +208,7 @@
      "u": "https://finance.yahoo.com/technology/ai/articles/european-shares-ease-tech-stocks-081814187.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 11:38 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 15:15 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]

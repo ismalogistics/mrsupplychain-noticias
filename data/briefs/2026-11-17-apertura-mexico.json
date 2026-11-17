@@ -14,7 +14,7 @@
   "bloques": [
    {
     "t": "Apertura",
-    "x": "La Bolsa Mexicana reabrió tras el Día de la Revolución: a las 8:48 CDMX el S&P/BMV IPC estaba en 71,268.53 puntos (+0.09%). El peso cotizaba en 18.48 por dólar a las 9:08 CDMX (−0.18% el dólar). El FIX determinado el viernes 13, que se publica hoy en el Diario Oficial y rige para pagos en dólares, fue de 18.5525, según Banxico; el FIX de hoy se determina al mediodía."
+    "x": "La Bolsa Mexicana reabrió tras el Día de la Revolución: a las 8:48 CDMX el S&P/BMV IPC estaba en 71,268.53 puntos (+0.09%). El peso cotizaba en 18.48 por dólar a las 9:08 CDMX (−0.18% el dólar). El FIX determinado el viernes 13, que se publica hoy en el Diario Oficial y rige para pagos en dólares a partir de mañana, fue de 18.5525, según Banxico; el FIX de hoy se determina al mediodía."
    },
    {
     "t": "Contexto",
@@ -25,7 +25,7 @@
     "x": "Hoy hay subasta semanal de Cetes. Más adelante, el 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre y el 27 la balanza comercial de octubre."
    }
   ],
-  "scm": "Con el peso en 18.48, liquida hoy los pagos en dólares que se recorrieron por el feriado y cubre una parte de las compras de diciembre. Para pagos de hoy en México rige el FIX de 18.5525."
+  "scm": "Con el peso en 18.48, liquida hoy los pagos en dólares que se recorrieron por el feriado y cubre una parte de las compras de diciembre. El FIX de 18.5525 rige para pagos a partir de mañana; hoy rige el de 18.6188."
  },
  "en": {
   "titular": "The BMV reopens: the IPC rises 0.1% and the peso firms to 18.48; Friday's FIX was 18.5525",
@@ -37,7 +37,7 @@
   "bloques": [
    {
     "t": "Open",
-    "x": "The Mexican Stock Exchange reopened after Revolution Day: at 8:48 a.m. Mexico City time the S&P/BMV IPC stood at 71,268.53 points (+0.09%). The peso traded at 18.48 per dollar at 9:08 a.m. (dollar −0.18%). The FIX set on Friday the 13th, published today in the Official Gazette and used for dollar payments, was 18.5525, according to Banxico; today's FIX is set at midday."
+    "x": "The Mexican Stock Exchange reopened after Revolution Day: at 8:48 a.m. Mexico City time the S&P/BMV IPC stood at 71,268.53 points (+0.09%). The peso traded at 18.48 per dollar at 9:08 a.m. (dollar −0.18%). The FIX set on Friday the 13th, published today in the Official Gazette and used for dollar payments from tomorrow, was 18.5525, according to Banxico; today's FIX is set at midday."
    },
    {
     "t": "Context",
@@ -48,7 +48,7 @@
     "x": "Today is the weekly Cetes auction. Later, on November 24 INEGI publishes first-half November inflation and on the 27th the October trade balance."
    }
   ],
-  "scm": "With the peso at 18.48, settle today the dollar payments pushed back by the holiday and hedge part of your December purchases. The 18.5525 FIX applies to payments in Mexico today."
+  "scm": "With the peso at 18.48, settle today the dollar payments pushed back by the holiday and hedge part of your December purchases. The 18.5525 FIX applies to payments from tomorrow; today the 18.6188 FIX applies."
  },
  "pt": {
   "titular": "A BMV reabre: o IPC sobe 0,1% e o peso se fortalece para 18,48; o FIX de sexta foi de 18,5525",
@@ -60,7 +60,7 @@
   "bloques": [
    {
     "t": "Abertura",
-    "x": "A Bolsa Mexicana reabriu depois do Dia da Revolução: às 8h48 (Cidade do México) o S&P/BMV IPC estava em 71.268,53 pontos (+0,09%). O peso era cotado a 18,48 por dólar às 9h08 (dólar −0,18%). O FIX definido na sexta, dia 13, publicado hoje no Diário Oficial e válido para pagamentos em dólares, foi de 18,5525, segundo o Banxico; o FIX de hoje é definido ao meio-dia."
+    "x": "A Bolsa Mexicana reabriu depois do Dia da Revolução: às 8h48 (Cidade do México) o S&P/BMV IPC estava em 71.268,53 pontos (+0,09%). O peso era cotado a 18,48 por dólar às 9h08 (dólar −0,18%). O FIX definido na sexta, dia 13, publicado hoje no Diário Oficial e válido para pagamentos em dólares a partir de amanhã, foi de 18,5525, segundo o Banxico; o FIX de hoje é definido ao meio-dia."
    },
    {
     "t": "Contexto",
@@ -71,7 +71,7 @@
     "x": "Hoje há o leilão semanal de Cetes. Mais adiante, em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro e no dia 27 a balança comercial de outubro."
    }
   ],
-  "scm": "Com o peso a 18,48, liquide hoje os pagamentos em dólares adiados pelo feriado e proteja parte das compras de dezembro. Para pagamentos de hoje no México vale o FIX de 18,5525."
+  "scm": "Com o peso a 18,48, liquide hoje os pagamentos em dólares adiados pelo feriado e proteja parte das compras de dezembro. O FIX de 18,5525 vale para pagamentos a partir de amanhã; hoje vale o de 18,6188."
  },
  "fuentes": [
   {

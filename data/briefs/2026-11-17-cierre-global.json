@@ -1,0 +1,95 @@
+{
+ "id": "2026-11-17-cierre-global",
+ "fecha": "2026-11-17",
+ "momento": "cierre",
+ "mercado": "global",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Wall Street cierra a la baja antes de Nvidia: el Dow cae 1.6% y crecen los ataques entre EE. UU. e Irán",
+  "esencial": [
+   "El S&P 500 cerró con −1.03% (7,340.53), el Nasdaq con −0.74% (24,328.38) y el Dow con −1.64% (50,759.42); el VIX subió 11.5% a 25.55.",
+   "EE. UU. bombardeó la isla iraní de Qeshm, drones de Irán atacaron un radar de EE. UU. en Baréin y un barco fue alcanzado dos veces en Ormuz; el Brent cerró en 93.14 dólares (+0.8%).",
+   "Para supply chain: Nvidia reporta esta noche; con el Brent 20% abajo en noviembre pero más ataques en Ormuz, sigue revisando recargos cada semana y no fijes precios de flete a largo plazo."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "Se cumplió la cautela que anticipaba la apertura, pero la caída se amplió a industriales: el S&P 500 cerró en 7,340.53 (−1.03%), el Nasdaq en 24,328.38 (−0.74%) y el Dow en 50,759.42 (−1.64%); el VIX subió 11.5% a 25.55. TSMC cayó 3.7% y Home Depot 2.5%, mientras Broadcom subió 2.5% y Nvidia cerró con −0.4% antes de su reporte. Europa cerró con su peor día en ocho meses (Stoxx 600 −1.75%, DAX −2.08%) y Asia con Taiwán −8.2% y KOSPI −2.6%. El Treasury a 10 años bajó a 5.10%. El Brent cerró en 93.14 dólares (+0.8%) y el WTI en 86.01 (+0.3%); el oro en 3,851 y el cobre en 5.98 (−0.4%)."
+   },
+   {
+    "t": "Por qué",
+    "x": "Los inversionistas recortan riesgo antes del primer reporte de Nvidia sin Jensen Huang y de la salida a bolsa de Anthropic el jueves, tras la nueva restricción de EE. UU. a los chips avanzados para China. El índice del dólar tocó su nivel más alto en 19 meses y el mercado sigue esperando un alza de la Fed en diciembre. En petróleo, Reuters reporta que EE. UU. bombardeó un sitio de misiles en la isla de Qeshm, drones de Irán atacaron un radar de EE. UU. en Baréin, un barco fue alcanzado dos veces en Ormuz y los hutíes lanzaron drones contra el oleoducto Este-Oeste de Arabia Saudita; aun así, el Brent acumula −20% en noviembre por el superávit previsto."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Nvidia reporta después del cierre: el consenso espera ingresos por 109,150 millones de dólares, y su resultado marcará la apertura de Asia, sobre todo de Taiwán y Corea. Mañana miércoles reportan Target, Lowe's y TJX y salen las minutas de la Fed; el jueves reporta Walmart y debuta Anthropic."
+   }
+  ],
+  "scm": "Con más ataques en Ormuz y en Medio Oriente, aunque el Brent acumula −20% en noviembre, no fijes recargos de combustible ni fletes a largo plazo: revísalos cada semana con el diésel (3.97 dólares por galón en futuros). Antes de mañana, revisa con tus distribuidores de cómputo cómo queda el abasto tras el reporte de Nvidia."
+ },
+ "en": {
+  "titular": "Wall Street closes lower ahead of Nvidia: the Dow falls 1.6% as US-Iran attacks escalate",
+  "esencial": [
+   "The S&P 500 closed −1.03% (7,340.53), the Nasdaq −0.74% (24,328.38) and the Dow −1.64% (50,759.42); the VIX jumped 11.5% to 25.55.",
+   "The US struck Iran's Qeshm Island, Iranian drones hit a US radar in Bahrain and a ship was struck twice in Hormuz; Brent settled at $93.14 (+0.8%).",
+   "For supply chain: Nvidia reports tonight; with Brent down 20% in November but more attacks in Hormuz, keep reviewing surcharges weekly and avoid long-term freight pricing."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The caution the open anticipated held, but the decline spread to industrials: the S&P 500 closed at 7,340.53 (−1.03%), the Nasdaq at 24,328.38 (−0.74%) and the Dow at 50,759.42 (−1.64%); the VIX jumped 11.5% to 25.55. TSMC fell 3.7% and Home Depot 2.5%, while Broadcom rose 2.5% and Nvidia closed −0.4% ahead of its report. Europe had its worst day in eight months (Stoxx 600 −1.75%, DAX −2.08%) and Asia closed with Taiwan −8.2% and the KOSPI −2.6%. The 10-year Treasury eased to 5.10%. Brent settled at $93.14 (+0.8%) and WTI at $86.01 (+0.3%); gold at $3,851 and copper at $5.98 (−0.4%)."
+   },
+   {
+    "t": "Why",
+    "x": "Investors are cutting risk ahead of Nvidia's first report without Jensen Huang and Anthropic's IPO on Thursday, after the new US restriction on advanced chips for China. The dollar index touched a 19-month high and markets still expect a Fed hike in December. In oil, Reuters reports the US struck a missile site on Qeshm Island, Iranian drones attacked a US radar in Bahrain, a ship was hit twice in Hormuz and the Houthis launched drones at Saudi Arabia's East-West pipeline; even so, Brent is down 20% in November on the expected surplus."
+   },
+   {
+    "t": "What to expect",
+    "x": "Nvidia reports after the close: consensus expects revenue of $109.15 billion, and the result will set the tone for Asia's open, especially Taiwan and Korea. Tomorrow, Wednesday, Target, Lowe's and TJX report and the Fed minutes come out; on Thursday Walmart reports and Anthropic debuts."
+   }
+  ],
+  "scm": "With more attacks in Hormuz and the Middle East, even as Brent is down 20% in November, don't lock in long-term fuel surcharges or freight rates: review them weekly based on diesel ($3.97 a gallon in futures). Before tomorrow, check with your compute distributors how supply looks after Nvidia's report."
+ },
+ "pt": {
+  "titular": "Wall Street fecha em queda antes da Nvidia: o Dow cai 1,6% e crescem os ataques entre EUA e Irã",
+  "esencial": [
+   "O S&P 500 fechou com −1,03% (7.340,53), o Nasdaq com −0,74% (24.328,38) e o Dow com −1,64% (50.759,42); o VIX subiu 11,5% para 25,55.",
+   "Os EUA bombardearam a ilha iraniana de Qeshm, drones do Irã atacaram um radar dos EUA no Bahrein e um navio foi atingido duas vezes em Ormuz; o Brent fechou a 93,14 dólares (+0,8%).",
+   "Para supply chain: a Nvidia divulga resultados esta noite; com o Brent 20% abaixo em novembro, mas mais ataques em Ormuz, siga revisando as sobretaxas toda semana e não fixe fretes de longo prazo."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "Confirmou-se a cautela que a abertura antecipava, mas a queda se estendeu às industriais: o S&P 500 fechou em 7.340,53 (−1,03%), o Nasdaq em 24.328,38 (−0,74%) e o Dow em 50.759,42 (−1,64%); o VIX subiu 11,5% para 25,55. A TSMC caiu 3,7% e a Home Depot 2,5%, enquanto a Broadcom subiu 2,5% e a Nvidia fechou com −0,4% antes do resultado. A Europa teve seu pior dia em oito meses (Stoxx 600 −1,75%, DAX −2,08%) e a Ásia fechou com Taiwan −8,2% e KOSPI −2,6%. O Treasury de 10 anos caiu para 5,10%. O Brent fechou a 93,14 dólares (+0,8%) e o WTI a 86,01 (+0,3%); o ouro a 3.851 e o cobre a 5,98 (−0,4%)."
+   },
+   {
+    "t": "Por quê",
+    "x": "Os investidores reduzem risco antes do primeiro resultado da Nvidia sem Jensen Huang e do IPO da Anthropic na quinta, depois da nova restrição dos EUA aos chips avançados para a China. O índice do dólar tocou a máxima em 19 meses e o mercado segue esperando uma alta do Fed em dezembro. No petróleo, a Reuters informa que os EUA bombardearam um local de mísseis na ilha de Qeshm, drones do Irã atacaram um radar dos EUA no Bahrein, um navio foi atingido duas vezes em Ormuz e os houthis lançaram drones contra o oleoduto Leste-Oeste da Arábia Saudita; mesmo assim, o Brent acumula −20% em novembro pelo superávit previsto."
+   },
+   {
+    "t": "O que se espera",
+    "x": "A Nvidia divulga resultados depois do fechamento: o consenso espera receita de 109,15 bilhões de dólares, e o resultado vai marcar a abertura da Ásia, sobretudo de Taiwan e da Coreia. Amanhã, quarta, divulgam Target, Lowe's e TJX e sai a ata do Fed; na quinta o Walmart divulga resultados e a Anthropic estreia."
+   }
+  ],
+  "scm": "Com mais ataques em Ormuz e no Oriente Médio, embora o Brent acumule −20% em novembro, não fixe sobretaxas de combustível nem fretes de longo prazo: revise-os toda semana com o diesel (3,97 dólares por galão nos futuros). Antes de amanhã, confirme com seus distribuidores de computação como fica o abastecimento depois do resultado da Nvidia."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters: las bolsas caen en el mundo antes de Nvidia; el dólar cede (17 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-stumble-tech-weakness-012906483.html"
+  },
+  {
+   "t": "Reuters: el petróleo sube por ataques a tanqueros y una caída esperada de inventarios en EE. UU. (17 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-slips-supply-surplus-outlook-013927034.html"
+  },
+  {
+   "t": "Reuters: las bolsas europeas tienen su peor día en ocho meses por la IA (17 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/ai/articles/european-shares-ease-tech-stocks-081814187.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 15:15 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
