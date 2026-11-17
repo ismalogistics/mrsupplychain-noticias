@@ -10,10 +10,10 @@
   };
   var data = null, cur = null, box = null;
   // Especial destacado arriba del hero (se oculta solo después de HASTA).
-  var ESP = { url: BASE + 'especiales/elecciones-eeuu-2026/?utm_source=home&utm_medium=banner&utm_campaign=elecciones2026', hasta: '2026-11-09T18:00:00-06:00',
-    es: { k: 'Especial · Elecciones EE. UU. 2026', h: 'Lo que se juega supply chain, eslabón por eslabón', s: 'Estado por estado, México, cada país de LATAM y cada región del mundo: qué cambia con el resultado y qué no.', b: 'Ver el especial' },
-    en: { k: 'Special · US Elections 2026', h: 'What’s at stake for supply chains, link by link', s: 'State by state, Mexico, each LATAM country and each world region: what the result changes and what it doesn’t.', b: 'See the special' },
-    pt: { k: 'Especial · Eleições EUA 2026', h: 'O que está em jogo para supply chain, elo por elo', s: 'Estado por estado, México, cada país da América Latina e cada região do mundo: o que o resultado muda e o que não muda.', b: 'Ver o especial' } };
+  var ESP = { url: BASE + 'especiales/caidas-digitales-nsa-2026/?utm_source=home&utm_medium=banner&utm_campaign=caidasnsa2026', hasta: '2026-11-24T23:59:00-06:00',
+    es: { k: 'Especial · Al momento', h: 'Seis días, cinco caídas: de Microsoft a la NSA', s: 'Correo, control aéreo, pagos, aerolíneas y la red de la NSA fallaron sin ningún ataque. Qué significa para supply chain y qué hacer antes de la temporada alta.', b: 'Ver el especial' },
+    en: { k: 'Special · Live', h: 'Six days, five outages: from Microsoft to the NSA', s: 'Email, air traffic control, payments, airlines and the NSA network failed with no attack. What it means for supply chains and what to do before peak season.', b: 'See the special' },
+    pt: { k: 'Especial · Ao vivo', h: 'Seis dias, cinco quedas: da Microsoft à NSA', s: 'E-mail, controle aéreo, pagamentos, companhias aéreas e a rede da NSA falharam sem nenhum ataque. O que significa para supply chain e o que fazer antes da alta temporada.', b: 'Ver o especial' } };
   var espBox = null, espCur = null;
   function renderEsp() {
     var l = lang(); if (!espBox || l === espCur) return; espCur = l; var E = ESP[l];
