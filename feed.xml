@@ -7,7 +7,34 @@
   <description>Briefs diarios de mercados (premercado, apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
   <language>es-MX</language>
   <copyright>Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</copyright>
-  <lastBuildDate>Tue, 17 Nov 2026 09:08:00 -0600</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 11:38:00 -0600</lastBuildDate>
+  <item>
+    <title>El peso se fortalece a 18.41, su mejor nivel en semanas; el IPC se mantiene plano</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-17-mediodia-mexico/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-17-mediodia-mexico/</guid>
+    <pubDate>Tue, 17 Nov 2026 11:38:00 -0600</pubDate>
+    <category>Mediodía · México</category>
+    <description>En la apertura el IPC subía 0.09% en su primera sesión tras el feriado y el peso se fortalecía a 18.48; el FIX del viernes, publicado hoy, fue de 18.5525. A las 11:18 CDMX el S&amp;P/BMV IPC estaba en 71,170.22 puntos (−0.05%). A las 11:38 el peso cotizaba en 18.41 por dólar (−0.53% el dólar) y el Treasury a 10 años bajaba a 5.10%. — Con el peso en 18.41, su mejor nivel en semanas, cubre una parte de las compras de dólares de diciembre. Los pagos en dólares de hoy en México se liquidan con el FIX de 18.5525.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-17-mediodia-mexico/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>El Ibovespa sube 1% contra la corriente global; el peso chileno se fortalece a 991</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-17-mediodia-latam/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-17-mediodia-latam/</guid>
+    <pubDate>Tue, 17 Nov 2026 11:38:00 -0600</pubDate>
+    <category>Mediodía · LATAM</category>
+    <description>En la apertura el Ibovespa rebotaba 1.1% tras la caída del lunes y las monedas de la región se estabilizaban. A las 11:23 CDMX el Ibovespa estaba en 170,923.70 (+0.96%) y a las 11:38 el S&amp;P/TSX de Canadá bajaba 0.81%. Los ETF de MSCI subían 0.48% en Chile, 0.31% en Perú y 0.06% en Argentina. El dólar estaba en 991.4 pesos chilenos (−0.67%), 5.77 reales (−0.19%), 3,306 pesos colombianos (−0.30%), 3.41 soles (−0.03%), 1,551 pesos argentinos (+0.10%) y 1.429 dólares canadienses (−0.07%). — Cierra pagos en pesos chilenos y reales con las monedas más firmes, y cotiza cable e insumos de cobre con el precio en mínimos de cuatro meses.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-17-mediodia-latam/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>Las pérdidas crecen antes de Nvidia: el Dow cae 1.3% y Europa tiene su peor día en ocho meses</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-17-mediodia-global/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-17-mediodia-global/</guid>
+    <pubDate>Tue, 17 Nov 2026 11:38:00 -0600</pubDate>
+    <category>Mediodía · Global</category>
+    <description>En la apertura Wall Street bajaba poco (S&amp;P 500 −0.31%) antes del reporte de Nvidia, tras el desplome de 8.2% de Taiwán; el crudo rebotaba 1.3% por nuevos ataques a barcos en Ormuz. A las 11:38 CDMX el S&amp;P 500 estaba en 7,345.59 (−0.96%), el Nasdaq en 24,283.12 (−0.92%) y el Dow en 50,926.59 (−1.32%); el VIX subía 7.9% a 24.72. TSMC caía 3.5%, Micron 3.2%, Intel 2.7%, AMD 2.5%, Home Depot 2.3% y Nvidia 1.3%; Broadcom subía 1.9%. Europa cerró con fuertes caídas: Stoxx 600 −1.75%, Euro Stoxx 50 −2.15% y DAX −2.08%. El Treasury a 10 años bajaba a 5.10%. El Brent estaba en 93.03 dólares (+0.6%), el WTI en 86.21 (+0.6%) y el diésel en futuros en 3.97 (−0.8%); el oro en 3,871 (+0.5%) y el cobre en 6.00. — Si dependes de un solo proveedor de GPU o aceleradores, pide hoy cotizaciones alternativas: el mercado ya ve un cambio de clientes hacia AMD y Google. Con el diésel en 3.97 dólares por galón en futuros, pide que el recargo de combustible baje en la próxima revisión.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-17-mediodia-global/og.png" type="image/png" length="0"/>
+  </item>
   <item>
     <title>Reabre la BMV: el IPC sube 0.1% y el peso se fortalece a 18.48; el FIX del viernes fue de 18.5525</title>
     <link>https://mrsupplychain.ai/noticias/brief/2026-11-17-apertura-mexico/</link>
@@ -340,33 +367,6 @@
     <category>Premercado · México</category>
     <description>El miércoles el S&amp;P/BMV IPC cerró con +0.14% (71,993.18) y el peso en 18.61 por dólar, en una sesión marcada por la caída de 1.4% mensual de la actividad industrial de septiembre. En la madrugada el peso mejoró: a las 5:10 CDMX cotizaba en 18.58, con el dólar ligeramente débil (DXY −0.1%). La caída de Nvidia presiona a los futuros de Wall Street, pero el peso no la resiente. A favor juegan el dólar estable y el crudo a la baja (WTI 85.83); en contra, que un alza de la Fed en diciembre ya está descontada y estrecha el diferencial con Banxico (6.25%). — Con el peso en 18.58, cubre por tramos los dólares de noviembre y adelanta los pagos del lunes 16. Si el bono a 10 años de EE. UU. vuelve a 5% al reabrir, el peso puede debilitarse: no dejes toda la compra para el viernes.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-12-premercado-mexico/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>La región espera el IPCA de Brasil; el cobre baja 1.2% en la madrugada</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-12-premercado-latam/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-12-premercado-latam/</guid>
-    <pubDate>Thu, 12 Nov 2026 05:10:00 -0600</pubDate>
-    <category>Premercado · LATAM</category>
-    <description>El miércoles el Ibovespa cerró con +0.54% (172,268.70) y el S&amp;P/TSX con +0.67% (36,411.72); el ETF de MSCI de Chile bajó 0.56% y el iCOLCAP de Colombia 1.62%. A las 5:00 CDMX el real estaba en 5.58 por dólar, el peso chileno en 984 y el peso colombiano en 3,279. La caída de Nvidia en el premercado enfría el apetito por riesgo. El cobre baja 1.2% y el crudo 0.8%, lo que resta a los exportadores de Chile, Perú y Colombia; el dólar estable (DXY −0.1%) da algo de soporte a las monedas. — Cotiza insumos de cobre con el precio a la baja y escalona los pagos en reales hasta conocer el IPCA. Con el crudo bajando, espera los inventarios de la EIA antes de cerrar fletes regionales.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-12-premercado-latam/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Nvidia vuelve a hundirse en el premercado y arrastra a los futuros del Nasdaq; el crudo baja 0.8%</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-12-premercado-global/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-12-premercado-global/</guid>
-    <pubDate>Thu, 12 Nov 2026 05:10:00 -0600</pubDate>
-    <category>Premercado · Global</category>
-    <description>El miércoles Wall Street cerró al alza (S&amp;P 500 +1.29%, Nasdaq +1.59%) por los resultados de CoreWeave. Después del cierre, Nvidia cayó cerca de 9% en operaciones extendidas tras un reporte de The New York Times sobre la conducta personal de su director, Jensen Huang, y otro de The Wall Street Journal de que su consejo se reúne para decidir si lo remueve. Antes de la apertura la acción bajaba alrededor de 7% y se perfila para abrir en su mínimo de 52 semanas, según Yahoo Finance; CoreWeave caía cerca de 6% e Intel, Marvell y Micron entre 1.9% y 2.8%, según Reuters. Asia cerró a la baja: Nikkei −0.70% (60,819.36), KOSPI −0.61% (5,342.73), Hang Seng −2.23% y Shanghái −0.22%. Europa sube: a las 4:55 CDMX el Euro Stoxx 50 ganaba 0.30%, el DAX 0.77% y el Stoxx 600 0.37%. A las 5:00 CDMX los futuros del Nasdaq 100 bajaban 0.82%, los del S&amp;P 500 0.37% y los del Dow subían 0.07%. El WTI estaba en 85.83 dólares (−0.8%), el Brent en 92.06 (−0.8%), el oro en 3,959 (−1.0%), el cobre en 6.21 dólares por libra (−1.2%) y el índice del dólar en 102.84 (−0.1%). — Con el crudo a la baja y los inventarios de la EIA hoy, espera al dato antes de fijar recargos de combustible de la próxima semana. Si dependes de GPU o servidores de Nvidia, revisa con tu proveedor fechas de entrega y alternativas: el riesgo de liderazgo no cambia el abasto de inmediato, pero sí la visibilidad.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-12-premercado-global/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>El IPC cierra con +0.1% tras devolver casi toda su ganancia; el peso termina estable en 18.61</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-11-cierre-mexico/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-11-cierre-mexico/</guid>
-    <pubDate>Wed, 11 Nov 2026 15:16:00 -0600</pubDate>
-    <category>Cierre · México</category>
-    <description>El S&amp;P/BMV IPC cerró con +0.14% (71,993.18), según Yahoo Finance, después de llegar a subir 0.85% a media sesión. A las 15:16 CDMX el peso cotizaba en 18.61 por dólar, sin cambio en el día. No hubo subasta de Cetes ni mercado de bonos en EE. UU. La bolsa siguió a Wall Street en la mañana, pero perdió fuerza por la tarde; en el día pesó el dato industrial débil: la actividad industrial cayó 1.4% mensual en septiembre, con manufacturas −1.7% y construcción −2.0%. El peso se mantuvo pese a que el índice del dólar subió 0.7%, con poca operación por el cierre del mercado de bonos en EE. UU. — Con el peso estable en 18.61, cubre por tramos los dólares de noviembre y adelanta los pagos del lunes 16. Ajusta a la baja el pronóstico de pedidos de clientes manufactureros por la caída industrial de septiembre.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-11-cierre-mexico/og.png" type="image/png" length="0"/>
   </item>
 </channel>
 </rss>
