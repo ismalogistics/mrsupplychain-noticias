@@ -1,0 +1,86 @@
+{
+ "id": "2026-11-17-apertura-latam",
+ "fecha": "2026-11-17",
+ "momento": "apertura",
+ "mercado": "latam",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "El Ibovespa rebota 1.1% y Perú sube 1.7%; el real se mantiene en 5.79",
+  "esencial": [
+   "A las 8:53 CDMX el Ibovespa subía 1.06% (171,090.12) y el ETF de MSCI de Perú 1.66%.",
+   "El dólar estaba en 5.79 reales (+0.11%), 998 pesos chilenos (sin cambio) y 3,304 pesos colombianos (−0.36%).",
+   "Para supply chain: las monedas de la región se estabilizan tras la caída del lunes; SQM reporta hoy después del cierre, clave para el costo del litio."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 8:53 CDMX el Ibovespa subía 1.06% a 171,090.12, mientras a las 9:08 el S&P/TSX de Canadá bajaba 0.48%. Los ETF de MSCI subían 1.66% en Perú, 0.91% en Argentina y 0.14% en Chile. En monedas, a las 9:08 CDMX el dólar estaba en 5.79 reales (+0.11%), 998.3 pesos chilenos (+0.03%), 3,304 pesos colombianos (−0.36%), 3.41 soles (sin cambio), 1,552.5 pesos argentinos (+0.19%) y 1.430 dólares canadienses (+0.18%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "La región rebota tras la venta del lunes, aunque Asia y Europa siguen a la baja. El crudo sube 1.3% (Brent 93.66 dólares), lo que apoya a Colombia y Brasil; el cobre está en 5.99 dólares por libra (−0.2%)."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "SQM, clave para el litio de Chile, reporta después del cierre, al igual que Nvidia. México reabrió tras el feriado."
+   }
+  ],
+  "scm": "Aprovecha la estabilidad de las monedas para cerrar pagos en reales y pesos chilenos, y revisa contratos de litio y baterías tras el reporte de SQM."
+ },
+ "en": {
+  "titular": "The Ibovespa rebounds 1.1% and Peru rises 1.7%; the real holds at 5.79",
+  "esencial": [
+   "At 8:53 a.m. Mexico City time the Ibovespa was up 1.06% (171,090.12) and the MSCI Peru ETF 1.66%.",
+   "The dollar stood at 5.79 reais (+0.11%), 998 Chilean pesos (flat) and 3,304 Colombian pesos (−0.36%).",
+   "For supply chain: the region's currencies steady after Monday's drop; SQM reports today after the close, key for lithium costs."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "At 8:53 a.m. Mexico City time the Ibovespa was up 1.06% at 171,090.12, while at 9:08 Canada's S&P/TSX was down 0.48%. The MSCI ETFs rose 1.66% for Peru, 0.91% for Argentina and 0.14% for Chile. In currencies, at 9:08 a.m. the dollar stood at 5.79 reais (+0.11%), 998.3 Chilean pesos (+0.03%), 3,304 Colombian pesos (−0.36%), 3.41 soles (flat), 1,552.5 Argentine pesos (+0.19%) and 1.430 Canadian dollars (+0.18%)."
+   },
+   {
+    "t": "Context",
+    "x": "The region rebounds after Monday's sell-off, although Asia and Europe remain lower. Crude rises 1.3% (Brent $93.66), supporting Colombia and Brazil; copper is at $5.99 per pound (−0.2%)."
+   },
+   {
+    "t": "What to expect today",
+    "x": "SQM, key for Chile's lithium, reports after the close, as does Nvidia. Mexico reopened after the holiday."
+   }
+  ],
+  "scm": "Use the steadier currencies to close payments in reais and Chilean pesos, and review lithium and battery contracts after the SQM report."
+ },
+ "pt": {
+  "titular": "O Ibovespa volta a subir 1,1% e o Peru sobe 1,7%; o real se mantém em 5,79",
+  "esencial": [
+   "Às 8h53 (Cidade do México) o Ibovespa subia 1,06% (171.090,12) e o ETF da MSCI do Peru 1,66%.",
+   "O dólar estava em R$ 5,79 (+0,11%), 998 pesos chilenos (estável) e 3.304 pesos colombianos (−0,36%).",
+   "Para supply chain: as moedas da região se estabilizam depois da queda de segunda; a SQM divulga resultados hoje depois do fechamento, chave para o custo do lítio."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 8h53 (Cidade do México) o Ibovespa subia 1,06% para 171.090,12, enquanto às 9h08 o S&P/TSX do Canadá caía 0,48%. Os ETFs da MSCI subiam 1,66% no Peru, 0,91% na Argentina e 0,14% no Chile. Nas moedas, às 9h08 o dólar estava em R$ 5,79 (+0,11%), 998,3 pesos chilenos (+0,03%), 3.304 pesos colombianos (−0,36%), 3,41 soles (estável), 1.552,5 pesos argentinos (+0,19%) e 1,430 dólar canadense (+0,18%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "A região se recupera depois da venda de segunda, embora a Ásia e a Europa sigam em queda. O petróleo sobe 1,3% (Brent a 93,66 dólares), o que apoia Colômbia e Brasil; o cobre está a 5,99 dólares por libra (−0,2%)."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "A SQM, chave para o lítio do Chile, divulga resultados depois do fechamento, assim como a Nvidia. O México reabriu depois do feriado."
+   }
+  ],
+  "scm": "Aproveite a estabilidade das moedas para fechar pagamentos em reais e pesos chilenos e revise contratos de lítio e baterias depois do resultado da SQM."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-17-apertura-global",
+ "fecha": "2026-11-17",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "Wall Street abre a la baja antes de Nvidia: Taiwán se desploma 8.2% y Europa cae 1.2%",
+  "esencial": [
+   "A las 9:08 CDMX el S&P 500 bajaba 0.31%, el Nasdaq 0.19% y el Dow 0.64%; Taiwán cerró con −8.2%, el KOSPI con −2.6% y el Euro Stoxx 50 caía 1.2%.",
+   "Nvidia reporta hoy después del cierre, con Colette Kress como directora interina; se esperan ingresos por 109,150 millones de dólares. Las ventas minoristas de EE. UU. subieron 0.2% en octubre, más de lo esperado.",
+   "Para supply chain: el Brent sube 1.3% a 93.66 dólares por nuevos ataques a barcos en Ormuz; mantén la revisión semanal de recargos y confirma pedidos de cómputo antes del reporte."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 9:08 CDMX el S&P 500 estaba en 7,393.93 (−0.31%), el Nasdaq en 24,462.78 (−0.19%) y el Dow en 51,278.31 (−0.64%), tras la caída de casi 2% del lunes; el VIX bajaba a 22.60. Nvidia caía 0.9% (154.70 dólares), TSMC 2.5% y Micron 2.5%, mientras Broadcom subía 1.7%; Coherent y Lumentum subían por las restricciones a la importación de tecnología óptica de China. Home Depot superó lo esperado y nombró a su director de finanzas, Richard McPhail, como nuevo director general, pero su acción bajaba 1.5%. Las ventas minoristas de octubre subieron 0.2% en el mes, más de lo esperado. El Treasury a 10 años subía a 5.15%. El Brent subía 1.3% a 93.66 dólares y el WTI 1.4% a 86.92 por nuevos ataques a barcos en Ormuz; el oro estaba en 3,864 (+0.3%) y el cobre en 5.99 (−0.2%)."
+   },
+   {
+    "t": "Asia y Europa",
+    "x": "Asia cerró con fuertes caídas en tecnología: Taiwán −8.20% (40,092.11), KOSPI −2.59% (4,968.48), Nikkei −1.34% (58,860.43), Shanghái −1.37% y Hang Seng −0.55%. A las 8:53 CDMX Europa caía: Euro Stoxx 50 −1.20%, DAX −1.22%, CAC 40 −1.03% y FTSE 100 −1.03%."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Después del cierre reportan Nvidia y SQM; para Nvidia se esperan ingresos por 109,150 millones de dólares y 101,850 millones en centros de datos, según el consenso de Bloomberg. Mañana reportan Target, Lowe's y TJX y salen las minutas de la Fed; el jueves reporta Walmart y debuta Anthropic en bolsa."
+   }
+  ],
+  "scm": "El crudo rebota por nuevos ataques en Ormuz: no fijes recargos de combustible a largo plazo y mantén la revisión semanal con el diésel (4.01 dólares por galón en futuros). Confirma hoy pedidos y fechas de GPU, memoria y servidores: el reporte de Nvidia y las restricciones a China pueden mover precios y plazos."
+ },
+ "en": {
+  "titular": "Wall Street opens lower ahead of Nvidia: Taiwan plunges 8.2% and Europe falls 1.2%",
+  "esencial": [
+   "At 10:08 a.m. ET the S&P 500 was down 0.31%, the Nasdaq 0.19% and the Dow 0.64%; Taiwan closed −8.2%, the KOSPI −2.6% and the Euro Stoxx 50 fell 1.2%.",
+   "Nvidia reports today after the close, with Colette Kress as interim CEO; revenue of $109.15 billion is expected. US retail sales rose 0.2% in October, more than expected.",
+   "For supply chain: Brent rises 1.3% to $93.66 on new attacks on ships in Hormuz; keep weekly surcharge reviews and confirm compute orders before the report."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "At 10:08 a.m. ET the S&P 500 stood at 7,393.93 (−0.31%), the Nasdaq at 24,462.78 (−0.19%) and the Dow at 51,278.31 (−0.64%), after Monday's nearly 2% drop; the VIX eased to 22.60. Nvidia fell 0.9% ($154.70), TSMC 2.5% and Micron 2.5%, while Broadcom rose 1.7%; Coherent and Lumentum gained on restrictions on optical technology imports from China. Home Depot beat expectations and named CFO Richard McPhail as its new CEO, but its stock fell 1.5%. October retail sales rose 0.2% on the month, more than expected. The 10-year Treasury rose to 5.15%. Brent rose 1.3% to $93.66 and WTI 1.4% to $86.92 on new attacks on ships in Hormuz; gold was at $3,864 (+0.3%) and copper at $5.99 (−0.2%)."
+   },
+   {
+    "t": "Asia and Europe",
+    "x": "Asia closed with steep tech losses: Taiwan −8.20% (40,092.11), KOSPI −2.59% (4,968.48), Nikkei −1.34% (58,860.43), Shanghai −1.37% and Hang Seng −0.55%. At 9:53 a.m. ET Europe was lower: Euro Stoxx 50 −1.20%, DAX −1.22%, CAC 40 −1.03% and FTSE 100 −1.03%."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Nvidia and SQM report after the close; Nvidia is expected to post revenue of $109.15 billion, with $101.85 billion from data centers, according to Bloomberg consensus. Tomorrow Target, Lowe's and TJX report and the Fed minutes come out; on Thursday Walmart reports and Anthropic debuts on the market."
+   }
+  ],
+  "scm": "Crude rebounds on new attacks in Hormuz: don't lock in long-term fuel surcharges and keep weekly reviews based on diesel ($4.01 a gallon in futures). Confirm GPU, memory and server orders and dates today: Nvidia's report and the China restrictions could move prices and lead times."
+ },
+ "pt": {
+  "titular": "Wall Street abre em queda antes da Nvidia: Taiwan despenca 8,2% e a Europa cai 1,2%",
+  "esencial": [
+   "Às 9h08 (Cidade do México) o S&P 500 caía 0,31%, o Nasdaq 0,19% e o Dow 0,64%; Taiwan fechou com −8,2%, o KOSPI com −2,6% e o Euro Stoxx 50 caía 1,2%.",
+   "A Nvidia divulga resultados hoje depois do fechamento, com Colette Kress como CEO interina; espera-se receita de 109,15 bilhões de dólares. As vendas no varejo dos EUA subiram 0,2% em outubro, acima do esperado.",
+   "Para supply chain: o Brent sobe 1,3% para 93,66 dólares por novos ataques a navios em Ormuz; mantenha a revisão semanal das sobretaxas e confirme pedidos de computação antes do resultado."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 9h08 (Cidade do México) o S&P 500 estava em 7.393,93 (−0,31%), o Nasdaq em 24.462,78 (−0,19%) e o Dow em 51.278,31 (−0,64%), depois da queda de quase 2% de segunda; o VIX caía para 22,60. A Nvidia caía 0,9% (154,70 dólares), a TSMC 2,5% e a Micron 2,5%, enquanto a Broadcom subia 1,7%; Coherent e Lumentum subiam pelas restrições à importação de tecnologia óptica da China. A Home Depot superou o esperado e nomeou seu diretor financeiro, Richard McPhail, como novo CEO, mas a ação caía 1,5%. As vendas no varejo de outubro subiram 0,2% no mês, acima do esperado. O Treasury de 10 anos subia para 5,15%. O Brent subia 1,3% para 93,66 dólares e o WTI 1,4% para 86,92 por novos ataques a navios em Ormuz; o ouro estava em 3.864 (+0,3%) e o cobre em 5,99 (−0,2%)."
+   },
+   {
+    "t": "Ásia e Europa",
+    "x": "A Ásia fechou com fortes quedas na tecnologia: Taiwan −8,20% (40.092,11), KOSPI −2,59% (4.968,48), Nikkei −1,34% (58.860,43), Xangai −1,37% e Hang Seng −0,55%. Às 8h53 (Cidade do México) a Europa caía: Euro Stoxx 50 −1,20%, DAX −1,22%, CAC 40 −1,03% e FTSE 100 −1,03%."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Depois do fechamento divulgam resultados a Nvidia e a SQM; para a Nvidia espera-se receita de 109,15 bilhões de dólares, com 101,85 bilhões de data centers, segundo o consenso da Bloomberg. Amanhã divulgam Target, Lowe's e TJX e sai a ata do Fed; na quinta o Walmart divulga resultados e a Anthropic estreia na bolsa."
+   }
+  ],
+  "scm": "O petróleo volta a subir por novos ataques em Ormuz: não fixe sobretaxas de combustível de longo prazo e mantenha a revisão semanal com o diesel (4,01 dólares por galão nos futuros). Confirme hoje pedidos e prazos de GPUs, memória e servidores: o resultado da Nvidia e as restrições à China podem mexer em preços e prazos."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan en la cuenta regresiva para Nvidia (17 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
+  },
+  {
+   "t": "Yahoo Finance AlphaCheck: las acciones bajan antes de Nvidia y cae Home Depot (17 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/article/copy-copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-145755423.html"
+  },
+  {
+   "t": "Yahoo Finance: Nvidia reporta el tercer trimestre con Colette Kress como directora interina (17 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html"
+  },
+  {
+   "t": "MT Newswires: el petróleo sube tras ataques a barcos en Ormuz (17 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/canada-commodities-oil-prices-climb-144951548.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

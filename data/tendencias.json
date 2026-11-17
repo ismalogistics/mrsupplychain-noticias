@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-16T21:18:28Z",
- "fecha": "2026-11-16",
+ "actualizado": "2026-11-17T15:11:51Z",
+ "fecha": "2026-11-17",
  "titular": {
-  "es": "Lunes: los chips arrastran al Nasdaq a corrección, el crudo cae 3.6% y el cobre baja de 6 dólares",
-  "en": "Monday: chips drag the Nasdaq into a correction, crude falls 3.6% and copper drops below $6",
-  "pt": "Segunda: os chips levam o Nasdaq à correção, o petróleo cai 3,6% e o cobre cai abaixo de 6 dólares"
+  "es": "Martes: Taiwán se desploma antes de Nvidia, el crudo rebota por Ormuz y Home Depot cambia de director",
+  "en": "Tuesday: Taiwan plunges ahead of Nvidia, crude rebounds on Hormuz and Home Depot changes CEO",
+  "pt": "Terça: Taiwan despenca antes da Nvidia, o petróleo volta a subir por Ormuz e a Home Depot troca de CEO"
  },
  "items": [
   {
@@ -17,66 +17,70 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Los chips cierran con fuertes caídas: Micron −7.6%, Intel −7.0%, TSMC −6.3% y Nvidia −4.1%",
-    "en": "Chips close sharply lower: Micron −7.6%, Intel −7.0%, TSMC −6.3% and Nvidia −4.1%",
-    "pt": "Os chips fecham com fortes quedas: Micron −7,6%, Intel −7,0%, TSMC −6,3% e Nvidia −4,1%"
+    "es": "Taiwán se desploma 8.2% antes del reporte de Nvidia; Coherent y Lumentum suben por restricciones a la óptica china",
+    "en": "Taiwan plunges 8.2% ahead of Nvidia; Coherent and Lumentum rise on curbs on Chinese optics",
+    "pt": "Taiwan despenca 8,2% antes da Nvidia; Coherent e Lumentum sobem por restrições à óptica chinesa"
    },
    "x": {
-    "es": "Micron cerró con −7.6%, Intel −7.0%, TSMC −6.3%, AMD −5.6% y Nvidia −4.1%, y el Nasdaq quedó en corrección. El gobierno de Trump emitió una regla que restringe el acceso de China a los chips de IA más avanzados, y Intel enfrenta una demanda colectiva de accionistas. Los analistas esperan que Nvidia reporte mañana ingresos por 109,100 millones de dólares.",
-    "en": "Micron closed −7.6%, Intel −7.0%, TSMC −6.3%, AMD −5.6% and Nvidia −4.1%, and the Nasdaq entered a correction. The Trump administration issued a rule restricting China's access to the most advanced AI chips, and Intel faces a shareholder class action. Analysts expect Nvidia to report revenue of $109.1 billion tomorrow.",
-    "pt": "A Micron fechou com −7,6%, a Intel −7,0%, a TSMC −6,3%, a AMD −5,6% e a Nvidia −4,1%, e o Nasdaq entrou em correção. O governo Trump emitiu uma regra que restringe o acesso da China aos chips de IA mais avançados, e a Intel enfrenta uma ação coletiva de acionistas. Os analistas esperam que a Nvidia reporte amanhã receita de 109,1 bilhões de dólares."
+    "es": "La bolsa de Taiwán cerró con −8.2% y el KOSPI con −2.6%; a las 9:08 CDMX TSMC caía 2.5%, Micron 2.5% y Nvidia 0.9%, mientras Coherent y Lumentum subían por las restricciones a la importación de tecnología óptica de China. Nvidia reporta hoy después del cierre; el consenso de Bloomberg espera ingresos por 109,150 millones de dólares.",
+    "en": "Taiwan's stock market closed −8.2% and the KOSPI −2.6%; at 10:08 a.m. ET TSMC was down 2.5%, Micron 2.5% and Nvidia 0.9%, while Coherent and Lumentum rose on restrictions on optical technology imports from China. Nvidia reports today after the close; Bloomberg consensus expects revenue of $109.15 billion.",
+    "pt": "A bolsa de Taiwan fechou com −8,2% e o KOSPI com −2,6%; às 9h08 (Cidade do México) a TSMC caía 2,5%, a Micron 2,5% e a Nvidia 0,9%, enquanto Coherent e Lumentum subiam pelas restrições à importação de tecnologia óptica da China. A Nvidia divulga resultados hoje depois do fechamento; o consenso da Bloomberg espera receita de 109,15 bilhões de dólares."
    },
    "scm": {
-    "es": "Confirma hoy pedidos, fechas y precios de GPU, memoria y servidores, y revisa si algún proveedor depende de rutas por terceros países.",
-    "en": "Confirm GPU, memory and server orders, dates and prices today, and check whether any supplier relies on third-country routes.",
-    "pt": "Confirme hoje pedidos, prazos e preços de GPUs, memória e servidores e verifique se algum fornecedor depende de rotas por terceiros países."
+    "es": "Revisa si tienes transceptores o componentes ópticos de origen chino y confirma alternativas antes de que cambien las reglas de importación.",
+    "en": "Check whether you buy Chinese-origin transceivers or optical components and line up alternatives before import rules change.",
+    "pt": "Verifique se você compra transceptores ou componentes ópticos de origem chinesa e confirme alternativas antes que mudem as regras de importação."
    },
    "fuentes": [
     {
-     "t": "Reuters: Wall Street cierra con fuertes pérdidas por nerviosismo en IA antes de Nvidia y Anthropic (16 nov 2026)",
-     "u": "https://finance.yahoo.com/news/p-500-nasdaq-futures-slide-104351968.html"
+     "t": "Yahoo Finance AlphaCheck: las acciones bajan antes de Nvidia y cae Home Depot (17 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/article/copy-copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-145755423.html"
     },
     {
-     "t": "Yahoo Finance: Dow y S&P 500 caen, el Nasdaq pierde más de 2% (16 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+     "t": "Yahoo Finance: Nvidia reporta el tercer trimestre con Colette Kress como directora interina (17 nov 2026)",
+     "u": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 15:16 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 09:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   {
    "id": "energia",
-   "dir": "down",
-   "calor": 3,
+   "dir": "up",
+   "calor": 2,
    "mx": true,
    "latam": true,
    "es": "Energía y combustibles",
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo cierra con −3.6% (Brent 92.44 dólares) y el diésel baja de 4 dólares por galón",
-    "en": "Crude settles −3.6% (Brent $92.44) and diesel drops below $4 a gallon",
-    "pt": "O petróleo fecha com −3,6% (Brent a 92,44 dólares) e o diesel cai abaixo de 4 dólares por galão"
+    "es": "El crudo rebota 1.3% por nuevos ataques a barcos en Ormuz",
+    "en": "Crude rebounds 1.3% on new attacks on ships in Hormuz",
+    "pt": "O petróleo volta a subir 1,3% por novos ataques a navios em Ormuz"
    },
    "x": {
-    "es": "El Brent cerró en 92.44 dólares (−3.6%) y el WTI en 85.72 (−3.2%), según Reuters, y el futuro del diésel bajó 4.1% a 4.00 dólares por galón. La recuperación del tránsito por Ormuz refuerza el superávit que prevé la AIE, que liberará 71 millones de barriles de reservas hasta febrero, 15 millones de ellos de diésel; Goldman Sachs prevé un Brent promedio de 88 dólares en 2027.",
-    "en": "Brent settled at $92.44 (−3.6%) and WTI at $85.72 (−3.2%), according to Reuters, and diesel futures fell 4.1% to $4.00 a gallon. Recovering traffic through Hormuz reinforces the surplus the IEA expects; the agency will release 71 million barrels of reserves through February, 15 million of them diesel; Goldman Sachs sees Brent averaging $88 in 2027.",
-    "pt": "O Brent fechou a 92,44 dólares (−3,6%) e o WTI a 85,72 (−3,2%), segundo a Reuters, e o futuro do diesel caiu 4,1% para 4,00 dólares por galão. A recuperação do trânsito por Ormuz reforça o superávit que a AIE prevê; a agência vai liberar 71 milhões de barris de reservas até fevereiro, 15 milhões deles de diesel; o Goldman Sachs prevê Brent médio de 88 dólares em 2027."
+    "es": "A las 8:58 CDMX el Brent estaba en 93.66 dólares (+1.3%) y el WTI en 86.92 (+1.4%), tras caer más de 3% el lunes, por nuevos ataques a barcos en el estrecho de Ormuz. El futuro del diésel estaba en 4.01 dólares por galón (+0.3%).",
+    "en": "At 9:58 a.m. ET Brent was at $93.66 (+1.3%) and WTI at $86.92 (+1.4%), after falling more than 3% on Monday, on new attacks on ships in the Strait of Hormuz. Diesel futures were at $4.01 a gallon (+0.3%).",
+    "pt": "Às 8h58 (Cidade do México) o Brent estava a 93,66 dólares (+1,3%) e o WTI a 86,92 (+1,4%), depois de cair mais de 3% na segunda, por novos ataques a navios no estreito de Ormuz. O futuro do diesel estava a 4,01 dólares por galão (+0,3%)."
    },
    "scm": {
-    "es": "Calcula los recargos de combustible con el diésel, no con el crudo, y pide que se ajusten cada semana.",
-    "en": "Base fuel surcharges on diesel, not crude, and ask for weekly adjustments.",
-    "pt": "Calcule as sobretaxas de combustível com o diesel, não com o petróleo, e peça ajustes semanais."
+    "es": "No fijes recargos de combustible a largo plazo: con el crudo moviéndose 3% al día, pide revisión semanal con el diésel.",
+    "en": "Don't lock in long-term fuel surcharges: with crude moving 3% a day, ask for weekly reviews based on diesel.",
+    "pt": "Não fixe sobretaxas de combustível de longo prazo: com o petróleo oscilando 3% por dia, peça revisão semanal com o diesel."
    },
    "fuentes": [
     {
-     "t": "Reuters: el petróleo cierra a la baja por la recuperación de las exportaciones de Medio Oriente (16 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-expectations-coming-020042042.html"
+     "t": "MT Newswires: el petróleo sube tras ataques a barcos en Ormuz (17 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/commodities/articles/canada-commodities-oil-prices-climb-144951548.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 15:16 CDMX)",
+     "t": "Yahoo Finance AlphaCheck: las acciones bajan antes de Nvidia y cae Home Depot (17 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/article/copy-copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-145755423.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 09:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -91,24 +95,59 @@
    "en": "Maritime and ports",
    "pt": "Marítimo e portos",
    "titular": {
-    "es": "Irán dice que dos tanqueros chocaron con minas en Ormuz; la OMI suma 137 incidentes",
-    "en": "Iran says two tankers hit mines in Hormuz; the IMO counts 137 incidents",
-    "pt": "O Irã diz que dois petroleiros atingiram minas em Ormuz; a OMI soma 137 incidentes"
+    "es": "Siguen los ataques a barcos en Ormuz y el riesgo para los embarques de Medio Oriente",
+    "en": "Attacks on ships in Hormuz continue, keeping Middle East shipments at risk",
+    "pt": "Seguem os ataques a navios em Ormuz e o risco para os embarques do Oriente Médio"
    },
    "x": {
-    "es": "La Guardia Revolucionaria de Irán afirmó que dos tanqueros chocaron con minas en el estrecho de Ormuz y que seis se incendiaron desde el domingo; Reuters no pudo verificarlo. La Organización Marítima Internacional registra 137 incidentes confirmados en Ormuz y Medio Oriente al 16 de noviembre.",
-    "en": "Iran's Revolutionary Guards said two tankers struck mines in the Strait of Hormuz and six caught fire since Sunday; Reuters could not verify the claims. The International Maritime Organization has recorded 137 confirmed incidents in Hormuz and the Middle East as of November 16.",
-    "pt": "A Guarda Revolucionária do Irã afirmou que dois petroleiros atingiram minas no estreito de Ormuz e que seis pegaram fogo desde domingo; a Reuters não conseguiu verificar. A Organização Marítima Internacional registra 137 incidentes confirmados em Ormuz e no Oriente Médio até 16 de novembro."
+    "es": "El martes se reportaron nuevos ataques a barcos en el estrecho de Ormuz, un día después de que la Guardia Revolucionaria de Irán afirmara que dos tanqueros chocaron con minas. El tránsito se había recuperado, pero los incidentes mantienen el riesgo para los embarques por Medio Oriente.",
+    "en": "New attacks on ships in the Strait of Hormuz were reported on Tuesday, a day after Iran's Revolutionary Guards said two tankers struck mines. Traffic had been recovering, but the incidents keep Middle East shipments at risk.",
+    "pt": "Na terça foram relatados novos ataques a navios no estreito de Ormuz, um dia depois de a Guarda Revolucionária do Irã afirmar que dois petroleiros atingiram minas. O trânsito vinha se recuperando, mas os incidentes mantêm o risco para os embarques pelo Oriente Médio."
    },
    "scm": {
-    "es": "Mantén colchón de días en embarques que crucen Medio Oriente y confirma con tu naviera recargos de riesgo de guerra.",
+    "es": "Mantén colchón de días en embarques que crucen Medio Oriente y confirma con tu naviera los recargos de riesgo de guerra.",
     "en": "Keep buffer days on shipments crossing the Middle East and confirm war-risk surcharges with your carrier.",
     "pt": "Mantenha folga de dias em embarques que cruzem o Oriente Médio e confirme com o armador as sobretaxas de risco de guerra."
    },
    "fuentes": [
     {
-     "t": "IBT: el petróleo baja por el superávit previsto; sigue el riesgo en Ormuz (16 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-markets-weigh-142928576.html"
+     "t": "MT Newswires: el petróleo sube tras ataques a barcos en Ormuz (17 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/commodities/articles/canada-commodities-oil-prices-climb-144951548.html"
+    }
+   ]
+  },
+  {
+   "id": "retail",
+   "dir": "mixed",
+   "calor": 2,
+   "mx": true,
+   "latam": false,
+   "es": "Retail y última milla",
+   "en": "Retail and last mile",
+   "pt": "Varejo e última milha",
+   "titular": {
+    "es": "Home Depot supera lo esperado y cambia de director; las ventas minoristas de EE. UU. suben 0.2%",
+    "en": "Home Depot beats and changes CEO; US retail sales rise 0.2%",
+    "pt": "Home Depot supera o esperado e troca de CEO; as vendas no varejo dos EUA sobem 0,2%"
+   },
+   "x": {
+    "es": "Home Depot reportó resultados mejores a lo esperado y nombró a su director de finanzas, Richard McPhail, como director general a partir de la próxima semana; su acción caía 1.5% a las 9:08 CDMX. Las ventas minoristas de EE. UU. subieron 0.2% en octubre, más de lo esperado. Esta semana reportan Target, Lowe's y TJX (miércoles) y Walmart (jueves).",
+    "en": "Home Depot reported better-than-expected results and named CFO Richard McPhail as CEO starting next week; its stock was down 1.5% at 10:08 a.m. ET. US retail sales rose 0.2% in October, more than expected. Target, Lowe's and TJX report this week (Wednesday) and Walmart on Thursday.",
+    "pt": "A Home Depot divulgou resultados acima do esperado e nomeou seu diretor financeiro, Richard McPhail, como CEO a partir da próxima semana; a ação caía 1,5% às 9h08 (Cidade do México). As vendas no varejo dos EUA subiram 0,2% em outubro, acima do esperado. Nesta semana divulgam Target, Lowe's e TJX (quarta) e Walmart (quinta)."
+   },
+   "scm": {
+    "es": "Si exportas a minoristas de EE. UU., confirma pedidos de temporada alta esta semana: el consumo resiste, pero los reportes pueden ajustar los inventarios.",
+    "en": "If you export to US retailers, confirm peak-season orders this week: consumers are holding up, but the reports may adjust inventories.",
+    "pt": "Se você exporta para varejistas dos EUA, confirme os pedidos da alta temporada nesta semana: o consumo resiste, mas os resultados podem ajustar os estoques."
+   },
+   "fuentes": [
+    {
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan en la cuenta regresiva para Nvidia (17 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
+    },
+    {
+     "t": "Yahoo Finance AlphaCheck: las acciones bajan antes de Nvidia y cae Home Depot (17 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/article/copy-copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-145755423.html"
     }
    ]
   },
@@ -122,14 +161,14 @@
    "en": "Software and AI for supply chain",
    "pt": "Software e IA para supply chain",
    "titular": {
-    "es": "Anthropic saldría a bolsa el jueves 19 y levantaría unos 65,000 millones de dólares",
-    "en": "Anthropic is expected to list on Thursday the 19th and raise about $65 billion",
-    "pt": "A Anthropic deve abrir capital na quinta, dia 19, e captar cerca de 65 bilhões de dólares"
+    "es": "Anthropic debuta el jueves 19 en lo que podría ser la mayor salida a bolsa de la historia",
+    "en": "Anthropic debuts on Thursday the 19th in what could be the largest IPO on record",
+    "pt": "A Anthropic estreia na quinta, dia 19, no que pode ser o maior IPO da história"
    },
    "x": {
-    "es": "Según AFP, analistas esperan que la oferta pública de Anthropic levante alrededor de 65,000 millones de dólares y la valúe en 1.3 billones; algunos inversionistas venden otras acciones de IA para entrar a la oferta.",
-    "en": "According to AFP, analysts expect Anthropic's IPO to raise around $65 billion and value it at $1.3 trillion; some investors are selling other AI holdings to buy into the offering.",
-    "pt": "Segundo a AFP, analistas esperam que o IPO da Anthropic capte cerca de 65 bilhões de dólares e a avalie em 1,3 trilhão; alguns investidores vendem outras ações de IA para entrar na oferta."
+    "es": "Según Yahoo Finance, la salida a bolsa de Anthropic el jueves podría ser la mayor de la historia; Vanda Research estima que pequeños inversionistas comprarían 250 millones de dólares netos el primer día y advierte que parte de ese dinero podría salir de otras acciones de IA.",
+    "en": "According to Yahoo Finance, Anthropic's IPO on Thursday could be the largest on record; Vanda Research estimates retail investors could buy a net $250 million on the first day and warns some of that money may come out of other AI stocks.",
+    "pt": "Segundo o Yahoo Finance, o IPO da Anthropic na quinta pode ser o maior da história; a Vanda Research estima que pequenos investidores comprariam 250 milhões de dólares líquidos no primeiro dia e alerta que parte desse dinheiro pode sair de outras ações de IA."
    },
    "scm": {
     "es": "Si evalúas herramientas de IA para planeación, pide a tus proveedores precios y niveles de servicio fijos para 2027.",
@@ -138,70 +177,39 @@
    },
    "fuentes": [
     {
-     "t": "AFP: las tecnológicas caen antes de los resultados de Nvidia y la salida a bolsa de Anthropic (16 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-extend-losses-traders-digest-030006305.html"
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan en la cuenta regresiva para Nvidia (17 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
     }
    ]
   },
   {
    "id": "mineria",
-   "dir": "down",
-   "calor": 2,
+   "dir": "mixed",
+   "calor": 1,
    "mx": true,
    "latam": true,
    "es": "Minería y metales",
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "El cobre cierra debajo de 6 dólares (5.99, −1.7%) y la plata cae 4.6%",
-    "en": "Copper closes below $6 ($5.99, −1.7%) and silver falls 4.6%",
-    "pt": "O cobre fecha abaixo de 6 dólares (5,99, −1,7%) e a prata cai 4,6%"
+    "es": "El cobre se queda debajo de 6 dólares; la plata rebota 1.8%",
+    "en": "Copper stays below $6; silver rebounds 1.8%",
+    "pt": "O cobre fica abaixo de 6 dólares; a prata volta a subir 1,8%"
    },
    "x": {
-    "es": "El cobre terminó en 5.99 dólares por libra (−1.7%), la plata en 46.88 (−4.6%) y el oro en 3,853 (−0.9%), con el índice del dólar en 103.61 (+0.2%) y la aversión al riesgo global.",
-    "en": "Copper ended at $5.99 per pound (−1.7%), silver at $46.88 (−4.6%) and gold at $3,853 (−0.9%), with the dollar index at 103.61 (+0.2%) and global risk aversion.",
-    "pt": "O cobre terminou a 5,99 dólares por libra (−1,7%), a prata a 46,88 (−4,6%) e o ouro a 3.853 (−0,9%), com o índice do dólar em 103,61 (+0,2%) e a aversão global ao risco."
+    "es": "A las 8:58 CDMX el cobre estaba en 5.99 dólares por libra (−0.2%), la plata en 47.69 (+1.8%) y el oro en 3,864 (+0.3%).",
+    "en": "At 9:58 a.m. ET copper was at $5.99 per pound (−0.2%), silver at $47.69 (+1.8%) and gold at $3,864 (+0.3%).",
+    "pt": "Às 8h58 (Cidade do México) o cobre estava a 5,99 dólares por libra (−0,2%), a prata a 47,69 (+1,8%) e o ouro a 3.864 (+0,3%)."
    },
    "scm": {
-    "es": "Cotiza cable, conectores e insumos de cobre mientras el precio baja.",
-    "en": "Quote cable, connectors and copper inputs while prices fall.",
-    "pt": "Cote cabos, conectores e insumos de cobre enquanto o preço cai."
+    "es": "Con el cobre debajo de 6 dólares, cotiza cable y conectores para el primer trimestre.",
+    "en": "With copper below $6, quote cable and connectors for the first quarter.",
+    "pt": "Com o cobre abaixo de 6 dólares, cote cabos e conectores para o primeiro trimestre."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (16 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 09:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
-    }
-   ]
-  },
-  {
-   "id": "manufactura",
-   "dir": "down",
-   "calor": 3,
-   "mx": true,
-   "latam": true,
-   "es": "Manufactura",
-   "en": "Manufacturing",
-   "pt": "Manufatura",
-   "titular": {
-    "es": "Los precios al productor de EE. UU. suben 6.5% anual, su mayor alza en cuatro años",
-    "en": "US producer prices rise 6.5% year over year, their biggest increase in four years",
-    "pt": "Os preços ao produtor dos EUA sobem 6,5% em 12 meses, a maior alta em quatro anos"
-   },
-   "x": {
-    "es": "El PPI de demanda final subió 0.3% en octubre y 6.5% anual, el mayor aumento desde noviembre de 2022; el subyacente anual fue de 4.9%. Yahoo Finance señala que la inflación es amplia y persistente en manufactura y cadenas de suministro.",
-    "en": "Final-demand PPI rose 0.3% in October and 6.5% year over year, the biggest increase since November 2022; core annual was 4.9%. Yahoo Finance notes that inflation is broad and sticky across manufacturing and supply chains.",
-    "pt": "O PPI de demanda final subiu 0,3% em outubro e 6,5% em 12 meses, a maior alta desde novembro de 2022; o núcleo anual foi de 4,9%. O Yahoo Finance aponta que a inflação é ampla e persistente na manufatura e nas cadeias de suprimentos."
-   },
-   "scm": {
-    "es": "Prepara aumentos de proveedores en insumos y empaques, y fija precios de compra del primer trimestre donde puedas.",
-    "en": "Prepare for supplier increases in inputs and packaging, and lock first-quarter purchase prices where you can.",
-    "pt": "Prepare-se para reajustes de fornecedores em insumos e embalagens e fixe preços de compra do primeiro trimestre onde puder."
-   },
-   "fuentes": [
-    {
-     "t": "Yahoo Finance: S&P 500 y Nasdaq bajan con el PPI; Nvidia cae (13 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     }
    ]
   }
