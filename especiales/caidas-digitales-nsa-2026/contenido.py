@@ -1,0 +1,229 @@
+# -*- coding: utf-8 -*-
+"""Contenido del especial "Seis días, cinco caídas: de Microsoft a la NSA, y lo que significan para supply chain".
+Cada cifra lleva su fuente en FUENTES (clave corta). Texto en ES / EN / PT.
+Horas en hora de la Ciudad de México (CDMX, UTC-6); hora del Este = CDMX + 1."""
+
+
+def L(es, en, pt):
+    return {'es': es, 'en': en, 'pt': pt}
+
+
+# ------------------------------------------------------------------ Bitácora "Al momento"
+# Cada actualización AGREGA una entrada al final (no borra las anteriores).
+ACTUALIZACIONES = [
+    {'t': '2026-11-17T10:10:00-06:00',
+     'titulo': L('Se cae NSA Net, la red clasificada interna de la NSA; sin indicios de ciberataque',
+                 'NSA Net, the NSA’s classified internal network, goes down; no sign of a cyberattack',
+                 'Cai a NSA Net, a rede interna classificada da NSA; sem indícios de ataque cibernético'),
+     'x': L('CNN informó en la mañana del martes que NSA Net, la red que los empleados de la NSA usan para comunicar y compartir información clasificada, estaba fuera de servicio, citando a seis personas familiarizadas con el problema. Según CBS, la agencia escalonó la llegada de parte de su personal a Fort Meade para evitar que muchos empleados se conectaran al mismo tiempo, y movió algunas actividades a otras instalaciones. Dos funcionarios dijeron a CBS que no hay evidencia de un ciberataque.',
+            'CNN reported Tuesday morning that NSA Net, the network NSA employees use to communicate and share classified information, was down, citing six people familiar with the problem. According to CBS, the agency staggered arrival times for some staff at Fort Meade to keep many employees from logging on at once, and moved some activities to other facilities. Two officials told CBS there is no evidence of a cyberattack.',
+            'A CNN informou na manhã de terça que a NSA Net, a rede que os funcionários da NSA usam para comunicar e compartilhar informação classificada, estava fora do ar, citando seis pessoas a par do problema. Segundo a CBS, a agência escalonou a chegada de parte do pessoal a Fort Meade para evitar que muitos funcionários se conectassem ao mesmo tempo, e transferiu algumas atividades para outras instalações. Dois funcionários disseram à CBS que não há evidência de ataque cibernético.'),
+     'f': ['ibt', 'cbs_nsa', 'townhall']},
+    {'t': '2026-11-17T13:40:00-06:00',
+     'titulo': L('La NSA lo atribuye a un mantenimiento de rutina; lo crítico sigue operando',
+                 'The NSA blames routine maintenance; critical functions keep running',
+                 'A NSA atribui a uma manutenção de rotina; o crítico segue operando'),
+     'x': L('Un vocero de la NSA habló de una "degradación temporal durante un mantenimiento de rutina programado": algunos sistemas internos se vieron afectados, pero las capacidades críticas de la misión siguen operando, y la infraestructura tiene varias capas de redundancia. Dos fuentes dijeron a CBS que la caída vino de un parche de rutina, y el Wall Street Journal reportó que la red se bajó para aplicar una actualización. Hasta esta hora no hay fecha pública para el restablecimiento total.',
+            'An NSA spokesperson described a "temporary degradation during scheduled routine maintenance": some internal systems were affected, but mission-critical capabilities remain operational, and the infrastructure has several layers of redundancy. Two sources told CBS the outage came from routine patching, and the Wall Street Journal reported the network was taken down to apply an update. As of this writing there is no public date for full restoration.',
+            'Um porta-voz da NSA falou de uma "degradação temporária durante uma manutenção de rotina programada": alguns sistemas internos foram afetados, mas as capacidades críticas da missão seguem operando, e a infraestrutura tem várias camadas de redundância. Duas fontes disseram à CBS que a queda veio de um patch de rotina, e o Wall Street Journal informou que a rede foi desligada para aplicar uma atualização. Até agora não há data pública para o restabelecimento total.'),
+     'f': ['cbs_nsa', 'ap_nsa', 'newsweek', 'ibt']},
+]
+
+# ------------------------------------------------------------------ Estado (recuadro principal)
+ESTADO = {
+    'titulo': L('La semana en que la tecnología se cayó sola: cinco fallas, ningún ataque y una lección para tu cadena digital',
+                'The week technology fell on its own: five failures, no attack and a lesson for your digital supply chain',
+                'A semana em que a tecnologia caiu sozinha: cinco falhas, nenhum ataque e uma lição para sua cadeia digital'),
+    'esencial': [
+        L('En seis días fallaron Microsoft 365 (casi 24 horas), el control aéreo de EE. UU. (4 h 21 min y 12,462 cancelaciones), Chase, United y la red clasificada de la NSA.',
+          'In six days Microsoft 365 (almost 24 hours), US air traffic control (4 h 21 min and 12,462 cancellations), Chase, United and the NSA’s classified network all failed.',
+          'Em seis dias falharam o Microsoft 365 (quase 24 horas), o controle aéreo dos EUA (4 h 21 min e 12.462 cancelamentos), o Chase, a United e a rede classificada da NSA.'),
+        L('Ninguna se atribuye a un ataque: un parche, un router nuevo, un cambio de red y errores de software explican las que tienen causa conocida.',
+          'None is attributed to an attack: a patch, a new router, a network change and software bugs explain the ones with a known cause.',
+          'Nenhuma é atribuída a um ataque: um patch, um roteador novo, uma mudança de rede e erros de software explicam as que têm causa conhecida.'),
+        L('Para supply chain: el riesgo digital más probable está dentro; antes de la temporada alta, congela cambios en sistemas críticos y ensaya operar sin ellos.',
+          'For supply chains: the most likely digital risk is internal; before peak season, freeze changes to critical systems and rehearse running without them.',
+          'Para supply chain: o risco digital mais provável está dentro; antes da alta temporada, congele mudanças em sistemas críticos e ensaie operar sem eles.'),
+    ],
+    'parrafos': [
+        L('Qué pasó. Del jueves 12 al martes 17 de noviembre fallaron, una tras otra, cinco infraestructuras de las que dependen millones de operaciones: el correo y Teams de Microsoft en todo el mundo, la red de comunicaciones del control aéreo de EE. UU., los pagos de JPMorgan Chase, los sistemas de despacho de United y, hoy, la red interna clasificada de la NSA. Las autoridades niegan que estén conectadas: el secretario de Seguridad Nacional, Markwayne Mullin, dijo estar completamente seguro de que el país no está bajo ataque.',
+          'What happened. From Thursday the 12th to Tuesday, November 17, five infrastructures that millions of operations depend on failed one after another: Microsoft email and Teams worldwide, the US air traffic control communications network, JPMorgan Chase payments, United’s dispatch systems and, today, the NSA’s classified internal network. Authorities deny they are connected: Homeland Security Secretary Markwayne Mullin said he was completely certain the country is not under attack.',
+          'O que aconteceu. De quinta, 12, a terça, 17 de novembro, falharam uma após a outra cinco infraestruturas das quais dependem milhões de operações: o e-mail e o Teams da Microsoft no mundo todo, a rede de comunicações do controle aéreo dos EUA, os pagamentos do JPMorgan Chase, os sistemas de despacho da United e, hoje, a rede interna classificada da NSA. As autoridades negam que estejam ligadas: o secretário de Segurança Interna, Markwayne Mullin, disse ter certeza absoluta de que o país não está sob ataque.'),
+        L('Por qué importa. El patrón no es un villano externo, sino el cambio de rutina: la NSA cayó durante un parche, el control aéreo durante la instalación de un router nuevo y Microsoft por un problema que dejó una ampliación de red previa. Chase habló de un error de software en sus equipos propios. En cada caso, una falla local se volvió nacional o global porque los sistemas están cada vez más conectados, y un experto de TrustedSec advirtió que la infraestructura vieja hace más difícil prevenir estas interrupciones.',
+          'Why it matters. The pattern is not an outside villain but the routine change: the NSA went down during a patch, air traffic control while a new router was being installed and Microsoft over a problem left by an earlier network upgrade. Chase cited a software bug in its own equipment. In each case a local failure became national or global because systems are ever more connected, and a TrustedSec expert warned that aging infrastructure makes these disruptions harder to prevent.',
+          'Por que importa. O padrão não é um vilão externo, e sim a mudança de rotina: a NSA caiu durante um patch, o controle aéreo durante a instalação de um roteador novo e a Microsoft por um problema deixado por uma ampliação de rede anterior. O Chase falou de um erro de software em seus próprios equipamentos. Em cada caso, uma falha local virou nacional ou global porque os sistemas estão cada vez mais conectados, e um especialista da TrustedSec alertou que a infraestrutura antiga torna essas interrupções mais difíceis de prevenir.'),
+        L('Qué sigue. Faltan nueve días para Thanksgiving y diez para Black Friday, cuando la paquetería, los pagos y el correo trabajan al máximo y cualquier caída pega directo en ventas y entregas. Para tu operación, la pregunta no es si tu proveedor de tecnología puede fallar, sino qué sigue funcionando cuando falle y quién decide. Abajo están el recuento, los highlights, los impactos, las lecciones y las recomendaciones.',
+          'What comes next. Thanksgiving is nine days away and Black Friday ten, when parcels, payments and email run at full capacity and any outage hits sales and deliveries directly. For your operation, the question is not whether your technology provider can fail, but what keeps working when it does and who decides. Below are the recap, highlights, impacts, lessons and recommendations.',
+          'O que vem. Faltam nove dias para o Thanksgiving e dez para a Black Friday, quando encomendas, pagamentos e e-mail trabalham no máximo e qualquer queda atinge diretamente vendas e entregas. Para sua operação, a pergunta não é se o seu fornecedor de tecnologia pode falhar, e sim o que continua funcionando quando falhar e quem decide. Abaixo estão a recapitulação, os destaques, os impactos, as lições e as recomendações.'),
+    ],
+    'f': ['ibt', 'cbs_nsa', 'faa_qa', 'azureblog', 'nbc_chase', 'cnn_united'],
+}
+
+# ------------------------------------------------------------------ Recuento: las cinco caídas
+RECUENTO = [
+    {'d': '2026-11-12', 't': L('Microsoft 365: correo y Teams caen en todo el mundo', 'Microsoft 365: email and Teams go down worldwide', 'Microsoft 365: e-mail e Teams caem no mundo todo'),
+     'tag': L('≈24 h', '≈24 h', '≈24 h'),
+     'x': L('Desde las 12:26 CDMX del jueves, Outlook, Exchange Online, Teams, Copilot y otros servicios de Microsoft 365 se degradaron en todo el mundo, empezando por América, con una recuperación de casi 24 horas. Microsoft dijo que no tuvo relación con ataques ni con agentes de IA: el problema lo dejó una ampliación previa de capacidad de red, que salió a la luz tras un cambio más reciente. Según su informe preliminar, un error de software introducido en julio dejó sin respuesta a más del 80% de sus servidores de entrada.',
+            'From 12:26 p.m. Mexico City time on Thursday, Outlook, Exchange Online, Teams, Copilot and other Microsoft 365 services degraded worldwide, starting in the Americas, with a recovery of almost 24 hours. Microsoft said it was unrelated to attacks or AI agents: the problem was left by an earlier network capacity upgrade and surfaced after a more recent change. According to its preliminary report, a software bug introduced in July left more than 80% of its gateway servers unresponsive.',
+            'A partir das 12h26 (Cidade do México) de quinta, Outlook, Exchange Online, Teams, Copilot e outros serviços do Microsoft 365 se degradaram no mundo todo, começando pelas Américas, com uma recuperação de quase 24 horas. A Microsoft disse que não teve relação com ataques nem com agentes de IA: o problema foi deixado por uma ampliação anterior de capacidade de rede e veio à tona após uma mudança mais recente. Segundo seu relatório preliminar, um erro de software introduzido em julho deixou sem resposta mais de 80% de seus servidores de entrada.'),
+     'f': ['controlplane', 'azureblog', 'bleeping']},
+    {'d': '2026-11-13', 't': L('FAA: EE. UU. detiene todos sus despegues', 'FAA: the US halts all departures', 'FAA: os EUA suspendem todas as decolagens'),
+     'tag': L('4 h 21 min', '4 h 21 min', '4 h 21 min'),
+     'x': L('De 14:54 a 19:15 CDMX, la FAA detuvo todas las salidas de EE. UU., de pasajeros y de carga. Según la FAA, un flujo de datos desde dos sitios, en Amarillo (Texas) y El Dorado (Arkansas), donde se instalaba un router nuevo, saturó su red de telecomunicaciones heredada. El viernes hubo 12,462 cancelaciones de todos los operadores y la red tardó tres días en normalizarse: 18,520 cancelaciones hasta el lunes temprano, según FlightAware.',
+            'From 2:54 to 7:15 p.m. Mexico City time, the FAA halted all US departures, passenger and cargo. According to the FAA, a flood of data from two sites, in Amarillo (Texas) and El Dorado (Arkansas), where a new router was being installed, overwhelmed its legacy telecommunications network. Friday saw 12,462 cancellations across all operators and the network took three days to normalize: 18,520 cancellations through early Monday, according to FlightAware.',
+            'Das 14h54 às 19h15 (Cidade do México), a FAA suspendeu todas as saídas dos EUA, de passageiros e de carga. Segundo a FAA, um fluxo de dados de dois sítios, em Amarillo (Texas) e El Dorado (Arkansas), onde se instalava um roteador novo, saturou sua rede de telecomunicações legada. Na sexta houve 12.462 cancelamentos de todos os operadores e a rede levou três dias para se normalizar: 18.520 cancelamentos até o início de segunda, segundo o FlightAware.'),
+     'f': ['faa_qa', 'foxbiz_mon', 'ibt'], 'link': True},
+    {'d': '2026-11-16', 't': L('JPMorgan Chase: pagos lentos dentro y fuera del banco', 'JPMorgan Chase: slow payments inside and outside the bank', 'JPMorgan Chase: pagamentos lentos dentro e fora do banco'),
+     'tag': L('≈8 h', '≈8 h', '≈8 h'),
+     'x': L('El lunes, clientes de Chase en todo EE. UU. tuvieron problemas para completar transacciones en línea y en sucursales, durante casi ocho horas. El banco lo atribuyó a un error de software en sus sistemas de hardware propios (no en la nube) y dijo que no hay evidencia de un ataque. Los clientes mantuvieron acceso a sus cuentas, pero los pagos tardaron más, y otros bancos tuvieron retrasos en operaciones donde Chase era contraparte. Hacia las 17:30 CDMX las transacciones ya se registraban con normalidad.',
+            'On Monday, Chase customers across the US had trouble completing transactions online and at branches for almost eight hours. The bank blamed a software bug in its own on-premise hardware systems (not the cloud) and said there is no evidence of an attack. Customers kept access to their accounts, but payments took longer, and other banks had delays on transactions where Chase was the counterparty. By about 5:30 p.m. Mexico City time, transactions were posting normally.',
+            'Na segunda, clientes do Chase em todos os EUA tiveram problemas para concluir transações online e nas agências durante quase oito horas. O banco atribuiu a um erro de software em seus próprios sistemas de hardware (não na nuvem) e disse que não há evidência de ataque. Os clientes mantiveram acesso às contas, mas os pagamentos demoraram mais, e outros bancos tiveram atrasos em operações em que o Chase era contraparte. Por volta das 17h30 (Cidade do México), as transações já eram registradas normalmente.'),
+     'f': ['nbc_chase', 'cnn_chase', 'tomsguide_chase', 'techtimes']},
+    {'d': '2026-11-16', 't': L('United: una falla de sistemas frena salidas', 'United: a systems failure holds departures', 'United: uma falha de sistemas segura decolagens'),
+     'tag': L('<150 vuelos', '<150 flights', '<150 voos'),
+     'x': L('El mismo lunes, cerca de las 16:00 CDMX, United reportó una caída de sistemas que retrasó vuelos de salida en aeropuertos de EE. UU. La falla tocó aplicaciones de las tripulaciones, incluida la mensajería y el dato del peso final del avión, sin el cual no se puede despegar. La aerolínea dice que la falla duró unos 30 minutos y afectó a menos de 150 vuelos, aunque la normalización tomó alrededor de hora y media; los vuelos en el aire y United Express no se vieron afectados, y no hay indicios de ciberataque.',
+            'That same Monday, around 4 p.m. Mexico City time, United reported a systems outage that delayed departing flights at US airports. It hit crew applications, including messaging and final aircraft weight data, without which a plane cannot take off. The airline says the failure lasted about 30 minutes and affected fewer than 150 flights, although normalization took about an hour and a half; flights in the air and United Express were not affected, and there is no sign of a cyberattack.',
+            'Na mesma segunda, por volta das 16h (Cidade do México), a United relatou uma queda de sistemas que atrasou voos de saída em aeroportos dos EUA. A falha atingiu aplicativos das tripulações, incluindo mensagens e o dado do peso final do avião, sem o qual não se pode decolar. A companhia diz que a falha durou cerca de 30 minutos e afetou menos de 150 voos, embora a normalização tenha levado cerca de uma hora e meia; os voos no ar e a United Express não foram afetados, e não há indícios de ataque cibernético.'),
+     'f': ['cnn_united', 'nbc_united', 'cbs_united']},
+    {'d': '2026-11-17', 't': L('NSA: se cae su red clasificada interna', 'NSA: its classified internal network goes down', 'NSA: cai sua rede interna classificada'),
+     'tag': L('sin fecha de regreso', 'no restore date', 'sem data de retorno'),
+     'x': L('NSA Net, la red con la que el personal de la NSA guarda y comparte información clasificada, salió de servicio el martes. La agencia habló de una degradación temporal durante un mantenimiento de rutina programado, y fuentes de CBS y del Wall Street Journal la atribuyen a un parche o actualización. Las capacidades críticas siguieron operando gracias a redes de respaldo, pero no todas las funciones: la NSA escalonó la llegada del personal no esencial y movió actividades a otras sedes.',
+            'NSA Net, the network NSA staff use to store and share classified information, went offline on Tuesday. The agency described a temporary degradation during scheduled routine maintenance, and sources for CBS and the Wall Street Journal attribute it to a patch or update. Critical capabilities kept running on backup networks, but not every function: the NSA staggered arrivals of non-essential staff and moved activities to other sites.',
+            'A NSA Net, rede com a qual o pessoal da NSA guarda e compartilha informação classificada, saiu do ar na terça. A agência falou de uma degradação temporária durante uma manutenção de rotina programada, e fontes da CBS e do Wall Street Journal a atribuem a um patch ou atualização. As capacidades críticas seguiram operando graças a redes de backup, mas não todas as funções: a NSA escalonou a chegada do pessoal não essencial e transferiu atividades para outras sedes.'),
+     'f': ['cbs_nsa', 'ap_nsa', 'ibt', 'bloomberg']},
+]
+
+KPIS = [
+    (L('Caídas mayores en EE. UU.', 'Major US outages', 'Quedas maiores nos EUA'), '5', L('en 6 días (12–17 nov)', 'in 6 days (Nov 12–17)', 'em 6 dias (12–17 nov)')),
+    (L('Atribuidas a ciberataque', 'Attributed to a cyberattack', 'Atribuídas a ataque cibernético'), '0', L('según autoridades y empresas', 'per authorities and companies', 'segundo autoridades e empresas')),
+    (L('Recuperación de Microsoft 365', 'Microsoft 365 recovery', 'Recuperação do Microsoft 365'), '≈24 h', L('>80% de servidores de entrada sin respuesta', '>80% of gateway servers unresponsive', '>80% dos servidores de entrada sem resposta')),
+    (L('Paro aéreo nacional', 'Nationwide ground stop', 'Paralisação aérea nacional'), '4 h 21 min', L('12,462 cancelaciones el viernes · FAA', '12,462 Friday cancellations · FAA', '12.462 cancelamentos na sexta · FAA')),
+    (L('Pagos lentos en Chase', 'Slow payments at Chase', 'Pagamentos lentos no Chase'), '≈8 h', L('con efecto en otros bancos', 'with spillover to other banks', 'com efeito em outros bancos')),
+    (L('Vuelos de United afectados', 'United flights affected', 'Voos da United afetados'), '<150', L('falla de ≈30 min', '≈30 min failure', 'falha de ≈30 min')),
+]
+
+# ------------------------------------------------------------------ Highlights
+HIGHLIGHTS = [
+    L('Cuatro de cinco empezaron en casa. Parche (NSA), router nuevo (FAA), ampliación de red (Microsoft) y error de software en equipo propio (Chase). La de United aún no tiene causa pública.',
+      'Four of five started at home. A patch (NSA), a new router (FAA), a network upgrade (Microsoft) and a software bug in its own equipment (Chase). United’s still has no public cause.',
+      'Quatro de cinco começaram em casa. Patch (NSA), roteador novo (FAA), ampliação de rede (Microsoft) e erro de software em equipamento próprio (Chase). A da United ainda não tem causa pública.'),
+    L('Un error de julio estalló en noviembre. El fallo de Microsoft se introdujo meses antes y solo apareció con un cambio posterior: probar un cambio no basta si no se prueba lo que ya estaba.',
+      'A July bug blew up in November. Microsoft’s fault was introduced months earlier and only surfaced with a later change: testing a change is not enough if what was already there is not tested.',
+      'Um erro de julho explodiu em novembro. A falha da Microsoft foi introduzida meses antes e só apareceu com uma mudança posterior: testar uma mudança não basta se não se testa o que já estava lá.'),
+    L('Horas de falla, días de impacto. El paro aéreo duró 4 horas y 21 minutos, pero las cancelaciones siguieron tres días: la cola es más larga que la caída.',
+      'Hours of failure, days of impact. The ground stop lasted 4 hours 21 minutes, but cancellations continued for three days: the tail is longer than the outage.',
+      'Horas de falha, dias de impacto. A paralisação aérea durou 4 horas e 21 minutos, mas os cancelamentos seguiram por três dias: a cauda é mais longa que a queda.'),
+    L('El contagio cruza fronteras de empresa. Chase falló y otros bancos sintieron el retraso; Microsoft falló y usuarios de Google Workspace reportaron problemas para leer su correo desde Outlook.',
+      'Contagion crosses company lines. Chase failed and other banks felt the delay; Microsoft failed and Google Workspace users reported trouble reading their email through Outlook.',
+      'O contágio cruza fronteiras de empresa. O Chase falhou e outros bancos sentiram o atraso; a Microsoft falhou e usuários do Google Workspace relataram problemas para ler o e-mail pelo Outlook.'),
+    L('El respaldo cubre lo crítico, no todo. La NSA mantuvo su misión con redes alternas, pero tuvo que escalonar personal y mover actividades.',
+      'Backup covers the critical, not everything. The NSA kept its mission running on alternate networks but had to stagger staff and move activities.',
+      'O backup cobre o crítico, não tudo. A NSA manteve sua missão com redes alternativas, mas teve de escalonar pessoal e transferir atividades.'),
+    L('Un dato de una pantalla detiene un avión. En United, sin el peso final del avión en el sistema no hubo despegue: la operación física depende de un dato digital.',
+      'One data point on a screen stops a plane. At United, without the final aircraft weight in the system there was no takeoff: physical operations depend on a digital data point.',
+      'Um dado numa tela para um avião. Na United, sem o peso final do avião no sistema não houve decolagem: a operação física depende de um dado digital.'),
+]
+HIGHLIGHTS_F = ['cbs_nsa', 'faa_qa', 'azureblog', 'bleeping', 'nbc_chase', 'techtimes', 'securityweek', 'nbc_united', 'foxbiz_mon']
+
+# ------------------------------------------------------------------ Impactos para supply chain y Digital Supply Chain
+IMPACTOS = [
+    {'t': L('Colaboración y órdenes', 'Collaboration and orders', 'Colaboração e pedidos'), 'tag': L('correo · Teams', 'email · Teams', 'e-mail · Teams'),
+     'x': L('Buena parte de la coordinación con proveedores y transportistas todavía corre por correo y chat: órdenes de compra, confirmaciones, citas de andén, escalaciones. Un día sin Microsoft 365 no detiene la planta, pero sí congela las decisiones que la alimentan, y el rezago aparece días después en entregas y en el cierre de mes.',
+            'Much supplier and carrier coordination still runs on email and chat: purchase orders, confirmations, dock appointments, escalations. A day without Microsoft 365 does not stop the plant, but it freezes the decisions that feed it, and the backlog shows up days later in deliveries and month-end close.',
+            'Boa parte da coordenação com fornecedores e transportadoras ainda passa por e-mail e chat: pedidos de compra, confirmações, agendamentos de doca, escalonamentos. Um dia sem Microsoft 365 não para a fábrica, mas congela as decisões que a alimentam, e o atraso aparece dias depois nas entregas e no fechamento do mês.'),
+     'f': ['controlplane', 'azureblog']},
+    {'t': L('Transporte aéreo y carga', 'Air transport and cargo', 'Transporte aéreo e carga'), 'tag': L('2 caídas en 4 días', '2 outages in 4 days', '2 quedas em 4 dias'),
+     'x': L('El paro de la FAA detuvo también la carga que viaja en la bodega de los aviones de pasajeros y la de los integradores, y UPS aclaró que su garantía no aplica a lo afectado. Tres días después, una falla de sistemas de United volvió a frenar salidas. Para quien mueve urgentes, refacciones o farmacéuticos por avión, el riesgo ya no es solo el clima: es el sistema.',
+            'The FAA stop also halted the cargo carried in passenger-aircraft bellies and by integrators, and UPS said its guarantee does not apply to affected shipments. Three days later, a United systems failure held departures again. For anyone moving urgent shipments, spare parts or pharma by air, the risk is no longer just weather: it is the system.',
+            'A paralisação da FAA também parou a carga que viaja no porão dos aviões de passageiros e a dos integradores, e a UPS esclareceu que sua garantia não se aplica ao que foi afetado. Três dias depois, uma falha de sistemas da United voltou a segurar decolagens. Para quem movimenta urgentes, peças de reposição ou farmacêuticos por avião, o risco já não é só o clima: é o sistema.'),
+     'f': ['faa_qa', 'ups_alert', 'aircargo', 'cnn_united'], 'link': True},
+    {'t': L('Pagos y tesorería', 'Payments and treasury', 'Pagamentos e tesouraria'), 'tag': L('flujo de efectivo', 'cash flow', 'fluxo de caixa'),
+     'x': L('Cuando un banco grande se alenta, se retrasan pagos a proveedores y cobros de clientes, y con ellos la liberación de embarques que dependen de un pago confirmado. El caso Chase mostró que no hace falta ser cliente del banco para resentirlo: basta con que tu proveedor o tu cliente lo sea.',
+            'When a big bank slows down, supplier payments and customer collections are delayed, and with them the release of shipments that depend on a confirmed payment. The Chase case showed you do not need to bank there to feel it: it is enough that your supplier or customer does.',
+            'Quando um grande banco fica lento, atrasam pagamentos a fornecedores e recebimentos de clientes, e com eles a liberação de embarques que dependem de um pagamento confirmado. O caso Chase mostrou que não é preciso ser cliente do banco para senti-lo: basta que seu fornecedor ou seu cliente seja.'),
+     'f': ['techtimes', 'nbc_chase']},
+    {'t': L('Digital Supply Chain: el eslabón oculto', 'Digital supply chain: the hidden link', 'Digital supply chain: o elo oculto'), 'tag': L('dependencias', 'dependencies', 'dependências'),
+     'x': L('Tu operación depende de capas que no aparecen en el mapa de proveedores: el ERP, el WMS (sistema de administración de almacén), el TMS (sistema de administración de transporte), la nube, la red, el banco y los sistemas de tus transportistas. Cada una es un proveedor crítico de un solo origen, y casi nunca tiene plan B.',
+            'Your operation depends on layers that do not appear on the supplier map: the ERP, the WMS (warehouse management system), the TMS (transportation management system), the cloud, the network, the bank and your carriers’ systems. Each is a single-source critical supplier, and almost never has a plan B.',
+            'Sua operação depende de camadas que não aparecem no mapa de fornecedores: o ERP, o WMS (sistema de gestão de armazém), o TMS (sistema de gestão de transporte), a nuvem, a rede, o banco e os sistemas das suas transportadoras. Cada uma é um fornecedor crítico de origem única, e quase nunca tem plano B.'),
+     'f': []},
+    {'t': L('Temporada alta', 'Peak season', 'Alta temporada'), 'tag': L('26–30 nov', 'Nov 26–30', '26–30 nov'),
+     'x': L('Todo esto pasó a dos semanas de Thanksgiving (26 de noviembre), Black Friday (27) y Cyber Monday (30). Esta vez varias fallas cayeron cerca de fin de semana o tuvieron días de margen; una repetición en esas fechas pegaría directo a promesas de entrega, pagos y comercio electrónico, sin tiempo para recuperar.',
+            'All this happened two weeks before Thanksgiving (November 26), Black Friday (27) and Cyber Monday (30). This time several failures fell near a weekend or had days of slack; a repeat on those dates would hit delivery promises, payments and e-commerce directly, with no time to recover.',
+            'Tudo isso ocorreu a duas semanas do Thanksgiving (26 de novembro), Black Friday (27) e Cyber Monday (30). Desta vez várias falhas caíram perto do fim de semana ou tiveram dias de folga; uma repetição nessas datas atingiria diretamente promessas de entrega, pagamentos e e-commerce, sem tempo para recuperar.'),
+     'f': ['foxbiz_mon']},
+]
+
+# ------------------------------------------------------------------ Lecciones
+LECCIONES = [
+    {'t': L('El riesgo más probable está adentro', 'The most likely risk is inside', 'O risco mais provável está dentro'),
+     'x': L('Las cinco caídas tienen algo en común: ninguna se atribuye a un ataque. Un parche, un router o una actualización mal probada pueden parar una operación igual que un hackeo, y pasan mucho más seguido.',
+            'The five outages share one thing: none is attributed to an attack. A poorly tested patch, router or update can stop an operation just like a hack, and it happens far more often.',
+            'As cinco quedas têm algo em comum: nenhuma é atribuída a um ataque. Um patch, um roteador ou uma atualização mal testada podem parar uma operação igual a um ataque, e acontecem com muito mais frequência.')},
+    {'t': L('La cola es más larga que la falla', 'The tail is longer than the failure', 'A cauda é mais longa que a falha'),
+     'x': L('Cuatro horas de paro aéreo fueron tres días de cancelaciones; un día sin correo son días de órdenes atrasadas. Planea la recuperación, no solo la caída.',
+            'Four hours of ground stop meant three days of cancellations; a day without email means days of late orders. Plan for the recovery, not just the outage.',
+            'Quatro horas de paralisação aérea viraram três dias de cancelamentos; um dia sem e-mail são dias de pedidos atrasados. Planeje a recuperação, não só a queda.')},
+    {'t': L('Tu proveedor puede estar bien y fallarte igual', 'Your supplier can be fine and still fail you', 'Seu fornecedor pode estar bem e falhar com você mesmo assim'),
+     'x': L('Los bancos que operaban con Chase y los usuarios de otras plataformas que pasaban por Microsoft sintieron fallas ajenas. El riesgo de tercer nivel también es digital.',
+            'Banks dealing with Chase and users of other platforms routed through Microsoft felt failures that were not theirs. Tier-three risk is digital too.',
+            'Os bancos que operavam com o Chase e os usuários de outras plataformas que passavam pela Microsoft sentiram falhas alheias. O risco de terceiro nível também é digital.')},
+    {'t': L('Respaldo no es lo mismo que respaldo para todo', 'Backup is not backup for everything', 'Backup não é o mesmo que backup para tudo'),
+     'x': L('La NSA mantuvo lo crítico, pero tuvo que reacomodar personal y funciones. Antes de invertir en redundancia hay que decidir qué es crítico y qué puede esperar.',
+            'The NSA kept the critical running but had to reshuffle staff and functions. Before investing in redundancy, you must decide what is critical and what can wait.',
+            'A NSA manteve o crítico, mas teve de reorganizar pessoal e funções. Antes de investir em redundância é preciso decidir o que é crítico e o que pode esperar.')},
+    {'t': L('Digitalizar sin modernizar la base es apilar riesgo', 'Digitizing without modernizing the base stacks up risk', 'Digitalizar sem modernizar a base é empilhar risco'),
+     'x': L('La red del control aéreo mezcla equipo nuevo con telecomunicaciones heredadas, y ahí se rompió. Cada capa digital nueva sobre una base vieja aumenta los puntos donde algo puede fallar.',
+            'The air traffic control network mixes new equipment with legacy telecommunications, and that is where it broke. Every new digital layer on an old base adds points where something can fail.',
+            'A rede do controle aéreo mistura equipamento novo com telecomunicações legadas, e foi aí que quebrou. Cada nova camada digital sobre uma base antiga aumenta os pontos onde algo pode falhar.')},
+]
+
+# ------------------------------------------------------------------ Recomendaciones
+ACCIONES = [
+    L('Congela cambios en sistemas críticos (ERP, WMS, TMS, red, pagos) durante la temporada alta, y fuera de ella exige ventana definida, pruebas previas y un plan para regresar a la versión anterior.',
+      'Freeze changes to critical systems (ERP, WMS, TMS, network, payments) during peak season, and outside it require a defined window, prior testing and a plan to roll back to the previous version.',
+      'Congele mudanças em sistemas críticos (ERP, WMS, TMS, rede, pagamentos) durante a alta temporada e, fora dela, exija janela definida, testes prévios e um plano para voltar à versão anterior.'),
+    L('Mapea tus dependencias digitales como mapeas proveedores: qué sistema, qué proveedor de nube o banco, qué procesos se detienen si falla y en cuánto tiempo.',
+      'Map your digital dependencies the way you map suppliers: which system, which cloud provider or bank, which processes stop if it fails and how quickly.',
+      'Mapeie suas dependências digitais como mapeia fornecedores: qual sistema, qual provedor de nuvem ou banco, quais processos param se falhar e em quanto tempo.'),
+    L('Escribe un manual de operación sin sistema: cómo surtir, embarcar, recibir y facturar si el ERP o el WMS se caen seis horas, con formatos listos y quién decide.',
+      'Write a no-system operating playbook: how to pick, ship, receive and invoice if the ERP or WMS is down for six hours, with ready-made forms and a clear decision owner.',
+      'Escreva um manual de operação sem sistema: como separar, embarcar, receber e faturar se o ERP ou o WMS caírem por seis horas, com formulários prontos e quem decide.'),
+    L('Ten una segunda vía de comunicación con proveedores y transportistas que no dependa de tu correo corporativo, y la lista de contactos críticos impresa o fuera de la nube.',
+      'Keep a second communication channel with suppliers and carriers that does not depend on your corporate email, and the critical contact list printed or outside the cloud.',
+      'Tenha uma segunda via de comunicação com fornecedores e transportadoras que não dependa do seu e-mail corporativo, e a lista de contatos críticos impressa ou fora da nuvem.'),
+    L('Ten un banco alterno activo para pagos críticos (nómina, transportistas, proveedores de un solo origen) y una ruta terrestre ya negociada para lo urgente que hoy va por avión.',
+      'Keep an active backup bank for critical payments (payroll, carriers, single-source suppliers) and a pre-negotiated ground route for urgent freight that now moves by air.',
+      'Tenha um banco alternativo ativo para pagamentos críticos (folha, transportadoras, fornecedores de origem única) e uma rota rodoviária já negociada para o urgente que hoje vai de avião.'),
+    L('Pide a tus proveedores de tecnología, por escrito, sus planes de continuidad, tiempos de recuperación y cómo te avisan de una falla; revisa qué dicen tus contratos y tus pólizas.',
+      'Ask your technology providers, in writing, for their continuity plans, recovery times and how they notify you of a failure; check what your contracts and insurance policies say.',
+      'Peça por escrito aos seus fornecedores de tecnologia os planos de continuidade, tempos de recuperação e como avisam de uma falha; revise o que dizem seus contratos e apólices.'),
+    L('Ensaya la caída al menos una vez antes del 26 de noviembre: un plan que nunca se probó es una suposición. Agrega la falla tecnológica a tu matriz de riesgos con disparadores y responsables.',
+      'Rehearse the outage at least once before November 26: a plan that was never tested is an assumption. Add technology failure to your risk matrix with triggers and owners.',
+      'Ensaie a queda pelo menos uma vez antes de 26 de novembro: um plano que nunca foi testado é uma suposição. Inclua a falha tecnológica na sua matriz de riscos com gatilhos e responsáveis.'),
+]
+
+# ------------------------------------------------------------------ Fuentes
+FUENTES = {
+    'cbs_nsa': ('CBS News · La red clasificada de la NSA se cae; parche de rutina, sin evidencia de ataque (17 nov 2026)', 'https://www.cbsnews.com/news/nsa-network-down-classified-fort-meade/'),
+    'ap_nsa': ('AP vía CBS17 · Se cae la red clasificada de la NSA durante mantenimiento (17 nov 2026)', 'https://www.cbs17.com/news/ap-classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/'),
+    'newsweek': ('Newsweek · Vocero de la NSA: degradación temporal y redundancia (17 nov 2026)', 'https://www.newsweek.com/nsa-down-outage-network-security-communications-systems-12729263'),
+    'townhall': ('Townhall · CNN reporta la caída de NSA Net (17 nov 2026)', 'https://townhall.com/news/cameron-arcand/2026/11/17/national-security-agency-reportedly-experiencing-major-outage-n2686608'),
+    'bloomberg': ('Bloomberg · La NSA sufre una caída de su red clasificada (17 nov 2026)', 'https://www.bloomberg.com/news/articles/2026-11-17/us-electronic-spy-agency-suffers-outage-of-classified-network'),
+    'ibt': ('IBTimes · De la FAA a NSA Net: la ola de caídas tecnológicas en EE. UU.; Mullin y TrustedSec (17 nov 2026)', 'https://www.ibtimes.co.uk/nsa-net-classified-communications-outage-1832929'),
+    'controlplane': ('Control Plane · Qué causó la caída de Microsoft 365 del 12 de noviembre (nov 2026)', 'https://controlplane.com/blog/post/microsoft-365-outage-november-2026-cause'),
+    'azureblog': ('Azure Blog · Caída de Microsoft 365: ampliación de red previa, sin relación con ataques ni IA (nov 2026)', 'https://azureblog.co.uk/posts/microsoft-365-outage-12-november-2026/'),
+    'bleeping': ('BleepingComputer · Un error de julio causó la caída global de Microsoft 365 (nov 2026)', 'https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/'),
+    'securityweek': ('SecurityWeek · La caída de Microsoft 365 afecta Outlook, Exchange y Teams (12 nov 2026)', 'https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/'),
+    'faa_qa': ('FAA · Paro nacional: preguntas y respuestas (15 nov 2026)', 'https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers'),
+    'foxbiz_mon': ('Fox Business · FlightAware: 18,520 cancelaciones desde el viernes (16 nov 2026)', 'https://www.foxbusiness.com/fox-news-air-space/monday-air-travel-faces-key-test-faa-ground-stop-possible-cause-emerges'),
+    'ups_alert': ('UPS · alertas de servicio: la garantía no aplica (nov 2026)', 'https://www.ups.com/us/en/service-alerts'),
+    'aircargo': ('Air Cargo News · la carga aérea de EE. UU. se recupera (16 nov 2026)', 'https://www.aircargonews.net/cargo-airport/2026/11/us-air-cargo-supply-chains-recover-following-ground-stop/'),
+    'nbc_chase': ('NBC News · Chase: transacciones normales tras la caída; error de software (16 nov 2026)', 'https://www.nbcnewyork.com/news/national-international/chase-bank-of-america-wells-fargo-bank-outages-reported/6573024/'),
+    'cnn_chase': ('CNN · Miles de clientes de Chase con problemas en banca en línea (16 nov 2026)', 'https://www.cnn.com/2026/11/16/business/bank-outage-chase-us-bank-bank-of-america'),
+    'tomsguide_chase': ("Tom's Guide · Chase, en vivo: casi ocho horas de caída (16 nov 2026)", 'https://www.tomsguide.com/news/live/chase-outage-november-16-2026'),
+    'techtimes': ('Tech Times · Chase: otros bancos, afectados solo en operaciones con Chase (17 nov 2026)', 'https://www.techtimes.com/articles/330883/20261117/chase-outage-bank-says-premise-hardware-bug-slowed-rival-banks-only-through-chase-transactions.htm'),
+    'cnn_united': ('CNN · United resuelve una caída de sistemas que retrasó vuelos (16 nov 2026)', 'https://www.cnn.com/2026/11/16/us/united-airlines-outage'),
+    'nbc_united': ('NBC News · United: la falla tocó mensajería y el peso final de los aviones (16 nov 2026)', 'https://www.nbcnews.com/news/us-news/united-airlines-system-outage-rcna609712'),
+    'cbs_united': ('CBS/AP · United: la caída duró cerca de 90 minutos (16 nov 2026)', 'https://www.cbsnews.com/news/united-airlines-system-outage-departing-flights/'),
+}
