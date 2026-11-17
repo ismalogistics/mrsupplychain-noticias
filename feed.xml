@@ -7,14 +7,41 @@
   <description>Briefs diarios de mercados (premercado, apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
   <language>es-MX</language>
   <copyright>Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</copyright>
-  <lastBuildDate>Tue, 17 Nov 2026 11:38:00 -0600</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 15:15:00 -0600</lastBuildDate>
+  <item>
+    <title>El IPC cae 1.2% en su regreso del feriado; el peso cierra firme en 18.42</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-17-cierre-mexico/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-17-cierre-mexico/</guid>
+    <pubDate>Tue, 17 Nov 2026 15:15:00 -0600</pubDate>
+    <category>Cierre · México</category>
+    <description>En su primera sesión tras el Día de la Revolución, el S&amp;P/BMV IPC cerró en 70,386.42 puntos (−1.15%), después de abrir en terreno positivo. El peso terminó en 18.42 por dólar a las 15:15 CDMX (−0.48% el dólar). Hoy rigió para pagos el FIX de 18.6188; el de 18.5525, determinado el viernes 13 y publicado hoy en el DOF, rige desde mañana. El IPC siguió la venta global: Wall Street cerró con el Dow −1.6% y Europa tuvo su peor día en ocho meses. El peso resistió gracias a la baja del Treasury a 5.10% y a un dólar que cedió desde su máximo en 19 meses. — Desde mañana los pagos en dólares en México se liquidan con el FIX de 18.5525, 6 centavos abajo del de hoy: si tienes pagos con fecha flexible, pásalos a mañana. Con el peso en 18.42, cubre una parte de las compras de diciembre.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-17-cierre-mexico/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>El Ibovespa resiste con +0.3% y el peso chileno cierra firme en 992; Canadá cae 1.1%</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-17-cierre-latam/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-17-cierre-latam/</guid>
+    <pubDate>Tue, 17 Nov 2026 15:15:00 -0600</pubDate>
+    <category>Cierre · LATAM</category>
+    <description>El Ibovespa cerró en 169,815.73 (+0.31%), el S&amp;P/TSX de Canadá en 35,315.30 (−1.14%) y el S&amp;P/BMV IPC en 70,386.42 (−1.15%). Los ETF de MSCI subieron 0.40% en Chile, 0.31% en Argentina y 0.01% en Perú. Brasil y los Andes resistieron la venta global en tecnología, que pegó más en Canadá y México. El cobre bajó 0.4% a 5.98 dólares por libra, cerca de su mínimo en más de cuatro meses, y el Brent subió 0.8% a 93.14 dólares. — Aprovecha las monedas firmes para cerrar pagos en pesos chilenos y reales, y revisa contratos de litio y baterías tras el reporte de SQM.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-17-cierre-latam/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>Wall Street cierra a la baja antes de Nvidia: el Dow cae 1.6% y crecen los ataques entre EE. UU. e Irán</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-17-cierre-global/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-17-cierre-global/</guid>
+    <pubDate>Tue, 17 Nov 2026 15:15:00 -0600</pubDate>
+    <category>Cierre · Global</category>
+    <description>Se cumplió la cautela que anticipaba la apertura, pero la caída se amplió a industriales: el S&amp;P 500 cerró en 7,340.53 (−1.03%), el Nasdaq en 24,328.38 (−0.74%) y el Dow en 50,759.42 (−1.64%); el VIX subió 11.5% a 25.55. TSMC cayó 3.7% y Home Depot 2.5%, mientras Broadcom subió 2.5% y Nvidia cerró con −0.4% antes de su reporte. Europa cerró con su peor día en ocho meses (Stoxx 600 −1.75%, DAX −2.08%) y Asia con Taiwán −8.2% y KOSPI −2.6%. El Treasury a 10 años bajó a 5.10%. El Brent cerró en 93.14 dólares (+0.8%) y el WTI en 86.01 (+0.3%); el oro en 3,851 y el cobre en 5.98 (−0.4%). Los inversionistas recortan riesgo antes del primer reporte de Nvidia sin Jensen Huang y de la salida a bolsa de Anthropic el jueves, tras la nueva restricción de EE. UU. a los chips avanzados para China. El índice del dólar tocó su nivel más alto en 19 meses y el mercado sigue esperando un alza de la Fed en diciembre. En petróleo, Reuters reporta que EE. UU. bombardeó un sitio de misiles en la isla de Qeshm, drones de Irán atacaron un radar de EE. UU. en Baréin, un barco fue alcanzado dos veces en Ormuz y los hutíes lanzaron drones contra el oleoducto Este-Oeste de Arabia Saudita; aun así, el Brent acumula −20% en noviembre por el superávit previsto. — Con más ataques en Ormuz y en Medio Oriente, aunque el Brent acumula −20% en noviembre, no fijes recargos de combustible ni fletes a largo plazo: revísalos cada semana con el diésel (3.97 dólares por galón en futuros). Antes de mañana, revisa con tus distribuidores de cómputo cómo queda el abasto tras el reporte de Nvidia.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-17-cierre-global/og.png" type="image/png" length="0"/>
+  </item>
   <item>
     <title>El peso se fortalece a 18.41, su mejor nivel en semanas; el IPC se mantiene plano</title>
     <link>https://mrsupplychain.ai/noticias/brief/2026-11-17-mediodia-mexico/</link>
     <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-17-mediodia-mexico/</guid>
     <pubDate>Tue, 17 Nov 2026 11:38:00 -0600</pubDate>
     <category>Mediodía · México</category>
-    <description>En la apertura el IPC subía 0.09% en su primera sesión tras el feriado y el peso se fortalecía a 18.48; el FIX del viernes, publicado hoy, fue de 18.5525. A las 11:18 CDMX el S&amp;P/BMV IPC estaba en 71,170.22 puntos (−0.05%). A las 11:38 el peso cotizaba en 18.41 por dólar (−0.53% el dólar) y el Treasury a 10 años bajaba a 5.10%. — Con el peso en 18.41, su mejor nivel en semanas, cubre una parte de las compras de dólares de diciembre. Los pagos en dólares de hoy en México se liquidan con el FIX de 18.5525.</description>
+    <description>En la apertura el IPC subía 0.09% en su primera sesión tras el feriado y el peso se fortalecía a 18.48; el FIX del viernes, publicado hoy, fue de 18.5525. A las 11:18 CDMX el S&amp;P/BMV IPC estaba en 71,170.22 puntos (−0.05%). A las 11:38 el peso cotizaba en 18.41 por dólar (−0.53% el dólar) y el Treasury a 10 años bajaba a 5.10%. — Con el peso en 18.41, su mejor nivel en semanas, cubre una parte de las compras de dólares de diciembre. Los pagos en dólares de hoy en México se liquidan con el FIX de 18.6188; desde mañana, con el de 18.5525.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-17-mediodia-mexico/og.png" type="image/png" length="0"/>
   </item>
   <item>
@@ -41,7 +68,7 @@
     <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-17-apertura-mexico/</guid>
     <pubDate>Tue, 17 Nov 2026 09:08:00 -0600</pubDate>
     <category>Apertura · México</category>
-    <description>La Bolsa Mexicana reabrió tras el Día de la Revolución: a las 8:48 CDMX el S&amp;P/BMV IPC estaba en 71,268.53 puntos (+0.09%). El peso cotizaba en 18.48 por dólar a las 9:08 CDMX (−0.18% el dólar). El FIX determinado el viernes 13, que se publica hoy en el Diario Oficial y rige para pagos en dólares, fue de 18.5525, según Banxico; el FIX de hoy se determina al mediodía. El peso resiste la aversión al riesgo global mejor que otras monedas de la región: el real está en 5.79 y el peso chileno en 998. El Treasury a 10 años sube a 5.15% y el crudo rebota 1.3%. En EE. UU., las ventas minoristas de octubre subieron 0.2%, más de lo esperado. — Con el peso en 18.48, liquida hoy los pagos en dólares que se recorrieron por el feriado y cubre una parte de las compras de diciembre. Para pagos de hoy en México rige el FIX de 18.5525.</description>
+    <description>La Bolsa Mexicana reabrió tras el Día de la Revolución: a las 8:48 CDMX el S&amp;P/BMV IPC estaba en 71,268.53 puntos (+0.09%). El peso cotizaba en 18.48 por dólar a las 9:08 CDMX (−0.18% el dólar). El FIX determinado el viernes 13, que se publica hoy en el Diario Oficial y rige para pagos en dólares a partir de mañana, fue de 18.5525, según Banxico; el FIX de hoy se determina al mediodía. El peso resiste la aversión al riesgo global mejor que otras monedas de la región: el real está en 5.79 y el peso chileno en 998. El Treasury a 10 años sube a 5.15% y el crudo rebota 1.3%. En EE. UU., las ventas minoristas de octubre subieron 0.2%, más de lo esperado. — Con el peso en 18.48, liquida hoy los pagos en dólares que se recorrieron por el feriado y cubre una parte de las compras de diciembre. El FIX de 18.5525 rige para pagos a partir de mañana; hoy rige el de 18.6188.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-17-apertura-mexico/og.png" type="image/png" length="0"/>
   </item>
   <item>
@@ -340,33 +367,6 @@
     <category>Apertura · México</category>
     <description>A las 9:10 CDMX el peso cotizaba en 18.63 por dólar (+0.26% el dólar), después de tocar 18.58 en la madrugada. El FIX determinado por Banxico el miércoles fue de 18.6285, publicado hoy en el Diario Oficial. El S&amp;P/BMV IPC bajaba 0.19% a 71,866.44 a las 8:50 CDMX. La renuncia de Jensen Huang en Nvidia enfría el apetito por riesgo y el Treasury a 10 años sube a 5.06% al reabrir, lo que presiona al peso. Las solicitudes de subsidio por desempleo en EE. UU. subieron a 200,000, poco arriba de lo esperado. En México sigue pesando la caída de 1.4% mensual de la actividad industrial de septiembre. — Con el peso en 18.63 y el Treasury en 5.06%, cubre por tramos los dólares de noviembre y adelanta los pagos del lunes 16. Si importas servidores o GPU, confirma precios en dólares antes de que se mueva más el tipo de cambio.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-12-apertura-mexico/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>El Ibovespa cae 1% pese a un IPCA menor a lo esperado; el peso chileno pierde 1.2%</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-12-apertura-latam/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-12-apertura-latam/</guid>
-    <pubDate>Thu, 12 Nov 2026 09:10:00 -0600</pubDate>
-    <category>Apertura · LATAM</category>
-    <description>A las 8:55 CDMX el Ibovespa caía 1.04% a 170,272.58 y a las 9:10 el S&amp;P/TSX 0.80% (36,121.47). Los ETF de MSCI bajaban 2.61% en Argentina, 1.25% en Perú y 0.60% en Chile, y el iCOLCAP 0.52%. En monedas, a las 9:10 CDMX el dólar subía 1.17% frente al peso chileno (993.5), 0.71% frente al real (5.62) y 0.67% frente al peso colombiano (3,302); el sol estaba en 3.40 y el peso argentino en 1,543.5. El IPCA de Brasil subió 0.14% en octubre, debajo del 0.25% que esperaban los analistas de Reuters, y la inflación a 12 meses bajó a 4.63%. Aun así, la región cae por la renuncia de Jensen Huang en Nvidia, el Treasury en 5.06% y el cobre −2.0% (6.17 dólares por libra). — Cotiza insumos de cobre con el precio a la baja y escalona los pagos en dólares: el peso chileno y el real se debilitan. En Brasil, la inflación menor a lo esperado ayuda a negociar contratos indexados.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-12-apertura-latam/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Jensen Huang renuncia a Nvidia y la acción cae 7.7%; el Treasury vuelve a 5.06% y el oro se desploma 3.2%</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-12-apertura-global/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-12-apertura-global/</guid>
-    <pubDate>Thu, 12 Nov 2026 09:10:00 -0600</pubDate>
-    <category>Apertura · Global</category>
-    <description>Los futuros ya anticipaban caídas por Nvidia y se cumplió: al abrir el S&amp;P 500 bajaba 0.3% y el Nasdaq 0.6%. Nvidia anunció en la mañana que Jensen Huang renunció como presidente, director general y miembro del consejo, con efecto inmediato, y que su jefa de finanzas, Colette Kress, será directora interina. A las 9:10 CDMX la acción caía 7.7% (160.28 dólares), CoreWeave 10.5%, Nebius 20.4% y Micron 5.4%, mientras AMD subía. El S&amp;P 500 estaba en 7,582.41 (−0.49%), el Nasdaq en 25,257.12 (−0.82%) y el Dow en 52,447.04 (−0.08%); el VIX subía a 18.18. Al reabrir el mercado de bonos, el Treasury a 10 años subió a 5.06%. Las solicitudes de subsidio por desempleo subieron a 200,000 (191,000 la semana previa; se esperaban 195,000). El Brent estaba en 93.71 dólares (+1.0%) y el WTI en 86.68 (+0.2%), tras escribir Trump que &quot;no necesitamos un acuerdo con Irán&quot;; el oro caía 3.2% a 3,873 y la plata 3.8%. Asia cerró a la baja: Nikkei −0.70% (60,819.36), KOSPI −0.61% (5,342.73), Hang Seng −2.23% y Shanghái −0.22%. A las 8:55 CDMX Europa estaba mixta: Euro Stoxx 50 −0.04%, DAX +0.26%, CAC 40 +0.31% y FTSE 100 +0.06%. — Si dependes de GPU o servidores de Nvidia, confirma hoy pedidos abiertos y fechas de entrega con tu distribuidor y ten una alternativa calificada. Con el Treasury otra vez arriba de 5%, revisa el costo de financiar inventario y espera el dato de la EIA antes de fijar recargos de combustible.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-12-apertura-global/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>El peso amanece en 18.58 pese al tropiezo de Nvidia; hoy sale la encuesta de viajeros del INEGI</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-12-premercado-mexico/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-12-premercado-mexico/</guid>
-    <pubDate>Thu, 12 Nov 2026 05:10:00 -0600</pubDate>
-    <category>Premercado · México</category>
-    <description>El miércoles el S&amp;P/BMV IPC cerró con +0.14% (71,993.18) y el peso en 18.61 por dólar, en una sesión marcada por la caída de 1.4% mensual de la actividad industrial de septiembre. En la madrugada el peso mejoró: a las 5:10 CDMX cotizaba en 18.58, con el dólar ligeramente débil (DXY −0.1%). La caída de Nvidia presiona a los futuros de Wall Street, pero el peso no la resiente. A favor juegan el dólar estable y el crudo a la baja (WTI 85.83); en contra, que un alza de la Fed en diciembre ya está descontada y estrecha el diferencial con Banxico (6.25%). — Con el peso en 18.58, cubre por tramos los dólares de noviembre y adelanta los pagos del lunes 16. Si el bono a 10 años de EE. UU. vuelve a 5% al reabrir, el peso puede debilitarse: no dejes toda la compra para el viernes.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-12-premercado-mexico/og.png" type="image/png" length="0"/>
   </item>
 </channel>
 </rss>
