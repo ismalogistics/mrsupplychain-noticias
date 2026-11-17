@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-17T15:11:51Z",
+ "actualizado": "2026-11-17T17:40:12Z",
  "fecha": "2026-11-17",
  "titular": {
-  "es": "Martes: Taiwán se desploma antes de Nvidia, el crudo rebota por Ormuz y Home Depot cambia de director",
-  "en": "Tuesday: Taiwan plunges ahead of Nvidia, crude rebounds on Hormuz and Home Depot changes CEO",
-  "pt": "Terça: Taiwan despenca antes da Nvidia, o petróleo volta a subir por Ormuz e a Home Depot troca de CEO"
+  "es": "Mediodía: los rivales de Nvidia ganan clientes, Europa tiene su peor día en ocho meses y el cobre sigue en mínimos",
+  "en": "Midday: Nvidia's rivals win customers, Europe has its worst day in eight months and copper stays at lows",
+  "pt": "Meio-dia: rivais da Nvidia ganham clientes, a Europa tem seu pior dia em oito meses e o cobre segue na mínima"
  },
  "items": [
   {
@@ -17,31 +17,31 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Taiwán se desploma 8.2% antes del reporte de Nvidia; Coherent y Lumentum suben por restricciones a la óptica china",
-    "en": "Taiwan plunges 8.2% ahead of Nvidia; Coherent and Lumentum rise on curbs on Chinese optics",
-    "pt": "Taiwan despenca 8,2% antes da Nvidia; Coherent e Lumentum sobem por restrições à óptica chinesa"
+    "es": "Rivales de Nvidia ganan clientes tras la salida de Huang; ASML cae 5.3% y TSMC 3.5%",
+    "en": "Nvidia's rivals win customers after Huang's exit; ASML falls 5.3% and TSMC 3.5%",
+    "pt": "Rivais da Nvidia ganham clientes depois da saída de Huang; ASML cai 5,3% e TSMC 3,5%"
    },
    "x": {
-    "es": "La bolsa de Taiwán cerró con −8.2% y el KOSPI con −2.6%; a las 9:08 CDMX TSMC caía 2.5%, Micron 2.5% y Nvidia 0.9%, mientras Coherent y Lumentum subían por las restricciones a la importación de tecnología óptica de China. Nvidia reporta hoy después del cierre; el consenso de Bloomberg espera ingresos por 109,150 millones de dólares.",
-    "en": "Taiwan's stock market closed −8.2% and the KOSPI −2.6%; at 10:08 a.m. ET TSMC was down 2.5%, Micron 2.5% and Nvidia 0.9%, while Coherent and Lumentum rose on restrictions on optical technology imports from China. Nvidia reports today after the close; Bloomberg consensus expects revenue of $109.15 billion.",
-    "pt": "A bolsa de Taiwan fechou com −8,2% e o KOSPI com −2,6%; às 9h08 (Cidade do México) a TSMC caía 2,5%, a Micron 2,5% e a Nvidia 0,9%, enquanto Coherent e Lumentum subiam pelas restrições à importação de tecnologia óptica da China. A Nvidia divulga resultados hoje depois do fechamento; o consenso da Bloomberg espera receita de 109,15 bilhões de dólares."
+    "es": "Según The Information, AMD y Google ganan clientes de chips de IA tras la salida de Jensen Huang de Nvidia. ASML cayó 5.3% y la tecnología europea 3.9%, su peor día desde febrero; a las 11:38 CDMX TSMC bajaba 3.5%, Micron 3.2% y Nvidia 1.3%, que reporta hoy después del cierre.",
+    "en": "According to The Information, AMD and Google are winning AI chip customers after Jensen Huang's exit from Nvidia. ASML fell 5.3% and European tech 3.9%, its worst day since February; at 12:38 p.m. ET TSMC was down 3.5%, Micron 3.2% and Nvidia 1.3%, which reports today after the close.",
+    "pt": "Segundo o The Information, AMD e Google ganham clientes de chips de IA depois da saída de Jensen Huang da Nvidia. A ASML caiu 5,3% e a tecnologia europeia 3,9%, seu pior dia desde fevereiro; às 11h38 (Cidade do México) a TSMC caía 3,5%, a Micron 3,2% e a Nvidia 1,3%, que divulga resultados hoje depois do fechamento."
    },
    "scm": {
-    "es": "Revisa si tienes transceptores o componentes ópticos de origen chino y confirma alternativas antes de que cambien las reglas de importación.",
-    "en": "Check whether you buy Chinese-origin transceivers or optical components and line up alternatives before import rules change.",
-    "pt": "Verifique se você compra transceptores ou componentes ópticos de origem chinesa e confirme alternativas antes que mudem as regras de importação."
+    "es": "Si dependes de un solo proveedor de GPU, pide cotizaciones alternativas (AMD, TPU de Google) antes de cerrar compras del primer trimestre.",
+    "en": "If you rely on a single GPU supplier, get alternative quotes (AMD, Google TPUs) before closing first-quarter purchases.",
+    "pt": "Se você depende de um só fornecedor de GPUs, peça cotações alternativas (AMD, TPUs do Google) antes de fechar as compras do primeiro trimestre."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance AlphaCheck: las acciones bajan antes de Nvidia y cae Home Depot (17 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/article/copy-copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-145755423.html"
+     "t": "Stocktwits / The Information: rivales de Nvidia ganan clientes tras la salida de Huang (17 nov 2026)",
+     "u": "https://finance.yahoo.com/technology/articles/rival-chipmakers-reportedly-chip-away-173133889.html"
     },
     {
-     "t": "Yahoo Finance: Nvidia reporta el tercer trimestre con Colette Kress como directora interina (17 nov 2026)",
-     "u": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html"
+     "t": "Reuters: las bolsas europeas tienen su peor día en ocho meses por la IA (17 nov 2026)",
+     "u": "https://finance.yahoo.com/technology/ai/articles/european-shares-ease-tech-stocks-081814187.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -56,14 +56,14 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo rebota 1.3% por nuevos ataques a barcos en Ormuz",
-    "en": "Crude rebounds 1.3% on new attacks on ships in Hormuz",
-    "pt": "O petróleo volta a subir 1,3% por novos ataques a navios em Ormuz"
+    "es": "El crudo modera su alza (Brent 93.03 dólares) y el diésel baja a 3.97",
+    "en": "Crude pares gains (Brent $93.03) and diesel drops to $3.97",
+    "pt": "O petróleo modera a alta (Brent a 93,03 dólares) e o diesel cai para 3,97"
    },
    "x": {
-    "es": "A las 8:58 CDMX el Brent estaba en 93.66 dólares (+1.3%) y el WTI en 86.92 (+1.4%), tras caer más de 3% el lunes, por nuevos ataques a barcos en el estrecho de Ormuz. El futuro del diésel estaba en 4.01 dólares por galón (+0.3%).",
-    "en": "At 9:58 a.m. ET Brent was at $93.66 (+1.3%) and WTI at $86.92 (+1.4%), after falling more than 3% on Monday, on new attacks on ships in the Strait of Hormuz. Diesel futures were at $4.01 a gallon (+0.3%).",
-    "pt": "Às 8h58 (Cidade do México) o Brent estava a 93,66 dólares (+1,3%) e o WTI a 86,92 (+1,4%), depois de cair mais de 3% na segunda, por novos ataques a navios no estreito de Ormuz. O futuro do diesel estava a 4,01 dólares por galão (+0,3%)."
+    "es": "A las 11:28 CDMX el Brent estaba en 93.03 dólares (+0.6%) y el WTI en 86.21 (+0.6%), por debajo del alza de 1.3% de la mañana tras nuevos ataques en Ormuz. El futuro del diésel bajaba 0.8% a 3.97 dólares por galón.",
+    "en": "At 12:28 p.m. ET Brent was at $93.03 (+0.6%) and WTI at $86.21 (+0.6%), below the morning gain of 1.3% after new attacks in Hormuz. Diesel futures fell 0.8% to $3.97 a gallon.",
+    "pt": "Às 11h28 (Cidade do México) o Brent estava a 93,03 dólares (+0,6%) e o WTI a 86,21 (+0,6%), abaixo da alta de 1,3% da manhã depois de novos ataques em Ormuz. O futuro do diesel caía 0,8% para 3,97 dólares por galão."
    },
    "scm": {
     "es": "No fijes recargos de combustible a largo plazo: con el crudo moviéndose 3% al día, pide revisión semanal con el diésel.",
@@ -126,9 +126,9 @@
    "en": "Retail and last mile",
    "pt": "Varejo e última milha",
    "titular": {
-    "es": "Home Depot supera lo esperado y cambia de director; las ventas minoristas de EE. UU. suben 0.2%",
-    "en": "Home Depot beats and changes CEO; US retail sales rise 0.2%",
-    "pt": "Home Depot supera o esperado e troca de CEO; as vendas no varejo dos EUA sobem 0,2%"
+    "es": "Home Depot cae 2.3% pese a superar lo esperado; las ventas minoristas suben 0.2%",
+    "en": "Home Depot falls 2.3% despite beating expectations; retail sales rise 0.2%",
+    "pt": "Home Depot cai 2,3% apesar de superar o esperado; as vendas no varejo sobem 0,2%"
    },
    "x": {
     "es": "Home Depot reportó resultados mejores a lo esperado y nombró a su director de finanzas, Richard McPhail, como director general a partir de la próxima semana; su acción caía 1.5% a las 9:08 CDMX. Las ventas minoristas de EE. UU. subieron 0.2% en octubre, más de lo esperado. Esta semana reportan Target, Lowe's y TJX (miércoles) y Walmart (jueves).",
@@ -192,14 +192,14 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "El cobre se queda debajo de 6 dólares; la plata rebota 1.8%",
-    "en": "Copper stays below $6; silver rebounds 1.8%",
-    "pt": "O cobre fica abaixo de 6 dólares; a prata volta a subir 1,8%"
+    "es": "El cobre se queda en 6 dólares, mínimo en más de cuatro meses; las mineras europeas caen 1.4%",
+    "en": "Copper stays at $6, a more than four-month low; European miners fall 1.4%",
+    "pt": "O cobre fica em 6 dólares, mínima em mais de quatro meses; as mineradoras europeias caem 1,4%"
    },
    "x": {
-    "es": "A las 8:58 CDMX el cobre estaba en 5.99 dólares por libra (−0.2%), la plata en 47.69 (+1.8%) y el oro en 3,864 (+0.3%).",
-    "en": "At 9:58 a.m. ET copper was at $5.99 per pound (−0.2%), silver at $47.69 (+1.8%) and gold at $3,864 (+0.3%).",
-    "pt": "Às 8h58 (Cidade do México) o cobre estava a 5,99 dólares por libra (−0,2%), a prata a 47,69 (+1,8%) e o ouro a 3.864 (+0,3%)."
+    "es": "El cobre estaba en 6.00 dólares por libra a las 11:28 CDMX, en su nivel más bajo en más de cuatro meses, y las mineras europeas cayeron 1.4%, a su menor nivel en casi ocho meses, según Reuters. La plata subía 1.6% y el oro 0.5%.",
+    "en": "Copper was at $6.00 per pound at 12:28 p.m. ET, its lowest level in more than four months, and European miners fell 1.4% to their lowest in nearly eight months, according to Reuters. Silver rose 1.6% and gold 0.5%.",
+    "pt": "O cobre estava a 6,00 dólares por libra às 11h28 (Cidade do México), no nível mais baixo em mais de quatro meses, e as mineradoras europeias caíram 1,4%, ao menor nível em quase oito meses, segundo a Reuters. A prata subia 1,6% e o ouro 0,5%."
    },
    "scm": {
     "es": "Con el cobre debajo de 6 dólares, cotiza cable y conectores para el primer trimestre.",
@@ -208,7 +208,11 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 09:08 CDMX)",
+     "t": "Reuters: las bolsas europeas tienen su peor día en ocho meses por la IA (17 nov 2026)",
+     "u": "https://finance.yahoo.com/technology/ai/articles/european-shares-ease-tech-stocks-081814187.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]

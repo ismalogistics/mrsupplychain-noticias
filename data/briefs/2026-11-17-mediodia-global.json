@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-17-mediodia-global",
+ "fecha": "2026-11-17",
+ "momento": "mediodia",
+ "mercado": "global",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "Las pérdidas crecen antes de Nvidia: el Dow cae 1.3% y Europa tiene su peor día en ocho meses",
+  "esencial": [
+   "A las 11:38 CDMX el S&P 500 bajaba 0.96%, el Nasdaq 0.92% y el Dow 1.32%; el Stoxx 600 cerró con −1.75%, su peor día desde marzo, y ASML perdió 5.3%.",
+   "Según The Information, AMD y Google ganan clientes de chips de IA tras la salida de Jensen Huang; Nvidia reporta hoy después del cierre.",
+   "Para supply chain: si dependes de un solo proveedor de GPU, pide hoy cotizaciones alternativas; el diésel en futuros baja a 3.97 dólares por galón."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura Wall Street bajaba poco (S&P 500 −0.31%) antes del reporte de Nvidia, tras el desplome de 8.2% de Taiwán; el crudo rebotaba 1.3% por nuevos ataques a barcos en Ormuz."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:38 CDMX el S&P 500 estaba en 7,345.59 (−0.96%), el Nasdaq en 24,283.12 (−0.92%) y el Dow en 50,926.59 (−1.32%); el VIX subía 7.9% a 24.72. TSMC caía 3.5%, Micron 3.2%, Intel 2.7%, AMD 2.5%, Home Depot 2.3% y Nvidia 1.3%; Broadcom subía 1.9%. Europa cerró con fuertes caídas: Stoxx 600 −1.75%, Euro Stoxx 50 −2.15% y DAX −2.08%. El Treasury a 10 años bajaba a 5.10%. El Brent estaba en 93.03 dólares (+0.6%), el WTI en 86.21 (+0.6%) y el diésel en futuros en 3.97 (−0.8%); el oro en 3,871 (+0.5%) y el cobre en 6.00."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "La venta se amplió en la mañana, sobre todo en industriales: el Dow pasó de −0.6% a −1.3%. En Europa, la tecnología cayó 3.9%, su peor día desde febrero, y Deutsche Bank perdió 6%. The Information reporta que AMD y Google ganan clientes de chips de IA tras la salida de Huang. El crudo moderó su alza."
+   }
+  ],
+  "scm": "Si dependes de un solo proveedor de GPU o aceleradores, pide hoy cotizaciones alternativas: el mercado ya ve un cambio de clientes hacia AMD y Google. Con el diésel en 3.97 dólares por galón en futuros, pide que el recargo de combustible baje en la próxima revisión."
+ },
+ "en": {
+  "titular": "Losses grow ahead of Nvidia: the Dow falls 1.3% and Europe has its worst day in eight months",
+  "esencial": [
+   "At 12:38 p.m. ET the S&P 500 was down 0.96%, the Nasdaq 0.92% and the Dow 1.32%; the Stoxx 600 closed −1.75%, its worst day since March, and ASML lost 5.3%.",
+   "According to The Information, AMD and Google are winning AI chip customers after Jensen Huang's exit; Nvidia reports today after the close.",
+   "For supply chain: if you rely on a single GPU supplier, request alternative quotes today; diesel futures drop to $3.97 a gallon."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open Wall Street was slightly lower (S&P 500 −0.31%) ahead of Nvidia's report, after Taiwan's 8.2% plunge; crude rebounded 1.3% on new attacks on ships in Hormuz."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 12:38 p.m. ET the S&P 500 stood at 7,345.59 (−0.96%), the Nasdaq at 24,283.12 (−0.92%) and the Dow at 50,926.59 (−1.32%); the VIX rose 7.9% to 24.72. TSMC fell 3.5%, Micron 3.2%, Intel 2.7%, AMD 2.5%, Home Depot 2.3% and Nvidia 1.3%; Broadcom rose 1.9%. Europe closed sharply lower: Stoxx 600 −1.75%, Euro Stoxx 50 −2.15% and DAX −2.08%. The 10-year Treasury eased to 5.10%. Brent was at $93.03 (+0.6%), WTI at $86.21 (+0.6%) and diesel futures at $3.97 (−0.8%); gold at $3,871 (+0.5%) and copper at $6.00."
+   },
+   {
+    "t": "What surprised",
+    "x": "The selling broadened through the morning, especially in industrials: the Dow went from −0.6% to −1.3%. In Europe, tech fell 3.9%, its worst day since February, and Deutsche Bank lost 6%. The Information reports that AMD and Google are winning AI chip customers after Huang's exit. Crude pared its gains."
+   }
+  ],
+  "scm": "If you rely on a single GPU or accelerator supplier, request alternative quotes today: the market already sees customers shifting to AMD and Google. With diesel futures at $3.97 a gallon, ask for the fuel surcharge to come down at the next review."
+ },
+ "pt": {
+  "titular": "As perdas crescem antes da Nvidia: o Dow cai 1,3% e a Europa tem seu pior dia em oito meses",
+  "esencial": [
+   "Às 11h38 (Cidade do México) o S&P 500 caía 0,96%, o Nasdaq 0,92% e o Dow 1,32%; o Stoxx 600 fechou com −1,75%, seu pior dia desde março, e a ASML perdeu 5,3%.",
+   "Segundo o The Information, AMD e Google ganham clientes de chips de IA depois da saída de Jensen Huang; a Nvidia divulga resultados hoje depois do fechamento.",
+   "Para supply chain: se você depende de um só fornecedor de GPUs, peça hoje cotações alternativas; o diesel nos futuros cai para 3,97 dólares por galão."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura Wall Street caía pouco (S&P 500 −0,31%) antes do resultado da Nvidia, depois do tombo de 8,2% de Taiwan; o petróleo subia 1,3% por novos ataques a navios em Ormuz."
+   },
+   {
+    "t": "Como vai",
+    "x": "Às 11h38 (Cidade do México) o S&P 500 estava em 7.345,59 (−0,96%), o Nasdaq em 24.283,12 (−0,92%) e o Dow em 50.926,59 (−1,32%); o VIX subia 7,9% para 24,72. A TSMC caía 3,5%, a Micron 3,2%, a Intel 2,7%, a AMD 2,5%, a Home Depot 2,3% e a Nvidia 1,3%; a Broadcom subia 1,9%. A Europa fechou com fortes quedas: Stoxx 600 −1,75%, Euro Stoxx 50 −2,15% e DAX −2,08%. O Treasury de 10 anos caía para 5,10%. O Brent estava a 93,03 dólares (+0,6%), o WTI a 86,21 (+0,6%) e o diesel nos futuros a 3,97 (−0,8%); o ouro a 3.871 (+0,5%) e o cobre a 6,00."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A venda se ampliou durante a manhã, sobretudo nas industriais: o Dow passou de −0,6% para −1,3%. Na Europa, a tecnologia caiu 3,9%, seu pior dia desde fevereiro, e o Deutsche Bank perdeu 6%. O The Information informa que AMD e Google ganham clientes de chips de IA depois da saída de Huang. O petróleo moderou a alta."
+   }
+  ],
+  "scm": "Se você depende de um só fornecedor de GPUs ou aceleradores, peça hoje cotações alternativas: o mercado já vê clientes migrando para AMD e Google. Com o diesel nos futuros a 3,97 dólares por galão, peça que a sobretaxa de combustível caia na próxima revisão."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq amplían pérdidas en la cuenta regresiva para Nvidia (17 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
+  },
+  {
+   "t": "Reuters: las bolsas europeas tienen su peor día en ocho meses por la IA (17 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/ai/articles/european-shares-ease-tech-stocks-081814187.html"
+  },
+  {
+   "t": "Stocktwits / The Information: rivales de Nvidia ganan clientes tras la salida de Huang (17 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/articles/rival-chipmakers-reportedly-chip-away-173133889.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

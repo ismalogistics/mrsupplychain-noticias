@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-17-mediodia-global",
+   "fecha": "2026-11-17",
+   "momento": "mediodia",
+   "mercado": "global",
+   "titular_es": "Las pérdidas crecen antes de Nvidia: el Dow cae 1.3% y Europa tiene su peor día en ocho meses",
+   "titular_en": "Losses grow ahead of Nvidia: the Dow falls 1.3% and Europe has its worst day in eight months",
+   "titular_pt": "As perdas crescem antes da Nvidia: o Dow cai 1,3% e a Europa tem seu pior dia em oito meses"
+  },
+  {
+   "id": "2026-11-17-mediodia-latam",
+   "fecha": "2026-11-17",
+   "momento": "mediodia",
+   "mercado": "latam",
+   "titular_es": "El Ibovespa sube 1% contra la corriente global; el peso chileno se fortalece a 991",
+   "titular_en": "The Ibovespa rises 1% against the global tide; the Chilean peso firms to 991",
+   "titular_pt": "O Ibovespa sobe 1% contra a maré global; o peso chileno se fortalece para 991"
+  },
+  {
+   "id": "2026-11-17-mediodia-mexico",
+   "fecha": "2026-11-17",
+   "momento": "mediodia",
+   "mercado": "mexico",
+   "titular_es": "El peso se fortalece a 18.41, su mejor nivel en semanas; el IPC se mantiene plano",
+   "titular_en": "The peso firms to 18.41, its best level in weeks; the IPC holds flat",
+   "titular_pt": "O peso se fortalece para 18,41, seu melhor nível em semanas; o IPC fica estável"
+  },
+  {
    "id": "2026-11-17-apertura-global",
    "fecha": "2026-11-17",
    "momento": "apertura",
@@ -782,33 +809,6 @@
    "titular_es": "El peso amanece en 18.74 tras el recorte sorpresa de Banxico; FIX de 18.7147",
    "titular_en": "The peso starts at 18.74 after Banxico's surprise cut; FIX at 18.7147",
    "titular_pt": "O peso amanhece a 18,74 após o corte surpresa do Banxico; FIX de 18,7147"
-  },
-  {
-   "id": "2026-11-05-cierre-global",
-   "fecha": "2026-11-05",
-   "momento": "cierre",
-   "mercado": "global",
-   "titular_es": "El S&P 500 se desploma 4.4%, su peor día desde abril de 2025, y el Nasdaq (−5.5%) entra en corrección por la venta de IA",
-   "titular_en": "The S&P 500 plunges 4.4%, its worst day since April 2025, and the Nasdaq (−5.5%) enters a correction on the AI selloff",
-   "titular_pt": "O S&P 500 despenca 4,4%, seu pior dia desde abril de 2025, e o Nasdaq (−5,5%) entra em correção pela venda de IA"
-  },
-  {
-   "id": "2026-11-05-cierre-latam",
-   "fecha": "2026-11-05",
-   "momento": "cierre",
-   "mercado": "latam",
-   "titular_es": "La región cae con la venta global de IA: Argentina −6.6%, Chile −3.6% y Canadá −2.1%; el Ibovespa resiste",
-   "titular_en": "The region falls on the global AI selloff: Argentina −6.6%, Chile −3.6% and Canada −2.1%; the Ibovespa holds up",
-   "titular_pt": "A região cai com a venda global de IA: Argentina −6,6%, Chile −3,6% e Canadá −2,1%; o Ibovespa resiste"
-  },
-  {
-   "id": "2026-11-05-cierre-mexico",
-   "fecha": "2026-11-05",
-   "momento": "cierre",
-   "mercado": "mexico",
-   "titular_es": "Banxico sorprende con un recorte a 6.25% y el peso cierra en 18.75 (−1%); anticipa una pausa prolongada",
-   "titular_en": "Banxico surprises with a cut to 6.25% and the peso closes at 18.75 (−1%); it signals a prolonged pause",
-   "titular_pt": "O Banxico surpreende com corte para 6,25% e o peso fecha a 18,75 (−1%); sinaliza pausa prolongada"
   }
  ]
 }
