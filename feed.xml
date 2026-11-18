@@ -7,7 +7,34 @@
   <description>Briefs diarios de mercados (premercado, apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
   <language>es-MX</language>
   <copyright>Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</copyright>
-  <lastBuildDate>Wed, 18 Nov 2026 09:08:00 -0600</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 11:38:00 -0600</lastBuildDate>
+  <item>
+    <title>El peso se debilita 1.6% a 18.70 y el IPC cae 1.5%; la caída de los metales pesa sobre México</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-18-mediodia-mexico/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-18-mediodia-mexico/</guid>
+    <pubDate>Wed, 18 Nov 2026 11:38:00 -0600</pubDate>
+    <category>Mediodía · México</category>
+    <description>En la apertura el IPC caía 0.9% y el peso se debilitaba a 18.60, presionado por el dólar fuerte y la caída de los metales; el FIX del martes fue de 18.4677. A las 11:18 CDMX el S&amp;P/BMV IPC estaba en 69,302.46 puntos (−1.54%). A las 11:38 el peso cotizaba en 18.70 por dólar (+1.59% el dólar), mientras el índice del dólar subía 0.30% a 103.79. — El peso está en 18.70, por arriba del FIX de hoy (18.5525) y del de mañana (18.4677): si tienes pagos en dólares que puedes liquidar al FIX, hazlo en lugar de comprar dólares al tipo de cambio del mercado, y escalona las compras de diciembre.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-18-mediodia-mexico/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>El Ibovespa cae 1.4% y Perú 3.5% con los metales; el peso chileno sube a 1,005 y el colombiano a 3,350</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-18-mediodia-latam/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-18-mediodia-latam/</guid>
+    <pubDate>Wed, 18 Nov 2026 11:38:00 -0600</pubDate>
+    <category>Mediodía · LATAM</category>
+    <description>En la apertura el cobre arrastraba a Perú (−3.3%) y Chile (−1.6%), y el peso chileno pasaba de 1,000 por dólar. A las 11:23 CDMX el Ibovespa estaba en 167,442.90 (−1.40%) y a las 11:38 el S&amp;P/TSX de Canadá bajaba 1.59%. Los ETF de MSCI caían 3.53% en Perú, 2.16% en Chile y 2.11% en Argentina. El dólar estaba en 1,005.4 pesos chilenos (+1.31%), 3,350 pesos colombianos (+1.46%), 5.82 reales (+1.03%), 1,558.5 pesos argentinos (+0.42%) y 1.433 dólares canadienses (+0.26%). — Escalona los pagos en pesos chilenos, colombianos y reales, que se debilitan más de 1%. Con el cobre en su nivel más bajo desde abril, cotiza cable e insumos de cobre del primer trimestre.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-18-mediodia-latam/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>Nvidia pasa a perder 2.1% pese a su reporte; el crudo cae 3.5% y el cobre toca su nivel más bajo desde abril</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-18-mediodia-global/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-18-mediodia-global/</guid>
+    <pubDate>Wed, 18 Nov 2026 11:38:00 -0600</pubDate>
+    <category>Mediodía · Global</category>
+    <description>En la apertura Wall Street estaba dividido: el Nasdaq subía 0.56% por el reporte de Nvidia y el Dow bajaba 0.81% después de que un funcionario de la Fed pidió un alza de tasas mayor; el cobre caía 5.2% y el crudo 1.8%. A las 11:38 CDMX el S&amp;P 500 estaba en 7,341.42 (+0.01%), el Nasdaq en 24,458.14 (+0.53%) y el Dow en 50,373.42 (−0.76%); el Russell 2000 subía 1.0% y el VIX bajaba 5.0% a 24.18. Nvidia caía 2.1% (152.17 dólares), mientras AMD subía 2.8%, Broadcom 3.1%, Target 6.6% y TJX 11.0%. Europa cerró a la baja: Euro Stoxx 50 −0.93% y DAX −1.19%. El Treasury a 10 años bajaba a 5.06%, su tercer día de alza en precios. El WTI caía 3.5% a 81.69 dólares, el Brent 2.3% a 88.31 y el diésel en futuros 2.5% a 3.87; el oro bajaba 3.0% a 3,750, la plata 4.8% y el cobre 5.4% a 5.66 dólares por libra. — El diésel en futuros baja a 3.87 dólares por galón y el crudo 3.5%: pide a tus transportistas que el recargo de combustible baje en la próxima revisión. Con el cobre en su nivel más bajo desde abril, cotiza cable y conectores para el primer trimestre.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-18-mediodia-global/og.png" type="image/png" length="0"/>
+  </item>
   <item>
     <title>El IPC cae 0.9% y el peso se debilita 1% a 18.60; el FIX del martes fue de 18.4677</title>
     <link>https://mrsupplychain.ai/noticias/brief/2026-11-18-apertura-mexico/</link>
@@ -340,33 +367,6 @@
     <category>Premercado · México</category>
     <description>El jueves el S&amp;P/BMV IPC cerró con −0.30% (71,787.09) y el peso en 18.59 por dólar, más firme que otras monedas de la región. En la madrugada el peso se mantuvo: a las 5:08 CDMX cotizaba en 18.59, con el índice del dólar en 103.26 (+0.1%). El peso llega al PPI de EE. UU. sin presión: el alza del crudo (Brent 95.74 dólares) lo apoya, pero un Treasury en 5.10% y la expectativa de un alza de la Fed en diciembre estrechan el diferencial con Banxico (6.25%). — Hoy es el último día hábil antes del puente: cierra por tramos la compra de dólares de noviembre, antes y después del PPI, y programa los pagos que vencen el lunes 16.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-13-premercado-mexico/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>La región busca rebotar tras su caída del jueves; el real amanece en 5.65</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-13-premercado-latam/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-13-premercado-latam/</guid>
-    <pubDate>Fri, 13 Nov 2026 05:08:00 -0600</pubDate>
-    <category>Premercado · LATAM</category>
-    <description>El jueves el Ibovespa cerró con −0.43% (171,324.31) y el S&amp;P/TSX con −0.75% (36,137.19); los ETF de MSCI bajaron 1.69% en Argentina, 1.16% en Perú y 0.50% en Chile. En la madrugada, a las 5:00 CDMX, el real estaba en 5.65 por dólar, el peso chileno en 996 y el peso colombiano en 3,307. Los futuros de Wall Street se estabilizan, pero el cobre baja 0.8% (6.15 dólares por libra) y el dólar sigue firme (DXY 103.26), lo que pesa sobre Chile, Perú y Brasil. — Cotiza cable e insumos de cobre con el precio a la baja y escalona los pagos en reales y pesos chilenos, que siguen débiles.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-13-premercado-latam/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>Los futuros se estabilizan tras la salida de Jensen Huang; hoy el PPI define la semana</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-13-premercado-global/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-13-premercado-global/</guid>
-    <pubDate>Fri, 13 Nov 2026 05:08:00 -0600</pubDate>
-    <category>Premercado · Global</category>
-    <description>El jueves Wall Street cerró a la baja (S&amp;P 500 −0.35%) por la renuncia de Jensen Huang en Nvidia y un Treasury a 10 años en 5.10%, su nivel más alto desde octubre; el Brent subió 3.7%. Nvidia llegó a caer 14% en la apertura del jueves, a su nivel más bajo desde junio de 2025, y cerró con −4.34%; los inversionistas minoristas compraron una cifra neta de 111 millones de dólares en la primera media hora, según Vanda Research. La empresa reporta resultados el martes 17 sin director permanente. Después del cierre, Applied Materials reportó ingresos récord de 10,410 millones de dólares en su trimestre (+53%). Asia cerró mixta: Nikkei +0.53% (61,142.35), KOSPI −0.98% (5,290.53), Hang Seng −2.79% y Shanghái −1.26%. A las 4:53 CDMX el Euro Stoxx 50 subía 0.19%, el DAX 0.17%, el CAC 40 0.17% y el FTSE 100 0.25%. A las 5:00 CDMX los futuros del S&amp;P 500 ganaban 0.18%, los del Dow 0.17% y los del Nasdaq 100 0.05%. El WTI estaba en 88.19 dólares (−0.6%), el Brent en 95.74 (−0.1%), el oro en 3,896 (+0.3%), el cobre en 6.15 dólares por libra (−0.8%) y el índice del dólar en 103.26 (+0.1%). — Antes del fin de semana: 1) si el PPI sale arriba de 0.4%, prepara aumentos de proveedores en insumos y empaques; 2) con el Brent cerca de 96 dólares, pide recargos de flete con ajuste semanal; 3) con el Treasury en 5.10%, revisa los días de inventario que financias con deuda.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-13-premercado-global/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>El IPC cierra con −0.30% y el peso termina en 18.59, firme pese al Treasury en 5.10%</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-12-cierre-mexico/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-12-cierre-mexico/</guid>
-    <pubDate>Thu, 12 Nov 2026 15:16:00 -0600</pubDate>
-    <category>Cierre · México</category>
-    <description>El S&amp;P/BMV IPC cerró con −0.30% (71,787.09), según Yahoo Finance, tras moverse entre −0.19% y −0.16% en la mañana. A las 15:16 CDMX el peso cotizaba en 18.59 por dólar, ligeramente mejor que el cierre del miércoles (18.61). El FIX determinado por Banxico el miércoles, publicado hoy en el Diario Oficial, fue de 18.6285. La bolsa siguió a Wall Street a la baja por Nvidia y por el Treasury en 5.10%. El peso se sostuvo mejor que otras monedas de la región, apoyado en el alza del crudo (+2.9% el WTI), que favorece a los exportadores de petróleo. — Mañana es el último día hábil antes del puente: cierra la compra de dólares de noviembre por tramos y programa los pagos que vencen el lunes 16. Con el diésel al alza, revisa los recargos de autotransporte de la próxima semana.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-12-cierre-mexico/og.png" type="image/png" length="0"/>
   </item>
 </channel>
 </rss>
