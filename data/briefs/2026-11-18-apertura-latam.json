@@ -1,0 +1,86 @@
+{
+ "id": "2026-11-18-apertura-latam",
+ "fecha": "2026-11-18",
+ "momento": "apertura",
+ "mercado": "latam",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "El cobre se hunde 5% y arrastra a Perú (−3.3%) y Chile (−1.6%); el peso chileno pasa de 1,000",
+  "esencial": [
+   "A las 9:02 CDMX el ETF de MSCI de Perú caía 3.30% y el de Chile 1.61%; el S&P/TSX de Canadá bajaba 1.63% y el Ibovespa 0.24%.",
+   "El cobre caía 5.2% a 5.67 dólares por libra y el dólar subía a 1,000.7 pesos chilenos (+0.85%) y 5.79 reales (+0.46%).",
+   "Para supply chain: con el cobre en 5.67, cotiza cable e insumos de cobre del primer trimestre; escalona los pagos en pesos chilenos y reales."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 8:53 CDMX el Ibovespa bajaba 0.24% a 169,413.44 y a las 9:08 el S&P/TSX de Canadá 1.63%. Los ETF de MSCI caían 3.30% en Perú, 1.61% en Chile y 1.15% en Argentina. En monedas, a las 9:08 CDMX el dólar estaba en 1,000.7 pesos chilenos (+0.85%), 5.79 reales (+0.46%), 3,315 pesos colombianos (+0.40%), 1,557 pesos argentinos (+0.32%) y 1.433 dólares canadienses (+0.21%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "El cobre cae 5.2% a 5.67 dólares por libra, la plata 4.5% y el oro 2.5%, lo que golpea a las mineras de Perú, Chile y Canadá. SQM triplicó su utilidad, pero advirtió precios del litio más bajos en el cuarto trimestre."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "La región seguirá las minutas de la Fed (13:00 CDMX) y la salida a bolsa de Anthropic, que fija su precio después del cierre."
+   }
+  ],
+  "scm": "Con el cobre en su nivel más bajo en meses, cotiza cable, conectores e insumos de cobre del primer trimestre. Escalona los pagos en pesos chilenos y reales, que se debilitan hoy."
+ },
+ "en": {
+  "titular": "Copper sinks 5%, dragging Peru (−3.3%) and Chile (−1.6%); the Chilean peso crosses 1,000",
+  "esencial": [
+   "At 9:02 a.m. Mexico City time the MSCI Peru ETF was down 3.30% and Chile 1.61%; Canada's S&P/TSX fell 1.63% and the Ibovespa 0.24%.",
+   "Copper fell 5.2% to $5.67 per pound and the dollar rose to 1,000.7 Chilean pesos (+0.85%) and 5.79 reais (+0.46%).",
+   "For supply chain: with copper at $5.67, quote first-quarter cable and copper inputs; stagger payments in Chilean pesos and reais."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "At 8:53 a.m. Mexico City time the Ibovespa was down 0.24% at 169,413.44 and at 9:08 Canada's S&P/TSX 1.63%. The MSCI ETFs fell 3.30% for Peru, 1.61% for Chile and 1.15% for Argentina. In currencies, at 9:08 a.m. the dollar stood at 1,000.7 Chilean pesos (+0.85%), 5.79 reais (+0.46%), 3,315 Colombian pesos (+0.40%), 1,557 Argentine pesos (+0.32%) and 1.433 Canadian dollars (+0.21%)."
+   },
+   {
+    "t": "Context",
+    "x": "Copper falls 5.2% to $5.67 per pound, silver 4.5% and gold 2.5%, hitting miners in Peru, Chile and Canada. SQM tripled its profit but warned of lower lithium prices in the fourth quarter."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The region will follow the Fed minutes (1:00 p.m. Mexico City time) and Anthropic's IPO, which prices after the close."
+   }
+  ],
+  "scm": "With copper at its lowest in months, quote first-quarter cable, connectors and copper inputs. Stagger payments in Chilean pesos and reais, which weaken today."
+ },
+ "pt": {
+  "titular": "O cobre afunda 5% e arrasta Peru (−3,3%) e Chile (−1,6%); o peso chileno passa de 1.000",
+  "esencial": [
+   "Às 9h02 (Cidade do México) o ETF da MSCI do Peru caía 3,30% e o do Chile 1,61%; o S&P/TSX do Canadá caía 1,63% e o Ibovespa 0,24%.",
+   "O cobre caía 5,2% para 5,67 dólares por libra e o dólar subia para 1.000,7 pesos chilenos (+0,85%) e R$ 5,79 (+0,46%).",
+   "Para supply chain: com o cobre a 5,67, cote cabos e insumos de cobre do primeiro trimestre; escalone os pagamentos em pesos chilenos e reais."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 8h53 (Cidade do México) o Ibovespa caía 0,24% para 169.413,44 e às 9h08 o S&P/TSX do Canadá 1,63%. Os ETFs da MSCI caíam 3,30% no Peru, 1,61% no Chile e 1,15% na Argentina. Nas moedas, às 9h08 o dólar estava em 1.000,7 pesos chilenos (+0,85%), R$ 5,79 (+0,46%), 3.315 pesos colombianos (+0,40%), 1.557 pesos argentinos (+0,32%) e 1,433 dólar canadense (+0,21%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "O cobre cai 5,2% para 5,67 dólares por libra, a prata 4,5% e o ouro 2,5%, o que atinge as mineradoras do Peru, do Chile e do Canadá. A SQM triplicou o lucro, mas alertou para preços do lítio menores no quarto trimestre."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "A região vai acompanhar a ata do Fed (13h00, Cidade do México) e o IPO da Anthropic, que define o preço depois do fechamento."
+   }
+  ],
+  "scm": "Com o cobre no nível mais baixo em meses, cote cabos, conectores e insumos de cobre do primeiro trimestre. Escalone os pagamentos em pesos chilenos e reais, que se enfraquecem hoje."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-11-17T21:18:33Z",
- "fecha": "2026-11-17",
+ "actualizado": "2026-11-18T15:11:50Z",
+ "fecha": "2026-11-18",
  "titular": {
-  "es": "Martes: el mercado recorta riesgo antes de Nvidia, escalan los ataques en Medio Oriente y el cobre sigue cerca de mínimos",
-  "en": "Tuesday: markets cut risk ahead of Nvidia, Middle East attacks escalate and copper stays near lows",
-  "pt": "Terça: o mercado reduz risco antes da Nvidia, escalam os ataques no Oriente Médio e o cobre segue perto da mínima"
+  "es": "Miércoles: Nvidia supera lo esperado, Target y TJX suben y el cobre se desploma 5%",
+  "en": "Wednesday: Nvidia beats, Target and TJX rise and copper plunges 5%",
+  "pt": "Quarta: a Nvidia supera o esperado, Target e TJX sobem e o cobre despenca 5%"
  },
  "items": [
   {
    "id": "semis",
-   "dir": "down",
+   "dir": "up",
    "calor": 3,
    "mx": false,
    "latam": false,
@@ -17,38 +17,34 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "TSMC cae 3.7% y Broadcom sube 2.5% en la víspera del reporte de Nvidia",
-    "en": "TSMC falls 3.7% and Broadcom rises 2.5% on the eve of Nvidia's report",
-    "pt": "A TSMC cai 3,7% e a Broadcom sobe 2,5% na véspera do resultado da Nvidia"
+    "es": "Nvidia supera lo esperado: ingresos de 115,800 millones y 390,000 millones en compromisos de compra",
+    "en": "Nvidia beats: $115.8 billion in revenue and $390 billion in purchase commitments",
+    "pt": "A Nvidia supera o esperado: receita de 115,8 bilhões e 390 bilhões em compromissos de compra"
    },
    "x": {
-    "es": "TSMC cerró con −3.7%, Micron −0.9% y Nvidia −0.4%, mientras Broadcom subió 2.5%; según The Information, AMD y Google ganan clientes de chips de IA tras la salida de Huang. Nvidia reporta después del cierre, con ingresos esperados de 109,150 millones de dólares.",
-    "en": "TSMC closed −3.7%, Micron −0.9% and Nvidia −0.4%, while Broadcom rose 2.5%; according to The Information, AMD and Google are winning AI chip customers after Huang's exit. Nvidia reports after the close, with expected revenue of $109.15 billion.",
-    "pt": "A TSMC fechou com −3,7%, a Micron −0,9% e a Nvidia −0,4%, enquanto a Broadcom subiu 2,5%; segundo o The Information, AMD e Google ganham clientes de chips de IA depois da saída de Huang. A Nvidia divulga resultados depois do fechamento, com receita esperada de 109,15 bilhões de dólares."
+    "es": "Nvidia reportó ingresos por 115,800 millones de dólares en el tercer trimestre (se esperaban 109,150 millones), prevé entre 127,400 y 132,600 millones para el cuarto y reporta 390,000 millones en compromisos de compra de infraestructura. A las 9:08 CDMX su acción cedía 0.4% tras subir más de 3% antes de la apertura; AMD subía 2.2% y Broadcom 2.2%.",
+    "en": "Nvidia reported third-quarter revenue of $115.8 billion (expected $109.15 billion), guided to $127.4 to $132.6 billion for the fourth quarter and reports $390 billion in infrastructure purchase commitments. At 10:08 a.m. ET its stock gave up 0.4% after rising more than 3% before the open; AMD rose 2.2% and Broadcom 2.2%.",
+    "pt": "A Nvidia reportou receita de 115,8 bilhões de dólares no terceiro trimestre (esperavam-se 109,15 bilhões), prevê entre 127,4 e 132,6 bilhões para o quarto e informa 390 bilhões em compromissos de compra de infraestrutura. Às 9h08 (Cidade do México) a ação cedia 0,4% depois de subir mais de 3% antes da abertura; a AMD subia 2,2% e a Broadcom 2,2%."
    },
    "scm": {
-    "es": "Si dependes de un solo proveedor de GPU, pide cotizaciones alternativas (AMD, TPU de Google) antes de cerrar compras del primer trimestre.",
-    "en": "If you rely on a single GPU supplier, get alternative quotes (AMD, Google TPUs) before closing first-quarter purchases.",
-    "pt": "Se você depende de um só fornecedor de GPUs, peça cotações alternativas (AMD, TPUs do Google) antes de fechar as compras do primeiro trimestre."
+    "es": "La demanda sigue fuerte: asegura hoy asignaciones y fechas de GPU y servidores para el primer trimestre.",
+    "en": "Demand remains strong: secure first-quarter GPU and server allocations and dates today.",
+    "pt": "A demanda segue forte: garanta hoje alocações e prazos de GPUs e servidores para o primeiro trimestre."
    },
    "fuentes": [
     {
-     "t": "Reuters: las bolsas caen en el mundo antes de Nvidia; el dólar cede (17 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-stumble-tech-weakness-012906483.html"
+     "t": "Yahoo Finance: 3 cifras que explican el reporte de Nvidia (18 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/article/3-numbers-explains-why-nvidia-stock-is-rising-despite-no-jensen-huang-on-the-earnings-call-105004324.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 15:15 CDMX)",
-     "u": "https://finance.yahoo.com/markets/"
-    },
-    {
-     "t": "Stocktwits / The Information: rivales de Nvidia ganan clientes tras la salida de Huang (17 nov 2026)",
-     "u": "https://finance.yahoo.com/technology/articles/rival-chipmakers-reportedly-chip-away-173133889.html"
+     "t": "24/7 Wall St.: los resultados de Nvidia mueven al mercado (18 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nvidia-earnings-141544178.html"
     }
    ]
   },
   {
    "id": "energia",
-   "dir": "up",
+   "dir": "down",
    "calor": 2,
    "mx": true,
    "latam": true,
@@ -56,65 +52,34 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El Brent cierra en 93.14 dólares (+0.8%) por ataques en Medio Oriente, pero acumula −20% en noviembre",
-    "en": "Brent settles at $93.14 (+0.8%) on Middle East attacks, but is down 20% in November",
-    "pt": "O Brent fecha a 93,14 dólares (+0,8%) por ataques no Oriente Médio, mas acumula −20% em novembro"
+    "es": "El crudo cae 1.8% por mayores inventarios en EE. UU.; el diésel baja 2.2% a 3.88 dólares",
+    "en": "Crude falls 1.8% on higher US inventories; diesel drops 2.2% to $3.88",
+    "pt": "O petróleo cai 1,8% por estoques maiores nos EUA; o diesel cai 2,2% para 3,88 dólares"
    },
    "x": {
-    "es": "El Brent cerró en 93.14 dólares (+0.76%) y el WTI en 86.01 (+0.34%), según Reuters, por los ataques a tanqueros en Ormuz y una caída esperada de inventarios en EE. UU. Aun así, el Brent acumula −20% en noviembre y el WTI −16%, por la recuperación de las exportaciones de Medio Oriente; el costo de transportar petróleo por mar se desploma.",
-    "en": "Brent settled at $93.14 (+0.76%) and WTI at $86.01 (+0.34%), according to Reuters, on tanker attacks in Hormuz and an expected drop in US inventories. Even so, Brent is down 20% in November and WTI 16%, as Middle East exports recover; the cost of shipping oil by sea is plunging.",
-    "pt": "O Brent fechou a 93,14 dólares (+0,76%) e o WTI a 86,01 (+0,34%), segundo a Reuters, pelos ataques a petroleiros em Ormuz e uma queda esperada dos estoques nos EUA. Mesmo assim, o Brent acumula −20% em novembro e o WTI −16%, pela recuperação das exportações do Oriente Médio; o custo de transportar petróleo por mar despenca."
+    "es": "A las 8:58 CDMX el WTI estaba en 83.09 dólares (−1.8%) y el Brent en 89.25 (−1.2%); el API reportó un aumento de 5.28 millones de barriles en inventarios de crudo de EE. UU. y de 5.12 millones en gasolina. El futuro del diésel bajaba 2.2% a 3.88 dólares por galón; ambos crudos van hacia una caída mensual de cerca de 20%.",
+    "en": "At 9:58 a.m. ET WTI was at $83.09 (−1.8%) and Brent at $89.25 (−1.2%); the API reported a 5.28 million-barrel build in US crude inventories and 5.12 million in gasoline. Diesel futures fell 2.2% to $3.88 a gallon; both crudes are heading for a monthly drop of about 20%.",
+    "pt": "Às 8h58 (Cidade do México) o WTI estava a 83,09 dólares (−1,8%) e o Brent a 89,25 (−1,2%); o API reportou alta de 5,28 milhões de barris nos estoques de petróleo dos EUA e de 5,12 milhões em gasolina. O futuro do diesel caía 2,2% para 3,88 dólares por galão; os dois petróleos caminham para uma queda mensal de cerca de 20%."
    },
    "scm": {
-    "es": "No fijes recargos de combustible a largo plazo: con el crudo moviéndose 3% al día, pide revisión semanal con el diésel.",
-    "en": "Don't lock in long-term fuel surcharges: with crude moving 3% a day, ask for weekly reviews based on diesel.",
-    "pt": "Não fixe sobretaxas de combustível de longo prazo: com o petróleo oscilando 3% por dia, peça revisão semanal com o diesel."
+    "es": "Pide a tus transportistas que el recargo de combustible baje con el diésel en la próxima revisión semanal.",
+    "en": "Ask your carriers to lower the fuel surcharge with diesel at the next weekly review.",
+    "pt": "Peça aos transportadores que a sobretaxa de combustível caia com o diesel na próxima revisão semanal."
    },
    "fuentes": [
     {
-     "t": "Reuters: el petróleo sube por ataques a tanqueros y una caída esperada de inventarios en EE. UU. (17 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-slips-supply-surplus-outlook-013927034.html"
+     "t": "InvestorsHub: el petróleo baja por mayores inventarios en EE. UU. (18 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-prices-decline-rising-us-102355771.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 15:15 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 09:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   {
-   "id": "puertos",
-   "dir": "down",
-   "calor": 3,
-   "mx": true,
-   "latam": true,
-   "es": "Marítimo y puertos",
-   "en": "Maritime and ports",
-   "pt": "Marítimo e portos",
-   "titular": {
-    "es": "Un barco es alcanzado dos veces en Ormuz; EE. UU. bombardea Qeshm e Irán ataca un radar en Baréin",
-    "en": "A ship is hit twice in Hormuz; the US strikes Qeshm and Iran attacks a radar in Bahrain",
-    "pt": "Um navio é atingido duas vezes em Ormuz; os EUA bombardeiam Qeshm e o Irã ataca um radar no Bahrein"
-   },
-   "x": {
-    "es": "Según Reuters, la tripulación de un barco alcanzado dos veces en el estrecho de Ormuz no había sido localizada; EE. UU. atacó un sitio de lanzamiento de misiles en la isla de Qeshm y drones de Irán atacaron un radar militar de EE. UU. en Baréin. Los hutíes lanzaron cinco drones contra estaciones de bombeo del oleoducto Este-Oeste de Arabia Saudita.",
-    "en": "According to Reuters, the crew of a ship hit twice in the Strait of Hormuz was unaccounted for; the US struck a missile-launch site on Qeshm Island and Iranian drones attacked a US military radar in Bahrain. The Houthis launched five drones at pumping stations on Saudi Arabia's East-West pipeline.",
-    "pt": "Segundo a Reuters, a tripulação de um navio atingido duas vezes no estreito de Ormuz não havia sido localizada; os EUA atacaram um local de lançamento de mísseis na ilha de Qeshm e drones do Irã atacaram um radar militar dos EUA no Bahrein. Os houthis lançaram cinco drones contra estações de bombeamento do oleoduto Leste-Oeste da Arábia Saudita."
-   },
-   "scm": {
-    "es": "Mantén colchón de días en embarques que crucen Medio Oriente y confirma con tu naviera los recargos de riesgo de guerra.",
-    "en": "Keep buffer days on shipments crossing the Middle East and confirm war-risk surcharges with your carrier.",
-    "pt": "Mantenha folga de dias em embarques que cruzem o Oriente Médio e confirme com o armador as sobretaxas de risco de guerra."
-   },
-   "fuentes": [
-    {
-     "t": "Reuters: el petróleo sube por ataques a tanqueros y una caída esperada de inventarios en EE. UU. (17 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-slips-supply-surplus-outlook-013927034.html"
-    }
-   ]
-  },
-  {
    "id": "retail",
-   "dir": "mixed",
+   "dir": "up",
    "calor": 2,
    "mx": true,
    "latam": false,
@@ -122,34 +87,69 @@
    "en": "Retail and last mile",
    "pt": "Varejo e última milha",
    "titular": {
-    "es": "Home Depot cierra con −2.5% pese a superar lo esperado; mañana reportan Target y Lowe's",
-    "en": "Home Depot closes −2.5% despite beating expectations; Target and Lowe's report tomorrow",
-    "pt": "Home Depot fecha com −2,5% apesar de superar o esperado; amanhã divulgam Target e Lowe's"
+    "es": "Target y TJX suben con fuerza; Lowe's eleva ventas pero baja su margen por combustible y mano de obra",
+    "en": "Target and TJX rise sharply; Lowe's raises sales but cuts its margin on fuel and labor",
+    "pt": "Target e TJX sobem forte; a Lowe's eleva vendas, mas reduz a margem por combustível e mão de obra"
    },
    "x": {
-    "es": "Home Depot reportó resultados mejores a lo esperado y nombró a su director de finanzas, Richard McPhail, como director general a partir de la próxima semana; su acción caía 1.5% a las 9:08 CDMX. Las ventas minoristas de EE. UU. subieron 0.2% en octubre, más de lo esperado. Esta semana reportan Target, Lowe's y TJX (miércoles) y Walmart (jueves).",
-    "en": "Home Depot reported better-than-expected results and named CFO Richard McPhail as CEO starting next week; its stock was down 1.5% at 10:08 a.m. ET. US retail sales rose 0.2% in October, more than expected. Target, Lowe's and TJX report this week (Wednesday) and Walmart on Thursday.",
-    "pt": "A Home Depot divulgou resultados acima do esperado e nomeou seu diretor financeiro, Richard McPhail, como CEO a partir da próxima semana; a ação caía 1,5% às 9h08 (Cidade do México). As vendas no varejo dos EUA subiram 0,2% em outubro, acima do esperado. Nesta semana divulgam Target, Lowe's e TJX (quarta) e Walmart (quinta)."
+    "es": "Target reportó ventas por 27,100 millones de dólares (+7.1%), su mejor crecimiento en cinco años, y elevó su guía; su acción subía 5.7%, y TJX 9.7%. Lowe's elevó su guía de ventas a unos 92,500 millones, pero bajó su margen operativo esperado a 11.1% por mayores costos de combustible y mano de obra.",
+    "en": "Target reported sales of $27.1 billion (+7.1%), its best growth in five years, and raised its guidance; its stock was up 5.7%, and TJX 9.7%. Lowe's raised its sales outlook to about $92.5 billion but lowered its expected operating margin to 11.1% on higher fuel and labor costs.",
+    "pt": "A Target reportou vendas de 27,1 bilhões de dólares (+7,1%), seu melhor crescimento em cinco anos, e elevou a projeção; a ação subia 5,7%, e a TJX 9,7%. A Lowe's elevou a projeção de vendas para cerca de 92,5 bilhões, mas reduziu a margem operacional esperada para 11,1% por custos maiores de combustível e mão de obra."
    },
    "scm": {
-    "es": "Si exportas a minoristas de EE. UU., confirma pedidos de temporada alta esta semana: el consumo resiste, pero los reportes pueden ajustar los inventarios.",
-    "en": "If you export to US retailers, confirm peak-season orders this week: consumers are holding up, but the reports may adjust inventories.",
-    "pt": "Se você exporta para varejistas dos EUA, confirme os pedidos da alta temporada nesta semana: o consumo resiste, mas os resultados podem ajustar os estoques."
+    "es": "Si exportas a minoristas de EE. UU., confirma pedidos de temporada: el consumo resiste, pero los costos de combustible y mano de obra aprietan márgenes.",
+    "en": "If you export to US retailers, confirm seasonal orders: consumers are holding up, but fuel and labor costs are squeezing margins.",
+    "pt": "Se você exporta para varejistas dos EUA, confirme pedidos da temporada: o consumo resiste, mas os custos de combustível e mão de obra apertam as margens."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan en la cuenta regresiva para Nvidia (17 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
+     "t": "Proactive: las ventas de Target suben 7.1% en el tercer trimestre (18 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/target-reports-7-1-rise-142500617.html"
     },
     {
-     "t": "Yahoo Finance AlphaCheck: las acciones bajan antes de Nvidia y cae Home Depot (17 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/article/copy-copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-145755423.html"
+     "t": "Yahoo Finance: Lowe's eleva su guía de ventas pese a la vivienda; baja su margen por combustible y mano de obra (18 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/article/lowes-raises-outlook-despite-sluggish-housing-market-but-the-stock-is-falling-150733931.html"
+    }
+   ]
+  },
+  {
+   "id": "puertos",
+   "dir": "mixed",
+   "calor": 2,
+   "mx": false,
+   "latam": false,
+   "es": "Marítimo y puertos",
+   "en": "Shipping and ports",
+   "pt": "Marítimo e portos",
+   "titular": {
+    "es": "Bajan las tarifas de transporte marítimo de petróleo aunque siguen los ataques en Ormuz",
+    "en": "Oil shipping rates fall even as attacks continue in Hormuz",
+    "pt": "As tarifas de transporte marítimo de petróleo caem, mesmo com os ataques em Ormuz"
+   },
+   "x": {
+    "es": "El crudo va hacia una caída mensual de cerca de 20% por el aumento de las exportaciones de Medio Oriente y tarifas de transporte marítimo más bajas, aunque continúan las tensiones militares entre EE. UU. e Irán y los ataques a barcos comerciales en el estrecho de Ormuz.",
+    "en": "Crude is heading for a monthly drop of about 20% on higher Middle East exports and lower shipping rates, even as military tensions between the US and Iran and attacks on commercial vessels in the Strait of Hormuz continue.",
+    "pt": "O petróleo caminha para uma queda mensal de cerca de 20% pelo aumento das exportações do Oriente Médio e tarifas de transporte marítimo menores, embora continuem as tensões militares entre EUA e Irã e os ataques a navios comerciais no estreito de Ormuz."
+   },
+   "scm": {
+    "es": "Pide a tu naviera que revise los recargos de riesgo de guerra a la baja, pero mantén colchón de días en embarques que crucen Medio Oriente.",
+    "en": "Ask your carrier to review war-risk surcharges downward, but keep buffer days on shipments crossing the Middle East.",
+    "pt": "Peça ao armador que revise para baixo as sobretaxas de risco de guerra, mas mantenha folga de dias em embarques que cruzem o Oriente Médio."
+   },
+   "fuentes": [
+    {
+     "t": "InvestorsHub: el petróleo baja por mayores inventarios en EE. UU. (18 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-prices-decline-rising-us-102355771.html"
+    },
+    {
+     "t": "MT Newswires: el crudo baja pese a más tensión en Medio Oriente (18 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/commodities/articles/canada-commodities-crude-oil-prices-145323241.html"
     }
    ]
   },
   {
    "id": "software",
-   "dir": "mixed",
+   "dir": "up",
    "calor": 2,
    "mx": false,
    "latam": false,
@@ -157,58 +157,58 @@
    "en": "Software and AI for supply chain",
    "pt": "Software e IA para supply chain",
    "titular": {
-    "es": "Anthropic debuta el jueves 19 en lo que podría ser la mayor salida a bolsa de la historia",
-    "en": "Anthropic debuts on Thursday the 19th in what could be the largest IPO on record",
-    "pt": "A Anthropic estreia na quinta, dia 19, no que pode ser o maior IPO da história"
+    "es": "EasyPost, plataforma de envíos con IA, saldrá a bolsa; Anthropic fija hoy el precio de su oferta",
+    "en": "EasyPost, an AI shipping platform, will go public; Anthropic prices its offering today",
+    "pt": "A EasyPost, plataforma de envios com IA, vai abrir capital; a Anthropic define hoje o preço da oferta"
    },
    "x": {
-    "es": "Según Yahoo Finance, la salida a bolsa de Anthropic el jueves podría ser la mayor de la historia; Vanda Research estima que pequeños inversionistas comprarían 250 millones de dólares netos el primer día y advierte que parte de ese dinero podría salir de otras acciones de IA.",
-    "en": "According to Yahoo Finance, Anthropic's IPO on Thursday could be the largest on record; Vanda Research estimates retail investors could buy a net $250 million on the first day and warns some of that money may come out of other AI stocks.",
-    "pt": "Segundo o Yahoo Finance, o IPO da Anthropic na quinta pode ser o maior da história; a Vanda Research estima que pequenos investidores comprariam 250 milhões de dólares líquidos no primeiro dia e alerta que parte desse dinheiro pode sair de outras ações de IA."
+    "es": "EasyPost, plataforma de envíos con IA y API para comercio, anunció que saldrá a bolsa en Nasdaq mediante su fusión con American Drive Acquisition Company. Anthropic fija hoy después del cierre el precio de su salida a bolsa y empieza a cotizar mañana jueves.",
+    "en": "EasyPost, an AI and API shipping platform for commerce, announced it will go public on Nasdaq through a business combination with American Drive Acquisition Company. Anthropic prices its IPO today after the close and begins trading tomorrow, Thursday.",
+    "pt": "A EasyPost, plataforma de envios com IA e API para o comércio, anunciou que vai abrir capital na Nasdaq por meio de fusão com a American Drive Acquisition Company. A Anthropic define hoje, depois do fechamento, o preço do IPO e começa a ser negociada amanhã, quinta."
    },
    "scm": {
-    "es": "Si evalúas herramientas de IA para planeación, pide a tus proveedores precios y niveles de servicio fijos para 2027.",
-    "en": "If you are evaluating AI planning tools, ask vendors for fixed 2027 pricing and service levels.",
-    "pt": "Se você avalia ferramentas de IA para planejamento, peça aos fornecedores preços e níveis de serviço fixos para 2027."
+    "es": "Si usas plataformas de paquetería o etiquetas, revisa con tu proveedor si sus precios o condiciones cambian con la salida a bolsa.",
+    "en": "If you use parcel or label platforms, check with your provider whether pricing or terms change with the listing.",
+    "pt": "Se você usa plataformas de encomendas ou etiquetas, verifique com o fornecedor se preços ou condições mudam com a abertura de capital."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq bajan en la cuenta regresiva para Nvidia (17 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
+     "t": "Business Wire: EasyPost, plataforma de envíos con IA, saldrá a bolsa en Nasdaq (18 nov 2026)",
+     "u": "https://finance.yahoo.com/technology/ai/articles/easypost-leading-shipping-ai-api-123000713.html"
+    },
+    {
+     "t": "Yahoo Finance: Anthropic fija hoy el precio de su salida a bolsa (18 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html"
     }
    ]
   },
   {
    "id": "mineria",
-   "dir": "mixed",
-   "calor": 1,
+   "dir": "down",
+   "calor": 3,
    "mx": true,
    "latam": true,
    "es": "Minería y metales",
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "El cobre cierra en 5.98 dólares, cerca de su mínimo en más de cuatro meses",
-    "en": "Copper closes at $5.98, near a more than four-month low",
-    "pt": "O cobre fecha a 5,98 dólares, perto da mínima em mais de quatro meses"
+    "es": "El cobre se desploma 5.2% a 5.67 dólares; el oro baja de 3,800 y la plata cae 4.5%",
+    "en": "Copper plunges 5.2% to $5.67; gold drops below $3,800 and silver falls 4.5%",
+    "pt": "O cobre despenca 5,2% para 5,67 dólares; o ouro cai abaixo de 3.800 e a prata cai 4,5%"
    },
    "x": {
-    "es": "El cobre terminó en 5.98 dólares por libra (−0.4%), la plata en 47.22 (+0.8%) y el oro en 3,851 (sin cambio); las mineras europeas cayeron 1.4%, a su menor nivel en casi ocho meses.",
-    "en": "Copper ended at $5.98 per pound (−0.4%), silver at $47.22 (+0.8%) and gold at $3,851 (flat); European miners fell 1.4% to their lowest in nearly eight months.",
-    "pt": "O cobre terminou a 5,98 dólares por libra (−0,4%), a prata a 47,22 (+0,8%) e o ouro a 3.851 (estável); as mineradoras europeias caíram 1,4%, ao menor nível em quase oito meses."
+    "es": "A las 8:58 CDMX el cobre estaba en 5.67 dólares por libra (−5.2%), la plata en 45.23 (−4.5%) y el oro en 3,769 (−2.5%), su primer nivel debajo de 3,800 en más de un año, con un dólar fuerte y la expectativa de más alzas de la Fed.",
+    "en": "At 9:58 a.m. ET copper was at $5.67 per pound (−5.2%), silver at $45.23 (−4.5%) and gold at $3,769 (−2.5%), its first level below $3,800 in more than a year, with a strong dollar and expectations of more Fed hikes.",
+    "pt": "Às 8h58 (Cidade do México) o cobre estava a 5,67 dólares por libra (−5,2%), a prata a 45,23 (−4,5%) e o ouro a 3.769 (−2,5%), seu primeiro nível abaixo de 3.800 em mais de um ano, com dólar forte e expectativa de mais altas do Fed."
    },
    "scm": {
-    "es": "Con el cobre debajo de 6 dólares, cotiza cable y conectores para el primer trimestre.",
-    "en": "With copper below $6, quote cable and connectors for the first quarter.",
-    "pt": "Com o cobre abaixo de 6 dólares, cote cabos e conectores para o primeiro trimestre."
+    "es": "Cotiza hoy cable, conectores e insumos de cobre para el primer trimestre.",
+    "en": "Quote cable, connectors and copper inputs for the first quarter today.",
+    "pt": "Cote hoje cabos, conectores e insumos de cobre para o primeiro trimestre."
    },
    "fuentes": [
     {
-     "t": "Reuters: las bolsas europeas tienen su peor día en ocho meses por la IA (17 nov 2026)",
-     "u": "https://finance.yahoo.com/technology/ai/articles/european-shares-ease-tech-stocks-081814187.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (17 nov 2026, 15:15 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 09:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]

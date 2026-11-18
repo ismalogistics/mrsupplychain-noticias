@@ -1,0 +1,106 @@
+{
+ "id": "2026-11-18-apertura-global",
+ "fecha": "2026-11-18",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "Wall Street abre dividido: el Dow cae 0.8% porque un funcionario de la Fed pide un alza mayor; el cobre se desploma 5%",
+  "esencial": [
+   "A las 9:08 CDMX el S&P 500 estaba plano (−0.00%), el Nasdaq subía 0.56% y el Dow bajaba 0.81%; Nvidia cedía 0.4% tras subir más de 3% antes de la apertura.",
+   "Un funcionario de la Fed pidió un alza de tasas mayor, un \"shock\", según Investor's Business Daily; Target subía 5.7% y TJX 9.7% tras sus reportes.",
+   "Para supply chain: el cobre cae 5.2% a 5.67 dólares y el diésel 2.2% a 3.88: cotiza cable y pide recargos más bajos, pero prevé que financiar inventario en dólares se encarezca."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "El premercado anticipaba un rebote en tecnología por el reporte de Nvidia, pero la apertura salió dividida: a las 9:08 CDMX el S&P 500 estaba en 7,340.36 (−0.00%), el Nasdaq en 24,464.13 (+0.56%) y el Dow en 50,348.84 (−0.81%). Nvidia cedía 0.4% (154.87 dólares) después de subir más de 3% antes de la apertura; AMD subía 2.2% y Broadcom 2.2%. Target subía 5.7% tras su mejor crecimiento de ventas en cinco años (+7.1%) y TJX 9.7%, mientras Lowe's caía 1.2%. El Dow bajó después de que un funcionario de la Fed pidió un alza de tasas mayor, según Investor's Business Daily. El Treasury a 10 años estaba en 5.08%. El Brent caía 1.2% a 89.25 dólares y el WTI 1.8% a 83.09; el diésel en futuros 2.2% a 3.88 dólares por galón; el oro 2.5% a 3,769, la plata 4.5% y el cobre 5.2% a 5.67 dólares por libra."
+   },
+   {
+    "t": "Asia y Europa",
+    "x": "Asia cerró mixta: KOSPI +1.99% (5,067.44), Nikkei +0.28% (59,024.28), Taiwán −2.06%, Shanghái −0.41% y Hang Seng −1.93%. Europa borró sus ganancias de la mañana: a las 8:53 CDMX el Euro Stoxx 50 bajaba 0.40%, el DAX 0.56% y el FTSE 100 0.83%."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "A las 13:00 CDMX la Fed publica las minutas de su reunión de octubre, que se leerán junto con el llamado a un alza mayor. Después del cierre Anthropic fija el precio de su salida a bolsa, que empieza a cotizar mañana, y reportan Palo Alto Networks y Kulicke & Soffa. Mañana jueves reporta Walmart."
+   }
+  ],
+  "scm": "El cobre se desploma 5.2% y el diésel 2.2%: cotiza cable y conectores y pide que bajen los recargos de combustible. Un llamado dentro de la Fed a un alza mayor encarecería el financiamiento: revisa el inventario financiado con deuda en dólares."
+ },
+ "en": {
+  "titular": "Wall Street opens split: the Dow falls 0.8% as a Fed official calls for a bigger hike; copper plunges 5%",
+  "esencial": [
+   "At 10:08 a.m. ET the S&P 500 was flat (−0.00%), the Nasdaq up 0.56% and the Dow down 0.81%; Nvidia gave up 0.4% after rising more than 3% before the open.",
+   "A Fed official called for a bigger rate hike, a \"shock,\" according to Investor's Business Daily; Target rose 5.7% and TJX 9.7% after their reports.",
+   "For supply chain: copper falls 5.2% to $5.67 and diesel 2.2% to $3.88: quote cable and ask for lower surcharges, but expect dollar inventory financing to get more expensive."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "Premarket pointed to a tech rebound on Nvidia's report, but the open came out split: at 10:08 a.m. ET the S&P 500 stood at 7,340.36 (−0.00%), the Nasdaq at 24,464.13 (+0.56%) and the Dow at 50,348.84 (−0.81%). Nvidia gave up 0.4% ($154.87) after rising more than 3% before the open; AMD rose 2.2% and Broadcom 2.2%. Target rose 5.7% on its best sales growth in five years (+7.1%) and TJX 9.7%, while Lowe's fell 1.2%. The Dow fell after a Fed official called for a bigger rate hike, according to Investor's Business Daily. The 10-year Treasury was at 5.08%. Brent fell 1.2% to $89.25 and WTI 1.8% to $83.09; diesel futures fell 2.2% to $3.88 a gallon; gold fell 2.5% to $3,769, silver 4.5% and copper 5.2% to $5.67 per pound."
+   },
+   {
+    "t": "Asia and Europe",
+    "x": "Asia closed mixed: KOSPI +1.99% (5,067.44), Nikkei +0.28% (59,024.28), Taiwan −2.06%, Shanghai −0.41% and Hang Seng −1.93%. Europe erased its morning gains: at 9:53 a.m. ET the Euro Stoxx 50 was down 0.40%, the DAX 0.56% and the FTSE 100 0.83%."
+   },
+   {
+    "t": "What to expect today",
+    "x": "At 2:00 p.m. ET the Fed releases the minutes of its October meeting, which will be read alongside the call for a bigger hike. After the close Anthropic prices its IPO, which begins trading tomorrow, and Palo Alto Networks and Kulicke & Soffa report. Walmart reports tomorrow, Thursday."
+   }
+  ],
+  "scm": "Copper plunges 5.2% and diesel 2.2%: quote cable and connectors and ask for lower fuel surcharges. A call within the Fed for a bigger hike would make financing more expensive: review inventory financed with dollar debt."
+ },
+ "pt": {
+  "titular": "Wall Street abre dividida: o Dow cai 0,8% porque um dirigente do Fed pede uma alta maior; o cobre despenca 5%",
+  "esencial": [
+   "Às 9h08 (Cidade do México) o S&P 500 estava estável (−0,00%), o Nasdaq subia 0,56% e o Dow caía 0,81%; a Nvidia cedia 0,4% depois de subir mais de 3% antes da abertura.",
+   "Um dirigente do Fed pediu uma alta de juros maior, um \"choque\", segundo o Investor's Business Daily; a Target subia 5,7% e a TJX 9,7% depois dos resultados.",
+   "Para supply chain: o cobre cai 5,2% para 5,67 dólares e o diesel 2,2% para 3,88: cote cabos e peça sobretaxas menores, mas preveja que financiar estoque em dólares fique mais caro."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "O pré-mercado antecipava uma alta na tecnologia pelo resultado da Nvidia, mas a abertura saiu dividida: às 9h08 (Cidade do México) o S&P 500 estava em 7.340,36 (−0,00%), o Nasdaq em 24.464,13 (+0,56%) e o Dow em 50.348,84 (−0,81%). A Nvidia cedia 0,4% (154,87 dólares) depois de subir mais de 3% antes da abertura; a AMD subia 2,2% e a Broadcom 2,2%. A Target subia 5,7% após seu melhor crescimento de vendas em cinco anos (+7,1%) e a TJX 9,7%, enquanto a Lowe's caía 1,2%. O Dow caiu depois que um dirigente do Fed pediu uma alta de juros maior, segundo o Investor's Business Daily. O Treasury de 10 anos estava em 5,08%. O Brent caía 1,2% para 89,25 dólares e o WTI 1,8% para 83,09; o diesel nos futuros 2,2% para 3,88 dólares por galão; o ouro 2,5% para 3.769, a prata 4,5% e o cobre 5,2% para 5,67 dólares por libra."
+   },
+   {
+    "t": "Ásia e Europa",
+    "x": "A Ásia fechou mista: KOSPI +1,99% (5.067,44), Nikkei +0,28% (59.024,28), Taiwan −2,06%, Xangai −0,41% e Hang Seng −1,93%. A Europa apagou os ganhos da manhã: às 8h53 (Cidade do México) o Euro Stoxx 50 caía 0,40%, o DAX 0,56% e o FTSE 100 0,83%."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Às 13h00 (Cidade do México) o Fed publica a ata da reunião de outubro, que será lida junto com o pedido de uma alta maior. Depois do fechamento a Anthropic define o preço do IPO, que começa a ser negociado amanhã, e divulgam resultados Palo Alto Networks e Kulicke & Soffa. Amanhã, quinta, o Walmart divulga resultados."
+   }
+  ],
+  "scm": "O cobre despenca 5,2% e o diesel 2,2%: cote cabos e conectores e peça que as sobretaxas de combustível caiam. Um pedido dentro do Fed por uma alta maior encareceria o financiamento: revise o estoque financiado com dívida em dólares."
+ },
+ "fuentes": [
+  {
+   "t": "Investor's Business Daily: el Dow cae mientras un funcionario de la Fed pide un alza mayor; Nvidia sube tras su reporte (18 nov 2026)",
+   "u": "https://finance.yahoo.com/m/3b6d51d3-7bfb-3b08-a92e-3b70e9f0655b/stock-market-today%3A-dow-falls.html"
+  },
+  {
+   "t": "24/7 Wall St.: los resultados de Nvidia mueven al mercado (18 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nvidia-earnings-141544178.html"
+  },
+  {
+   "t": "Yahoo Finance: 3 cifras que explican el reporte de Nvidia (18 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/article/3-numbers-explains-why-nvidia-stock-is-rising-despite-no-jensen-huang-on-the-earnings-call-105004324.html"
+  },
+  {
+   "t": "Proactive: las ventas de Target suben 7.1% en el tercer trimestre (18 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/target-reports-7-1-rise-142500617.html"
+  },
+  {
+   "t": "Yahoo Finance: Lowe's eleva su guía de ventas pese a la vivienda; baja su margen por combustible y mano de obra (18 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/article/lowes-raises-outlook-despite-sluggish-housing-market-but-the-stock-is-falling-150733931.html"
+  },
+  {
+   "t": "InvestorsHub: el petróleo baja por mayores inventarios en EE. UU. (18 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-prices-decline-rising-us-102355771.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
