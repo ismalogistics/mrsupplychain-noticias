@@ -1,273 +1,269 @@
 {
- "actualizado": "2026-11-18T15:11:50Z",
- "momento": "apertura",
+ "actualizado": "2026-11-18T17:40:17Z",
+ "momento": "mediodia",
  "briefs": {
   "global": {
-   "id": "2026-11-18-apertura-global",
+   "id": "2026-11-18-mediodia-global",
    "fecha": "2026-11-18",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "global",
-   "hora": "09:08 CDMX",
+   "hora": "11:38 CDMX",
    "es": {
-    "titular": "Wall Street abre dividido: el Dow cae 0.8% porque un funcionario de la Fed pide un alza mayor; el cobre se desploma 5%",
+    "titular": "Nvidia pasa a perder 2.1% pese a su reporte; el crudo cae 3.5% y el cobre toca su nivel más bajo desde abril",
     "esencial": [
-     "A las 9:08 CDMX el S&P 500 estaba plano (−0.00%), el Nasdaq subía 0.56% y el Dow bajaba 0.81%; Nvidia cedía 0.4% tras subir más de 3% antes de la apertura.",
-     "Un funcionario de la Fed pidió un alza de tasas mayor, un \"shock\", según Investor's Business Daily; Target subía 5.7% y TJX 9.7% tras sus reportes.",
-     "Para supply chain: el cobre cae 5.2% a 5.67 dólares y el diésel 2.2% a 3.88: cotiza cable y pide recargos más bajos, pero prevé que financiar inventario en dólares se encarezca."
+     "A las 11:38 CDMX el S&P 500 estaba plano (+0.01%), el Nasdaq subía 0.53% y el Dow bajaba 0.76%; Nvidia caía 2.1%, mientras Target subía 6.6% y TJX 11.0%.",
+     "El WTI caía 3.5% a 81.69 dólares por el superávit previsto y una menor prima de riesgo en Ormuz; el cobre bajaba 5.4% a 5.66, su nivel más bajo desde abril.",
+     "Para supply chain: el diésel cae 2.5% a 3.87 dólares por galón; pide que bajen los recargos y cotiza cable, pero prepárate para un dólar más caro si la Fed sube más."
     ],
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "El premercado anticipaba un rebote en tecnología por el reporte de Nvidia, pero la apertura salió dividida: a las 9:08 CDMX el S&P 500 estaba en 7,340.36 (−0.00%), el Nasdaq en 24,464.13 (+0.56%) y el Dow en 50,348.84 (−0.81%). Nvidia cedía 0.4% (154.87 dólares) después de subir más de 3% antes de la apertura; AMD subía 2.2% y Broadcom 2.2%. Target subía 5.7% tras su mejor crecimiento de ventas en cinco años (+7.1%) y TJX 9.7%, mientras Lowe's caía 1.2%. El Dow bajó después de que un funcionario de la Fed pidió un alza de tasas mayor, según Investor's Business Daily. El Treasury a 10 años estaba en 5.08%. El Brent caía 1.2% a 89.25 dólares y el WTI 1.8% a 83.09; el diésel en futuros 2.2% a 3.88 dólares por galón; el oro 2.5% a 3,769, la plata 4.5% y el cobre 5.2% a 5.67 dólares por libra."
+      "t": "Lo que se esperaba",
+      "x": "En la apertura Wall Street estaba dividido: el Nasdaq subía 0.56% por el reporte de Nvidia y el Dow bajaba 0.81% después de que un funcionario de la Fed pidió un alza de tasas mayor; el cobre caía 5.2% y el crudo 1.8%."
      },
      {
-      "t": "Asia y Europa",
-      "x": "Asia cerró mixta: KOSPI +1.99% (5,067.44), Nikkei +0.28% (59,024.28), Taiwán −2.06%, Shanghái −0.41% y Hang Seng −1.93%. Europa borró sus ganancias de la mañana: a las 8:53 CDMX el Euro Stoxx 50 bajaba 0.40%, el DAX 0.56% y el FTSE 100 0.83%."
+      "t": "Cómo va",
+      "x": "A las 11:38 CDMX el S&P 500 estaba en 7,341.42 (+0.01%), el Nasdaq en 24,458.14 (+0.53%) y el Dow en 50,373.42 (−0.76%); el Russell 2000 subía 1.0% y el VIX bajaba 5.0% a 24.18. Nvidia caía 2.1% (152.17 dólares), mientras AMD subía 2.8%, Broadcom 3.1%, Target 6.6% y TJX 11.0%. Europa cerró a la baja: Euro Stoxx 50 −0.93% y DAX −1.19%. El Treasury a 10 años bajaba a 5.06%, su tercer día de alza en precios. El WTI caía 3.5% a 81.69 dólares, el Brent 2.3% a 88.31 y el diésel en futuros 2.5% a 3.87; el oro bajaba 3.0% a 3,750, la plata 4.8% y el cobre 5.4% a 5.66 dólares por libra."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "A las 13:00 CDMX la Fed publica las minutas de su reunión de octubre, que se leerán junto con el llamado a un alza mayor. Después del cierre Anthropic fija el precio de su salida a bolsa, que empieza a cotizar mañana, y reportan Palo Alto Networks y Kulicke & Soffa. Mañana jueves reporta Walmart."
+      "t": "Lo que sorprendió",
+      "x": "Nvidia pasó de subir más de 3% antes de la apertura a caer 2.1%: según The Wall Street Journal, su reporte récord no calmó las dudas sobre la inversión en IA, y la acción ha perdido más de un tercio de su valor desde principios de octubre. El cobre tocó su nivel más bajo desde abril y acumula −10.6% en una semana, por la salida de inversionistas que lo compraban como apuesta a la infraestructura de IA, según Investing.com."
      }
     ],
-    "scm": "El cobre se desploma 5.2% y el diésel 2.2%: cotiza cable y conectores y pide que bajen los recargos de combustible. Un llamado dentro de la Fed a un alza mayor encarecería el financiamiento: revisa el inventario financiado con deuda en dólares."
+    "scm": "El diésel en futuros baja a 3.87 dólares por galón y el crudo 3.5%: pide a tus transportistas que el recargo de combustible baje en la próxima revisión. Con el cobre en su nivel más bajo desde abril, cotiza cable y conectores para el primer trimestre."
    },
    "en": {
-    "titular": "Wall Street opens split: the Dow falls 0.8% as a Fed official calls for a bigger hike; copper plunges 5%",
+    "titular": "Nvidia turns 2.1% lower despite its report; crude falls 3.5% and copper hits its lowest since April",
     "esencial": [
-     "At 10:08 a.m. ET the S&P 500 was flat (−0.00%), the Nasdaq up 0.56% and the Dow down 0.81%; Nvidia gave up 0.4% after rising more than 3% before the open.",
-     "A Fed official called for a bigger rate hike, a \"shock,\" according to Investor's Business Daily; Target rose 5.7% and TJX 9.7% after their reports.",
-     "For supply chain: copper falls 5.2% to $5.67 and diesel 2.2% to $3.88: quote cable and ask for lower surcharges, but expect dollar inventory financing to get more expensive."
+     "At 12:38 p.m. ET the S&P 500 was flat (+0.01%), the Nasdaq up 0.53% and the Dow down 0.76%; Nvidia fell 2.1%, while Target rose 6.6% and TJX 11.0%.",
+     "WTI fell 3.5% to $81.69 on the expected surplus and a smaller risk premium in Hormuz; copper fell 5.4% to $5.66, its lowest since April.",
+     "For supply chain: diesel falls 2.5% to $3.87 a gallon; ask for lower surcharges and quote cable, but prepare for a costlier dollar if the Fed hikes more."
     ],
     "bloques": [
      {
-      "t": "Open",
-      "x": "Premarket pointed to a tech rebound on Nvidia's report, but the open came out split: at 10:08 a.m. ET the S&P 500 stood at 7,340.36 (−0.00%), the Nasdaq at 24,464.13 (+0.56%) and the Dow at 50,348.84 (−0.81%). Nvidia gave up 0.4% ($154.87) after rising more than 3% before the open; AMD rose 2.2% and Broadcom 2.2%. Target rose 5.7% on its best sales growth in five years (+7.1%) and TJX 9.7%, while Lowe's fell 1.2%. The Dow fell after a Fed official called for a bigger rate hike, according to Investor's Business Daily. The 10-year Treasury was at 5.08%. Brent fell 1.2% to $89.25 and WTI 1.8% to $83.09; diesel futures fell 2.2% to $3.88 a gallon; gold fell 2.5% to $3,769, silver 4.5% and copper 5.2% to $5.67 per pound."
+      "t": "What was expected",
+      "x": "At the open Wall Street was split: the Nasdaq rose 0.56% on Nvidia's report and the Dow fell 0.81% after a Fed official called for a bigger rate hike; copper fell 5.2% and crude 1.8%."
      },
      {
-      "t": "Asia and Europe",
-      "x": "Asia closed mixed: KOSPI +1.99% (5,067.44), Nikkei +0.28% (59,024.28), Taiwan −2.06%, Shanghai −0.41% and Hang Seng −1.93%. Europe erased its morning gains: at 9:53 a.m. ET the Euro Stoxx 50 was down 0.40%, the DAX 0.56% and the FTSE 100 0.83%."
+      "t": "How it is going",
+      "x": "At 12:38 p.m. ET the S&P 500 stood at 7,341.42 (+0.01%), the Nasdaq at 24,458.14 (+0.53%) and the Dow at 50,373.42 (−0.76%); the Russell 2000 rose 1.0% and the VIX fell 5.0% to 24.18. Nvidia fell 2.1% ($152.17), while AMD rose 2.8%, Broadcom 3.1%, Target 6.6% and TJX 11.0%. Europe closed lower: Euro Stoxx 50 −0.93% and DAX −1.19%. The 10-year Treasury yield eased to 5.06%, a third day of gains in prices. WTI fell 3.5% to $81.69, Brent 2.3% to $88.31 and diesel futures 2.5% to $3.87; gold fell 3.0% to $3,750, silver 4.8% and copper 5.4% to $5.66 per pound."
      },
      {
-      "t": "What to expect today",
-      "x": "At 2:00 p.m. ET the Fed releases the minutes of its October meeting, which will be read alongside the call for a bigger hike. After the close Anthropic prices its IPO, which begins trading tomorrow, and Palo Alto Networks and Kulicke & Soffa report. Walmart reports tomorrow, Thursday."
+      "t": "What surprised",
+      "x": "Nvidia went from rising more than 3% before the open to falling 2.1%: according to The Wall Street Journal, its record report did not ease doubts about AI spending, and the stock has lost more than a third of its value since early October. Copper hit its lowest since April and is down 10.6% in a week, as investors who bought it as an AI infrastructure play exit, according to Investing.com."
      }
     ],
-    "scm": "Copper plunges 5.2% and diesel 2.2%: quote cable and connectors and ask for lower fuel surcharges. A call within the Fed for a bigger hike would make financing more expensive: review inventory financed with dollar debt."
+    "scm": "Diesel futures drop to $3.87 a gallon and crude 3.5%: ask your carriers to lower the fuel surcharge at the next review. With copper at its lowest since April, quote cable and connectors for the first quarter."
    },
    "pt": {
-    "titular": "Wall Street abre dividida: o Dow cai 0,8% porque um dirigente do Fed pede uma alta maior; o cobre despenca 5%",
+    "titular": "A Nvidia passa a cair 2,1% apesar do resultado; o petróleo cai 3,5% e o cobre toca o nível mais baixo desde abril",
     "esencial": [
-     "Às 9h08 (Cidade do México) o S&P 500 estava estável (−0,00%), o Nasdaq subia 0,56% e o Dow caía 0,81%; a Nvidia cedia 0,4% depois de subir mais de 3% antes da abertura.",
-     "Um dirigente do Fed pediu uma alta de juros maior, um \"choque\", segundo o Investor's Business Daily; a Target subia 5,7% e a TJX 9,7% depois dos resultados.",
-     "Para supply chain: o cobre cai 5,2% para 5,67 dólares e o diesel 2,2% para 3,88: cote cabos e peça sobretaxas menores, mas preveja que financiar estoque em dólares fique mais caro."
+     "Às 11h38 (Cidade do México) o S&P 500 estava estável (+0,01%), o Nasdaq subia 0,53% e o Dow caía 0,76%; a Nvidia caía 2,1%, enquanto a Target subia 6,6% e a TJX 11,0%.",
+     "O WTI caía 3,5% para 81,69 dólares pelo superávit previsto e um prêmio de risco menor em Ormuz; o cobre caía 5,4% para 5,66, o nível mais baixo desde abril.",
+     "Para supply chain: o diesel cai 2,5% para 3,87 dólares por galão; peça sobretaxas menores e cote cabos, mas prepare-se para um dólar mais caro se o Fed subir mais os juros."
     ],
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "O pré-mercado antecipava uma alta na tecnologia pelo resultado da Nvidia, mas a abertura saiu dividida: às 9h08 (Cidade do México) o S&P 500 estava em 7.340,36 (−0,00%), o Nasdaq em 24.464,13 (+0,56%) e o Dow em 50.348,84 (−0,81%). A Nvidia cedia 0,4% (154,87 dólares) depois de subir mais de 3% antes da abertura; a AMD subia 2,2% e a Broadcom 2,2%. A Target subia 5,7% após seu melhor crescimento de vendas em cinco anos (+7,1%) e a TJX 9,7%, enquanto a Lowe's caía 1,2%. O Dow caiu depois que um dirigente do Fed pediu uma alta de juros maior, segundo o Investor's Business Daily. O Treasury de 10 anos estava em 5,08%. O Brent caía 1,2% para 89,25 dólares e o WTI 1,8% para 83,09; o diesel nos futuros 2,2% para 3,88 dólares por galão; o ouro 2,5% para 3.769, a prata 4,5% e o cobre 5,2% para 5,67 dólares por libra."
+      "t": "O que se esperava",
+      "x": "Na abertura Wall Street estava dividida: o Nasdaq subia 0,56% pelo resultado da Nvidia e o Dow caía 0,81% depois que um dirigente do Fed pediu uma alta de juros maior; o cobre caía 5,2% e o petróleo 1,8%."
      },
      {
-      "t": "Ásia e Europa",
-      "x": "A Ásia fechou mista: KOSPI +1,99% (5.067,44), Nikkei +0,28% (59.024,28), Taiwan −2,06%, Xangai −0,41% e Hang Seng −1,93%. A Europa apagou os ganhos da manhã: às 8h53 (Cidade do México) o Euro Stoxx 50 caía 0,40%, o DAX 0,56% e o FTSE 100 0,83%."
+      "t": "Como vai",
+      "x": "Às 11h38 (Cidade do México) o S&P 500 estava em 7.341,42 (+0,01%), o Nasdaq em 24.458,14 (+0,53%) e o Dow em 50.373,42 (−0,76%); o Russell 2000 subia 1,0% e o VIX caía 5,0% para 24,18. A Nvidia caía 2,1% (152,17 dólares), enquanto a AMD subia 2,8%, a Broadcom 3,1%, a Target 6,6% e a TJX 11,0%. A Europa fechou em queda: Euro Stoxx 50 −0,93% e DAX −1,19%. O rendimento do Treasury de 10 anos caía para 5,06%, no terceiro dia de alta nos preços. O WTI caía 3,5% para 81,69 dólares, o Brent 2,3% para 88,31 e o diesel nos futuros 2,5% para 3,87; o ouro caía 3,0% para 3.750, a prata 4,8% e o cobre 5,4% para 5,66 dólares por libra."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Às 13h00 (Cidade do México) o Fed publica a ata da reunião de outubro, que será lida junto com o pedido de uma alta maior. Depois do fechamento a Anthropic define o preço do IPO, que começa a ser negociado amanhã, e divulgam resultados Palo Alto Networks e Kulicke & Soffa. Amanhã, quinta, o Walmart divulga resultados."
+      "t": "O que surpreendeu",
+      "x": "A Nvidia passou de subir mais de 3% antes da abertura a cair 2,1%: segundo o The Wall Street Journal, o resultado recorde não acalmou as dúvidas sobre o investimento em IA, e a ação perdeu mais de um terço do valor desde o início de outubro. O cobre tocou o nível mais baixo desde abril e acumula −10,6% em uma semana, pela saída de investidores que o compravam como aposta na infraestrutura de IA, segundo o Investing.com."
      }
     ],
-    "scm": "O cobre despenca 5,2% e o diesel 2,2%: cote cabos e conectores e peça que as sobretaxas de combustível caiam. Um pedido dentro do Fed por uma alta maior encareceria o financiamento: revise o estoque financiado com dívida em dólares."
+    "scm": "O diesel nos futuros cai para 3,87 dólares por galão e o petróleo 3,5%: peça aos transportadores que a sobretaxa de combustível caia na próxima revisão. Com o cobre no nível mais baixo desde abril, cote cabos e conectores para o primeiro trimestre."
    },
    "fuentes": [
     {
-     "t": "Investor's Business Daily: el Dow cae mientras un funcionario de la Fed pide un alza mayor; Nvidia sube tras su reporte (18 nov 2026)",
-     "u": "https://finance.yahoo.com/m/3b6d51d3-7bfb-3b08-a92e-3b70e9f0655b/stock-market-today%3A-dow-falls.html"
+     "t": "The Wall Street Journal: las acciones bajan; el reporte de Nvidia no calma los nervios (18 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-rally-nvidia-earnings-093700969.html"
     },
     {
-     "t": "24/7 Wall St.: los resultados de Nvidia mueven al mercado (18 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nvidia-earnings-141544178.html"
+     "t": "Investor's Business Daily: el Dow cae por temor a un 'shock' de alzas de tasas (18 nov 2026)",
+     "u": "https://finance.yahoo.com/m/3b6d51d3-7bfb-3b08-a92e-3b70e9f0655b/stock-market-today%3A-dow-drops.html"
     },
     {
-     "t": "Yahoo Finance: 3 cifras que explican el reporte de Nvidia (18 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/article/3-numbers-explains-why-nvidia-stock-is-rising-despite-no-jensen-huang-on-the-earnings-call-105004324.html"
+     "t": "Investing.com: el petróleo cae por el superávit previsto y se desvanece la prima de riesgo de Ormuz (18 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-slides-surplus-outlook-hormuz-172136849.html"
     },
     {
-     "t": "Proactive: las ventas de Target suben 7.1% en el tercer trimestre (18 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/target-reports-7-1-rise-142500617.html"
+     "t": "Investing.com: el cobre cae pese a la oferta física ajustada (18 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/commodities/articles/copper-slides-despite-tight-physical-171222473.html"
     },
     {
-     "t": "Yahoo Finance: Lowe's eleva su guía de ventas pese a la vivienda; baja su margen por combustible y mano de obra (18 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/article/lowes-raises-outlook-despite-sluggish-housing-market-but-the-stock-is-falling-150733931.html"
-    },
-    {
-     "t": "InvestorsHub: el petróleo baja por mayores inventarios en EE. UU. (18 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-prices-decline-rising-us-102355771.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-18-apertura-latam",
+   "id": "2026-11-18-mediodia-latam",
    "fecha": "2026-11-18",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "latam",
-   "hora": "09:08 CDMX",
+   "hora": "11:38 CDMX",
    "es": {
-    "titular": "El cobre se hunde 5% y arrastra a Perú (−3.3%) y Chile (−1.6%); el peso chileno pasa de 1,000",
+    "titular": "El Ibovespa cae 1.4% y Perú 3.5% con los metales; el peso chileno sube a 1,005 y el colombiano a 3,350",
     "esencial": [
-     "A las 9:02 CDMX el ETF de MSCI de Perú caía 3.30% y el de Chile 1.61%; el S&P/TSX de Canadá bajaba 1.63% y el Ibovespa 0.24%.",
-     "El cobre caía 5.2% a 5.67 dólares por libra y el dólar subía a 1,000.7 pesos chilenos (+0.85%) y 5.79 reales (+0.46%).",
-     "Para supply chain: con el cobre en 5.67, cotiza cable e insumos de cobre del primer trimestre; escalona los pagos en pesos chilenos y reales."
+     "A las 11:23 CDMX el Ibovespa bajaba 1.40% (167,442.90) y el ETF de MSCI de Perú 3.53%; Chile caía 2.16% y Argentina 2.11%.",
+     "El dólar subía a 1,005.4 pesos chilenos (+1.31%), 3,350 pesos colombianos (+1.46%) y 5.82 reales (+1.03%).",
+     "Para supply chain: las monedas de la región se debilitan con fuerza; escalona los pagos y aprovecha el cobre en mínimos de abril para cotizar."
     ],
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "A las 8:53 CDMX el Ibovespa bajaba 0.24% a 169,413.44 y a las 9:08 el S&P/TSX de Canadá 1.63%. Los ETF de MSCI caían 3.30% en Perú, 1.61% en Chile y 1.15% en Argentina. En monedas, a las 9:08 CDMX el dólar estaba en 1,000.7 pesos chilenos (+0.85%), 5.79 reales (+0.46%), 3,315 pesos colombianos (+0.40%), 1,557 pesos argentinos (+0.32%) y 1.433 dólares canadienses (+0.21%)."
+      "t": "Lo que se esperaba",
+      "x": "En la apertura el cobre arrastraba a Perú (−3.3%) y Chile (−1.6%), y el peso chileno pasaba de 1,000 por dólar."
      },
      {
-      "t": "Contexto",
-      "x": "El cobre cae 5.2% a 5.67 dólares por libra, la plata 4.5% y el oro 2.5%, lo que golpea a las mineras de Perú, Chile y Canadá. SQM triplicó su utilidad, pero advirtió precios del litio más bajos en el cuarto trimestre."
+      "t": "Cómo va",
+      "x": "A las 11:23 CDMX el Ibovespa estaba en 167,442.90 (−1.40%) y a las 11:38 el S&P/TSX de Canadá bajaba 1.59%. Los ETF de MSCI caían 3.53% en Perú, 2.16% en Chile y 2.11% en Argentina. El dólar estaba en 1,005.4 pesos chilenos (+1.31%), 3,350 pesos colombianos (+1.46%), 5.82 reales (+1.03%), 1,558.5 pesos argentinos (+0.42%) y 1.433 dólares canadienses (+0.26%)."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "La región seguirá las minutas de la Fed (13:00 CDMX) y la salida a bolsa de Anthropic, que fija su precio después del cierre."
+      "t": "Lo que sorprendió",
+      "x": "La venta se extendió a Brasil, que en la apertura casi no se movía. El cobre está en su nivel más bajo desde abril (5.66 dólares, −5.4%) y el crudo cae 3.5%, lo que pega a Chile, Perú y Colombia a la vez."
      }
     ],
-    "scm": "Con el cobre en su nivel más bajo en meses, cotiza cable, conectores e insumos de cobre del primer trimestre. Escalona los pagos en pesos chilenos y reales, que se debilitan hoy."
+    "scm": "Escalona los pagos en pesos chilenos, colombianos y reales, que se debilitan más de 1%. Con el cobre en su nivel más bajo desde abril, cotiza cable e insumos de cobre del primer trimestre."
    },
    "en": {
-    "titular": "Copper sinks 5%, dragging Peru (−3.3%) and Chile (−1.6%); the Chilean peso crosses 1,000",
+    "titular": "The Ibovespa falls 1.4% and Peru 3.5% on metals; the dollar rises to 1,005 Chilean and 3,350 Colombian pesos",
     "esencial": [
-     "At 9:02 a.m. Mexico City time the MSCI Peru ETF was down 3.30% and Chile 1.61%; Canada's S&P/TSX fell 1.63% and the Ibovespa 0.24%.",
-     "Copper fell 5.2% to $5.67 per pound and the dollar rose to 1,000.7 Chilean pesos (+0.85%) and 5.79 reais (+0.46%).",
-     "For supply chain: with copper at $5.67, quote first-quarter cable and copper inputs; stagger payments in Chilean pesos and reais."
+     "At 11:23 a.m. Mexico City time the Ibovespa was down 1.40% (167,442.90) and the MSCI Peru ETF 3.53%; Chile fell 2.16% and Argentina 2.11%.",
+     "The dollar rose to 1,005.4 Chilean pesos (+1.31%), 3,350 Colombian pesos (+1.46%) and 5.82 reais (+1.03%).",
+     "For supply chain: the region's currencies are weakening sharply; stagger payments and use copper at April lows to get quotes."
     ],
     "bloques": [
      {
-      "t": "Open",
-      "x": "At 8:53 a.m. Mexico City time the Ibovespa was down 0.24% at 169,413.44 and at 9:08 Canada's S&P/TSX 1.63%. The MSCI ETFs fell 3.30% for Peru, 1.61% for Chile and 1.15% for Argentina. In currencies, at 9:08 a.m. the dollar stood at 1,000.7 Chilean pesos (+0.85%), 5.79 reais (+0.46%), 3,315 Colombian pesos (+0.40%), 1,557 Argentine pesos (+0.32%) and 1.433 Canadian dollars (+0.21%)."
+      "t": "What was expected",
+      "x": "At the open copper was dragging Peru (−3.3%) and Chile (−1.6%), and the Chilean peso crossed 1,000 per dollar."
      },
      {
-      "t": "Context",
-      "x": "Copper falls 5.2% to $5.67 per pound, silver 4.5% and gold 2.5%, hitting miners in Peru, Chile and Canada. SQM tripled its profit but warned of lower lithium prices in the fourth quarter."
+      "t": "How it is going",
+      "x": "At 11:23 a.m. Mexico City time the Ibovespa stood at 167,442.90 (−1.40%) and at 11:38 Canada's S&P/TSX was down 1.59%. The MSCI ETFs fell 3.53% for Peru, 2.16% for Chile and 2.11% for Argentina. The dollar stood at 1,005.4 Chilean pesos (+1.31%), 3,350 Colombian pesos (+1.46%), 5.82 reais (+1.03%), 1,558.5 Argentine pesos (+0.42%) and 1.433 Canadian dollars (+0.26%)."
      },
      {
-      "t": "What to expect today",
-      "x": "The region will follow the Fed minutes (1:00 p.m. Mexico City time) and Anthropic's IPO, which prices after the close."
+      "t": "What surprised",
+      "x": "The selling spread to Brazil, which barely moved at the open. Copper is at its lowest since April ($5.66, −5.4%) and crude falls 3.5%, hitting Chile, Peru and Colombia at the same time."
      }
     ],
-    "scm": "With copper at its lowest in months, quote first-quarter cable, connectors and copper inputs. Stagger payments in Chilean pesos and reais, which weaken today."
+    "scm": "Stagger payments in Chilean pesos, Colombian pesos and reais, which weaken more than 1%. With copper at its lowest since April, quote first-quarter cable and copper inputs."
    },
    "pt": {
-    "titular": "O cobre afunda 5% e arrasta Peru (−3,3%) e Chile (−1,6%); o peso chileno passa de 1.000",
+    "titular": "O Ibovespa cai 1,4% e o Peru 3,5% com os metais; o dólar sobe para 1.005 pesos chilenos e 3.350 colombianos",
     "esencial": [
-     "Às 9h02 (Cidade do México) o ETF da MSCI do Peru caía 3,30% e o do Chile 1,61%; o S&P/TSX do Canadá caía 1,63% e o Ibovespa 0,24%.",
-     "O cobre caía 5,2% para 5,67 dólares por libra e o dólar subia para 1.000,7 pesos chilenos (+0,85%) e R$ 5,79 (+0,46%).",
-     "Para supply chain: com o cobre a 5,67, cote cabos e insumos de cobre do primeiro trimestre; escalone os pagamentos em pesos chilenos e reais."
+     "Às 11h23 (Cidade do México) o Ibovespa caía 1,40% (167.442,90) e o ETF da MSCI do Peru 3,53%; o Chile caía 2,16% e a Argentina 2,11%.",
+     "O dólar subia para 1.005,4 pesos chilenos (+1,31%), 3.350 pesos colombianos (+1,46%) e R$ 5,82 (+1,03%).",
+     "Para supply chain: as moedas da região se enfraquecem com força; escalone os pagamentos e aproveite o cobre na mínima de abril para cotar."
     ],
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Às 8h53 (Cidade do México) o Ibovespa caía 0,24% para 169.413,44 e às 9h08 o S&P/TSX do Canadá 1,63%. Os ETFs da MSCI caíam 3,30% no Peru, 1,61% no Chile e 1,15% na Argentina. Nas moedas, às 9h08 o dólar estava em 1.000,7 pesos chilenos (+0,85%), R$ 5,79 (+0,46%), 3.315 pesos colombianos (+0,40%), 1.557 pesos argentinos (+0,32%) e 1,433 dólar canadense (+0,21%)."
+      "t": "O que se esperava",
+      "x": "Na abertura o cobre arrastava o Peru (−3,3%) e o Chile (−1,6%), e o peso chileno passava de 1.000 por dólar."
      },
      {
-      "t": "Contexto",
-      "x": "O cobre cai 5,2% para 5,67 dólares por libra, a prata 4,5% e o ouro 2,5%, o que atinge as mineradoras do Peru, do Chile e do Canadá. A SQM triplicou o lucro, mas alertou para preços do lítio menores no quarto trimestre."
+      "t": "Como vai",
+      "x": "Às 11h23 (Cidade do México) o Ibovespa estava em 167.442,90 (−1,40%) e às 11h38 o S&P/TSX do Canadá caía 1,59%. Os ETFs da MSCI caíam 3,53% no Peru, 2,16% no Chile e 2,11% na Argentina. O dólar estava em 1.005,4 pesos chilenos (+1,31%), 3.350 pesos colombianos (+1,46%), R$ 5,82 (+1,03%), 1.558,5 pesos argentinos (+0,42%) e 1,433 dólar canadense (+0,26%)."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "A região vai acompanhar a ata do Fed (13h00, Cidade do México) e o IPO da Anthropic, que define o preço depois do fechamento."
+      "t": "O que surpreendeu",
+      "x": "A venda se estendeu ao Brasil, que na abertura quase não se mexia. O cobre está no nível mais baixo desde abril (5,66 dólares, −5,4%) e o petróleo cai 3,5%, o que atinge Chile, Peru e Colômbia ao mesmo tempo."
      }
     ],
-    "scm": "Com o cobre no nível mais baixo em meses, cote cabos, conectores e insumos de cobre do primeiro trimestre. Escalone os pagamentos em pesos chilenos e reais, que se enfraquecem hoje."
+    "scm": "Escalone os pagamentos em pesos chilenos, colombianos e reais, que se enfraquecem mais de 1%. Com o cobre no nível mais baixo desde abril, cote cabos e insumos de cobre do primeiro trimestre."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
      "t": "Mr. Supply Chain México: mapa de calor de América",
      "u": "https://mrsupplychain.ai/noticias/"
+    },
+    {
+     "t": "The Wall Street Journal: el cobre, en su nivel más bajo desde abril (18 nov 2026)",
+     "u": "https://finance.yahoo.com/m/383e3761-bb69-33a1-b6cb-36191bad9165/copper-at-lowest-since-april.html"
     }
    ]
   },
   "mexico": {
-   "id": "2026-11-18-apertura-mexico",
+   "id": "2026-11-18-mediodia-mexico",
    "fecha": "2026-11-18",
-   "momento": "apertura",
+   "momento": "mediodia",
    "mercado": "mexico",
-   "hora": "09:08 CDMX",
+   "hora": "11:38 CDMX",
    "es": {
-    "titular": "El IPC cae 0.9% y el peso se debilita 1% a 18.60; el FIX del martes fue de 18.4677",
+    "titular": "El peso se debilita 1.6% a 18.70 y el IPC cae 1.5%; la caída de los metales pesa sobre México",
     "esencial": [
-     "A las 8:48 CDMX el S&P/BMV IPC bajaba 0.90% a 69,752.47 puntos, debajo de 70,000.",
-     "A las 9:08 CDMX el peso cotizaba en 18.60 por dólar (+1.01% el dólar), presionado por el dólar fuerte y la caída de los metales.",
-     "Para supply chain: hoy rige para pagos el FIX de 18.5525; el de 18.4677, determinado ayer, regirá desde mañana. Con el peso en 18.60, no concentres hoy las compras de dólares."
+     "A las 11:38 CDMX el peso cotizaba en 18.70 por dólar (+1.59% el dólar), su nivel más débil en dos semanas.",
+     "A las 11:18 CDMX el S&P/BMV IPC caía 1.54% a 69,302.46 puntos, arrastrado por la caída del cobre, la plata y el crudo.",
+     "Para supply chain: hoy rige para pagos el FIX de 18.5525 y desde mañana el de 18.4677, ambos más bajos que el mercado: si puedes, liquida pagos en dólares con FIX en lugar de comprar al tipo de cambio de hoy."
     ],
     "bloques": [
      {
-      "t": "Apertura",
-      "x": "A las 8:48 CDMX el S&P/BMV IPC estaba en 69,752.47 puntos (−0.90%). A las 9:08 CDMX el peso cotizaba en 18.60 por dólar (+1.01% el dólar), después de cerrar ayer en 18.42. El FIX determinado ayer martes fue de 18.4677, según Banxico; se publica hoy en el DOF y rige para pagos desde mañana. Hoy rige el de 18.5525."
+      "t": "Lo que se esperaba",
+      "x": "En la apertura el IPC caía 0.9% y el peso se debilitaba a 18.60, presionado por el dólar fuerte y la caída de los metales; el FIX del martes fue de 18.4677."
      },
      {
-      "t": "Contexto",
-      "x": "El dólar se fortalece (índice 103.75, +0.25%) después de que un funcionario de la Fed pidió un alza de tasas mayor, y la caída del cobre (−5.2%), la plata (−4.5%) y el crudo (−1.8%) pesa sobre las monedas de exportadores de materias primas: el peso chileno pasa de 1,000 y el real está en 5.79."
+      "t": "Cómo va",
+      "x": "A las 11:18 CDMX el S&P/BMV IPC estaba en 69,302.46 puntos (−1.54%). A las 11:38 el peso cotizaba en 18.70 por dólar (+1.59% el dólar), mientras el índice del dólar subía 0.30% a 103.79."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "La Fed publica sus minutas a las 13:00 CDMX. El 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre y el 27 la balanza comercial de octubre."
+      "t": "Lo que sorprendió",
+      "x": "La caída se aceleró en la mañana: el peso perdió otros 10 centavos desde la apertura y el IPC amplió su baja, con el cobre (−5.4%), la plata (−4.8%) y el crudo (−3.5%) a la baja. Otras monedas de la región también se debilitan: el peso chileno está en 1,005 y el colombiano en 3,350."
      }
     ],
-    "scm": "Con el peso en 18.60, más débil que ayer, escalona las compras de dólares en lugar de cerrarlas hoy. Los pagos de hoy se liquidan con el FIX de 18.5525 y desde mañana con el de 18.4677."
+    "scm": "El peso está en 18.70, por arriba del FIX de hoy (18.5525) y del de mañana (18.4677): si tienes pagos en dólares que puedes liquidar al FIX, hazlo en lugar de comprar dólares al tipo de cambio del mercado, y escalona las compras de diciembre."
    },
    "en": {
-    "titular": "The IPC falls 0.9% and the peso weakens 1% to 18.60; Tuesday's FIX was 18.4677",
+    "titular": "The peso weakens 1.6% to 18.70 and the IPC falls 1.5%; the drop in metals weighs on Mexico",
     "esencial": [
-     "At 8:48 a.m. Mexico City time the S&P/BMV IPC was down 0.90% at 69,752.47 points, below 70,000.",
-     "At 9:08 a.m. the peso traded at 18.60 per dollar (dollar +1.01%), pressured by the strong dollar and the drop in metals.",
-     "For supply chain: today the 18.5525 FIX applies to payments; the 18.4677 FIX set yesterday applies from tomorrow. With the peso at 18.60, don't concentrate dollar purchases today."
+     "At 11:38 a.m. Mexico City time the peso traded at 18.70 per dollar (dollar +1.59%), its weakest in two weeks.",
+     "At 11:18 a.m. the S&P/BMV IPC was down 1.54% at 69,302.46 points, dragged by the drop in copper, silver and crude.",
+     "For supply chain: today the 18.5525 FIX applies to payments and from tomorrow 18.4677, both below the market: if you can, settle dollar payments at the FIX instead of buying at today's rate."
     ],
     "bloques": [
      {
-      "t": "Open",
-      "x": "At 8:48 a.m. Mexico City time the S&P/BMV IPC stood at 69,752.47 points (−0.90%). At 9:08 a.m. the peso traded at 18.60 per dollar (dollar +1.01%), after closing yesterday at 18.42. The FIX set yesterday, Tuesday, was 18.4677, according to Banxico; it is published today in the DOF and applies to payments from tomorrow. Today the 18.5525 FIX applies."
+      "t": "What was expected",
+      "x": "At the open the IPC was down 0.9% and the peso weakened to 18.60, pressured by the strong dollar and the drop in metals; Tuesday's FIX was 18.4677."
      },
      {
-      "t": "Context",
-      "x": "The dollar strengthens (index 103.75, +0.25%) after a Fed official called for a bigger rate hike, and the drop in copper (−5.2%), silver (−4.5%) and crude (−1.8%) weighs on commodity exporters' currencies: the Chilean peso crosses 1,000 and the real is at 5.79."
+      "t": "How it is going",
+      "x": "At 11:18 a.m. Mexico City time the S&P/BMV IPC stood at 69,302.46 points (−1.54%). At 11:38 the peso traded at 18.70 per dollar (dollar +1.59%), while the dollar index rose 0.30% to 103.79."
      },
      {
-      "t": "What to expect today",
-      "x": "The Fed releases its minutes at 1:00 p.m. Mexico City time. On November 24 INEGI publishes first-half November inflation and on the 27th the October trade balance."
+      "t": "What surprised",
+      "x": "The decline accelerated through the morning: the peso lost another 10 centavos from the open and the IPC extended its drop, with copper (−5.4%), silver (−4.8%) and crude (−3.5%) lower. Other currencies in the region are also weakening: the Chilean peso is at 1,005 and the Colombian peso at 3,350."
      }
     ],
-    "scm": "With the peso at 18.60, weaker than yesterday, stagger dollar purchases instead of closing them today. Today's payments settle at the 18.5525 FIX and from tomorrow at 18.4677."
+    "scm": "The peso is at 18.70, above today's FIX (18.5525) and tomorrow's (18.4677): if you have dollar payments you can settle at the FIX, do so instead of buying dollars at the market rate, and stagger December purchases."
    },
    "pt": {
-    "titular": "O IPC cai 0,9% e o peso se enfraquece 1% para 18,60; o FIX de terça foi de 18,4677",
+    "titular": "O peso se enfraquece 1,6% para 18,70 e o IPC cai 1,5%; a queda dos metais pesa sobre o México",
     "esencial": [
-     "Às 8h48 (Cidade do México) o S&P/BMV IPC caía 0,90% para 69.752,47 pontos, abaixo de 70.000.",
-     "Às 9h08 o peso era cotado a 18,60 por dólar (dólar +1,01%), pressionado pelo dólar forte e pela queda dos metais.",
-     "Para supply chain: hoje vale para pagamentos o FIX de 18,5525; o de 18,4677, definido ontem, vale a partir de amanhã. Com o peso a 18,60, não concentre hoje as compras de dólares."
+     "Às 11h38 (Cidade do México) o peso era cotado a 18,70 por dólar (dólar +1,59%), seu nível mais fraco em duas semanas.",
+     "Às 11h18 o S&P/BMV IPC caía 1,54% para 69.302,46 pontos, puxado pela queda do cobre, da prata e do petróleo.",
+     "Para supply chain: hoje vale para pagamentos o FIX de 18,5525 e a partir de amanhã o de 18,4677, ambos abaixo do mercado: se puder, liquide pagamentos em dólares pelo FIX em vez de comprar à cotação de hoje."
     ],
     "bloques": [
      {
-      "t": "Abertura",
-      "x": "Às 8h48 (Cidade do México) o S&P/BMV IPC estava em 69.752,47 pontos (−0,90%). Às 9h08 o peso era cotado a 18,60 por dólar (dólar +1,01%), depois de fechar ontem em 18,42. O FIX definido ontem, terça, foi de 18,4677, segundo o Banxico; é publicado hoje no DOF e vale para pagamentos a partir de amanhã. Hoje vale o de 18,5525."
+      "t": "O que se esperava",
+      "x": "Na abertura o IPC caía 0,9% e o peso se enfraquecia para 18,60, pressionado pelo dólar forte e pela queda dos metais; o FIX de terça foi de 18,4677."
      },
      {
-      "t": "Contexto",
-      "x": "O dólar se fortalece (índice em 103,75, +0,25%) depois que um dirigente do Fed pediu uma alta de juros maior, e a queda do cobre (−5,2%), da prata (−4,5%) e do petróleo (−1,8%) pesa sobre as moedas de exportadores de commodities: o peso chileno passa de 1.000 e o real está em R$ 5,79."
+      "t": "Como vai",
+      "x": "Às 11h18 (Cidade do México) o S&P/BMV IPC estava em 69.302,46 pontos (−1,54%). Às 11h38 o peso era cotado a 18,70 por dólar (dólar +1,59%), enquanto o índice do dólar subia 0,30% para 103,79."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "O Fed publica a ata às 13h00 (Cidade do México). Em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro e no dia 27 a balança comercial de outubro."
+      "t": "O que surpreendeu",
+      "x": "A queda se acelerou durante a manhã: o peso perdeu outros 10 centavos desde a abertura e o IPC ampliou a baixa, com o cobre (−5,4%), a prata (−4,8%) e o petróleo (−3,5%) em queda. Outras moedas da região também se enfraquecem: o peso chileno está em 1.005 e o colombiano em 3.350."
      }
     ],
-    "scm": "Com o peso a 18,60, mais fraco que ontem, escalone as compras de dólares em vez de fechá-las hoje. Os pagamentos de hoje são liquidados com o FIX de 18,5525 e a partir de amanhã com o de 18,4677."
+    "scm": "O peso está em 18,70, acima do FIX de hoje (18,5525) e do de amanhã (18,4677): se você tem pagamentos em dólares que pode liquidar pelo FIX, faça isso em vez de comprar dólares à cotação do mercado, e escalone as compras de dezembro."
    },
    "fuentes": [
     {
@@ -279,19 +275,15 @@
      "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=es"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
-    },
-    {
-     "t": "Investor's Business Daily: el Dow cae mientras un funcionario de la Fed pide un alza mayor; Nvidia sube tras su reporte (18 nov 2026)",
-     "u": "https://finance.yahoo.com/m/3b6d51d3-7bfb-3b08-a92e-3b70e9f0655b/stock-market-today%3A-dow-falls.html"
     }
    ]
   }
  },
  "lectura": {
   "es": {
-   "titular": "Nvidia confirma la demanda de cómputo, pero la Fed y el dólar fuerte pesan; el cobre se desploma",
+   "titular": "Nvidia no logra sostener a la tecnología y los metales se desploman; el peso se debilita a 18.70",
    "resumen": "Nvidia superó lo esperado (ingresos de 115,800 millones de dólares y guía de hasta 132,600 millones para el cuarto trimestre), lo que confirma que la demanda de cómputo sigue fuerte y que las asignaciones de GPU y servidores seguirán apretadas. Sin embargo, el mercado abre dividido: un funcionario de la Fed pidió un alza de tasas mayor y el dólar se mantiene cerca de su máximo en 19 meses, lo que encarece financiar inventario en dólares y debilita al peso (18.60). Los metales se desploman (cobre −5.2%, plata −4.5%, oro −2.5%) y el crudo baja 1.8% por mayores inventarios en EE. UU., una oportunidad para cotizar cable y revisar recargos de combustible. En retail, Target y TJX suben con fuerza tras sus reportes, mientras Lowe's baja su margen por combustible y mano de obra. En México el IPC cae 0.9% y el FIX del martes fue de 18.4677, que regirá para pagos desde mañana.",
    "temas": [
     {
@@ -393,7 +385,7 @@
    ]
   },
   "en": {
-   "titular": "Nvidia confirms compute demand, but the Fed and a strong dollar weigh; copper plunges",
+   "titular": "Nvidia fails to lift tech and metals plunge; the peso weakens to 18.70",
    "resumen": "Nvidia beat expectations (revenue of $115.8 billion and fourth-quarter guidance of up to $132.6 billion), confirming that compute demand remains strong and that GPU and server allocations will stay tight. Even so, markets open split: a Fed official called for a bigger rate hike and the dollar stays near its 19-month high, making it costlier to finance inventory in dollars and weakening the peso (18.60). Metals are plunging (copper −5.2%, silver −4.5%, gold −2.5%) and crude falls 1.8% on higher US inventories, an opportunity to quote cable and review fuel surcharges. In retail, Target and TJX rise sharply after their reports, while Lowe's cuts its margin on fuel and labor costs. In Mexico the IPC falls 0.9% and Tuesday's FIX was 18.4677, which applies to payments from tomorrow.",
    "temas": [
     {
@@ -495,7 +487,7 @@
    ]
   },
   "pt": {
-   "titular": "A Nvidia confirma a demanda por computação, mas o Fed e o dólar forte pesam; o cobre despenca",
+   "titular": "A Nvidia não consegue sustentar a tecnologia e os metais despencam; o peso se enfraquece para 18,70",
    "resumen": "A Nvidia superou o esperado (receita de 115,8 bilhões de dólares e projeção de até 132,6 bilhões para o quarto trimestre), o que confirma que a demanda por computação segue forte e que as alocações de GPUs e servidores seguirão apertadas. Mesmo assim, o mercado abre dividido: um dirigente do Fed pediu uma alta de juros maior e o dólar segue perto da máxima em 19 meses, o que encarece financiar estoque em dólares e enfraquece o peso (18,60). Os metais despencam (cobre −5,2%, prata −4,5%, ouro −2,5%) e o petróleo cai 1,8% por estoques maiores nos EUA, uma oportunidade para cotar cabos e revisar sobretaxas de combustível. No varejo, Target e TJX sobem forte depois dos resultados, enquanto a Lowe's reduz a margem por combustível e mão de obra. No México o IPC cai 0,9% e o FIX de terça foi de 18,4677, que vale para pagamentos a partir de amanhã.",
    "temas": [
     {
@@ -602,8 +594,8 @@
    "nombre": "IPC BMV",
    "name_en": "IPC BMV",
    "grupo": "bolsa",
-   "valor": 69752.47,
-   "cambio": -0.9,
+   "valor": 69302.46,
+   "cambio": -1.54,
    "unidad": "puntos",
    "name_pt": "IPC BMV"
   },
@@ -611,8 +603,8 @@
    "nombre": "S&P 500",
    "name_en": "S&P 500",
    "grupo": "bolsa",
-   "valor": 7340.36,
-   "cambio": -0.0,
+   "valor": 7341.42,
+   "cambio": 0.01,
    "unidad": "puntos",
    "name_pt": "S&P 500"
   },
@@ -620,8 +612,8 @@
    "nombre": "Nasdaq",
    "name_en": "Nasdaq",
    "grupo": "bolsa",
-   "valor": 24464.13,
-   "cambio": 0.56,
+   "valor": 24458.14,
+   "cambio": 0.53,
    "unidad": "puntos",
    "name_pt": "Nasdaq"
   },
@@ -629,8 +621,8 @@
    "nombre": "Dow Jones",
    "name_en": "Dow Jones",
    "grupo": "bolsa",
-   "valor": 50348.84,
-   "cambio": -0.81,
+   "valor": 50373.42,
+   "cambio": -0.76,
    "unidad": "puntos",
    "name_pt": "Dow Jones"
   },
@@ -638,8 +630,8 @@
    "nombre": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
    "grupo": "bolsa",
-   "valor": 6187.54,
-   "cambio": -0.4,
+   "valor": 6154.39,
+   "cambio": -0.93,
    "unidad": "puntos",
    "name_pt": "Euro Stoxx 50"
   },
@@ -665,8 +657,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 18.6,
-   "cambio": 1.01,
+   "valor": 18.7,
+   "cambio": 1.59,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -674,8 +666,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.0978,
-   "cambio": -0.22,
+   "valor": 1.0977,
+   "cambio": -0.23,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -683,8 +675,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 159.19,
-   "cambio": -0.13,
+   "valor": 159.29,
+   "cambio": -0.07,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -692,8 +684,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 83.09,
-   "cambio": -1.84,
+   "valor": 81.69,
+   "cambio": -3.5,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -701,8 +693,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 89.25,
-   "cambio": -1.24,
+   "valor": 88.31,
+   "cambio": -2.28,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -719,8 +711,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3769.4,
-   "cambio": -2.45,
+   "valor": 3750.2,
+   "cambio": -2.95,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -728,8 +720,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 5.67,
-   "cambio": -5.21,
+   "valor": 5.66,
+   "cambio": -5.41,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -737,8 +729,8 @@
    "nombre": "Treasury 10 años",
    "name_en": "10-yr Treasury",
    "grupo": "bono",
-   "valor": 5.08,
-   "cambio": -2,
+   "valor": 5.06,
+   "cambio": -4,
    "unidad": "%",
    "name_pt": "Título do Tesouro 10 anos"
   },
@@ -764,8 +756,8 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 63485.95,
-   "cambio": -2.14,
+   "valor": 63308.39,
+   "cambio": -2.42,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }

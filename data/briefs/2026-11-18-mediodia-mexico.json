@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-18-mediodia-mexico",
+ "fecha": "2026-11-18",
+ "momento": "mediodia",
+ "mercado": "mexico",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "El peso se debilita 1.6% a 18.70 y el IPC cae 1.5%; la caída de los metales pesa sobre México",
+  "esencial": [
+   "A las 11:38 CDMX el peso cotizaba en 18.70 por dólar (+1.59% el dólar), su nivel más débil en dos semanas.",
+   "A las 11:18 CDMX el S&P/BMV IPC caía 1.54% a 69,302.46 puntos, arrastrado por la caída del cobre, la plata y el crudo.",
+   "Para supply chain: hoy rige para pagos el FIX de 18.5525 y desde mañana el de 18.4677, ambos más bajos que el mercado: si puedes, liquida pagos en dólares con FIX en lugar de comprar al tipo de cambio de hoy."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el IPC caía 0.9% y el peso se debilitaba a 18.60, presionado por el dólar fuerte y la caída de los metales; el FIX del martes fue de 18.4677."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:18 CDMX el S&P/BMV IPC estaba en 69,302.46 puntos (−1.54%). A las 11:38 el peso cotizaba en 18.70 por dólar (+1.59% el dólar), mientras el índice del dólar subía 0.30% a 103.79."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "La caída se aceleró en la mañana: el peso perdió otros 10 centavos desde la apertura y el IPC amplió su baja, con el cobre (−5.4%), la plata (−4.8%) y el crudo (−3.5%) a la baja. Otras monedas de la región también se debilitan: el peso chileno está en 1,005 y el colombiano en 3,350."
+   }
+  ],
+  "scm": "El peso está en 18.70, por arriba del FIX de hoy (18.5525) y del de mañana (18.4677): si tienes pagos en dólares que puedes liquidar al FIX, hazlo en lugar de comprar dólares al tipo de cambio del mercado, y escalona las compras de diciembre."
+ },
+ "en": {
+  "titular": "The peso weakens 1.6% to 18.70 and the IPC falls 1.5%; the drop in metals weighs on Mexico",
+  "esencial": [
+   "At 11:38 a.m. Mexico City time the peso traded at 18.70 per dollar (dollar +1.59%), its weakest in two weeks.",
+   "At 11:18 a.m. the S&P/BMV IPC was down 1.54% at 69,302.46 points, dragged by the drop in copper, silver and crude.",
+   "For supply chain: today the 18.5525 FIX applies to payments and from tomorrow 18.4677, both below the market: if you can, settle dollar payments at the FIX instead of buying at today's rate."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the IPC was down 0.9% and the peso weakened to 18.60, pressured by the strong dollar and the drop in metals; Tuesday's FIX was 18.4677."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:18 a.m. Mexico City time the S&P/BMV IPC stood at 69,302.46 points (−1.54%). At 11:38 the peso traded at 18.70 per dollar (dollar +1.59%), while the dollar index rose 0.30% to 103.79."
+   },
+   {
+    "t": "What surprised",
+    "x": "The decline accelerated through the morning: the peso lost another 10 centavos from the open and the IPC extended its drop, with copper (−5.4%), silver (−4.8%) and crude (−3.5%) lower. Other currencies in the region are also weakening: the Chilean peso is at 1,005 and the Colombian peso at 3,350."
+   }
+  ],
+  "scm": "The peso is at 18.70, above today's FIX (18.5525) and tomorrow's (18.4677): if you have dollar payments you can settle at the FIX, do so instead of buying dollars at the market rate, and stagger December purchases."
+ },
+ "pt": {
+  "titular": "O peso se enfraquece 1,6% para 18,70 e o IPC cai 1,5%; a queda dos metais pesa sobre o México",
+  "esencial": [
+   "Às 11h38 (Cidade do México) o peso era cotado a 18,70 por dólar (dólar +1,59%), seu nível mais fraco em duas semanas.",
+   "Às 11h18 o S&P/BMV IPC caía 1,54% para 69.302,46 pontos, puxado pela queda do cobre, da prata e do petróleo.",
+   "Para supply chain: hoje vale para pagamentos o FIX de 18,5525 e a partir de amanhã o de 18,4677, ambos abaixo do mercado: se puder, liquide pagamentos em dólares pelo FIX em vez de comprar à cotação de hoje."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o IPC caía 0,9% e o peso se enfraquecia para 18,60, pressionado pelo dólar forte e pela queda dos metais; o FIX de terça foi de 18,4677."
+   },
+   {
+    "t": "Como vai",
+    "x": "Às 11h18 (Cidade do México) o S&P/BMV IPC estava em 69.302,46 pontos (−1,54%). Às 11h38 o peso era cotado a 18,70 por dólar (dólar +1,59%), enquanto o índice do dólar subia 0,30% para 103,79."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A queda se acelerou durante a manhã: o peso perdeu outros 10 centavos desde a abertura e o IPC ampliou a baixa, com o cobre (−5,4%), a prata (−4,8%) e o petróleo (−3,5%) em queda. Outras moedas da região também se enfraquecem: o peso chileno está em 1.005 e o colombiano em 3.350."
+   }
+  ],
+  "scm": "O peso está em 18,70, acima do FIX de hoje (18,5525) e do de amanhã (18,4677): se você tem pagamentos em dólares que pode liquidar pelo FIX, faça isso em vez de comprar dólares à cotação do mercado, e escalone as compras de dezembro."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 18 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (17 nov 2026: 18.4677)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=es"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

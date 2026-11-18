@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-18T15:11:50Z",
+ "actualizado": "2026-11-18T17:40:17Z",
  "fecha": "2026-11-18",
  "titular": {
-  "es": "Miércoles: Nvidia supera lo esperado, Target y TJX suben y el cobre se desploma 5%",
-  "en": "Wednesday: Nvidia beats, Target and TJX rise and copper plunges 5%",
-  "pt": "Quarta: a Nvidia supera o esperado, Target e TJX sobem e o cobre despenca 5%"
+  "es": "Mediodía: Nvidia pasa a la baja, el crudo cae 3.5% y el cobre toca su nivel más bajo desde abril",
+  "en": "Midday: Nvidia turns lower, crude falls 3.5% and copper hits its lowest since April",
+  "pt": "Meio-dia: a Nvidia passa a cair, o petróleo cai 3,5% e o cobre toca o nível mais baixo desde abril"
  },
  "items": [
   {
@@ -17,14 +17,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Nvidia supera lo esperado: ingresos de 115,800 millones y 390,000 millones en compromisos de compra",
-    "en": "Nvidia beats: $115.8 billion in revenue and $390 billion in purchase commitments",
-    "pt": "A Nvidia supera o esperado: receita de 115,8 bilhões e 390 bilhões em compromissos de compra"
+    "es": "Nvidia pasa a perder 2.1% pese a su reporte récord; AMD y Broadcom suben",
+    "en": "Nvidia turns 2.1% lower despite its record report; AMD and Broadcom rise",
+    "pt": "A Nvidia passa a cair 2,1% apesar do resultado recorde; AMD e Broadcom sobem"
    },
    "x": {
-    "es": "Nvidia reportó ingresos por 115,800 millones de dólares en el tercer trimestre (se esperaban 109,150 millones), prevé entre 127,400 y 132,600 millones para el cuarto y reporta 390,000 millones en compromisos de compra de infraestructura. A las 9:08 CDMX su acción cedía 0.4% tras subir más de 3% antes de la apertura; AMD subía 2.2% y Broadcom 2.2%.",
-    "en": "Nvidia reported third-quarter revenue of $115.8 billion (expected $109.15 billion), guided to $127.4 to $132.6 billion for the fourth quarter and reports $390 billion in infrastructure purchase commitments. At 10:08 a.m. ET its stock gave up 0.4% after rising more than 3% before the open; AMD rose 2.2% and Broadcom 2.2%.",
-    "pt": "A Nvidia reportou receita de 115,8 bilhões de dólares no terceiro trimestre (esperavam-se 109,15 bilhões), prevê entre 127,4 e 132,6 bilhões para o quarto e informa 390 bilhões em compromissos de compra de infraestrutura. Às 9h08 (Cidade do México) a ação cedia 0,4% depois de subir mais de 3% antes da abertura; a AMD subia 2,2% e a Broadcom 2,2%."
+    "es": "Nvidia caía 2.1% a las 11:38 CDMX, después de subir más de 3% antes de la apertura; según The Wall Street Journal, su reporte no calmó las dudas sobre la inversión en IA y la acción ha perdido más de un tercio de su valor desde principios de octubre. AMD subía 2.8% y Broadcom 3.1%.",
+    "en": "Nvidia was down 2.1% at 12:38 p.m. ET, after rising more than 3% before the open; according to The Wall Street Journal, its report did not ease doubts about AI spending and the stock has lost more than a third of its value since early October. AMD rose 2.8% and Broadcom 3.1%.",
+    "pt": "A Nvidia caía 2,1% às 11h38 (Cidade do México), depois de subir mais de 3% antes da abertura; segundo o The Wall Street Journal, o resultado não acalmou as dúvidas sobre o investimento em IA e a ação perdeu mais de um terço do valor desde o início de outubro. A AMD subia 2,8% e a Broadcom 3,1%."
    },
    "scm": {
     "es": "La demanda sigue fuerte: asegura hoy asignaciones y fechas de GPU y servidores para el primer trimestre.",
@@ -33,12 +33,16 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: 3 cifras que explican el reporte de Nvidia (18 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/article/3-numbers-explains-why-nvidia-stock-is-rising-despite-no-jensen-huang-on-the-earnings-call-105004324.html"
+     "t": "The Wall Street Journal: las acciones bajan; el reporte de Nvidia no calma los nervios (18 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-rally-nvidia-earnings-093700969.html"
     },
     {
-     "t": "24/7 Wall St.: los resultados de Nvidia mueven al mercado (18 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nvidia-earnings-141544178.html"
+     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 11:38 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
+    },
+    {
+     "t": "Yahoo Finance: 3 cifras que explican el reporte de Nvidia (18 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/article/3-numbers-explains-why-nvidia-stock-is-rising-despite-no-jensen-huang-on-the-earnings-call-105004324.html"
     }
    ]
   },
@@ -52,14 +56,14 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo cae 1.8% por mayores inventarios en EE. UU.; el diésel baja 2.2% a 3.88 dólares",
-    "en": "Crude falls 1.8% on higher US inventories; diesel drops 2.2% to $3.88",
-    "pt": "O petróleo cai 1,8% por estoques maiores nos EUA; o diesel cai 2,2% para 3,88 dólares"
+    "es": "El WTI cae 3.5% a 81.69 dólares y el diésel 2.5%: se desvanece la prima de riesgo de Ormuz",
+    "en": "WTI falls 3.5% to $81.69 and diesel 2.5% as the Hormuz risk premium fades",
+    "pt": "O WTI cai 3,5% para 81,69 dólares e o diesel 2,5%: some o prêmio de risco de Ormuz"
    },
    "x": {
-    "es": "A las 8:58 CDMX el WTI estaba en 83.09 dólares (−1.8%) y el Brent en 89.25 (−1.2%); el API reportó un aumento de 5.28 millones de barriles en inventarios de crudo de EE. UU. y de 5.12 millones en gasolina. El futuro del diésel bajaba 2.2% a 3.88 dólares por galón; ambos crudos van hacia una caída mensual de cerca de 20%.",
-    "en": "At 9:58 a.m. ET WTI was at $83.09 (−1.8%) and Brent at $89.25 (−1.2%); the API reported a 5.28 million-barrel build in US crude inventories and 5.12 million in gasoline. Diesel futures fell 2.2% to $3.88 a gallon; both crudes are heading for a monthly drop of about 20%.",
-    "pt": "Às 8h58 (Cidade do México) o WTI estava a 83,09 dólares (−1,8%) e o Brent a 89,25 (−1,2%); o API reportou alta de 5,28 milhões de barris nos estoques de petróleo dos EUA e de 5,12 milhões em gasolina. O futuro do diesel caía 2,2% para 3,88 dólares por galão; os dois petróleos caminham para uma queda mensal de cerca de 20%."
+    "es": "A las 11:28 CDMX el WTI estaba en 81.69 dólares (−3.5%), el Brent en 88.31 (−2.3%) y el diésel en futuros en 3.87 dólares por galón (−2.5%). Investing.com atribuye la caída al superávit previsto y a que se desvanece la prima de riesgo por Ormuz; el WTI acumula −17% en un mes.",
+    "en": "At 12:28 p.m. ET WTI was at $81.69 (−3.5%), Brent at $88.31 (−2.3%) and diesel futures at $3.87 a gallon (−2.5%). Investing.com attributes the drop to the expected surplus and a fading Hormuz risk premium; WTI is down 17% in a month.",
+    "pt": "Às 11h28 (Cidade do México) o WTI estava a 81,69 dólares (−3,5%), o Brent a 88,31 (−2,3%) e o diesel nos futuros a 3,87 dólares por galão (−2,5%). O Investing.com atribui a queda ao superávit previsto e ao fim do prêmio de risco por Ormuz; o WTI acumula −17% em um mês."
    },
    "scm": {
     "es": "Pide a tus transportistas que el recargo de combustible baje con el diésel en la próxima revisión semanal.",
@@ -68,11 +72,11 @@
    },
    "fuentes": [
     {
-     "t": "InvestorsHub: el petróleo baja por mayores inventarios en EE. UU. (18 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-prices-decline-rising-us-102355771.html"
+     "t": "Investing.com: el petróleo cae por el superávit previsto y se desvanece la prima de riesgo de Ormuz (18 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-slides-surplus-outlook-hormuz-172136849.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -87,9 +91,9 @@
    "en": "Retail and last mile",
    "pt": "Varejo e última milha",
    "titular": {
-    "es": "Target y TJX suben con fuerza; Lowe's eleva ventas pero baja su margen por combustible y mano de obra",
-    "en": "Target and TJX rise sharply; Lowe's raises sales but cuts its margin on fuel and labor",
-    "pt": "Target e TJX sobem forte; a Lowe's eleva vendas, mas reduz a margem por combustível e mão de obra"
+    "es": "Target sube 6.6% y TJX 11% tras sus reportes; Lowe's recorta margen por combustible y mano de obra",
+    "en": "Target rises 6.6% and TJX 11% after their reports; Lowe's trims margin on fuel and labor",
+    "pt": "Target sobe 6,6% e TJX 11% depois dos resultados; a Lowe's reduz a margem por combustível e mão de obra"
    },
    "x": {
     "es": "Target reportó ventas por 27,100 millones de dólares (+7.1%), su mejor crecimiento en cinco años, y elevó su guía; su acción subía 5.7%, y TJX 9.7%. Lowe's elevó su guía de ventas a unos 92,500 millones, pero bajó su margen operativo esperado a 11.1% por mayores costos de combustible y mano de obra.",
@@ -192,14 +196,14 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "El cobre se desploma 5.2% a 5.67 dólares; el oro baja de 3,800 y la plata cae 4.5%",
-    "en": "Copper plunges 5.2% to $5.67; gold drops below $3,800 and silver falls 4.5%",
-    "pt": "O cobre despenca 5,2% para 5,67 dólares; o ouro cai abaixo de 3.800 e a prata cai 4,5%"
+    "es": "El cobre cae a su nivel más bajo desde abril (5.66 dólares) y acumula −10.6% en una semana",
+    "en": "Copper falls to its lowest since April ($5.66) and is down 10.6% in a week",
+    "pt": "O cobre cai ao nível mais baixo desde abril (5,66 dólares) e acumula −10,6% em uma semana"
    },
    "x": {
-    "es": "A las 8:58 CDMX el cobre estaba en 5.67 dólares por libra (−5.2%), la plata en 45.23 (−4.5%) y el oro en 3,769 (−2.5%), su primer nivel debajo de 3,800 en más de un año, con un dólar fuerte y la expectativa de más alzas de la Fed.",
-    "en": "At 9:58 a.m. ET copper was at $5.67 per pound (−5.2%), silver at $45.23 (−4.5%) and gold at $3,769 (−2.5%), its first level below $3,800 in more than a year, with a strong dollar and expectations of more Fed hikes.",
-    "pt": "Às 8h58 (Cidade do México) o cobre estava a 5,67 dólares por libra (−5,2%), a prata a 45,23 (−4,5%) e o ouro a 3.769 (−2,5%), seu primeiro nível abaixo de 3.800 em mais de um ano, com dólar forte e expectativa de mais altas do Fed."
+    "es": "El cobre estaba en 5.66 dólares por libra (−5.4%) a las 11:28 CDMX, su nivel más bajo desde abril según The Wall Street Journal, y acumula −10.6% en una semana y −14.4% en un mes. Investing.com lo atribuye a la salida de quienes lo compraban como apuesta a la infraestructura de IA y a una menor prima por posibles aranceles de EE. UU., pese a una oferta física ajustada. El oro cae 3.0% a 3,750.",
+    "en": "Copper was at $5.66 per pound (−5.4%) at 12:28 p.m. ET, its lowest since April according to The Wall Street Journal, and is down 10.6% in a week and 14.4% in a month. Investing.com attributes it to an exit by those who bought it as an AI infrastructure play and a smaller premium for possible US tariffs, despite tight physical supply. Gold falls 3.0% to $3,750.",
+    "pt": "O cobre estava a 5,66 dólares por libra (−5,4%) às 11h28 (Cidade do México), no nível mais baixo desde abril segundo o The Wall Street Journal, e acumula −10,6% em uma semana e −14,4% em um mês. O Investing.com atribui a queda à saída de quem o comprava como aposta na infraestrutura de IA e a um prêmio menor por possíveis tarifas dos EUA, apesar da oferta física apertada. O ouro cai 3,0% para 3.750."
    },
    "scm": {
     "es": "Cotiza hoy cable, conectores e insumos de cobre para el primer trimestre.",
@@ -208,7 +212,15 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 09:08 CDMX)",
+     "t": "The Wall Street Journal: el cobre, en su nivel más bajo desde abril (18 nov 2026)",
+     "u": "https://finance.yahoo.com/m/383e3761-bb69-33a1-b6cb-36191bad9165/copper-at-lowest-since-april.html"
+    },
+    {
+     "t": "Investing.com: el cobre cae pese a la oferta física ajustada (18 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/commodities/articles/copper-slides-despite-tight-physical-171222473.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]

@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-18-mediodia-global",
+ "fecha": "2026-11-18",
+ "momento": "mediodia",
+ "mercado": "global",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "Nvidia pasa a perder 2.1% pese a su reporte; el crudo cae 3.5% y el cobre toca su nivel más bajo desde abril",
+  "esencial": [
+   "A las 11:38 CDMX el S&P 500 estaba plano (+0.01%), el Nasdaq subía 0.53% y el Dow bajaba 0.76%; Nvidia caía 2.1%, mientras Target subía 6.6% y TJX 11.0%.",
+   "El WTI caía 3.5% a 81.69 dólares por el superávit previsto y una menor prima de riesgo en Ormuz; el cobre bajaba 5.4% a 5.66, su nivel más bajo desde abril.",
+   "Para supply chain: el diésel cae 2.5% a 3.87 dólares por galón; pide que bajen los recargos y cotiza cable, pero prepárate para un dólar más caro si la Fed sube más."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura Wall Street estaba dividido: el Nasdaq subía 0.56% por el reporte de Nvidia y el Dow bajaba 0.81% después de que un funcionario de la Fed pidió un alza de tasas mayor; el cobre caía 5.2% y el crudo 1.8%."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:38 CDMX el S&P 500 estaba en 7,341.42 (+0.01%), el Nasdaq en 24,458.14 (+0.53%) y el Dow en 50,373.42 (−0.76%); el Russell 2000 subía 1.0% y el VIX bajaba 5.0% a 24.18. Nvidia caía 2.1% (152.17 dólares), mientras AMD subía 2.8%, Broadcom 3.1%, Target 6.6% y TJX 11.0%. Europa cerró a la baja: Euro Stoxx 50 −0.93% y DAX −1.19%. El Treasury a 10 años bajaba a 5.06%, su tercer día de alza en precios. El WTI caía 3.5% a 81.69 dólares, el Brent 2.3% a 88.31 y el diésel en futuros 2.5% a 3.87; el oro bajaba 3.0% a 3,750, la plata 4.8% y el cobre 5.4% a 5.66 dólares por libra."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "Nvidia pasó de subir más de 3% antes de la apertura a caer 2.1%: según The Wall Street Journal, su reporte récord no calmó las dudas sobre la inversión en IA, y la acción ha perdido más de un tercio de su valor desde principios de octubre. El cobre tocó su nivel más bajo desde abril y acumula −10.6% en una semana, por la salida de inversionistas que lo compraban como apuesta a la infraestructura de IA, según Investing.com."
+   }
+  ],
+  "scm": "El diésel en futuros baja a 3.87 dólares por galón y el crudo 3.5%: pide a tus transportistas que el recargo de combustible baje en la próxima revisión. Con el cobre en su nivel más bajo desde abril, cotiza cable y conectores para el primer trimestre."
+ },
+ "en": {
+  "titular": "Nvidia turns 2.1% lower despite its report; crude falls 3.5% and copper hits its lowest since April",
+  "esencial": [
+   "At 12:38 p.m. ET the S&P 500 was flat (+0.01%), the Nasdaq up 0.53% and the Dow down 0.76%; Nvidia fell 2.1%, while Target rose 6.6% and TJX 11.0%.",
+   "WTI fell 3.5% to $81.69 on the expected surplus and a smaller risk premium in Hormuz; copper fell 5.4% to $5.66, its lowest since April.",
+   "For supply chain: diesel falls 2.5% to $3.87 a gallon; ask for lower surcharges and quote cable, but prepare for a costlier dollar if the Fed hikes more."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open Wall Street was split: the Nasdaq rose 0.56% on Nvidia's report and the Dow fell 0.81% after a Fed official called for a bigger rate hike; copper fell 5.2% and crude 1.8%."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 12:38 p.m. ET the S&P 500 stood at 7,341.42 (+0.01%), the Nasdaq at 24,458.14 (+0.53%) and the Dow at 50,373.42 (−0.76%); the Russell 2000 rose 1.0% and the VIX fell 5.0% to 24.18. Nvidia fell 2.1% ($152.17), while AMD rose 2.8%, Broadcom 3.1%, Target 6.6% and TJX 11.0%. Europe closed lower: Euro Stoxx 50 −0.93% and DAX −1.19%. The 10-year Treasury yield eased to 5.06%, a third day of gains in prices. WTI fell 3.5% to $81.69, Brent 2.3% to $88.31 and diesel futures 2.5% to $3.87; gold fell 3.0% to $3,750, silver 4.8% and copper 5.4% to $5.66 per pound."
+   },
+   {
+    "t": "What surprised",
+    "x": "Nvidia went from rising more than 3% before the open to falling 2.1%: according to The Wall Street Journal, its record report did not ease doubts about AI spending, and the stock has lost more than a third of its value since early October. Copper hit its lowest since April and is down 10.6% in a week, as investors who bought it as an AI infrastructure play exit, according to Investing.com."
+   }
+  ],
+  "scm": "Diesel futures drop to $3.87 a gallon and crude 3.5%: ask your carriers to lower the fuel surcharge at the next review. With copper at its lowest since April, quote cable and connectors for the first quarter."
+ },
+ "pt": {
+  "titular": "A Nvidia passa a cair 2,1% apesar do resultado; o petróleo cai 3,5% e o cobre toca o nível mais baixo desde abril",
+  "esencial": [
+   "Às 11h38 (Cidade do México) o S&P 500 estava estável (+0,01%), o Nasdaq subia 0,53% e o Dow caía 0,76%; a Nvidia caía 2,1%, enquanto a Target subia 6,6% e a TJX 11,0%.",
+   "O WTI caía 3,5% para 81,69 dólares pelo superávit previsto e um prêmio de risco menor em Ormuz; o cobre caía 5,4% para 5,66, o nível mais baixo desde abril.",
+   "Para supply chain: o diesel cai 2,5% para 3,87 dólares por galão; peça sobretaxas menores e cote cabos, mas prepare-se para um dólar mais caro se o Fed subir mais os juros."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura Wall Street estava dividida: o Nasdaq subia 0,56% pelo resultado da Nvidia e o Dow caía 0,81% depois que um dirigente do Fed pediu uma alta de juros maior; o cobre caía 5,2% e o petróleo 1,8%."
+   },
+   {
+    "t": "Como vai",
+    "x": "Às 11h38 (Cidade do México) o S&P 500 estava em 7.341,42 (+0,01%), o Nasdaq em 24.458,14 (+0,53%) e o Dow em 50.373,42 (−0,76%); o Russell 2000 subia 1,0% e o VIX caía 5,0% para 24,18. A Nvidia caía 2,1% (152,17 dólares), enquanto a AMD subia 2,8%, a Broadcom 3,1%, a Target 6,6% e a TJX 11,0%. A Europa fechou em queda: Euro Stoxx 50 −0,93% e DAX −1,19%. O rendimento do Treasury de 10 anos caía para 5,06%, no terceiro dia de alta nos preços. O WTI caía 3,5% para 81,69 dólares, o Brent 2,3% para 88,31 e o diesel nos futuros 2,5% para 3,87; o ouro caía 3,0% para 3.750, a prata 4,8% e o cobre 5,4% para 5,66 dólares por libra."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A Nvidia passou de subir mais de 3% antes da abertura a cair 2,1%: segundo o The Wall Street Journal, o resultado recorde não acalmou as dúvidas sobre o investimento em IA, e a ação perdeu mais de um terço do valor desde o início de outubro. O cobre tocou o nível mais baixo desde abril e acumula −10,6% em uma semana, pela saída de investidores que o compravam como aposta na infraestrutura de IA, segundo o Investing.com."
+   }
+  ],
+  "scm": "O diesel nos futuros cai para 3,87 dólares por galão e o petróleo 3,5%: peça aos transportadores que a sobretaxa de combustível caia na próxima revisão. Com o cobre no nível mais baixo desde abril, cote cabos e conectores para o primeiro trimestre."
+ },
+ "fuentes": [
+  {
+   "t": "The Wall Street Journal: las acciones bajan; el reporte de Nvidia no calma los nervios (18 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-rally-nvidia-earnings-093700969.html"
+  },
+  {
+   "t": "Investor's Business Daily: el Dow cae por temor a un 'shock' de alzas de tasas (18 nov 2026)",
+   "u": "https://finance.yahoo.com/m/3b6d51d3-7bfb-3b08-a92e-3b70e9f0655b/stock-market-today%3A-dow-drops.html"
+  },
+  {
+   "t": "Investing.com: el petróleo cae por el superávit previsto y se desvanece la prima de riesgo de Ormuz (18 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-slides-surplus-outlook-hormuz-172136849.html"
+  },
+  {
+   "t": "Investing.com: el cobre cae pese a la oferta física ajustada (18 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/copper-slides-despite-tight-physical-171222473.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

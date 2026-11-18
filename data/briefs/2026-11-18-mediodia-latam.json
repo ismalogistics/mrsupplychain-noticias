@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-18-mediodia-latam",
+ "fecha": "2026-11-18",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "El Ibovespa cae 1.4% y Perú 3.5% con los metales; el peso chileno sube a 1,005 y el colombiano a 3,350",
+  "esencial": [
+   "A las 11:23 CDMX el Ibovespa bajaba 1.40% (167,442.90) y el ETF de MSCI de Perú 3.53%; Chile caía 2.16% y Argentina 2.11%.",
+   "El dólar subía a 1,005.4 pesos chilenos (+1.31%), 3,350 pesos colombianos (+1.46%) y 5.82 reales (+1.03%).",
+   "Para supply chain: las monedas de la región se debilitan con fuerza; escalona los pagos y aprovecha el cobre en mínimos de abril para cotizar."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el cobre arrastraba a Perú (−3.3%) y Chile (−1.6%), y el peso chileno pasaba de 1,000 por dólar."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:23 CDMX el Ibovespa estaba en 167,442.90 (−1.40%) y a las 11:38 el S&P/TSX de Canadá bajaba 1.59%. Los ETF de MSCI caían 3.53% en Perú, 2.16% en Chile y 2.11% en Argentina. El dólar estaba en 1,005.4 pesos chilenos (+1.31%), 3,350 pesos colombianos (+1.46%), 5.82 reales (+1.03%), 1,558.5 pesos argentinos (+0.42%) y 1.433 dólares canadienses (+0.26%)."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "La venta se extendió a Brasil, que en la apertura casi no se movía. El cobre está en su nivel más bajo desde abril (5.66 dólares, −5.4%) y el crudo cae 3.5%, lo que pega a Chile, Perú y Colombia a la vez."
+   }
+  ],
+  "scm": "Escalona los pagos en pesos chilenos, colombianos y reales, que se debilitan más de 1%. Con el cobre en su nivel más bajo desde abril, cotiza cable e insumos de cobre del primer trimestre."
+ },
+ "en": {
+  "titular": "The Ibovespa falls 1.4% and Peru 3.5% on metals; the dollar rises to 1,005 Chilean and 3,350 Colombian pesos",
+  "esencial": [
+   "At 11:23 a.m. Mexico City time the Ibovespa was down 1.40% (167,442.90) and the MSCI Peru ETF 3.53%; Chile fell 2.16% and Argentina 2.11%.",
+   "The dollar rose to 1,005.4 Chilean pesos (+1.31%), 3,350 Colombian pesos (+1.46%) and 5.82 reais (+1.03%).",
+   "For supply chain: the region's currencies are weakening sharply; stagger payments and use copper at April lows to get quotes."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open copper was dragging Peru (−3.3%) and Chile (−1.6%), and the Chilean peso crossed 1,000 per dollar."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:23 a.m. Mexico City time the Ibovespa stood at 167,442.90 (−1.40%) and at 11:38 Canada's S&P/TSX was down 1.59%. The MSCI ETFs fell 3.53% for Peru, 2.16% for Chile and 2.11% for Argentina. The dollar stood at 1,005.4 Chilean pesos (+1.31%), 3,350 Colombian pesos (+1.46%), 5.82 reais (+1.03%), 1,558.5 Argentine pesos (+0.42%) and 1.433 Canadian dollars (+0.26%)."
+   },
+   {
+    "t": "What surprised",
+    "x": "The selling spread to Brazil, which barely moved at the open. Copper is at its lowest since April ($5.66, −5.4%) and crude falls 3.5%, hitting Chile, Peru and Colombia at the same time."
+   }
+  ],
+  "scm": "Stagger payments in Chilean pesos, Colombian pesos and reais, which weaken more than 1%. With copper at its lowest since April, quote first-quarter cable and copper inputs."
+ },
+ "pt": {
+  "titular": "O Ibovespa cai 1,4% e o Peru 3,5% com os metais; o dólar sobe para 1.005 pesos chilenos e 3.350 colombianos",
+  "esencial": [
+   "Às 11h23 (Cidade do México) o Ibovespa caía 1,40% (167.442,90) e o ETF da MSCI do Peru 3,53%; o Chile caía 2,16% e a Argentina 2,11%.",
+   "O dólar subia para 1.005,4 pesos chilenos (+1,31%), 3.350 pesos colombianos (+1,46%) e R$ 5,82 (+1,03%).",
+   "Para supply chain: as moedas da região se enfraquecem com força; escalone os pagamentos e aproveite o cobre na mínima de abril para cotar."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o cobre arrastava o Peru (−3,3%) e o Chile (−1,6%), e o peso chileno passava de 1.000 por dólar."
+   },
+   {
+    "t": "Como vai",
+    "x": "Às 11h23 (Cidade do México) o Ibovespa estava em 167.442,90 (−1,40%) e às 11h38 o S&P/TSX do Canadá caía 1,59%. Os ETFs da MSCI caíam 3,53% no Peru, 2,16% no Chile e 2,11% na Argentina. O dólar estava em 1.005,4 pesos chilenos (+1,31%), 3.350 pesos colombianos (+1,46%), R$ 5,82 (+1,03%), 1.558,5 pesos argentinos (+0,42%) e 1,433 dólar canadense (+0,26%)."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A venda se estendeu ao Brasil, que na abertura quase não se mexia. O cobre está no nível mais baixo desde abril (5,66 dólares, −5,4%) e o petróleo cai 3,5%, o que atinge Chile, Peru e Colômbia ao mesmo tempo."
+   }
+  ],
+  "scm": "Escalone os pagamentos em pesos chilenos, colombianos e reais, que se enfraquecem mais de 1%. Com o cobre no nível mais baixo desde abril, cote cabos e insumos de cobre do primeiro trimestre."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "The Wall Street Journal: el cobre, en su nivel más bajo desde abril (18 nov 2026)",
+   "u": "https://finance.yahoo.com/m/383e3761-bb69-33a1-b6cb-36191bad9165/copper-at-lowest-since-april.html"
+  }
+ ]
+}
