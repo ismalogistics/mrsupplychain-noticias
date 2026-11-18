@@ -1,0 +1,99 @@
+{
+ "id": "2026-11-18-premercado-global",
+ "fecha": "2026-11-18",
+ "momento": "premercado",
+ "mercado": "global",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Nvidia supera lo esperado y los futuros del Nasdaq suben 1.2%; el cobre se hunde 3.9% y el oro baja de 3,800",
+  "esencial": [
+   "Nvidia reportó ingresos por 115,800 millones de dólares en el tercer trimestre, arriba de los 109,150 millones esperados, y prevé entre 127,400 y 132,600 millones para el cuarto; su acción subía 3.1% antes de la apertura.",
+   "A las 4:58 CDMX los futuros del Nasdaq 100 subían 1.20% y los del S&P 500 0.65%; el cobre caía 3.9% a 5.75 dólares, el oro 2.3% a 3,774 y el Brent 1.0% a 89.46.",
+   "Para supply chain: la demanda de cómputo sigue fuerte (390,000 millones en compromisos de compra de Nvidia), así que asegura asignaciones de GPU; con el cobre y el crudo a la baja, cotiza cable y revisa recargos."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "Nvidia reportó su primer trimestre sin Jensen Huang: ingresos por 115,800 millones de dólares y utilidad ajustada de 2.68 dólares por acción, contra 109,150 millones y 2.47 esperados; prevé ingresos de 127,400 a 132,600 millones en el cuarto trimestre (el mercado esperaba 125,250) y elevó a 75% su meta de crecimiento para el año fiscal 2028. Reporta 390,000 millones de dólares en compromisos de compra y el consejo dijo que no reinstalará a Huang. SQM triplicó su utilidad (544 millones de dólares), pero advirtió que los precios del litio han caído y que sus precios del cuarto trimestre serían bastante menores. En el Reino Unido, la inflación de octubre subió a 3.6%, su máximo en 12 meses, por los combustibles."
+   },
+   {
+    "t": "Asia, Europa y futuros",
+    "x": "Asia cerró mixta tras el reporte: KOSPI +1.99% (5,067.44), Nikkei +0.28% (59,024.28), Taiwán −2.06%, Shanghái −0.41% y Hang Seng −1.93%. A las 4:53 CDMX el Euro Stoxx 50 subía 0.28%, el DAX 0.18% y el FTSE 100 bajaba 0.33%. A las 4:58 CDMX los futuros del Nasdaq 100 subían 1.20%, los del S&P 500 0.65% y los del Dow 0.27%; el VIX bajaba 7.3% a 23.61. El índice del dólar subía 0.27% a 103.76 y el euro estaba en 1.0971. El Brent caía 1.0% a 89.46 dólares y el WTI 1.5% a 83.41, por un aumento de 5.28 millones de barriles en inventarios de EE. UU. según el API; el oro caía 2.3% a 3,774, su primer nivel debajo de 3,800 en más de un año, la plata 3.4% y el cobre 3.9% a 5.75 dólares por libra."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Antes de la apertura reportan Target, Lowe's y TJX; a las 7:30 CDMX salen los inicios de construcción de vivienda de octubre (se esperan +4.4% mensual) y los permisos (−1.6%). A las 13:00 CDMX la Fed publica las minutas de su reunión de octubre. Después del cierre Anthropic fija el precio de su salida a bolsa, que empieza a cotizar mañana jueves; también reporta Palo Alto Networks."
+   }
+  ],
+  "scm": "El reporte de Nvidia confirma que la demanda de cómputo sigue fuerte: si compras servidores o GPU, asegura hoy asignaciones y fechas para el primer trimestre. El cobre cae 3.9% y el crudo 1%: es buen momento para cotizar cable y conectores y para pedir que bajen los recargos de combustible."
+ },
+ "en": {
+  "titular": "Nvidia beats and Nasdaq futures rise 1.2%; copper sinks 3.9% and gold drops below $3,800",
+  "esencial": [
+   "Nvidia reported third-quarter revenue of $115.8 billion, above the expected $109.15 billion, and guided to $127.4 to $132.6 billion for the fourth; its stock was up 3.1% before the open.",
+   "At 5:58 a.m. ET Nasdaq 100 futures were up 1.20% and S&P 500 futures 0.65%; copper fell 3.9% to $5.75, gold 2.3% to $3,774 and Brent 1.0% to $89.46.",
+   "For supply chain: compute demand remains strong (Nvidia's $390 billion in purchase commitments), so secure GPU allocations; with copper and crude lower, quote cable and review surcharges."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "Nvidia reported its first quarter without Jensen Huang: revenue of $115.8 billion and adjusted EPS of $2.68, versus $109.15 billion and $2.47 expected; it guided to fourth-quarter revenue of $127.4 to $132.6 billion (the market expected $125.25 billion) and raised its fiscal 2028 growth target to 75%. It reports $390 billion in purchase commitments, and the board said it will not reinstate Huang. SQM tripled its profit ($544 million) but warned lithium prices have fallen and its fourth-quarter prices would be substantially lower. In the UK, October inflation rose to 3.6%, a 12-month high, on fuel costs."
+   },
+   {
+    "t": "Asia, Europe and futures",
+    "x": "Asia closed mixed after the report: KOSPI +1.99% (5,067.44), Nikkei +0.28% (59,024.28), Taiwan −2.06%, Shanghai −0.41% and Hang Seng −1.93%. At 5:53 a.m. ET the Euro Stoxx 50 was up 0.28%, the DAX 0.18% and the FTSE 100 down 0.33%. At 5:58 a.m. ET Nasdaq 100 futures were up 1.20%, S&P 500 futures 0.65% and Dow futures 0.27%; the VIX fell 7.3% to 23.61. The dollar index rose 0.27% to 103.76 and the euro was at 1.0971. Brent fell 1.0% to $89.46 and WTI 1.5% to $83.41, on a 5.28 million-barrel build in US inventories according to the API; gold fell 2.3% to $3,774, its first level below $3,800 in more than a year, silver 3.4% and copper 3.9% to $5.75 per pound."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Target, Lowe's and TJX report before the open; at 8:30 a.m. ET October housing starts (expected +4.4% month on month) and building permits (−1.6%) come out. At 2:00 p.m. ET the Fed releases the minutes of its October meeting. After the close Anthropic prices its IPO, which begins trading tomorrow, Thursday; Palo Alto Networks also reports."
+   }
+  ],
+  "scm": "Nvidia's report confirms compute demand remains strong: if you buy servers or GPUs, secure first-quarter allocations and dates today. Copper falls 3.9% and crude 1%: a good time to quote cable and connectors and to ask for lower fuel surcharges."
+ },
+ "pt": {
+  "titular": "A Nvidia supera o esperado e os futuros do Nasdaq sobem 1,2%; o cobre afunda 3,9% e o ouro cai abaixo de 3.800",
+  "esencial": [
+   "A Nvidia reportou receita de 115,8 bilhões de dólares no terceiro trimestre, acima dos 109,15 bilhões esperados, e prevê entre 127,4 e 132,6 bilhões para o quarto; a ação subia 3,1% antes da abertura.",
+   "Às 4h58 (Cidade do México) os futuros do Nasdaq 100 subiam 1,20% e os do S&P 500 0,65%; o cobre caía 3,9% para 5,75 dólares, o ouro 2,3% para 3.774 e o Brent 1,0% para 89,46.",
+   "Para supply chain: a demanda por computação segue forte (390 bilhões de dólares em compromissos de compra da Nvidia), então garanta alocações de GPUs; com o cobre e o petróleo em queda, cote cabos e revise as sobretaxas."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "A Nvidia divulgou seu primeiro trimestre sem Jensen Huang: receita de 115,8 bilhões de dólares e lucro ajustado de 2,68 dólares por ação, contra 109,15 bilhões e 2,47 esperados; prevê receita de 127,4 a 132,6 bilhões no quarto trimestre (o mercado esperava 125,25) e elevou para 75% sua meta de crescimento para o ano fiscal de 2028. Informa 390 bilhões de dólares em compromissos de compra, e o conselho disse que não vai reconduzir Huang. A SQM triplicou o lucro (544 milhões de dólares), mas alertou que os preços do lítio caíram e que seus preços do quarto trimestre seriam bem menores. No Reino Unido, a inflação de outubro subiu para 3,6%, a máxima em 12 meses, pelos combustíveis."
+   },
+   {
+    "t": "Ásia, Europa e futuros",
+    "x": "A Ásia fechou mista depois do resultado: KOSPI +1,99% (5.067,44), Nikkei +0,28% (59.024,28), Taiwan −2,06%, Xangai −0,41% e Hang Seng −1,93%. Às 4h53 (Cidade do México) o Euro Stoxx 50 subia 0,28%, o DAX 0,18% e o FTSE 100 caía 0,33%. Às 4h58 os futuros do Nasdaq 100 subiam 1,20%, os do S&P 500 0,65% e os do Dow 0,27%; o VIX caía 7,3% para 23,61. O índice do dólar subia 0,27% para 103,76 e o euro estava em 1,0971. O Brent caía 1,0% para 89,46 dólares e o WTI 1,5% para 83,41, por um aumento de 5,28 milhões de barris nos estoques dos EUA segundo o API; o ouro caía 2,3% para 3.774, seu primeiro nível abaixo de 3.800 em mais de um ano, a prata 3,4% e o cobre 3,9% para 5,75 dólares por libra."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Antes da abertura divulgam resultados Target, Lowe's e TJX; às 7h30 (Cidade do México) saem os inícios de construção de moradias de outubro (espera-se +4,4% no mês) e as licenças (−1,6%). Às 13h00 o Fed publica a ata da reunião de outubro. Depois do fechamento a Anthropic define o preço do IPO, que começa a ser negociado amanhã, quinta; a Palo Alto Networks também divulga resultados."
+   }
+  ],
+  "scm": "O resultado da Nvidia confirma que a demanda por computação segue forte: se você compra servidores ou GPUs, garanta hoje alocações e prazos para o primeiro trimestre. O cobre cai 3,9% e o petróleo 1%: bom momento para cotar cabos e conectores e pedir sobretaxas de combustível menores."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: 3 cifras que explican por qué sube Nvidia (18 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/article/3-numbers-explains-why-nvidia-stock-is-rising-despite-no-jensen-huang-on-the-earnings-call-105004324.html"
+  },
+  {
+   "t": "Yahoo Finance: los futuros suben después de que Nvidia supera lo esperado; Anthropic fija hoy el precio de su salida a bolsa (18 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html"
+  },
+  {
+   "t": "InvestorsHub: el petróleo baja por mayores inventarios en EE. UU. (18 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-prices-decline-rising-us-102355771.html"
+  },
+  {
+   "t": "AFP: la inflación del Reino Unido llega a su máximo en 12 meses por los combustibles (18 nov 2026)",
+   "u": "https://finance.yahoo.com/economy/policy/articles/uk-inflation-hits-12-month-101331264.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (18 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

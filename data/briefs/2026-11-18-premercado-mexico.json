@@ -1,0 +1,91 @@
+{
+ "id": "2026-11-18-premercado-mexico",
+ "fecha": "2026-11-18",
+ "momento": "premercado",
+ "mercado": "mexico",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El peso amanece más débil en 18.50 con el dólar en máximos; desde hoy rige el FIX de 18.5525",
+  "esencial": [
+   "A las 5:08 CDMX el peso cotizaba en 18.50 por dólar (+0.51% el dólar), después de cerrar ayer en 18.42.",
+   "Desde hoy los pagos en dólares en México se liquidan con el FIX de 18.5525, 6 centavos abajo del de ayer (18.6188).",
+   "Para supply chain: con el peso más débil en la mañana, escalona las compras de dólares y aprovecha el FIX más bajo para liquidar pagos hoy."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El S&P/BMV IPC cerró ayer en 70,386.42 puntos (−1.15%). En la noche el peso se debilitó: a las 5:08 CDMX cotizaba en 18.50 por dólar (+0.51% el dólar), con el índice del dólar en 103.76 (+0.27%). Desde hoy rige para pagos el FIX de 18.5525, determinado el viernes 13."
+   },
+   {
+    "t": "Contexto",
+    "x": "El reporte de Nvidia mejora el ánimo en los futuros de EE. UU. (S&P 500 +0.65%), lo que favorece al IPC, pero el dólar se fortalece por la expectativa de que la Fed suba tasas en diciembre. La caída del cobre (−3.9%), la plata (−3.4%) y el crudo (−1.0%) pesa sobre las mineras y Pemex."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "La agenda local es ligera; la Fed publica sus minutas a las 13:00 CDMX. El 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre y el 27 la balanza comercial de octubre."
+   }
+  ],
+  "scm": "Liquida hoy los pagos en dólares que puedas con el FIX de 18.5525, más bajo que el de ayer. Con el peso en 18.50 en la mañana, escalona las compras de dólares durante el día en lugar de cerrar todo temprano."
+ },
+ "en": {
+  "titular": "The peso starts weaker at 18.50 with the dollar near highs; the 18.5525 FIX applies from today",
+  "esencial": [
+   "At 5:08 a.m. Mexico City time the peso traded at 18.50 per dollar (dollar +0.51%), after closing yesterday at 18.42.",
+   "From today, dollar payments in Mexico settle at the 18.5525 FIX, 6 centavos below yesterday's (18.6188).",
+   "For supply chain: with the peso weaker in the morning, stagger dollar purchases and use the lower FIX to settle payments today."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "The S&P/BMV IPC closed yesterday at 70,386.42 points (−1.15%). Overnight the peso weakened: at 5:08 a.m. Mexico City time it traded at 18.50 per dollar (dollar +0.51%), with the dollar index at 103.76 (+0.27%). From today the 18.5525 FIX, set on Friday the 13th, applies to payments."
+   },
+   {
+    "t": "Context",
+    "x": "Nvidia's report lifts sentiment in US futures (S&P 500 +0.65%), which helps the IPC, but the dollar is strengthening on expectations of a Fed hike in December. The drop in copper (−3.9%), silver (−3.4%) and crude (−1.0%) weighs on miners and Pemex."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The local agenda is light; the Fed releases its minutes at 1:00 p.m. Mexico City time. On November 24 INEGI publishes first-half November inflation and on the 27th the October trade balance."
+   }
+  ],
+  "scm": "Settle the dollar payments you can today at the 18.5525 FIX, lower than yesterday's. With the peso at 18.50 in the morning, stagger dollar purchases through the day instead of closing everything early."
+ },
+ "pt": {
+  "titular": "O peso amanhece mais fraco em 18,50 com o dólar perto das máximas; a partir de hoje vale o FIX de 18,5525",
+  "esencial": [
+   "Às 5h08 (Cidade do México) o peso era cotado a 18,50 por dólar (dólar +0,51%), depois de fechar ontem em 18,42.",
+   "A partir de hoje os pagamentos em dólares no México são liquidados com o FIX de 18,5525, 6 centavos abaixo do de ontem (18,6188).",
+   "Para supply chain: com o peso mais fraco pela manhã, escalone as compras de dólares e aproveite o FIX mais baixo para liquidar pagamentos hoje."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "O S&P/BMV IPC fechou ontem em 70.386,42 pontos (−1,15%). Durante a noite o peso se enfraqueceu: às 5h08 (Cidade do México) era cotado a 18,50 por dólar (dólar +0,51%), com o índice do dólar em 103,76 (+0,27%). A partir de hoje vale para pagamentos o FIX de 18,5525, definido na sexta, dia 13."
+   },
+   {
+    "t": "Contexto",
+    "x": "O resultado da Nvidia melhora o ânimo nos futuros dos EUA (S&P 500 +0,65%), o que favorece o IPC, mas o dólar se fortalece pela expectativa de alta do Fed em dezembro. A queda do cobre (−3,9%), da prata (−3,4%) e do petróleo (−1,0%) pesa sobre as mineradoras e a Pemex."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "A agenda local é leve; o Fed publica a ata às 13h00 (Cidade do México). Em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro e no dia 27 a balança comercial de outubro."
+   }
+  ],
+  "scm": "Liquide hoje os pagamentos em dólares que puder com o FIX de 18,5525, mais baixo que o de ontem. Com o peso a 18,50 pela manhã, escalone as compras de dólares ao longo do dia em vez de fechar tudo cedo."
+ },
+ "fuentes": [
+  {
+   "t": "Banxico: tipo de cambio FIX y para pagos",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (18 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Yahoo Finance: los futuros suben después de que Nvidia supera lo esperado; Anthropic fija hoy el precio de su salida a bolsa (18 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html"
+  }
+ ]
+}

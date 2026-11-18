@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-18-premercado-global",
+   "fecha": "2026-11-18",
+   "momento": "premercado",
+   "mercado": "global",
+   "titular_es": "Nvidia supera lo esperado y los futuros del Nasdaq suben 1.2%; el cobre se hunde 3.9% y el oro baja de 3,800",
+   "titular_en": "Nvidia beats and Nasdaq futures rise 1.2%; copper sinks 3.9% and gold drops below $3,800",
+   "titular_pt": "A Nvidia supera o esperado e os futuros do Nasdaq sobem 1,2%; o cobre afunda 3,9% e o ouro cai abaixo de 3.800"
+  },
+  {
+   "id": "2026-11-18-premercado-latam",
+   "fecha": "2026-11-18",
+   "momento": "premercado",
+   "mercado": "latam",
+   "titular_es": "SQM triplica su utilidad pero advierte litio más barato; el cobre cae 3.9% y presiona a Chile y Perú",
+   "titular_en": "SQM triples its profit but warns of cheaper lithium; copper falls 3.9%, weighing on Chile and Peru",
+   "titular_pt": "A SQM triplica o lucro, mas alerta para lítio mais barato; o cobre cai 3,9% e pressiona Chile e Peru"
+  },
+  {
+   "id": "2026-11-18-premercado-mexico",
+   "fecha": "2026-11-18",
+   "momento": "premercado",
+   "mercado": "mexico",
+   "titular_es": "El peso amanece más débil en 18.50 con el dólar en máximos; desde hoy rige el FIX de 18.5525",
+   "titular_en": "The peso starts weaker at 18.50 with the dollar near highs; the 18.5525 FIX applies from today",
+   "titular_pt": "O peso amanhece mais fraco em 18,50 com o dólar perto das máximas; a partir de hoje vale o FIX de 18,5525"
+  },
+  {
    "id": "2026-11-17-cierre-global",
    "fecha": "2026-11-17",
    "momento": "cierre",
@@ -782,33 +809,6 @@
    "titular_es": "El peso se fortalece a 18.61 y el IPC sube 0.4%; la BMV cierra su mejor semana en meses",
    "titular_en": "The peso strengthens to 18.61 and the IPC rises 0.4%; the BMV closes its best week in months",
    "titular_pt": "O peso se fortalece a 18,61 e o IPC sobe 0,4%; a BMV fecha sua melhor semana em meses"
-  },
-  {
-   "id": "2026-11-06-apertura-global",
-   "fecha": "2026-11-06",
-   "momento": "apertura",
-   "mercado": "global",
-   "titular_es": "EE. UU. crea 165 mil empleos, casi tres veces lo esperado; el Nasdaq rebota 1.7%, pero crece la apuesta por un alza de la Fed en diciembre",
-   "titular_en": "The US adds 165,000 jobs, nearly three times expectations; the Nasdaq rebounds 1.7%, but bets on a December Fed hike grow",
-   "titular_pt": "Os EUA criam 165 mil empregos, quase três vezes o esperado; o Nasdaq sobe 1,7%, mas cresce a aposta em alta do Fed em dezembro"
-  },
-  {
-   "id": "2026-11-06-apertura-latam",
-   "fecha": "2026-11-06",
-   "momento": "apertura",
-   "mercado": "latam",
-   "titular_es": "Las monedas de la región se debilitan con el dólar fuerte; las bolsas vienen de fuertes caídas el jueves",
-   "titular_en": "The region's currencies weaken on a strong dollar; stocks come off steep losses Thursday",
-   "titular_pt": "As moedas da região se enfraquecem com o dólar forte; as bolsas vêm de quedas fortes na quinta"
-  },
-  {
-   "id": "2026-11-06-apertura-mexico",
-   "fecha": "2026-11-06",
-   "momento": "apertura",
-   "mercado": "mexico",
-   "titular_es": "El peso se recupera a 18.69 tras el golpe de Banxico, pese al dólar fuerte por el empleo de EE. UU.",
-   "titular_en": "The peso recovers to 18.69 after Banxico's blow, despite a strong dollar on US jobs",
-   "titular_pt": "O peso se recupera a 18,69 após o golpe do Banxico, apesar do dólar forte pelo emprego dos EUA"
   }
  ]
 }
