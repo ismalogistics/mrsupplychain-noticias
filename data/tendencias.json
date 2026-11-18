@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-18T17:40:17Z",
+ "actualizado": "2026-11-18T21:18:35Z",
  "fecha": "2026-11-18",
  "titular": {
-  "es": "Mediodía: Nvidia pasa a la baja, el crudo cae 3.5% y el cobre toca su nivel más bajo desde abril",
-  "en": "Midday: Nvidia turns lower, crude falls 3.5% and copper hits its lowest since April",
-  "pt": "Meio-dia: a Nvidia passa a cair, o petróleo cai 3,5% e o cobre toca o nível mais baixo desde abril"
+  "es": "Miércoles: la Fed anticipa más alzas, el cobre cierra en mínimos desde abril y Nvidia cae pese a ingresos récord",
+  "en": "Wednesday: the Fed signals more hikes, copper closes at its lowest since April and Nvidia falls despite record revenue",
+  "pt": "Quarta: o Fed sinaliza mais altas, o cobre fecha na mínima desde abril e a Nvidia cai apesar da receita recorde"
  },
  "items": [
   {
@@ -17,14 +17,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Nvidia pasa a perder 2.1% pese a su reporte récord; AMD y Broadcom suben",
-    "en": "Nvidia turns 2.1% lower despite its record report; AMD and Broadcom rise",
-    "pt": "A Nvidia passa a cair 2,1% apesar do resultado recorde; AMD e Broadcom sobem"
+    "es": "Nvidia cierra con −2.9% pese a ingresos récord; AMD sube 5.3% y Broadcom 3.6%",
+    "en": "Nvidia closes −2.9% despite record revenue; AMD rises 5.3% and Broadcom 3.6%",
+    "pt": "A Nvidia fecha com −2,9% apesar da receita recorde; a AMD sobe 5,3% e a Broadcom 3,6%"
    },
    "x": {
-    "es": "Nvidia caía 2.1% a las 11:38 CDMX, después de subir más de 3% antes de la apertura; según The Wall Street Journal, su reporte no calmó las dudas sobre la inversión en IA y la acción ha perdido más de un tercio de su valor desde principios de octubre. AMD subía 2.8% y Broadcom 3.1%.",
-    "en": "Nvidia was down 2.1% at 12:38 p.m. ET, after rising more than 3% before the open; according to The Wall Street Journal, its report did not ease doubts about AI spending and the stock has lost more than a third of its value since early October. AMD rose 2.8% and Broadcom 3.1%.",
-    "pt": "A Nvidia caía 2,1% às 11h38 (Cidade do México), depois de subir mais de 3% antes da abertura; segundo o The Wall Street Journal, o resultado não acalmou as dúvidas sobre o investimento em IA e a ação perdeu mais de um terço do valor desde o início de outubro. A AMD subia 2,8% e a Broadcom 3,1%."
+    "es": "Nvidia cerró con −2.9% (150.96 dólares) pese a reportar ingresos por 115,800 millones (+103%) y prever unos 130,000 millones para el siguiente trimestre; según The Wall Street Journal, el reporte no despejó las dudas sobre la inversión en IA. AMD subió 5.3% y Broadcom 3.6%.",
+    "en": "Nvidia closed −2.9% ($150.96) despite reporting revenue of $115.8 billion (+103%) and guiding to about $130 billion for the next quarter; according to The Wall Street Journal, the report did not clear doubts about AI spending. AMD rose 5.3% and Broadcom 3.6%.",
+    "pt": "A Nvidia fechou com −2,9% (150,96 dólares) apesar de reportar receita de 115,8 bilhões (+103%) e prever cerca de 130 bilhões para o próximo trimestre; segundo o The Wall Street Journal, o resultado não dissipou as dúvidas sobre o investimento em IA. A AMD subiu 5,3% e a Broadcom 3,6%."
    },
    "scm": {
     "es": "La demanda sigue fuerte: asegura hoy asignaciones y fechas de GPU y servidores para el primer trimestre.",
@@ -37,12 +37,12 @@
      "u": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-rally-nvidia-earnings-093700969.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 11:38 CDMX)",
-     "u": "https://finance.yahoo.com/markets/"
+     "t": "StockTitan: Wall Street hoy, 18 de noviembre de 2026 (Waller, Nvidia, Target, TJX, Anthropic)",
+     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
     },
     {
-     "t": "Yahoo Finance: 3 cifras que explican el reporte de Nvidia (18 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/article/3-numbers-explains-why-nvidia-stock-is-rising-despite-no-jensen-huang-on-the-earnings-call-105004324.html"
+     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 15:15 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
@@ -56,14 +56,14 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El WTI cae 3.5% a 81.69 dólares y el diésel 2.5%: se desvanece la prima de riesgo de Ormuz",
-    "en": "WTI falls 3.5% to $81.69 and diesel 2.5% as the Hormuz risk premium fades",
-    "pt": "O WTI cai 3,5% para 81,69 dólares e o diesel 2,5%: some o prêmio de risco de Ormuz"
+    "es": "El WTI cierra con −3.4% a 81.80 dólares; el diésel baja a 3.87",
+    "en": "WTI closes −3.4% at $81.80; diesel drops to $3.87",
+    "pt": "O WTI fecha com −3,4% a 81,80 dólares; o diesel cai para 3,87"
    },
    "x": {
-    "es": "A las 11:28 CDMX el WTI estaba en 81.69 dólares (−3.5%), el Brent en 88.31 (−2.3%) y el diésel en futuros en 3.87 dólares por galón (−2.5%). Investing.com atribuye la caída al superávit previsto y a que se desvanece la prima de riesgo por Ormuz; el WTI acumula −17% en un mes.",
-    "en": "At 12:28 p.m. ET WTI was at $81.69 (−3.5%), Brent at $88.31 (−2.3%) and diesel futures at $3.87 a gallon (−2.5%). Investing.com attributes the drop to the expected surplus and a fading Hormuz risk premium; WTI is down 17% in a month.",
-    "pt": "Às 11h28 (Cidade do México) o WTI estava a 81,69 dólares (−3,5%), o Brent a 88,31 (−2,3%) e o diesel nos futuros a 3,87 dólares por galão (−2,5%). O Investing.com atribui a queda ao superávit previsto e ao fim do prêmio de risco por Ormuz; o WTI acumula −17% em um mês."
+    "es": "El WTI terminó en 81.80 dólares (−3.4%), el Brent en 88.69 (−1.9%) y el futuro del diésel en 3.87 dólares por galón (−2.5%), por el superávit previsto y una menor prima de riesgo en Ormuz; el WTI acumula −17% en un mes.",
+    "en": "WTI ended at $81.80 (−3.4%), Brent at $88.69 (−1.9%) and diesel futures at $3.87 a gallon (−2.5%), on the expected surplus and a smaller risk premium in Hormuz; WTI is down 17% in a month.",
+    "pt": "O WTI terminou a 81,80 dólares (−3,4%), o Brent a 88,69 (−1,9%) e o futuro do diesel a 3,87 dólares por galão (−2,5%), pelo superávit previsto e um prêmio de risco menor em Ormuz; o WTI acumula −17% em um mês."
    },
    "scm": {
     "es": "Pide a tus transportistas que el recargo de combustible baje con el diésel en la próxima revisión semanal.",
@@ -76,7 +76,7 @@
      "u": "https://finance.yahoo.com/energy/articles/oil-slides-surplus-outlook-hormuz-172136849.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 11:38 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 15:15 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -91,14 +91,14 @@
    "en": "Retail and last mile",
    "pt": "Varejo e última milha",
    "titular": {
-    "es": "Target sube 6.6% y TJX 11% tras sus reportes; Lowe's recorta margen por combustible y mano de obra",
-    "en": "Target rises 6.6% and TJX 11% after their reports; Lowe's trims margin on fuel and labor",
-    "pt": "Target sobe 6,6% e TJX 11% depois dos resultados; a Lowe's reduz a margem por combustível e mão de obra"
+    "es": "TJX cierra con +8.1% y Target con +4.0%; parte de sus utilidades vino de reembolsos de aranceles",
+    "en": "TJX closes +8.1% and Target +4.0%; part of their earnings came from tariff refunds",
+    "pt": "TJX fecha com +8,1% e Target com +4,0%; parte dos lucros veio de reembolsos de tarifas"
    },
    "x": {
-    "es": "Target reportó ventas por 27,100 millones de dólares (+7.1%), su mejor crecimiento en cinco años, y elevó su guía; su acción subía 5.7%, y TJX 9.7%. Lowe's elevó su guía de ventas a unos 92,500 millones, pero bajó su margen operativo esperado a 11.1% por mayores costos de combustible y mano de obra.",
-    "en": "Target reported sales of $27.1 billion (+7.1%), its best growth in five years, and raised its guidance; its stock was up 5.7%, and TJX 9.7%. Lowe's raised its sales outlook to about $92.5 billion but lowered its expected operating margin to 11.1% on higher fuel and labor costs.",
-    "pt": "A Target reportou vendas de 27,1 bilhões de dólares (+7,1%), seu melhor crescimento em cinco anos, e elevou a projeção; a ação subia 5,7%, e a TJX 9,7%. A Lowe's elevou a projeção de vendas para cerca de 92,5 bilhões, mas reduziu a margem operacional esperada para 11,1% por custos maiores de combustível e mão de obra."
+    "es": "TJX cerró con +8.1% y Target con +4.0% tras sus reportes; según StockTitan, la utilidad por acción de Target (2.65 dólares) incluyó 0.50 de reembolsos de aranceles y la de TJX (1.39) unos 0.05. Lowe's cerró con +1.0% pese a recortar su margen por combustible y mano de obra. Mañana reporta Walmart.",
+    "en": "TJX closed +8.1% and Target +4.0% after their reports; according to StockTitan, Target's EPS ($2.65) included $0.50 from tariff refunds and TJX's ($1.39) about $0.05. Lowe's closed +1.0% despite trimming its margin on fuel and labor. Walmart reports tomorrow.",
+    "pt": "A TJX fechou com +8,1% e a Target com +4,0% depois dos resultados; segundo a StockTitan, o lucro por ação da Target (2,65 dólares) incluiu 0,50 de reembolsos de tarifas e o da TJX (1,39) cerca de 0,05. A Lowe's fechou com +1,0% apesar de reduzir a margem por combustível e mão de obra. Amanhã o Walmart divulga resultados."
    },
    "scm": {
     "es": "Si exportas a minoristas de EE. UU., confirma pedidos de temporada: el consumo resiste, pero los costos de combustible y mano de obra aprietan márgenes.",
@@ -107,8 +107,8 @@
    },
    "fuentes": [
     {
-     "t": "Proactive: las ventas de Target suben 7.1% en el tercer trimestre (18 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/target-reports-7-1-rise-142500617.html"
+     "t": "StockTitan: Wall Street hoy, 18 de noviembre de 2026 (Waller, Nvidia, Target, TJX, Anthropic)",
+     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
     },
     {
      "t": "Yahoo Finance: Lowe's eleva su guía de ventas pese a la vivienda; baja su margen por combustible y mano de obra (18 nov 2026)",
@@ -161,14 +161,14 @@
    "en": "Software and AI for supply chain",
    "pt": "Software e IA para supply chain",
    "titular": {
-    "es": "EasyPost, plataforma de envíos con IA, saldrá a bolsa; Anthropic fija hoy el precio de su oferta",
-    "en": "EasyPost, an AI shipping platform, will go public; Anthropic prices its offering today",
-    "pt": "A EasyPost, plataforma de envios com IA, vai abrir capital; a Anthropic define hoje o preço da oferta"
+    "es": "Anthropic fija hoy el precio de su salida a bolsa y empieza a cotizar mañana como ANT",
+    "en": "Anthropic prices its IPO today and begins trading tomorrow as ANT",
+    "pt": "A Anthropic define hoje o preço do IPO e começa a ser negociada amanhã como ANT"
    },
    "x": {
-    "es": "EasyPost, plataforma de envíos con IA y API para comercio, anunció que saldrá a bolsa en Nasdaq mediante su fusión con American Drive Acquisition Company. Anthropic fija hoy después del cierre el precio de su salida a bolsa y empieza a cotizar mañana jueves.",
-    "en": "EasyPost, an AI and API shipping platform for commerce, announced it will go public on Nasdaq through a business combination with American Drive Acquisition Company. Anthropic prices its IPO today after the close and begins trading tomorrow, Thursday.",
-    "pt": "A EasyPost, plataforma de envios com IA e API para o comércio, anunciou que vai abrir capital na Nasdaq por meio de fusão com a American Drive Acquisition Company. A Anthropic define hoje, depois do fechamento, o preço do IPO e começa a ser negociada amanhã, quinta."
+    "es": "Según su registro, Anthropic prevé fijar hoy el precio de su salida a bolsa, sujeto a autorización regulatoria, y empezar a cotizar mañana jueves en Nasdaq con la clave ANT. EasyPost, plataforma de envíos con IA, anunció que saldrá a bolsa mediante una fusión con American Drive Acquisition Company.",
+    "en": "According to its filing, Anthropic expects to price its IPO today, subject to regulatory clearance, and begin trading tomorrow, Thursday, on Nasdaq under the ticker ANT. EasyPost, an AI shipping platform, announced it will go public through a merger with American Drive Acquisition Company.",
+    "pt": "Segundo o registro, a Anthropic prevê definir hoje o preço do IPO, sujeito a autorização regulatória, e começar a ser negociada amanhã, quinta, na Nasdaq com o código ANT. A EasyPost, plataforma de envios com IA, anunciou que vai abrir capital por meio de fusão com a American Drive Acquisition Company."
    },
    "scm": {
     "es": "Si usas plataformas de paquetería o etiquetas, revisa con tu proveedor si sus precios o condiciones cambian con la salida a bolsa.",
@@ -177,12 +177,12 @@
    },
    "fuentes": [
     {
-     "t": "Business Wire: EasyPost, plataforma de envíos con IA, saldrá a bolsa en Nasdaq (18 nov 2026)",
-     "u": "https://finance.yahoo.com/technology/ai/articles/easypost-leading-shipping-ai-api-123000713.html"
+     "t": "StockTitan: Wall Street hoy, 18 de noviembre de 2026 (Waller, Nvidia, Target, TJX, Anthropic)",
+     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
     },
     {
-     "t": "Yahoo Finance: Anthropic fija hoy el precio de su salida a bolsa (18 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html"
+     "t": "Business Wire: EasyPost, plataforma de envíos con IA, saldrá a bolsa en Nasdaq (18 nov 2026)",
+     "u": "https://finance.yahoo.com/technology/ai/articles/easypost-leading-shipping-ai-api-123000713.html"
     }
    ]
   },
@@ -196,14 +196,14 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "El cobre cae a su nivel más bajo desde abril (5.66 dólares) y acumula −10.6% en una semana",
-    "en": "Copper falls to its lowest since April ($5.66) and is down 10.6% in a week",
-    "pt": "O cobre cai ao nível mais baixo desde abril (5,66 dólares) e acumula −10,6% em uma semana"
+    "es": "El cobre cierra en su nivel más bajo desde abril (5.67 dólares) y el oro cae 3.5%",
+    "en": "Copper closes at its lowest since April ($5.67) and gold falls 3.5%",
+    "pt": "O cobre fecha no nível mais baixo desde abril (5,67 dólares) e o ouro cai 3,5%"
    },
    "x": {
-    "es": "El cobre estaba en 5.66 dólares por libra (−5.4%) a las 11:28 CDMX, su nivel más bajo desde abril según The Wall Street Journal, y acumula −10.6% en una semana y −14.4% en un mes. Investing.com lo atribuye a la salida de quienes lo compraban como apuesta a la infraestructura de IA y a una menor prima por posibles aranceles de EE. UU., pese a una oferta física ajustada. El oro cae 3.0% a 3,750.",
-    "en": "Copper was at $5.66 per pound (−5.4%) at 12:28 p.m. ET, its lowest since April according to The Wall Street Journal, and is down 10.6% in a week and 14.4% in a month. Investing.com attributes it to an exit by those who bought it as an AI infrastructure play and a smaller premium for possible US tariffs, despite tight physical supply. Gold falls 3.0% to $3,750.",
-    "pt": "O cobre estava a 5,66 dólares por libra (−5,4%) às 11h28 (Cidade do México), no nível mais baixo desde abril segundo o The Wall Street Journal, e acumula −10,6% em uma semana e −14,4% em um mês. O Investing.com atribui a queda à saída de quem o comprava como aposta na infraestrutura de IA e a um prêmio menor por possíveis tarifas dos EUA, apesar da oferta física apertada. O ouro cai 3,0% para 3.750."
+    "es": "El cobre terminó en 5.67 dólares por libra (−5.2%), su nivel más bajo desde abril, la plata en 44.97 (−5.1%) y el oro en 3,729 (−3.5%), con un dólar fuerte por las minutas de la Fed; los ETF de MSCI de Perú y Chile cayeron 4.4% y 2.7%.",
+    "en": "Copper ended at $5.67 per pound (−5.2%), its lowest since April, silver at $44.97 (−5.1%) and gold at $3,729 (−3.5%), with a strong dollar after the Fed minutes; the MSCI Peru and Chile ETFs fell 4.4% and 2.7%.",
+    "pt": "O cobre terminou a 5,67 dólares por libra (−5,2%), no nível mais baixo desde abril, a prata a 44,97 (−5,1%) e o ouro a 3.729 (−3,5%), com dólar forte pela ata do Fed; os ETFs da MSCI do Peru e do Chile caíram 4,4% e 2,7%."
    },
    "scm": {
     "es": "Cotiza hoy cable, conectores e insumos de cobre para el primer trimestre.",
@@ -216,11 +216,7 @@
      "u": "https://finance.yahoo.com/m/383e3761-bb69-33a1-b6cb-36191bad9165/copper-at-lowest-since-april.html"
     },
     {
-     "t": "Investing.com: el cobre cae pese a la oferta física ajustada (18 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/commodities/articles/copper-slides-despite-tight-physical-171222473.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 11:38 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 15:15 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]

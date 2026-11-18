@@ -1,0 +1,103 @@
+{
+ "id": "2026-11-18-cierre-global",
+ "fecha": "2026-11-18",
+ "momento": "cierre",
+ "mercado": "global",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Las minutas de la Fed anticipan más alzas: el Dow cae 1.1%, el oro 3.5% y el cobre 5.2%",
+  "esencial": [
+   "El S&P 500 cerró con −0.23% (7,323.63), el Nasdaq con +0.42% (24,429.89) y el Dow con −1.11% (50,198.17); Nvidia terminó con −2.9% pese a su reporte, y AMD subió 5.3%.",
+   "Las minutas muestran que casi todos los miembros de la Fed ven probable que sigan las alzas y algunos prefieren 50 puntos base; el gobernador Christopher Waller dijo que un alza de medio punto probablemente será necesaria en diciembre.",
+   "Para supply chain: con alzas más fuertes en puerta, el dólar se encarece y financiar inventario cuesta más; en cambio, el diésel (3.87 dólares por galón) y el cobre (5.67) dan margen para renegociar fletes y cotizar cable."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El rebote que anticipaba el reporte de Nvidia no se sostuvo: el S&P 500 cerró en 7,323.63 (−0.23%), el Nasdaq en 24,429.89 (+0.42%) y el Dow en 50,198.17 (−1.11%). Nvidia cayó 2.9% (150.96 dólares) pese a reportar ingresos récord de 115,800 millones, mientras AMD subió 5.3%, Broadcom 3.6%, TJX 8.1% y Target 4.0%. Europa cerró con Euro Stoxx 50 −0.93% y DAX −1.19%. El Treasury a 10 años bajó a 5.07%. El WTI cayó 3.4% a 81.80 dólares y el Brent 1.9% a 88.69; el oro cayó 3.5% a 3,729, la plata 5.1%, el cobre 5.2% a 5.67 dólares por libra y el bitcoin 3.9%."
+   },
+   {
+    "t": "Por qué",
+    "x": "Las minutas de la reunión de octubre de la Fed, publicadas a las 13:00 CDMX, muestran que casi todos los miembros consideran probable que se necesiten más alzas para llevar la inflación a 2% y que algunos favorecen un alza de 50 puntos base, según Bloomberg Línea; antes, el gobernador Christopher Waller dijo a CNBC que un alza de medio punto probablemente será necesaria en la reunión del 8 y 9 de diciembre. El reporte de Nvidia no despejó las dudas sobre la inversión en IA, y su acción ha perdido más de un tercio de su valor desde principios de octubre. En materias primas, el superávit previsto de petróleo y la menor prima de riesgo en Ormuz hundieron el crudo, y el cobre tocó su nivel más bajo desde abril."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Los futuros del S&P 500 terminaban en −0.3% y los del Nasdaq en +0.3%, lo que anticipa una apertura cautelosa en Asia. Mañana jueves reporta Walmart antes de la apertura y Anthropic empieza a cotizar en Nasdaq con la clave ANT, si se fija hoy su precio como prevé su registro."
+   }
+  ],
+  "scm": "Con la Fed rumbo a subir 25 o 50 puntos base en diciembre, revisa cuánto inventario financias con deuda en dólares y si conviene reducir días de cobertura. Aprovecha el diésel en 3.87 dólares por galón y el cobre en 5.67 para renegociar recargos de flete y cotizar cable del primer trimestre."
+ },
+ "en": {
+  "titular": "Fed minutes point to more hikes: the Dow falls 1.1%, gold 3.5% and copper 5.2%",
+  "esencial": [
+   "The S&P 500 closed −0.23% (7,323.63), the Nasdaq +0.42% (24,429.89) and the Dow −1.11% (50,198.17); Nvidia ended −2.9% despite its report, and AMD rose 5.3%.",
+   "The minutes show nearly all Fed members see further hikes as likely and some prefer 50 basis points; Governor Christopher Waller said a half-point hike will probably be needed in December.",
+   "For supply chain: with bigger hikes ahead, the dollar gets pricier and financing inventory costs more; on the other hand, diesel ($3.87 a gallon) and copper ($5.67) give room to renegotiate freight and quote cable."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The rebound Nvidia's report pointed to did not hold: the S&P 500 closed at 7,323.63 (−0.23%), the Nasdaq at 24,429.89 (+0.42%) and the Dow at 50,198.17 (−1.11%). Nvidia fell 2.9% ($150.96) despite record revenue of $115.8 billion, while AMD rose 5.3%, Broadcom 3.6%, TJX 8.1% and Target 4.0%. Europe closed with the Euro Stoxx 50 −0.93% and the DAX −1.19%. The 10-year Treasury eased to 5.07%. WTI fell 3.4% to $81.80 and Brent 1.9% to $88.69; gold fell 3.5% to $3,729, silver 5.1%, copper 5.2% to $5.67 per pound and bitcoin 3.9%."
+   },
+   {
+    "t": "Why",
+    "x": "The minutes of the Fed's October meeting, released at 2:00 p.m. ET, show nearly all members consider further hikes likely necessary to bring inflation to 2% and some favor a 50 basis-point hike, according to Bloomberg Línea; earlier, Governor Christopher Waller told CNBC a half-point hike will probably be needed at the December 8-9 meeting. Nvidia's report did not clear doubts about AI spending, and its stock has lost more than a third of its value since early October. In commodities, the expected oil surplus and a smaller Hormuz risk premium sank crude, and copper hit its lowest since April."
+   },
+   {
+    "t": "What to expect",
+    "x": "S&P 500 futures ended −0.3% and Nasdaq futures +0.3%, pointing to a cautious open in Asia. Tomorrow, Thursday, Walmart reports before the open and Anthropic begins trading on Nasdaq under the ticker ANT, if it prices today as its filing expects."
+   }
+  ],
+  "scm": "With the Fed heading for a 25 or 50 basis-point hike in December, review how much inventory you finance with dollar debt and whether to cut days of cover. Use diesel at $3.87 a gallon and copper at $5.67 to renegotiate freight surcharges and quote first-quarter cable."
+ },
+ "pt": {
+  "titular": "A ata do Fed antecipa mais altas: o Dow cai 1,1%, o ouro 3,5% e o cobre 5,2%",
+  "esencial": [
+   "O S&P 500 fechou com −0,23% (7.323,63), o Nasdaq com +0,42% (24.429,89) e o Dow com −1,11% (50.198,17); a Nvidia terminou com −2,9% apesar do resultado, e a AMD subiu 5,3%.",
+   "A ata mostra que quase todos os membros do Fed veem como provável que as altas continuem e alguns preferem 50 pontos-base; o diretor Christopher Waller disse que uma alta de meio ponto provavelmente será necessária em dezembro.",
+   "Para supply chain: com altas mais fortes pela frente, o dólar fica mais caro e financiar estoque custa mais; por outro lado, o diesel (3,87 dólares por galão) e o cobre (5,67) dão margem para renegociar fretes e cotar cabos."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "A alta que o resultado da Nvidia antecipava não se sustentou: o S&P 500 fechou em 7.323,63 (−0,23%), o Nasdaq em 24.429,89 (+0,42%) e o Dow em 50.198,17 (−1,11%). A Nvidia caiu 2,9% (150,96 dólares) apesar da receita recorde de 115,8 bilhões, enquanto a AMD subiu 5,3%, a Broadcom 3,6%, a TJX 8,1% e a Target 4,0%. A Europa fechou com Euro Stoxx 50 −0,93% e DAX −1,19%. O Treasury de 10 anos caiu para 5,07%. O WTI caiu 3,4% para 81,80 dólares e o Brent 1,9% para 88,69; o ouro caiu 3,5% para 3.729, a prata 5,1%, o cobre 5,2% para 5,67 dólares por libra e o bitcoin 3,9%."
+   },
+   {
+    "t": "Por quê",
+    "x": "A ata da reunião de outubro do Fed, publicada às 13h00 (Cidade do México), mostra que quase todos os membros consideram provável que sejam necessárias mais altas para levar a inflação a 2% e que alguns favorecem uma alta de 50 pontos-base, segundo a Bloomberg Línea; antes, o diretor Christopher Waller disse à CNBC que uma alta de meio ponto provavelmente será necessária na reunião de 8 e 9 de dezembro. O resultado da Nvidia não dissipou as dúvidas sobre o investimento em IA, e a ação perdeu mais de um terço do valor desde o início de outubro. Nas commodities, o superávit previsto de petróleo e o menor prêmio de risco em Ormuz derrubaram o petróleo, e o cobre tocou o nível mais baixo desde abril."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Os futuros do S&P 500 terminavam em −0,3% e os do Nasdaq em +0,3%, o que antecipa uma abertura cautelosa na Ásia. Amanhã, quinta, o Walmart divulga resultados antes da abertura e a Anthropic começa a ser negociada na Nasdaq com o código ANT, se o preço for definido hoje como prevê o registro."
+   }
+  ],
+  "scm": "Com o Fed a caminho de subir 25 ou 50 pontos-base em dezembro, revise quanto estoque você financia com dívida em dólares e se convém reduzir dias de cobertura. Aproveite o diesel a 3,87 dólares por galão e o cobre a 5,67 para renegociar sobretaxas de frete e cotar cabos do primeiro trimestre."
+ },
+ "fuentes": [
+  {
+   "t": "Reserva Federal: minutas de la reunión del FOMC del 27 y 28 de octubre de 2026",
+   "u": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+  },
+  {
+   "t": "Bloomberg Línea: el peso se deprecia hasta 18.88 ante posibles alzas de la Fed (18 nov 2026)",
+   "u": "https://www.bloomberglinea.com/latinoamerica/mexico/dolar-en-mexico-peso-se-deprecia-hasta-mxn1888-ante-posibles-alzas-de-la-fed/"
+  },
+  {
+   "t": "StockTitan: Wall Street hoy, 18 de noviembre de 2026 (Waller, Nvidia, Target, TJX, Anthropic)",
+   "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+  },
+  {
+   "t": "The Wall Street Journal: las acciones bajan; el reporte de Nvidia no calma los nervios (18 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-rally-nvidia-earnings-093700969.html"
+  },
+  {
+   "t": "Investing.com: el petróleo cae por el superávit previsto y se desvanece la prima de riesgo de Ormuz (18 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-slides-surplus-outlook-hormuz-172136849.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 15:15 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

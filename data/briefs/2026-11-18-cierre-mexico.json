@@ -1,0 +1,95 @@
+{
+ "id": "2026-11-18-cierre-mexico",
+ "fecha": "2026-11-18",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El peso se desploma 2.7% a 18.90, la moneda más castigada del día; el IPC cae 1.8%",
+  "esencial": [
+   "El peso terminó en 18.90 por dólar a las 15:15 CDMX (+2.67% el dólar), la mayor depreciación entre las 16 monedas principales que sigue Bloomberg.",
+   "El S&P/BMV IPC cerró en 69,146.97 puntos (−1.76%), arrastrado por la caída de los metales y el temor a más alzas de la Fed.",
+   "Para supply chain: el FIX de mañana (18.4677) queda 43 centavos debajo del mercado; liquida al FIX los pagos que puedas y no compres dólares de golpe al tipo de cambio actual."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El peso terminó en 18.90 por dólar a las 15:15 CDMX (+2.67% el dólar), después de abrir en 18.60; según Bloomberg Línea fue la moneda que más se depreció entre las 16 principales. El S&P/BMV IPC cerró en 69,146.97 puntos (−1.76%), su nivel más bajo en semanas. Hoy rigió para pagos el FIX de 18.5525; mañana rige el de 18.4677, determinado ayer."
+   },
+   {
+    "t": "Por qué",
+    "x": "Las minutas de la Fed mostraron que casi todos sus miembros ven probable subir más las tasas y algunos prefieren 50 puntos base, lo que estrecha el diferencial de tasas con México (Banxico está en 6.25%) y presiona al peso; Gabriela Siller, de Banco Base, prevé 19.00 por dólar si la Fed sube 50 puntos base en diciembre, según Bloomberg Línea. La caída del cobre (−5.2%), la plata (−5.1%) y el crudo (−3.4%) pegó al IPC y a las monedas de exportadores de materias primas."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "El peso y el IPC abrirán mañana pendientes del reporte de Walmart, de peso para Walmex, y de la salida a bolsa de Anthropic. El 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre y el 27 la balanza comercial de octubre."
+   }
+  ],
+  "scm": "Con el peso en 18.90 y el FIX de mañana en 18.4677, liquida al FIX los pagos en dólares que puedas y escalona las compras restantes. Si tu presupuesto 2027 usa un tipo de cambio menor a 19, revisa el escenario: un alza de 50 puntos base de la Fed podría llevar al peso a 19.00 según Banco Base."
+ },
+ "en": {
+  "titular": "The peso plunges 2.7% to 18.90, the day's worst-hit currency; the IPC falls 1.8%",
+  "esencial": [
+   "The peso ended at 18.90 per dollar at 3:15 p.m. Mexico City time (dollar +2.67%), the biggest drop among the 16 major currencies Bloomberg tracks.",
+   "The S&P/BMV IPC closed at 69,146.97 points (−1.76%), dragged by falling metals and fears of more Fed hikes.",
+   "For supply chain: tomorrow's FIX (18.4677) sits 43 centavos below the market; settle what you can at the FIX and don't buy dollars all at once at the current rate."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The peso ended at 18.90 per dollar at 3:15 p.m. Mexico City time (dollar +2.67%), after opening at 18.60; according to Bloomberg Línea it was the most depreciated of the 16 major currencies. The S&P/BMV IPC closed at 69,146.97 points (−1.76%), its lowest in weeks. The 18.5525 FIX applied to payments today; tomorrow the 18.4677 FIX, set yesterday, applies."
+   },
+   {
+    "t": "Why",
+    "x": "The Fed minutes showed nearly all members see further hikes as likely and some prefer 50 basis points, narrowing the rate gap with Mexico (Banxico is at 6.25%) and pressuring the peso; Gabriela Siller of Banco Base expects 19.00 per dollar if the Fed hikes 50 basis points in December, according to Bloomberg Línea. The drop in copper (−5.2%), silver (−5.1%) and crude (−3.4%) hit the IPC and commodity exporters' currencies."
+   },
+   {
+    "t": "What to expect",
+    "x": "The peso and the IPC will open tomorrow watching Walmart's report, important for Walmex, and Anthropic's IPO. On November 24 INEGI publishes first-half November inflation and on the 27th the October trade balance."
+   }
+  ],
+  "scm": "With the peso at 18.90 and tomorrow's FIX at 18.4677, settle the dollar payments you can at the FIX and stagger the rest of your purchases. If your 2027 budget uses an exchange rate below 19, review the scenario: a 50 basis-point Fed hike could take the peso to 19.00, according to Banco Base."
+ },
+ "pt": {
+  "titular": "O peso despenca 2,7% para 18,90, a moeda mais castigada do dia; o IPC cai 1,8%",
+  "esencial": [
+   "O peso terminou em 18,90 por dólar às 15h15 (Cidade do México) (dólar +2,67%), a maior desvalorização entre as 16 principais moedas que a Bloomberg acompanha.",
+   "O S&P/BMV IPC fechou em 69.146,97 pontos (−1,76%), puxado pela queda dos metais e pelo temor de mais altas do Fed.",
+   "Para supply chain: o FIX de amanhã (18,4677) fica 43 centavos abaixo do mercado; liquide pelo FIX os pagamentos que puder e não compre dólares de uma vez à cotação atual."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O peso terminou em 18,90 por dólar às 15h15 (Cidade do México) (dólar +2,67%), depois de abrir em 18,60; segundo a Bloomberg Línea foi a moeda que mais se desvalorizou entre as 16 principais. O S&P/BMV IPC fechou em 69.146,97 pontos (−1,76%), seu nível mais baixo em semanas. Hoje valeu para pagamentos o FIX de 18,5525; amanhã vale o de 18,4677, definido ontem."
+   },
+   {
+    "t": "Por quê",
+    "x": "A ata do Fed mostrou que quase todos os membros veem como provável subir mais os juros e alguns preferem 50 pontos-base, o que estreita o diferencial de juros com o México (o Banxico está em 6,25%) e pressiona o peso; Gabriela Siller, do Banco Base, prevê 19,00 por dólar se o Fed subir 50 pontos-base em dezembro, segundo a Bloomberg Línea. A queda do cobre (−5,2%), da prata (−5,1%) e do petróleo (−3,4%) atingiu o IPC e as moedas de exportadores de commodities."
+   },
+   {
+    "t": "O que se espera",
+    "x": "O peso e o IPC vão abrir amanhã atentos ao resultado do Walmart, importante para o Walmex, e ao IPO da Anthropic. Em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro e no dia 27 a balança comercial de outubro."
+   }
+  ],
+  "scm": "Com o peso a 18,90 e o FIX de amanhã em 18,4677, liquide pelo FIX os pagamentos em dólares que puder e escalone as compras restantes. Se o seu orçamento de 2027 usa um câmbio abaixo de 19, revise o cenário: uma alta de 50 pontos-base do Fed poderia levar o peso a 19,00, segundo o Banco Base."
+ },
+ "fuentes": [
+  {
+   "t": "Bloomberg Línea: el peso se deprecia hasta 18.88 ante posibles alzas de la Fed (18 nov 2026)",
+   "u": "https://www.bloomberglinea.com/latinoamerica/mexico/dolar-en-mexico-peso-se-deprecia-hasta-mxn1888-ante-posibles-alzas-de-la-fed/"
+  },
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 18 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX y para pagos",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=es"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 15:15 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
