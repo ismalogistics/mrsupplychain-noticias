@@ -1,0 +1,86 @@
+{
+ "id": "2026-11-19-apertura-latam",
+ "fecha": "2026-11-19",
+ "momento": "apertura",
+ "mercado": "latam",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "La región abre estable: el Ibovespa sube 0.3% y Chile y Perú suben 0.6%; el peso colombiano se debilita",
+  "esencial": [
+   "A las 8:53 CDMX el Ibovespa subía 0.27% (167,996.88); los ETF de MSCI subían 0.57% en Perú y 0.55% en Chile.",
+   "El dólar subía a 3,389 pesos colombianos (+0.93%) y 3.43 soles (+0.67%), y estaba estable en 1,007 pesos chilenos y 5.86 reales.",
+   "Para supply chain: el crudo al alza ayuda a Colombia, pero su moneda se debilita; escalona los pagos en pesos colombianos."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 8:53 CDMX el Ibovespa subía 0.27% a 167,996.88 y a las 9:08 el S&P/TSX de Canadá bajaba 0.25%. Los ETF de MSCI subían 0.57% en Perú y 0.55% en Chile, y bajaban 0.31% en Argentina. En monedas, a las 9:08 CDMX el dólar estaba en 5.86 reales (+0.14%), 1,006.7 pesos chilenos (−0.07%), 3,389 pesos colombianos (+0.93%), 3.43 soles (+0.67%), 1,561 pesos argentinos (+0.13%) y 1.430 dólares canadienses (−0.13%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "La región se estabiliza tras el desplome de los metales del miércoles; el cobre se mantiene cerca de su mínimo desde abril (5.66 dólares por libra) y el crudo sube 1.6% por los ataques en Ormuz. Chile, Perú y México participaron en la cumbre de APEC en Shenzhen."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "La región seguirá el debut de Anthropic y el ánimo de Wall Street, que rebota con la tecnología."
+   }
+  ],
+  "scm": "Escalona los pagos en pesos colombianos y soles, que se debilitan hoy, y cotiza insumos de cobre con el precio cerca de su mínimo desde abril."
+ },
+ "en": {
+  "titular": "The region opens steady: the Ibovespa rises 0.3% and Chile and Peru gain 0.6%; the Colombian peso weakens",
+  "esencial": [
+   "At 8:53 a.m. Mexico City time the Ibovespa was up 0.27% (167,996.88); the MSCI ETFs rose 0.57% for Peru and 0.55% for Chile.",
+   "The dollar rose to 3,389 Colombian pesos (+0.93%) and 3.43 soles (+0.67%), and was steady at 1,007 Chilean pesos and 5.86 reais.",
+   "For supply chain: higher crude helps Colombia, but its currency weakens; stagger payments in Colombian pesos."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "At 8:53 a.m. Mexico City time the Ibovespa was up 0.27% at 167,996.88 and at 9:08 Canada's S&P/TSX was down 0.25%. The MSCI ETFs rose 0.57% for Peru and 0.55% for Chile, and fell 0.31% for Argentina. In currencies, at 9:08 a.m. the dollar stood at 5.86 reais (+0.14%), 1,006.7 Chilean pesos (−0.07%), 3,389 Colombian pesos (+0.93%), 3.43 soles (+0.67%), 1,561 Argentine pesos (+0.13%) and 1.430 Canadian dollars (−0.13%)."
+   },
+   {
+    "t": "Context",
+    "x": "The region steadies after Wednesday's metals plunge; copper stays near its lowest since April ($5.66 per pound) and crude rises 1.6% on Hormuz attacks. Chile, Peru and Mexico took part in the APEC summit in Shenzhen."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The region will follow Anthropic's debut and the mood on Wall Street, which is rebounding with tech."
+   }
+  ],
+  "scm": "Stagger payments in Colombian pesos and soles, which weaken today, and quote copper inputs with prices near their lowest since April."
+ },
+ "pt": {
+  "titular": "A região abre estável: o Ibovespa sobe 0,3% e Chile e Peru sobem 0,6%; o peso colombiano se enfraquece",
+  "esencial": [
+   "Às 8h53 (Cidade do México) o Ibovespa subia 0,27% (167.996,88); os ETFs da MSCI subiam 0,57% no Peru e 0,55% no Chile.",
+   "O dólar subia para 3.389 pesos colombianos (+0,93%) e 3,43 soles (+0,67%), e estava estável em 1.007 pesos chilenos e R$ 5,86.",
+   "Para supply chain: o petróleo em alta ajuda a Colômbia, mas sua moeda se enfraquece; escalone os pagamentos em pesos colombianos."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 8h53 (Cidade do México) o Ibovespa subia 0,27% para 167.996,88 e às 9h08 o S&P/TSX do Canadá caía 0,25%. Os ETFs da MSCI subiam 0,57% no Peru e 0,55% no Chile, e caíam 0,31% na Argentina. Nas moedas, às 9h08 o dólar estava em R$ 5,86 (+0,14%), 1.006,7 pesos chilenos (−0,07%), 3.389 pesos colombianos (+0,93%), 3,43 soles (+0,67%), 1.561 pesos argentinos (+0,13%) e 1,430 dólar canadense (−0,13%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "A região se estabiliza depois do tombo dos metais de quarta; o cobre se mantém perto da mínima desde abril (5,66 dólares por libra) e o petróleo sobe 1,6% pelos ataques em Ormuz. Chile, Peru e México participaram da cúpula da APEC em Shenzhen."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "A região vai acompanhar a estreia da Anthropic e o ânimo de Wall Street, que volta a subir com a tecnologia."
+   }
+  ],
+  "scm": "Escalone os pagamentos em pesos colombianos e soles, que se enfraquecem hoje, e cote insumos de cobre com o preço perto da mínima desde abril."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (19 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-19-apertura-global",
+ "fecha": "2026-11-19",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "La tecnología rebota antes del debut de Anthropic: el Nasdaq sube 1.7% y Micron 7.7%; Walmart cae pese a superar lo esperado",
+  "esencial": [
+   "A las 9:08 CDMX el Nasdaq subía 1.65%, el S&P 500 0.84% y el Dow estaba plano (−0.04%); Micron subía 7.7%, Nvidia 3.2% y Broadcom 3.3%.",
+   "Walmart superó lo esperado (ingresos de 188,800 millones de dólares) y elevó su guía por tercera vez, pero su acción caía 1.5%; Anthropic empezará a cotizar a partir de su precio de 83 dólares.",
+   "Para supply chain: el crudo sube 1.6% por los ataques a tanqueros en Ormuz, aunque el diésel baja 0.9%; Walmart ya llega a 96% de los hogares de EE. UU. en menos de 3 horas, una señal de la exigencia de última milla."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "Los futuros anticipaban un rebote en tecnología y la apertura lo confirmó: a las 9:08 CDMX el S&P 500 estaba en 7,385.02 (+0.84%), el Nasdaq en 24,831.85 (+1.65%) y el Dow en 50,175.87 (−0.04%); el VIX bajaba 8.4% a 22.49. Micron subía 7.7%, Nvidia 3.2% (155.85 dólares), Broadcom 3.3%, TSMC 2.8% y AMD 2.6%. Walmart reportó ingresos por 188,800 millones de dólares (se esperaban 187,200) y elevó por tercera vez su guía de ventas, a un alza de 4.9% a 5.2%, pero su acción caía 1.5%; sus ventas comparables en EE. UU. crecieron 2.9% y su comercio electrónico 23%. Anthropic, que fijó su precio en 83 dólares, aún no empezaba a cotizar. El Treasury a 10 años subía a 5.10%. El WTI subía 1.6% a 83.64 dólares y el Brent 1.5% por los ataques a tanqueros en Ormuz; el diésel en futuros bajaba 0.9% a 3.85 dólares por galón, el oro 1.0% a 3,704 y el cobre 0.2% a 5.66."
+   },
+   {
+    "t": "Asia y Europa",
+    "x": "Asia cerró mixta: Nikkei +0.71% (59,444.21), KOSPI +1.39% (5,137.89), Taiwán −4.15%, Hang Seng −2.84% y Shanghái −0.19%. A las 8:53 CDMX Europa estaba mixta: Euro Stoxx 50 +0.28%, DAX −0.11%, CAC 40 −0.15% y FTSE 100 −0.28%."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Anthropic empieza a cotizar en Nasdaq con la clave ANT durante la sesión; según Bloomberg, el mercado gris anticipa un alza de 20% a 26%. Trump deja la cumbre de APEC sin anuncios claros sobre controles a chips y aranceles. Mañana viernes vence el contrato de diciembre del WTI."
+   }
+  ],
+  "scm": "El crudo rebota por los ataques en Ormuz, pero el diésel sigue bajando (3.85 dólares por galón): pide que el recargo de combustible se ajuste con el diésel. Si vendes a minoristas de EE. UU., prepárate para entregas más rápidas: Walmart ya surte más de 80% de sus pedidos en línea desde tiendas y llega a 96% de los hogares en menos de 3 horas."
+ },
+ "en": {
+  "titular": "Tech rebounds ahead of Anthropic's debut: the Nasdaq rises 1.7% and Micron 7.7%; Walmart falls despite beating",
+  "esencial": [
+   "At 10:08 a.m. ET the Nasdaq was up 1.65%, the S&P 500 0.84% and the Dow flat (−0.04%); Micron rose 7.7%, Nvidia 3.2% and Broadcom 3.3%.",
+   "Walmart beat expectations (revenue of $188.8 billion) and raised its guidance for the third time, but its stock fell 1.5%; Anthropic will begin trading from its $83 price.",
+   "For supply chain: crude rises 1.6% on tanker attacks in Hormuz, though diesel falls 0.9%; Walmart now reaches 96% of US households in under 3 hours, a sign of last-mile demands."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "Futures pointed to a tech rebound and the open confirmed it: at 10:08 a.m. ET the S&P 500 stood at 7,385.02 (+0.84%), the Nasdaq at 24,831.85 (+1.65%) and the Dow at 50,175.87 (−0.04%); the VIX fell 8.4% to 22.49. Micron rose 7.7%, Nvidia 3.2% ($155.85), Broadcom 3.3%, TSMC 2.8% and AMD 2.6%. Walmart reported revenue of $188.8 billion (expected $187.2 billion) and raised its sales guidance for the third time, to growth of 4.9% to 5.2%, but its stock fell 1.5%; US same-store sales grew 2.9% and e-commerce 23%. Anthropic, priced at $83, had not yet begun trading. The 10-year Treasury rose to 5.10%. WTI rose 1.6% to $83.64 and Brent 1.5% on tanker attacks in Hormuz; diesel futures fell 0.9% to $3.85 a gallon, gold 1.0% to $3,704 and copper 0.2% to $5.66."
+   },
+   {
+    "t": "Asia and Europe",
+    "x": "Asia closed mixed: Nikkei +0.71% (59,444.21), KOSPI +1.39% (5,137.89), Taiwan −4.15%, Hang Seng −2.84% and Shanghai −0.19%. At 9:53 a.m. ET Europe was mixed: Euro Stoxx 50 +0.28%, DAX −0.11%, CAC 40 −0.15% and FTSE 100 −0.28%."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Anthropic begins trading on Nasdaq under the ticker ANT during the session; according to Bloomberg, gray-market indications point to a 20% to 26% jump. Trump leaves the APEC summit with no clear announcements on chip controls and tariffs. The December WTI contract expires tomorrow, Friday."
+   }
+  ],
+  "scm": "Crude rebounds on Hormuz attacks, but diesel keeps falling ($3.85 a gallon): ask for the fuel surcharge to track diesel. If you sell to US retailers, prepare for faster deliveries: Walmart already fulfills more than 80% of its online orders from stores and reaches 96% of households in under 3 hours."
+ },
+ "pt": {
+  "titular": "A tecnologia volta a subir antes da estreia da Anthropic: o Nasdaq sobe 1,7% e a Micron 7,7%; o Walmart cai apesar de superar o esperado",
+  "esencial": [
+   "Às 9h08 (Cidade do México) o Nasdaq subia 1,65%, o S&P 500 0,84% e o Dow estava estável (−0,04%); a Micron subia 7,7%, a Nvidia 3,2% e a Broadcom 3,3%.",
+   "O Walmart superou o esperado (receita de 188,8 bilhões de dólares) e elevou a projeção pela terceira vez, mas a ação caía 1,5%; a Anthropic vai começar a ser negociada a partir do preço de 83 dólares.",
+   "Para supply chain: o petróleo sobe 1,6% pelos ataques a petroleiros em Ormuz, embora o diesel caia 0,9%; o Walmart já chega a 96% dos lares dos EUA em menos de 3 horas, um sinal da exigência da última milha."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Os futuros antecipavam uma alta na tecnologia e a abertura confirmou: às 9h08 (Cidade do México) o S&P 500 estava em 7.385,02 (+0,84%), o Nasdaq em 24.831,85 (+1,65%) e o Dow em 50.175,87 (−0,04%); o VIX caía 8,4% para 22,49. A Micron subia 7,7%, a Nvidia 3,2% (155,85 dólares), a Broadcom 3,3%, a TSMC 2,8% e a AMD 2,6%. O Walmart reportou receita de 188,8 bilhões de dólares (esperavam-se 187,2) e elevou pela terceira vez a projeção de vendas, para alta de 4,9% a 5,2%, mas a ação caía 1,5%; as vendas comparáveis nos EUA cresceram 2,9% e o comércio eletrônico 23%. A Anthropic, com preço de 83 dólares, ainda não havia começado a ser negociada. O Treasury de 10 anos subia para 5,10%. O WTI subia 1,6% para 83,64 dólares e o Brent 1,5% pelos ataques a petroleiros em Ormuz; o diesel nos futuros caía 0,9% para 3,85 dólares por galão, o ouro 1,0% para 3.704 e o cobre 0,2% para 5,66."
+   },
+   {
+    "t": "Ásia e Europa",
+    "x": "A Ásia fechou mista: Nikkei +0,71% (59.444,21), KOSPI +1,39% (5.137,89), Taiwan −4,15%, Hang Seng −2,84% e Xangai −0,19%. Às 8h53 (Cidade do México) a Europa estava mista: Euro Stoxx 50 +0,28%, DAX −0,11%, CAC 40 −0,15% e FTSE 100 −0,28%."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "A Anthropic começa a ser negociada na Nasdaq com o código ANT durante a sessão; segundo a Bloomberg, o mercado cinza antecipa alta de 20% a 26%. Trump deixa a cúpula da APEC sem anúncios claros sobre controles de chips e tarifas. Amanhã, sexta, vence o contrato de dezembro do WTI."
+   }
+  ],
+  "scm": "O petróleo sobe pelos ataques em Ormuz, mas o diesel segue caindo (3,85 dólares por galão): peça que a sobretaxa de combustível acompanhe o diesel. Se você vende para varejistas dos EUA, prepare-se para entregas mais rápidas: o Walmart já atende mais de 80% dos pedidos online a partir das lojas e chega a 96% dos lares em menos de 3 horas."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: las bolsas suben antes del debut histórico de Anthropic (19 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+  },
+  {
+   "t": "Yahoo Finance: Walmart supera lo esperado y eleva su guía por tercera vez (19 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/article/walmart-beats-q3-earnings-expectations-raises-2026-outlook-again-120803355.html"
+  },
+  {
+   "t": "Investing.com: la salida a bolsa récord de Anthropic (19 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-record-setting-ipo-fed-093418331.html"
+  },
+  {
+   "t": "Reuters: el petróleo sube por ataques a barcos en Medio Oriente (19 nov 2026)",
+   "u": "https://finance.yahoo.com/news/oil-prices-steady-supply-surplus-024608326.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (19 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

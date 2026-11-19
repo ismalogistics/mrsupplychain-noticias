@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-19-apertura-mexico",
+ "fecha": "2026-11-19",
+ "momento": "apertura",
+ "mercado": "mexico",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "El peso vuelve a debilitarse a 18.96 y el IPC baja 0.2%; el FIX del miércoles fue de 18.6723",
+  "esencial": [
+   "A las 9:08 CDMX el peso cotizaba en 18.96 por dólar (+0.40% el dólar), después de recuperarse a 18.80 en la madrugada.",
+   "El FIX determinado ayer fue de 18.6723, 20 centavos arriba del de hoy; rige para pagos desde mañana. Hoy rige el de 18.4677.",
+   "Para supply chain: hoy es el último día con un FIX debajo de 18.50; liquida hoy los pagos en dólares que puedas."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 8:48 CDMX el S&P/BMV IPC estaba en 69,030.66 puntos (−0.18%). A las 9:08 CDMX el peso cotizaba en 18.96 por dólar (+0.40% el dólar), después de recuperarse a 18.80 en la madrugada. El FIX determinado ayer miércoles fue de 18.6723, según Banxico; se publica hoy en el DOF y rige para pagos desde mañana. Hoy rige el de 18.4677."
+   },
+   {
+    "t": "Contexto",
+    "x": "El peso no logra recuperarse del golpe del miércoles por las minutas de la Fed, que anticipan más alzas; el Treasury a 10 años sube a 5.10%. Walmart, referente para Walmex, superó lo esperado pero su acción baja 1.5%. El peso colombiano también se debilita (3,389, +0.93% el dólar)."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "El mercado local seguirá el debut de Anthropic y el ánimo en Wall Street. El 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre y el 27 la balanza comercial de octubre."
+   }
+  ],
+  "scm": "Hoy rige el FIX de 18.4677, casi 50 centavos abajo del mercado (18.96), y mañana sube a 18.6723: liquida hoy los pagos en dólares que puedas y escalona las compras restantes."
+ },
+ "en": {
+  "titular": "The peso weakens again to 18.96 and the IPC slips 0.2%; Wednesday's FIX was 18.6723",
+  "esencial": [
+   "At 9:08 a.m. Mexico City time the peso traded at 18.96 per dollar (dollar +0.40%), after recovering to 18.80 overnight.",
+   "The FIX set yesterday was 18.6723, 20 centavos above today's; it applies to payments from tomorrow. Today the 18.4677 FIX applies.",
+   "For supply chain: today is the last day with a FIX below 18.50; settle the dollar payments you can today."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "At 8:48 a.m. Mexico City time the S&P/BMV IPC stood at 69,030.66 points (−0.18%). At 9:08 a.m. the peso traded at 18.96 per dollar (dollar +0.40%), after recovering to 18.80 overnight. The FIX set yesterday, Wednesday, was 18.6723, according to Banxico; it is published today in the DOF and applies to payments from tomorrow. Today the 18.4677 FIX applies."
+   },
+   {
+    "t": "Context",
+    "x": "The peso fails to recover from Wednesday's blow from the Fed minutes, which point to more hikes; the 10-year Treasury rises to 5.10%. Walmart, a benchmark for Walmex, beat expectations but its stock falls 1.5%. The Colombian peso also weakens (3,389, dollar +0.93%)."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The local market will follow Anthropic's debut and the mood on Wall Street. On November 24 INEGI publishes first-half November inflation and on the 27th the October trade balance."
+   }
+  ],
+  "scm": "Today the 18.4677 FIX applies, almost 50 centavos below the market (18.96), and tomorrow it rises to 18.6723: settle the dollar payments you can today and stagger the remaining purchases."
+ },
+ "pt": {
+  "titular": "O peso volta a se enfraquecer para 18,96 e o IPC cai 0,2%; o FIX de quarta foi de 18,6723",
+  "esencial": [
+   "Às 9h08 (Cidade do México) o peso era cotado a 18,96 por dólar (dólar +0,40%), depois de se recuperar para 18,80 durante a madrugada.",
+   "O FIX definido ontem foi de 18,6723, 20 centavos acima do de hoje; vale para pagamentos a partir de amanhã. Hoje vale o de 18,4677.",
+   "Para supply chain: hoje é o último dia com FIX abaixo de 18,50; liquide hoje os pagamentos em dólares que puder."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 8h48 (Cidade do México) o S&P/BMV IPC estava em 69.030,66 pontos (−0,18%). Às 9h08 o peso era cotado a 18,96 por dólar (dólar +0,40%), depois de se recuperar para 18,80 durante a madrugada. O FIX definido ontem, quarta, foi de 18,6723, segundo o Banxico; é publicado hoje no DOF e vale para pagamentos a partir de amanhã. Hoje vale o de 18,4677."
+   },
+   {
+    "t": "Contexto",
+    "x": "O peso não consegue se recuperar do golpe de quarta pela ata do Fed, que antecipa mais altas; o Treasury de 10 anos sobe para 5,10%. O Walmart, referência para o Walmex, superou o esperado, mas a ação cai 1,5%. O peso colombiano também se enfraquece (3.389, dólar +0,93%)."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "O mercado local vai acompanhar a estreia da Anthropic e o ânimo em Wall Street. Em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro e no dia 27 a balança comercial de outubro."
+   }
+  ],
+  "scm": "Hoje vale o FIX de 18,4677, quase 50 centavos abaixo do mercado (18,96), e amanhã sobe para 18,6723: liquide hoje os pagamentos em dólares que puder e escalone as compras restantes."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 19 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (18 nov 2026: 18.6723)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=es"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (19 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Yahoo Finance: Walmart supera lo esperado y eleva su guía por tercera vez (19 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/article/walmart-beats-q3-earnings-expectations-raises-2026-outlook-again-120803355.html"
+  }
+ ]
+}
