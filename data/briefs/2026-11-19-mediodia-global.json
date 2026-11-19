@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-19-mediodia-global",
+ "fecha": "2026-11-19",
+ "momento": "mediodia",
+ "mercado": "global",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "Anthropic abre 34% arriba, pero Wall Street se da la vuelta: el Dow cae 1.5% y AMD se desploma 7.8%",
+  "esencial": [
+   "Anthropic empezó a cotizar en 111.50 dólares, 34% arriba de su precio de 83, y a las 11:38 CDMX estaba en 99.53 (+19.9%); su salida a bolsa levantó 81,300 millones de dólares, la mayor de la historia.",
+   "El rebote de la mañana se borró: el Dow caía 1.46%, el S&P 500 0.93% y el Nasdaq 0.71%; AMD bajaba 7.8% tras una posición en corto de Hunterbrook.",
+   "Para supply chain: el peso pasa de 19 por dólar (19.01) y desde mañana rige un FIX de 18.6723; liquida hoy al FIX de 18.4677 lo que puedas."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura la tecnología rebotaba (Nasdaq +1.65%, Micron +7.7%, Nvidia +3.2%) antes del debut de Anthropic, y Walmart caía 1.5% pese a superar lo esperado."
+   },
+   {
+    "t": "Cómo va",
+    "x": "Anthropic abrió en 111.50 dólares, 34% arriba de su precio de 83, con 108 millones de acciones en la primera operación, y a las 11:38 CDMX estaba en 99.53 (+19.9%); según Yahoo Finance, su salida a bolsa levantó 81,300 millones de dólares, la mayor de la historia. Tras su debut el mercado se dio la vuelta: el S&P 500 estaba en 7,255.45 (−0.93%), el Nasdaq en 24,255.60 (−0.71%) y el Dow en 49,464.57 (−1.46%); el VIX subía 8.7% a 26.69. AMD caía 7.8%, TSMC 1.6% y Nvidia 0.8%. Europa cerró a la baja: Euro Stoxx 50 −0.66% y DAX −1.06%. El Treasury a 10 años estaba en 5.06%. El WTI subía 1.2% a 83.30 dólares, el diésel en futuros bajaba 0.4% a 3.87, el oro 1.4% a 3,689 y el cobre 0.5% a 5.64."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El debut de Anthropic no reavivó el apetito por la IA: Nvidia, Broadcom y Micron borraron sus ganancias de la mañana, y nueve de los 11 sectores del S&P 500 bajaban, con salud y consumo básico en −2%, según Reuters. AMD se desplomó después de que Hunterbrook dijo que su fondo tomó una posición en corto. Las solicitudes de seguro de desempleo subieron ligeramente, en línea con un mercado laboral estable, y el mercado da casi por seguro un alza de 25 puntos base de la Fed en diciembre."
+   }
+  ],
+  "scm": "El mercado sigue nervioso con la IA y la Fed: no cierres compras grandes de cómputo con precios de hoy sin cláusulas de ajuste. Con el diésel en 3.87 dólares por galón, mantén la presión para bajar recargos de combustible."
+ },
+ "en": {
+  "titular": "Anthropic opens 34% higher, but Wall Street reverses: the Dow falls 1.5% and AMD plunges 7.8%",
+  "esencial": [
+   "Anthropic began trading at $111.50, 34% above its $83 price, and at 12:38 p.m. ET was at $99.53 (+19.9%); its IPO raised $81.3 billion, the largest on record.",
+   "The morning rebound was erased: the Dow was down 1.46%, the S&P 500 0.93% and the Nasdaq 0.71%; AMD fell 7.8% after a short position by Hunterbrook.",
+   "For supply chain: the peso crosses 19 per dollar (19.01) and from tomorrow an 18.6723 FIX applies; settle what you can today at the 18.4677 FIX."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open tech was rebounding (Nasdaq +1.65%, Micron +7.7%, Nvidia +3.2%) ahead of Anthropic's debut, and Walmart fell 1.5% despite beating expectations."
+   },
+   {
+    "t": "How it is going",
+    "x": "Anthropic opened at $111.50, 34% above its $83 price, with 108 million shares in the first trade, and at 12:38 p.m. ET was at $99.53 (+19.9%); according to Yahoo Finance, its IPO raised $81.3 billion, the largest on record. After its debut the market reversed: the S&P 500 stood at 7,255.45 (−0.93%), the Nasdaq at 24,255.60 (−0.71%) and the Dow at 49,464.57 (−1.46%); the VIX rose 8.7% to 26.69. AMD fell 7.8%, TSMC 1.6% and Nvidia 0.8%. Europe closed lower: Euro Stoxx 50 −0.66% and DAX −1.06%. The 10-year Treasury was at 5.06%. WTI rose 1.2% to $83.30, diesel futures fell 0.4% to $3.87, gold 1.4% to $3,689 and copper 0.5% to $5.64."
+   },
+   {
+    "t": "What surprised",
+    "x": "Anthropic's debut did not revive appetite for AI: Nvidia, Broadcom and Micron erased their morning gains, and nine of the S&P 500's 11 sectors were down, with health care and consumer staples at −2%, according to Reuters. AMD plunged after Hunterbrook said its fund took a short position. Jobless claims rose slightly, consistent with a stable labor market, and markets see a 25 basis-point Fed hike in December as nearly certain."
+   }
+  ],
+  "scm": "Markets remain nervous about AI and the Fed: don't lock in large compute purchases at today's prices without adjustment clauses. With diesel at $3.87 a gallon, keep pressing for lower fuel surcharges."
+ },
+ "pt": {
+  "titular": "A Anthropic abre 34% acima, mas Wall Street vira: o Dow cai 1,5% e a AMD despenca 7,8%",
+  "esencial": [
+   "A Anthropic começou a ser negociada a 111,50 dólares, 34% acima do preço de 83, e às 11h38 (Cidade do México) estava em 99,53 (+19,9%); seu IPO captou 81,3 bilhões de dólares, o maior da história.",
+   "A alta da manhã foi apagada: o Dow caía 1,46%, o S&P 500 0,93% e o Nasdaq 0,71%; a AMD caía 7,8% depois de uma posição vendida da Hunterbrook.",
+   "Para supply chain: o peso passa de 19 por dólar (19,01) e a partir de amanhã vale um FIX de 18,6723; liquide hoje pelo FIX de 18,4677 o que puder."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura a tecnologia subia (Nasdaq +1,65%, Micron +7,7%, Nvidia +3,2%) antes da estreia da Anthropic, e o Walmart caía 1,5% apesar de superar o esperado."
+   },
+   {
+    "t": "Como vai",
+    "x": "A Anthropic abriu a 111,50 dólares, 34% acima do preço de 83, com 108 milhões de ações na primeira operação, e às 11h38 (Cidade do México) estava em 99,53 (+19,9%); segundo o Yahoo Finance, o IPO captou 81,3 bilhões de dólares, o maior da história. Depois da estreia o mercado virou: o S&P 500 estava em 7.255,45 (−0,93%), o Nasdaq em 24.255,60 (−0,71%) e o Dow em 49.464,57 (−1,46%); o VIX subia 8,7% para 26,69. A AMD caía 7,8%, a TSMC 1,6% e a Nvidia 0,8%. A Europa fechou em queda: Euro Stoxx 50 −0,66% e DAX −1,06%. O Treasury de 10 anos estava em 5,06%. O WTI subia 1,2% para 83,30 dólares, o diesel nos futuros caía 0,4% para 3,87, o ouro 1,4% para 3.689 e o cobre 0,5% para 5,64."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A estreia da Anthropic não reavivou o apetite pela IA: Nvidia, Broadcom e Micron apagaram os ganhos da manhã, e nove dos 11 setores do S&P 500 caíam, com saúde e consumo básico em −2%, segundo a Reuters. A AMD despencou depois que a Hunterbrook disse que seu fundo assumiu uma posição vendida. Os pedidos de seguro-desemprego subiram levemente, em linha com um mercado de trabalho estável, e o mercado dá como quase certa uma alta de 25 pontos-base do Fed em dezembro."
+   }
+  ],
+  "scm": "O mercado segue nervoso com a IA e o Fed: não feche compras grandes de computação com os preços de hoje sem cláusulas de ajuste. Com o diesel a 3,87 dólares por galão, mantenha a pressão para reduzir as sobretaxas de combustível."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: Anthropic empieza a cotizar en 111.50 dólares por acción (19 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html"
+  },
+  {
+   "t": "Reuters: Wall Street cae con fuerza; el debut de Anthropic no reaviva el apetito por la IA (19 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html"
+  },
+  {
+   "t": "Yahoo Finance: Nvidia, Broadcom y Micron borran sus ganancias tras el debut de Anthropic (19 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (19 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

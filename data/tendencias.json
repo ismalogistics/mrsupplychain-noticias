@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-11-19T15:10:54Z",
+ "actualizado": "2026-11-19T17:40:28Z",
  "fecha": "2026-11-19",
  "titular": {
-  "es": "Jueves: la tecnología rebota, Anthropic debuta y Walmart eleva su guía",
-  "en": "Thursday: tech rebounds, Anthropic debuts and Walmart raises guidance",
-  "pt": "Quinta: a tecnologia volta a subir, a Anthropic estreia e o Walmart eleva a projeção"
+  "es": "Mediodía: Anthropic sube 20% en su debut, pero los chips borran su rebote y AMD se desploma",
+  "en": "Midday: Anthropic rises 20% on its debut, but chips erase their rebound and AMD plunges",
+  "pt": "Meio-dia: a Anthropic sobe 20% na estreia, mas os chips apagam a alta e a AMD despenca"
  },
  "items": [
   {
    "id": "semis",
-   "dir": "up",
+   "dir": "down",
    "calor": 3,
    "mx": false,
    "latam": false,
@@ -17,14 +17,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Micron sube 7.7% y Nvidia 3.2%: la tecnología rebota antes del debut de Anthropic",
-    "en": "Micron rises 7.7% and Nvidia 3.2%: tech rebounds ahead of Anthropic's debut",
-    "pt": "A Micron sobe 7,7% e a Nvidia 3,2%: a tecnologia volta a subir antes da estreia da Anthropic"
+    "es": "Los chips borran su rebote tras el debut de Anthropic; AMD se desploma 7.8% por una posición en corto",
+    "en": "Chips erase their rebound after Anthropic's debut; AMD plunges 7.8% on a short position",
+    "pt": "Os chips apagam a alta depois da estreia da Anthropic; a AMD despenca 7,8% por uma posição vendida"
    },
    "x": {
-    "es": "A las 9:08 CDMX Micron subía 7.7%, Broadcom 3.3%, Nvidia 3.2% (tras cinco días de caídas), TSMC 2.8% y AMD 2.6%. Según Barron's, Micron reaccionaba a que un rival minimizó los temores sobre el crecimiento de la IA.",
-    "en": "At 10:08 a.m. ET Micron was up 7.7%, Broadcom 3.3%, Nvidia 3.2% (after five days of losses), TSMC 2.8% and AMD 2.6%. According to Barron's, Micron was reacting to a rival downplaying fears about AI growth.",
-    "pt": "Às 9h08 (Cidade do México) a Micron subia 7,7%, a Broadcom 3,3%, a Nvidia 3,2% (depois de cinco dias de queda), a TSMC 2,8% e a AMD 2,6%. Segundo a Barron's, a Micron reagia a um rival que minimizou os temores sobre o crescimento da IA."
+    "es": "Nvidia, Broadcom y Micron borraron sus ganancias de la mañana tras el debut de Anthropic; a las 11:38 CDMX AMD caía 7.8% después de que Hunterbrook dijo que su fondo tomó una posición en corto, TSMC bajaba 1.6% y Nvidia 0.8%.",
+    "en": "Nvidia, Broadcom and Micron erased their morning gains after Anthropic's debut; at 12:38 p.m. ET AMD was down 7.8% after Hunterbrook said its fund took a short position, TSMC fell 1.6% and Nvidia 0.8%.",
+    "pt": "Nvidia, Broadcom e Micron apagaram os ganhos da manhã depois da estreia da Anthropic; às 11h38 (Cidade do México) a AMD caía 7,8% depois que a Hunterbrook disse que seu fundo assumiu uma posição vendida, a TSMC caía 1,6% e a Nvidia 0,8%."
    },
    "scm": {
     "es": "La memoria sigue con demanda fuerte: asegura precios y asignaciones del primer trimestre antes de que vuelvan a subir.",
@@ -33,11 +33,15 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: las bolsas suben antes del debut histórico de Anthropic (19 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+     "t": "Yahoo Finance: Nvidia, Broadcom y Micron borran sus ganancias tras el debut de Anthropic (19 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (19 nov 2026, 09:08 CDMX)",
+     "t": "Reuters: Wall Street cae con fuerza; el debut de Anthropic no reaviva el apetito por la IA (19 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (19 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -149,14 +153,14 @@
    "en": "Software and AI for supply chain",
    "pt": "Software e IA para supply chain",
    "titular": {
-    "es": "Anthropic debuta hoy en Nasdaq tras la mayor salida a bolsa de la historia; suben las de ciberseguridad",
-    "en": "Anthropic debuts on Nasdaq today after the largest IPO on record; cybersecurity stocks rise",
-    "pt": "A Anthropic estreia hoje na Nasdaq depois do maior IPO da história; sobem as de cibersegurança"
+    "es": "Anthropic abre en 111.50 dólares, 34% arriba de su precio, tras la mayor salida a bolsa de la historia",
+    "en": "Anthropic opens at $111.50, 34% above its price, after the largest IPO on record",
+    "pt": "A Anthropic abre a 111,50 dólares, 34% acima do preço, depois do maior IPO da história"
    },
    "x": {
-    "es": "Anthropic fijó su precio en 83 dólares por acción y, con una colocación privada, levantó 107,300 millones de dólares, según Investing.com; empieza a cotizar hoy con la clave ANT. Las acciones de ciberseguridad suben junto con su debut, según Yahoo Finance.",
-    "en": "Anthropic priced at $83 a share and, with a private placement, raised $107.3 billion, according to Investing.com; it begins trading today under the ticker ANT. Cybersecurity stocks rise alongside its debut, according to Yahoo Finance.",
-    "pt": "A Anthropic definiu o preço em 83 dólares por ação e, com uma colocação privada, captou 107,3 bilhões de dólares, segundo o Investing.com; começa a ser negociada hoje com o código ANT. As ações de cibersegurança sobem junto com a estreia, segundo o Yahoo Finance."
+    "es": "Anthropic empezó a cotizar en 111.50 dólares, 34% arriba de su precio de 83, y a las 11:38 CDMX estaba en 99.53 (+19.9%); su salida a bolsa levantó 81,300 millones de dólares. Palo Alto Networks subió 4.8% tras elevar su guía de 2027 y arrastró a CrowdStrike, Cloudflare, Okta y Zscaler con alzas de 5% a 7%, según Reuters.",
+    "en": "Anthropic began trading at $111.50, 34% above its $83 price, and at 12:38 p.m. ET was at $99.53 (+19.9%); its IPO raised $81.3 billion. Palo Alto Networks rose 4.8% after raising its 2027 guidance, lifting CrowdStrike, Cloudflare, Okta and Zscaler by 5% to 7%, according to Reuters.",
+    "pt": "A Anthropic começou a ser negociada a 111,50 dólares, 34% acima do preço de 83, e às 11h38 (Cidade do México) estava em 99,53 (+19,9%); o IPO captou 81,3 bilhões de dólares. A Palo Alto Networks subiu 4,8% depois de elevar a projeção de 2027 e puxou CrowdStrike, Cloudflare, Okta e Zscaler com altas de 5% a 7%, segundo a Reuters."
    },
    "scm": {
     "es": "Si evalúas herramientas de IA para planeación o compras, pide a tus proveedores precios y niveles de servicio fijos para 2027.",
@@ -165,12 +169,12 @@
    },
    "fuentes": [
     {
-     "t": "Investing.com: la salida a bolsa récord de Anthropic (19 nov 2026)",
-     "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-record-setting-ipo-fed-093418331.html"
+     "t": "Yahoo Finance: Anthropic empieza a cotizar en 111.50 dólares por acción (19 nov 2026)",
+     "u": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html"
     },
     {
-     "t": "Yahoo Finance: Anthropic sale a bolsa y las acciones de ciberseguridad suben (19 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/article/anthropic-goes-public-as-ai-bug-hunters-push-cybersecurity-stocks-higher-chart-of-the-day-150054810.html"
+     "t": "Reuters: Wall Street cae con fuerza; el debut de Anthropic no reaviva el apetito por la IA (19 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html"
     }
    ]
   },

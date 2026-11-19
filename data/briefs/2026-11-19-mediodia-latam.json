@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-19-mediodia-latam",
+ "fecha": "2026-11-19",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "El peso colombiano se desploma 2.8% a 3,452 y Argentina cae 2%; el Ibovespa baja 0.7%",
+  "esencial": [
+   "A las 11:23 CDMX el Ibovespa bajaba 0.66% (166,437.69) y el S&P/TSX de Canadá 1.22%; el ETF de MSCI de Argentina caía 1.99%.",
+   "El dólar subía 2.82% frente al peso colombiano (3,452), 0.95% frente al sol (3.44) y 0.85% frente al real (5.90).",
+   "Para supply chain: el peso colombiano tiene su peor día en la región; escalona los pagos en pesos colombianos y evita cerrar todo hoy."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura la región estaba estable (Ibovespa +0.27%, Chile y Perú +0.6%) y el peso colombiano ya se debilitaba (+0.93% el dólar)."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:23 CDMX el Ibovespa estaba en 166,437.69 (−0.66%) y a las 11:38 el S&P/TSX de Canadá bajaba 1.22%. Los ETF de MSCI caían 1.99% en Argentina, 0.91% en Perú y 0.44% en Chile. El dólar estaba en 3,452 pesos colombianos (+2.82%), 3.44 soles (+0.95%), 5.90 reales (+0.85%), 1,015.2 pesos chilenos (+0.77%), 1,564.5 pesos argentinos (+0.35%) y 1.432 dólares canadienses (−0.05%)."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "La caída de Wall Street tras el debut de Anthropic arrastró a la región. El peso colombiano fue el más golpeado, pese a que el crudo sube 1.2%."
+   }
+  ],
+  "scm": "Escalona los pagos en pesos colombianos, soles y reales, que se debilitan con fuerza hoy, y no cierres compras grandes en la región con el tipo de cambio de este día."
+ },
+ "en": {
+  "titular": "The Colombian peso plunges 2.8% to 3,452 and Argentina falls 2%; the Ibovespa slips 0.7%",
+  "esencial": [
+   "At 11:23 a.m. Mexico City time the Ibovespa was down 0.66% (166,437.69) and Canada's S&P/TSX 1.22%; the MSCI Argentina ETF fell 1.99%.",
+   "The dollar rose 2.82% against the Colombian peso (3,452), 0.95% against the sol (3.44) and 0.85% against the real (5.90).",
+   "For supply chain: the Colombian peso has the region's worst day; stagger payments in Colombian pesos and avoid closing everything today."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the region was steady (Ibovespa +0.27%, Chile and Peru +0.6%) and the Colombian peso was already weakening (dollar +0.93%)."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:23 a.m. Mexico City time the Ibovespa stood at 166,437.69 (−0.66%) and at 11:38 Canada's S&P/TSX was down 1.22%. The MSCI ETFs fell 1.99% for Argentina, 0.91% for Peru and 0.44% for Chile. The dollar stood at 3,452 Colombian pesos (+2.82%), 3.44 soles (+0.95%), 5.90 reais (+0.85%), 1,015.2 Chilean pesos (+0.77%), 1,564.5 Argentine pesos (+0.35%) and 1.432 Canadian dollars (−0.05%)."
+   },
+   {
+    "t": "What surprised",
+    "x": "Wall Street's drop after Anthropic's debut dragged the region down. The Colombian peso was the hardest hit, even as crude rises 1.2%."
+   }
+  ],
+  "scm": "Stagger payments in Colombian pesos, soles and reais, which weaken sharply today, and don't close large purchases in the region at today's exchange rate."
+ },
+ "pt": {
+  "titular": "O peso colombiano despenca 2,8% para 3.452 e a Argentina cai 2%; o Ibovespa cai 0,7%",
+  "esencial": [
+   "Às 11h23 (Cidade do México) o Ibovespa caía 0,66% (166.437,69) e o S&P/TSX do Canadá 1,22%; o ETF da MSCI da Argentina caía 1,99%.",
+   "O dólar subia 2,82% frente ao peso colombiano (3.452), 0,95% frente ao sol (3,44) e 0,85% frente ao real (R$ 5,90).",
+   "Para supply chain: o peso colombiano tem o pior dia da região; escalone os pagamentos em pesos colombianos e evite fechar tudo hoje."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura a região estava estável (Ibovespa +0,27%, Chile e Peru +0,6%) e o peso colombiano já se enfraquecia (dólar +0,93%)."
+   },
+   {
+    "t": "Como vai",
+    "x": "Às 11h23 (Cidade do México) o Ibovespa estava em 166.437,69 (−0,66%) e às 11h38 o S&P/TSX do Canadá caía 1,22%. Os ETFs da MSCI caíam 1,99% na Argentina, 0,91% no Peru e 0,44% no Chile. O dólar estava em 3.452 pesos colombianos (+2,82%), 3,44 soles (+0,95%), R$ 5,90 (+0,85%), 1.015,2 pesos chilenos (+0,77%), 1.564,5 pesos argentinos (+0,35%) e 1,432 dólar canadense (−0,05%)."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A queda de Wall Street depois da estreia da Anthropic arrastou a região. O peso colombiano foi o mais atingido, mesmo com o petróleo em alta de 1,2%."
+   }
+  ],
+  "scm": "Escalone os pagamentos em pesos colombianos, soles e reais, que se enfraquecem com força hoje, e não feche compras grandes na região com o câmbio deste dia."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (19 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "Reuters: Wall Street cae con fuerza; el debut de Anthropic no reaviva el apetito por la IA (19 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html"
+  }
+ ]
+}

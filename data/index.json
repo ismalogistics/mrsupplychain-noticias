@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-19-mediodia-global",
+   "fecha": "2026-11-19",
+   "momento": "mediodia",
+   "mercado": "global",
+   "titular_es": "Anthropic abre 34% arriba, pero Wall Street se da la vuelta: el Dow cae 1.5% y AMD se desploma 7.8%",
+   "titular_en": "Anthropic opens 34% higher, but Wall Street reverses: the Dow falls 1.5% and AMD plunges 7.8%",
+   "titular_pt": "A Anthropic abre 34% acima, mas Wall Street vira: o Dow cai 1,5% e a AMD despenca 7,8%"
+  },
+  {
+   "id": "2026-11-19-mediodia-latam",
+   "fecha": "2026-11-19",
+   "momento": "mediodia",
+   "mercado": "latam",
+   "titular_es": "El peso colombiano se desploma 2.8% a 3,452 y Argentina cae 2%; el Ibovespa baja 0.7%",
+   "titular_en": "The Colombian peso plunges 2.8% to 3,452 and Argentina falls 2%; the Ibovespa slips 0.7%",
+   "titular_pt": "O peso colombiano despenca 2,8% para 3.452 e a Argentina cai 2%; o Ibovespa cai 0,7%"
+  },
+  {
+   "id": "2026-11-19-mediodia-mexico",
+   "fecha": "2026-11-19",
+   "momento": "mediodia",
+   "mercado": "mexico",
+   "titular_es": "El peso pasa de 19 por dólar y el IPC baja 0.3%; desde mañana rige un FIX de 18.6723",
+   "titular_en": "The peso crosses 19 per dollar and the IPC slips 0.3%; an 18.6723 FIX applies from tomorrow",
+   "titular_pt": "O peso passa de 19 por dólar e o IPC cai 0,3%; a partir de amanhã vale um FIX de 18,6723"
+  },
+  {
    "id": "2026-11-19-apertura-global",
    "fecha": "2026-11-19",
    "momento": "apertura",
@@ -782,33 +809,6 @@
    "titular_es": "El peso pierde terreno tras la inflación de EE. UU.: pasa de 18.50 en la madrugada a 18.67",
    "titular_en": "The peso loses ground after US inflation: from 18.50 overnight to 18.67",
    "titular_pt": "O peso perde terreno após a inflação dos EUA: passa de 18,50 na madrugada para 18,67"
-  },
-  {
-   "id": "2026-11-09-cierre-global",
-   "fecha": "2026-11-09",
-   "momento": "cierre",
-   "mercado": "global",
-   "titular_es": "Wall Street rebota con fuerza: el S&P 500 sube 2.3% y el Brent cae 5.6%",
-   "titular_en": "Wall Street rebounds strongly: the S&P 500 rises 2.3% and Brent falls 5.6%",
-   "titular_pt": "Wall Street se recupera com força: o S&P 500 sobe 2,3% e o Brent cai 5,6%"
-  },
-  {
-   "id": "2026-11-09-cierre-latam",
-   "fecha": "2026-11-09",
-   "momento": "cierre",
-   "mercado": "latam",
-   "titular_es": "La región cierra al alza: el Ibovespa sube 2.0% y el TSX 1.8%, con Colombia y Perú arriba de 3%",
-   "titular_en": "The region closes higher: the Ibovespa rises 2.0% and the TSX 1.8%, with Colombia and Peru above 3%",
-   "titular_pt": "A região fecha em alta: o Ibovespa sobe 2,0% e o TSX 1,8%, com Colômbia e Peru acima de 3%"
-  },
-  {
-   "id": "2026-11-09-cierre-mexico",
-   "fecha": "2026-11-09",
-   "momento": "cierre",
-   "mercado": "mexico",
-   "titular_es": "La inflación de México sube a 3.75% en octubre por la luz; el IPC cierra con +0.6% y el peso en 18.55",
-   "titular_en": "Mexico's inflation rises to 3.75% in October on power prices; the IPC closes +0.6% and the peso at 18.55",
-   "titular_pt": "A inflação do México sobe para 3,75% em outubro pela energia; o IPC fecha com +0,6% e o peso a 18,55"
   }
  ]
 }
