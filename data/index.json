@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-19-premercado-global",
+   "fecha": "2026-11-19",
+   "momento": "premercado",
+   "mercado": "global",
+   "titular_es": "Anthropic debuta hoy tras levantar 107,300 millones de dólares; los futuros del Nasdaq suben 2.2%",
+   "titular_en": "Anthropic debuts today after raising $107.3 billion; Nasdaq futures rise 2.2%",
+   "titular_pt": "A Anthropic estreia hoje depois de captar 107,3 bilhões de dólares; os futuros do Nasdaq sobem 2,2%"
+  },
+  {
+   "id": "2026-11-19-premercado-latam",
+   "fecha": "2026-11-19",
+   "momento": "premercado",
+   "mercado": "latam",
+   "titular_es": "Las monedas de la región se estabilizan tras la caída del miércoles; el cobre rebota 0.3%",
+   "titular_en": "The region's currencies steady after Wednesday's drop; copper rebounds 0.3%",
+   "titular_pt": "As moedas da região se estabilizam depois da queda de quarta; o cobre sobe 0,3%"
+  },
+  {
+   "id": "2026-11-19-premercado-mexico",
+   "fecha": "2026-11-19",
+   "momento": "premercado",
+   "mercado": "mexico",
+   "titular_es": "El peso recupera terreno a 18.80 tras su desplome; hoy rige para pagos el FIX de 18.4677",
+   "titular_en": "The peso regains ground at 18.80 after its slump; the 18.4677 FIX applies to payments today",
+   "titular_pt": "O peso recupera terreno em 18,80 depois do tombo; hoje vale para pagamentos o FIX de 18,4677"
+  },
+  {
    "id": "2026-11-18-cierre-global",
    "fecha": "2026-11-18",
    "momento": "cierre",
@@ -782,33 +809,6 @@
    "titular_es": "El IPC modera su alza a 0.5% y el peso se mantiene en 18.60; EE. UU. vuelve a importar ganado mexicano",
    "titular_en": "The IPC trims its gain to 0.5% and the peso holds at 18.60; the US resumes Mexican cattle imports",
    "titular_pt": "O IPC modera a alta para 0,5% e o peso fica em 18,60; os EUA voltam a importar gado mexicano"
-  },
-  {
-   "id": "2026-11-09-apertura-global",
-   "fecha": "2026-11-09",
-   "momento": "apertura",
-   "mercado": "global",
-   "titular_es": "Wall Street sube con fuerza y el petróleo cae, pero Nvidia baja 4% por la investigación sobre su director",
-   "titular_en": "Wall Street rallies and oil falls, but Nvidia drops 4% on the probe into its CEO",
-   "titular_pt": "Wall Street sobe com força e o petróleo cai, mas a Nvidia recua 4% pela investigação sobre seu CEO"
-  },
-  {
-   "id": "2026-11-09-apertura-latam",
-   "fecha": "2026-11-09",
-   "momento": "apertura",
-   "mercado": "latam",
-   "titular_es": "Las monedas de la región se fortalecen con el dólar débil; el petróleo a la baja pesa en Colombia",
-   "titular_en": "The region's currencies strengthen on a weak dollar; lower oil weighs on Colombia",
-   "titular_pt": "As moedas da região se fortalecem com o dólar fraco; o petróleo em queda pesa na Colômbia"
-  },
-  {
-   "id": "2026-11-09-apertura-mexico",
-   "fecha": "2026-11-09",
-   "momento": "apertura",
-   "mercado": "mexico",
-   "titular_es": "El peso abre en 18.61 con ganancias y sigue el caso antidumping de los carros tanque mexicanos",
-   "titular_en": "The peso opens at 18.61 with gains as the antidumping case on Mexican tank cars continues",
-   "titular_pt": "O peso abre a 18,61 com ganhos e segue o caso antidumping dos vagões-tanque mexicanos"
   }
  ]
 }

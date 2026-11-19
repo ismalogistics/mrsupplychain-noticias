@@ -1,0 +1,95 @@
+{
+ "id": "2026-11-19-premercado-global",
+ "fecha": "2026-11-19",
+ "momento": "premercado",
+ "mercado": "global",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Anthropic debuta hoy tras levantar 107,300 millones de dólares; los futuros del Nasdaq suben 2.2%",
+  "esencial": [
+   "Anthropic fijó su salida a bolsa en 83 dólares por acción y, con una colocación privada, levantó 107,300 millones de dólares, una cifra récord; empieza a cotizar hoy en Nasdaq con la clave ANT.",
+   "A las 4:57 CDMX los futuros del Nasdaq 100 subían 2.19%, los del S&P 500 1.27% y los del Dow 0.68%; Taiwán cayó 4.2% y Hong Kong 2.8%.",
+   "Para supply chain: Irán dice que tres tanqueros quedaron inutilizados por minas al este de Ormuz; mantén colchón en embarques por Medio Oriente aunque el diésel siga bajando (3.84 dólares por galón)."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "Anthropic fijó el precio de su salida a bolsa en 83 dólares por acción, por arriba de lo que había propuesto a los inversionistas, y amplió la oferta por la demanda; con una colocación privada levantó 107,300 millones de dólares, un récord que supera a SpaceX, con una valuación totalmente diluida de alrededor de 1.5 billones, según Investing.com. Bloomberg reporta que el mercado gris anticipa un alza de 20% a 26% en su debut. En el mercado petrolero, la marina de Irán dijo que tres tanqueros al este del estrecho de Ormuz quedaron inutilizados por minas y los hutíes lanzaron misiles contra Riad; Trump, Xi Jinping y Vladimir Putin iniciaron una reunión trilateral en Shenzhen, en el marco de APEC, y Trump dijo que el petróleo debe fluir por Ormuz."
+   },
+   {
+    "t": "Asia, Europa y futuros",
+    "x": "Asia cerró mixta: Nikkei +0.71% (59,444.21), KOSPI +1.39% (5,137.89), Taiwán −4.15%, Hang Seng −2.84% y Shanghái −0.19%. A las 4:53 CDMX el Euro Stoxx 50 subía 0.66%, el DAX 0.38% y el FTSE 100 bajaba 0.17%. A las 4:57 CDMX los futuros del Nasdaq 100 subían 2.19%, los del S&P 500 1.27% y los del Dow 0.68%; el VIX bajaba 10.6% a 21.95. El índice del dólar bajaba 0.24% a 103.61 y el euro estaba en 1.1010. El Brent (contrato de enero) estaba en 92.19 dólares (+0.3%) según Reuters y el WTI en 82.39 (+0.1%); los inventarios de crudo de EE. UU. subieron 3.4 millones de barriles. El oro estaba en 3,737 (−0.1%), el cobre en 5.69 dólares por libra (+0.3%) y el bitcoin en 63,644 (+1.0%)."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Antes de la apertura reportan Walmart, Gap y Bath & Body Works; a las 7:30 CDMX salen las solicitudes semanales de seguro de desempleo y el índice manufacturero de la Fed de Filadelfia. Anthropic empieza a cotizar en Nasdaq durante la sesión. En Shenzhen sigue la cumbre de APEC, donde se esperan temas de controles a la exportación de chips y aranceles."
+   }
+  ],
+  "scm": "Irán reporta tres tanqueros inutilizados por minas al este de Ormuz: mantén colchón de días en embarques que crucen Medio Oriente, aunque el diésel en futuros siga bajando (3.84 dólares por galón). Sigue la cumbre de APEC en Shenzhen: cualquier anuncio sobre aranceles o controles a chips puede cambiar costos y plazos de compras a Asia."
+ },
+ "en": {
+  "titular": "Anthropic debuts today after raising $107.3 billion; Nasdaq futures rise 2.2%",
+  "esencial": [
+   "Anthropic priced its IPO at $83 a share and, with a private placement, raised a record $107.3 billion; it begins trading today on Nasdaq under the ticker ANT.",
+   "At 5:57 a.m. ET Nasdaq 100 futures were up 2.19%, S&P 500 futures 1.27% and Dow futures 0.68%; Taiwan fell 4.2% and Hong Kong 2.8%.",
+   "For supply chain: Iran says three tankers were disabled by mines east of Hormuz; keep buffers on Middle East shipments even as diesel keeps falling ($3.84 a gallon)."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "Anthropic priced its IPO at $83 a share, above the range it had marketed to investors, and upsized the offering on demand; with a private placement it raised $107.3 billion, a record that tops SpaceX, at a fully diluted valuation of about $1.5 trillion, according to Investing.com. Bloomberg reports gray-market indications of a 20% to 26% jump on its debut. In oil, Iran's navy said three tankers east of the Strait of Hormuz were disabled by mines and the Houthis fired missiles at Riyadh; Trump, Xi Jinping and Vladimir Putin began a three-way meeting in Shenzhen on the sidelines of APEC, and Trump said oil must flow through Hormuz."
+   },
+   {
+    "t": "Asia, Europe and futures",
+    "x": "Asia closed mixed: Nikkei +0.71% (59,444.21), KOSPI +1.39% (5,137.89), Taiwan −4.15%, Hang Seng −2.84% and Shanghai −0.19%. At 5:53 a.m. ET the Euro Stoxx 50 was up 0.66%, the DAX 0.38% and the FTSE 100 down 0.17%. At 5:57 a.m. ET Nasdaq 100 futures were up 2.19%, S&P 500 futures 1.27% and Dow futures 0.68%; the VIX fell 10.6% to 21.95. The dollar index fell 0.24% to 103.61 and the euro was at 1.1010. Brent (January contract) was at $92.19 (+0.3%) according to Reuters and WTI at $82.39 (+0.1%); US crude inventories rose 3.4 million barrels. Gold was at $3,737 (−0.1%), copper at $5.69 per pound (+0.3%) and bitcoin at $63,644 (+1.0%)."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Walmart, Gap and Bath & Body Works report before the open; at 8:30 a.m. ET weekly jobless claims and the Philadelphia Fed manufacturing index come out. Anthropic begins trading on Nasdaq during the session. The APEC summit continues in Shenzhen, where chip export controls and tariffs are expected on the agenda."
+   }
+  ],
+  "scm": "Iran reports three tankers disabled by mines east of Hormuz: keep buffer days on shipments crossing the Middle East, even as diesel futures keep falling ($3.84 a gallon). Watch the APEC summit in Shenzhen: any announcement on tariffs or chip controls could change costs and lead times on purchases from Asia."
+ },
+ "pt": {
+  "titular": "A Anthropic estreia hoje depois de captar 107,3 bilhões de dólares; os futuros do Nasdaq sobem 2,2%",
+  "esencial": [
+   "A Anthropic definiu o preço do IPO em 83 dólares por ação e, com uma colocação privada, captou 107,3 bilhões de dólares, um recorde; começa a ser negociada hoje na Nasdaq com o código ANT.",
+   "Às 4h57 (Cidade do México) os futuros do Nasdaq 100 subiam 2,19%, os do S&P 500 1,27% e os do Dow 0,68%; Taiwan caiu 4,2% e Hong Kong 2,8%.",
+   "Para supply chain: o Irã diz que três petroleiros ficaram inutilizados por minas a leste de Ormuz; mantenha folga nos embarques pelo Oriente Médio, mesmo com o diesel em queda (3,84 dólares por galão)."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "A Anthropic definiu o preço do IPO em 83 dólares por ação, acima do que havia proposto aos investidores, e ampliou a oferta pela demanda; com uma colocação privada captou 107,3 bilhões de dólares, um recorde que supera a SpaceX, com avaliação totalmente diluída de cerca de 1,5 trilhão, segundo o Investing.com. A Bloomberg informa que o mercado cinza antecipa alta de 20% a 26% na estreia. No petróleo, a marinha do Irã disse que três petroleiros a leste do estreito de Ormuz ficaram inutilizados por minas e os houthis lançaram mísseis contra Riad; Trump, Xi Jinping e Vladimir Putin iniciaram uma reunião trilateral em Shenzhen, no âmbito da APEC, e Trump disse que o petróleo deve fluir por Ormuz."
+   },
+   {
+    "t": "Ásia, Europa e futuros",
+    "x": "A Ásia fechou mista: Nikkei +0,71% (59.444,21), KOSPI +1,39% (5.137,89), Taiwan −4,15%, Hang Seng −2,84% e Xangai −0,19%. Às 4h53 (Cidade do México) o Euro Stoxx 50 subia 0,66%, o DAX 0,38% e o FTSE 100 caía 0,17%. Às 4h57 os futuros do Nasdaq 100 subiam 2,19%, os do S&P 500 1,27% e os do Dow 0,68%; o VIX caía 10,6% para 21,95. O índice do dólar caía 0,24% para 103,61 e o euro estava em 1,1010. O Brent (contrato de janeiro) estava a 92,19 dólares (+0,3%) segundo a Reuters e o WTI a 82,39 (+0,1%); os estoques de petróleo dos EUA subiram 3,4 milhões de barris. O ouro estava a 3.737 (−0,1%), o cobre a 5,69 dólares por libra (+0,3%) e o bitcoin a 63.644 (+1,0%)."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Antes da abertura divulgam resultados Walmart, Gap e Bath & Body Works; às 7h30 (Cidade do México) saem os pedidos semanais de seguro-desemprego e o índice industrial do Fed da Filadélfia. A Anthropic começa a ser negociada na Nasdaq durante a sessão. Em Shenzhen segue a cúpula da APEC, onde se esperam temas de controles de exportação de chips e tarifas."
+   }
+  ],
+  "scm": "O Irã informa três petroleiros inutilizados por minas a leste de Ormuz: mantenha folga de dias nos embarques que cruzem o Oriente Médio, mesmo com o diesel nos futuros em queda (3,84 dólares por galão). Acompanhe a cúpula da APEC em Shenzhen: qualquer anúncio sobre tarifas ou controles de chips pode mudar custos e prazos das compras da Ásia."
+ },
+ "fuentes": [
+  {
+   "t": "Investing.com: la salida a bolsa récord de Anthropic y las minutas de la Fed, lo que mueve los mercados (19 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-record-setting-ipo-fed-093418331.html"
+  },
+  {
+   "t": "Yahoo Finance: los futuros suben antes del debut de Anthropic (19 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-090910916.html"
+  },
+  {
+   "t": "Reuters: el petróleo sube por ataques a barcos en Medio Oriente pese al superávit previsto (19 nov 2026)",
+   "u": "https://finance.yahoo.com/news/oil-prices-steady-supply-surplus-024608326.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (19 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

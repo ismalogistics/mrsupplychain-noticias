@@ -1,0 +1,91 @@
+{
+ "id": "2026-11-19-premercado-mexico",
+ "fecha": "2026-11-19",
+ "momento": "premercado",
+ "mercado": "mexico",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El peso recupera terreno a 18.80 tras su desplome; hoy rige para pagos el FIX de 18.4677",
+  "esencial": [
+   "A las 5:08 CDMX el peso cotizaba en 18.80 por dólar (−0.43% el dólar), después de cerrar ayer en 18.90 tras caer 2.7%.",
+   "Hoy rige para pagos el FIX de 18.4677, 33 centavos abajo del mercado; el IPC cerró ayer en 69,154.17 (−1.75%).",
+   "Para supply chain: liquida al FIX los pagos en dólares que puedas hoy y escalona las compras restantes, porque el peso sigue volátil."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El S&P/BMV IPC cerró ayer en 69,154.17 puntos (−1.75%) y el peso en 18.90 por dólar, tras depreciarse 2.7% por las minutas de la Fed. En la noche recuperó terreno: a las 5:08 CDMX cotizaba en 18.80 (−0.43% el dólar), con el índice del dólar en 103.61 (−0.24%). Hoy rige para pagos el FIX de 18.4677, determinado el martes."
+   },
+   {
+    "t": "Contexto",
+    "x": "Los futuros de EE. UU. suben con fuerza antes del debut de Anthropic (S&P 500 +1.27%), lo que favorece al IPC, pero las minutas de la Fed mantienen la expectativa de más alzas, lo que estrecha el diferencial de tasas con México (Banxico en 6.25%). El cobre rebota 0.3% y el crudo se mantiene estable."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Walmart reporta antes de la apertura, un dato relevante para Walmex. El 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre y el 27 la balanza comercial de octubre."
+   }
+  ],
+  "scm": "Con el peso en 18.80 y el FIX de hoy en 18.4677, liquida al FIX los pagos en dólares que puedas y escalona el resto de las compras durante el día: el peso se movió casi 3% en un día."
+ },
+ "en": {
+  "titular": "The peso regains ground at 18.80 after its slump; the 18.4677 FIX applies to payments today",
+  "esencial": [
+   "At 5:08 a.m. Mexico City time the peso traded at 18.80 per dollar (dollar −0.43%), after closing yesterday at 18.90 following a 2.7% drop.",
+   "Today the 18.4677 FIX applies to payments, 33 centavos below the market; the IPC closed yesterday at 69,154.17 (−1.75%).",
+   "For supply chain: settle at the FIX the dollar payments you can today and stagger the remaining purchases, as the peso remains volatile."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "The S&P/BMV IPC closed yesterday at 69,154.17 points (−1.75%) and the peso at 18.90 per dollar, after a 2.7% drop on the Fed minutes. Overnight it regained ground: at 5:08 a.m. Mexico City time it traded at 18.80 (dollar −0.43%), with the dollar index at 103.61 (−0.24%). Today the 18.4677 FIX, set on Tuesday, applies to payments."
+   },
+   {
+    "t": "Context",
+    "x": "US futures rise sharply ahead of Anthropic's debut (S&P 500 +1.27%), which helps the IPC, but the Fed minutes keep expectations of more hikes, narrowing the rate gap with Mexico (Banxico at 6.25%). Copper rebounds 0.3% and crude holds steady."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Walmart reports before the open, relevant for Walmex. On November 24 INEGI publishes first-half November inflation and on the 27th the October trade balance."
+   }
+  ],
+  "scm": "With the peso at 18.80 and today's FIX at 18.4677, settle at the FIX the dollar payments you can and stagger the rest of your purchases through the day: the peso moved almost 3% in one day."
+ },
+ "pt": {
+  "titular": "O peso recupera terreno em 18,80 depois do tombo; hoje vale para pagamentos o FIX de 18,4677",
+  "esencial": [
+   "Às 5h08 (Cidade do México) o peso era cotado a 18,80 por dólar (dólar −0,43%), depois de fechar ontem em 18,90 com queda de 2,7%.",
+   "Hoje vale para pagamentos o FIX de 18,4677, 33 centavos abaixo do mercado; o IPC fechou ontem em 69.154,17 (−1,75%).",
+   "Para supply chain: liquide pelo FIX os pagamentos em dólares que puder hoje e escalone as compras restantes, porque o peso segue volátil."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "O S&P/BMV IPC fechou ontem em 69.154,17 pontos (−1,75%) e o peso em 18,90 por dólar, depois de se desvalorizar 2,7% pela ata do Fed. Durante a noite recuperou terreno: às 5h08 (Cidade do México) era cotado a 18,80 (dólar −0,43%), com o índice do dólar em 103,61 (−0,24%). Hoje vale para pagamentos o FIX de 18,4677, definido na terça."
+   },
+   {
+    "t": "Contexto",
+    "x": "Os futuros dos EUA sobem forte antes da estreia da Anthropic (S&P 500 +1,27%), o que favorece o IPC, mas a ata do Fed mantém a expectativa de mais altas, o que estreita o diferencial de juros com o México (Banxico em 6,25%). O cobre sobe 0,3% e o petróleo fica estável."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "O Walmart divulga resultados antes da abertura, um dado relevante para o Walmex. Em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro e no dia 27 a balança comercial de outubro."
+   }
+  ],
+  "scm": "Com o peso a 18,80 e o FIX de hoje em 18,4677, liquide pelo FIX os pagamentos em dólares que puder e escalone o resto das compras ao longo do dia: o peso oscilou quase 3% em um dia."
+ },
+ "fuentes": [
+  {
+   "t": "Banxico: tipo de cambio FIX y para pagos",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=es"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (19 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Investing.com: la salida a bolsa récord de Anthropic y las minutas de la Fed, lo que mueve los mercados (19 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-record-setting-ipo-fed-093418331.html"
+  }
+ ]
+}

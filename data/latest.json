@@ -1,305 +1,277 @@
 {
- "actualizado": "2026-11-18T21:18:35Z",
- "momento": "cierre",
+ "actualizado": "2026-11-19T11:09:45Z",
+ "momento": "premercado",
  "briefs": {
   "global": {
-   "id": "2026-11-18-cierre-global",
-   "fecha": "2026-11-18",
-   "momento": "cierre",
+   "id": "2026-11-19-premercado-global",
+   "fecha": "2026-11-19",
+   "momento": "premercado",
    "mercado": "global",
-   "hora": "15:15 CDMX",
+   "hora": "05:08 CDMX",
    "fin_de_semana": false,
    "es": {
-    "titular": "Las minutas de la Fed anticipan más alzas: el Dow cae 1.1%, el oro 3.5% y el cobre 5.2%",
+    "titular": "Anthropic debuta hoy tras levantar 107,300 millones de dólares; los futuros del Nasdaq suben 2.2%",
     "esencial": [
-     "El S&P 500 cerró con −0.23% (7,323.63), el Nasdaq con +0.42% (24,429.89) y el Dow con −1.11% (50,198.17); Nvidia terminó con −2.9% pese a su reporte, y AMD subió 5.3%.",
-     "Las minutas muestran que casi todos los miembros de la Fed ven probable que sigan las alzas y algunos prefieren 50 puntos base; el gobernador Christopher Waller dijo que un alza de medio punto probablemente será necesaria en diciembre.",
-     "Para supply chain: con alzas más fuertes en puerta, el dólar se encarece y financiar inventario cuesta más; en cambio, el diésel (3.87 dólares por galón) y el cobre (5.67) dan margen para renegociar fletes y cotizar cable."
+     "Anthropic fijó su salida a bolsa en 83 dólares por acción y, con una colocación privada, levantó 107,300 millones de dólares, una cifra récord; empieza a cotizar hoy en Nasdaq con la clave ANT.",
+     "A las 4:57 CDMX los futuros del Nasdaq 100 subían 2.19%, los del S&P 500 1.27% y los del Dow 0.68%; Taiwán cayó 4.2% y Hong Kong 2.8%.",
+     "Para supply chain: Irán dice que tres tanqueros quedaron inutilizados por minas al este de Ormuz; mantén colchón en embarques por Medio Oriente aunque el diésel siga bajando (3.84 dólares por galón)."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "El rebote que anticipaba el reporte de Nvidia no se sostuvo: el S&P 500 cerró en 7,323.63 (−0.23%), el Nasdaq en 24,429.89 (+0.42%) y el Dow en 50,198.17 (−1.11%). Nvidia cayó 2.9% (150.96 dólares) pese a reportar ingresos récord de 115,800 millones, mientras AMD subió 5.3%, Broadcom 3.6%, TJX 8.1% y Target 4.0%. Europa cerró con Euro Stoxx 50 −0.93% y DAX −1.19%. El Treasury a 10 años bajó a 5.07%. El WTI cayó 3.4% a 81.80 dólares y el Brent 1.9% a 88.69; el oro cayó 3.5% a 3,729, la plata 5.1%, el cobre 5.2% a 5.67 dólares por libra y el bitcoin 3.9%."
+      "t": "Lo que pasó desde el cierre",
+      "x": "Anthropic fijó el precio de su salida a bolsa en 83 dólares por acción, por arriba de lo que había propuesto a los inversionistas, y amplió la oferta por la demanda; con una colocación privada levantó 107,300 millones de dólares, un récord que supera a SpaceX, con una valuación totalmente diluida de alrededor de 1.5 billones, según Investing.com. Bloomberg reporta que el mercado gris anticipa un alza de 20% a 26% en su debut. En el mercado petrolero, la marina de Irán dijo que tres tanqueros al este del estrecho de Ormuz quedaron inutilizados por minas y los hutíes lanzaron misiles contra Riad; Trump, Xi Jinping y Vladimir Putin iniciaron una reunión trilateral en Shenzhen, en el marco de APEC, y Trump dijo que el petróleo debe fluir por Ormuz."
      },
      {
-      "t": "Por qué",
-      "x": "Las minutas de la reunión de octubre de la Fed, publicadas a las 13:00 CDMX, muestran que casi todos los miembros consideran probable que se necesiten más alzas para llevar la inflación a 2% y que algunos favorecen un alza de 50 puntos base, según Bloomberg Línea; antes, el gobernador Christopher Waller dijo a CNBC que un alza de medio punto probablemente será necesaria en la reunión del 8 y 9 de diciembre. El reporte de Nvidia no despejó las dudas sobre la inversión en IA, y su acción ha perdido más de un tercio de su valor desde principios de octubre. En materias primas, el superávit previsto de petróleo y la menor prima de riesgo en Ormuz hundieron el crudo, y el cobre tocó su nivel más bajo desde abril."
+      "t": "Asia, Europa y futuros",
+      "x": "Asia cerró mixta: Nikkei +0.71% (59,444.21), KOSPI +1.39% (5,137.89), Taiwán −4.15%, Hang Seng −2.84% y Shanghái −0.19%. A las 4:53 CDMX el Euro Stoxx 50 subía 0.66%, el DAX 0.38% y el FTSE 100 bajaba 0.17%. A las 4:57 CDMX los futuros del Nasdaq 100 subían 2.19%, los del S&P 500 1.27% y los del Dow 0.68%; el VIX bajaba 10.6% a 21.95. El índice del dólar bajaba 0.24% a 103.61 y el euro estaba en 1.1010. El Brent (contrato de enero) estaba en 92.19 dólares (+0.3%) según Reuters y el WTI en 82.39 (+0.1%); los inventarios de crudo de EE. UU. subieron 3.4 millones de barriles. El oro estaba en 3,737 (−0.1%), el cobre en 5.69 dólares por libra (+0.3%) y el bitcoin en 63,644 (+1.0%)."
      },
      {
-      "t": "Qué se espera",
-      "x": "Los futuros del S&P 500 terminaban en −0.3% y los del Nasdaq en +0.3%, lo que anticipa una apertura cautelosa en Asia. Mañana jueves reporta Walmart antes de la apertura y Anthropic empieza a cotizar en Nasdaq con la clave ANT, si se fija hoy su precio como prevé su registro."
+      "t": "Qué se espera hoy",
+      "x": "Antes de la apertura reportan Walmart, Gap y Bath & Body Works; a las 7:30 CDMX salen las solicitudes semanales de seguro de desempleo y el índice manufacturero de la Fed de Filadelfia. Anthropic empieza a cotizar en Nasdaq durante la sesión. En Shenzhen sigue la cumbre de APEC, donde se esperan temas de controles a la exportación de chips y aranceles."
      }
     ],
-    "scm": "Con la Fed rumbo a subir 25 o 50 puntos base en diciembre, revisa cuánto inventario financias con deuda en dólares y si conviene reducir días de cobertura. Aprovecha el diésel en 3.87 dólares por galón y el cobre en 5.67 para renegociar recargos de flete y cotizar cable del primer trimestre."
+    "scm": "Irán reporta tres tanqueros inutilizados por minas al este de Ormuz: mantén colchón de días en embarques que crucen Medio Oriente, aunque el diésel en futuros siga bajando (3.84 dólares por galón). Sigue la cumbre de APEC en Shenzhen: cualquier anuncio sobre aranceles o controles a chips puede cambiar costos y plazos de compras a Asia."
    },
    "en": {
-    "titular": "Fed minutes point to more hikes: the Dow falls 1.1%, gold 3.5% and copper 5.2%",
+    "titular": "Anthropic debuts today after raising $107.3 billion; Nasdaq futures rise 2.2%",
     "esencial": [
-     "The S&P 500 closed −0.23% (7,323.63), the Nasdaq +0.42% (24,429.89) and the Dow −1.11% (50,198.17); Nvidia ended −2.9% despite its report, and AMD rose 5.3%.",
-     "The minutes show nearly all Fed members see further hikes as likely and some prefer 50 basis points; Governor Christopher Waller said a half-point hike will probably be needed in December.",
-     "For supply chain: with bigger hikes ahead, the dollar gets pricier and financing inventory costs more; on the other hand, diesel ($3.87 a gallon) and copper ($5.67) give room to renegotiate freight and quote cable."
+     "Anthropic priced its IPO at $83 a share and, with a private placement, raised a record $107.3 billion; it begins trading today on Nasdaq under the ticker ANT.",
+     "At 5:57 a.m. ET Nasdaq 100 futures were up 2.19%, S&P 500 futures 1.27% and Dow futures 0.68%; Taiwan fell 4.2% and Hong Kong 2.8%.",
+     "For supply chain: Iran says three tankers were disabled by mines east of Hormuz; keep buffers on Middle East shipments even as diesel keeps falling ($3.84 a gallon)."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "The rebound Nvidia's report pointed to did not hold: the S&P 500 closed at 7,323.63 (−0.23%), the Nasdaq at 24,429.89 (+0.42%) and the Dow at 50,198.17 (−1.11%). Nvidia fell 2.9% ($150.96) despite record revenue of $115.8 billion, while AMD rose 5.3%, Broadcom 3.6%, TJX 8.1% and Target 4.0%. Europe closed with the Euro Stoxx 50 −0.93% and the DAX −1.19%. The 10-year Treasury eased to 5.07%. WTI fell 3.4% to $81.80 and Brent 1.9% to $88.69; gold fell 3.5% to $3,729, silver 5.1%, copper 5.2% to $5.67 per pound and bitcoin 3.9%."
+      "t": "What happened since the close",
+      "x": "Anthropic priced its IPO at $83 a share, above the range it had marketed to investors, and upsized the offering on demand; with a private placement it raised $107.3 billion, a record that tops SpaceX, at a fully diluted valuation of about $1.5 trillion, according to Investing.com. Bloomberg reports gray-market indications of a 20% to 26% jump on its debut. In oil, Iran's navy said three tankers east of the Strait of Hormuz were disabled by mines and the Houthis fired missiles at Riyadh; Trump, Xi Jinping and Vladimir Putin began a three-way meeting in Shenzhen on the sidelines of APEC, and Trump said oil must flow through Hormuz."
      },
      {
-      "t": "Why",
-      "x": "The minutes of the Fed's October meeting, released at 2:00 p.m. ET, show nearly all members consider further hikes likely necessary to bring inflation to 2% and some favor a 50 basis-point hike, according to Bloomberg Línea; earlier, Governor Christopher Waller told CNBC a half-point hike will probably be needed at the December 8-9 meeting. Nvidia's report did not clear doubts about AI spending, and its stock has lost more than a third of its value since early October. In commodities, the expected oil surplus and a smaller Hormuz risk premium sank crude, and copper hit its lowest since April."
+      "t": "Asia, Europe and futures",
+      "x": "Asia closed mixed: Nikkei +0.71% (59,444.21), KOSPI +1.39% (5,137.89), Taiwan −4.15%, Hang Seng −2.84% and Shanghai −0.19%. At 5:53 a.m. ET the Euro Stoxx 50 was up 0.66%, the DAX 0.38% and the FTSE 100 down 0.17%. At 5:57 a.m. ET Nasdaq 100 futures were up 2.19%, S&P 500 futures 1.27% and Dow futures 0.68%; the VIX fell 10.6% to 21.95. The dollar index fell 0.24% to 103.61 and the euro was at 1.1010. Brent (January contract) was at $92.19 (+0.3%) according to Reuters and WTI at $82.39 (+0.1%); US crude inventories rose 3.4 million barrels. Gold was at $3,737 (−0.1%), copper at $5.69 per pound (+0.3%) and bitcoin at $63,644 (+1.0%)."
      },
      {
-      "t": "What to expect",
-      "x": "S&P 500 futures ended −0.3% and Nasdaq futures +0.3%, pointing to a cautious open in Asia. Tomorrow, Thursday, Walmart reports before the open and Anthropic begins trading on Nasdaq under the ticker ANT, if it prices today as its filing expects."
+      "t": "What to expect today",
+      "x": "Walmart, Gap and Bath & Body Works report before the open; at 8:30 a.m. ET weekly jobless claims and the Philadelphia Fed manufacturing index come out. Anthropic begins trading on Nasdaq during the session. The APEC summit continues in Shenzhen, where chip export controls and tariffs are expected on the agenda."
      }
     ],
-    "scm": "With the Fed heading for a 25 or 50 basis-point hike in December, review how much inventory you finance with dollar debt and whether to cut days of cover. Use diesel at $3.87 a gallon and copper at $5.67 to renegotiate freight surcharges and quote first-quarter cable."
+    "scm": "Iran reports three tankers disabled by mines east of Hormuz: keep buffer days on shipments crossing the Middle East, even as diesel futures keep falling ($3.84 a gallon). Watch the APEC summit in Shenzhen: any announcement on tariffs or chip controls could change costs and lead times on purchases from Asia."
    },
    "pt": {
-    "titular": "A ata do Fed antecipa mais altas: o Dow cai 1,1%, o ouro 3,5% e o cobre 5,2%",
+    "titular": "A Anthropic estreia hoje depois de captar 107,3 bilhões de dólares; os futuros do Nasdaq sobem 2,2%",
     "esencial": [
-     "O S&P 500 fechou com −0,23% (7.323,63), o Nasdaq com +0,42% (24.429,89) e o Dow com −1,11% (50.198,17); a Nvidia terminou com −2,9% apesar do resultado, e a AMD subiu 5,3%.",
-     "A ata mostra que quase todos os membros do Fed veem como provável que as altas continuem e alguns preferem 50 pontos-base; o diretor Christopher Waller disse que uma alta de meio ponto provavelmente será necessária em dezembro.",
-     "Para supply chain: com altas mais fortes pela frente, o dólar fica mais caro e financiar estoque custa mais; por outro lado, o diesel (3,87 dólares por galão) e o cobre (5,67) dão margem para renegociar fretes e cotar cabos."
+     "A Anthropic definiu o preço do IPO em 83 dólares por ação e, com uma colocação privada, captou 107,3 bilhões de dólares, um recorde; começa a ser negociada hoje na Nasdaq com o código ANT.",
+     "Às 4h57 (Cidade do México) os futuros do Nasdaq 100 subiam 2,19%, os do S&P 500 1,27% e os do Dow 0,68%; Taiwan caiu 4,2% e Hong Kong 2,8%.",
+     "Para supply chain: o Irã diz que três petroleiros ficaram inutilizados por minas a leste de Ormuz; mantenha folga nos embarques pelo Oriente Médio, mesmo com o diesel em queda (3,84 dólares por galão)."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "A alta que o resultado da Nvidia antecipava não se sustentou: o S&P 500 fechou em 7.323,63 (−0,23%), o Nasdaq em 24.429,89 (+0,42%) e o Dow em 50.198,17 (−1,11%). A Nvidia caiu 2,9% (150,96 dólares) apesar da receita recorde de 115,8 bilhões, enquanto a AMD subiu 5,3%, a Broadcom 3,6%, a TJX 8,1% e a Target 4,0%. A Europa fechou com Euro Stoxx 50 −0,93% e DAX −1,19%. O Treasury de 10 anos caiu para 5,07%. O WTI caiu 3,4% para 81,80 dólares e o Brent 1,9% para 88,69; o ouro caiu 3,5% para 3.729, a prata 5,1%, o cobre 5,2% para 5,67 dólares por libra e o bitcoin 3,9%."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "A Anthropic definiu o preço do IPO em 83 dólares por ação, acima do que havia proposto aos investidores, e ampliou a oferta pela demanda; com uma colocação privada captou 107,3 bilhões de dólares, um recorde que supera a SpaceX, com avaliação totalmente diluída de cerca de 1,5 trilhão, segundo o Investing.com. A Bloomberg informa que o mercado cinza antecipa alta de 20% a 26% na estreia. No petróleo, a marinha do Irã disse que três petroleiros a leste do estreito de Ormuz ficaram inutilizados por minas e os houthis lançaram mísseis contra Riad; Trump, Xi Jinping e Vladimir Putin iniciaram uma reunião trilateral em Shenzhen, no âmbito da APEC, e Trump disse que o petróleo deve fluir por Ormuz."
      },
      {
-      "t": "Por quê",
-      "x": "A ata da reunião de outubro do Fed, publicada às 13h00 (Cidade do México), mostra que quase todos os membros consideram provável que sejam necessárias mais altas para levar a inflação a 2% e que alguns favorecem uma alta de 50 pontos-base, segundo a Bloomberg Línea; antes, o diretor Christopher Waller disse à CNBC que uma alta de meio ponto provavelmente será necessária na reunião de 8 e 9 de dezembro. O resultado da Nvidia não dissipou as dúvidas sobre o investimento em IA, e a ação perdeu mais de um terço do valor desde o início de outubro. Nas commodities, o superávit previsto de petróleo e o menor prêmio de risco em Ormuz derrubaram o petróleo, e o cobre tocou o nível mais baixo desde abril."
+      "t": "Ásia, Europa e futuros",
+      "x": "A Ásia fechou mista: Nikkei +0,71% (59.444,21), KOSPI +1,39% (5.137,89), Taiwan −4,15%, Hang Seng −2,84% e Xangai −0,19%. Às 4h53 (Cidade do México) o Euro Stoxx 50 subia 0,66%, o DAX 0,38% e o FTSE 100 caía 0,17%. Às 4h57 os futuros do Nasdaq 100 subiam 2,19%, os do S&P 500 1,27% e os do Dow 0,68%; o VIX caía 10,6% para 21,95. O índice do dólar caía 0,24% para 103,61 e o euro estava em 1,1010. O Brent (contrato de janeiro) estava a 92,19 dólares (+0,3%) segundo a Reuters e o WTI a 82,39 (+0,1%); os estoques de petróleo dos EUA subiram 3,4 milhões de barris. O ouro estava a 3.737 (−0,1%), o cobre a 5,69 dólares por libra (+0,3%) e o bitcoin a 63.644 (+1,0%)."
      },
      {
-      "t": "O que se espera",
-      "x": "Os futuros do S&P 500 terminavam em −0,3% e os do Nasdaq em +0,3%, o que antecipa uma abertura cautelosa na Ásia. Amanhã, quinta, o Walmart divulga resultados antes da abertura e a Anthropic começa a ser negociada na Nasdaq com o código ANT, se o preço for definido hoje como prevê o registro."
+      "t": "O que se espera hoje",
+      "x": "Antes da abertura divulgam resultados Walmart, Gap e Bath & Body Works; às 7h30 (Cidade do México) saem os pedidos semanais de seguro-desemprego e o índice industrial do Fed da Filadélfia. A Anthropic começa a ser negociada na Nasdaq durante a sessão. Em Shenzhen segue a cúpula da APEC, onde se esperam temas de controles de exportação de chips e tarifas."
      }
     ],
-    "scm": "Com o Fed a caminho de subir 25 ou 50 pontos-base em dezembro, revise quanto estoque você financia com dívida em dólares e se convém reduzir dias de cobertura. Aproveite o diesel a 3,87 dólares por galão e o cobre a 5,67 para renegociar sobretaxas de frete e cotar cabos do primeiro trimestre."
+    "scm": "O Irã informa três petroleiros inutilizados por minas a leste de Ormuz: mantenha folga de dias nos embarques que cruzem o Oriente Médio, mesmo com o diesel nos futuros em queda (3,84 dólares por galão). Acompanhe a cúpula da APEC em Shenzhen: qualquer anúncio sobre tarifas ou controles de chips pode mudar custos e prazos das compras da Ásia."
    },
    "fuentes": [
     {
-     "t": "Reserva Federal: minutas de la reunión del FOMC del 27 y 28 de octubre de 2026",
-     "u": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+     "t": "Investing.com: la salida a bolsa récord de Anthropic y las minutas de la Fed, lo que mueve los mercados (19 nov 2026)",
+     "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-record-setting-ipo-fed-093418331.html"
     },
     {
-     "t": "Bloomberg Línea: el peso se deprecia hasta 18.88 ante posibles alzas de la Fed (18 nov 2026)",
-     "u": "https://www.bloomberglinea.com/latinoamerica/mexico/dolar-en-mexico-peso-se-deprecia-hasta-mxn1888-ante-posibles-alzas-de-la-fed/"
+     "t": "Yahoo Finance: los futuros suben antes del debut de Anthropic (19 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-090910916.html"
     },
     {
-     "t": "StockTitan: Wall Street hoy, 18 de noviembre de 2026 (Waller, Nvidia, Target, TJX, Anthropic)",
-     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+     "t": "Reuters: el petróleo sube por ataques a barcos en Medio Oriente pese al superávit previsto (19 nov 2026)",
+     "u": "https://finance.yahoo.com/news/oil-prices-steady-supply-surplus-024608326.html"
     },
     {
-     "t": "The Wall Street Journal: las acciones bajan; el reporte de Nvidia no calma los nervios (18 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-rally-nvidia-earnings-093700969.html"
-    },
-    {
-     "t": "Investing.com: el petróleo cae por el superávit previsto y se desvanece la prima de riesgo de Ormuz (18 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-slides-surplus-outlook-hormuz-172136849.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 15:15 CDMX)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (19 nov 2026, 05:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-18-cierre-latam",
-   "fecha": "2026-11-18",
-   "momento": "cierre",
+   "id": "2026-11-19-premercado-latam",
+   "fecha": "2026-11-19",
+   "momento": "premercado",
    "mercado": "latam",
-   "hora": "15:15 CDMX",
+   "hora": "05:08 CDMX",
    "fin_de_semana": false,
    "es": {
-    "titular": "Perú cae 4.4% y Canadá 2.1% con el desplome de los metales; las monedas de la región se debilitan",
+    "titular": "Las monedas de la región se estabilizan tras la caída del miércoles; el cobre rebota 0.3%",
     "esencial": [
-     "El Ibovespa cerró en 167,642.62 (−1.28%) y el S&P/TSX de Canadá en 34,578.05 (−2.09%); los ETF de MSCI cayeron 4.42% en Perú, 2.73% en Chile y 2.26% en Argentina.",
-     "El dólar subió a 1,007 pesos chilenos (+1.51%), 3,357 pesos colombianos (+1.69%) y 5.85 reales (+1.44%).",
-     "Para supply chain: con monedas débiles y el cobre en mínimos desde abril, escalona los pagos en la región y cotiza cable e insumos de cobre."
+     "Ayer el Ibovespa cerró en 167,537.95 (−1.34%) y el S&P/TSX de Canadá en 34,578.05 (−2.09%), con el desplome de los metales.",
+     "A las 5:07 CDMX el dólar bajaba a 1,004 pesos chilenos (−0.33%) y estaba estable en 5.85 reales y 3,355 pesos colombianos.",
+     "Para supply chain: las monedas se estabilizan, pero siguen débiles; aprovecha para cerrar pagos en la región sin concentrarlos en un solo día."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "El Ibovespa cerró en 167,642.62 (−1.28%), el S&P/TSX de Canadá en 34,578.05 (−2.09%) y el S&P/BMV IPC en 69,146.97 (−1.76%). Los ETF de MSCI cayeron 4.42% en Perú, 2.73% en Chile y 2.26% en Argentina."
+      "t": "Lo que pasó desde el cierre",
+      "x": "Ayer el Ibovespa cerró en 167,537.95 (−1.34%), el S&P/TSX de Canadá en 34,578.05 (−2.09%) y el S&P/BMV IPC en 69,154.17 (−1.75%), con el cobre en su nivel más bajo desde abril y las minutas de la Fed anticipando más alzas."
      },
      {
-      "t": "Por qué",
-      "x": "El cobre cayó 5.2% a 5.67 dólares por libra, su nivel más bajo desde abril, la plata 5.1% y el oro 3.5%, lo que golpeó a las mineras de Perú, Chile y Canadá. Las minutas de la Fed, que anticipan más alzas, fortalecieron al dólar frente a las monedas de la región."
+      "t": "Contexto",
+      "x": "A las 4:57 CDMX el cobre rebotaba 0.3% a 5.69 dólares por libra y el crudo se mantenía estable. A las 5:07 CDMX el dólar estaba en 1,004 pesos chilenos (−0.33%), 5.85 reales (−0.06%) y 3,355 pesos colombianos (−0.07%); el peso mexicano en 18.80 (−0.43%)."
      },
      {
-      "t": "Monedas",
-      "x": "Al cierre el dólar estaba en 5.85 reales (+1.44%), 1,007.4 pesos chilenos (+1.51%), 3,357 pesos colombianos (+1.69%), 1,559 pesos argentinos (+0.45%) y 1.432 dólares canadienses (+0.20%); el peso mexicano terminó en 18.90 (+2.67% el dólar)."
-     },
-     {
-      "t": "Qué se espera",
-      "x": "Mañana la región seguirá la salida a bolsa de Anthropic y el reporte de Walmart; el cobre y el dólar seguirán marcando el paso de Chile y Perú."
+      "t": "Qué se espera hoy",
+      "x": "La región seguirá el debut de Anthropic y los futuros de EE. UU. al alza, así como la cumbre de APEC en Shenzhen, donde participan Chile, Perú y México."
      }
     ],
-    "scm": "Escalona los pagos en pesos chilenos, colombianos y reales, que se debilitaron más de 1.4% hoy. Con el cobre en su nivel más bajo desde abril, cotiza cable e insumos de cobre del primer trimestre."
+    "scm": "Con las monedas de la región estabilizándose, cierra pagos en pesos chilenos, reales y pesos colombianos de forma escalonada, y cotiza insumos de cobre con el precio cerca de su mínimo desde abril."
    },
    "en": {
-    "titular": "Peru falls 4.4% and Canada 2.1% as metals plunge; the region's currencies weaken",
+    "titular": "The region's currencies steady after Wednesday's drop; copper rebounds 0.3%",
     "esencial": [
-     "The Ibovespa closed at 167,642.62 (−1.28%) and Canada's S&P/TSX at 34,578.05 (−2.09%); the MSCI ETFs fell 4.42% for Peru, 2.73% for Chile and 2.26% for Argentina.",
-     "The dollar rose to 1,007 Chilean pesos (+1.51%), 3,357 Colombian pesos (+1.69%) and 5.85 reais (+1.44%).",
-     "For supply chain: with weak currencies and copper at its lowest since April, stagger payments in the region and quote cable and copper inputs."
+     "Yesterday the Ibovespa closed at 167,537.95 (−1.34%) and Canada's S&P/TSX at 34,578.05 (−2.09%), as metals plunged.",
+     "At 6:07 a.m. ET the dollar fell to 1,004 Chilean pesos (−0.33%) and was steady at 5.85 reais and 3,355 Colombian pesos.",
+     "For supply chain: currencies are steadying but remain weak; use this to close payments in the region without concentrating them on a single day."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "The Ibovespa closed at 167,642.62 (−1.28%), Canada's S&P/TSX at 34,578.05 (−2.09%) and the S&P/BMV IPC at 69,146.97 (−1.76%). The MSCI ETFs fell 4.42% for Peru, 2.73% for Chile and 2.26% for Argentina."
+      "t": "What happened since the close",
+      "x": "Yesterday the Ibovespa closed at 167,537.95 (−1.34%), Canada's S&P/TSX at 34,578.05 (−2.09%) and the S&P/BMV IPC at 69,154.17 (−1.75%), with copper at its lowest since April and the Fed minutes pointing to more hikes."
      },
      {
-      "t": "Why",
-      "x": "Copper fell 5.2% to $5.67 per pound, its lowest since April, silver 5.1% and gold 3.5%, hitting miners in Peru, Chile and Canada. The Fed minutes, pointing to more hikes, strengthened the dollar against the region's currencies."
+      "t": "Context",
+      "x": "At 5:57 a.m. ET copper rebounded 0.3% to $5.69 per pound and crude held steady. At 6:07 a.m. ET the dollar stood at 1,004 Chilean pesos (−0.33%), 5.85 reais (−0.06%) and 3,355 Colombian pesos (−0.07%); the Mexican peso at 18.80 (−0.43%)."
      },
      {
-      "t": "Currencies",
-      "x": "At the close the dollar stood at 5.85 reais (+1.44%), 1,007.4 Chilean pesos (+1.51%), 3,357 Colombian pesos (+1.69%), 1,559 Argentine pesos (+0.45%) and 1.432 Canadian dollars (+0.20%); the Mexican peso ended at 18.90 (dollar +2.67%)."
-     },
-     {
-      "t": "What to expect",
-      "x": "Tomorrow the region will follow Anthropic's IPO and Walmart's report; copper and the dollar will keep setting the pace for Chile and Peru."
+      "t": "What to expect today",
+      "x": "The region will follow Anthropic's debut and rising US futures, as well as the APEC summit in Shenzhen, where Chile, Peru and Mexico take part."
      }
     ],
-    "scm": "Stagger payments in Chilean pesos, Colombian pesos and reais, which weakened more than 1.4% today. With copper at its lowest since April, quote first-quarter cable and copper inputs."
+    "scm": "With the region's currencies steadying, close payments in Chilean pesos, reais and Colombian pesos in stages, and quote copper inputs with prices near their lowest since April."
    },
    "pt": {
-    "titular": "O Peru cai 4,4% e o Canadá 2,1% com o tombo dos metais; as moedas da região se enfraquecem",
+    "titular": "As moedas da região se estabilizam depois da queda de quarta; o cobre sobe 0,3%",
     "esencial": [
-     "O Ibovespa fechou em 167.642,62 (−1,28%) e o S&P/TSX do Canadá em 34.578,05 (−2,09%); os ETFs da MSCI caíram 4,42% no Peru, 2,73% no Chile e 2,26% na Argentina.",
-     "O dólar subiu para 1.007 pesos chilenos (+1,51%), 3.357 pesos colombianos (+1,69%) e R$ 5,85 (+1,44%).",
-     "Para supply chain: com moedas fracas e o cobre no nível mais baixo desde abril, escalone os pagamentos na região e cote cabos e insumos de cobre."
+     "Ontem o Ibovespa fechou em 167.537,95 (−1,34%) e o S&P/TSX do Canadá em 34.578,05 (−2,09%), com o tombo dos metais.",
+     "Às 5h07 (Cidade do México) o dólar caía para 1.004 pesos chilenos (−0,33%) e estava estável em R$ 5,85 e 3.355 pesos colombianos.",
+     "Para supply chain: as moedas se estabilizam, mas seguem fracas; aproveite para fechar pagamentos na região sem concentrá-los em um só dia."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "O Ibovespa fechou em 167.642,62 (−1,28%), o S&P/TSX do Canadá em 34.578,05 (−2,09%) e o S&P/BMV IPC em 69.146,97 (−1,76%). Os ETFs da MSCI caíram 4,42% no Peru, 2,73% no Chile e 2,26% na Argentina."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "Ontem o Ibovespa fechou em 167.537,95 (−1,34%), o S&P/TSX do Canadá em 34.578,05 (−2,09%) e o S&P/BMV IPC em 69.154,17 (−1,75%), com o cobre no nível mais baixo desde abril e a ata do Fed antecipando mais altas."
      },
      {
-      "t": "Por quê",
-      "x": "O cobre caiu 5,2% para 5,67 dólares por libra, o nível mais baixo desde abril, a prata 5,1% e o ouro 3,5%, o que atingiu as mineradoras do Peru, do Chile e do Canadá. A ata do Fed, que antecipa mais altas, fortaleceu o dólar frente às moedas da região."
+      "t": "Contexto",
+      "x": "Às 4h57 (Cidade do México) o cobre subia 0,3% para 5,69 dólares por libra e o petróleo se mantinha estável. Às 5h07 o dólar estava em 1.004 pesos chilenos (−0,33%), R$ 5,85 (−0,06%) e 3.355 pesos colombianos (−0,07%); o peso mexicano em 18,80 (−0,43%)."
      },
      {
-      "t": "Moedas",
-      "x": "No fechamento o dólar estava em R$ 5,85 (+1,44%), 1.007,4 pesos chilenos (+1,51%), 3.357 pesos colombianos (+1,69%), 1.559 pesos argentinos (+0,45%) e 1,432 dólar canadense (+0,20%); o peso mexicano terminou em 18,90 (dólar +2,67%)."
-     },
-     {
-      "t": "O que se espera",
-      "x": "Amanhã a região vai acompanhar o IPO da Anthropic e o resultado do Walmart; o cobre e o dólar vão seguir ditando o ritmo de Chile e Peru."
+      "t": "O que se espera hoje",
+      "x": "A região vai acompanhar a estreia da Anthropic e os futuros dos EUA em alta, assim como a cúpula da APEC em Shenzhen, da qual participam Chile, Peru e México."
      }
     ],
-    "scm": "Escalone os pagamentos em pesos chilenos, colombianos e reais, que se enfraqueceram mais de 1,4% hoje. Com o cobre no nível mais baixo desde abril, cote cabos e insumos de cobre do primeiro trimestre."
+    "scm": "Com as moedas da região se estabilizando, feche pagamentos em pesos chilenos, reais e pesos colombianos de forma escalonada e cote insumos de cobre com o preço perto da mínima desde abril."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 15:15 CDMX)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (19 nov 2026, 05:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
-     "t": "Mr. Supply Chain México: mapa de calor de América",
-     "u": "https://mrsupplychain.ai/noticias/"
-    },
-    {
-     "t": "The Wall Street Journal: el cobre, en su nivel más bajo desde abril (18 nov 2026)",
-     "u": "https://finance.yahoo.com/m/383e3761-bb69-33a1-b6cb-36191bad9165/copper-at-lowest-since-april.html"
+     "t": "Yahoo Finance: los futuros suben antes del debut de Anthropic (19 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-090910916.html"
     }
    ]
   },
   "mexico": {
-   "id": "2026-11-18-cierre-mexico",
-   "fecha": "2026-11-18",
-   "momento": "cierre",
+   "id": "2026-11-19-premercado-mexico",
+   "fecha": "2026-11-19",
+   "momento": "premercado",
    "mercado": "mexico",
-   "hora": "15:15 CDMX",
+   "hora": "05:08 CDMX",
    "fin_de_semana": false,
    "es": {
-    "titular": "El peso se desploma 2.7% a 18.90, la moneda más castigada del día; el IPC cae 1.8%",
+    "titular": "El peso recupera terreno a 18.80 tras su desplome; hoy rige para pagos el FIX de 18.4677",
     "esencial": [
-     "El peso terminó en 18.90 por dólar a las 15:15 CDMX (+2.67% el dólar), la mayor depreciación entre las 16 monedas principales que sigue Bloomberg.",
-     "El S&P/BMV IPC cerró en 69,146.97 puntos (−1.76%), arrastrado por la caída de los metales y el temor a más alzas de la Fed.",
-     "Para supply chain: el FIX de mañana (18.4677) queda 43 centavos debajo del mercado; liquida al FIX los pagos que puedas y no compres dólares de golpe al tipo de cambio actual."
+     "A las 5:08 CDMX el peso cotizaba en 18.80 por dólar (−0.43% el dólar), después de cerrar ayer en 18.90 tras caer 2.7%.",
+     "Hoy rige para pagos el FIX de 18.4677, 33 centavos abajo del mercado; el IPC cerró ayer en 69,154.17 (−1.75%).",
+     "Para supply chain: liquida al FIX los pagos en dólares que puedas hoy y escalona las compras restantes, porque el peso sigue volátil."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "El peso terminó en 18.90 por dólar a las 15:15 CDMX (+2.67% el dólar), después de abrir en 18.60; según Bloomberg Línea fue la moneda que más se depreció entre las 16 principales. El S&P/BMV IPC cerró en 69,146.97 puntos (−1.76%), su nivel más bajo en semanas. Hoy rigió para pagos el FIX de 18.5525; mañana rige el de 18.4677, determinado ayer."
+      "t": "Lo que pasó desde el cierre",
+      "x": "El S&P/BMV IPC cerró ayer en 69,154.17 puntos (−1.75%) y el peso en 18.90 por dólar, tras depreciarse 2.7% por las minutas de la Fed. En la noche recuperó terreno: a las 5:08 CDMX cotizaba en 18.80 (−0.43% el dólar), con el índice del dólar en 103.61 (−0.24%). Hoy rige para pagos el FIX de 18.4677, determinado el martes."
      },
      {
-      "t": "Por qué",
-      "x": "Las minutas de la Fed mostraron que casi todos sus miembros ven probable subir más las tasas y algunos prefieren 50 puntos base, lo que estrecha el diferencial de tasas con México (Banxico está en 6.25%) y presiona al peso; Gabriela Siller, de Banco Base, prevé 19.00 por dólar si la Fed sube 50 puntos base en diciembre, según Bloomberg Línea. La caída del cobre (−5.2%), la plata (−5.1%) y el crudo (−3.4%) pegó al IPC y a las monedas de exportadores de materias primas."
+      "t": "Contexto",
+      "x": "Los futuros de EE. UU. suben con fuerza antes del debut de Anthropic (S&P 500 +1.27%), lo que favorece al IPC, pero las minutas de la Fed mantienen la expectativa de más alzas, lo que estrecha el diferencial de tasas con México (Banxico en 6.25%). El cobre rebota 0.3% y el crudo se mantiene estable."
      },
      {
-      "t": "Qué se espera",
-      "x": "El peso y el IPC abrirán mañana pendientes del reporte de Walmart, de peso para Walmex, y de la salida a bolsa de Anthropic. El 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre y el 27 la balanza comercial de octubre."
+      "t": "Qué se espera hoy",
+      "x": "Walmart reporta antes de la apertura, un dato relevante para Walmex. El 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre y el 27 la balanza comercial de octubre."
      }
     ],
-    "scm": "Con el peso en 18.90 y el FIX de mañana en 18.4677, liquida al FIX los pagos en dólares que puedas y escalona las compras restantes. Si tu presupuesto 2027 usa un tipo de cambio menor a 19, revisa el escenario: un alza de 50 puntos base de la Fed podría llevar al peso a 19.00 según Banco Base."
+    "scm": "Con el peso en 18.80 y el FIX de hoy en 18.4677, liquida al FIX los pagos en dólares que puedas y escalona el resto de las compras durante el día: el peso se movió casi 3% en un día."
    },
    "en": {
-    "titular": "The peso plunges 2.7% to 18.90, the day's worst-hit currency; the IPC falls 1.8%",
+    "titular": "The peso regains ground at 18.80 after its slump; the 18.4677 FIX applies to payments today",
     "esencial": [
-     "The peso ended at 18.90 per dollar at 3:15 p.m. Mexico City time (dollar +2.67%), the biggest drop among the 16 major currencies Bloomberg tracks.",
-     "The S&P/BMV IPC closed at 69,146.97 points (−1.76%), dragged by falling metals and fears of more Fed hikes.",
-     "For supply chain: tomorrow's FIX (18.4677) sits 43 centavos below the market; settle what you can at the FIX and don't buy dollars all at once at the current rate."
+     "At 5:08 a.m. Mexico City time the peso traded at 18.80 per dollar (dollar −0.43%), after closing yesterday at 18.90 following a 2.7% drop.",
+     "Today the 18.4677 FIX applies to payments, 33 centavos below the market; the IPC closed yesterday at 69,154.17 (−1.75%).",
+     "For supply chain: settle at the FIX the dollar payments you can today and stagger the remaining purchases, as the peso remains volatile."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "The peso ended at 18.90 per dollar at 3:15 p.m. Mexico City time (dollar +2.67%), after opening at 18.60; according to Bloomberg Línea it was the most depreciated of the 16 major currencies. The S&P/BMV IPC closed at 69,146.97 points (−1.76%), its lowest in weeks. The 18.5525 FIX applied to payments today; tomorrow the 18.4677 FIX, set yesterday, applies."
+      "t": "What happened since the close",
+      "x": "The S&P/BMV IPC closed yesterday at 69,154.17 points (−1.75%) and the peso at 18.90 per dollar, after a 2.7% drop on the Fed minutes. Overnight it regained ground: at 5:08 a.m. Mexico City time it traded at 18.80 (dollar −0.43%), with the dollar index at 103.61 (−0.24%). Today the 18.4677 FIX, set on Tuesday, applies to payments."
      },
      {
-      "t": "Why",
-      "x": "The Fed minutes showed nearly all members see further hikes as likely and some prefer 50 basis points, narrowing the rate gap with Mexico (Banxico is at 6.25%) and pressuring the peso; Gabriela Siller of Banco Base expects 19.00 per dollar if the Fed hikes 50 basis points in December, according to Bloomberg Línea. The drop in copper (−5.2%), silver (−5.1%) and crude (−3.4%) hit the IPC and commodity exporters' currencies."
+      "t": "Context",
+      "x": "US futures rise sharply ahead of Anthropic's debut (S&P 500 +1.27%), which helps the IPC, but the Fed minutes keep expectations of more hikes, narrowing the rate gap with Mexico (Banxico at 6.25%). Copper rebounds 0.3% and crude holds steady."
      },
      {
-      "t": "What to expect",
-      "x": "The peso and the IPC will open tomorrow watching Walmart's report, important for Walmex, and Anthropic's IPO. On November 24 INEGI publishes first-half November inflation and on the 27th the October trade balance."
+      "t": "What to expect today",
+      "x": "Walmart reports before the open, relevant for Walmex. On November 24 INEGI publishes first-half November inflation and on the 27th the October trade balance."
      }
     ],
-    "scm": "With the peso at 18.90 and tomorrow's FIX at 18.4677, settle the dollar payments you can at the FIX and stagger the rest of your purchases. If your 2027 budget uses an exchange rate below 19, review the scenario: a 50 basis-point Fed hike could take the peso to 19.00, according to Banco Base."
+    "scm": "With the peso at 18.80 and today's FIX at 18.4677, settle at the FIX the dollar payments you can and stagger the rest of your purchases through the day: the peso moved almost 3% in one day."
    },
    "pt": {
-    "titular": "O peso despenca 2,7% para 18,90, a moeda mais castigada do dia; o IPC cai 1,8%",
+    "titular": "O peso recupera terreno em 18,80 depois do tombo; hoje vale para pagamentos o FIX de 18,4677",
     "esencial": [
-     "O peso terminou em 18,90 por dólar às 15h15 (Cidade do México) (dólar +2,67%), a maior desvalorização entre as 16 principais moedas que a Bloomberg acompanha.",
-     "O S&P/BMV IPC fechou em 69.146,97 pontos (−1,76%), puxado pela queda dos metais e pelo temor de mais altas do Fed.",
-     "Para supply chain: o FIX de amanhã (18,4677) fica 43 centavos abaixo do mercado; liquide pelo FIX os pagamentos que puder e não compre dólares de uma vez à cotação atual."
+     "Às 5h08 (Cidade do México) o peso era cotado a 18,80 por dólar (dólar −0,43%), depois de fechar ontem em 18,90 com queda de 2,7%.",
+     "Hoje vale para pagamentos o FIX de 18,4677, 33 centavos abaixo do mercado; o IPC fechou ontem em 69.154,17 (−1,75%).",
+     "Para supply chain: liquide pelo FIX os pagamentos em dólares que puder hoje e escalone as compras restantes, porque o peso segue volátil."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "O peso terminou em 18,90 por dólar às 15h15 (Cidade do México) (dólar +2,67%), depois de abrir em 18,60; segundo a Bloomberg Línea foi a moeda que mais se desvalorizou entre as 16 principais. O S&P/BMV IPC fechou em 69.146,97 pontos (−1,76%), seu nível mais baixo em semanas. Hoje valeu para pagamentos o FIX de 18,5525; amanhã vale o de 18,4677, definido ontem."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "O S&P/BMV IPC fechou ontem em 69.154,17 pontos (−1,75%) e o peso em 18,90 por dólar, depois de se desvalorizar 2,7% pela ata do Fed. Durante a noite recuperou terreno: às 5h08 (Cidade do México) era cotado a 18,80 (dólar −0,43%), com o índice do dólar em 103,61 (−0,24%). Hoje vale para pagamentos o FIX de 18,4677, definido na terça."
      },
      {
-      "t": "Por quê",
-      "x": "A ata do Fed mostrou que quase todos os membros veem como provável subir mais os juros e alguns preferem 50 pontos-base, o que estreita o diferencial de juros com o México (o Banxico está em 6,25%) e pressiona o peso; Gabriela Siller, do Banco Base, prevê 19,00 por dólar se o Fed subir 50 pontos-base em dezembro, segundo a Bloomberg Línea. A queda do cobre (−5,2%), da prata (−5,1%) e do petróleo (−3,4%) atingiu o IPC e as moedas de exportadores de commodities."
+      "t": "Contexto",
+      "x": "Os futuros dos EUA sobem forte antes da estreia da Anthropic (S&P 500 +1,27%), o que favorece o IPC, mas a ata do Fed mantém a expectativa de mais altas, o que estreita o diferencial de juros com o México (Banxico em 6,25%). O cobre sobe 0,3% e o petróleo fica estável."
      },
      {
-      "t": "O que se espera",
-      "x": "O peso e o IPC vão abrir amanhã atentos ao resultado do Walmart, importante para o Walmex, e ao IPO da Anthropic. Em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro e no dia 27 a balança comercial de outubro."
+      "t": "O que se espera hoje",
+      "x": "O Walmart divulga resultados antes da abertura, um dado relevante para o Walmex. Em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro e no dia 27 a balança comercial de outubro."
      }
     ],
-    "scm": "Com o peso a 18,90 e o FIX de amanhã em 18,4677, liquide pelo FIX os pagamentos em dólares que puder e escalone as compras restantes. Se o seu orçamento de 2027 usa um câmbio abaixo de 19, revise o cenário: uma alta de 50 pontos-base do Fed poderia levar o peso a 19,00, segundo o Banco Base."
+    "scm": "Com o peso a 18,80 e o FIX de hoje em 18,4677, liquide pelo FIX os pagamentos em dólares que puder e escalone o resto das compras ao longo do dia: o peso oscilou quase 3% em um dia."
    },
    "fuentes": [
-    {
-     "t": "Bloomberg Línea: el peso se deprecia hasta 18.88 ante posibles alzas de la Fed (18 nov 2026)",
-     "u": "https://www.bloomberglinea.com/latinoamerica/mexico/dolar-en-mexico-peso-se-deprecia-hasta-mxn1888-ante-posibles-alzas-de-la-fed/"
-    },
-    {
-     "t": "Yahoo Finance: IPC México (^MXX), 18 nov 2026",
-     "u": "https://finance.yahoo.com/quote/%5EMXX/"
-    },
     {
      "t": "Banxico: tipo de cambio FIX y para pagos",
      "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=es"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (18 nov 2026, 15:15 CDMX)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (19 nov 2026, 05:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
+    },
+    {
+     "t": "Investing.com: la salida a bolsa récord de Anthropic y las minutas de la Fed, lo que mueve los mercados (19 nov 2026)",
+     "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-record-setting-ipo-fed-093418331.html"
     }
    ]
   }
@@ -653,8 +625,8 @@
    "nombre": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
    "grupo": "bolsa",
-   "valor": 6154.39,
-   "cambio": -0.93,
+   "valor": 6194.76,
+   "cambio": 0.66,
    "unidad": "puntos",
    "name_pt": "Euro Stoxx 50"
   },
@@ -662,8 +634,8 @@
    "nombre": "Nikkei 225",
    "name_en": "Nikkei 225",
    "grupo": "bolsa",
-   "valor": 59024.28,
-   "cambio": 0.28,
+   "valor": 59444.21,
+   "cambio": 0.71,
    "unidad": "puntos",
    "name_pt": "Nikkei 225"
   },
@@ -671,8 +643,8 @@
    "nombre": "KOSPI",
    "name_en": "KOSPI",
    "grupo": "bolsa",
-   "valor": 5067.44,
-   "cambio": 1.99,
+   "valor": 5137.89,
+   "cambio": 1.39,
    "unidad": "puntos",
    "name_pt": "KOSPI"
   },
@@ -680,8 +652,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 18.9,
-   "cambio": 2.67,
+   "valor": 18.8,
+   "cambio": -0.43,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -689,8 +661,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.0977,
-   "cambio": -0.23,
+   "valor": 1.101,
+   "cambio": 0.29,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -698,8 +670,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 159.33,
-   "cambio": -0.04,
+   "valor": 159.93,
+   "cambio": 0.41,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -707,8 +679,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 81.8,
-   "cambio": -3.37,
+   "valor": 82.39,
+   "cambio": 0.1,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -734,8 +706,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3728.5,
-   "cambio": -3.51,
+   "valor": 3736.6,
+   "cambio": -0.14,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -743,8 +715,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 5.67,
-   "cambio": -5.23,
+   "valor": 5.69,
+   "cambio": 0.34,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -779,8 +751,8 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 62378.1,
-   "cambio": -3.85,
+   "valor": 63643.98,
+   "cambio": 1.04,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }
