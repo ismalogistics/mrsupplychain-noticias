@@ -17,7 +17,7 @@ E = html.escape
 F = FUENTES
 LANGS = ('es', 'en', 'pt')
 PUBLICADO = '2026-11-17T15:30:00-06:00'
-ACTUALIZADO = '2026-11-18T07:45:00-06:00'
+ACTUALIZADO = '2026-11-18T18:45:00-06:00'
 
 MES = {'es': ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic'],
        'en': ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
@@ -493,7 +493,7 @@ def pagina():
 
       <section class="ex-sec" id="fuentes">
         <h2 class="nx-h2">{sp(L("Fuentes", "Sources", "Fontes"))}</h2>
-        {blk(L("Información al 18 de noviembre de 2026, 07:45 h CDMX; las horas están en tiempo de la Ciudad de México (la hora del Este es una hora más). Las causas son las que informaron las propias empresas y autoridades o fuentes citadas por los medios; ninguna ha publicado aún su informe final, y la NSA no ha dicho cuándo restablecerá por completo su red. Ninguna autoridad ha establecido una causa común; la versión de los parches por fallas halladas con IA viene de fuentes anónimas.", "Information as of November 18, 2026, 7:45 a.m. Mexico City time; times are Mexico City time (Eastern is one hour later). Causes are those reported by the companies and authorities themselves or by sources cited in the media; none has published a final report yet, and the NSA has not said when its network will be fully restored. No authority has established a common cause; the account of patches for AI-found flaws comes from anonymous sources.", "Informação de 18 de novembro de 2026, 07h45 (Cidade do México); os horários estão na hora da Cidade do México (o horário do Leste é uma hora a mais). As causas são as informadas pelas próprias empresas e autoridades ou por fontes citadas pela imprensa; nenhuma publicou ainda seu relatório final, e a NSA não disse quando restabelecerá totalmente sua rede. Nenhuma autoridade estabeleceu uma causa comum; a versão dos patches por falhas achadas com IA vem de fontes anônimas."), cls='ex-method')}
+        {blk(L("Información al 18 de noviembre de 2026, 18:45 h CDMX; las horas están en tiempo de la Ciudad de México (la hora del Este es una hora más). Las causas son las que informaron las propias empresas y autoridades o fuentes citadas por los medios; ninguna ha publicado aún su informe final, y la NSA no ha dicho cuándo restablecerá por completo su red. Ante el Congreso, el gobierno las describió como fallas separadas; cada empresa investiga la suya y no hay una causa común confirmada.", "Information as of November 18, 2026, 6:45 p.m. Mexico City time; times are Mexico City time (Eastern is one hour later). Causes are those reported by the companies and authorities themselves or by sources cited in the media; none has published a final report yet, and the NSA has not said when its network will be fully restored. Before Congress, the government described them as separate failures; each company is investigating its own and there is no confirmed common cause.", "Informação de 18 de novembro de 2026, 18h45 (Cidade do México); os horários estão na hora da Cidade do México (o horário do Leste é uma hora a mais). As causas são as informadas pelas próprias empresas e autoridades ou por fontes citadas pela imprensa; nenhuma publicou ainda seu relatório final, e a NSA não disse quando restabelecerá totalmente sua rede. Diante do Congresso, o governo as descreveu como falhas separadas; cada empresa investiga a sua e não há causa comum confirmada."), cls='ex-method')}
         {todas_fuentes()}
       </section>
     </article>
