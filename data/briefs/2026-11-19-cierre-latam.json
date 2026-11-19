@@ -1,0 +1,103 @@
+{
+ "id": "2026-11-19-cierre-latam",
+ "fecha": "2026-11-19",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Argentina cae 3.8% y Perú 2.4%; el real se debilita 1.5% a 5.93",
+  "esencial": [
+   "El Ibovespa cerró en 166,181.45 (−0.81%) y el S&P/TSX de Canadá en 34,028.73 (−1.59%); los ETF de MSCI cayeron 3.77% en Argentina, 2.44% en Perú y 1.29% en Chile.",
+   "El dólar subió a 5.93 reales (+1.47%), 3,412 pesos colombianos (+1.64%) y 1,015 pesos chilenos (+0.75%).",
+   "Para supply chain: las monedas de la región cierran la semana débiles; escalona los pagos y no concentres compras en dólares mañana."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El Ibovespa cerró en 166,181.45 (−0.81%), el S&P/TSX de Canadá en 34,028.73 (−1.59%) y el S&P/BMV IPC en 68,739.79 (−0.60%). Los ETF de MSCI cayeron 3.77% en Argentina, 2.44% en Perú y 1.29% en Chile."
+   },
+   {
+    "t": "Por qué",
+    "x": "La caída de Wall Street tras el debut de Anthropic y la baja del oro (−2.2%), la plata (−2.8%) y el cobre (−1.0%) golpearon a la región, sobre todo a Perú y Chile."
+   },
+   {
+    "t": "Monedas",
+    "x": "Al cierre el dólar estaba en 5.93 reales (+1.47%), 1,015 pesos chilenos (+0.75%), 3,412 pesos colombianos (+1.64%), 3.45 soles (+1.06%), 1,564.5 pesos argentinos (+0.35%) y 1.435 dólares canadienses (+0.17%); el peso mexicano terminó en 19.08 (+1.07% el dólar)."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana la región seguirá a Asia y a los futuros de EE. UU., que siguen a la baja, y el vencimiento del contrato de diciembre del WTI."
+   }
+  ],
+  "scm": "Escalona los pagos en reales, pesos colombianos y soles, que cerraron débiles, y cotiza insumos de cobre con el precio en 5.61 dólares por libra."
+ },
+ "en": {
+  "titular": "Argentina falls 3.8% and Peru 2.4%; the real weakens 1.5% to 5.93",
+  "esencial": [
+   "The Ibovespa closed at 166,181.45 (−0.81%) and Canada's S&P/TSX at 34,028.73 (−1.59%); the MSCI ETFs fell 3.77% for Argentina, 2.44% for Peru and 1.29% for Chile.",
+   "The dollar rose to 5.93 reais (+1.47%), 3,412 Colombian pesos (+1.64%) and 1,015 Chilean pesos (+0.75%).",
+   "For supply chain: the region's currencies are closing the week weak; stagger payments and don't concentrate dollar purchases tomorrow."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The Ibovespa closed at 166,181.45 (−0.81%), Canada's S&P/TSX at 34,028.73 (−1.59%) and the S&P/BMV IPC at 68,739.79 (−0.60%). The MSCI ETFs fell 3.77% for Argentina, 2.44% for Peru and 1.29% for Chile."
+   },
+   {
+    "t": "Why",
+    "x": "Wall Street's drop after Anthropic's debut and the decline in gold (−2.2%), silver (−2.8%) and copper (−1.0%) hit the region, especially Peru and Chile."
+   },
+   {
+    "t": "Currencies",
+    "x": "At the close the dollar stood at 5.93 reais (+1.47%), 1,015 Chilean pesos (+0.75%), 3,412 Colombian pesos (+1.64%), 3.45 soles (+1.06%), 1,564.5 Argentine pesos (+0.35%) and 1.435 Canadian dollars (+0.17%); the Mexican peso ended at 19.08 (dollar +1.07%)."
+   },
+   {
+    "t": "What to expect",
+    "x": "Tomorrow the region will follow Asia and US futures, which remain lower, and the expiry of the December WTI contract."
+   }
+  ],
+  "scm": "Stagger payments in reais, Colombian pesos and soles, which closed weak, and quote copper inputs with prices at $5.61 per pound."
+ },
+ "pt": {
+  "titular": "A Argentina cai 3,8% e o Peru 2,4%; o real se enfraquece 1,5% para 5,93",
+  "esencial": [
+   "O Ibovespa fechou em 166.181,45 (−0,81%) e o S&P/TSX do Canadá em 34.028,73 (−1,59%); os ETFs da MSCI caíram 3,77% na Argentina, 2,44% no Peru e 1,29% no Chile.",
+   "O dólar subiu para R$ 5,93 (+1,47%), 3.412 pesos colombianos (+1,64%) e 1.015 pesos chilenos (+0,75%).",
+   "Para supply chain: as moedas da região fecham a semana fracas; escalone os pagamentos e não concentre compras em dólares amanhã."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O Ibovespa fechou em 166.181,45 (−0,81%), o S&P/TSX do Canadá em 34.028,73 (−1,59%) e o S&P/BMV IPC em 68.739,79 (−0,60%). Os ETFs da MSCI caíram 3,77% na Argentina, 2,44% no Peru e 1,29% no Chile."
+   },
+   {
+    "t": "Por quê",
+    "x": "A queda de Wall Street depois da estreia da Anthropic e a queda do ouro (−2,2%), da prata (−2,8%) e do cobre (−1,0%) atingiram a região, sobretudo Peru e Chile."
+   },
+   {
+    "t": "Moedas",
+    "x": "No fechamento o dólar estava em R$ 5,93 (+1,47%), 1.015 pesos chilenos (+0,75%), 3.412 pesos colombianos (+1,64%), 3,45 soles (+1,06%), 1.564,5 pesos argentinos (+0,35%) e 1,435 dólar canadense (+0,17%); o peso mexicano terminou em 19,08 (dólar +1,07%)."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã a região vai acompanhar a Ásia e os futuros dos EUA, que seguem em queda, e o vencimento do contrato de dezembro do WTI."
+   }
+  ],
+  "scm": "Escalone os pagamentos em reais, pesos colombianos e soles, que fecharam fracos, e cote insumos de cobre com o preço a 5,61 dólares por libra."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (19 nov 2026, 15:15 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "Reuters: Wall Street cierra con fuertes caídas; el debut de Anthropic no reaviva el fervor por la IA (19 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-ends-sharply-lower-210028386.html"
+  }
+ ]
+}

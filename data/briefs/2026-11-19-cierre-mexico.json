@@ -1,0 +1,95 @@
+{
+ "id": "2026-11-19-cierre-mexico",
+ "fecha": "2026-11-19",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El peso cierra en 19.08, su nivel más débil en semanas, y el IPC cae 0.6%; mañana rige el FIX de 18.6723",
+  "esencial": [
+   "El peso terminó en 19.08 por dólar a las 15:15 CDMX (+1.07% el dólar), por arriba de 19 por segundo momento en la semana.",
+   "El S&P/BMV IPC cerró en 68,739.79 puntos (−0.60%), su tercera sesión a la baja.",
+   "Para supply chain: mañana rige para pagos el FIX de 18.6723, 41 centavos abajo del mercado; liquida al FIX lo que puedas y revisa si tu presupuesto 2027 aguanta un peso arriba de 19."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El peso terminó en 19.08 por dólar a las 15:15 CDMX (+1.07% el dólar), después de abrir en 18.96 y de recuperarse a 18.80 en la madrugada. El S&P/BMV IPC cerró en 68,739.79 puntos (−0.60%). Hoy rigió para pagos el FIX de 18.4677; mañana rige el de 18.6723, determinado ayer."
+   },
+   {
+    "t": "Por qué",
+    "x": "La caída de Wall Street tras el debut de Anthropic y la expectativa de más alzas de la Fed presionaron a las monedas de la región: el real cayó 1.5% y el peso colombiano 1.6%. El estrechamiento del diferencial de tasas con México (Banxico en 6.25%) pesa sobre el peso."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "El peso y el IPC abrirán mañana al ritmo de Asia y de los futuros de EE. UU., que siguen a la baja. El 24 de noviembre el INEGI publica la inflación de la primera quincena de noviembre y el 27 la balanza comercial de octubre."
+   }
+  ],
+  "scm": "Mañana los pagos en dólares se liquidan con el FIX de 18.6723, todavía abajo del mercado (19.08): aprovéchalo para liquidar lo que puedas. Si tu presupuesto 2027 usa un tipo de cambio menor a 19, prepara un escenario alterno."
+ },
+ "en": {
+  "titular": "The peso closes at 19.08, its weakest in weeks, and the IPC falls 0.6%; the 18.6723 FIX applies tomorrow",
+  "esencial": [
+   "The peso ended at 19.08 per dollar at 3:15 p.m. Mexico City time (dollar +1.07%), above 19 for a second time this week.",
+   "The S&P/BMV IPC closed at 68,739.79 points (−0.60%), its third losing session.",
+   "For supply chain: tomorrow the 18.6723 FIX applies to payments, 41 centavos below the market; settle what you can at the FIX and check whether your 2027 budget can handle a peso above 19."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The peso ended at 19.08 per dollar at 3:15 p.m. Mexico City time (dollar +1.07%), after opening at 18.96 and recovering to 18.80 overnight. The S&P/BMV IPC closed at 68,739.79 points (−0.60%). The 18.4677 FIX applied to payments today; tomorrow the 18.6723 FIX, set yesterday, applies."
+   },
+   {
+    "t": "Why",
+    "x": "Wall Street's drop after Anthropic's debut and expectations of more Fed hikes pressured the region's currencies: the real fell 1.5% and the Colombian peso 1.6%. The narrowing rate gap with Mexico (Banxico at 6.25%) weighs on the peso."
+   },
+   {
+    "t": "What to expect",
+    "x": "The peso and the IPC will open tomorrow in step with Asia and US futures, which remain lower. On November 24 INEGI publishes first-half November inflation and on the 27th the October trade balance."
+   }
+  ],
+  "scm": "Tomorrow dollar payments settle at the 18.6723 FIX, still below the market (19.08): use it to settle what you can. If your 2027 budget uses an exchange rate below 19, prepare an alternative scenario."
+ },
+ "pt": {
+  "titular": "O peso fecha em 19,08, seu nível mais fraco em semanas, e o IPC cai 0,6%; amanhã vale o FIX de 18,6723",
+  "esencial": [
+   "O peso terminou em 19,08 por dólar às 15h15 (Cidade do México) (dólar +1,07%), acima de 19 pela segunda vez na semana.",
+   "O S&P/BMV IPC fechou em 68.739,79 pontos (−0,60%), sua terceira sessão em queda.",
+   "Para supply chain: amanhã vale para pagamentos o FIX de 18,6723, 41 centavos abaixo do mercado; liquide pelo FIX o que puder e verifique se o seu orçamento de 2027 suporta um peso acima de 19."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O peso terminou em 19,08 por dólar às 15h15 (Cidade do México) (dólar +1,07%), depois de abrir em 18,96 e de se recuperar para 18,80 durante a madrugada. O S&P/BMV IPC fechou em 68.739,79 pontos (−0,60%). Hoje valeu para pagamentos o FIX de 18,4677; amanhã vale o de 18,6723, definido ontem."
+   },
+   {
+    "t": "Por quê",
+    "x": "A queda de Wall Street depois da estreia da Anthropic e a expectativa de mais altas do Fed pressionaram as moedas da região: o real caiu 1,5% e o peso colombiano 1,6%. O estreitamento do diferencial de juros com o México (Banxico em 6,25%) pesa sobre o peso."
+   },
+   {
+    "t": "O que se espera",
+    "x": "O peso e o IPC vão abrir amanhã no ritmo da Ásia e dos futuros dos EUA, que seguem em queda. Em 24 de novembro o INEGI divulga a inflação da primeira quinzena de novembro e no dia 27 a balança comercial de outubro."
+   }
+  ],
+  "scm": "Amanhã os pagamentos em dólares são liquidados com o FIX de 18,6723, ainda abaixo do mercado (19,08): aproveite para liquidar o que puder. Se o seu orçamento de 2027 usa um câmbio abaixo de 19, prepare um cenário alternativo."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 19 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX y para pagos",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=es"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (19 nov 2026, 15:15 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Reuters: Wall Street cierra con fuertes caídas; el debut de Anthropic no reaviva el fervor por la IA (19 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-ends-sharply-lower-210028386.html"
+  }
+ ]
+}

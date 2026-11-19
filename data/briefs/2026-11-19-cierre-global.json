@@ -1,0 +1,95 @@
+{
+ "id": "2026-11-19-cierre-global",
+ "fecha": "2026-11-19",
+ "momento": "cierre",
+ "mercado": "global",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El Dow pierde 1,100 puntos: Anthropic sube 17% en su debut, pero el S&P 500 cae 2% y suma cinco sesiones a la baja",
+  "esencial": [
+   "El S&P 500 cerró con −2.02% (7,175.83), el Nasdaq con −2.25% (23,879.20) y el Dow con −2.19% (49,097.06); el S&P 500 va hacia su peor semana desde abril de 2025.",
+   "Anthropic cerró su primer día en 97.17 dólares, 17% arriba de su precio de 83, tras tocar 115.10; Nvidia cayó 3.3% (sexta sesión a la baja) y AMD 7.7%.",
+   "Para supply chain: según Reuters, gestores prevén que los centros de datos serán más caros de construir y se construirán más lento; revisa supuestos de demanda y plazos si abasteces a ese sector."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El rebote de la apertura no aguantó: el S&P 500 cerró en 7,175.83 (−2.02%), el Nasdaq en 23,879.20 (−2.25%) y el Dow en 49,097.06 (−2.19%), una caída de más de 1,100 puntos; el VIX subió 17.8% a 28.94. Anthropic abrió en 111.50 dólares, llegó a 115.10 y cerró en 97.17, 17% arriba de su precio de 83. AMD cayó 7.7%, Nvidia 3.3%, TSMC 2.9%, Micron 2.1% y Broadcom 2.1%; Walmart bajó 1.0%. Europa cerró con Euro Stoxx 50 −0.66% y DAX −1.06%. El Treasury a 10 años bajó a 5.05%. El WTI subió 1.0% a 83.15 dólares y el diésel en futuros quedó en 3.89; el oro cayó 2.2% a 3,661, la plata 2.8% y el cobre 1.0% a 5.61."
+   },
+   {
+    "t": "Por qué",
+    "x": "El debut récord de Anthropic no reavivó el entusiasmo por la IA: según Reuters, los inversionistas vendieron otras acciones para hacer espacio a Anthropic y crecen las dudas sobre el gasto en centros de datos tras la crisis de liderazgo en Nvidia. AMD se desplomó después de que Hunterbrook dijo que su fondo tomó una posición en corto. Además, las minutas de la Fed mantienen la expectativa de un alza: el mercado da 94% de probabilidad a 25 puntos base en diciembre, según CME FedWatch."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Después del cierre los futuros del S&P 500 seguían en −2.1% y los del Nasdaq en −2.4%, lo que anticipa una apertura débil en Asia, sobre todo en Taiwán y Corea. Mañana viernes vence el contrato de diciembre del WTI. La próxima semana sale el índice PCE de inflación, que la Fed sigue de cerca; se espera una inflación subyacente anual de 3.2%."
+   }
+  ],
+  "scm": "Si abasteces a centros de datos, revisa tus supuestos de demanda y plazos: gestores citados por Reuters prevén construcciones más caras y más lentas. No cierres compras de cómputo a precio fijo sin cláusulas de ajuste, y con el diésel en 3.89 dólares por galón mantén la revisión semanal de recargos."
+ },
+ "en": {
+  "titular": "The Dow loses 1,100 points: Anthropic rises 17% on its debut, but the S&P 500 falls 2% for a fifth losing session",
+  "esencial": [
+   "The S&P 500 closed −2.02% (7,175.83), the Nasdaq −2.25% (23,879.20) and the Dow −2.19% (49,097.06); the S&P 500 is heading for its worst week since April 2025.",
+   "Anthropic ended its first day at $97.17, 17% above its $83 price, after touching $115.10; Nvidia fell 3.3% (a sixth losing session) and AMD 7.7%.",
+   "For supply chain: according to Reuters, fund managers expect data centers to be costlier and slower to build; review demand and lead-time assumptions if you supply that sector."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The morning rebound did not hold: the S&P 500 closed at 7,175.83 (−2.02%), the Nasdaq at 23,879.20 (−2.25%) and the Dow at 49,097.06 (−2.19%), a drop of more than 1,100 points; the VIX jumped 17.8% to 28.94. Anthropic opened at $111.50, hit $115.10 and closed at $97.17, 17% above its $83 price. AMD fell 7.7%, Nvidia 3.3%, TSMC 2.9%, Micron 2.1% and Broadcom 2.1%; Walmart fell 1.0%. Europe closed with the Euro Stoxx 50 −0.66% and the DAX −1.06%. The 10-year Treasury eased to 5.05%. WTI rose 1.0% to $83.15 and diesel futures held at $3.89; gold fell 2.2% to $3,661, silver 2.8% and copper 1.0% to $5.61."
+   },
+   {
+    "t": "Why",
+    "x": "Anthropic's record debut did not revive enthusiasm for AI: according to Reuters, investors sold other stocks to make room for Anthropic and doubts about data center spending are growing after Nvidia's leadership crisis. AMD plunged after Hunterbrook said its fund took a short position. In addition, the Fed minutes keep a hike in view: markets price a 94% probability of 25 basis points in December, according to CME FedWatch."
+   },
+   {
+    "t": "What to expect",
+    "x": "After the close S&P 500 futures were still −2.1% and Nasdaq futures −2.4%, pointing to a weak open in Asia, especially Taiwan and Korea. The December WTI contract expires tomorrow, Friday. Next week the PCE inflation index, closely watched by the Fed, comes out; core inflation is expected at 3.2% year over year."
+   }
+  ],
+  "scm": "If you supply data centers, review your demand and lead-time assumptions: managers cited by Reuters expect costlier, slower builds. Don't lock in fixed-price compute purchases without adjustment clauses, and with diesel at $3.89 a gallon keep weekly surcharge reviews."
+ },
+ "pt": {
+  "titular": "O Dow perde 1.100 pontos: a Anthropic sobe 17% na estreia, mas o S&P 500 cai 2% e soma cinco sessões em queda",
+  "esencial": [
+   "O S&P 500 fechou com −2,02% (7.175,83), o Nasdaq com −2,25% (23.879,20) e o Dow com −2,19% (49.097,06); o S&P 500 caminha para sua pior semana desde abril de 2025.",
+   "A Anthropic fechou o primeiro dia a 97,17 dólares, 17% acima do preço de 83, depois de tocar 115,10; a Nvidia caiu 3,3% (sexta sessão em queda) e a AMD 7,7%.",
+   "Para supply chain: segundo a Reuters, gestores preveem que os data centers serão mais caros de construir e serão construídos mais devagar; revise premissas de demanda e prazos se você abastece esse setor."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "A alta da abertura não se sustentou: o S&P 500 fechou em 7.175,83 (−2,02%), o Nasdaq em 23.879,20 (−2,25%) e o Dow em 49.097,06 (−2,19%), uma queda de mais de 1.100 pontos; o VIX subiu 17,8% para 28,94. A Anthropic abriu a 111,50 dólares, chegou a 115,10 e fechou a 97,17, 17% acima do preço de 83. A AMD caiu 7,7%, a Nvidia 3,3%, a TSMC 2,9%, a Micron 2,1% e a Broadcom 2,1%; o Walmart caiu 1,0%. A Europa fechou com Euro Stoxx 50 −0,66% e DAX −1,06%. O Treasury de 10 anos caiu para 5,05%. O WTI subiu 1,0% para 83,15 dólares e o diesel nos futuros ficou em 3,89; o ouro caiu 2,2% para 3.661, a prata 2,8% e o cobre 1,0% para 5,61."
+   },
+   {
+    "t": "Por quê",
+    "x": "A estreia recorde da Anthropic não reavivou o entusiasmo pela IA: segundo a Reuters, os investidores venderam outras ações para abrir espaço para a Anthropic e crescem as dúvidas sobre o gasto em data centers depois da crise de liderança na Nvidia. A AMD despencou depois que a Hunterbrook disse que seu fundo assumiu uma posição vendida. Além disso, a ata do Fed mantém a expectativa de alta: o mercado dá 94% de probabilidade a 25 pontos-base em dezembro, segundo o CME FedWatch."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Depois do fechamento os futuros do S&P 500 seguiam em −2,1% e os do Nasdaq em −2,4%, o que antecipa uma abertura fraca na Ásia, sobretudo em Taiwan e na Coreia. Amanhã, sexta, vence o contrato de dezembro do WTI. Na próxima semana sai o índice de inflação PCE, que o Fed acompanha de perto; espera-se inflação subjacente anual de 3,2%."
+   }
+  ],
+  "scm": "Se você abastece data centers, revise suas premissas de demanda e prazos: gestores citados pela Reuters preveem obras mais caras e mais lentas. Não feche compras de computação a preço fixo sem cláusulas de ajuste e, com o diesel a 3,89 dólares por galão, mantenha a revisão semanal das sobretaxas."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters: Wall Street cierra con fuertes caídas; el debut de Anthropic no reaviva el fervor por la IA (19 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-ends-sharply-lower-210028386.html"
+  },
+  {
+   "t": "Yahoo Finance: Anthropic cierra su primer día 17% arriba de su precio de salida (19 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-begins-trading-in-record-81b-raise-with-15t-valuation-192410598.html"
+  },
+  {
+   "t": "Yahoo Finance: Walmart supera lo esperado y eleva su guía por tercera vez (19 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/article/walmart-beats-q3-earnings-expectations-raises-2026-outlook-again-120803355.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (19 nov 2026, 15:15 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

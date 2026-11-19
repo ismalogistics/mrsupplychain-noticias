@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-19T17:40:28Z",
+ "actualizado": "2026-11-19T21:18:07Z",
  "fecha": "2026-11-19",
  "titular": {
-  "es": "Mediodía: Anthropic sube 20% en su debut, pero los chips borran su rebote y AMD se desploma",
-  "en": "Midday: Anthropic rises 20% on its debut, but chips erase their rebound and AMD plunges",
-  "pt": "Meio-dia: a Anthropic sobe 20% na estreia, mas os chips apagam a alta e a AMD despenca"
+  "es": "Jueves: Anthropic sube 17% en su debut, pero los chips caen, el oro baja 2.2% y aumentan los ataques a barcos",
+  "en": "Thursday: Anthropic rises 17% on its debut, but chips fall, gold drops 2.2% and attacks on ships pick up",
+  "pt": "Quinta: a Anthropic sobe 17% na estreia, mas os chips caem, o ouro cai 2,2% e aumentam os ataques a navios"
  },
  "items": [
   {
@@ -17,31 +17,27 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Los chips borran su rebote tras el debut de Anthropic; AMD se desploma 7.8% por una posición en corto",
-    "en": "Chips erase their rebound after Anthropic's debut; AMD plunges 7.8% on a short position",
-    "pt": "Os chips apagam a alta depois da estreia da Anthropic; a AMD despenca 7,8% por uma posição vendida"
+    "es": "Nvidia suma seis sesiones a la baja y AMD cae 7.7%; crecen las dudas sobre el gasto en centros de datos",
+    "en": "Nvidia posts six straight losses and AMD falls 7.7%; doubts grow over data center spending",
+    "pt": "A Nvidia soma seis sessões em queda e a AMD cai 7,7%; crescem as dúvidas sobre o gasto em data centers"
    },
    "x": {
-    "es": "Nvidia, Broadcom y Micron borraron sus ganancias de la mañana tras el debut de Anthropic; a las 11:38 CDMX AMD caía 7.8% después de que Hunterbrook dijo que su fondo tomó una posición en corto, TSMC bajaba 1.6% y Nvidia 0.8%.",
-    "en": "Nvidia, Broadcom and Micron erased their morning gains after Anthropic's debut; at 12:38 p.m. ET AMD was down 7.8% after Hunterbrook said its fund took a short position, TSMC fell 1.6% and Nvidia 0.8%.",
-    "pt": "Nvidia, Broadcom e Micron apagaram os ganhos da manhã depois da estreia da Anthropic; às 11h38 (Cidade do México) a AMD caía 7,8% depois que a Hunterbrook disse que seu fundo assumiu uma posição vendida, a TSMC caía 1,6% e a Nvidia 0,8%."
+    "es": "AMD cerró con −7.7%, Nvidia −3.3% (sexta sesión a la baja), TSMC −2.9%, Micron −2.1% y Broadcom −2.1%; CoreWeave y Nebius cayeron con fuerza. Un gestor citado por Reuters dijo que los centros de datos serán más caros de construir y se construirán más lento.",
+    "en": "AMD closed −7.7%, Nvidia −3.3% (a sixth losing session), TSMC −2.9%, Micron −2.1% and Broadcom −2.1%; CoreWeave and Nebius fell sharply. A fund manager cited by Reuters said data centers will be costlier to build and built more slowly.",
+    "pt": "A AMD fechou com −7,7%, a Nvidia −3,3% (sexta sessão em queda), a TSMC −2,9%, a Micron −2,1% e a Broadcom −2,1%; CoreWeave e Nebius caíram forte. Um gestor citado pela Reuters disse que os data centers serão mais caros de construir e serão construídos mais devagar."
    },
    "scm": {
-    "es": "La memoria sigue con demanda fuerte: asegura precios y asignaciones del primer trimestre antes de que vuelvan a subir.",
-    "en": "Memory demand remains strong: lock in first-quarter prices and allocations before they rise again.",
-    "pt": "A memória segue com demanda forte: garanta preços e alocações do primeiro trimestre antes que voltem a subir."
+    "es": "Si abasteces a centros de datos, revisa supuestos de demanda y plazos para 2027; si compras cómputo, pide cláusulas de ajuste de precio.",
+    "en": "If you supply data centers, review 2027 demand and lead-time assumptions; if you buy compute, ask for price-adjustment clauses.",
+    "pt": "Se você abastece data centers, revise premissas de demanda e prazos para 2027; se compra computação, peça cláusulas de ajuste de preço."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: Nvidia, Broadcom y Micron borran sus ganancias tras el debut de Anthropic (19 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html"
+     "t": "Reuters: Wall Street cierra con fuertes caídas; el debut de Anthropic no reaviva el fervor por la IA (19 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-ends-sharply-lower-210028386.html"
     },
     {
-     "t": "Reuters: Wall Street cae con fuerza; el debut de Anthropic no reaviva el apetito por la IA (19 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (19 nov 2026, 11:38 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (19 nov 2026, 15:15 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -56,14 +52,14 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo sube 1.6% por ataques a tanqueros en Ormuz; el diésel baja 0.9% a 3.85 dólares",
-    "en": "Crude rises 1.6% on tanker attacks in Hormuz; diesel falls 0.9% to $3.85",
-    "pt": "O petróleo sobe 1,6% por ataques a petroleiros em Ormuz; o diesel cai 0,9% para 3,85 dólares"
+    "es": "El WTI sube 1.0% a 83.15 dólares por Ormuz; el diésel se mantiene en 3.89",
+    "en": "WTI rises 1.0% to $83.15 on Hormuz; diesel holds at $3.89",
+    "pt": "O WTI sobe 1,0% para 83,15 dólares por Ormuz; o diesel se mantém em 3,89"
    },
    "x": {
-    "es": "A las 8:58 CDMX el WTI estaba en 83.64 dólares (+1.6%) y el Brent subía 1.5%, por los ataques a tanqueros en el estrecho de Ormuz; los inventarios de crudo de EE. UU. subieron 3.4 millones de barriles, según la EIA. El diésel en futuros bajaba 0.9% a 3.85 dólares por galón.",
-    "en": "At 9:58 a.m. ET WTI was at $83.64 (+1.6%) and Brent rose 1.5%, on tanker attacks in the Strait of Hormuz; US crude inventories rose 3.4 million barrels, according to the EIA. Diesel futures fell 0.9% to $3.85 a gallon.",
-    "pt": "Às 8h58 (Cidade do México) o WTI estava a 83,64 dólares (+1,6%) e o Brent subia 1,5%, pelos ataques a petroleiros no estreito de Ormuz; os estoques de petróleo dos EUA subiram 3,4 milhões de barris, segundo a EIA. O diesel nos futuros caía 0,9% para 3,85 dólares por galão."
+    "es": "El WTI terminó en 83.15 dólares (+1.0%) por los ataques a tanqueros en Ormuz y el diésel en futuros quedó en 3.89 dólares por galón; mañana vence el contrato de diciembre del WTI. Investing.com reporta que el choque petrolero mantiene altos los costos de las pequeñas empresas de EE. UU. aunque el crudo baje.",
+    "en": "WTI ended at $83.15 (+1.0%) on tanker attacks in Hormuz and diesel futures held at $3.89 a gallon; the December WTI contract expires tomorrow. Investing.com reports the oil shock keeps costs high for US small businesses even as crude pulls back.",
+    "pt": "O WTI terminou a 83,15 dólares (+1,0%) pelos ataques a petroleiros em Ormuz e o diesel nos futuros ficou em 3,89 dólares por galão; amanhã vence o contrato de dezembro do WTI. O Investing.com informa que o choque do petróleo mantém altos os custos das pequenas empresas dos EUA mesmo com o petróleo em queda."
    },
    "scm": {
     "es": "Pide que el recargo de combustible siga al diésel, que sigue bajando, y no al crudo.",
@@ -91,14 +87,14 @@
    "en": "Retail and last mile",
    "pt": "Varejo e última milha",
    "titular": {
-    "es": "Walmart supera lo esperado y eleva su guía; llega a 96% de los hogares de EE. UU. en menos de 3 horas",
-    "en": "Walmart beats and raises guidance; it reaches 96% of US households in under 3 hours",
-    "pt": "O Walmart supera o esperado e eleva a projeção; chega a 96% dos lares dos EUA em menos de 3 horas"
+    "es": "Walmart cierra con −1.0%: su guía anual decepcionó pese a superar lo esperado",
+    "en": "Walmart closes −1.0%: its annual guidance disappointed despite beating expectations",
+    "pt": "O Walmart fecha com −1,0%: a projeção anual decepcionou apesar de superar o esperado"
    },
    "x": {
-    "es": "Walmart reportó ingresos por 188,800 millones de dólares (se esperaban 187,200) y elevó por tercera vez su guía de ventas (+4.9% a 5.2%); su comercio electrónico creció 23% en EE. UU. y más de 80% de esos pedidos se surten desde tiendas. Su acción caía 1.5% a las 9:08 CDMX.",
-    "en": "Walmart reported revenue of $188.8 billion (expected $187.2 billion) and raised its sales guidance for the third time (+4.9% to 5.2%); US e-commerce grew 23% and more than 80% of those orders are fulfilled from stores. Its stock was down 1.5% at 10:08 a.m. ET.",
-    "pt": "O Walmart reportou receita de 188,8 bilhões de dólares (esperavam-se 187,2) e elevou pela terceira vez a projeção de vendas (+4,9% a 5,2%); o comércio eletrônico cresceu 23% nos EUA e mais de 80% desses pedidos são atendidos a partir das lojas. A ação caía 1,5% às 9h08 (Cidade do México)."
+    "es": "Walmart cerró con −1.0% porque su pronóstico de ventas anuales decepcionó a los inversionistas, según Reuters, pese a reportar ingresos por 188,800 millones de dólares y comercio electrónico +23% en EE. UU.; ya llega a 96% de los hogares de EE. UU. en menos de 3 horas.",
+    "en": "Walmart closed −1.0% because its annual sales forecast disappointed investors, according to Reuters, despite reporting revenue of $188.8 billion and US e-commerce +23%; it now reaches 96% of US households in under 3 hours.",
+    "pt": "O Walmart fechou com −1,0% porque a previsão de vendas anuais decepcionou os investidores, segundo a Reuters, apesar de reportar receita de 188,8 bilhões de dólares e comércio eletrônico +23% nos EUA; já chega a 96% dos lares dos EUA em menos de 3 horas."
    },
    "scm": {
     "es": "Si surtes a minoristas de EE. UU., revisa tus tiempos de reposición a tienda: el modelo de entrega desde tienda exige inventario más cerca del cliente.",
@@ -106,6 +102,10 @@
     "pt": "Se você abastece varejistas dos EUA, revise os prazos de reposição às lojas: o modelo de entrega a partir da loja exige estoque mais perto do cliente."
    },
    "fuentes": [
+    {
+     "t": "Reuters: Wall Street cierra con fuertes caídas; el debut de Anthropic no reaviva el fervor por la IA (19 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-ends-sharply-lower-210028386.html"
+    },
     {
      "t": "Yahoo Finance: Walmart supera lo esperado y eleva su guía por tercera vez (19 nov 2026)",
      "u": "https://finance.yahoo.com/markets/stocks/article/walmart-beats-q3-earnings-expectations-raises-2026-outlook-again-120803355.html"
@@ -122,14 +122,14 @@
    "en": "Shipping and ports",
    "pt": "Marítimo e portos",
    "titular": {
-    "es": "Irán dice que tres tanqueros quedaron inutilizados por minas al este de Ormuz; los hutíes atacan Riad",
-    "en": "Iran says three tankers were disabled by mines east of Hormuz; the Houthis attack Riyadh",
-    "pt": "O Irã diz que três petroleiros ficaram inutilizados por minas a leste de Ormuz; os houthis atacam Riad"
+    "es": "Los ataques a barcos aumentan justo cuando se desploman las tarifas de tanqueros",
+    "en": "Attacks on ships pick up just as tanker rates plunge",
+    "pt": "Os ataques a navios aumentam justamente quando as tarifas de petroleiros despencam"
    },
    "x": {
-    "es": "La marina de Irán dijo que tres tanqueros que navegaban al este del estrecho de Ormuz quedaron inutilizados por minas, y los hutíes lanzaron misiles contra Riad, según Reuters. Trump dijo en Shenzhen que el petróleo debe fluir por Ormuz.",
-    "en": "Iran's navy said three tankers sailing east of the Strait of Hormuz were disabled by mines, and the Houthis fired missiles at Riyadh, according to Reuters. Trump said in Shenzhen that oil must flow through Hormuz.",
-    "pt": "A marinha do Irã disse que três petroleiros que navegavam a leste do estreito de Ormuz ficaram inutilizados por minas, e os houthis lançaram mísseis contra Riad, segundo a Reuters. Trump disse em Shenzhen que o petróleo deve fluir por Ormuz."
+    "es": "Investor's Business Daily reporta que los ataques a barcos aumentaron después de que se desplomaron las tarifas de los tanqueros, y que las acciones de navieras de tanqueros fueron las más castigadas. Irán dijo esta semana que tres tanqueros quedaron inutilizados por minas al este de Ormuz.",
+    "en": "Investor's Business Daily reports attacks on ships picked up after tanker rates plunged, and tanker fleet stocks fell hardest. Iran said this week that three tankers were disabled by mines east of Hormuz.",
+    "pt": "O Investor's Business Daily informa que os ataques a navios aumentaram depois que as tarifas de petroleiros despencaram, e que as ações de armadores de petroleiros foram as mais castigadas. O Irã disse nesta semana que três petroleiros ficaram inutilizados por minas a leste de Ormuz."
    },
    "scm": {
     "es": "Mantén colchón de días y seguro de riesgo de guerra en embarques que crucen Medio Oriente.",
@@ -137,6 +137,10 @@
     "pt": "Mantenha folga de dias e seguro de risco de guerra nos embarques que cruzem o Oriente Médio."
    },
    "fuentes": [
+    {
+     "t": "Investor's Business Daily: los ataques aumentan tras el desplome de las tarifas de tanqueros (19 nov 2026)",
+     "u": "https://finance.yahoo.com/m/f9c9a321-66bc-3c1a-a57c-8a93c7421312/attacks-pick-up-after-tanker.html"
+    },
     {
      "t": "Reuters: el petróleo sube por ataques a barcos en Medio Oriente (19 nov 2026)",
      "u": "https://finance.yahoo.com/news/oil-prices-steady-supply-surplus-024608326.html"
@@ -153,14 +157,14 @@
    "en": "Software and AI for supply chain",
    "pt": "Software e IA para supply chain",
    "titular": {
-    "es": "Anthropic abre en 111.50 dólares, 34% arriba de su precio, tras la mayor salida a bolsa de la historia",
-    "en": "Anthropic opens at $111.50, 34% above its price, after the largest IPO on record",
-    "pt": "A Anthropic abre a 111,50 dólares, 34% acima do preço, depois do maior IPO da história"
+    "es": "Anthropic cierra su primer día en 97.17 dólares, 17% arriba de su precio de salida",
+    "en": "Anthropic ends its first day at $97.17, 17% above its IPO price",
+    "pt": "A Anthropic fecha o primeiro dia a 97,17 dólares, 17% acima do preço do IPO"
    },
    "x": {
-    "es": "Anthropic empezó a cotizar en 111.50 dólares, 34% arriba de su precio de 83, y a las 11:38 CDMX estaba en 99.53 (+19.9%); su salida a bolsa levantó 81,300 millones de dólares. Palo Alto Networks subió 4.8% tras elevar su guía de 2027 y arrastró a CrowdStrike, Cloudflare, Okta y Zscaler con alzas de 5% a 7%, según Reuters.",
-    "en": "Anthropic began trading at $111.50, 34% above its $83 price, and at 12:38 p.m. ET was at $99.53 (+19.9%); its IPO raised $81.3 billion. Palo Alto Networks rose 4.8% after raising its 2027 guidance, lifting CrowdStrike, Cloudflare, Okta and Zscaler by 5% to 7%, according to Reuters.",
-    "pt": "A Anthropic começou a ser negociada a 111,50 dólares, 34% acima do preço de 83, e às 11h38 (Cidade do México) estava em 99,53 (+19,9%); o IPO captou 81,3 bilhões de dólares. A Palo Alto Networks subiu 4,8% depois de elevar a projeção de 2027 e puxou CrowdStrike, Cloudflare, Okta e Zscaler com altas de 5% a 7%, segundo a Reuters."
+    "es": "Anthropic abrió en 111.50 dólares, llegó a 115.10 y cerró en 97.17, 17% arriba de su precio de 83; su salida a bolsa levantó 81,300 millones de dólares, la mayor de la historia, y reportó ingresos de 17,000 millones en el tercer trimestre, 12 veces más que hace un año. Palo Alto Networks subió tras elevar su guía de 2027.",
+    "en": "Anthropic opened at $111.50, hit $115.10 and closed at $97.17, 17% above its $83 price; its IPO raised $81.3 billion, the largest on record, and it reported third-quarter revenue of $17 billion, 12 times a year earlier. Palo Alto Networks rose after raising its 2027 guidance.",
+    "pt": "A Anthropic abriu a 111,50 dólares, chegou a 115,10 e fechou a 97,17, 17% acima do preço de 83; o IPO captou 81,3 bilhões de dólares, o maior da história, e a empresa reportou receita de 17 bilhões no terceiro trimestre, 12 vezes mais que um ano antes. A Palo Alto Networks subiu depois de elevar a projeção de 2027."
    },
    "scm": {
     "es": "Si evalúas herramientas de IA para planeación o compras, pide a tus proveedores precios y niveles de servicio fijos para 2027.",
@@ -169,12 +173,12 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: Anthropic empieza a cotizar en 111.50 dólares por acción (19 nov 2026)",
-     "u": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html"
+     "t": "Yahoo Finance: Anthropic cierra su primer día 17% arriba de su precio de salida (19 nov 2026)",
+     "u": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-begins-trading-in-record-81b-raise-with-15t-valuation-192410598.html"
     },
     {
-     "t": "Reuters: Wall Street cae con fuerza; el debut de Anthropic no reaviva el apetito por la IA (19 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html"
+     "t": "Reuters: Wall Street cierra con fuertes caídas; el debut de Anthropic no reaviva el fervor por la IA (19 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-ends-sharply-lower-210028386.html"
     }
    ]
   },
@@ -188,14 +192,14 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "El oro cae 1% a 3,704 y el cobre se queda cerca de su mínimo desde abril",
-    "en": "Gold falls 1% to $3,704 and copper stays near its lowest since April",
-    "pt": "O ouro cai 1% para 3.704 e o cobre fica perto da mínima desde abril"
+    "es": "El oro cae 2.2% a 3,661 y el cobre cierra en 5.61 dólares",
+    "en": "Gold falls 2.2% to $3,661 and copper closes at $5.61",
+    "pt": "O ouro cai 2,2% para 3.661 e o cobre fecha a 5,61 dólares"
    },
    "x": {
-    "es": "A las 8:58 CDMX el oro estaba en 3,704 dólares (−1.0%), el cobre en 5.66 dólares por libra (−0.2%) y la plata en 45.20 (+0.3%).",
-    "en": "At 9:58 a.m. ET gold was at $3,704 (−1.0%), copper at $5.66 per pound (−0.2%) and silver at $45.20 (+0.3%).",
-    "pt": "Às 8h58 (Cidade do México) o ouro estava a 3.704 dólares (−1,0%), o cobre a 5,66 dólares por libra (−0,2%) e a prata a 45,20 (+0,3%)."
+    "es": "El oro terminó en 3,661 dólares (−2.2%), la plata en 43.80 (−2.8%) y el cobre en 5.61 dólares por libra (−1.0%); los ETF de MSCI de Perú y Chile cayeron 2.4% y 1.3%.",
+    "en": "Gold ended at $3,661 (−2.2%), silver at $43.80 (−2.8%) and copper at $5.61 per pound (−1.0%); the MSCI Peru and Chile ETFs fell 2.4% and 1.3%.",
+    "pt": "O ouro terminou a 3.661 dólares (−2,2%), a prata a 43,80 (−2,8%) e o cobre a 5,61 dólares por libra (−1,0%); os ETFs da MSCI do Peru e do Chile caíram 2,4% e 1,3%."
    },
    "scm": {
     "es": "Cotiza cable y conectores para el primer trimestre con el cobre cerca de su mínimo desde abril.",
@@ -204,7 +208,7 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (19 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (19 nov 2026, 15:15 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]

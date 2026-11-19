@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-19-cierre-global",
+   "fecha": "2026-11-19",
+   "momento": "cierre",
+   "mercado": "global",
+   "titular_es": "El Dow pierde 1,100 puntos: Anthropic sube 17% en su debut, pero el S&P 500 cae 2% y suma cinco sesiones a la baja",
+   "titular_en": "The Dow loses 1,100 points: Anthropic rises 17% on its debut, but the S&P 500 falls 2% for a fifth losing session",
+   "titular_pt": "O Dow perde 1.100 pontos: a Anthropic sobe 17% na estreia, mas o S&P 500 cai 2% e soma cinco sessões em queda"
+  },
+  {
+   "id": "2026-11-19-cierre-latam",
+   "fecha": "2026-11-19",
+   "momento": "cierre",
+   "mercado": "latam",
+   "titular_es": "Argentina cae 3.8% y Perú 2.4%; el real se debilita 1.5% a 5.93",
+   "titular_en": "Argentina falls 3.8% and Peru 2.4%; the real weakens 1.5% to 5.93",
+   "titular_pt": "A Argentina cai 3,8% e o Peru 2,4%; o real se enfraquece 1,5% para 5,93"
+  },
+  {
+   "id": "2026-11-19-cierre-mexico",
+   "fecha": "2026-11-19",
+   "momento": "cierre",
+   "mercado": "mexico",
+   "titular_es": "El peso cierra en 19.08, su nivel más débil en semanas, y el IPC cae 0.6%; mañana rige el FIX de 18.6723",
+   "titular_en": "The peso closes at 19.08, its weakest in weeks, and the IPC falls 0.6%; the 18.6723 FIX applies tomorrow",
+   "titular_pt": "O peso fecha em 19,08, seu nível mais fraco em semanas, e o IPC cai 0,6%; amanhã vale o FIX de 18,6723"
+  },
+  {
    "id": "2026-11-19-mediodia-global",
    "fecha": "2026-11-19",
    "momento": "mediodia",
@@ -782,33 +809,6 @@
    "titular_es": "El IPC abre con −0.6% y el peso se debilita a 18.69 tras la inflación de EE. UU.",
    "titular_en": "The IPC opens −0.6% and the peso weakens to 18.69 after US inflation",
    "titular_pt": "O IPC abre com −0,6% e o peso enfraquece para 18,69 após a inflação dos EUA"
-  },
-  {
-   "id": "2026-11-10-premercado-global",
-   "fecha": "2026-11-10",
-   "momento": "premercado",
-   "mercado": "global",
-   "titular_es": "La inflación de EE. UU. sube 0.4% en octubre, más de lo esperado, y los futuros de Nasdaq bajan 1.4%",
-   "titular_en": "US inflation rises 0.4% in October, more than expected, and Nasdaq futures fall 1.4%",
-   "titular_pt": "A inflação dos EUA sobe 0,4% em outubro, acima do esperado, e os futuros do Nasdaq caem 1,4%"
-  },
-  {
-   "id": "2026-11-10-premercado-latam",
-   "fecha": "2026-11-10",
-   "momento": "premercado",
-   "mercado": "latam",
-   "titular_es": "La región cerró el lunes con fuertes alzas; hoy la presiona el dólar tras la inflación de EE. UU.",
-   "titular_en": "The region closed Monday with strong gains; today the dollar weighs after US inflation",
-   "titular_pt": "A região fechou a segunda com fortes altas; hoje o dólar pesa após a inflação dos EUA"
-  },
-  {
-   "id": "2026-11-10-premercado-mexico",
-   "fecha": "2026-11-10",
-   "momento": "premercado",
-   "mercado": "mexico",
-   "titular_es": "El peso pierde terreno tras la inflación de EE. UU.: pasa de 18.50 en la madrugada a 18.67",
-   "titular_en": "The peso loses ground after US inflation: from 18.50 overnight to 18.67",
-   "titular_pt": "O peso perde terreno após a inflação dos EUA: passa de 18,50 na madrugada para 18,67"
   }
  ]
 }
