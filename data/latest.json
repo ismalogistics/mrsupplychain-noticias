@@ -134,15 +134,15 @@
     "bloques": [
      {
       "t": "Qué pasó",
-      "x": "El S&P/TSX de Canadá cerró en 33,189.85 (−2.47%), su nivel más bajo en seis meses, y perdió 8.1% en la semana. La B3 de Brasil no operó por el Día de la Conciencia Negra. Los ETF de MSCI cayeron 3.26% en Brasil, 2.97% en Argentina, 2.76% en Perú y 1.01% en Chile. En monedas, el dólar terminó en 5.95 reales (+0.74%), 1,022 pesos chilenos (+0.64%), 3,497 pesos colombianos (+2.20%), 3.45 soles (+0.21%), 1,580 pesos argentinos (+0.96%) y 1.435 dólares canadienses (+0.10%)."
+      "x": "El S&P/TSX de Canadá cerró en 33,189.85 (−2.47%), su nivel más bajo en seis meses, y perdió 8.1% en la semana. La B3 de Brasil no operó por el Día de la Conciencia Negra. Los ETF de MSCI cayeron 3.26% en Brasil, 2.97% en Argentina, 2.76% en Perú y 1.01% en Chile."
      },
      {
       "t": "Por qué",
-      "x": "La venta global en tecnología y la caída de los metales (oro −4.4%, plata −7.8%, cobre −3.0%) pegaron a las bolsas de la región, en especial a Perú y Chile; la expectativa de un alza de la Fed fortalece al dólar."
+      "x": "La venta global en tecnología y la caída de los metales (oro −4.4%, plata −7.8%, cobre −3.0%) pegaron a las bolsas de la región, en especial a Perú y Chile; la expectativa de un alza de la Fed fortalece al dólar. El crudo cerró al alza (WTI +1.8%), pero bajó en la semana, lo que pesa sobre Colombia. La región seguirá a Wall Street y a la Fed."
      },
      {
-      "t": "Qué se espera",
-      "x": "El crudo cerró al alza (WTI +1.8%), pero bajó en la semana, lo que pesa sobre Colombia. La región seguirá a Wall Street y a la Fed."
+      "t": "Monedas",
+      "x": "El dólar terminó en 5.95 reales (+0.74%), 1,022 pesos chilenos (+0.64%), 3,497 pesos colombianos (+2.20%), 3.45 soles (+0.21%), 1,580 pesos argentinos (+0.96%) y 1.435 dólares canadienses (+0.10%)."
      },
      {
       "t": "La próxima semana",
@@ -161,15 +161,15 @@
     "bloques": [
      {
       "t": "What happened",
-      "x": "Canada's S&P/TSX closed at 33,189.85 (−2.47%), its lowest in six months, and lost 8.1% for the week. Brazil's B3 was closed for Black Consciousness Day. The MSCI ETFs fell 3.26% for Brazil, 2.97% for Argentina, 2.76% for Peru and 1.01% for Chile. In currencies, the dollar ended at 5.95 reais (+0.74%), 1,022 Chilean pesos (+0.64%), 3,497 Colombian pesos (+2.20%), 3.45 soles (+0.21%), 1,580 Argentine pesos (+0.96%) and 1.435 Canadian dollars (+0.10%)."
+      "x": "Canada's S&P/TSX closed at 33,189.85 (−2.47%), its lowest in six months, and lost 8.1% for the week. Brazil's B3 was closed for Black Consciousness Day. The MSCI ETFs fell 3.26% for Brazil, 2.97% for Argentina, 2.76% for Peru and 1.01% for Chile."
      },
      {
       "t": "Why",
-      "x": "The global tech sell-off and the drop in metals (gold −4.4%, silver −7.8%, copper −3.0%) hit the region’s stock markets, especially Peru and Chile; expectations of a Fed hike strengthen the dollar."
+      "x": "The global tech sell-off and the drop in metals (gold −4.4%, silver −7.8%, copper −3.0%) hit the region’s stock markets, especially Peru and Chile; expectations of a Fed hike strengthen the dollar. Crude closed higher (WTI +1.8%) but fell for the week, which weighs on Colombia. The region will follow Wall Street and the Fed."
      },
      {
-      "t": "What to expect",
-      "x": "Crude closed higher (WTI +1.8%) but fell for the week, which weighs on Colombia. The region will follow Wall Street and the Fed."
+      "t": "Currencies",
+      "x": "The dollar ended at 5.95 reais (+0.74%), 1,022 Chilean pesos (+0.64%), 3,497 Colombian pesos (+2.20%), 3.45 soles (+0.21%), 1,580 Argentine pesos (+0.96%) and 1.435 Canadian dollars (+0.10%)."
      },
      {
       "t": "Next week",
@@ -188,15 +188,15 @@
     "bloques": [
      {
       "t": "O que aconteceu",
-      "x": "O S&P/TSX do Canadá fechou em 33.189,85 (−2,47%), o menor nível em seis meses, e perdeu 8,1% na semana. A B3 não operou pelo Dia da Consciência Negra. Os ETFs da MSCI caíram 3,26% no Brasil, 2,97% na Argentina, 2,76% no Peru e 1,01% no Chile. Nas moedas, o dólar terminou em R$ 5,95 (+0,74%), 1.022 pesos chilenos (+0,64%), 3.497 pesos colombianos (+2,20%), 3,45 soles (+0,21%), 1.580 pesos argentinos (+0,96%) e 1,435 dólar canadense (+0,10%)."
+      "x": "O S&P/TSX do Canadá fechou em 33.189,85 (−2,47%), o menor nível em seis meses, e perdeu 8,1% na semana. A B3 não operou pelo Dia da Consciência Negra. Os ETFs da MSCI caíram 3,26% no Brasil, 2,97% na Argentina, 2,76% no Peru e 1,01% no Chile."
      },
      {
       "t": "Por quê",
-      "x": "A venda global em tecnologia e a queda dos metais (ouro −4,4%, prata −7,8%, cobre −3,0%) atingiram as bolsas da região, especialmente Peru e Chile; a expectativa de alta do Fed fortalece o dólar."
+      "x": "A venda global em tecnologia e a queda dos metais (ouro −4,4%, prata −7,8%, cobre −3,0%) atingiram as bolsas da região, especialmente Peru e Chile; a expectativa de alta do Fed fortalece o dólar. O petróleo fechou em alta (WTI +1,8%), mas caiu na semana, o que pesa sobre a Colômbia. A região seguirá Wall Street e o Fed."
      },
      {
-      "t": "O que se espera",
-      "x": "O petróleo fechou em alta (WTI +1,8%), mas caiu na semana, o que pesa sobre a Colômbia. A região seguirá Wall Street e o Fed."
+      "t": "Moedas",
+      "x": "O dólar terminou em R$ 5,95 (+0,74%), 1.022 pesos chilenos (+0,64%), 3.497 pesos colombianos (+2,20%), 3,45 soles (+0,21%), 1.580 pesos argentinos (+0,96%) e 1,435 dólar canadense (+0,10%)."
      },
      {
       "t": "A próxima semana",
