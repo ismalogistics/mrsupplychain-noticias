@@ -1,285 +1,286 @@
 {
- "actualizado": "2026-11-20T11:10:03Z",
- "momento": "premercado",
+ "actualizado": "2026-11-20T15:11:02Z",
+ "momento": "apertura",
  "briefs": {
   "global": {
-   "id": "2026-11-20-premercado-global",
+   "id": "2026-11-20-apertura-global",
    "fecha": "2026-11-20",
-   "momento": "premercado",
+   "momento": "apertura",
    "mercado": "global",
-   "hora": "05:08 CDMX",
-   "fin_de_semana": false,
+   "hora": "09:08 CDMX",
    "es": {
-    "titular": "Asia se desploma con la IA: Taiwán cae 10.4%, Corea 5.2% y Japón 5.1%; el oro baja 2.6%",
+    "titular": "Wall Street abre dividido: el Dow sube 0.9%, pero los chips siguen cayendo y Anthropic pierde 6.4%",
     "esencial": [
-     "La bolsa de Taiwán cerró con −10.35%, el KOSPI con −5.21% y el Nikkei con −5.06%; SoftBank perdió 14.5%, y Asia va hacia su peor semana desde 2020, según Reuters.",
-     "A las 4:58 CDMX los futuros del Nasdaq 100 bajaban 1.16% y los del S&P 500 0.40%, tras seis sesiones seguidas a la baja del S&P 500; Anthropic cedía 6% en la madrugada.",
-     "Para supply chain: el Brent va hacia una caída semanal de 6% porque las exportaciones por Ormuz volvieron a niveles de antes de la guerra; aprovecha para negociar recargos, pero los ataques a tanqueros siguen, casi uno por día."
+     "A las 9:08 CDMX el Dow subía 0.90%, el S&P 500 estaba plano (−0.01%) y el Nasdaq bajaba 0.71%; Micron caía 5.6%, Broadcom 4.9% y Nvidia 3.2%.",
+     "Anthropic bajaba 6.4% a 90.97 dólares en su segundo día, aún arriba de su precio de 83; el Treasury a 10 años bajaba de 5% (4.98%).",
+     "Para supply chain: el crudo va por su tercera semana a la baja y el diésel está en 3.86 dólares por galón; cierra la semana negociando recargos de diciembre."
     ],
     "bloques": [
      {
-      "t": "Lo que pasó desde el cierre",
-      "x": "Tras la caída de más de 2% de Wall Street el jueves, la venta en tecnología se extendió a Asia: Anthropic cedía 6% en la madrugada desde su cierre de 97.17 dólares, aunque sigue arriba de su precio de 83. SoftBank cayó 14.5% a su nivel más bajo desde abril, según Investing.com. La Guardia Revolucionaria de Irán dijo que dos tanqueros chocaron con minas en Ormuz y \"están ardiendo\", y los hutíes lanzaron misiles contra Riad; UOB estima que los ataques a tanqueros van a un ritmo de casi uno por día en noviembre. El índice del dólar está cerca de 103.9, su nivel más alto desde abril de 2025, y va hacia su cuarta semana de alza."
+      "t": "Apertura",
+      "x": "El premercado anticipaba más presión en tecnología tras el desplome de Asia y la apertura lo confirmó en parte: a las 9:08 CDMX el S&P 500 estaba en 7,175.44 (−0.01%), el Nasdaq en 23,709.11 (−0.71%) y el Dow en 49,541.17 (+0.90%); el VIX seguía en 28.45. Micron caía 5.6%, Broadcom 4.9%, AMD 4.0%, TSMC 3.2% y Nvidia 3.2% (141.38 dólares), que suma más de 10% de caída desde su reporte; las acciones de óptica revertían el rally del jueves (Coherent −4%, Lumentum −5%). Anthropic bajaba 6.4% a 90.97 dólares. El Treasury a 10 años bajaba a 4.98%, debajo de 5% por primera vez en la semana. El WTI caía 0.9% a 81.73 dólares y el diésel en futuros estaba en 3.86; el oro caía 3.0% a 3,577, la plata 4.9% y el cobre 1.0% a 5.58."
      },
      {
-      "t": "Asia, Europa y futuros",
-      "x": "Asia cerró con fuertes caídas: Taiwán −10.35% (36,033.29), KOSPI −5.21% (4,869.96), Nikkei −5.06% (56,436.65), Hang Seng −3.79% y Shanghái −1.51%. A las 4:53 CDMX el Euro Stoxx 50 bajaba 1.64%, el DAX 1.50% y el FTSE 100 0.42%. A las 4:58 CDMX los futuros del Nasdaq 100 bajaban 1.16%, los del S&P 500 0.40% y los del Dow subían 0.20%. Según Reuters, el Brent bajaba 1.8% a 90.33 dólares y el WTI de enero 1.5% a 81.22; el Brent va hacia una caída semanal de 6%. El oro caía 2.6% a 3,588 dólares, la plata 4.1%, el cobre 1.2% a 5.57 dólares por libra y el bitcoin estaba en 61,841, su nivel más bajo desde julio."
+      "t": "Asia y Europa",
+      "x": "Asia cerró con fuertes caídas: Taiwán −10.35%, KOSPI −5.21% (4,869.96), Nikkei −5.06% (56,436.65), Hang Seng −3.79% y Shanghái −1.51%. A las 8:53 CDMX Europa caía: Euro Stoxx 50 −1.89%, DAX −1.86%, CAC 40 −1.11% y FTSE 100 −0.55%."
      },
      {
       "t": "Qué se espera hoy",
-      "x": "A las 9:00 CDMX sale la lectura final de noviembre del sentimiento del consumidor de la Universidad de Michigan (se esperan 53.3 puntos, desde 51). Vence el contrato de diciembre del WTI. La próxima semana sale el índice de precios PCE y el jueves 26 la Bolsa de Nueva York cierra por el Día de Acción de Gracias; la OPEP+ se reúne el 29 de noviembre para definir su producción de 2027."
+      "x": "A las 9:00 CDMX salió la lectura final del sentimiento del consumidor de la Universidad de Michigan; la gasolina en EE. UU. ya bajó de 4 dólares por galón, según Yahoo Finance. Hoy vence el contrato de diciembre del WTI. La próxima semana sale el índice PCE y el jueves 26 no opera Wall Street por el Día de Acción de Gracias."
      }
     ],
-    "scm": "El crudo va por su tercera semana a la baja: es buen momento para negociar recargos de combustible para diciembre con el diésel en 3.87 dólares por galón en futuros. Pero los ataques a tanqueros siguen casi a diario, así que mantén colchón en embarques que crucen Medio Oriente, y adelanta embarques a EE. UU. antes del feriado del jueves 26."
+    "scm": "Cierra la semana negociando recargos de combustible para diciembre: el crudo va por su tercera semana a la baja y el diésel está en 3.86 dólares por galón. En cómputo, la caída de Micron, Broadcom y Nvidia no se ha traducido aún en precios más bajos: mantén cláusulas de ajuste y no adelantes compras grandes."
    },
    "en": {
-    "titular": "Asia plunges on AI: Taiwan falls 10.4%, Korea 5.2% and Japan 5.1%; gold drops 2.6%",
+    "titular": "Wall Street opens split: the Dow rises 0.9%, but chips keep falling and Anthropic loses 6.4%",
     "esencial": [
-     "Taiwan's stock market closed −10.35%, the KOSPI −5.21% and the Nikkei −5.06%; SoftBank lost 14.5%, and Asia is heading for its worst week since 2020, according to Reuters.",
-     "At 5:58 a.m. ET Nasdaq 100 futures were down 1.16% and S&P 500 futures 0.40%, after six straight losing sessions for the S&P 500; Anthropic gave up 6% overnight.",
-     "For supply chain: Brent is heading for a 6% weekly drop as Hormuz exports have returned to pre-war levels; use it to negotiate surcharges, but tanker attacks continue at nearly one a day."
+     "At 10:08 a.m. ET the Dow was up 0.90%, the S&P 500 flat (−0.01%) and the Nasdaq down 0.71%; Micron fell 5.6%, Broadcom 4.9% and Nvidia 3.2%.",
+     "Anthropic fell 6.4% to $90.97 on its second day, still above its $83 price; the 10-year Treasury yield dropped below 5% (4.98%).",
+     "For supply chain: crude is heading for a third weekly decline and diesel is at $3.86 a gallon; close the week negotiating December surcharges."
     ],
     "bloques": [
      {
-      "t": "What happened since the close",
-      "x": "After Wall Street's drop of more than 2% on Thursday, the tech sell-off spread to Asia: Anthropic gave up 6% overnight from its $97.17 close, though it remains above its $83 price. SoftBank fell 14.5% to its lowest since April, according to Investing.com. Iran's Revolutionary Guards said two tankers struck mines in Hormuz and \"are burning,\" and the Houthis fired missiles at Riyadh; UOB estimates tanker attacks are running at nearly one a day in November. The dollar index is near 103.9, its highest since April 2025, and heading for a fourth weekly gain."
+      "t": "Open",
+      "x": "Premarket pointed to more pressure on tech after Asia's plunge and the open partly confirmed it: at 10:08 a.m. ET the S&P 500 stood at 7,175.44 (−0.01%), the Nasdaq at 23,709.11 (−0.71%) and the Dow at 49,541.17 (+0.90%); the VIX held at 28.45. Micron fell 5.6%, Broadcom 4.9%, AMD 4.0%, TSMC 3.2% and Nvidia 3.2% ($141.38), down more than 10% since its report; optics stocks reversed Thursday's rally (Coherent −4%, Lumentum −5%). Anthropic fell 6.4% to $90.97. The 10-year Treasury yield fell to 4.98%, below 5% for the first time this week. WTI fell 0.9% to $81.73 and diesel futures were at $3.86; gold fell 3.0% to $3,577, silver 4.9% and copper 1.0% to $5.58."
      },
      {
-      "t": "Asia, Europe and futures",
-      "x": "Asia closed sharply lower: Taiwan −10.35% (36,033.29), KOSPI −5.21% (4,869.96), Nikkei −5.06% (56,436.65), Hang Seng −3.79% and Shanghai −1.51%. At 5:53 a.m. ET the Euro Stoxx 50 was down 1.64%, the DAX 1.50% and the FTSE 100 0.42%. At 5:58 a.m. ET Nasdaq 100 futures were down 1.16%, S&P 500 futures 0.40% and Dow futures up 0.20%. According to Reuters, Brent fell 1.8% to $90.33 and January WTI 1.5% to $81.22; Brent is heading for a 6% weekly drop. Gold fell 2.6% to $3,588, silver 4.1%, copper 1.2% to $5.57 per pound and bitcoin was at $61,841, its lowest since July."
+      "t": "Asia and Europe",
+      "x": "Asia closed sharply lower: Taiwan −10.35%, KOSPI −5.21% (4,869.96), Nikkei −5.06% (56,436.65), Hang Seng −3.79% and Shanghai −1.51%. At 9:53 a.m. ET Europe was lower: Euro Stoxx 50 −1.89%, DAX −1.86%, CAC 40 −1.11% and FTSE 100 −0.55%."
      },
      {
       "t": "What to expect today",
-      "x": "At 10:00 a.m. ET the final November University of Michigan consumer sentiment reading comes out (53.3 expected, from 51). The December WTI contract expires. Next week the PCE price index comes out and on Thursday the 26th the New York Stock Exchange closes for Thanksgiving; OPEC+ meets on November 29 to set its 2027 output."
+      "x": "At 10:00 a.m. ET the final University of Michigan consumer sentiment reading came out; US gasoline has already dropped below $4 a gallon, according to Yahoo Finance. The December WTI contract expires today. Next week the PCE index comes out and Wall Street is closed on Thursday the 26th for Thanksgiving."
      }
     ],
-    "scm": "Crude is heading for a third weekly decline: a good time to negotiate December fuel surcharges with diesel futures at $3.87 a gallon. But tanker attacks continue almost daily, so keep buffers on shipments crossing the Middle East, and move US shipments forward ahead of Thursday the 26th holiday."
+    "scm": "Close the week negotiating December fuel surcharges: crude is heading for a third weekly decline and diesel is at $3.86 a gallon. In compute, the drop in Micron, Broadcom and Nvidia has not yet translated into lower prices: keep adjustment clauses and don't pull large purchases forward."
    },
    "pt": {
-    "titular": "A Ásia despenca com a IA: Taiwan cai 10,4%, a Coreia 5,2% e o Japão 5,1%; o ouro cai 2,6%",
+    "titular": "Wall Street abre dividida: o Dow sobe 0,9%, mas os chips seguem caindo e a Anthropic perde 6,4%",
     "esencial": [
-     "A bolsa de Taiwan fechou com −10,35%, o KOSPI com −5,21% e o Nikkei com −5,06%; a SoftBank perdeu 14,5%, e a Ásia caminha para sua pior semana desde 2020, segundo a Reuters.",
-     "Às 4h58 (Cidade do México) os futuros do Nasdaq 100 caíam 1,16% e os do S&P 500 0,40%, depois de seis sessões seguidas de queda do S&P 500; a Anthropic cedia 6% durante a madrugada.",
-     "Para supply chain: o Brent caminha para uma queda semanal de 6% porque as exportações por Ormuz voltaram a níveis de antes da guerra; aproveite para negociar sobretaxas, mas os ataques a petroleiros continuam, quase um por dia."
+     "Às 9h08 (Cidade do México) o Dow subia 0,90%, o S&P 500 estava estável (−0,01%) e o Nasdaq caía 0,71%; a Micron caía 5,6%, a Broadcom 4,9% e a Nvidia 3,2%.",
+     "A Anthropic caía 6,4% para 90,97 dólares no segundo dia, ainda acima do preço de 83; o rendimento do Treasury de 10 anos caiu abaixo de 5% (4,98%).",
+     "Para supply chain: o petróleo caminha para a terceira semana de queda e o diesel está a 3,86 dólares por galão; feche a semana negociando as sobretaxas de dezembro."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu desde o fechamento",
-      "x": "Depois da queda de mais de 2% de Wall Street na quinta, a venda em tecnologia se estendeu à Ásia: a Anthropic cedia 6% durante a madrugada desde o fechamento de 97,17 dólares, embora siga acima do preço de 83. A SoftBank caiu 14,5% ao nível mais baixo desde abril, segundo o Investing.com. A Guarda Revolucionária do Irã disse que dois petroleiros atingiram minas em Ormuz e \"estão em chamas\", e os houthis lançaram mísseis contra Riad; o UOB estima que os ataques a petroleiros seguem em ritmo de quase um por dia em novembro. O índice do dólar está perto de 103,9, o nível mais alto desde abril de 2025, e caminha para a quarta semana de alta."
+      "t": "Abertura",
+      "x": "O pré-mercado antecipava mais pressão na tecnologia depois do tombo da Ásia e a abertura confirmou em parte: às 9h08 (Cidade do México) o S&P 500 estava em 7.175,44 (−0,01%), o Nasdaq em 23.709,11 (−0,71%) e o Dow em 49.541,17 (+0,90%); o VIX seguia em 28,45. A Micron caía 5,6%, a Broadcom 4,9%, a AMD 4,0%, a TSMC 3,2% e a Nvidia 3,2% (141,38 dólares), que acumula mais de 10% de queda desde o resultado; as ações de óptica revertiam a alta de quinta (Coherent −4%, Lumentum −5%). A Anthropic caía 6,4% para 90,97 dólares. O rendimento do Treasury de 10 anos caía para 4,98%, abaixo de 5% pela primeira vez na semana. O WTI caía 0,9% para 81,73 dólares e o diesel nos futuros estava a 3,86; o ouro caía 3,0% para 3.577, a prata 4,9% e o cobre 1,0% para 5,58."
      },
      {
-      "t": "Ásia, Europa e futuros",
-      "x": "A Ásia fechou com fortes quedas: Taiwan −10,35% (36.033,29), KOSPI −5,21% (4.869,96), Nikkei −5,06% (56.436,65), Hang Seng −3,79% e Xangai −1,51%. Às 4h53 (Cidade do México) o Euro Stoxx 50 caía 1,64%, o DAX 1,50% e o FTSE 100 0,42%. Às 4h58 os futuros do Nasdaq 100 caíam 1,16%, os do S&P 500 0,40% e os do Dow subiam 0,20%. Segundo a Reuters, o Brent caía 1,8% para 90,33 dólares e o WTI de janeiro 1,5% para 81,22; o Brent caminha para uma queda semanal de 6%. O ouro caía 2,6% para 3.588 dólares, a prata 4,1%, o cobre 1,2% para 5,57 dólares por libra e o bitcoin estava em 61.841, o nível mais baixo desde julho."
+      "t": "Ásia e Europa",
+      "x": "A Ásia fechou com fortes quedas: Taiwan −10,35%, KOSPI −5,21% (4.869,96), Nikkei −5,06% (56.436,65), Hang Seng −3,79% e Xangai −1,51%. Às 8h53 (Cidade do México) a Europa caía: Euro Stoxx 50 −1,89%, DAX −1,86%, CAC 40 −1,11% e FTSE 100 −0,55%."
      },
      {
       "t": "O que se espera hoje",
-      "x": "Às 9h00 (Cidade do México) sai a leitura final de novembro do sentimento do consumidor da Universidade de Michigan (esperam-se 53,3 pontos, desde 51). Vence o contrato de dezembro do WTI. Na próxima semana sai o índice de preços PCE e na quinta, dia 26, a Bolsa de Nova York fecha pelo Dia de Ação de Graças; a OPEP+ se reúne em 29 de novembro para definir a produção de 2027."
+      "x": "Às 9h00 (Cidade do México) saiu a leitura final do sentimento do consumidor da Universidade de Michigan; a gasolina nos EUA já caiu abaixo de 4 dólares por galão, segundo o Yahoo Finance. Hoje vence o contrato de dezembro do WTI. Na próxima semana sai o índice PCE e na quinta, dia 26, Wall Street não opera pelo Dia de Ação de Graças."
      }
     ],
-    "scm": "O petróleo caminha para a terceira semana de queda: bom momento para negociar as sobretaxas de combustível de dezembro com o diesel a 3,87 dólares por galão nos futuros. Mas os ataques a petroleiros seguem quase diariamente, então mantenha folga nos embarques que cruzem o Oriente Médio e antecipe os embarques para os EUA antes do feriado de quinta, dia 26."
+    "scm": "Feche a semana negociando as sobretaxas de combustível de dezembro: o petróleo caminha para a terceira semana de queda e o diesel está a 3,86 dólares por galão. Em computação, a queda de Micron, Broadcom e Nvidia ainda não se traduziu em preços menores: mantenha cláusulas de ajuste e não antecipe compras grandes."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: los futuros siguen a la baja tras el debut de Anthropic (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-volatility-092827348.html"
+     "t": "Yahoo Finance: el Dow sube, pero el S&P 500 y el Nasdaq amplían pérdidas tras el debut de Anthropic (20 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
+    },
+    {
+     "t": "24/7 Wall St.: AMD cae 6% y Nvidia 3% (20 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/amd-slides-6-despite-jim-145220072.html"
+    },
+    {
+     "t": "24/7 Wall St.: las acciones de óptica revierten el rally del jueves; Coherent −4% y Lumentum −5% (20 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-sinks-7-optics-145446209.html"
     },
     {
      "t": "Reuters: el petróleo va por su tercera semana a la baja por los flujos de exportación de Medio Oriente (20 nov 2026)",
      "u": "https://finance.yahoo.com/news/oil-prices-edge-higher-houthi-020004794.html"
     },
     {
-     "t": "Investing.com: las acciones de SoftBank se desploman 15% por la caída de la IA (20 nov 2026)",
-     "u": "https://finance.yahoo.com/technology/ai/articles/softbank-group-shares-slump-15-054657878.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (20 nov 2026, 05:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (20 nov 2026, 09:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-20-premercado-latam",
+   "id": "2026-11-20-apertura-latam",
    "fecha": "2026-11-20",
-   "momento": "premercado",
+   "momento": "apertura",
    "mercado": "latam",
-   "hora": "05:08 CDMX",
-   "fin_de_semana": false,
+   "hora": "09:08 CDMX",
    "es": {
-    "titular": "La región cierra una semana difícil: el real abre en 5.93 y los metales vuelven a caer",
+    "titular": "Perú cae 1.1% con la plata y el oro; el real sigue débil en 5.95",
     "esencial": [
-     "Ayer el Ibovespa cerró en 166,376.44 (−0.69%) y el S&P/TSX de Canadá en 34,028.73 (−1.59%).",
-     "A las 5:07 CDMX el dólar subía 0.50% frente al real (5.93) y estaba estable en 1,015 pesos chilenos y 3,423 pesos colombianos.",
-     "Para supply chain: el oro, la plata y el cobre vuelven a caer; cotiza insumos de cobre y escalona los pagos en reales."
+     "A las 8:50 CDMX el ETF de MSCI de Perú bajaba 1.11% y el de Argentina 0.63%, mientras Chile subía 0.38%; el S&P/TSX de Canadá estaba plano (−0.08%).",
+     "El dólar subía a 5.95 reales (+0.71%) y 3,432 pesos colombianos (+0.28%), y estaba estable en 1,016 pesos chilenos.",
+     "Para supply chain: el real cierra la semana débil; escalona los pagos en reales y cotiza insumos de cobre."
     ],
     "bloques": [
      {
-      "t": "Lo que pasó desde el cierre",
-      "x": "Ayer el Ibovespa cerró en 166,376.44 (−0.69%), el S&P/TSX de Canadá en 34,028.73 (−1.59%) y el S&P/BMV IPC en 68,713.60 (−0.64%), arrastrados por la caída de Wall Street tras el debut de Anthropic."
+      "t": "Apertura",
+      "x": "A las 9:08 CDMX el S&P/TSX de Canadá estaba en 33,999.86 (−0.08%); el Ibovespa aún no reportaba operación. Los ETF de MSCI bajaban 1.11% en Perú y 0.63% en Argentina, y subían 0.38% en Chile. En monedas, el dólar estaba en 5.95 reales (+0.71%), 1,016 pesos chilenos (+0.04%), 3,432 pesos colombianos (+0.28%), 3.45 soles (−0.03%), 1,573 pesos argentinos (+0.54%) y 1.432 dólares canadienses (−0.10%)."
      },
      {
       "t": "Contexto",
-      "x": "A las 4:58 CDMX el oro caía 2.6%, la plata 4.1% y el cobre 1.2% a 5.57 dólares por libra, lo que presiona a Perú, Chile y Canadá; el crudo bajaba 1.8%. A las 5:07 CDMX el dólar estaba en 5.93 reales (+0.50%), 1,015 pesos chilenos (−0.04%) y 3,423 pesos colombianos (+0.02%)."
+      "x": "La caída del oro (−3.0%), la plata (−4.9%) y el cobre (−1.0%) pesa sobre Perú; el crudo baja 0.9% y va hacia su tercera semana a la baja, lo que afecta a Colombia."
      },
      {
       "t": "Qué se espera hoy",
-      "x": "La región seguirá el desplome de Asia y los futuros de EE. UU. a la baja; la OPEP+ se reúne el 29 de noviembre, un dato clave para Colombia y Brasil."
+      "x": "La región cierra la semana siguiendo a Wall Street; la OPEP+ se reúne el 29 de noviembre."
      }
     ],
-    "scm": "Escalona los pagos en reales, que se debilitan otra vez, y cotiza cable e insumos de cobre con el precio en 5.57 dólares por libra."
+    "scm": "Escalona los pagos en reales y pesos colombianos y cotiza cable e insumos de cobre con el precio en 5.58 dólares por libra."
    },
    "en": {
-    "titular": "The region closes a tough week: the real opens at 5.93 and metals fall again",
+    "titular": "Peru falls 1.1% with silver and gold; the real stays weak at 5.95",
     "esencial": [
-     "Yesterday the Ibovespa closed at 166,376.44 (−0.69%) and Canada's S&P/TSX at 34,028.73 (−1.59%).",
-     "At 6:07 a.m. ET the dollar rose 0.50% against the real (5.93) and was steady at 1,015 Chilean pesos and 3,423 Colombian pesos.",
-     "For supply chain: gold, silver and copper fall again; quote copper inputs and stagger payments in reais."
+     "At 8:50 a.m. Mexico City time the MSCI Peru ETF was down 1.11% and Argentina 0.63%, while Chile rose 0.38%; Canada's S&P/TSX was flat (−0.08%).",
+     "The dollar rose to 5.95 reais (+0.71%) and 3,432 Colombian pesos (+0.28%), and was steady at 1,016 Chilean pesos.",
+     "For supply chain: the real ends the week weak; stagger payments in reais and quote copper inputs."
     ],
     "bloques": [
      {
-      "t": "What happened since the close",
-      "x": "Yesterday the Ibovespa closed at 166,376.44 (−0.69%), Canada's S&P/TSX at 34,028.73 (−1.59%) and the S&P/BMV IPC at 68,713.60 (−0.64%), dragged by Wall Street's drop after Anthropic's debut."
+      "t": "Open",
+      "x": "At 9:08 a.m. Mexico City time Canada's S&P/TSX stood at 33,999.86 (−0.08%); the Ibovespa had not yet reported trading. The MSCI ETFs fell 1.11% for Peru and 0.63% for Argentina, and rose 0.38% for Chile. In currencies, the dollar stood at 5.95 reais (+0.71%), 1,016 Chilean pesos (+0.04%), 3,432 Colombian pesos (+0.28%), 3.45 soles (−0.03%), 1,573 Argentine pesos (+0.54%) and 1.432 Canadian dollars (−0.10%)."
      },
      {
       "t": "Context",
-      "x": "At 5:58 a.m. ET gold fell 2.6%, silver 4.1% and copper 1.2% to $5.57 per pound, pressuring Peru, Chile and Canada; crude fell 1.8%. At 6:07 a.m. ET the dollar stood at 5.93 reais (+0.50%), 1,015 Chilean pesos (−0.04%) and 3,423 Colombian pesos (+0.02%)."
+      "x": "The drop in gold (−3.0%), silver (−4.9%) and copper (−1.0%) weighs on Peru; crude falls 0.9% and heads for a third weekly decline, affecting Colombia."
      },
      {
       "t": "What to expect today",
-      "x": "The region will follow the plunge in Asia and lower US futures; OPEC+ meets on November 29, a key event for Colombia and Brazil."
+      "x": "The region closes the week following Wall Street; OPEC+ meets on November 29."
      }
     ],
-    "scm": "Stagger payments in reais, which weaken again, and quote cable and copper inputs with prices at $5.57 per pound."
+    "scm": "Stagger payments in reais and Colombian pesos and quote cable and copper inputs with prices at $5.58 per pound."
    },
    "pt": {
-    "titular": "A região fecha uma semana difícil: o real abre em 5,93 e os metais voltam a cair",
+    "titular": "O Peru cai 1,1% com a prata e o ouro; o real segue fraco em 5,95",
     "esencial": [
-     "Ontem o Ibovespa fechou em 166.376,44 (−0,69%) e o S&P/TSX do Canadá em 34.028,73 (−1,59%).",
-     "Às 5h07 (Cidade do México) o dólar subia 0,50% frente ao real (R$ 5,93) e estava estável em 1.015 pesos chilenos e 3.423 pesos colombianos.",
-     "Para supply chain: ouro, prata e cobre voltam a cair; cote insumos de cobre e escalone os pagamentos em reais."
+     "Às 8h50 (Cidade do México) o ETF da MSCI do Peru caía 1,11% e o da Argentina 0,63%, enquanto o do Chile subia 0,38%; o S&P/TSX do Canadá estava estável (−0,08%).",
+     "O dólar subia para R$ 5,95 (+0,71%) e 3.432 pesos colombianos (+0,28%), e estava estável em 1.016 pesos chilenos.",
+     "Para supply chain: o real fecha a semana fraco; escalone os pagamentos em reais e cote insumos de cobre."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu desde o fechamento",
-      "x": "Ontem o Ibovespa fechou em 166.376,44 (−0,69%), o S&P/TSX do Canadá em 34.028,73 (−1,59%) e o S&P/BMV IPC em 68.713,60 (−0,64%), puxados pela queda de Wall Street depois da estreia da Anthropic."
+      "t": "Abertura",
+      "x": "Às 9h08 (Cidade do México) o S&P/TSX do Canadá estava em 33.999,86 (−0,08%); o Ibovespa ainda não informava negociação. Os ETFs da MSCI caíam 1,11% no Peru e 0,63% na Argentina, e subiam 0,38% no Chile. Nas moedas, o dólar estava em R$ 5,95 (+0,71%), 1.016 pesos chilenos (+0,04%), 3.432 pesos colombianos (+0,28%), 3,45 soles (−0,03%), 1.573 pesos argentinos (+0,54%) e 1,432 dólar canadense (−0,10%)."
      },
      {
       "t": "Contexto",
-      "x": "Às 4h58 (Cidade do México) o ouro caía 2,6%, a prata 4,1% e o cobre 1,2% para 5,57 dólares por libra, o que pressiona Peru, Chile e Canadá; o petróleo caía 1,8%. Às 5h07 o dólar estava em R$ 5,93 (+0,50%), 1.015 pesos chilenos (−0,04%) e 3.423 pesos colombianos (+0,02%)."
+      "x": "A queda do ouro (−3,0%), da prata (−4,9%) e do cobre (−1,0%) pesa sobre o Peru; o petróleo cai 0,9% e caminha para a terceira semana de queda, o que afeta a Colômbia."
      },
      {
       "t": "O que se espera hoje",
-      "x": "A região vai acompanhar o tombo da Ásia e os futuros dos EUA em queda; a OPEP+ se reúne em 29 de novembro, um evento-chave para Colômbia e Brasil."
+      "x": "A região fecha a semana acompanhando Wall Street; a OPEP+ se reúne em 29 de novembro."
      }
     ],
-    "scm": "Escalone os pagamentos em reais, que voltam a se enfraquecer, e cote cabos e insumos de cobre com o preço a 5,57 dólares por libra."
+    "scm": "Escalone os pagamentos em reais e pesos colombianos e cote cabos e insumos de cobre com o preço a 5,58 dólares por libra."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (20 nov 2026, 05:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (20 nov 2026, 09:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
-     "t": "Reuters: el petróleo va por su tercera semana a la baja por los flujos de exportación de Medio Oriente (20 nov 2026)",
-     "u": "https://finance.yahoo.com/news/oil-prices-edge-higher-houthi-020004794.html"
+     "t": "Mr. Supply Chain México: mapa de calor de América",
+     "u": "https://mrsupplychain.ai/noticias/"
     }
    ]
   },
   "mexico": {
-   "id": "2026-11-20-premercado-mexico",
+   "id": "2026-11-20-apertura-mexico",
    "fecha": "2026-11-20",
-   "momento": "premercado",
+   "momento": "apertura",
    "mercado": "mexico",
-   "hora": "05:08 CDMX",
-   "fin_de_semana": false,
+   "hora": "09:08 CDMX",
    "es": {
-    "titular": "El peso amanece en 19.04 con el dólar en máximos de 19 meses; hoy rige para pagos el FIX de 18.6723",
+    "titular": "El peso se fortalece a 18.97 y el IPC baja 0.3%; el FIX del jueves fue de 19.0270",
     "esencial": [
-     "A las 5:08 CDMX el peso cotizaba en 19.04 por dólar (−0.06% el dólar), cerca de su cierre de ayer (19.08).",
-     "Hoy rige para pagos el FIX de 18.6723, 37 centavos abajo del mercado; el IPC cerró ayer en 68,713.60 (−0.64%).",
-     "Para supply chain: liquida hoy al FIX los pagos en dólares que puedas antes del fin de semana, y deja listas las compras de la próxima semana, que en EE. UU. tiene feriado el jueves 26."
+     "A las 9:08 CDMX el peso cotizaba en 18.97 por dólar (−0.47% el dólar), con el Treasury a 10 años debajo de 5%.",
+     "El FIX determinado ayer fue de 19.0270, el primero arriba de 19 en semanas; rige para pagos desde el lunes 23. Hoy rige el de 18.6723.",
+     "Para supply chain: hoy es el último día con FIX debajo de 19; liquida hoy los pagos en dólares que puedas antes del fin de semana."
     ],
     "bloques": [
      {
-      "t": "Lo que pasó desde el cierre",
-      "x": "El S&P/BMV IPC cerró ayer en 68,713.60 puntos (−0.64%) y el peso en 19.08 por dólar. En la noche se mantuvo estable: a las 5:08 CDMX cotizaba en 19.04 (−0.06% el dólar), con el índice del dólar cerca de 103.9, su nivel más alto en 19 meses. Hoy rige para pagos el FIX de 18.6723, determinado el miércoles."
+      "t": "Apertura",
+      "x": "A las 8:48 CDMX el S&P/BMV IPC estaba en 68,509.07 puntos (−0.30%). A las 9:08 CDMX el peso cotizaba en 18.97 por dólar (−0.47% el dólar), después de cerrar ayer en 19.08. El FIX determinado ayer jueves fue de 19.0270, según Banxico; se publica hoy en el DOF y rige para pagos desde el lunes 23. Hoy rige el de 18.6723."
      },
      {
       "t": "Contexto",
-      "x": "El desplome de las bolsas de Asia (Taiwán −10.35%, Corea −5.21%) y los futuros de EE. UU. a la baja mantienen la aversión al riesgo, lo que presiona al peso y al IPC. La caída del oro (−2.6%), la plata (−4.1%) y el cobre (−1.2%) pesa sobre las mineras; el crudo baja 1.8%."
+      "x": "El peso se recupera con la baja del rendimiento del Treasury a 10 años a 4.98% y un dólar que cede 0.13%, pese a la caída de las bolsas de Asia y Europa. La caída del oro (−3.0%) y la plata (−4.9%) pesa sobre las mineras del IPC."
      },
      {
       "t": "Qué se espera hoy",
-      "x": "La agenda local es ligera. La próxima semana el INEGI publica el martes 24 la inflación de la primera quincena de noviembre y el viernes 27 la balanza comercial de octubre; el jueves 26 no opera la Bolsa de Nueva York por el Día de Acción de Gracias."
+      "x": "La agenda local es ligera. La próxima semana el INEGI publica el martes 24 la inflación de la primera quincena de noviembre y el viernes 27 la balanza comercial de octubre."
      }
     ],
-    "scm": "Hoy rige el FIX de 18.6723, todavía abajo del mercado (19.04): liquida al FIX lo que puedas antes del fin de semana. Si importas de EE. UU., confirma recolecciones y cortes de embarque antes del Día de Acción de Gracias del jueves 26."
+    "scm": "Hoy rige el FIX de 18.6723 y el lunes sube a 19.0270: liquida hoy los pagos en dólares que puedas. Con el peso en 18.97 en el mercado, escalona las compras de la próxima semana."
    },
    "en": {
-    "titular": "The peso starts at 19.04 with the dollar at 19-month highs; the 18.6723 FIX applies to payments today",
+    "titular": "The peso firms to 18.97 and the IPC slips 0.3%; Thursday's FIX was 19.0270",
     "esencial": [
-     "At 5:08 a.m. Mexico City time the peso traded at 19.04 per dollar (dollar −0.06%), near its close yesterday (19.08).",
-     "Today the 18.6723 FIX applies to payments, 37 centavos below the market; the IPC closed yesterday at 68,713.60 (−0.64%).",
-     "For supply chain: settle at the FIX the dollar payments you can today before the weekend, and prepare next week's purchases, as the US has a holiday on Thursday the 26th."
+     "At 9:08 a.m. Mexico City time the peso traded at 18.97 per dollar (dollar −0.47%), with the 10-year Treasury yield below 5%.",
+     "The FIX set yesterday was 19.0270, the first above 19 in weeks; it applies to payments from Monday the 23rd. Today the 18.6723 FIX applies.",
+     "For supply chain: today is the last day with a FIX below 19; settle the dollar payments you can today before the weekend."
     ],
     "bloques": [
      {
-      "t": "What happened since the close",
-      "x": "The S&P/BMV IPC closed yesterday at 68,713.60 points (−0.64%) and the peso at 19.08 per dollar. Overnight it held steady: at 5:08 a.m. Mexico City time it traded at 19.04 (dollar −0.06%), with the dollar index near 103.9, its highest in 19 months. Today the 18.6723 FIX, set on Wednesday, applies to payments."
+      "t": "Open",
+      "x": "At 8:48 a.m. Mexico City time the S&P/BMV IPC stood at 68,509.07 points (−0.30%). At 9:08 a.m. the peso traded at 18.97 per dollar (dollar −0.47%), after closing yesterday at 19.08. The FIX set yesterday, Thursday, was 19.0270, according to Banxico; it is published today in the DOF and applies to payments from Monday the 23rd. Today the 18.6723 FIX applies."
      },
      {
       "t": "Context",
-      "x": "The plunge in Asian stocks (Taiwan −10.35%, Korea −5.21%) and lower US futures keep risk aversion high, pressuring the peso and the IPC. The drop in gold (−2.6%), silver (−4.1%) and copper (−1.2%) weighs on miners; crude falls 1.8%."
+      "x": "The peso recovers as the 10-year Treasury yield falls to 4.98% and the dollar eases 0.13%, despite the drop in Asian and European stocks. The fall in gold (−3.0%) and silver (−4.9%) weighs on IPC miners."
      },
      {
       "t": "What to expect today",
-      "x": "The local agenda is light. Next week INEGI publishes first-half November inflation on Tuesday the 24th and the October trade balance on Friday the 27th; the New York Stock Exchange is closed on Thursday the 26th for Thanksgiving."
+      "x": "The local agenda is light. Next week INEGI publishes first-half November inflation on Tuesday the 24th and the October trade balance on Friday the 27th."
      }
     ],
-    "scm": "Today the 18.6723 FIX applies, still below the market (19.04): settle what you can at the FIX before the weekend. If you import from the US, confirm pickups and shipping cutoffs ahead of Thanksgiving on Thursday the 26th."
+    "scm": "Today the 18.6723 FIX applies and on Monday it rises to 19.0270: settle the dollar payments you can today. With the peso at 18.97 in the market, stagger next week's purchases."
    },
    "pt": {
-    "titular": "O peso amanhece em 19,04 com o dólar na máxima em 19 meses; hoje vale para pagamentos o FIX de 18,6723",
+    "titular": "O peso se fortalece para 18,97 e o IPC cai 0,3%; o FIX de quinta foi de 19,0270",
     "esencial": [
-     "Às 5h08 (Cidade do México) o peso era cotado a 19,04 por dólar (dólar −0,06%), perto do fechamento de ontem (19,08).",
-     "Hoje vale para pagamentos o FIX de 18,6723, 37 centavos abaixo do mercado; o IPC fechou ontem em 68.713,60 (−0,64%).",
-     "Para supply chain: liquide hoje pelo FIX os pagamentos em dólares que puder antes do fim de semana e deixe prontas as compras da próxima semana, que tem feriado nos EUA na quinta, dia 26."
+     "Às 9h08 (Cidade do México) o peso era cotado a 18,97 por dólar (dólar −0,47%), com o rendimento do Treasury de 10 anos abaixo de 5%.",
+     "O FIX definido ontem foi de 19,0270, o primeiro acima de 19 em semanas; vale para pagamentos a partir de segunda, dia 23. Hoje vale o de 18,6723.",
+     "Para supply chain: hoje é o último dia com FIX abaixo de 19; liquide hoje os pagamentos em dólares que puder antes do fim de semana."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu desde o fechamento",
-      "x": "O S&P/BMV IPC fechou ontem em 68.713,60 pontos (−0,64%) e o peso em 19,08 por dólar. Durante a noite ficou estável: às 5h08 (Cidade do México) era cotado a 19,04 (dólar −0,06%), com o índice do dólar perto de 103,9, o nível mais alto em 19 meses. Hoje vale para pagamentos o FIX de 18,6723, definido na quarta."
+      "t": "Abertura",
+      "x": "Às 8h48 (Cidade do México) o S&P/BMV IPC estava em 68.509,07 pontos (−0,30%). Às 9h08 o peso era cotado a 18,97 por dólar (dólar −0,47%), depois de fechar ontem em 19,08. O FIX definido ontem, quinta, foi de 19,0270, segundo o Banxico; é publicado hoje no DOF e vale para pagamentos a partir de segunda, dia 23. Hoje vale o de 18,6723."
      },
      {
       "t": "Contexto",
-      "x": "O tombo das bolsas da Ásia (Taiwan −10,35%, Coreia −5,21%) e os futuros dos EUA em queda mantêm a aversão ao risco, o que pressiona o peso e o IPC. A queda do ouro (−2,6%), da prata (−4,1%) e do cobre (−1,2%) pesa sobre as mineradoras; o petróleo cai 1,8%."
+      "x": "O peso se recupera com a queda do rendimento do Treasury de 10 anos para 4,98% e um dólar que cede 0,13%, apesar da queda das bolsas da Ásia e da Europa. A queda do ouro (−3,0%) e da prata (−4,9%) pesa sobre as mineradoras do IPC."
      },
      {
       "t": "O que se espera hoje",
-      "x": "A agenda local é leve. Na próxima semana o INEGI divulga na terça, dia 24, a inflação da primeira quinzena de novembro e na sexta, dia 27, a balança comercial de outubro; na quinta, dia 26, a Bolsa de Nova York não opera pelo Dia de Ação de Graças."
+      "x": "A agenda local é leve. Na próxima semana o INEGI divulga na terça, dia 24, a inflação da primeira quinzena de novembro e na sexta, dia 27, a balança comercial de outubro."
      }
     ],
-    "scm": "Hoje vale o FIX de 18,6723, ainda abaixo do mercado (19,04): liquide pelo FIX o que puder antes do fim de semana. Se você importa dos EUA, confirme coletas e prazos de embarque antes do Dia de Ação de Graças, na quinta, dia 26."
+    "scm": "Hoje vale o FIX de 18,6723 e na segunda sobe para 19,0270: liquide hoje os pagamentos em dólares que puder. Com o peso a 18,97 no mercado, escalone as compras da próxima semana."
    },
    "fuentes": [
     {
-     "t": "Banxico: tipo de cambio FIX y para pagos",
-     "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=es"
+     "t": "Yahoo Finance: IPC México (^MXX), 20 nov 2026",
+     "u": "https://finance.yahoo.com/quote/%5EMXX/"
     },
     {
-     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (20 nov 2026, 05:08 CDMX)",
+     "t": "Banxico: tipo de cambio FIX (19 nov 2026: 19.0270)",
+     "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (20 nov 2026, 09:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
-    },
-    {
-     "t": "Yahoo Finance: los futuros siguen a la baja tras el debut de Anthropic (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-volatility-092827348.html"
     }
    ]
   }
  },
  "lectura": {
   "es": {
-   "titular": "Anthropic debuta con éxito, pero el resto del mercado se hunde y el peso pasa de 19: semana de alto riesgo para costos en dólares",
-   "resumen": "Anthropic cerró su primer día 17% arriba de su precio, pero su debut no reavivó el entusiasmo por la IA: el S&P 500 cayó 2.02% y suma cinco sesiones a la baja, el Dow perdió más de 1,100 puntos y Nvidia encadenó su sexta caída. Para supply chain, la lectura es doble: el mercado duda del ritmo de construcción de centros de datos, lo que puede aflojar la presión sobre GPU y servidores a mediano plazo, pero por ahora los precios y plazos siguen tensos. El dólar se mantiene fuerte por la expectativa de alzas de la Fed (94% de probabilidad de 25 puntos base en diciembre) y el peso cerró en 19.08, lo que encarece importaciones y obliga a revisar los presupuestos 2027. En insumos, el oro, la plata y el cobre siguen a la baja, mientras el crudo sube 1% por Ormuz con el diésel estable en 3.89 dólares por galón.",
+   "titular": "Semana de venta en IA: Asia se desploma, los chips siguen cayendo y el peso cierra la semana con un FIX arriba de 19",
+   "resumen": "La semana cierra con una venta profunda en todo lo relacionado con la IA: Taiwán cayó 10.4% en un día, Corea y Japón más de 5%, y Nvidia, Micron y Broadcom vuelven a caer en Wall Street, mientras Anthropic pierde 6.4% en su segundo día. Para supply chain, esto todavía no se refleja en precios más bajos de GPU, memoria o servidores, pero sí sugiere que el ritmo de construcción de centros de datos podría desacelerarse en 2027. El crudo va por su tercera semana a la baja porque las exportaciones por Ormuz volvieron a niveles de antes de la guerra, aunque los ataques a tanqueros siguen casi a diario; el diésel está en 3.86 dólares por galón. El rendimiento del Treasury a 10 años baja de 5% y el peso se recupera a 18.97, pero el FIX del jueves fue de 19.0270 y regirá para pagos desde el lunes.",
    "temas": [
     {
      "tema": "Peso y tasas",
@@ -380,8 +381,8 @@
    ]
   },
   "en": {
-   "titular": "Anthropic debuts successfully, but the rest of the market sinks and the peso crosses 19: a high-risk week for dollar costs",
-   "resumen": "Anthropic ended its first day 17% above its price, but its debut did not revive enthusiasm for AI: the S&P 500 fell 2.02% for a fifth losing session, the Dow lost more than 1,100 points and Nvidia posted its sixth straight drop. For supply chain, the reading is twofold: markets doubt the pace of data center construction, which could ease pressure on GPUs and servers over the medium term, but for now prices and lead times remain tight. The dollar stays strong on expectations of Fed hikes (94% probability of 25 basis points in December) and the peso closed at 19.08, raising import costs and calling for a review of 2027 budgets. In inputs, gold, silver and copper keep falling, while crude rises 1% on Hormuz with diesel steady at $3.89 a gallon.",
+   "titular": "A week of AI selling: Asia plunges, chips keep falling and the peso ends the week with a FIX above 19",
+   "resumen": "The week ends with a deep sell-off in everything AI-related: Taiwan fell 10.4% in a day, Korea and Japan more than 5%, and Nvidia, Micron and Broadcom fall again on Wall Street, while Anthropic loses 6.4% on its second day. For supply chain, this is not yet reflected in lower GPU, memory or server prices, but it does suggest data center construction could slow in 2027. Crude is heading for a third weekly decline as Hormuz exports have returned to pre-war levels, although tanker attacks continue almost daily; diesel is at $3.86 a gallon. The 10-year Treasury yield drops below 5% and the peso recovers to 18.97, but Thursday's FIX was 19.0270 and will apply to payments from Monday.",
    "temas": [
     {
      "tema": "Peso and rates",
@@ -482,8 +483,8 @@
    ]
   },
   "pt": {
-   "titular": "A Anthropic estreia com sucesso, mas o resto do mercado afunda e o peso passa de 19: semana de alto risco para custos em dólares",
-   "resumen": "A Anthropic fechou o primeiro dia 17% acima do preço, mas a estreia não reavivou o entusiasmo pela IA: o S&P 500 caiu 2,02% e soma cinco sessões em queda, o Dow perdeu mais de 1.100 pontos e a Nvidia emendou sua sexta queda. Para supply chain, a leitura é dupla: o mercado duvida do ritmo de construção de data centers, o que pode aliviar a pressão sobre GPUs e servidores no médio prazo, mas por enquanto preços e prazos seguem apertados. O dólar segue forte pela expectativa de altas do Fed (94% de probabilidade de 25 pontos-base em dezembro) e o peso fechou em 19,08, o que encarece as importações e exige revisar os orçamentos de 2027. Nos insumos, ouro, prata e cobre seguem em queda, enquanto o petróleo sobe 1% por Ormuz com o diesel estável em 3,89 dólares por galão.",
+   "titular": "Semana de venda em IA: a Ásia despenca, os chips seguem caindo e o peso fecha a semana com um FIX acima de 19",
+   "resumen": "A semana termina com uma venda profunda em tudo o que é ligado à IA: Taiwan caiu 10,4% em um dia, Coreia e Japão mais de 5%, e Nvidia, Micron e Broadcom voltam a cair em Wall Street, enquanto a Anthropic perde 6,4% no segundo dia. Para supply chain, isso ainda não se reflete em preços menores de GPUs, memória ou servidores, mas sugere que o ritmo de construção de data centers pode desacelerar em 2027. O petróleo caminha para a terceira semana de queda porque as exportações por Ormuz voltaram a níveis de antes da guerra, embora os ataques a petroleiros continuem quase diariamente; o diesel está a 3,86 dólares por galão. O rendimento do Treasury de 10 anos cai abaixo de 5% e o peso se recupera para 18,97, mas o FIX de quinta foi de 19,0270 e vai valer para pagamentos a partir de segunda.",
    "temas": [
     {
      "tema": "Peso e juros",
@@ -589,8 +590,8 @@
    "nombre": "IPC BMV",
    "name_en": "IPC BMV",
    "grupo": "bolsa",
-   "valor": 68713.6,
-   "cambio": -0.64,
+   "valor": 68509.07,
+   "cambio": -0.3,
    "unidad": "puntos",
    "name_pt": "IPC BMV"
   },
@@ -598,8 +599,8 @@
    "nombre": "S&P 500",
    "name_en": "S&P 500",
    "grupo": "bolsa",
-   "valor": 7175.83,
-   "cambio": -2.02,
+   "valor": 7175.44,
+   "cambio": -0.01,
    "unidad": "puntos",
    "name_pt": "S&P 500"
   },
@@ -607,8 +608,8 @@
    "nombre": "Nasdaq",
    "name_en": "Nasdaq",
    "grupo": "bolsa",
-   "valor": 23879.2,
-   "cambio": -2.25,
+   "valor": 23709.11,
+   "cambio": -0.71,
    "unidad": "puntos",
    "name_pt": "Nasdaq"
   },
@@ -616,8 +617,8 @@
    "nombre": "Dow Jones",
    "name_en": "Dow Jones",
    "grupo": "bolsa",
-   "valor": 49097.06,
-   "cambio": -2.19,
+   "valor": 49541.17,
+   "cambio": 0.9,
    "unidad": "puntos",
    "name_pt": "Dow Jones"
   },
@@ -625,8 +626,8 @@
    "nombre": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
    "grupo": "bolsa",
-   "valor": 6013.64,
-   "cambio": -1.64,
+   "valor": 5998.53,
+   "cambio": -1.89,
    "unidad": "puntos",
    "name_pt": "Euro Stoxx 50"
   },
@@ -652,8 +653,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 19.04,
-   "cambio": -0.06,
+   "valor": 18.97,
+   "cambio": -0.47,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -661,8 +662,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.0965,
-   "cambio": -0.07,
+   "valor": 1.0984,
+   "cambio": 0.1,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -670,8 +671,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 158.82,
-   "cambio": -0.49,
+   "valor": 158.85,
+   "cambio": -0.47,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -679,8 +680,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 81.58,
-   "cambio": -1.04,
+   "valor": 81.73,
+   "cambio": -0.86,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -688,8 +689,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 90.08,
-   "cambio": 1.02,
+   "valor": 88.4,
+   "cambio": -1.16,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -706,8 +707,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3588.3,
-   "cambio": -2.64,
+   "valor": 3576.5,
+   "cambio": -2.96,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -715,8 +716,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 5.57,
-   "cambio": -1.2,
+   "valor": 5.58,
+   "cambio": -1.0,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -724,8 +725,8 @@
    "nombre": "Treasury 10 años",
    "name_en": "10-yr Treasury",
    "grupo": "bono",
-   "valor": 5.05,
-   "cambio": -1,
+   "valor": 4.98,
+   "cambio": -7,
    "unidad": "%",
    "name_pt": "Título do Tesouro 10 anos"
   },
@@ -751,8 +752,8 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 61841.35,
-   "cambio": -0.1,
+   "valor": 61339.56,
+   "cambio": -0.91,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }

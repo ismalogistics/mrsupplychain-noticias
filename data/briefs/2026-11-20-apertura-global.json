@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-20-apertura-global",
+ "fecha": "2026-11-20",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "Wall Street abre dividido: el Dow sube 0.9%, pero los chips siguen cayendo y Anthropic pierde 6.4%",
+  "esencial": [
+   "A las 9:08 CDMX el Dow subía 0.90%, el S&P 500 estaba plano (−0.01%) y el Nasdaq bajaba 0.71%; Micron caía 5.6%, Broadcom 4.9% y Nvidia 3.2%.",
+   "Anthropic bajaba 6.4% a 90.97 dólares en su segundo día, aún arriba de su precio de 83; el Treasury a 10 años bajaba de 5% (4.98%).",
+   "Para supply chain: el crudo va por su tercera semana a la baja y el diésel está en 3.86 dólares por galón; cierra la semana negociando recargos de diciembre."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "El premercado anticipaba más presión en tecnología tras el desplome de Asia y la apertura lo confirmó en parte: a las 9:08 CDMX el S&P 500 estaba en 7,175.44 (−0.01%), el Nasdaq en 23,709.11 (−0.71%) y el Dow en 49,541.17 (+0.90%); el VIX seguía en 28.45. Micron caía 5.6%, Broadcom 4.9%, AMD 4.0%, TSMC 3.2% y Nvidia 3.2% (141.38 dólares), que suma más de 10% de caída desde su reporte; las acciones de óptica revertían el rally del jueves (Coherent −4%, Lumentum −5%). Anthropic bajaba 6.4% a 90.97 dólares. El Treasury a 10 años bajaba a 4.98%, debajo de 5% por primera vez en la semana. El WTI caía 0.9% a 81.73 dólares y el diésel en futuros estaba en 3.86; el oro caía 3.0% a 3,577, la plata 4.9% y el cobre 1.0% a 5.58."
+   },
+   {
+    "t": "Asia y Europa",
+    "x": "Asia cerró con fuertes caídas: Taiwán −10.35%, KOSPI −5.21% (4,869.96), Nikkei −5.06% (56,436.65), Hang Seng −3.79% y Shanghái −1.51%. A las 8:53 CDMX Europa caía: Euro Stoxx 50 −1.89%, DAX −1.86%, CAC 40 −1.11% y FTSE 100 −0.55%."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "A las 9:00 CDMX salió la lectura final del sentimiento del consumidor de la Universidad de Michigan; la gasolina en EE. UU. ya bajó de 4 dólares por galón, según Yahoo Finance. Hoy vence el contrato de diciembre del WTI. La próxima semana sale el índice PCE y el jueves 26 no opera Wall Street por el Día de Acción de Gracias."
+   }
+  ],
+  "scm": "Cierra la semana negociando recargos de combustible para diciembre: el crudo va por su tercera semana a la baja y el diésel está en 3.86 dólares por galón. En cómputo, la caída de Micron, Broadcom y Nvidia no se ha traducido aún en precios más bajos: mantén cláusulas de ajuste y no adelantes compras grandes."
+ },
+ "en": {
+  "titular": "Wall Street opens split: the Dow rises 0.9%, but chips keep falling and Anthropic loses 6.4%",
+  "esencial": [
+   "At 10:08 a.m. ET the Dow was up 0.90%, the S&P 500 flat (−0.01%) and the Nasdaq down 0.71%; Micron fell 5.6%, Broadcom 4.9% and Nvidia 3.2%.",
+   "Anthropic fell 6.4% to $90.97 on its second day, still above its $83 price; the 10-year Treasury yield dropped below 5% (4.98%).",
+   "For supply chain: crude is heading for a third weekly decline and diesel is at $3.86 a gallon; close the week negotiating December surcharges."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "Premarket pointed to more pressure on tech after Asia's plunge and the open partly confirmed it: at 10:08 a.m. ET the S&P 500 stood at 7,175.44 (−0.01%), the Nasdaq at 23,709.11 (−0.71%) and the Dow at 49,541.17 (+0.90%); the VIX held at 28.45. Micron fell 5.6%, Broadcom 4.9%, AMD 4.0%, TSMC 3.2% and Nvidia 3.2% ($141.38), down more than 10% since its report; optics stocks reversed Thursday's rally (Coherent −4%, Lumentum −5%). Anthropic fell 6.4% to $90.97. The 10-year Treasury yield fell to 4.98%, below 5% for the first time this week. WTI fell 0.9% to $81.73 and diesel futures were at $3.86; gold fell 3.0% to $3,577, silver 4.9% and copper 1.0% to $5.58."
+   },
+   {
+    "t": "Asia and Europe",
+    "x": "Asia closed sharply lower: Taiwan −10.35%, KOSPI −5.21% (4,869.96), Nikkei −5.06% (56,436.65), Hang Seng −3.79% and Shanghai −1.51%. At 9:53 a.m. ET Europe was lower: Euro Stoxx 50 −1.89%, DAX −1.86%, CAC 40 −1.11% and FTSE 100 −0.55%."
+   },
+   {
+    "t": "What to expect today",
+    "x": "At 10:00 a.m. ET the final University of Michigan consumer sentiment reading came out; US gasoline has already dropped below $4 a gallon, according to Yahoo Finance. The December WTI contract expires today. Next week the PCE index comes out and Wall Street is closed on Thursday the 26th for Thanksgiving."
+   }
+  ],
+  "scm": "Close the week negotiating December fuel surcharges: crude is heading for a third weekly decline and diesel is at $3.86 a gallon. In compute, the drop in Micron, Broadcom and Nvidia has not yet translated into lower prices: keep adjustment clauses and don't pull large purchases forward."
+ },
+ "pt": {
+  "titular": "Wall Street abre dividida: o Dow sobe 0,9%, mas os chips seguem caindo e a Anthropic perde 6,4%",
+  "esencial": [
+   "Às 9h08 (Cidade do México) o Dow subia 0,90%, o S&P 500 estava estável (−0,01%) e o Nasdaq caía 0,71%; a Micron caía 5,6%, a Broadcom 4,9% e a Nvidia 3,2%.",
+   "A Anthropic caía 6,4% para 90,97 dólares no segundo dia, ainda acima do preço de 83; o rendimento do Treasury de 10 anos caiu abaixo de 5% (4,98%).",
+   "Para supply chain: o petróleo caminha para a terceira semana de queda e o diesel está a 3,86 dólares por galão; feche a semana negociando as sobretaxas de dezembro."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "O pré-mercado antecipava mais pressão na tecnologia depois do tombo da Ásia e a abertura confirmou em parte: às 9h08 (Cidade do México) o S&P 500 estava em 7.175,44 (−0,01%), o Nasdaq em 23.709,11 (−0,71%) e o Dow em 49.541,17 (+0,90%); o VIX seguia em 28,45. A Micron caía 5,6%, a Broadcom 4,9%, a AMD 4,0%, a TSMC 3,2% e a Nvidia 3,2% (141,38 dólares), que acumula mais de 10% de queda desde o resultado; as ações de óptica revertiam a alta de quinta (Coherent −4%, Lumentum −5%). A Anthropic caía 6,4% para 90,97 dólares. O rendimento do Treasury de 10 anos caía para 4,98%, abaixo de 5% pela primeira vez na semana. O WTI caía 0,9% para 81,73 dólares e o diesel nos futuros estava a 3,86; o ouro caía 3,0% para 3.577, a prata 4,9% e o cobre 1,0% para 5,58."
+   },
+   {
+    "t": "Ásia e Europa",
+    "x": "A Ásia fechou com fortes quedas: Taiwan −10,35%, KOSPI −5,21% (4.869,96), Nikkei −5,06% (56.436,65), Hang Seng −3,79% e Xangai −1,51%. Às 8h53 (Cidade do México) a Europa caía: Euro Stoxx 50 −1,89%, DAX −1,86%, CAC 40 −1,11% e FTSE 100 −0,55%."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Às 9h00 (Cidade do México) saiu a leitura final do sentimento do consumidor da Universidade de Michigan; a gasolina nos EUA já caiu abaixo de 4 dólares por galão, segundo o Yahoo Finance. Hoje vence o contrato de dezembro do WTI. Na próxima semana sai o índice PCE e na quinta, dia 26, Wall Street não opera pelo Dia de Ação de Graças."
+   }
+  ],
+  "scm": "Feche a semana negociando as sobretaxas de combustível de dezembro: o petróleo caminha para a terceira semana de queda e o diesel está a 3,86 dólares por galão. Em computação, a queda de Micron, Broadcom e Nvidia ainda não se traduziu em preços menores: mantenha cláusulas de ajuste e não antecipe compras grandes."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: el Dow sube, pero el S&P 500 y el Nasdaq amplían pérdidas tras el debut de Anthropic (20 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
+  },
+  {
+   "t": "24/7 Wall St.: AMD cae 6% y Nvidia 3% (20 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amd-slides-6-despite-jim-145220072.html"
+  },
+  {
+   "t": "24/7 Wall St.: las acciones de óptica revierten el rally del jueves; Coherent −4% y Lumentum −5% (20 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-sinks-7-optics-145446209.html"
+  },
+  {
+   "t": "Reuters: el petróleo va por su tercera semana a la baja por los flujos de exportación de Medio Oriente (20 nov 2026)",
+   "u": "https://finance.yahoo.com/news/oil-prices-edge-higher-houthi-020004794.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (20 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

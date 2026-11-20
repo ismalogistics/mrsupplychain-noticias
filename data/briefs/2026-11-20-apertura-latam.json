@@ -1,0 +1,86 @@
+{
+ "id": "2026-11-20-apertura-latam",
+ "fecha": "2026-11-20",
+ "momento": "apertura",
+ "mercado": "latam",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "Perú cae 1.1% con la plata y el oro; el real sigue débil en 5.95",
+  "esencial": [
+   "A las 8:50 CDMX el ETF de MSCI de Perú bajaba 1.11% y el de Argentina 0.63%, mientras Chile subía 0.38%; el S&P/TSX de Canadá estaba plano (−0.08%).",
+   "El dólar subía a 5.95 reales (+0.71%) y 3,432 pesos colombianos (+0.28%), y estaba estable en 1,016 pesos chilenos.",
+   "Para supply chain: el real cierra la semana débil; escalona los pagos en reales y cotiza insumos de cobre."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 9:08 CDMX el S&P/TSX de Canadá estaba en 33,999.86 (−0.08%); el Ibovespa aún no reportaba operación. Los ETF de MSCI bajaban 1.11% en Perú y 0.63% en Argentina, y subían 0.38% en Chile. En monedas, el dólar estaba en 5.95 reales (+0.71%), 1,016 pesos chilenos (+0.04%), 3,432 pesos colombianos (+0.28%), 3.45 soles (−0.03%), 1,573 pesos argentinos (+0.54%) y 1.432 dólares canadienses (−0.10%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "La caída del oro (−3.0%), la plata (−4.9%) y el cobre (−1.0%) pesa sobre Perú; el crudo baja 0.9% y va hacia su tercera semana a la baja, lo que afecta a Colombia."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "La región cierra la semana siguiendo a Wall Street; la OPEP+ se reúne el 29 de noviembre."
+   }
+  ],
+  "scm": "Escalona los pagos en reales y pesos colombianos y cotiza cable e insumos de cobre con el precio en 5.58 dólares por libra."
+ },
+ "en": {
+  "titular": "Peru falls 1.1% with silver and gold; the real stays weak at 5.95",
+  "esencial": [
+   "At 8:50 a.m. Mexico City time the MSCI Peru ETF was down 1.11% and Argentina 0.63%, while Chile rose 0.38%; Canada's S&P/TSX was flat (−0.08%).",
+   "The dollar rose to 5.95 reais (+0.71%) and 3,432 Colombian pesos (+0.28%), and was steady at 1,016 Chilean pesos.",
+   "For supply chain: the real ends the week weak; stagger payments in reais and quote copper inputs."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "At 9:08 a.m. Mexico City time Canada's S&P/TSX stood at 33,999.86 (−0.08%); the Ibovespa had not yet reported trading. The MSCI ETFs fell 1.11% for Peru and 0.63% for Argentina, and rose 0.38% for Chile. In currencies, the dollar stood at 5.95 reais (+0.71%), 1,016 Chilean pesos (+0.04%), 3,432 Colombian pesos (+0.28%), 3.45 soles (−0.03%), 1,573 Argentine pesos (+0.54%) and 1.432 Canadian dollars (−0.10%)."
+   },
+   {
+    "t": "Context",
+    "x": "The drop in gold (−3.0%), silver (−4.9%) and copper (−1.0%) weighs on Peru; crude falls 0.9% and heads for a third weekly decline, affecting Colombia."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The region closes the week following Wall Street; OPEC+ meets on November 29."
+   }
+  ],
+  "scm": "Stagger payments in reais and Colombian pesos and quote cable and copper inputs with prices at $5.58 per pound."
+ },
+ "pt": {
+  "titular": "O Peru cai 1,1% com a prata e o ouro; o real segue fraco em 5,95",
+  "esencial": [
+   "Às 8h50 (Cidade do México) o ETF da MSCI do Peru caía 1,11% e o da Argentina 0,63%, enquanto o do Chile subia 0,38%; o S&P/TSX do Canadá estava estável (−0,08%).",
+   "O dólar subia para R$ 5,95 (+0,71%) e 3.432 pesos colombianos (+0,28%), e estava estável em 1.016 pesos chilenos.",
+   "Para supply chain: o real fecha a semana fraco; escalone os pagamentos em reais e cote insumos de cobre."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 9h08 (Cidade do México) o S&P/TSX do Canadá estava em 33.999,86 (−0,08%); o Ibovespa ainda não informava negociação. Os ETFs da MSCI caíam 1,11% no Peru e 0,63% na Argentina, e subiam 0,38% no Chile. Nas moedas, o dólar estava em R$ 5,95 (+0,71%), 1.016 pesos chilenos (+0,04%), 3.432 pesos colombianos (+0,28%), 3,45 soles (−0,03%), 1.573 pesos argentinos (+0,54%) e 1,432 dólar canadense (−0,10%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "A queda do ouro (−3,0%), da prata (−4,9%) e do cobre (−1,0%) pesa sobre o Peru; o petróleo cai 0,9% e caminha para a terceira semana de queda, o que afeta a Colômbia."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "A região fecha a semana acompanhando Wall Street; a OPEP+ se reúne em 29 de novembro."
+   }
+  ],
+  "scm": "Escalone os pagamentos em reais e pesos colombianos e cote cabos e insumos de cobre com o preço a 5,58 dólares por libra."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (20 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

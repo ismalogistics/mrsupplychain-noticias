@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-20-apertura-mexico",
+ "fecha": "2026-11-20",
+ "momento": "apertura",
+ "mercado": "mexico",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "El peso se fortalece a 18.97 y el IPC baja 0.3%; el FIX del jueves fue de 19.0270",
+  "esencial": [
+   "A las 9:08 CDMX el peso cotizaba en 18.97 por dólar (−0.47% el dólar), con el Treasury a 10 años debajo de 5%.",
+   "El FIX determinado ayer fue de 19.0270, el primero arriba de 19 en semanas; rige para pagos desde el lunes 23. Hoy rige el de 18.6723.",
+   "Para supply chain: hoy es el último día con FIX debajo de 19; liquida hoy los pagos en dólares que puedas antes del fin de semana."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 8:48 CDMX el S&P/BMV IPC estaba en 68,509.07 puntos (−0.30%). A las 9:08 CDMX el peso cotizaba en 18.97 por dólar (−0.47% el dólar), después de cerrar ayer en 19.08. El FIX determinado ayer jueves fue de 19.0270, según Banxico; se publica hoy en el DOF y rige para pagos desde el lunes 23. Hoy rige el de 18.6723."
+   },
+   {
+    "t": "Contexto",
+    "x": "El peso se recupera con la baja del rendimiento del Treasury a 10 años a 4.98% y un dólar que cede 0.13%, pese a la caída de las bolsas de Asia y Europa. La caída del oro (−3.0%) y la plata (−4.9%) pesa sobre las mineras del IPC."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "La agenda local es ligera. La próxima semana el INEGI publica el martes 24 la inflación de la primera quincena de noviembre y el viernes 27 la balanza comercial de octubre."
+   }
+  ],
+  "scm": "Hoy rige el FIX de 18.6723 y el lunes sube a 19.0270: liquida hoy los pagos en dólares que puedas. Con el peso en 18.97 en el mercado, escalona las compras de la próxima semana."
+ },
+ "en": {
+  "titular": "The peso firms to 18.97 and the IPC slips 0.3%; Thursday's FIX was 19.0270",
+  "esencial": [
+   "At 9:08 a.m. Mexico City time the peso traded at 18.97 per dollar (dollar −0.47%), with the 10-year Treasury yield below 5%.",
+   "The FIX set yesterday was 19.0270, the first above 19 in weeks; it applies to payments from Monday the 23rd. Today the 18.6723 FIX applies.",
+   "For supply chain: today is the last day with a FIX below 19; settle the dollar payments you can today before the weekend."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "At 8:48 a.m. Mexico City time the S&P/BMV IPC stood at 68,509.07 points (−0.30%). At 9:08 a.m. the peso traded at 18.97 per dollar (dollar −0.47%), after closing yesterday at 19.08. The FIX set yesterday, Thursday, was 19.0270, according to Banxico; it is published today in the DOF and applies to payments from Monday the 23rd. Today the 18.6723 FIX applies."
+   },
+   {
+    "t": "Context",
+    "x": "The peso recovers as the 10-year Treasury yield falls to 4.98% and the dollar eases 0.13%, despite the drop in Asian and European stocks. The fall in gold (−3.0%) and silver (−4.9%) weighs on IPC miners."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The local agenda is light. Next week INEGI publishes first-half November inflation on Tuesday the 24th and the October trade balance on Friday the 27th."
+   }
+  ],
+  "scm": "Today the 18.6723 FIX applies and on Monday it rises to 19.0270: settle the dollar payments you can today. With the peso at 18.97 in the market, stagger next week's purchases."
+ },
+ "pt": {
+  "titular": "O peso se fortalece para 18,97 e o IPC cai 0,3%; o FIX de quinta foi de 19,0270",
+  "esencial": [
+   "Às 9h08 (Cidade do México) o peso era cotado a 18,97 por dólar (dólar −0,47%), com o rendimento do Treasury de 10 anos abaixo de 5%.",
+   "O FIX definido ontem foi de 19,0270, o primeiro acima de 19 em semanas; vale para pagamentos a partir de segunda, dia 23. Hoje vale o de 18,6723.",
+   "Para supply chain: hoje é o último dia com FIX abaixo de 19; liquide hoje os pagamentos em dólares que puder antes do fim de semana."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 8h48 (Cidade do México) o S&P/BMV IPC estava em 68.509,07 pontos (−0,30%). Às 9h08 o peso era cotado a 18,97 por dólar (dólar −0,47%), depois de fechar ontem em 19,08. O FIX definido ontem, quinta, foi de 19,0270, segundo o Banxico; é publicado hoje no DOF e vale para pagamentos a partir de segunda, dia 23. Hoje vale o de 18,6723."
+   },
+   {
+    "t": "Contexto",
+    "x": "O peso se recupera com a queda do rendimento do Treasury de 10 anos para 4,98% e um dólar que cede 0,13%, apesar da queda das bolsas da Ásia e da Europa. A queda do ouro (−3,0%) e da prata (−4,9%) pesa sobre as mineradoras do IPC."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "A agenda local é leve. Na próxima semana o INEGI divulga na terça, dia 24, a inflação da primeira quinzena de novembro e na sexta, dia 27, a balança comercial de outubro."
+   }
+  ],
+  "scm": "Hoje vale o FIX de 18,6723 e na segunda sobe para 19,0270: liquide hoje os pagamentos em dólares que puder. Com o peso a 18,97 no mercado, escalone as compras da próxima semana."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 20 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (19 nov 2026: 19.0270)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (20 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
