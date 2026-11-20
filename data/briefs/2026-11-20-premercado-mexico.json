@@ -1,0 +1,91 @@
+{
+ "id": "2026-11-20-premercado-mexico",
+ "fecha": "2026-11-20",
+ "momento": "premercado",
+ "mercado": "mexico",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El peso amanece en 19.04 con el dólar en máximos de 19 meses; hoy rige para pagos el FIX de 18.6723",
+  "esencial": [
+   "A las 5:08 CDMX el peso cotizaba en 19.04 por dólar (−0.06% el dólar), cerca de su cierre de ayer (19.08).",
+   "Hoy rige para pagos el FIX de 18.6723, 37 centavos abajo del mercado; el IPC cerró ayer en 68,713.60 (−0.64%).",
+   "Para supply chain: liquida hoy al FIX los pagos en dólares que puedas antes del fin de semana, y deja listas las compras de la próxima semana, que en EE. UU. tiene feriado el jueves 26."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El S&P/BMV IPC cerró ayer en 68,713.60 puntos (−0.64%) y el peso en 19.08 por dólar. En la noche se mantuvo estable: a las 5:08 CDMX cotizaba en 19.04 (−0.06% el dólar), con el índice del dólar cerca de 103.9, su nivel más alto en 19 meses. Hoy rige para pagos el FIX de 18.6723, determinado el miércoles."
+   },
+   {
+    "t": "Contexto",
+    "x": "El desplome de las bolsas de Asia (Taiwán −10.35%, Corea −5.21%) y los futuros de EE. UU. a la baja mantienen la aversión al riesgo, lo que presiona al peso y al IPC. La caída del oro (−2.6%), la plata (−4.1%) y el cobre (−1.2%) pesa sobre las mineras; el crudo baja 1.8%."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "La agenda local es ligera. La próxima semana el INEGI publica el martes 24 la inflación de la primera quincena de noviembre y el viernes 27 la balanza comercial de octubre; el jueves 26 no opera la Bolsa de Nueva York por el Día de Acción de Gracias."
+   }
+  ],
+  "scm": "Hoy rige el FIX de 18.6723, todavía abajo del mercado (19.04): liquida al FIX lo que puedas antes del fin de semana. Si importas de EE. UU., confirma recolecciones y cortes de embarque antes del Día de Acción de Gracias del jueves 26."
+ },
+ "en": {
+  "titular": "The peso starts at 19.04 with the dollar at 19-month highs; the 18.6723 FIX applies to payments today",
+  "esencial": [
+   "At 5:08 a.m. Mexico City time the peso traded at 19.04 per dollar (dollar −0.06%), near its close yesterday (19.08).",
+   "Today the 18.6723 FIX applies to payments, 37 centavos below the market; the IPC closed yesterday at 68,713.60 (−0.64%).",
+   "For supply chain: settle at the FIX the dollar payments you can today before the weekend, and prepare next week's purchases, as the US has a holiday on Thursday the 26th."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "The S&P/BMV IPC closed yesterday at 68,713.60 points (−0.64%) and the peso at 19.08 per dollar. Overnight it held steady: at 5:08 a.m. Mexico City time it traded at 19.04 (dollar −0.06%), with the dollar index near 103.9, its highest in 19 months. Today the 18.6723 FIX, set on Wednesday, applies to payments."
+   },
+   {
+    "t": "Context",
+    "x": "The plunge in Asian stocks (Taiwan −10.35%, Korea −5.21%) and lower US futures keep risk aversion high, pressuring the peso and the IPC. The drop in gold (−2.6%), silver (−4.1%) and copper (−1.2%) weighs on miners; crude falls 1.8%."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The local agenda is light. Next week INEGI publishes first-half November inflation on Tuesday the 24th and the October trade balance on Friday the 27th; the New York Stock Exchange is closed on Thursday the 26th for Thanksgiving."
+   }
+  ],
+  "scm": "Today the 18.6723 FIX applies, still below the market (19.04): settle what you can at the FIX before the weekend. If you import from the US, confirm pickups and shipping cutoffs ahead of Thanksgiving on Thursday the 26th."
+ },
+ "pt": {
+  "titular": "O peso amanhece em 19,04 com o dólar na máxima em 19 meses; hoje vale para pagamentos o FIX de 18,6723",
+  "esencial": [
+   "Às 5h08 (Cidade do México) o peso era cotado a 19,04 por dólar (dólar −0,06%), perto do fechamento de ontem (19,08).",
+   "Hoje vale para pagamentos o FIX de 18,6723, 37 centavos abaixo do mercado; o IPC fechou ontem em 68.713,60 (−0,64%).",
+   "Para supply chain: liquide hoje pelo FIX os pagamentos em dólares que puder antes do fim de semana e deixe prontas as compras da próxima semana, que tem feriado nos EUA na quinta, dia 26."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "O S&P/BMV IPC fechou ontem em 68.713,60 pontos (−0,64%) e o peso em 19,08 por dólar. Durante a noite ficou estável: às 5h08 (Cidade do México) era cotado a 19,04 (dólar −0,06%), com o índice do dólar perto de 103,9, o nível mais alto em 19 meses. Hoje vale para pagamentos o FIX de 18,6723, definido na quarta."
+   },
+   {
+    "t": "Contexto",
+    "x": "O tombo das bolsas da Ásia (Taiwan −10,35%, Coreia −5,21%) e os futuros dos EUA em queda mantêm a aversão ao risco, o que pressiona o peso e o IPC. A queda do ouro (−2,6%), da prata (−4,1%) e do cobre (−1,2%) pesa sobre as mineradoras; o petróleo cai 1,8%."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "A agenda local é leve. Na próxima semana o INEGI divulga na terça, dia 24, a inflação da primeira quinzena de novembro e na sexta, dia 27, a balança comercial de outubro; na quinta, dia 26, a Bolsa de Nova York não opera pelo Dia de Ação de Graças."
+   }
+  ],
+  "scm": "Hoje vale o FIX de 18,6723, ainda abaixo do mercado (19,04): liquide pelo FIX o que puder antes do fim de semana. Se você importa dos EUA, confirme coletas e prazos de embarque antes do Dia de Ação de Graças, na quinta, dia 26."
+ },
+ "fuentes": [
+  {
+   "t": "Banxico: tipo de cambio FIX y para pagos",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=es"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (20 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Yahoo Finance: los futuros siguen a la baja tras el debut de Anthropic (20 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-volatility-092827348.html"
+  }
+ ]
+}

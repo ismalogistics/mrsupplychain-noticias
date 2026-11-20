@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-20-premercado-global",
+   "fecha": "2026-11-20",
+   "momento": "premercado",
+   "mercado": "global",
+   "titular_es": "Asia se desploma con la IA: Taiwán cae 10.4%, Corea 5.2% y Japón 5.1%; el oro baja 2.6%",
+   "titular_en": "Asia plunges on AI: Taiwan falls 10.4%, Korea 5.2% and Japan 5.1%; gold drops 2.6%",
+   "titular_pt": "A Ásia despenca com a IA: Taiwan cai 10,4%, a Coreia 5,2% e o Japão 5,1%; o ouro cai 2,6%"
+  },
+  {
+   "id": "2026-11-20-premercado-latam",
+   "fecha": "2026-11-20",
+   "momento": "premercado",
+   "mercado": "latam",
+   "titular_es": "La región cierra una semana difícil: el real abre en 5.93 y los metales vuelven a caer",
+   "titular_en": "The region closes a tough week: the real opens at 5.93 and metals fall again",
+   "titular_pt": "A região fecha uma semana difícil: o real abre em 5,93 e os metais voltam a cair"
+  },
+  {
+   "id": "2026-11-20-premercado-mexico",
+   "fecha": "2026-11-20",
+   "momento": "premercado",
+   "mercado": "mexico",
+   "titular_es": "El peso amanece en 19.04 con el dólar en máximos de 19 meses; hoy rige para pagos el FIX de 18.6723",
+   "titular_en": "The peso starts at 19.04 with the dollar at 19-month highs; the 18.6723 FIX applies to payments today",
+   "titular_pt": "O peso amanhece em 19,04 com o dólar na máxima em 19 meses; hoje vale para pagamentos o FIX de 18,6723"
+  },
+  {
    "id": "2026-11-19-cierre-global",
    "fecha": "2026-11-19",
    "momento": "cierre",
@@ -782,33 +809,6 @@
    "titular_es": "El IPC recupera su baja y queda plano; el peso se mantiene en 18.66",
    "titular_en": "The IPC recovers its loss and is flat; the peso holds at 18.66",
    "titular_pt": "O IPC recupera a queda e fica estável; o peso se mantém em 18,66"
-  },
-  {
-   "id": "2026-11-10-apertura-global",
-   "fecha": "2026-11-10",
-   "momento": "apertura",
-   "mercado": "global",
-   "titular_es": "Wall Street abre a la baja tras una inflación más alta de lo esperado; el Treasury a 10 años sube a 4.99%",
-   "titular_en": "Wall Street opens lower after hotter-than-expected inflation; the 10-year Treasury rises to 4.99%",
-   "titular_pt": "Wall Street abre em queda após inflação acima do esperado; o título de 10 anos sobe para 4,99%"
-  },
-  {
-   "id": "2026-11-10-apertura-latam",
-   "fecha": "2026-11-10",
-   "momento": "apertura",
-   "mercado": "latam",
-   "titular_es": "Las monedas de la región se debilitan tras la inflación de EE. UU.; el real cae 1.6%",
-   "titular_en": "The region's currencies weaken after US inflation; the real falls 1.6%",
-   "titular_pt": "As moedas da região enfraquecem após a inflação dos EUA; o real cai 1,6%"
-  },
-  {
-   "id": "2026-11-10-apertura-mexico",
-   "fecha": "2026-11-10",
-   "momento": "apertura",
-   "mercado": "mexico",
-   "titular_es": "El IPC abre con −0.6% y el peso se debilita a 18.69 tras la inflación de EE. UU.",
-   "titular_en": "The IPC opens −0.6% and the peso weakens to 18.69 after US inflation",
-   "titular_pt": "O IPC abre com −0,6% e o peso enfraquece para 18,69 após a inflação dos EUA"
   }
  ]
 }
