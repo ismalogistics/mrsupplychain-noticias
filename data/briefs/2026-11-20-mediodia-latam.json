@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-20-mediodia-latam",
+ "fecha": "2026-11-20",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "Canadá cae a su nivel más bajo en seis meses y el peso colombiano se debilita 2.3%; Brasil no opera",
+  "esencial": [
+   "A las 11:38 CDMX el S&P/TSX de Canadá caía 1.65% a 33,467.45, su nivel más bajo en seis meses; la bolsa de Brasil no opera por el Día de la Conciencia Negra.",
+   "El dólar subía a 3,500 pesos colombianos (+2.27%), 1,021 pesos chilenos (+0.58%) y 5.95 reales (+0.74%).",
+   "Para supply chain: escalona los pagos en pesos colombianos y aprovecha el cobre en 5.48 dólares para cotizar cable."
+  ],
+  "bloques": [
+   {
+    "t": "Mediodía",
+    "x": "A las 11:38 CDMX el S&P/TSX de Canadá estaba en 33,467.45 (−1.65%), su nivel más bajo en seis meses, según MT Newswires. La B3 de Brasil no opera hoy por el Día de la Conciencia Negra. Los ETF de MSCI caían 2.70% en Perú, 2.02% en Brasil, 1.65% en Argentina y 0.80% en Chile. En monedas, el dólar estaba en 5.95 reales (+0.74%), 1,021 pesos chilenos (+0.58%), 3,500 pesos colombianos (+2.27%), 3.46 soles (+0.40%), 1,578 pesos argentinos (+0.83%) y 1.433 dólares canadienses (−0.05%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "La caída del oro (−4.2%), la plata (−7.5%) y el cobre (−2.7%) pesa sobre Perú y Chile; la venta en tecnología arrastra a Canadá."
+   },
+   {
+    "t": "Qué sigue",
+    "x": "La región cierra la semana con Wall Street a la baja; la OPEP+ se reúne el 29 de noviembre."
+   }
+  ],
+  "scm": "Escalona los pagos en pesos colombianos y chilenos, que se debilitan hoy, y aprovecha el cobre en 5.48 dólares por libra para cotizar cable y conectores."
+ },
+ "en": {
+  "titular": "Canada falls to a six-month low and the Colombian peso weakens 2.3%; Brazil is closed",
+  "esencial": [
+   "At 11:38 a.m. Mexico City time Canada's S&P/TSX was down 1.65% at 33,467.45, its lowest in six months; Brazil's stock market is closed for Black Consciousness Day.",
+   "The dollar rose to 3,500 Colombian pesos (+2.27%), 1,021 Chilean pesos (+0.58%) and 5.95 reais (+0.74%).",
+   "For supply chain: stagger payments in Colombian pesos and use copper at $5.48 to quote cable."
+  ],
+  "bloques": [
+   {
+    "t": "Midday",
+    "x": "At 11:38 a.m. Mexico City time Canada's S&P/TSX stood at 33,467.45 (−1.65%), its lowest in six months, according to MT Newswires. Brazil's B3 is closed today for Black Consciousness Day. The MSCI ETFs fell 2.70% for Peru, 2.02% for Brazil, 1.65% for Argentina and 0.80% for Chile. In currencies, the dollar stood at 5.95 reais (+0.74%), 1,021 Chilean pesos (+0.58%), 3,500 Colombian pesos (+2.27%), 3.46 soles (+0.40%), 1,578 Argentine pesos (+0.83%) and 1.433 Canadian dollars (−0.05%)."
+   },
+   {
+    "t": "Context",
+    "x": "The drop in gold (−4.2%), silver (−7.5%) and copper (−2.7%) weighs on Peru and Chile; the tech sell-off drags Canada."
+   },
+   {
+    "t": "What's next",
+    "x": "The region ends the week with Wall Street lower; OPEC+ meets on November 29."
+   }
+  ],
+  "scm": "Stagger payments in Colombian and Chilean pesos, which weaken today, and use copper at $5.48 per pound to quote cable and connectors."
+ },
+ "pt": {
+  "titular": "O Canadá cai ao menor nível em seis meses e o peso colombiano se enfraquece 2,3%; o Brasil não opera",
+  "esencial": [
+   "Às 11h38 (Cidade do México) o S&P/TSX do Canadá caía 1,65% para 33.467,45, o menor nível em seis meses; a bolsa do Brasil não opera pelo Dia da Consciência Negra.",
+   "O dólar subia para 3.500 pesos colombianos (+2,27%), 1.021 pesos chilenos (+0,58%) e R$ 5,95 (+0,74%).",
+   "Para supply chain: escalone os pagamentos em pesos colombianos e aproveite o cobre a 5,48 dólares para cotar cabos."
+  ],
+  "bloques": [
+   {
+    "t": "Meio-dia",
+    "x": "Às 11h38 (Cidade do México) o S&P/TSX do Canadá estava em 33.467,45 (−1,65%), o menor nível em seis meses, segundo a MT Newswires. A B3 não opera hoje pelo Dia da Consciência Negra. Os ETFs da MSCI caíam 2,70% no Peru, 2,02% no Brasil, 1,65% na Argentina e 0,80% no Chile. Nas moedas, o dólar estava em R$ 5,95 (+0,74%), 1.021 pesos chilenos (+0,58%), 3.500 pesos colombianos (+2,27%), 3,46 soles (+0,40%), 1.578 pesos argentinos (+0,83%) e 1,433 dólar canadense (−0,05%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "A queda do ouro (−4,2%), da prata (−7,5%) e do cobre (−2,7%) pesa sobre Peru e Chile; a venda em tecnologia arrasta o Canadá."
+   },
+   {
+    "t": "O que vem",
+    "x": "A região fecha a semana com Wall Street em queda; a OPEP+ se reúne em 29 de novembro."
+   }
+  ],
+  "scm": "Escalone os pagamentos em pesos colombianos e chilenos, que se enfraquecem hoje, e aproveite o cobre a 5,48 dólares por libra para cotar cabos e conectores."
+ },
+ "fuentes": [
+  {
+   "t": "MT Newswires: el S&P/TSX cae a su nivel más bajo en seis meses (20 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/world-indices/articles/p-tsx-composite-index-falls-153624477.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (20 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

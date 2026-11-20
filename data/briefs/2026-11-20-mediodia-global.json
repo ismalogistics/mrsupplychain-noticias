@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-20-mediodia-global",
+ "fecha": "2026-11-20",
+ "momento": "mediodia",
+ "mercado": "global",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "Venta de chips: Micron y AMD caen casi 12%, el Nasdaq 3.6% y Anthropic se acerca a su precio de salida",
+  "esencial": [
+   "A las 11:38 CDMX el Nasdaq caía 3.60%, el S&P 500 2.20% (7,017.85) y el Dow 0.71%; el VIX subía a 32.3.",
+   "Micron caía 12.4%, AMD 11.6%, Broadcom 11.5% y Nvidia 7.2%; Anthropic perdía 13.2% a 84.33 dólares, apenas arriba de su precio de 83.",
+   "Para supply chain: el oro y la plata van por su peor semana desde marzo y el cobre cae 2.7%; aprovecha para cotizar insumos metálicos, pero mantén cláusulas de ajuste en cómputo."
+  ],
+  "bloques": [
+   {
+    "t": "Mediodía",
+    "x": "La apertura dividida se volvió una venta amplia en tecnología: a las 11:38 CDMX el S&P 500 estaba en 7,017.85 (−2.20%), cerca de 7,000 puntos, el Nasdaq en 23,020.37 (−3.60%) y el Dow en 48,746.87 (−0.71%); el VIX subía 13.6% a 32.3. Micron caía 12.4%, AMD 11.6%, Broadcom 11.5%, TSMC 8.2% y Nvidia 7.2% (135.46 dólares); en óptica, Coherent caía 14.8% y Lumentum 12.2%. Anthropic perdía 13.2% a 84.33 dólares, apenas arriba de su precio de 83. Intuit caía 8.8% tras acordar la venta de Mailchimp a Bending Spoons por 3,680 millones de dólares. Walmart subía 2.7% y el consumo básico era el sector más fuerte, según Motley Fool."
+   },
+   {
+    "t": "Tasas y materias primas",
+    "x": "El Treasury a 10 años bajaba a 4.94%. El oro caía 4.2% a 3,531 dólares y va por una caída semanal de alrededor de 8.5%, la peor desde marzo, por la expectativa de otra alza de tasas de la Fed en diciembre; la plata caía 7.5% y el cobre 2.7% a 5.48 dólares por libra. El WTI estaba en 82.28 dólares (−0.2%), el Brent de enero en 91.35 (−0.7%) y el diésel en futuros en 3.83. El bitcoin caía 4.7% a 59,019 dólares y va por su séptima semana a la baja. Europa cerró con fuertes caídas: Euro Stoxx 50 −2.81% y DAX −2.60%."
+   },
+   {
+    "t": "Qué sigue",
+    "x": "El mercado cierra la semana con la duda de si la inversión en IA tendrá retorno y con la expectativa de una Fed más dura. La próxima semana sale el índice PCE y el jueves 26 no opera Wall Street por el Día de Acción de Gracias."
+   }
+  ],
+  "scm": "Con el oro, la plata y el cobre a la baja, cotiza esta semana los insumos metálicos del primer trimestre. En cómputo, la caída de las acciones de chips todavía no baja los precios de memoria o GPU: mantén cláusulas de ajuste y no adelantes compras grandes."
+ },
+ "en": {
+  "titular": "Chip sell-off: Micron and AMD fall nearly 12%, the Nasdaq 3.6% and Anthropic nears its IPO price",
+  "esencial": [
+   "At 12:38 p.m. ET the Nasdaq was down 3.60%, the S&P 500 2.20% (7,017.85) and the Dow 0.71%; the VIX rose to 32.3.",
+   "Micron fell 12.4%, AMD 11.6%, Broadcom 11.5% and Nvidia 7.2%; Anthropic lost 13.2% to $84.33, just above its $83 price.",
+   "For supply chain: gold and silver are heading for their worst week since March and copper falls 2.7%; use it to quote metal inputs, but keep adjustment clauses in compute."
+  ],
+  "bloques": [
+   {
+    "t": "Midday",
+    "x": "The split open turned into a broad tech sell-off: at 12:38 p.m. ET the S&P 500 stood at 7,017.85 (−2.20%), near 7,000, the Nasdaq at 23,020.37 (−3.60%) and the Dow at 48,746.87 (−0.71%); the VIX rose 13.6% to 32.3. Micron fell 12.4%, AMD 11.6%, Broadcom 11.5%, TSMC 8.2% and Nvidia 7.2% ($135.46); in optics, Coherent fell 14.8% and Lumentum 12.2%. Anthropic lost 13.2% to $84.33, just above its $83 price. Intuit fell 8.8% after agreeing to sell Mailchimp to Bending Spoons for $3.68 billion. Walmart rose 2.7% and consumer staples was the strongest sector, according to Motley Fool."
+   },
+   {
+    "t": "Rates and commodities",
+    "x": "The 10-year Treasury yield fell to 4.94%. Gold fell 4.2% to $3,531 and is heading for a weekly drop of about 8.5%, the worst since March, on expectations of another Fed rate hike in December; silver fell 7.5% and copper 2.7% to $5.48 per pound. WTI was at $82.28 (−0.2%), January Brent at $91.35 (−0.7%) and diesel futures at $3.83. Bitcoin fell 4.7% to $59,019 and is heading for its seventh straight weekly loss. Europe closed sharply lower: Euro Stoxx 50 −2.81% and DAX −2.60%."
+   },
+   {
+    "t": "What's next",
+    "x": "The market ends the week questioning whether AI investment will pay off and expecting a tougher Fed. Next week the PCE index comes out and Wall Street is closed on Thursday the 26th for Thanksgiving."
+   }
+  ],
+  "scm": "With gold, silver and copper lower, quote first-quarter metal inputs this week. In compute, the drop in chip stocks has not yet lowered memory or GPU prices: keep adjustment clauses and don't pull large purchases forward."
+ },
+ "pt": {
+  "titular": "Venda de chips: Micron e AMD caem quase 12%, o Nasdaq 3,6% e a Anthropic se aproxima do preço do IPO",
+  "esencial": [
+   "Às 11h38 (Cidade do México) o Nasdaq caía 3,60%, o S&P 500 2,20% (7.017,85) e o Dow 0,71%; o VIX subia para 32,3.",
+   "A Micron caía 12,4%, a AMD 11,6%, a Broadcom 11,5% e a Nvidia 7,2%; a Anthropic perdia 13,2% para 84,33 dólares, logo acima do preço de 83.",
+   "Para supply chain: o ouro e a prata caminham para a pior semana desde março e o cobre cai 2,7%; aproveite para cotar insumos metálicos, mas mantenha cláusulas de ajuste em computação."
+  ],
+  "bloques": [
+   {
+    "t": "Meio-dia",
+    "x": "A abertura dividida virou uma venda ampla em tecnologia: às 11h38 (Cidade do México) o S&P 500 estava em 7.017,85 (−2,20%), perto de 7.000 pontos, o Nasdaq em 23.020,37 (−3,60%) e o Dow em 48.746,87 (−0,71%); o VIX subia 13,6% para 32,3. A Micron caía 12,4%, a AMD 11,6%, a Broadcom 11,5%, a TSMC 8,2% e a Nvidia 7,2% (135,46 dólares); em óptica, a Coherent caía 14,8% e a Lumentum 12,2%. A Anthropic perdia 13,2% para 84,33 dólares, logo acima do preço de 83. A Intuit caía 8,8% depois de acordar a venda do Mailchimp para a Bending Spoons por 3,68 bilhões de dólares. O Walmart subia 2,7% e o consumo básico era o setor mais forte, segundo a Motley Fool."
+   },
+   {
+    "t": "Juros e matérias-primas",
+    "x": "O rendimento do Treasury de 10 anos caía para 4,94%. O ouro caía 4,2% para 3.531 dólares e caminha para uma queda semanal de cerca de 8,5%, a pior desde março, pela expectativa de outra alta de juros do Fed em dezembro; a prata caía 7,5% e o cobre 2,7% para 5,48 dólares por libra. O WTI estava a 82,28 dólares (−0,2%), o Brent de janeiro a 91,35 (−0,7%) e o diesel nos futuros a 3,83. O bitcoin caía 4,7% para 59.019 dólares e caminha para a sétima semana de queda. A Europa fechou com fortes quedas: Euro Stoxx 50 −2,81% e DAX −2,60%."
+   },
+   {
+    "t": "O que vem",
+    "x": "O mercado fecha a semana questionando se o investimento em IA terá retorno e esperando um Fed mais duro. Na próxima semana sai o índice PCE e na quinta, dia 26, Wall Street não opera pelo Dia de Ação de Graças."
+   }
+  ],
+  "scm": "Com o ouro, a prata e o cobre em queda, cote nesta semana os insumos metálicos do primeiro trimestre. Em computação, a queda das ações de chips ainda não reduziu os preços de memória ou de GPUs: mantenha cláusulas de ajuste e não antecipe compras grandes."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq caen porque la salida a bolsa de Anthropic no calma las dudas sobre la IA (20 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
+  },
+  {
+   "t": "Motley Fool: el Nasdaq se desploma con AMD y Micron al frente de la venta de chips (20 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-nov-20-172002057.html"
+  },
+  {
+   "t": "IBTimes: el oro cae casi 9% en su peor semana desde marzo (20 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/gold-plunges-nearly-9-worst-172101705.html"
+  },
+  {
+   "t": "MT Newswires: Anthropic cae un día después de su debut; Intuit venderá Mailchimp a Bending Spoons (20 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/ai/articles/top-midday-stories-anthropic-shares-164515719.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (20 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

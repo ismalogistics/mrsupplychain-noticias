@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-20T15:11:02Z",
+ "actualizado": "2026-11-20T17:41:23Z",
  "fecha": "2026-11-20",
  "titular": {
-  "es": "Viernes: los chips siguen cayendo, Anthropic cede 6% y el crudo va por su tercera semana a la baja",
-  "en": "Friday: chips keep falling, Anthropic gives up 6% and crude heads for a third weekly drop",
-  "pt": "Sexta: os chips seguem caindo, a Anthropic cede 6% e o petróleo caminha para a terceira semana de queda"
+  "es": "Mediodía: la venta en chips se profundiza, Anthropic cae 13% y el oro va por su peor semana desde marzo",
+  "en": "Midday: the chip sell-off deepens, Anthropic falls 13% and gold heads for its worst week since March",
+  "pt": "Meio-dia: a venda em chips se aprofunda, a Anthropic cai 13% e o ouro caminha para a pior semana desde março"
  },
  "items": [
   {
@@ -17,14 +17,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Micron cae 5.6%, Broadcom 4.9% y Nvidia 3.2%; la óptica revierte su rally",
-    "en": "Micron falls 5.6%, Broadcom 4.9% and Nvidia 3.2%; optics reverse their rally",
-    "pt": "A Micron cai 5,6%, a Broadcom 4,9% e a Nvidia 3,2%; a óptica reverte a alta"
+    "es": "Micron, AMD y Broadcom caen más de 11%; Nvidia pierde 7.2%",
+    "en": "Micron, AMD and Broadcom fall more than 11%; Nvidia loses 7.2%",
+    "pt": "Micron, AMD e Broadcom caem mais de 11%; a Nvidia perde 7,2%"
    },
    "x": {
-    "es": "A las 9:08 CDMX Micron caía 5.6%, Broadcom 4.9%, AMD 4.0%, TSMC 3.2% y Nvidia 3.2%, que suma más de 10% de caída desde su reporte del 17 de noviembre. Las acciones de óptica revertían el rally del jueves: Applied Optoelectronics −7%, Lumentum −5% y Coherent −4%. La bolsa de Taiwán cerró con −10.35%.",
-    "en": "At 10:08 a.m. ET Micron was down 5.6%, Broadcom 4.9%, AMD 4.0%, TSMC 3.2% and Nvidia 3.2%, down more than 10% since its November 17 report. Optics stocks reversed Thursday's rally: Applied Optoelectronics −7%, Lumentum −5% and Coherent −4%. Taiwan's stock market closed −10.35%.",
-    "pt": "Às 9h08 (Cidade do México) a Micron caía 5,6%, a Broadcom 4,9%, a AMD 4,0%, a TSMC 3,2% e a Nvidia 3,2%, que acumula mais de 10% de queda desde o resultado de 17 de novembro. As ações de óptica revertiam a alta de quinta: Applied Optoelectronics −7%, Lumentum −5% e Coherent −4%. A bolsa de Taiwan fechou com −10,35%."
+    "es": "A las 11:38 CDMX Micron caía 12.4%, AMD 11.6%, Broadcom 11.5%, TSMC 8.2% y Nvidia 7.2% (135.46 dólares). En óptica, Coherent caía 14.8% y Lumentum 12.2%. Según Motley Fool, crecen las dudas sobre las valuaciones de los chips y la demanda de memoria.",
+    "en": "At 12:38 p.m. ET Micron was down 12.4%, AMD 11.6%, Broadcom 11.5%, TSMC 8.2% and Nvidia 7.2% ($135.46). In optics, Coherent fell 14.8% and Lumentum 12.2%. According to Motley Fool, doubts are growing about chip valuations and memory demand.",
+    "pt": "Às 11h38 (Cidade do México) a Micron caía 12,4%, a AMD 11,6%, a Broadcom 11,5%, a TSMC 8,2% e a Nvidia 7,2% (135,46 dólares). Em óptica, a Coherent caía 14,8% e a Lumentum 12,2%. Segundo a Motley Fool, crescem as dúvidas sobre as avaliações dos chips e a demanda por memória."
    },
    "scm": {
     "es": "La caída en bolsa no ha bajado precios de memoria ni GPU: mantén cláusulas de ajuste y no adelantes compras grandes.",
@@ -33,15 +33,11 @@
    },
    "fuentes": [
     {
-     "t": "24/7 Wall St.: AMD cae 6% y Nvidia 3% (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/amd-slides-6-despite-jim-145220072.html"
+     "t": "Motley Fool: el Nasdaq se desploma con AMD y Micron al frente de la venta de chips (20 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-nov-20-172002057.html"
     },
     {
-     "t": "24/7 Wall St.: las acciones de óptica revierten el rally del jueves; Coherent −4% y Lumentum −5% (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-sinks-7-optics-145446209.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (20 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (20 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -91,14 +87,14 @@
    "en": "Retail and last mile",
    "pt": "Varejo e última milha",
    "titular": {
-    "es": "La gasolina en EE. UU. baja de 4 dólares por galón antes de la semana de Acción de Gracias",
-    "en": "US gasoline drops below $4 a gallon ahead of Thanksgiving week",
-    "pt": "A gasolina nos EUA cai abaixo de 4 dólares por galão antes da semana de Ação de Graças"
+    "es": "Walmart sube 2.7% y el consumo básico resiste la venta",
+    "en": "Walmart rises 2.7% and consumer staples resist the sell-off",
+    "pt": "O Walmart sobe 2,7% e o consumo básico resiste à venda"
    },
    "x": {
-    "es": "Según Yahoo Finance, el precio de la gasolina en EE. UU. ya bajó de 4 dólares por galón, mientras el mercado esperaba la lectura final del sentimiento del consumidor de la Universidad de Michigan (53.3 puntos esperados). El jueves 26 no opera Wall Street por el Día de Acción de Gracias, que abre la temporada de compras.",
-    "en": "According to Yahoo Finance, US gasoline prices have dropped below $4 a gallon, as markets awaited the final University of Michigan consumer sentiment reading (53.3 expected). Wall Street is closed on Thursday the 26th for Thanksgiving, which opens the shopping season.",
-    "pt": "Segundo o Yahoo Finance, o preço da gasolina nos EUA já caiu abaixo de 4 dólares por galão, enquanto o mercado esperava a leitura final do sentimento do consumidor da Universidade de Michigan (53,3 pontos esperados). Na quinta, dia 26, Wall Street não opera pelo Dia de Ação de Graças, que abre a temporada de compras."
+    "es": "Walmart subía 2.7% a las 11:38 CDMX y el consumo básico era el sector más fuerte, según Motley Fool. La gasolina en EE. UU. ya bajó de 4 dólares por galón y el jueves 26 no opera Wall Street por el Día de Acción de Gracias, que abre la temporada de compras.",
+    "en": "Walmart rose 2.7% at 12:38 p.m. ET and consumer staples was the strongest sector, according to Motley Fool. US gasoline has dropped below $4 a gallon and Wall Street is closed on Thursday the 26th for Thanksgiving, which opens the shopping season.",
+    "pt": "O Walmart subia 2,7% às 11h38 (Cidade do México) e o consumo básico era o setor mais forte, segundo a Motley Fool. A gasolina nos EUA já caiu abaixo de 4 dólares por galão e na quinta, dia 26, Wall Street não opera pelo Dia de Ação de Graças, que abre a temporada de compras."
    },
    "scm": {
     "es": "Si exportas a EE. UU., confirma recolecciones y cortes de embarque antes del jueves 26.",
@@ -107,7 +103,11 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: el Dow sube, pero el S&P 500 y el Nasdaq amplían pérdidas tras el debut de Anthropic (20 nov 2026)",
+     "t": "Motley Fool: el Nasdaq se desploma con AMD y Micron al frente de la venta de chips (20 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-nov-20-172002057.html"
+    },
+    {
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq caen porque la salida a bolsa de Anthropic no calma las dudas sobre la IA (20 nov 2026)",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
     }
    ]
@@ -157,14 +157,14 @@
    "en": "Software and AI for supply chain",
    "pt": "Software e IA para supply chain",
    "titular": {
-    "es": "Anthropic cae 6.4% en su segundo día, pero sigue arriba de su precio de salida",
-    "en": "Anthropic falls 6.4% on its second day, but stays above its IPO price",
-    "pt": "A Anthropic cai 6,4% no segundo dia, mas segue acima do preço do IPO"
+    "es": "Anthropic cae 13% y queda apenas arriba de su precio de salida de 83 dólares",
+    "en": "Anthropic falls 13% and stays just above its $83 IPO price",
+    "pt": "A Anthropic cai 13% e fica logo acima do preço do IPO de 83 dólares"
    },
    "x": {
-    "es": "Anthropic bajaba 6.4% a 90.97 dólares a las 9:08 CDMX, desde su cierre de 97.17, aún arriba de su precio de 83. Según 24/7 Wall St., Cathie Wood vendió acciones de Nvidia y compró 78 millones de dólares de Anthropic en su salida a bolsa.",
-    "en": "Anthropic was down 6.4% at $90.97 at 10:08 a.m. ET, from its $97.17 close, still above its $83 price. According to 24/7 Wall St., Cathie Wood sold Nvidia shares and bought $78 million of Anthropic at its IPO.",
-    "pt": "A Anthropic caía 6,4% para 90,97 dólares às 9h08 (Cidade do México), desde o fechamento de 97,17, ainda acima do preço de 83. Segundo a 24/7 Wall St., Cathie Wood vendeu ações da Nvidia e comprou 78 milhões de dólares da Anthropic no IPO."
+    "es": "Anthropic perdía 13.2% a 84.33 dólares a las 11:38 CDMX, desde su cierre de 97.17 en el debut. Intuit caía 8.8% tras acordar la venta de Mailchimp a Bending Spoons por 3,680 millones de dólares.",
+    "en": "Anthropic was down 13.2% at $84.33 at 12:38 p.m. ET, from its $97.17 close on debut day. Intuit fell 8.8% after agreeing to sell Mailchimp to Bending Spoons for $3.68 billion.",
+    "pt": "A Anthropic perdia 13,2% para 84,33 dólares às 11h38 (Cidade do México), desde o fechamento de 97,17 na estreia. A Intuit caía 8,8% depois de acordar a venda do Mailchimp para a Bending Spoons por 3,68 bilhões de dólares."
    },
    "scm": {
     "es": "Si evalúas herramientas de IA para planeación o compras, pide precios y niveles de servicio fijos para 2027.",
@@ -173,11 +173,11 @@
    },
    "fuentes": [
     {
-     "t": "24/7 Wall St.: Cathie Wood vendió Nvidia y compró 78 millones de dólares de Anthropic (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sold-nvidia-bought-145242005.html"
+     "t": "MT Newswires: Anthropic cae un día después de su debut; Intuit venderá Mailchimp a Bending Spoons (20 nov 2026)",
+     "u": "https://finance.yahoo.com/technology/ai/articles/top-midday-stories-anthropic-shares-164515719.html"
     },
     {
-     "t": "Yahoo Finance: el Dow sube, pero el S&P 500 y el Nasdaq amplían pérdidas tras el debut de Anthropic (20 nov 2026)",
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq caen porque la salida a bolsa de Anthropic no calma las dudas sobre la IA (20 nov 2026)",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
     }
    ]
@@ -192,23 +192,27 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "El oro cae 3% a 3,577 y la plata 4.9%; el cobre baja a 5.58 dólares",
-    "en": "Gold falls 3% to $3,577 and silver 4.9%; copper drops to $5.58",
-    "pt": "O ouro cai 3% para 3.577 e a prata 4,9%; o cobre cai para 5,58 dólares"
+    "es": "El oro cae 4.2% y va por su peor semana desde marzo; la plata cae 7.5%",
+    "en": "Gold falls 4.2% and heads for its worst week since March; silver falls 7.5%",
+    "pt": "O ouro cai 4,2% e caminha para a pior semana desde março; a prata cai 7,5%"
    },
    "x": {
-    "es": "A las 8:58 CDMX el oro estaba en 3,577 dólares (−3.0%), la plata en 42.21 (−4.9%) y el cobre en 5.58 dólares por libra (−1.0%); el bitcoin bajó de 62,000, su nivel más bajo desde julio.",
-    "en": "At 9:58 a.m. ET gold was at $3,577 (−3.0%), silver at $42.21 (−4.9%) and copper at $5.58 per pound (−1.0%); bitcoin fell below $62,000, its lowest since July.",
-    "pt": "Às 8h58 (Cidade do México) o ouro estava a 3.577 dólares (−3,0%), a prata a 42,21 (−4,9%) e o cobre a 5,58 dólares por libra (−1,0%); o bitcoin caiu abaixo de 62.000, o nível mais baixo desde julho."
+    "es": "A las 11:28 CDMX el oro estaba en 3,531 dólares (−4.2%) y va por una caída semanal de alrededor de 8.5%, la peor desde marzo, por la expectativa de otra alza de tasas de la Fed en diciembre; la plata caía 7.5% y el cobre 2.7% a 5.48 dólares por libra.",
+    "en": "At 12:28 p.m. ET gold was at $3,531 (−4.2%) and is heading for a weekly drop of about 8.5%, the worst since March, on expectations of another Fed rate hike in December; silver fell 7.5% and copper 2.7% to $5.48 per pound.",
+    "pt": "Às 11h28 (Cidade do México) o ouro estava a 3.531 dólares (−4,2%) e caminha para uma queda semanal de cerca de 8,5%, a pior desde março, pela expectativa de outra alta de juros do Fed em dezembro; a prata caía 7,5% e o cobre 2,7% para 5,48 dólares por libra."
    },
    "scm": {
-    "es": "Cotiza cable y conectores del primer trimestre con el cobre a la baja.",
-    "en": "Quote first-quarter cable and connectors with copper lower.",
-    "pt": "Cote cabos e conectores do primeiro trimestre com o cobre em queda."
+    "es": "Cotiza cable, conectores y empaques metálicos del primer trimestre con los metales a la baja.",
+    "en": "Quote first-quarter cable, connectors and metal packaging with metals lower.",
+    "pt": "Cote cabos, conectores e embalagens metálicas do primeiro trimestre com os metais em queda."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (20 nov 2026, 09:08 CDMX)",
+     "t": "IBTimes: el oro cae casi 9% en su peor semana desde marzo (20 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/commodities/articles/gold-plunges-nearly-9-worst-172101705.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (20 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
