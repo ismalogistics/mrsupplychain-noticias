@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-20T17:41:23Z",
+ "actualizado": "2026-11-20T21:20:21Z",
  "fecha": "2026-11-20",
  "titular": {
-  "es": "Mediodía: la venta en chips se profundiza, Anthropic cae 13% y el oro va por su peor semana desde marzo",
-  "en": "Midday: the chip sell-off deepens, Anthropic falls 13% and gold heads for its worst week since March",
-  "pt": "Meio-dia: a venda em chips se aprofunda, a Anthropic cai 13% e o ouro caminha para a pior semana desde março"
+  "es": "Viernes: los chips se desploman 10.7%, el S&P 500 entra en corrección y el oro pierde 9% en la semana",
+  "en": "Friday: chips plunge 10.7%, the S&P 500 enters correction and gold loses 9% for the week",
+  "pt": "Sexta: os chips despencam 10,7%, o S&P 500 entra em correção e o ouro perde 9% na semana"
  },
  "items": [
   {
@@ -17,34 +17,38 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Micron, AMD y Broadcom caen más de 11%; Nvidia pierde 7.2%",
-    "en": "Micron, AMD and Broadcom fall more than 11%; Nvidia loses 7.2%",
-    "pt": "Micron, AMD e Broadcom caem mais de 11%; a Nvidia perde 7,2%"
+    "es": "El índice de chips se desploma 10.7%: Nvidia cae 14% y suma 23% de pérdida en la semana",
+    "en": "The chip index plunges 10.7%: Nvidia falls 14% and is down 23% for the week",
+    "pt": "O índice de chips despenca 10,7%: a Nvidia cai 14% e acumula 23% de perda na semana"
    },
    "x": {
-    "es": "A las 11:38 CDMX Micron caía 12.4%, AMD 11.6%, Broadcom 11.5%, TSMC 8.2% y Nvidia 7.2% (135.46 dólares). En óptica, Coherent caía 14.8% y Lumentum 12.2%. Según Motley Fool, crecen las dudas sobre las valuaciones de los chips y la demanda de memoria.",
-    "en": "At 12:38 p.m. ET Micron was down 12.4%, AMD 11.6%, Broadcom 11.5%, TSMC 8.2% and Nvidia 7.2% ($135.46). In optics, Coherent fell 14.8% and Lumentum 12.2%. According to Motley Fool, doubts are growing about chip valuations and memory demand.",
-    "pt": "Às 11h38 (Cidade do México) a Micron caía 12,4%, a AMD 11,6%, a Broadcom 11,5%, a TSMC 8,2% e a Nvidia 7,2% (135,46 dólares). Em óptica, a Coherent caía 14,8% e a Lumentum 12,2%. Segundo a Motley Fool, crescem as dúvidas sobre as avaliações dos chips e a demanda por memória."
+    "es": "El índice de semiconductores de Filadelfia cerró con −10.7%: Nvidia −14.0% (125.53 dólares, −22.9% en la semana), Micron −13.9%, AMD −13.3%, Broadcom −12.2% y TSMC −9.3%. Según CBS News, el mercado teme que se frene la construcción de centros de datos y que se endurezcan los controles a la exportación de chips; Trump dijo que le gustaría ver de regreso a Jensen Huang.",
+    "en": "The Philadelphia semiconductor index closed −10.7%: Nvidia −14.0% ($125.53, −22.9% for the week), Micron −13.9%, AMD −13.3%, Broadcom −12.2% and TSMC −9.3%. According to CBS News, markets fear a slowdown in data center construction and tighter chip export controls; Trump said he would like to see Jensen Huang back.",
+    "pt": "O índice de semicondutores da Filadélfia fechou com −10,7%: Nvidia −14,0% (125,53 dólares, −22,9% na semana), Micron −13,9%, AMD −13,3%, Broadcom −12,2% e TSMC −9,3%. Segundo a CBS News, o mercado teme uma desaceleração na construção de data centers e controles mais rígidos à exportação de chips; Trump disse que gostaria de ver Jensen Huang de volta."
    },
    "scm": {
-    "es": "La caída en bolsa no ha bajado precios de memoria ni GPU: mantén cláusulas de ajuste y no adelantes compras grandes.",
-    "en": "The stock drop has not lowered memory or GPU prices: keep adjustment clauses and don't pull large purchases forward.",
-    "pt": "A queda na bolsa não reduziu preços de memória nem de GPUs: mantenha cláusulas de ajuste e não antecipe compras grandes."
+    "es": "Si abasteces a centros de datos, revisa tus supuestos de demanda para 2027; si compras cómputo, no firmes precios largos sin cláusula de ajuste.",
+    "en": "If you supply data centers, review your 2027 demand assumptions; if you buy compute, don't sign long-term prices without an adjustment clause.",
+    "pt": "Se você abastece data centers, revise as premissas de demanda para 2027; se compra computação, não feche preços longos sem cláusula de ajuste."
    },
    "fuentes": [
     {
-     "t": "Motley Fool: el Nasdaq se desploma con AMD y Micron al frente de la venta de chips (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-nov-20-172002057.html"
+     "t": "Reuters: Wall Street cierra con fuertes caídas por la venta en IA; el S&P 500 y el Dow entran en corrección (20 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (20 nov 2026, 11:38 CDMX)",
-     "u": "https://finance.yahoo.com/markets/"
+     "t": "CBS News: las bolsas entran en corrección por la caída de la tecnología (20 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-enter-correction-territory-driven-210818388.html"
+    },
+    {
+     "t": "Yahoo Finance: Trump critica a la nueva dirección de Nvidia (20 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/article/trump-critiques-jensen-huangs-replacement-as-he-wades-deeper-into-nvidia-turmoil-210729338.html"
     }
    ]
   },
   {
    "id": "energia",
-   "dir": "down",
+   "dir": "mixed",
    "calor": 2,
    "mx": true,
    "latam": true,
@@ -52,27 +56,23 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo va por su tercera semana a la baja: el Brent cae 6% en la semana",
-    "en": "Crude heads for a third weekly decline: Brent down 6% on the week",
-    "pt": "O petróleo caminha para a terceira semana de queda: o Brent cai 6% na semana"
+    "es": "El WTI sube 1.8% el viernes, pero baja 5.2% en la semana; el diésel en 3.87",
+    "en": "WTI rises 1.8% on Friday but falls 5.2% for the week; diesel at $3.87",
+    "pt": "O WTI sobe 1,8% na sexta, mas cai 5,2% na semana; o diesel a 3,87"
    },
    "x": {
-    "es": "Según Reuters, el Brent va hacia una caída semanal de 6% y el WTI de diciembre de 8%, porque las exportaciones por Ormuz volvieron a niveles de antes de la guerra. A las 8:58 CDMX el WTI estaba en 81.73 dólares (−0.9%) y el diésel en futuros en 3.86 dólares por galón; la gasolina en EE. UU. ya bajó de 4 dólares.",
-    "en": "According to Reuters, Brent is heading for a 6% weekly drop and December WTI for 8%, as Hormuz exports have returned to pre-war levels. At 9:58 a.m. ET WTI was at $81.73 (−0.9%) and diesel futures at $3.86 a gallon; US gasoline has already dropped below $4.",
-    "pt": "Segundo a Reuters, o Brent caminha para uma queda semanal de 6% e o WTI de dezembro de 8%, porque as exportações por Ormuz voltaram a níveis de antes da guerra. Às 8h58 (Cidade do México) o WTI estava a 81,73 dólares (−0,9%) e o diesel nos futuros a 3,86 dólares por galão; a gasolina nos EUA já caiu abaixo de 4 dólares."
+    "es": "El WTI cerró en 83.96 dólares (+1.8%) y el Brent de enero en 92.90 (+1.0%), pero en la semana bajaron 5.2% y 3.1% porque las exportaciones por Ormuz volvieron a niveles de antes de la guerra, según Reuters. El diésel en futuros terminó en 3.87 dólares por galón y la OPEP+ se reúne el domingo 29.",
+    "en": "WTI closed at $83.96 (+1.8%) and January Brent at $92.90 (+1.0%), but they fell 5.2% and 3.1% for the week as Hormuz exports returned to pre-war levels, according to Reuters. Diesel futures ended at $3.87 a gallon and OPEC+ meets on Sunday the 29th.",
+    "pt": "O WTI fechou a 83,96 dólares (+1,8%) e o Brent de janeiro a 92,90 (+1,0%), mas na semana caíram 5,2% e 3,1% porque as exportações por Ormuz voltaram a níveis de antes da guerra, segundo a Reuters. O diesel nos futuros terminou a 3,87 dólares por galão e a OPEP+ se reúne no domingo, dia 29."
    },
    "scm": {
-    "es": "Negocia hoy los recargos de combustible de diciembre con el diésel en 3.86 dólares por galón.",
-    "en": "Negotiate December fuel surcharges today with diesel at $3.86 a gallon.",
-    "pt": "Negocie hoje as sobretaxas de combustível de dezembro com o diesel a 3,86 dólares por galão."
+    "es": "Negocia los recargos de combustible de diciembre con ajuste semanal antes de la reunión de la OPEP+.",
+    "en": "Negotiate December fuel surcharges with weekly adjustment before the OPEC+ meeting.",
+    "pt": "Negocie as sobretaxas de combustível de dezembro com ajuste semanal antes da reunião da OPEP+."
    },
    "fuentes": [
     {
-     "t": "Reuters: el petróleo va por su tercera semana a la baja por los flujos de exportación de Medio Oriente (20 nov 2026)",
-     "u": "https://finance.yahoo.com/news/oil-prices-edge-higher-houthi-020004794.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (20 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 20 nov 2026)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -87,28 +87,24 @@
    "en": "Retail and last mile",
    "pt": "Varejo e última milha",
    "titular": {
-    "es": "Walmart sube 2.7% y el consumo básico resiste la venta",
-    "en": "Walmart rises 2.7% and consumer staples resist the sell-off",
-    "pt": "O Walmart sobe 2,7% e o consumo básico resiste à venda"
+    "es": "El dinero se refugia en consumo básico: General Mills sube 4.4% y Walmart 1.5%",
+    "en": "Money takes shelter in staples: General Mills rises 4.4% and Walmart 1.5%",
+    "pt": "O dinheiro se refugia no consumo básico: a General Mills sobe 4,4% e o Walmart 1,5%"
    },
    "x": {
-    "es": "Walmart subía 2.7% a las 11:38 CDMX y el consumo básico era el sector más fuerte, según Motley Fool. La gasolina en EE. UU. ya bajó de 4 dólares por galón y el jueves 26 no opera Wall Street por el Día de Acción de Gracias, que abre la temporada de compras.",
-    "en": "Walmart rose 2.7% at 12:38 p.m. ET and consumer staples was the strongest sector, according to Motley Fool. US gasoline has dropped below $4 a gallon and Wall Street is closed on Thursday the 26th for Thanksgiving, which opens the shopping season.",
-    "pt": "O Walmart subia 2,7% às 11h38 (Cidade do México) e o consumo básico era o setor mais forte, segundo a Motley Fool. A gasolina nos EUA já caiu abaixo de 4 dólares por galão e na quinta, dia 26, Wall Street não opera pelo Dia de Ação de Graças, que abre a temporada de compras."
+    "es": "Mientras la tecnología se desplomaba, General Mills subió 4.4%, Lennar 2.5% y Walmart 1.5%, según CBS News. El jueves 26 no opera Wall Street por el Día de Acción de Gracias, que abre la temporada de compras.",
+    "en": "While tech plunged, General Mills rose 4.4%, Lennar 2.5% and Walmart 1.5%, according to CBS News. Wall Street is closed on Thursday the 26th for Thanksgiving, which opens the shopping season.",
+    "pt": "Enquanto a tecnologia despencava, a General Mills subiu 4,4%, a Lennar 2,5% e o Walmart 1,5%, segundo a CBS News. Na quinta, dia 26, Wall Street não opera pelo Dia de Ação de Graças, que abre a temporada de compras."
    },
    "scm": {
-    "es": "Si exportas a EE. UU., confirma recolecciones y cortes de embarque antes del jueves 26.",
-    "en": "If you export to the US, confirm pickups and shipping cutoffs before Thursday the 26th.",
-    "pt": "Se você exporta para os EUA, confirme coletas e prazos de embarque antes da quinta, dia 26."
+    "es": "Si exportas a EE. UU., confirma recolecciones y cortes de embarque antes del miércoles 25.",
+    "en": "If you export to the US, confirm pickups and shipping cutoffs before Wednesday the 25th.",
+    "pt": "Se você exporta para os EUA, confirme coletas e prazos de embarque antes da quarta, dia 25."
    },
    "fuentes": [
     {
-     "t": "Motley Fool: el Nasdaq se desploma con AMD y Micron al frente de la venta de chips (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-nov-20-172002057.html"
-    },
-    {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq caen porque la salida a bolsa de Anthropic no calma las dudas sobre la IA (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
+     "t": "CBS News: las bolsas entran en corrección por la caída de la tecnología (20 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-enter-correction-territory-driven-210818388.html"
     }
    ]
   },
@@ -157,14 +153,14 @@
    "en": "Software and AI for supply chain",
    "pt": "Software e IA para supply chain",
    "titular": {
-    "es": "Anthropic cae 13% y queda apenas arriba de su precio de salida de 83 dólares",
-    "en": "Anthropic falls 13% and stays just above its $83 IPO price",
-    "pt": "A Anthropic cai 13% e fica logo acima do preço do IPO de 83 dólares"
+    "es": "Anthropic cierra en 88.91 dólares (−8.5%) e Intuit cae 12.8% tras recortar su pronóstico",
+    "en": "Anthropic closes at $88.91 (−8.5%) and Intuit falls 12.8% after cutting its forecast",
+    "pt": "A Anthropic fecha a 88,91 dólares (−8,5%) e a Intuit cai 12,8% depois de cortar a previsão"
    },
    "x": {
-    "es": "Anthropic perdía 13.2% a 84.33 dólares a las 11:38 CDMX, desde su cierre de 97.17 en el debut. Intuit caía 8.8% tras acordar la venta de Mailchimp a Bending Spoons por 3,680 millones de dólares.",
-    "en": "Anthropic was down 13.2% at $84.33 at 12:38 p.m. ET, from its $97.17 close on debut day. Intuit fell 8.8% after agreeing to sell Mailchimp to Bending Spoons for $3.68 billion.",
-    "pt": "A Anthropic perdia 13,2% para 84,33 dólares às 11h38 (Cidade do México), desde o fechamento de 97,17 na estreia. A Intuit caía 8,8% depois de acordar a venda do Mailchimp para a Bending Spoons por 3,68 bilhões de dólares."
+    "es": "Anthropic terminó su segundo día en 88.91 dólares (−8.5%), aún arriba de su precio de salida de 83, pero cerca de 23% abajo de su máximo de 115.10 del jueves, según CBS News. Intuit cayó 12.8% tras recortar su pronóstico de ingresos y acordar la venta de Mailchimp a Bending Spoons por unos 3,680 millones de dólares, según Reuters.",
+    "en": "Anthropic ended its second day at $88.91 (−8.5%), still above its $83 IPO price but about 23% below Thursday's $115.10 high, according to CBS News. Intuit fell 12.8% after cutting its revenue forecast and agreeing to sell Mailchimp to Bending Spoons for about $3.68 billion, according to Reuters.",
+    "pt": "A Anthropic terminou o segundo dia a 88,91 dólares (−8,5%), ainda acima do preço do IPO de 83, mas cerca de 23% abaixo da máxima de 115,10 de quinta, segundo a CBS News. A Intuit caiu 12,8% depois de cortar a previsão de receita e acordar a venda do Mailchimp para a Bending Spoons por cerca de 3,68 bilhões de dólares, segundo a Reuters."
    },
    "scm": {
     "es": "Si evalúas herramientas de IA para planeación o compras, pide precios y niveles de servicio fijos para 2027.",
@@ -173,12 +169,12 @@
    },
    "fuentes": [
     {
-     "t": "MT Newswires: Anthropic cae un día después de su debut; Intuit venderá Mailchimp a Bending Spoons (20 nov 2026)",
-     "u": "https://finance.yahoo.com/technology/ai/articles/top-midday-stories-anthropic-shares-164515719.html"
+     "t": "CBS News: las bolsas entran en corrección por la caída de la tecnología (20 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-enter-correction-territory-driven-210818388.html"
     },
     {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq caen porque la salida a bolsa de Anthropic no calma las dudas sobre la IA (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
+     "t": "Reuters: Wall Street cierra con fuertes caídas por la venta en IA; el S&P 500 y el Dow entran en corrección (20 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
     }
    ]
   },
@@ -192,19 +188,19 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "El oro cae 4.2% y va por su peor semana desde marzo; la plata cae 7.5%",
-    "en": "Gold falls 4.2% and heads for its worst week since March; silver falls 7.5%",
-    "pt": "O ouro cai 4,2% e caminha para a pior semana desde março; a prata cai 7,5%"
+    "es": "El oro pierde 9.3% en la semana, la peor desde marzo, y el cobre 10%",
+    "en": "Gold loses 9.3% for the week, its worst since March, and copper 10%",
+    "pt": "O ouro perde 9,3% na semana, a pior desde março, e o cobre 10%"
    },
    "x": {
-    "es": "A las 11:28 CDMX el oro estaba en 3,531 dólares (−4.2%) y va por una caída semanal de alrededor de 8.5%, la peor desde marzo, por la expectativa de otra alza de tasas de la Fed en diciembre; la plata caía 7.5% y el cobre 2.7% a 5.48 dólares por libra.",
-    "en": "At 12:28 p.m. ET gold was at $3,531 (−4.2%) and is heading for a weekly drop of about 8.5%, the worst since March, on expectations of another Fed rate hike in December; silver fell 7.5% and copper 2.7% to $5.48 per pound.",
-    "pt": "Às 11h28 (Cidade do México) o ouro estava a 3.531 dólares (−4,2%) e caminha para uma queda semanal de cerca de 8,5%, a pior desde março, pela expectativa de outra alta de juros do Fed em dezembro; a prata caía 7,5% e o cobre 2,7% para 5,48 dólares por libra."
+    "es": "El oro cerró en 3,525 dólares (−4.4%) y perdió 9.3% en la semana, la peor desde marzo, por la expectativa de otra alza de la Fed en diciembre; la plata cayó 7.8% y el cobre 3.0% a 5.47 dólares por libra (−10% en la semana).",
+    "en": "Gold closed at $3,525 (−4.4%) and lost 9.3% for the week, its worst since March, on expectations of another Fed hike in December; silver fell 7.8% and copper 3.0% to $5.47 per pound (−10% for the week).",
+    "pt": "O ouro fechou a 3.525 dólares (−4,4%) e perdeu 9,3% na semana, a pior desde março, pela expectativa de outra alta do Fed em dezembro; a prata caiu 7,8% e o cobre 3,0% para 5,47 dólares por libra (−10% na semana)."
    },
    "scm": {
-    "es": "Cotiza cable, conectores y empaques metálicos del primer trimestre con los metales a la baja.",
-    "en": "Quote first-quarter cable, connectors and metal packaging with metals lower.",
-    "pt": "Cote cabos, conectores e embalagens metálicas do primeiro trimestre com os metais em queda."
+    "es": "Cotiza cable, conectores y empaques metálicos del primer trimestre con los metales en mínimos de meses.",
+    "en": "Quote first-quarter cable, connectors and metal packaging with metals at multi-month lows.",
+    "pt": "Cote cabos, conectores e embalagens metálicas do primeiro trimestre com os metais em mínimas de meses."
    },
    "fuentes": [
     {
@@ -212,7 +208,7 @@
      "u": "https://finance.yahoo.com/markets/commodities/articles/gold-plunges-nearly-9-worst-172101705.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (20 nov 2026, 11:38 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 20 nov 2026)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]

@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-20-cierre-global",
+   "fecha": "2026-11-20",
+   "momento": "cierre",
+   "mercado": "global",
+   "titular_es": "Semana negra para la IA: el Nasdaq se desploma 5.3%, Nvidia 14% y el S&P 500 y el Dow entran en corrección",
+   "titular_en": "A dark week for AI: the Nasdaq plunges 5.3%, Nvidia 14% and the S&P 500 and Dow enter correction",
+   "titular_pt": "Semana negra para a IA: o Nasdaq despenca 5,3%, a Nvidia 14% e o S&P 500 e o Dow entram em correção"
+  },
+  {
+   "id": "2026-11-20-cierre-latam",
+   "fecha": "2026-11-20",
+   "momento": "cierre",
+   "mercado": "latam",
+   "titular_es": "Canadá pierde 8% en la semana y el peso colombiano se debilita 2.2%; Brasil no operó",
+   "titular_en": "Canada loses 8% for the week and the Colombian peso weakens 2.2%; Brazil was closed",
+   "titular_pt": "O Canadá perde 8% na semana e o peso colombiano se enfraquece 2,2%; o Brasil não operou"
+  },
+  {
+   "id": "2026-11-20-cierre-mexico",
+   "fecha": "2026-11-20",
+   "momento": "cierre",
+   "mercado": "mexico",
+   "titular_es": "El peso cierra la semana en 19.17 y el IPC aguanta; el lunes rige un FIX de 19.0270",
+   "titular_en": "The peso ends the week at 19.17 and the IPC holds; a 19.0270 FIX applies on Monday",
+   "titular_pt": "O peso fecha a semana em 19,17 e o IPC resiste; na segunda vale um FIX de 19,0270"
+  },
+  {
    "id": "2026-11-20-mediodia-global",
    "fecha": "2026-11-20",
    "momento": "mediodia",
@@ -782,33 +809,6 @@
    "titular_es": "La actividad industrial cae 1.4% en septiembre; el IPC sube 0.6% y el peso opera en 18.62",
    "titular_en": "Industrial activity falls 1.4% in September; the IPC rises 0.6% and the peso trades at 18.62",
    "titular_pt": "A atividade industrial cai 1,4% em setembro; o IPC sobe 0,6% e o peso opera a 18,62"
-  },
-  {
-   "id": "2026-11-11-premercado-global",
-   "fecha": "2026-11-11",
-   "momento": "premercado",
-   "mercado": "global",
-   "titular_es": "CoreWeave reanima a la tecnología: los futuros del Nasdaq suben 1.7% y el crudo rebota por Ormuz",
-   "titular_en": "CoreWeave revives tech: Nasdaq futures rise 1.7% and crude rebounds on Hormuz",
-   "titular_pt": "A CoreWeave reanima a tecnologia: os futuros do Nasdaq sobem 1,7% e o petróleo reage com Ormuz"
-  },
-  {
-   "id": "2026-11-11-premercado-latam",
-   "fecha": "2026-11-11",
-   "momento": "premercado",
-   "mercado": "latam",
-   "titular_es": "La región busca recuperarse tras su caída del martes; el cobre y el crudo suben",
-   "titular_en": "The region seeks to recover after Tuesday's drop; copper and crude rise",
-   "titular_pt": "A região busca se recuperar depois da queda de terça; cobre e petróleo sobem"
-  },
-  {
-   "id": "2026-11-11-premercado-mexico",
-   "fecha": "2026-11-11",
-   "momento": "premercado",
-   "mercado": "mexico",
-   "titular_es": "El peso amanece en 18.59 con el apetito por la tecnología; a las 6:00 sale la actividad industrial",
-   "titular_en": "The peso starts at 18.59 on tech appetite; industrial activity comes out at 6:00",
-   "titular_pt": "O peso amanhece a 18,59 com o apetite por tecnologia; às 6h sai a atividade industrial"
   }
  ]
 }

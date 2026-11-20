@@ -1,0 +1,103 @@
+{
+ "id": "2026-11-20-cierre-latam",
+ "fecha": "2026-11-20",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": true,
+ "es": {
+  "titular": "Canadá pierde 8% en la semana y el peso colombiano se debilita 2.2%; Brasil no operó",
+  "esencial": [
+   "El S&P/TSX de Canadá cerró con −2.47% en 33,189.85, su nivel más bajo en seis meses, y perdió 8.1% en la semana; la bolsa de Brasil no operó por el Día de la Conciencia Negra.",
+   "Los ETF de MSCI cayeron 3.3% en Brasil, 3.0% en Argentina, 2.8% en Perú y 1.0% en Chile; el dólar subió a 3,497 pesos colombianos (+2.2%).",
+   "Para el fin de semana: escalona los pagos en pesos colombianos y chilenos y aprovecha el cobre en 5.47 dólares (−10% en la semana) para cotizar cable."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El S&P/TSX de Canadá cerró en 33,189.85 (−2.47%), su nivel más bajo en seis meses, y perdió 8.1% en la semana. La B3 de Brasil no operó por el Día de la Conciencia Negra. Los ETF de MSCI cayeron 3.26% en Brasil, 2.97% en Argentina, 2.76% en Perú y 1.01% en Chile. En monedas, el dólar terminó en 5.95 reales (+0.74%), 1,022 pesos chilenos (+0.64%), 3,497 pesos colombianos (+2.20%), 3.45 soles (+0.21%), 1,580 pesos argentinos (+0.96%) y 1.435 dólares canadienses (+0.10%)."
+   },
+   {
+    "t": "Por qué",
+    "x": "La venta global en tecnología y la caída de los metales (oro −4.4%, plata −7.8%, cobre −3.0%) pegaron a las bolsas de la región, en especial a Perú y Chile; la expectativa de un alza de la Fed fortalece al dólar."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "El crudo cerró al alza (WTI +1.8%), pero bajó en la semana, lo que pesa sobre Colombia. La región seguirá a Wall Street y a la Fed."
+   },
+   {
+    "t": "La próxima semana",
+    "x": "Miércoles 25: el PCE y el PIB de EE. UU. mueven a las monedas de la región. Jueves 26: Wall Street no opera. Domingo 29: se reúne la OPEP+, clave para Colombia y para el costo del combustible."
+   }
+  ],
+  "scm": "Para el fin de semana: escalona los pagos en pesos colombianos y chilenos, que se debilitaron, y cotiza cable y conectores del primer trimestre con el cobre en 5.47 dólares por libra."
+ },
+ "en": {
+  "titular": "Canada loses 8% for the week and the Colombian peso weakens 2.2%; Brazil was closed",
+  "esencial": [
+   "Canada's S&P/TSX closed −2.47% at 33,189.85, its lowest in six months, and lost 8.1% for the week; Brazil's stock market was closed for Black Consciousness Day.",
+   "The MSCI ETFs fell 3.3% for Brazil, 3.0% for Argentina, 2.8% for Peru and 1.0% for Chile; the dollar rose to 3,497 Colombian pesos (+2.2%).",
+   "For the weekend: stagger payments in Colombian and Chilean pesos and use copper at $5.47 (−10% for the week) to quote cable."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "Canada's S&P/TSX closed at 33,189.85 (−2.47%), its lowest in six months, and lost 8.1% for the week. Brazil's B3 was closed for Black Consciousness Day. The MSCI ETFs fell 3.26% for Brazil, 2.97% for Argentina, 2.76% for Peru and 1.01% for Chile. In currencies, the dollar ended at 5.95 reais (+0.74%), 1,022 Chilean pesos (+0.64%), 3,497 Colombian pesos (+2.20%), 3.45 soles (+0.21%), 1,580 Argentine pesos (+0.96%) and 1.435 Canadian dollars (+0.10%)."
+   },
+   {
+    "t": "Why",
+    "x": "The global tech sell-off and the drop in metals (gold −4.4%, silver −7.8%, copper −3.0%) hit the region’s stock markets, especially Peru and Chile; expectations of a Fed hike strengthen the dollar."
+   },
+   {
+    "t": "What to expect",
+    "x": "Crude closed higher (WTI +1.8%) but fell for the week, which weighs on Colombia. The region will follow Wall Street and the Fed."
+   },
+   {
+    "t": "Next week",
+    "x": "Wednesday 25: US PCE and GDP move the region’s currencies. Thursday 26: Wall Street is closed. Sunday 29: OPEC+ meets, key for Colombia and for fuel costs."
+   }
+  ],
+  "scm": "For the weekend: stagger payments in Colombian and Chilean pesos, which weakened, and quote first-quarter cable and connectors with copper at $5.47 per pound."
+ },
+ "pt": {
+  "titular": "O Canadá perde 8% na semana e o peso colombiano se enfraquece 2,2%; o Brasil não operou",
+  "esencial": [
+   "O S&P/TSX do Canadá fechou com −2,47% em 33.189,85, o menor nível em seis meses, e perdeu 8,1% na semana; a bolsa do Brasil não operou pelo Dia da Consciência Negra.",
+   "Os ETFs da MSCI caíram 3,3% no Brasil, 3,0% na Argentina, 2,8% no Peru e 1,0% no Chile; o dólar subiu para 3.497 pesos colombianos (+2,2%).",
+   "Para o fim de semana: escalone os pagamentos em pesos colombianos e chilenos e aproveite o cobre a 5,47 dólares (−10% na semana) para cotar cabos."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O S&P/TSX do Canadá fechou em 33.189,85 (−2,47%), o menor nível em seis meses, e perdeu 8,1% na semana. A B3 não operou pelo Dia da Consciência Negra. Os ETFs da MSCI caíram 3,26% no Brasil, 2,97% na Argentina, 2,76% no Peru e 1,01% no Chile. Nas moedas, o dólar terminou em R$ 5,95 (+0,74%), 1.022 pesos chilenos (+0,64%), 3.497 pesos colombianos (+2,20%), 3,45 soles (+0,21%), 1.580 pesos argentinos (+0,96%) e 1,435 dólar canadense (+0,10%)."
+   },
+   {
+    "t": "Por quê",
+    "x": "A venda global em tecnologia e a queda dos metais (ouro −4,4%, prata −7,8%, cobre −3,0%) atingiram as bolsas da região, especialmente Peru e Chile; a expectativa de alta do Fed fortalece o dólar."
+   },
+   {
+    "t": "O que se espera",
+    "x": "O petróleo fechou em alta (WTI +1,8%), mas caiu na semana, o que pesa sobre a Colômbia. A região seguirá Wall Street e o Fed."
+   },
+   {
+    "t": "A próxima semana",
+    "x": "Quarta, 25: o PCE e o PIB dos EUA movem as moedas da região. Quinta, 26: Wall Street não opera. Domingo, 29: a OPEP+ se reúne, chave para a Colômbia e para o custo do combustível."
+   }
+  ],
+  "scm": "Para o fim de semana: escalone os pagamentos em pesos colombianos e chilenos, que se enfraqueceram, e cote cabos e conectores do primeiro trimestre com o cobre a 5,47 dólares por libra."
+ },
+ "fuentes": [
+  {
+   "t": "MT Newswires: el S&P/TSX cae a su nivel más bajo en seis meses (20 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/world-indices/articles/p-tsx-composite-index-falls-153624477.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 20 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

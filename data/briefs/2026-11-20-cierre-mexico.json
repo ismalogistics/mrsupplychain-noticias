@@ -1,0 +1,107 @@
+{
+ "id": "2026-11-20-cierre-mexico",
+ "fecha": "2026-11-20",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": true,
+ "es": {
+  "titular": "El peso cierra la semana en 19.17 y el IPC aguanta; el lunes rige un FIX de 19.0270",
+  "esencial": [
+   "El peso terminó en 19.17 por dólar (+0.63% el dólar) y perdió alrededor de 3.3% en la semana, desde 18.53.",
+   "El S&P/BMV IPC cerró prácticamente sin cambio en 68,695.45 puntos pese a la caída de Wall Street, pero perdió 3.5% en la semana.",
+   "Para el fin de semana: el lunes rige para pagos el FIX de 19.0270; revisa el tipo de cambio de tus presupuestos y escalona las compras en dólares de la semana."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El S&P/BMV IPC cerró prácticamente sin cambio en 68,695.45 puntos, mientras el S&P 500 cayó 3.70%; en la semana perdió 3.5%. El peso terminó en 19.17 por dólar (+0.63% el dólar), después de llegar a 18.97 en la apertura, y en la semana se depreció alrededor de 3.3% (desde 18.53). Hoy rigió para pagos el FIX de 18.6723; el lunes 23 rige el de 19.0270, determinado el jueves."
+   },
+   {
+    "t": "Por qué",
+    "x": "La venta global en tecnología y la expectativa de un alza de la Fed en diciembre fortalecen al dólar frente a monedas emergentes. El IPC resistió por su poco peso en tecnología, pero la caída del oro (−4.4%), la plata (−7.8%) y el cobre (−3.0%) pesa sobre las mineras."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Con el peso arriba de 19, el costo en pesos de las importaciones en dólares sube frente a hace una semana. El mercado seguirá atento a la Fed y a la volatilidad de Wall Street (VIX cerca de 40)."
+   },
+   {
+    "t": "La próxima semana",
+    "x": "Martes 24: el INEGI publica la inflación de la primera quincena de noviembre. Miércoles 25: salen el PCE y el PIB de EE. UU., que mueven al peso. Jueves 26: Wall Street no opera por el Día de Acción de Gracias, pero la BMV sí. Viernes 27: el INEGI publica la balanza comercial de octubre."
+   }
+  ],
+  "scm": "Para el fin de semana: el lunes rige el FIX de 19.0270, así que actualiza el tipo de cambio de tus costos de importación y de tu presupuesto 2027; escalona las compras en dólares de la semana y confirma con tus transportistas los cruces a EE. UU. antes del jueves 26."
+ },
+ "en": {
+  "titular": "The peso ends the week at 19.17 and the IPC holds; a 19.0270 FIX applies on Monday",
+  "esencial": [
+   "The peso ended at 19.17 per dollar (dollar +0.63%) and lost about 3.3% for the week, from 18.53.",
+   "The S&P/BMV IPC closed virtually unchanged at 68,695.45 points despite the Wall Street drop, but lost 3.5% for the week.",
+   "For the weekend: the 19.0270 FIX applies to payments on Monday; review the exchange rate in your budgets and stagger dollar purchases this week."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The S&P/BMV IPC closed virtually unchanged at 68,695.45 points, while the S&P 500 fell 3.70%; for the week it lost 3.5%. The peso ended at 19.17 per dollar (dollar +0.63%), after reaching 18.97 at the open, and depreciated about 3.3% for the week (from 18.53). Today the 18.6723 FIX applied to payments; on Monday the 23rd the 19.0270 one applies, set on Thursday."
+   },
+   {
+    "t": "Why",
+    "x": "The global tech sell-off and expectations of a December Fed hike strengthen the dollar against emerging-market currencies. The IPC held up thanks to its low tech weighting, but the drop in gold (−4.4%), silver (−7.8%) and copper (−3.0%) weighs on miners."
+   },
+   {
+    "t": "What to expect",
+    "x": "With the peso above 19, the peso cost of dollar imports is higher than a week ago. Markets will stay focused on the Fed and Wall Street volatility (VIX near 40)."
+   },
+   {
+    "t": "Next week",
+    "x": "Tuesday 24: INEGI publishes first-half November inflation. Wednesday 25: US PCE and GDP come out, which move the peso. Thursday 26: Wall Street is closed for Thanksgiving, but the BMV is open. Friday 27: INEGI publishes the October trade balance."
+   }
+  ],
+  "scm": "For the weekend: the 19.0270 FIX applies on Monday, so update the exchange rate in your import costs and 2027 budget; stagger dollar purchases this week and confirm US crossings with your carriers before Thursday the 26th."
+ },
+ "pt": {
+  "titular": "O peso fecha a semana em 19,17 e o IPC resiste; na segunda vale um FIX de 19,0270",
+  "esencial": [
+   "O peso terminou em 19,17 por dólar (dólar +0,63%) e perdeu cerca de 3,3% na semana, desde 18,53.",
+   "O S&P/BMV IPC fechou praticamente estável em 68.695,45 pontos apesar da queda de Wall Street, mas perdeu 3,5% na semana.",
+   "Para o fim de semana: na segunda vale para pagamentos o FIX de 19,0270; revise o câmbio dos seus orçamentos e escalone as compras em dólares da semana."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O S&P/BMV IPC fechou praticamente estável em 68.695,45 pontos, enquanto o S&P 500 caiu 3,70%; na semana perdeu 3,5%. O peso terminou em 19,17 por dólar (dólar +0,63%), depois de chegar a 18,97 na abertura, e na semana se desvalorizou cerca de 3,3% (desde 18,53). Hoje valeu para pagamentos o FIX de 18,6723; na segunda, dia 23, vale o de 19,0270, definido na quinta."
+   },
+   {
+    "t": "Por quê",
+    "x": "A venda global em tecnologia e a expectativa de uma alta do Fed em dezembro fortalecem o dólar frente às moedas emergentes. O IPC resistiu pelo pouco peso da tecnologia, mas a queda do ouro (−4,4%), da prata (−7,8%) e do cobre (−3,0%) pesa sobre as mineradoras."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Com o peso acima de 19, o custo em pesos das importações em dólares sobe frente a uma semana atrás. O mercado seguirá atento ao Fed e à volatilidade de Wall Street (VIX perto de 40)."
+   },
+   {
+    "t": "A próxima semana",
+    "x": "Terça, 24: o INEGI divulga a inflação da primeira quinzena de novembro. Quarta, 25: saem o PCE e o PIB dos EUA, que movem o peso. Quinta, 26: Wall Street não opera pelo Dia de Ação de Graças, mas a BMV sim. Sexta, 27: o INEGI divulga a balança comercial de outubro."
+   }
+  ],
+  "scm": "Para o fim de semana: na segunda vale o FIX de 19,0270, então atualize o câmbio dos seus custos de importação e do orçamento de 2027; escalone as compras em dólares da semana e confirme com as transportadoras as travessias para os EUA antes da quinta, dia 26."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 20 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (19 nov 2026: 19.0270)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 20 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Newsquawk: calendario económico semanal, 23 a 27 de noviembre de 2026",
+   "u": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---23rd-27th-november-2026"
+  }
+ ]
+}

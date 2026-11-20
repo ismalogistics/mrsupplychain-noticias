@@ -1,0 +1,115 @@
+{
+ "id": "2026-11-20-cierre-global",
+ "fecha": "2026-11-20",
+ "momento": "cierre",
+ "mercado": "global",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": true,
+ "es": {
+  "titular": "Semana negra para la IA: el Nasdaq se desploma 5.3%, Nvidia 14% y el S&P 500 y el Dow entran en corrección",
+  "esencial": [
+   "El viernes el Nasdaq cerró con −5.28%, el S&P 500 con −3.70% (6,910.39) y el Dow con −1.93%; el S&P 500 y el Dow ya están más de 10% abajo de sus máximos, según Reuters.",
+   "En la semana el S&P 500 perdió 8.6% y el Nasdaq 10.0%, su peor semana desde abril de 2025; Nvidia cayó 14.0% el viernes y 22.9% en la semana, y el VIX cerró cerca de 40.",
+   "Para el fin de semana: el lunes rige un FIX de 19.0270, el mercado da casi por segura un alza de la Fed en diciembre y el jueves no opera Wall Street; deja confirmados embarques y cortes antes del miércoles."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "Wall Street cerró con fuertes caídas: el S&P 500 terminó en 6,910.39 (−3.70%), el Nasdaq en 22,617.73 (−5.28%) y el Dow en 48,147.33 (−1.93%); el VIX subió 40.5% a 39.97. El S&P 500 y el Dow confirmaron una corrección (más de 10% abajo de sus máximos), el S&P 500 sumó siete sesiones a la baja, su racha más larga desde febrero de 2020, y el Nasdaq ya está en negativo en el año, según Reuters. El índice de semiconductores cayó 10.7%: Nvidia −14.0% (125.53 dólares), Micron −13.9%, AMD −13.3%, Broadcom −12.2% y TSMC −9.3%. Anthropic cerró en 88.91 dólares (−8.5%), aún arriba de su precio de 83, e Intuit cayó 12.8% tras recortar su pronóstico. En la semana el S&P 500 perdió 8.6%, el Nasdaq 10.0% y el Dow 8.0%."
+   },
+   {
+    "t": "Por qué",
+    "x": "Ni el reporte de Nvidia ni la salida a bolsa de Anthropic calmaron las dudas sobre el retorno del gasto en IA y en centros de datos, según Reuters y CBS News; a eso se suman controles más estrictos a la exportación de chips. La gobernadora de la Fed Lisa Cook dijo que la tasa no es suficientemente alta para la inflación y el mercado da casi por segura un alza de 25 puntos base en diciembre, según la herramienta FedWatch de CME. El presidente Trump dijo que le gustaría ver de regreso a Jensen Huang y criticó a la nueva dirección de Nvidia. El dinero se movió a sectores defensivos: General Mills subió 4.4% y Walmart 1.5%."
+   },
+   {
+    "t": "Materias primas",
+    "x": "El oro cerró en 3,525 dólares (−4.4%) y perdió 9.3% en la semana, la peor desde marzo; la plata cayó 7.8% y el cobre 3.0% a 5.47 dólares por libra (−10% en la semana). El WTI subió 1.8% a 83.96 dólares y el Brent de enero 1.0% a 92.90, pero en la semana bajaron 5.2% y 3.1%; el diésel en futuros terminó en 3.87 dólares por galón. El Treasury a 10 años cerró en 4.91% y el bitcoin cayó 6.0% a 58,200 dólares, su séptima semana a la baja."
+   },
+   {
+    "t": "La próxima semana",
+    "x": "Semana corta por el Día de Acción de Gracias. Lunes 23: índices PMI preliminares de noviembre en el mundo, feriado en Japón y resultados de Hewlett Packard Enterprise. Martes 24: Dell y HP reportan e Ifo de Alemania. Miércoles 25: en EE. UU. salen el índice PCE de octubre, el PIB del tercer trimestre, los bienes duraderos y las solicitudes de subsidio por desempleo, además del Libro Beige de la Fed. Jueves 26: Wall Street no opera, el Banco de Corea decide su tasa y salen las minutas del BCE. Viernes 27: Wall Street tiene sesión corta. La OPEP+ se reúne el domingo 29."
+   }
+  ],
+  "scm": "Para el fin de semana: deja confirmados recolecciones, cortes de embarque y citas en aduana antes del miércoles 25, porque el jueves no opera EE. UU. y el viernes es día de compras; negocia recargos de diciembre con el diésel en 3.87; y en cómputo y memoria no adelantes compras ni firmes precios largos sin cláusula de ajuste."
+ },
+ "en": {
+  "titular": "A dark week for AI: the Nasdaq plunges 5.3%, Nvidia 14% and the S&P 500 and Dow enter correction",
+  "esencial": [
+   "On Friday the Nasdaq closed −5.28%, the S&P 500 −3.70% (6,910.39) and the Dow −1.93%; the S&P 500 and the Dow are now more than 10% below their highs, according to Reuters.",
+   "For the week the S&P 500 lost 8.6% and the Nasdaq 10.0%, their worst week since April 2025; Nvidia fell 14.0% on Friday and 22.9% for the week, and the VIX closed near 40.",
+   "For the weekend: a 19.0270 FIX applies on Monday, markets see a December Fed hike as nearly certain and Wall Street is closed on Thursday; confirm shipments and cutoffs before Wednesday."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "Wall Street closed sharply lower: the S&P 500 ended at 6,910.39 (−3.70%), the Nasdaq at 22,617.73 (−5.28%) and the Dow at 48,147.33 (−1.93%); the VIX jumped 40.5% to 39.97. The S&P 500 and the Dow confirmed a correction (more than 10% below their highs), the S&P 500 posted seven straight losses, its longest streak since February 2020, and the Nasdaq is now negative for the year, according to Reuters. The semiconductor index fell 10.7%: Nvidia −14.0% ($125.53), Micron −13.9%, AMD −13.3%, Broadcom −12.2% and TSMC −9.3%. Anthropic closed at $88.91 (−8.5%), still above its $83 price, and Intuit fell 12.8% after cutting its forecast. For the week the S&P 500 lost 8.6%, the Nasdaq 10.0% and the Dow 8.0%."
+   },
+   {
+    "t": "Why",
+    "x": "Neither Nvidia's report nor Anthropic's IPO eased doubts about the return on AI and data center spending, according to Reuters and CBS News; tighter chip export controls add to that. Fed Governor Lisa Cook said the policy rate is not high enough for inflation and markets see a 25 basis point hike in December as nearly certain, according to CME's FedWatch tool. President Trump said he would like to see Jensen Huang back and criticized Nvidia's new leadership. Money moved into defensive sectors: General Mills rose 4.4% and Walmart 1.5%."
+   },
+   {
+    "t": "Commodities",
+    "x": "Gold closed at $3,525 (−4.4%) and lost 9.3% for the week, its worst since March; silver fell 7.8% and copper 3.0% to $5.47 per pound (−10% for the week). WTI rose 1.8% to $83.96 and January Brent 1.0% to $92.90, but they fell 5.2% and 3.1% for the week; diesel futures ended at $3.87 a gallon. The 10-year Treasury yield closed at 4.91% and bitcoin fell 6.0% to $58,200, its seventh weekly loss."
+   },
+   {
+    "t": "Next week",
+    "x": "A short week for Thanksgiving. Monday 23: global November flash PMIs, a holiday in Japan and Hewlett Packard Enterprise results. Tuesday 24: Dell and HP report and Germany’s Ifo. Wednesday 25: the US releases October PCE, third-quarter GDP, durable goods and jobless claims, plus the Fed’s Beige Book. Thursday 26: Wall Street is closed, the Bank of Korea decides on rates and the ECB minutes come out. Friday 27: Wall Street has a shortened session. OPEC+ meets on Sunday the 29th."
+   }
+  ],
+  "scm": "For the weekend: confirm pickups, shipping cutoffs and customs appointments before Wednesday the 25th, because the US is closed on Thursday and Friday is a shopping day; negotiate December surcharges with diesel at $3.87; and in compute and memory, don't pull purchases forward or sign long-term prices without an adjustment clause."
+ },
+ "pt": {
+  "titular": "Semana negra para a IA: o Nasdaq despenca 5,3%, a Nvidia 14% e o S&P 500 e o Dow entram em correção",
+  "esencial": [
+   "Na sexta o Nasdaq fechou com −5,28%, o S&P 500 com −3,70% (6.910,39) e o Dow com −1,93%; o S&P 500 e o Dow já estão mais de 10% abaixo das máximas, segundo a Reuters.",
+   "Na semana o S&P 500 perdeu 8,6% e o Nasdaq 10,0%, a pior semana desde abril de 2025; a Nvidia caiu 14,0% na sexta e 22,9% na semana, e o VIX fechou perto de 40.",
+   "Para o fim de semana: na segunda vale um FIX de 19,0270, o mercado dá como quase certa uma alta do Fed em dezembro e na quinta Wall Street não opera; deixe confirmados embarques e prazos antes de quarta."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "Wall Street fechou com fortes quedas: o S&P 500 terminou em 6.910,39 (−3,70%), o Nasdaq em 22.617,73 (−5,28%) e o Dow em 48.147,33 (−1,93%); o VIX subiu 40,5% para 39,97. O S&P 500 e o Dow confirmaram uma correção (mais de 10% abaixo das máximas), o S&P 500 somou sete sessões em queda, a sequência mais longa desde fevereiro de 2020, e o Nasdaq já está negativo no ano, segundo a Reuters. O índice de semicondutores caiu 10,7%: Nvidia −14,0% (125,53 dólares), Micron −13,9%, AMD −13,3%, Broadcom −12,2% e TSMC −9,3%. A Anthropic fechou a 88,91 dólares (−8,5%), ainda acima do preço de 83, e a Intuit caiu 12,8% depois de cortar a previsão. Na semana o S&P 500 perdeu 8,6%, o Nasdaq 10,0% e o Dow 8,0%."
+   },
+   {
+    "t": "Por quê",
+    "x": "Nem o resultado da Nvidia nem o IPO da Anthropic acalmaram as dúvidas sobre o retorno dos gastos em IA e em data centers, segundo a Reuters e a CBS News; a isso se somam controles mais rígidos à exportação de chips. A diretora do Fed Lisa Cook disse que a taxa não é alta o suficiente para a inflação e o mercado dá como quase certa uma alta de 25 pontos-base em dezembro, segundo a ferramenta FedWatch da CME. O presidente Trump disse que gostaria de ver Jensen Huang de volta e criticou a nova direção da Nvidia. O dinheiro migrou para setores defensivos: a General Mills subiu 4,4% e o Walmart 1,5%."
+   },
+   {
+    "t": "Matérias-primas",
+    "x": "O ouro fechou a 3.525 dólares (−4,4%) e perdeu 9,3% na semana, a pior desde março; a prata caiu 7,8% e o cobre 3,0% para 5,47 dólares por libra (−10% na semana). O WTI subiu 1,8% para 83,96 dólares e o Brent de janeiro 1,0% para 92,90, mas na semana caíram 5,2% e 3,1%; o diesel nos futuros terminou a 3,87 dólares por galão. O rendimento do Treasury de 10 anos fechou em 4,91% e o bitcoin caiu 6,0% para 58.200 dólares, a sétima semana de queda."
+   },
+   {
+    "t": "A próxima semana",
+    "x": "Semana curta pelo Dia de Ação de Graças. Segunda, 23: PMIs preliminares de novembro no mundo, feriado no Japão e resultado da Hewlett Packard Enterprise. Terça, 24: Dell e HP divulgam resultados e sai o Ifo da Alemanha. Quarta, 25: nos EUA saem o índice PCE de outubro, o PIB do terceiro trimestre, os bens duráveis e os pedidos de seguro-desemprego, além do Livro Bege do Fed. Quinta, 26: Wall Street não opera, o Banco da Coreia decide os juros e saem as atas do BCE. Sexta, 27: Wall Street tem sessão reduzida. A OPEP+ se reúne no domingo, dia 29."
+   }
+  ],
+  "scm": "Para o fim de semana: deixe confirmados coletas, prazos de embarque e agendamentos na alfândega antes da quarta, dia 25, porque na quinta os EUA não operam e a sexta é dia de compras; negocie as sobretaxas de dezembro com o diesel a 3,87; e em computação e memória não antecipe compras nem feche preços longos sem cláusula de ajuste."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters: Wall Street cierra con fuertes caídas por la venta en IA; el S&P 500 y el Dow entran en corrección (20 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+  },
+  {
+   "t": "CBS News: las bolsas entran en corrección por la caída de la tecnología (20 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-enter-correction-territory-driven-210818388.html"
+  },
+  {
+   "t": "Yahoo Finance: Trump critica a la nueva dirección de Nvidia (20 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/article/trump-critiques-jensen-huangs-replacement-as-he-wades-deeper-into-nvidia-turmoil-210729338.html"
+  },
+  {
+   "t": "IBTimes: el oro cae casi 9% en su peor semana desde marzo (20 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/gold-plunges-nearly-9-worst-172101705.html"
+  },
+  {
+   "t": "Newsquawk: calendario económico semanal, 23 a 27 de noviembre de 2026",
+   "u": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---23rd-27th-november-2026"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 20 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
