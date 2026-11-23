@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-23-mediodia-mexico",
+ "fecha": "2026-11-23",
+ "momento": "mediodia",
+ "mercado": "mexico",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "El IPC sube 1.1% y el peso se mantiene en 19.14; hoy rige el FIX de 19.0270",
+  "esencial": [
+   "A las 11:18 CDMX el S&P/BMV IPC subía 1.13% a 69,406.72 puntos; a las 11:38 el peso cotizaba en 19.14 por dólar (−0.03% el dólar).",
+   "El peso aguanta aunque el índice del dólar sube 0.65%; hoy rige el FIX de 19.0270 y mañana el de 19.0228.",
+   "Para supply chain: con el peso estable y el diésel a la baja, es buen momento para cerrar fletes de diciembre en pesos."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el IPC subía 1% con el rebote global y el peso estaba en 19.18; el FIX del viernes, de 19.0228, rige desde mañana."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:18 CDMX el S&P/BMV IPC estaba en 69,406.72 puntos (+1.13%). A las 11:38 CDMX el peso cotizaba en 19.14 por dólar (−0.03% el dólar), un poco más firme que en la apertura. Hoy rige el FIX de 19.0270; mañana el de 19.0228."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El peso se mantiene pese a que el índice del dólar sube 0.65% (104.48) y el euro cae a 1.089; el rebote de las bolsas y de los metales (oro +4.2%, plata +5.6%) lo compensa. Mañana el INEGI publica la inflación de la primera quincena de noviembre."
+   }
+  ],
+  "scm": "Con el peso estable en 19.14 y el diésel en 3.69 dólares por galón, cierra los fletes de diciembre; espera la inflación de mañana antes de ajustar listas de precios."
+ },
+ "en": {
+  "titular": "The IPC rises 1.1% and the peso holds at 19.14; the 19.0270 FIX applies today",
+  "esencial": [
+   "At 11:18 a.m. Mexico City time the S&P/BMV IPC was up 1.13% at 69,406.72 points; at 11:38 a.m. the peso traded at 19.14 per dollar (dollar −0.03%).",
+   "The peso holds even as the dollar index rises 0.65%; today the 19.0270 FIX applies and tomorrow the 19.0228 one.",
+   "For supply chain: with a stable peso and lower diesel, it is a good time to lock in December freight in pesos."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the IPC rose 1% with the global rebound and the peso stood at 19.18; Friday's FIX of 19.0228 applies from tomorrow."
+   },
+   {
+    "t": "How it's going",
+    "x": "At 11:18 a.m. Mexico City time the S&P/BMV IPC stood at 69,406.72 points (+1.13%). At 11:38 a.m. the peso traded at 19.14 per dollar (dollar −0.03%), slightly firmer than at the open. Today the 19.0270 FIX applies; tomorrow the 19.0228 one."
+   },
+   {
+    "t": "What surprised",
+    "x": "The peso holds even though the dollar index rises 0.65% (104.48) and the euro falls to 1.089; the rebound in stocks and metals (gold +4.2%, silver +5.6%) offsets it. Tomorrow INEGI publishes first-half November inflation."
+   }
+  ],
+  "scm": "With the peso steady at 19.14 and diesel at $3.69 a gallon, lock in December freight; wait for tomorrow's inflation before adjusting price lists."
+ },
+ "pt": {
+  "titular": "O IPC sobe 1,1% e o peso se mantém em 19,14; hoje vale o FIX de 19,0270",
+  "esencial": [
+   "Às 11h18 (Cidade do México) o S&P/BMV IPC subia 1,13% para 69.406,72 pontos; às 11h38 o peso era cotado a 19,14 por dólar (dólar −0,03%).",
+   "O peso resiste embora o índice do dólar suba 0,65%; hoje vale o FIX de 19,0270 e amanhã o de 19,0228.",
+   "Para supply chain: com o peso estável e o diesel em queda, é um bom momento para fechar fretes de dezembro em pesos."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o IPC subia 1% com o repique global e o peso estava em 19,18; o FIX de sexta, de 19,0228, vale a partir de amanhã."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h18 (Cidade do México) o S&P/BMV IPC estava em 69.406,72 pontos (+1,13%). Às 11h38 o peso era cotado a 19,14 por dólar (dólar −0,03%), um pouco mais firme que na abertura. Hoje vale o FIX de 19,0270; amanhã o de 19,0228."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O peso se mantém embora o índice do dólar suba 0,65% (104,48) e o euro caia para 1,089; o repique das bolsas e dos metais (ouro +4,2%, prata +5,6%) compensa. Amanhã o INEGI divulga a inflação da primeira quinzena de novembro."
+   }
+  ],
+  "scm": "Com o peso estável em 19,14 e o diesel a 3,69 dólares por galão, feche os fretes de dezembro; espere a inflação de amanhã antes de ajustar listas de preços."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 23 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (20 nov 2026: 19.0228)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (23 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

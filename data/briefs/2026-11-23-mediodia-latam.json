@@ -1,0 +1,86 @@
+{
+ "id": "2026-11-23-mediodia-latam",
+ "fecha": "2026-11-23",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "Perú sube 4.3% y Canadá 3.1% con los metales; el Ibovespa cae 1.1% y el peso colombiano se debilita",
+  "esencial": [
+   "A las 11:38 CDMX el S&P/TSX de Canadá subía 3.10% a 34,217.42 y el Ibovespa bajaba 1.12% a 164,516.94.",
+   "Los ETF de MSCI subían 4.30% en Perú, 3.93% en Argentina y 2.40% en Chile; el dólar subía a 3,524 pesos colombianos (+1.17%) con el crudo a la baja.",
+   "Para supply chain: escalona los pagos en pesos colombianos y reales, que se debilitan, y aprovecha el peso chileno más firme."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura Canadá subía 2.8% y Argentina 4.3% con el rebote global, mientras el Ibovespa bajaba 0.6% al reabrir tras el feriado."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:38 CDMX el S&P/TSX de Canadá estaba en 34,217.42 (+3.10%) y el Ibovespa en 164,516.94 (−1.12%). Los ETF de MSCI subían 4.30% en Perú, 3.93% en Argentina, 2.40% en Chile y 1.62% en Brasil. En monedas, el dólar estaba en 5.99 reales (+0.64%), 1,016 pesos chilenos (−0.59%), 3,524 pesos colombianos (+1.17%), 3.45 soles (sin cambio), 1,580 pesos argentinos (+0.94%) y 1.438 dólares canadienses (+0.25%)."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "Brasil no se suma al rebote: el Ibovespa amplía su caída a 1.1% y el real se debilita, mientras la caída de 3% del crudo pesa sobre Colombia. Perú lidera la región con el rebote del oro (+4.2%), la plata (+5.6%) y el cobre (+3.0%)."
+   }
+  ],
+  "scm": "Escalona los pagos en pesos colombianos y reales, que se debilitan hoy, y adelanta pagos en pesos chilenos mientras sigan firmes."
+ },
+ "en": {
+  "titular": "Peru rises 4.3% and Canada 3.1% with metals; the Ibovespa falls 1.1% and the Colombian peso weakens",
+  "esencial": [
+   "At 11:38 a.m. Mexico City time Canada's S&P/TSX was up 3.10% at 34,217.42 and the Ibovespa was down 1.12% at 164,516.94.",
+   "The MSCI ETFs rose 4.30% for Peru, 3.93% for Argentina and 2.40% for Chile; the dollar rose to 3,524 Colombian pesos (+1.17%) as crude fell.",
+   "For supply chain: stagger payments in Colombian pesos and reais, which are weakening, and use the firmer Chilean peso."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open Canada rose 2.8% and Argentina 4.3% with the global rebound, while the Ibovespa fell 0.6% as it reopened after the holiday."
+   },
+   {
+    "t": "How it's going",
+    "x": "At 11:38 a.m. Mexico City time Canada's S&P/TSX stood at 34,217.42 (+3.10%) and the Ibovespa at 164,516.94 (−1.12%). The MSCI ETFs rose 4.30% for Peru, 3.93% for Argentina, 2.40% for Chile and 1.62% for Brazil. In currencies, the dollar stood at 5.99 reais (+0.64%), 1,016 Chilean pesos (−0.59%), 3,524 Colombian pesos (+1.17%), 3.45 soles (unchanged), 1,580 Argentine pesos (+0.94%) and 1.438 Canadian dollars (+0.25%)."
+   },
+   {
+    "t": "What surprised",
+    "x": "Brazil is not joining the rebound: the Ibovespa extends its drop to 1.1% and the real weakens, while the 3% drop in crude weighs on Colombia. Peru leads the region with the rebound in gold (+4.2%), silver (+5.6%) and copper (+3.0%)."
+   }
+  ],
+  "scm": "Stagger payments in Colombian pesos and reais, which are weakening today, and bring forward payments in Chilean pesos while they stay firm."
+ },
+ "pt": {
+  "titular": "O Peru sobe 4,3% e o Canadá 3,1% com os metais; o Ibovespa cai 1,1% e o peso colombiano se enfraquece",
+  "esencial": [
+   "Às 11h38 (Cidade do México) o S&P/TSX do Canadá subia 3,10% para 34.217,42 e o Ibovespa caía 1,12% para 164.516,94.",
+   "Os ETFs da MSCI subiam 4,30% no Peru, 3,93% na Argentina e 2,40% no Chile; o dólar subia para 3.524 pesos colombianos (+1,17%) com o petróleo em queda.",
+   "Para supply chain: escalone os pagamentos em pesos colombianos e reais, que se enfraquecem, e aproveite o peso chileno mais firme."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o Canadá subia 2,8% e a Argentina 4,3% com o repique global, enquanto o Ibovespa caía 0,6% na reabertura depois do feriado."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h38 (Cidade do México) o S&P/TSX do Canadá estava em 34.217,42 (+3,10%) e o Ibovespa em 164.516,94 (−1,12%). Os ETFs da MSCI subiam 4,30% no Peru, 3,93% na Argentina, 2,40% no Chile e 1,62% no Brasil. Nas moedas, o dólar estava em R$ 5,99 (+0,64%), 1.016 pesos chilenos (−0,59%), 3.524 pesos colombianos (+1,17%), 3,45 soles (estável), 1.580 pesos argentinos (+0,94%) e 1,438 dólar canadense (+0,25%)."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O Brasil não acompanha o repique: o Ibovespa amplia a queda para 1,1% e o real se enfraquece, enquanto a queda de 3% do petróleo pesa sobre a Colômbia. O Peru lidera a região com o repique do ouro (+4,2%), da prata (+5,6%) e do cobre (+3,0%)."
+   }
+  ],
+  "scm": "Escalone os pagamentos em pesos colombianos e reais, que se enfraquecem hoje, e antecipe pagamentos em pesos chilenos enquanto seguirem firmes."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (23 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

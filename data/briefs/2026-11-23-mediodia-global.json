@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-23-mediodia-global",
+ "fecha": "2026-11-23",
+ "momento": "mediodia",
+ "mercado": "global",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "El rebote se sostiene: el S&P 500 sube 4.9% y el Nasdaq 6.8%; el crudo cae 3% y el diésel a 3.69",
+  "esencial": [
+   "A las 11:38 CDMX el S&P 500 subía 4.89% (7,248.51), el Nasdaq 6.76% y el Dow 3.16%; Nvidia ganaba 32.3% y Micron 19.2%.",
+   "El WTI caía 3.1% a 80.80 dólares y el diésel en futuros 4.1% a 3.69 por galón; Nomura advierte que buena parte del rebote es compra mecánica y cierre de posiciones cortas.",
+   "Para supply chain: el día ayuda a negociar combustible, no a relajar el resto; el dólar sube 0.65% y el mercado sigue esperando un alza de la Fed en diciembre."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "La apertura mostraba un rebote fuerte tras el regreso de Jensen Huang a Nvidia: el Nasdaq subía 6.7% y el S&P 500 4.7%, con el crudo a la baja y los metales al alza."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:38 CDMX el S&P 500 estaba en 7,248.51 (+4.89%), el Nasdaq en 24,146.29 (+6.76%) y el Dow en 49,666.75 (+3.16%); el VIX bajaba a 27.6. Nvidia subía 32.3% (166.04 dólares), Micron 19.2%, TSMC 15.8%, AMD 8.2% y el índice de semiconductores 13.8%; CoreWeave ganaba 22%. Anthropic se quedaba fuera del rebote (+0.6% a 89.41) y CrowdStrike caía 10% tras anunciar la compra de Zscaler. Europa cerró al alza: Euro Stoxx 50 +2.23% y DAX +2.15%. El WTI caía 3.1% a 80.80 dólares, el Brent de enero 3.0% a 89.80 y el diésel en futuros 4.1% a 3.69; el oro subía 4.2%, la plata 5.6% y el cobre 3.0% a 5.65."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El tamaño del rebote: el QQQ (fondo que sigue al Nasdaq 100) abrió casi 8% arriba, su mayor salto en una apertura desde que existe (1999), y el SPY tuvo su mejor arranque de lunes desde octubre de 2008, según Yahoo Finance. Bernstein volvió a recomendar Nvidia, pero Nomura advirtió que el alza se debe en buena parte a compras mecánicas y a cierres de posiciones cortas, y que no resuelve la inflación, el costo del dinero ni las dudas sobre el gasto en IA. El presidente Trump dijo que habló con el consejo de Nvidia y lo \"convenció\" de restituir a Huang."
+   }
+  ],
+  "scm": "Aprovecha el diésel en 3.69 dólares por galón para cerrar los recargos de diciembre. El rebote de las bolsas no cambia el costo del dinero ni el dólar fuerte: mantén el inventario en niveles prudentes y escalona las compras de metales."
+ },
+ "en": {
+  "titular": "The rebound holds: the S&P 500 rises 4.9% and the Nasdaq 6.8%; crude falls 3% and diesel to $3.69",
+  "esencial": [
+   "At 12:38 p.m. ET the S&P 500 was up 4.89% (7,248.51), the Nasdaq 6.76% and the Dow 3.16%; Nvidia gained 32.3% and Micron 19.2%.",
+   "WTI fell 3.1% to $80.80 and diesel futures 4.1% to $3.69 a gallon; Nomura warns that much of the rebound is mechanical buying and short covering.",
+   "For supply chain: the day helps negotiate fuel, not relax everything else; the dollar rises 0.65% and markets still expect a December Fed hike."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "The open showed a strong rebound after Jensen Huang's return to Nvidia: the Nasdaq was up 6.7% and the S&P 500 4.7%, with crude lower and metals higher."
+   },
+   {
+    "t": "How it's going",
+    "x": "At 12:38 p.m. ET the S&P 500 stood at 7,248.51 (+4.89%), the Nasdaq at 24,146.29 (+6.76%) and the Dow at 49,666.75 (+3.16%); the VIX eased to 27.6. Nvidia rose 32.3% ($166.04), Micron 19.2%, TSMC 15.8%, AMD 8.2% and the semiconductor index 13.8%; CoreWeave gained 22%. Anthropic sat out the rally (+0.6% to $89.41) and CrowdStrike fell 10% after announcing the Zscaler deal. Europe closed higher: Euro Stoxx 50 +2.23% and DAX +2.15%. WTI fell 3.1% to $80.80, January Brent 3.0% to $89.80 and diesel futures 4.1% to $3.69; gold rose 4.2%, silver 5.6% and copper 3.0% to $5.65."
+   },
+   {
+    "t": "What surprised",
+    "x": "The size of the rebound: the QQQ (the fund tracking the Nasdaq 100) opened almost 8% higher, its biggest opening jump since its 1999 launch, and SPY had its best Monday start since October 2008, according to Yahoo Finance. Bernstein upgraded Nvidia again, but Nomura warned that the rally is largely mechanical buying and short covering, and does not resolve inflation, borrowing costs or doubts about AI spending. President Trump said he spoke with Nvidia's board and \"convinced\" it to reinstate Huang."
+   }
+  ],
+  "scm": "Use diesel at $3.69 a gallon to lock in December surcharges. The stock rebound does not change borrowing costs or the strong dollar: keep inventory at prudent levels and stagger metal purchases."
+ },
+ "pt": {
+  "titular": "O repique se mantém: o S&P 500 sobe 4,9% e o Nasdaq 6,8%; o petróleo cai 3% e o diesel vai a 3,69",
+  "esencial": [
+   "Às 11h38 (Cidade do México) o S&P 500 subia 4,89% (7.248,51), o Nasdaq 6,76% e o Dow 3,16%; a Nvidia ganhava 32,3% e a Micron 19,2%.",
+   "O WTI caía 3,1% para 80,80 dólares e o diesel nos futuros 4,1% para 3,69 por galão; a Nomura alerta que boa parte do repique é compra mecânica e zeragem de posições vendidas.",
+   "Para supply chain: o dia ajuda a negociar combustível, não a relaxar o resto; o dólar sobe 0,65% e o mercado segue esperando uma alta do Fed em dezembro."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "A abertura mostrava um repique forte depois do retorno de Jensen Huang à Nvidia: o Nasdaq subia 6,7% e o S&P 500 4,7%, com o petróleo em queda e os metais em alta."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h38 (Cidade do México) o S&P 500 estava em 7.248,51 (+4,89%), o Nasdaq em 24.146,29 (+6,76%) e o Dow em 49.666,75 (+3,16%); o VIX caía para 27,6. A Nvidia subia 32,3% (166,04 dólares), a Micron 19,2%, a TSMC 15,8%, a AMD 8,2% e o índice de semicondutores 13,8%; a CoreWeave ganhava 22%. A Anthropic ficava fora do repique (+0,6% para 89,41) e a CrowdStrike caía 10% depois de anunciar a compra da Zscaler. A Europa fechou em alta: Euro Stoxx 50 +2,23% e DAX +2,15%. O WTI caía 3,1% para 80,80 dólares, o Brent de janeiro 3,0% para 89,80 e o diesel nos futuros 4,1% para 3,69; o ouro subia 4,2%, a prata 5,6% e o cobre 3,0% para 5,65."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O tamanho do repique: o QQQ (fundo que acompanha o Nasdaq 100) abriu quase 8% acima, o maior salto em uma abertura desde que existe (1999), e o SPY teve o melhor início de segunda-feira desde outubro de 2008, segundo o Yahoo Finance. O Bernstein voltou a recomendar a Nvidia, mas a Nomura alertou que a alta se deve em boa parte a compras mecânicas e zeragem de posições vendidas, e que não resolve a inflação, o custo do dinheiro nem as dúvidas sobre os gastos em IA. O presidente Trump disse que falou com o conselho da Nvidia e o \"convenceu\" a reconduzir Huang."
+   }
+  ],
+  "scm": "Aproveite o diesel a 3,69 dólares por galão para fechar as sobretaxas de dezembro. O repique das bolsas não muda o custo do dinheiro nem o dólar forte: mantenha o estoque em níveis prudentes e escalone as compras de metais."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: el Dow, el S&P 500 y el Nasdaq se disparan con el regreso de Jensen Huang a Nvidia (23 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+  },
+  {
+   "t": "Yahoo Finance: los analistas celebran el regreso de Jensen Huang, pero mantienen dudas (23 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/article/wall-street-analyst-races-to-upgrade-nvidia-as-jensen-huang-returns-cites-clown-like-board-response-164614996.html"
+  },
+  {
+   "t": "Reuters: Wall Street se dispara tras el regreso de Jensen Huang como director general de Nvidia (23 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-rebound-rough-075444520.html"
+  },
+  {
+   "t": "Reuters: el petróleo cae más de 3% por mayores flujos de Medio Oriente y la reapertura de un oleoducto en Libia (23 nov 2026)",
+   "u": "https://finance.yahoo.com/news/oil-prices-fall-amid-equity-022442236.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (23 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
