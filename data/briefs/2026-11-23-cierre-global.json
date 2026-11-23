@@ -1,0 +1,103 @@
+{
+ "id": "2026-11-23-cierre-global",
+ "fecha": "2026-11-23",
+ "momento": "cierre",
+ "mercado": "global",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El regreso de Jensen Huang dispara a Wall Street: el Nasdaq cierra con +6.5% y el crudo cae a su nivel más bajo desde agosto",
+  "esencial": [
+   "El S&P 500 cerró en 7,237.17 (+4.73%), el Nasdaq en 24,089.56 (+6.51%) y el Dow en 49,595.31 (+3.01%); Nvidia ganó 31.5% y el índice de semiconductores 14.0%.",
+   "El WTI de enero cerró en 80.17 dólares (−3.9%), su nivel más bajo desde el 7 de agosto, y el Brent en 89.37 (−3.5%), según The Wall Street Journal; el diésel en futuros terminó en 3.65.",
+   "Para supply chain: Dell, HPE, Lenovo y Supermicro piden hasta 45% más por servidores de IA ya contratados, según el Financial Times; revisa las cláusulas de precio de tus pedidos de hardware."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "Se cumplió y se amplió lo esperado en la apertura: el S&P 500 cerró en 7,237.17 (+4.73%), el Nasdaq en 24,089.56 (+6.51%) y el Dow en 49,595.31 (+3.01%), y el VIX bajó a 26.8. Nvidia ganó 31.5% (165.05 dólares), Micron 19.0%, TSMC 14.1%, AMD 6.9% y el índice de semiconductores 14.0%. Los fabricantes de servidores también subieron: Dell +20.5%, HPE +17.4% y Supermicro +13.3%; CoreWeave ganó 22.3%. Anthropic cerró con −1.4% (87.64 dólares) y CrowdStrike con −8.9% tras anunciar la compra de Zscaler (+17.7%). Europa cerró al alza: Euro Stoxx 50 +2.23% y DAX +2.15%."
+   },
+   {
+    "t": "Por qué",
+    "x": "El consejo de Nvidia restituyó a Jensen Huang como director general; el presidente Trump dijo que habló con el consejo y lo \"convenció\". La decisión recibió críticas de senadores de ambos partidos, y el comité bancario del Senado citó a Huang a testificar el 3 de diciembre sobre controles de exportación, según The Guardian. Nomura advirtió que buena parte del rebote fue compra mecánica y cierre de posiciones cortas. El crudo cayó por la expectativa de un excedente de oferta en 2027; los tránsitos por Ormuz siguen 42% abajo de antes de la guerra, según The Wall Street Journal."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Después del cierre reportan Hewlett Packard Enterprise y Zoom; Zoom reportó ingresos del trimestre por 1,290.6 millones de dólares (+4.9%) e inició un dividendo. Mañana martes el INEGI publica la inflación de la primera quincena de noviembre en México, sale el índice Ifo de Alemania y Dell y HP reportan después del cierre. El miércoles salen el PCE y el PIB de EE. UU."
+   }
+  ],
+  "scm": "Revisa las cláusulas de precio de tus pedidos de servidores, almacenamiento y memoria: los fabricantes están pidiendo hasta 45% más en contratos ya firmados. Y cierra los recargos de combustible de diciembre con el diésel en 3.65 dólares por galón."
+ },
+ "en": {
+  "titular": "Jensen Huang's return sends Wall Street soaring: the Nasdaq closes +6.5% and crude falls to its lowest since August",
+  "esencial": [
+   "The S&P 500 closed at 7,237.17 (+4.73%), the Nasdaq at 24,089.56 (+6.51%) and the Dow at 49,595.31 (+3.01%); Nvidia gained 31.5% and the semiconductor index 14.0%.",
+   "January WTI settled at $80.17 (−3.9%), its lowest since August 7, and Brent at $89.37 (−3.5%), according to The Wall Street Journal; diesel futures ended at $3.65.",
+   "For supply chain: Dell, HPE, Lenovo and Supermicro are asking up to 45% more for AI servers already under contract, according to the Financial Times; review the pricing clauses on your hardware orders."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The open's expectations were met and exceeded: the S&P 500 closed at 7,237.17 (+4.73%), the Nasdaq at 24,089.56 (+6.51%) and the Dow at 49,595.31 (+3.01%), and the VIX fell to 26.8. Nvidia gained 31.5% ($165.05), Micron 19.0%, TSMC 14.1%, AMD 6.9% and the semiconductor index 14.0%. Server makers also rose: Dell +20.5%, HPE +17.4% and Supermicro +13.3%; CoreWeave gained 22.3%. Anthropic closed −1.4% ($87.64) and CrowdStrike −8.9% after announcing the Zscaler deal (+17.7%). Europe closed higher: Euro Stoxx 50 +2.23% and DAX +2.15%."
+   },
+   {
+    "t": "Why",
+    "x": "Nvidia's board reinstated Jensen Huang as CEO; President Trump said he spoke with the board and \"convinced\" it. The decision drew criticism from senators of both parties, and the Senate Banking Committee called Huang to testify on December 3 on export controls, according to The Guardian. Nomura warned that much of the rebound was mechanical buying and short covering. Crude fell on expectations of a 2027 supply surplus; Hormuz transits remain 42% below pre-war levels, according to The Wall Street Journal."
+   },
+   {
+    "t": "What to expect",
+    "x": "After the close Hewlett Packard Enterprise and Zoom report; Zoom posted quarterly revenue of $1,290.6 million (+4.9%) and initiated a dividend. On Tuesday INEGI publishes first-half November inflation in Mexico, Germany releases its Ifo index, and Dell and HP report after the close. US PCE and GDP come out on Wednesday."
+   }
+  ],
+  "scm": "Review the pricing clauses on your server, storage and memory orders: manufacturers are asking up to 45% more on contracts already signed. And lock in December fuel surcharges with diesel at $3.65 a gallon."
+ },
+ "pt": {
+  "titular": "O retorno de Jensen Huang faz Wall Street disparar: o Nasdaq fecha com +6,5% e o petróleo cai ao menor nível desde agosto",
+  "esencial": [
+   "O S&P 500 fechou em 7.237,17 (+4,73%), o Nasdaq em 24.089,56 (+6,51%) e o Dow em 49.595,31 (+3,01%); a Nvidia ganhou 31,5% e o índice de semicondutores 14,0%.",
+   "O WTI de janeiro fechou a 80,17 dólares (−3,9%), o menor nível desde 7 de agosto, e o Brent a 89,37 (−3,5%), segundo o The Wall Street Journal; o diesel nos futuros terminou a 3,65.",
+   "Para supply chain: Dell, HPE, Lenovo e Supermicro pedem até 45% mais por servidores de IA já contratados, segundo o Financial Times; revise as cláusulas de preço dos seus pedidos de hardware."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O esperado na abertura se cumpriu e se ampliou: o S&P 500 fechou em 7.237,17 (+4,73%), o Nasdaq em 24.089,56 (+6,51%) e o Dow em 49.595,31 (+3,01%), e o VIX caiu para 26,8. A Nvidia ganhou 31,5% (165,05 dólares), a Micron 19,0%, a TSMC 14,1%, a AMD 6,9% e o índice de semicondutores 14,0%. Os fabricantes de servidores também subiram: Dell +20,5%, HPE +17,4% e Supermicro +13,3%; a CoreWeave ganhou 22,3%. A Anthropic fechou com −1,4% (87,64 dólares) e a CrowdStrike com −8,9% depois de anunciar a compra da Zscaler (+17,7%). A Europa fechou em alta: Euro Stoxx 50 +2,23% e DAX +2,15%."
+   },
+   {
+    "t": "Por quê",
+    "x": "O conselho da Nvidia reconduziu Jensen Huang ao cargo de CEO; o presidente Trump disse que falou com o conselho e o \"convenceu\". A decisão recebeu críticas de senadores dos dois partidos, e o comitê bancário do Senado convocou Huang a depor em 3 de dezembro sobre controles de exportação, segundo o The Guardian. A Nomura alertou que boa parte do repique foi compra mecânica e zeragem de posições vendidas. O petróleo caiu pela expectativa de um excedente de oferta em 2027; os trânsitos por Ormuz seguem 42% abaixo do pré-guerra, segundo o The Wall Street Journal."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Depois do fechamento divulgam resultados a Hewlett Packard Enterprise e a Zoom; a Zoom reportou receita trimestral de 1,29 bilhão de dólares (+4,9%) e iniciou o pagamento de dividendos. Amanhã, terça, o INEGI divulga a inflação da primeira quinzena de novembro no México, sai o índice Ifo da Alemanha e Dell e HP divulgam resultados depois do fechamento. Na quarta saem o PCE e o PIB dos EUA."
+   }
+  ],
+  "scm": "Revise as cláusulas de preço dos seus pedidos de servidores, armazenamento e memória: os fabricantes estão pedindo até 45% mais em contratos já assinados. E feche as sobretaxas de combustível de dezembro com o diesel a 3,65 dólares por galão."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: Nvidia sube 31% tras restituir a Jensen Huang; las acciones de chips se disparan (23 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/article/nvidia-soars-25-as-board-reinstates-jensen-huang-as-ceo-chip-stocks-jump-142353537.html"
+  },
+  {
+   "t": "The Guardian: senadores republicanos critican la decisión de Nvidia de restituir a Jensen Huang (23 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/articles/trump-says-convinced-nvidia-board-161922078.html"
+  },
+  {
+   "t": "The Wall Street Journal: el petróleo baja por el excedente de oferta pese a los ataques en el Golfo (23 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-traders-weigh-125800024.html"
+  },
+  {
+   "t": "TIKR: Dell pide hasta 45% más en contratos de IA ya firmados (23 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/ai/articles/dell-wants-45-more-signed-193847809.html"
+  },
+  {
+   "t": "Zoom Communications: resultados del tercer trimestre del año fiscal 2027 (23 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/zoom-communications-reports-financial-results-210500379.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 23 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

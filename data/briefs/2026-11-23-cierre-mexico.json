@@ -1,0 +1,91 @@
+{
+ "id": "2026-11-23-cierre-mexico",
+ "fecha": "2026-11-23",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El IPC cierra con +1% y el peso termina en 19.17; mañana rige un FIX de 19.0228",
+  "esencial": [
+   "El S&P/BMV IPC cerró en 69,330.94 puntos (+1.02%), con el rebote global y de las mineras.",
+   "El peso terminó en 19.17 por dólar (+0.16% el dólar), con el índice del dólar arriba 0.49%; hoy rigió el FIX de 19.0270 y mañana rige el de 19.0228.",
+   "Para supply chain: mañana sale la inflación de la primera quincena de noviembre; espera el dato antes de ajustar listas de precios y contratos indexados."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El S&P/BMV IPC cerró en 69,330.94 puntos (+1.02%), en línea con el rebote que se esperaba desde la apertura. El peso terminó en 19.17 por dólar (+0.16% el dólar), después de moverse entre 19.14 y 19.18 en el día. Hoy rigió el FIX de 19.0270; mañana martes rige el de 19.0228, determinado el viernes. El FIX determinado hoy aún no aparecía en la tabla de Banxico al cierre de este brief."
+   },
+   {
+    "t": "Por qué",
+    "x": "El rebote de Wall Street y de los metales (oro +3.4%, plata +4.6%, cobre +2.5%) apoyó al IPC, mientras el índice del dólar subió 0.49% y el euro cayó a 1.0905, lo que frenó al peso. La caída de 3.9% del crudo reduce el costo de los combustibles importados."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana martes 24 el INEGI publica la inflación de la primera quincena de noviembre. El viernes 27 sale la balanza comercial de octubre. El jueves 26 la BMV opera aunque Wall Street cierra por el Día de Acción de Gracias."
+   }
+  ],
+  "scm": "Espera la inflación de mañana antes de ajustar listas de precios y contratos indexados; con el peso en 19.17 y el FIX de 19.0228 para mañana, escalona los pagos en dólares de la semana."
+ },
+ "en": {
+  "titular": "The IPC closes +1% and the peso ends at 19.17; a 19.0228 FIX applies tomorrow",
+  "esencial": [
+   "The S&P/BMV IPC closed at 69,330.94 points (+1.02%), with the global rebound and miners.",
+   "The peso ended at 19.17 per dollar (dollar +0.16%), with the dollar index up 0.49%; today the 19.0270 FIX applied and tomorrow the 19.0228 one applies.",
+   "For supply chain: first-half November inflation comes out tomorrow; wait for it before adjusting price lists and indexed contracts."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The S&P/BMV IPC closed at 69,330.94 points (+1.02%), in line with the rebound expected at the open. The peso ended at 19.17 per dollar (dollar +0.16%), after trading between 19.14 and 19.18 during the day. Today the 19.0270 FIX applied; on Tuesday the 19.0228 one applies, set on Friday. The FIX set today was not yet in Banxico’s table when this brief closed."
+   },
+   {
+    "t": "Why",
+    "x": "The rebound on Wall Street and in metals (gold +3.4%, silver +4.6%, copper +2.5%) supported the IPC, while the dollar index rose 0.49% and the euro fell to 1.0905, which held back the peso. The 3.9% drop in crude lowers the cost of imported fuels."
+   },
+   {
+    "t": "What to expect",
+    "x": "On Tuesday the 24th INEGI publishes first-half November inflation. The October trade balance comes out on Friday the 27th. On Thursday the 26th the BMV is open although Wall Street is closed for Thanksgiving."
+   }
+  ],
+  "scm": "Wait for tomorrow's inflation before adjusting price lists and indexed contracts; with the peso at 19.17 and the 19.0228 FIX for tomorrow, stagger this week's dollar payments."
+ },
+ "pt": {
+  "titular": "O IPC fecha com +1% e o peso termina em 19,17; amanhã vale um FIX de 19,0228",
+  "esencial": [
+   "O S&P/BMV IPC fechou em 69.330,94 pontos (+1,02%), com o repique global e das mineradoras.",
+   "O peso terminou em 19,17 por dólar (dólar +0,16%), com o índice do dólar em alta de 0,49%; hoje valeu o FIX de 19,0270 e amanhã vale o de 19,0228.",
+   "Para supply chain: amanhã sai a inflação da primeira quinzena de novembro; espere o dado antes de ajustar listas de preços e contratos indexados."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O S&P/BMV IPC fechou em 69.330,94 pontos (+1,02%), em linha com o repique esperado desde a abertura. O peso terminou em 19,17 por dólar (dólar +0,16%), depois de oscilar entre 19,14 e 19,18 no dia. Hoje valeu o FIX de 19,0270; amanhã, terça, vale o de 19,0228, definido na sexta. O FIX definido hoje ainda não aparecia na tabela do Banxico no fechamento deste brief."
+   },
+   {
+    "t": "Por quê",
+    "x": "O repique de Wall Street e dos metais (ouro +3,4%, prata +4,6%, cobre +2,5%) apoiou o IPC, enquanto o índice do dólar subiu 0,49% e o euro caiu para 1,0905, o que freou o peso. A queda de 3,9% do petróleo reduz o custo dos combustíveis importados."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã, terça, dia 24, o INEGI divulga a inflação da primeira quinzena de novembro. Na sexta, dia 27, sai a balança comercial de outubro. Na quinta, dia 26, a BMV opera embora Wall Street feche pelo Dia de Ação de Graças."
+   }
+  ],
+  "scm": "Espere a inflação de amanhã antes de ajustar listas de preços e contratos indexados; com o peso em 19,17 e o FIX de 19,0228 para amanhã, escalone os pagamentos em dólares da semana."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 23 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (20 nov 2026: 19.0228)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 23 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

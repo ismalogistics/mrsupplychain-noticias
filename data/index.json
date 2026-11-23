@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-23-cierre-global",
+   "fecha": "2026-11-23",
+   "momento": "cierre",
+   "mercado": "global",
+   "titular_es": "El regreso de Jensen Huang dispara a Wall Street: el Nasdaq cierra con +6.5% y el crudo cae a su nivel más bajo desde agosto",
+   "titular_en": "Jensen Huang's return sends Wall Street soaring: the Nasdaq closes +6.5% and crude falls to its lowest since August",
+   "titular_pt": "O retorno de Jensen Huang faz Wall Street disparar: o Nasdaq fecha com +6,5% e o petróleo cai ao menor nível desde agosto"
+  },
+  {
+   "id": "2026-11-23-cierre-latam",
+   "fecha": "2026-11-23",
+   "momento": "cierre",
+   "mercado": "latam",
+   "titular_es": "Argentina sube 4.3% y Perú 3.9% con los metales; el Ibovespa cierra con −0.9% y el real se fortalece",
+   "titular_en": "Argentina rises 4.3% and Peru 3.9% with metals; the Ibovespa closes −0.9% and the real firms",
+   "titular_pt": "A Argentina sobe 4,3% e o Peru 3,9% com os metais; o Ibovespa fecha com −0,9% e o real se fortalece"
+  },
+  {
+   "id": "2026-11-23-cierre-mexico",
+   "fecha": "2026-11-23",
+   "momento": "cierre",
+   "mercado": "mexico",
+   "titular_es": "El IPC cierra con +1% y el peso termina en 19.17; mañana rige un FIX de 19.0228",
+   "titular_en": "The IPC closes +1% and the peso ends at 19.17; a 19.0228 FIX applies tomorrow",
+   "titular_pt": "O IPC fecha com +1% e o peso termina em 19,17; amanhã vale um FIX de 19,0228"
+  },
+  {
    "id": "2026-11-23-mediodia-global",
    "fecha": "2026-11-23",
    "momento": "mediodia",
@@ -782,33 +809,6 @@
    "titular_es": "El IPC abre con −0.2% por Nvidia y el Treasury; el peso se debilita a 18.63",
    "titular_en": "The IPC opens −0.2% on Nvidia and the Treasury; the peso weakens to 18.63",
    "titular_pt": "O IPC abre com −0,2% pela Nvidia e pelo Treasury; o peso se enfraquece para 18,63"
-  },
-  {
-   "id": "2026-11-12-premercado-global",
-   "fecha": "2026-11-12",
-   "momento": "premercado",
-   "mercado": "global",
-   "titular_es": "Nvidia vuelve a hundirse en el premercado y arrastra a los futuros del Nasdaq; el crudo baja 0.8%",
-   "titular_en": "Nvidia sinks again premarket and drags Nasdaq futures; crude falls 0.8%",
-   "titular_pt": "A Nvidia volta a afundar no pré-mercado e arrasta os futuros do Nasdaq; o petróleo cai 0,8%"
-  },
-  {
-   "id": "2026-11-12-premercado-latam",
-   "fecha": "2026-11-12",
-   "momento": "premercado",
-   "mercado": "latam",
-   "titular_es": "La región espera el IPCA de Brasil; el cobre baja 1.2% en la madrugada",
-   "titular_en": "The region awaits Brazil's IPCA; copper falls 1.2% overnight",
-   "titular_pt": "A região aguarda o IPCA do Brasil; o cobre cai 1,2% na madrugada"
-  },
-  {
-   "id": "2026-11-12-premercado-mexico",
-   "fecha": "2026-11-12",
-   "momento": "premercado",
-   "mercado": "mexico",
-   "titular_es": "El peso amanece en 18.58 pese al tropiezo de Nvidia; hoy sale la encuesta de viajeros del INEGI",
-   "titular_en": "The peso starts at 18.58 despite Nvidia's stumble; INEGI's travelers survey comes out today",
-   "titular_pt": "O peso amanhece a 18,58 apesar do tropeço da Nvidia; hoje sai a pesquisa de viajantes do INEGI"
   }
  ]
 }
