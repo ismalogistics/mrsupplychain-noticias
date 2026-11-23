@@ -1,0 +1,86 @@
+{
+ "id": "2026-11-23-apertura-latam",
+ "fecha": "2026-11-23",
+ "momento": "apertura",
+ "mercado": "latam",
+ "hora": "09:07 CDMX",
+ "es": {
+  "titular": "Canadá sube 2.8% y Argentina 4.3% con el rebote; el Ibovespa baja 0.6% al reabrir",
+  "esencial": [
+   "A las 9:07 CDMX el S&P/TSX de Canadá subía 2.76% a 34,104.75; el Ibovespa bajaba 0.55% a 165,458.58 en su regreso tras el feriado.",
+   "Los ETF de MSCI subían 4.25% en Argentina, 2.97% en Perú, 2.72% en Brasil y 1.88% en Chile, con el rebote de los metales.",
+   "Para supply chain: el cobre sube 4.6% a 5.74 dólares por libra; escalona las compras de cable y conectores en lugar de cerrarlas hoy."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 9:07 CDMX el S&P/TSX de Canadá estaba en 34,104.75 (+2.76%). El Ibovespa de Brasil, que no operó el viernes por el Día de la Conciencia Negra, estaba en 165,458.58 (−0.55%) a las 8:52 CDMX. Los ETF de MSCI subían 4.25% en Argentina, 2.97% en Perú, 2.72% en Brasil y 1.88% en Chile. En monedas, el dólar estaba en 5.96 reales (+0.11%), 1,015 pesos chilenos (−0.68%), 3,486 pesos colombianos (+0.07%), 3.44 soles (−0.33%), 1,580 pesos argentinos (+0.94%) y 1.437 dólares canadienses (+0.22%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "El rebote del oro (+4.3%), la plata (+6.1%) y el cobre (+4.6%) apoya a Perú y Chile; el crudo cae 1.7%, lo que pesa sobre Colombia y la petrolera brasileña."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "La región seguirá el rebote de Wall Street; el miércoles el PCE y el PIB de EE. UU. moverán a las monedas, y la OPEP+ se reúne el domingo 29."
+   }
+  ],
+  "scm": "Escalona las compras de cable y conectores con el cobre en 5.74 dólares por libra y aprovecha el peso chileno más firme para adelantar pagos en esa moneda."
+ },
+ "en": {
+  "titular": "Canada rises 2.8% and Argentina 4.3% with the rebound; the Ibovespa slips 0.6% as it reopens",
+  "esencial": [
+   "At 9:07 a.m. Mexico City time Canada's S&P/TSX was up 2.76% at 34,104.75; the Ibovespa fell 0.55% to 165,458.58 as it returned from the holiday.",
+   "The MSCI ETFs rose 4.25% for Argentina, 2.97% for Peru, 2.72% for Brazil and 1.88% for Chile, with the rebound in metals.",
+   "For supply chain: copper rises 4.6% to $5.74 per pound; stagger cable and connector purchases instead of closing them today."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "At 9:07 a.m. Mexico City time Canada's S&P/TSX stood at 34,104.75 (+2.76%). Brazil's Ibovespa, closed on Friday for Black Consciousness Day, stood at 165,458.58 (−0.55%) at 8:52 a.m. The MSCI ETFs rose 4.25% for Argentina, 2.97% for Peru, 2.72% for Brazil and 1.88% for Chile. In currencies, the dollar stood at 5.96 reais (+0.11%), 1,015 Chilean pesos (−0.68%), 3,486 Colombian pesos (+0.07%), 3.44 soles (−0.33%), 1,580 Argentine pesos (+0.94%) and 1.437 Canadian dollars (+0.22%)."
+   },
+   {
+    "t": "Context",
+    "x": "The rebound in gold (+4.3%), silver (+6.1%) and copper (+4.6%) supports Peru and Chile; crude falls 1.7%, weighing on Colombia and on Brazil’s oil company."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The region will follow Wall Street’s rebound; on Wednesday US PCE and GDP will move currencies, and OPEC+ meets on Sunday the 29th."
+   }
+  ],
+  "scm": "Stagger cable and connector purchases with copper at $5.74 per pound and use the firmer Chilean peso to bring forward payments in that currency."
+ },
+ "pt": {
+  "titular": "O Canadá sobe 2,8% e a Argentina 4,3% com o repique; o Ibovespa cai 0,6% na reabertura",
+  "esencial": [
+   "Às 9h07 (Cidade do México) o S&P/TSX do Canadá subia 2,76% para 34.104,75; o Ibovespa caía 0,55% para 165.458,58 na volta do feriado.",
+   "Os ETFs da MSCI subiam 4,25% na Argentina, 2,97% no Peru, 2,72% no Brasil e 1,88% no Chile, com o repique dos metais.",
+   "Para supply chain: o cobre sobe 4,6% para 5,74 dólares por libra; escalone as compras de cabos e conectores em vez de fechá-las hoje."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 9h07 (Cidade do México) o S&P/TSX do Canadá estava em 34.104,75 (+2,76%). O Ibovespa, que não operou na sexta pelo Dia da Consciência Negra, estava em 165.458,58 (−0,55%) às 8h52. Os ETFs da MSCI subiam 4,25% na Argentina, 2,97% no Peru, 2,72% no Brasil e 1,88% no Chile. Nas moedas, o dólar estava em R$ 5,96 (+0,11%), 1.015 pesos chilenos (−0,68%), 3.486 pesos colombianos (+0,07%), 3,44 soles (−0,33%), 1.580 pesos argentinos (+0,94%) e 1,437 dólar canadense (+0,22%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "O repique do ouro (+4,3%), da prata (+6,1%) e do cobre (+4,6%) apoia Peru e Chile; o petróleo cai 1,7%, o que pesa sobre a Colômbia e a petroleira brasileira."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "A região seguirá o repique de Wall Street; na quarta o PCE e o PIB dos EUA vão mover as moedas, e a OPEP+ se reúne no domingo, dia 29."
+   }
+  ],
+  "scm": "Escalone as compras de cabos e conectores com o cobre a 5,74 dólares por libra e aproveite o peso chileno mais firme para antecipar pagamentos nessa moeda."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (23 nov 2026, 09:07 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

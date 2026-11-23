@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-23-apertura-global",
+ "fecha": "2026-11-23",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:07 CDMX",
+ "es": {
+  "titular": "Jensen Huang regresa a Nvidia: la acción se dispara 32%, el Nasdaq 6.7% y el S&P 500 4.7%",
+  "esencial": [
+   "A las 9:07 CDMX el Nasdaq subía 6.65%, el S&P 500 4.68% (7,233.96) y el Dow 2.82%, después de que Nvidia restituyó a Jensen Huang como director general, efectivo de inmediato.",
+   "Nvidia subía 32.2% a 166 dólares y el índice de semiconductores 13.6%; Micron ganaba 17.4% y TSMC 15.8%, mientras el crudo caía 1.7%.",
+   "Para supply chain: el diésel en futuros baja a 3.75 dólares por galón, pero los metales rebotan con fuerza (cobre +4.6%); negocia hoy combustible y espera para cerrar compras de metales."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "El premercado anticipaba un rebote de alivio y la apertura lo amplió: el consejo de Nvidia anunció que restituye a Jensen Huang como presidente y director general, efectivo de inmediato, menos de dos semanas después de su renuncia, según Reuters y CBS News. El consejo dijo que recibió opiniones de altos niveles del gobierno de EE. UU. y que no considera que su regreso represente un riesgo de seguridad nacional, según Yahoo Finance. A las 9:07 CDMX el S&P 500 estaba en 7,233.96 (+4.68%), el Nasdaq en 24,122.78 (+6.65%) y el Dow en 49,504.03 (+2.82%); el VIX bajaba a 28.8. Nvidia subía 32.2% a 166 dólares, el índice de semiconductores 13.6%, Micron 17.4%, TSMC 15.8% y AMD 5.1%; Anthropic subía 0.5% a 89.37 dólares. CrowdStrike anunció la compra de Zscaler en acciones por unos 43,900 millones de dólares: Zscaler subía 17.5% y CrowdStrike caía 9%, según Reuters."
+   },
+   {
+    "t": "Tasas y materias primas",
+    "x": "El WTI caía 1.7% a 81.99 dólares y el Brent de enero 2.1% a 90.59, por mayores flujos de Medio Oriente y la reapertura del oleoducto Sharara en Libia; más temprano el WTI tocó 80.55, su nivel más bajo desde el 27 de agosto, según Reuters. El diésel en futuros bajaba 2.6% a 3.75 dólares por galón y el gas natural 6.7%. Los metales rebotaban: oro +4.3% (3,668), plata +6.1% y cobre +4.6% (5.74 dólares por libra). El Treasury a 10 años estaba en 4.94% y el índice del dólar en 104.19."
+   },
+   {
+    "t": "Asia, Europa y qué sigue",
+    "x": "Japón no operó por feriado y el KOSPI cayó 3.31%. A las 8:52 CDMX Europa subía: Euro Stoxx 50 +1.83%, DAX +1.68%, CAC 40 +1.17% y FTSE 100 +0.99%. Después del cierre reportan Hewlett Packard Enterprise y Zoom; mañana reportan Dell y HP, y el miércoles salen el PCE y el PIB de EE. UU."
+   }
+  ],
+  "scm": "Negocia hoy los recargos de combustible de diciembre con el diésel en 3.75 dólares por galón. En metales, el rebote de hoy (cobre +4.6%, plata +6.1%) borra parte de la caída de la semana pasada: escalona las compras en lugar de cerrarlas de golpe."
+ },
+ "en": {
+  "titular": "Jensen Huang returns to Nvidia: the stock soars 32%, the Nasdaq 6.7% and the S&P 500 4.7%",
+  "esencial": [
+   "At 10:07 a.m. ET the Nasdaq was up 6.65%, the S&P 500 4.68% (7,233.96) and the Dow 2.82%, after Nvidia reinstated Jensen Huang as CEO, effective immediately.",
+   "Nvidia rose 32.2% to $166 and the semiconductor index 13.6%; Micron gained 17.4% and TSMC 15.8%, while crude fell 1.7%.",
+   "For supply chain: diesel futures drop to $3.75 a gallon, but metals rebound sharply (copper +4.6%); negotiate fuel today and wait to close metal purchases."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "Premarket pointed to a relief rally and the open extended it: Nvidia's board announced it is reinstating Jensen Huang as president and CEO, effective immediately, less than two weeks after his resignation, according to Reuters and CBS News. The board said it received input from senior levels of the US government and does not believe his return poses a national security risk, according to Yahoo Finance. At 10:07 a.m. ET the S&P 500 stood at 7,233.96 (+4.68%), the Nasdaq at 24,122.78 (+6.65%) and the Dow at 49,504.03 (+2.82%); the VIX eased to 28.8. Nvidia rose 32.2% to $166, the semiconductor index 13.6%, Micron 17.4%, TSMC 15.8% and AMD 5.1%; Anthropic rose 0.5% to $89.37. CrowdStrike announced an all-stock deal to buy Zscaler for about $43.9 billion: Zscaler rose 17.5% and CrowdStrike fell 9%, according to Reuters."
+   },
+   {
+    "t": "Rates and commodities",
+    "x": "WTI fell 1.7% to $81.99 and January Brent 2.1% to $90.59, on higher Middle East flows and the restart of Libya's Sharara pipeline; earlier WTI touched $80.55, its lowest since August 27, according to Reuters. Diesel futures fell 2.6% to $3.75 a gallon and natural gas 6.7%. Metals rebounded: gold +4.3% ($3,668), silver +6.1% and copper +4.6% ($5.74 per pound). The 10-year Treasury yield was 4.94% and the dollar index 104.19."
+   },
+   {
+    "t": "Asia, Europe and what’s next",
+    "x": "Japan was closed for a holiday and the KOSPI fell 3.31%. At 9:52 a.m. ET Europe was higher: Euro Stoxx 50 +1.83%, DAX +1.68%, CAC 40 +1.17% and FTSE 100 +0.99%. After the close Hewlett Packard Enterprise and Zoom report; Dell and HP report tomorrow, and US PCE and GDP come out on Wednesday."
+   }
+  ],
+  "scm": "Negotiate December fuel surcharges today with diesel at $3.75 a gallon. In metals, today's rebound (copper +4.6%, silver +6.1%) erases part of last week's drop: stagger purchases instead of closing them all at once."
+ },
+ "pt": {
+  "titular": "Jensen Huang volta à Nvidia: a ação dispara 32%, o Nasdaq 6,7% e o S&P 500 4,7%",
+  "esencial": [
+   "Às 9h07 (Cidade do México) o Nasdaq subia 6,65%, o S&P 500 4,68% (7.233,96) e o Dow 2,82%, depois que a Nvidia reconduziu Jensen Huang ao cargo de CEO, com efeito imediato.",
+   "A Nvidia subia 32,2% para 166 dólares e o índice de semicondutores 13,6%; a Micron ganhava 17,4% e a TSMC 15,8%, enquanto o petróleo caía 1,7%.",
+   "Para supply chain: o diesel nos futuros cai para 3,75 dólares por galão, mas os metais sobem com força (cobre +4,6%); negocie hoje o combustível e espere para fechar compras de metais."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "O pré-mercado antecipava um repique de alívio e a abertura o ampliou: o conselho da Nvidia anunciou que recondiz Jensen Huang aos cargos de presidente e CEO, com efeito imediato, menos de duas semanas depois de sua renúncia, segundo a Reuters e a CBS News. O conselho disse que recebeu opiniões de altos escalões do governo dos EUA e que não considera que o retorno represente um risco à segurança nacional, segundo o Yahoo Finance. Às 9h07 (Cidade do México) o S&P 500 estava em 7.233,96 (+4,68%), o Nasdaq em 24.122,78 (+6,65%) e o Dow em 49.504,03 (+2,82%); o VIX caía para 28,8. A Nvidia subia 32,2% para 166 dólares, o índice de semicondutores 13,6%, a Micron 17,4%, a TSMC 15,8% e a AMD 5,1%; a Anthropic subia 0,5% para 89,37 dólares. A CrowdStrike anunciou a compra da Zscaler em ações por cerca de 43,9 bilhões de dólares: a Zscaler subia 17,5% e a CrowdStrike caía 9%, segundo a Reuters."
+   },
+   {
+    "t": "Juros e matérias-primas",
+    "x": "O WTI caía 1,7% para 81,99 dólares e o Brent de janeiro 2,1% para 90,59, por maiores fluxos do Oriente Médio e a reabertura do oleoduto Sharara na Líbia; mais cedo o WTI tocou 80,55, o menor nível desde 27 de agosto, segundo a Reuters. O diesel nos futuros caía 2,6% para 3,75 dólares por galão e o gás natural 6,7%. Os metais subiam: ouro +4,3% (3.668), prata +6,1% e cobre +4,6% (5,74 dólares por libra). O rendimento do Treasury de 10 anos estava em 4,94% e o índice do dólar em 104,19."
+   },
+   {
+    "t": "Ásia, Europa e o que vem",
+    "x": "O Japão não operou por feriado e o KOSPI caiu 3,31%. Às 8h52 (Cidade do México) a Europa subia: Euro Stoxx 50 +1,83%, DAX +1,68%, CAC 40 +1,17% e FTSE 100 +0,99%. Depois do fechamento divulgam resultados a Hewlett Packard Enterprise e a Zoom; amanhã divulgam Dell e HP, e na quarta saem o PCE e o PIB dos EUA."
+   }
+  ],
+  "scm": "Negocie hoje as sobretaxas de combustível de dezembro com o diesel a 3,75 dólares por galão. Nos metais, o repique de hoje (cobre +4,6%, prata +6,1%) apaga parte da queda da semana passada: escalone as compras em vez de fechá-las de uma vez."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters: Wall Street se dispara tras el regreso de Jensen Huang como director general de Nvidia (23 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-rebound-rough-075444520.html"
+  },
+  {
+   "t": "CBS News: Nvidia restituye a Jensen Huang como director general (23 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-reinstates-jensen-huang-ceo-142249052.html"
+  },
+  {
+   "t": "Yahoo Finance: Nvidia restituye a Jensen Huang y la acción se dispara (23 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/article/nvidia-reinstates-jensen-huang-as-ceo-stock-rockets-141145439.html"
+  },
+  {
+   "t": "Reuters: el petróleo baja por mayores flujos de Medio Oriente y la reapertura de un oleoducto en Libia (23 nov 2026)",
+   "u": "https://finance.yahoo.com/news/oil-prices-fall-amid-equity-022442236.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (23 nov 2026, 09:07 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

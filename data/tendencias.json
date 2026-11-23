@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-11-20T21:20:21Z",
- "fecha": "2026-11-20",
+ "actualizado": "2026-11-23T15:10:25Z",
+ "fecha": "2026-11-23",
  "titular": {
-  "es": "Viernes: los chips se desploman 10.7%, el S&P 500 entra en corrección y el oro pierde 9% en la semana",
-  "en": "Friday: chips plunge 10.7%, the S&P 500 enters correction and gold loses 9% for the week",
-  "pt": "Sexta: os chips despencam 10,7%, o S&P 500 entra em correção e o ouro perde 9% na semana"
+  "es": "Lunes: Jensen Huang regresa a Nvidia, los chips y los centros de datos se disparan y el crudo baja",
+  "en": "Monday: Jensen Huang returns to Nvidia, chips and data centers soar and crude falls",
+  "pt": "Segunda: Jensen Huang volta à Nvidia, chips e data centers disparam e o petróleo cai"
  },
  "items": [
   {
    "id": "semis",
-   "dir": "down",
+   "dir": "up",
    "calor": 3,
    "mx": false,
    "latam": false,
@@ -17,38 +17,38 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "El índice de chips se desploma 10.7%: Nvidia cae 14% y suma 23% de pérdida en la semana",
-    "en": "The chip index plunges 10.7%: Nvidia falls 14% and is down 23% for the week",
-    "pt": "O índice de chips despenca 10,7%: a Nvidia cai 14% e acumula 23% de perda na semana"
+    "es": "Jensen Huang regresa a Nvidia: la acción sube 32% y el índice de chips 13.6%",
+    "en": "Jensen Huang returns to Nvidia: the stock rises 32% and the chip index 13.6%",
+    "pt": "Jensen Huang volta à Nvidia: a ação sobe 32% e o índice de chips 13,6%"
    },
    "x": {
-    "es": "El índice de semiconductores de Filadelfia cerró con −10.7%: Nvidia −14.0% (125.53 dólares, −22.9% en la semana), Micron −13.9%, AMD −13.3%, Broadcom −12.2% y TSMC −9.3%. Según CBS News, el mercado teme que se frene la construcción de centros de datos y que se endurezcan los controles a la exportación de chips; Trump dijo que le gustaría ver de regreso a Jensen Huang.",
-    "en": "The Philadelphia semiconductor index closed −10.7%: Nvidia −14.0% ($125.53, −22.9% for the week), Micron −13.9%, AMD −13.3%, Broadcom −12.2% and TSMC −9.3%. According to CBS News, markets fear a slowdown in data center construction and tighter chip export controls; Trump said he would like to see Jensen Huang back.",
-    "pt": "O índice de semicondutores da Filadélfia fechou com −10,7%: Nvidia −14,0% (125,53 dólares, −22,9% na semana), Micron −13,9%, AMD −13,3%, Broadcom −12,2% e TSMC −9,3%. Segundo a CBS News, o mercado teme uma desaceleração na construção de data centers e controles mais rígidos à exportação de chips; Trump disse que gostaria de ver Jensen Huang de volta."
+    "es": "El consejo de Nvidia restituyó a Jensen Huang como presidente y director general, efectivo de inmediato; dijo que recibió opiniones de altos niveles del gobierno de EE. UU. y que su regreso no representa un riesgo de seguridad nacional. A las 9:07 CDMX Nvidia subía 32.2% a 166 dólares, Micron 17.4%, TSMC 15.8% y el índice de semiconductores de Filadelfia 13.6%.",
+    "en": "Nvidia's board reinstated Jensen Huang as president and CEO, effective immediately; it said it received input from senior levels of the US government and that his return does not pose a national security risk. At 10:07 a.m. ET Nvidia was up 32.2% at $166, Micron 17.4%, TSMC 15.8% and the Philadelphia semiconductor index 13.6%.",
+    "pt": "O conselho da Nvidia reconduziu Jensen Huang aos cargos de presidente e CEO, com efeito imediato; disse que recebeu opiniões de altos escalões do governo dos EUA e que o retorno não representa risco à segurança nacional. Às 9h07 (Cidade do México) a Nvidia subia 32,2% para 166 dólares, a Micron 17,4%, a TSMC 15,8% e o índice de semicondutores da Filadélfia 13,6%."
    },
    "scm": {
-    "es": "Si abasteces a centros de datos, revisa tus supuestos de demanda para 2027; si compras cómputo, no firmes precios largos sin cláusula de ajuste.",
-    "en": "If you supply data centers, review your 2027 demand assumptions; if you buy compute, don't sign long-term prices without an adjustment clause.",
-    "pt": "Se você abastece data centers, revise as premissas de demanda para 2027; se compra computação, não feche preços longos sem cláusula de ajuste."
+    "es": "El regreso reduce la incertidumbre, pero no los plazos de GPU y memoria: mantén tus reservas de capacidad y cláusulas de ajuste.",
+    "en": "His return reduces uncertainty, but not GPU and memory lead times: keep your capacity reservations and adjustment clauses.",
+    "pt": "O retorno reduz a incerteza, mas não os prazos de GPUs e memória: mantenha as reservas de capacidade e as cláusulas de ajuste."
    },
    "fuentes": [
     {
-     "t": "Reuters: Wall Street cierra con fuertes caídas por la venta en IA; el S&P 500 y el Dow entran en corrección (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+     "t": "Reuters: Wall Street se dispara tras el regreso de Jensen Huang como director general de Nvidia (23 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-rebound-rough-075444520.html"
     },
     {
-     "t": "CBS News: las bolsas entran en corrección por la caída de la tecnología (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-enter-correction-territory-driven-210818388.html"
+     "t": "CBS News: Nvidia restituye a Jensen Huang como director general (23 nov 2026)",
+     "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-reinstates-jensen-huang-ceo-142249052.html"
     },
     {
-     "t": "Yahoo Finance: Trump critica a la nueva dirección de Nvidia (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/article/trump-critiques-jensen-huangs-replacement-as-he-wades-deeper-into-nvidia-turmoil-210729338.html"
+     "t": "Yahoo Finance: Nvidia restituye a Jensen Huang y la acción se dispara (23 nov 2026)",
+     "u": "https://finance.yahoo.com/technology/article/nvidia-reinstates-jensen-huang-as-ceo-stock-rockets-141145439.html"
     }
    ]
   },
   {
    "id": "energia",
-   "dir": "mixed",
+   "dir": "down",
    "calor": 2,
    "mx": true,
    "latam": true,
@@ -56,55 +56,28 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El WTI sube 1.8% el viernes, pero baja 5.2% en la semana; el diésel en 3.87",
-    "en": "WTI rises 1.8% on Friday but falls 5.2% for the week; diesel at $3.87",
-    "pt": "O WTI sobe 1,8% na sexta, mas cai 5,2% na semana; o diesel a 3,87"
+    "es": "El crudo cae 1.7% por mayores flujos de Medio Oriente y la reapertura de un oleoducto en Libia",
+    "en": "Crude falls 1.7% on higher Middle East flows and a Libyan pipeline restart",
+    "pt": "O petróleo cai 1,7% por maiores fluxos do Oriente Médio e a reabertura de um oleoduto na Líbia"
    },
    "x": {
-    "es": "El WTI cerró en 83.96 dólares (+1.8%) y el Brent de enero en 92.90 (+1.0%), pero en la semana bajaron 5.2% y 3.1% porque las exportaciones por Ormuz volvieron a niveles de antes de la guerra, según Reuters. El diésel en futuros terminó en 3.87 dólares por galón y la OPEP+ se reúne el domingo 29.",
-    "en": "WTI closed at $83.96 (+1.8%) and January Brent at $92.90 (+1.0%), but they fell 5.2% and 3.1% for the week as Hormuz exports returned to pre-war levels, according to Reuters. Diesel futures ended at $3.87 a gallon and OPEC+ meets on Sunday the 29th.",
-    "pt": "O WTI fechou a 83,96 dólares (+1,8%) e o Brent de janeiro a 92,90 (+1,0%), mas na semana caíram 5,2% e 3,1% porque as exportações por Ormuz voltaram a níveis de antes da guerra, segundo a Reuters. O diesel nos futuros terminou a 3,87 dólares por galão e a OPEP+ se reúne no domingo, dia 29."
+    "es": "El WTI caía 1.7% a 81.99 dólares y el Brent de enero 2.1% a 90.59; más temprano el WTI tocó 80.55, su nivel más bajo desde el 27 de agosto, según Reuters. Libia reabrió el oleoducto Sharara y JPMorgan espera que el crudo baje a la parte alta de los 70 dólares en el primer semestre de 2027. El diésel en futuros bajaba 2.6% a 3.75 dólares por galón.",
+    "en": "WTI fell 1.7% to $81.99 and January Brent 2.1% to $90.59; earlier WTI touched $80.55, its lowest since August 27, according to Reuters. Libya reopened the Sharara pipeline and JPMorgan expects crude to fall to the high $70s in the first half of 2027. Diesel futures fell 2.6% to $3.75 a gallon.",
+    "pt": "O WTI caía 1,7% para 81,99 dólares e o Brent de janeiro 2,1% para 90,59; mais cedo o WTI tocou 80,55, o menor nível desde 27 de agosto, segundo a Reuters. A Líbia reabriu o oleoduto Sharara e o JPMorgan espera que o petróleo caia para a faixa alta dos 70 dólares no primeiro semestre de 2027. O diesel nos futuros caía 2,6% para 3,75 dólares por galão."
    },
    "scm": {
-    "es": "Negocia los recargos de combustible de diciembre con ajuste semanal antes de la reunión de la OPEP+.",
-    "en": "Negotiate December fuel surcharges with weekly adjustment before the OPEC+ meeting.",
-    "pt": "Negocie as sobretaxas de combustível de dezembro com ajuste semanal antes da reunião da OPEP+."
+    "es": "Negocia hoy los recargos de combustible de diciembre con ajuste semanal: el diésel está en 3.75 dólares por galón.",
+    "en": "Negotiate December fuel surcharges today with weekly adjustment: diesel is at $3.75 a gallon.",
+    "pt": "Negocie hoje as sobretaxas de combustível de dezembro com ajuste semanal: o diesel está a 3,75 dólares por galão."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 20 nov 2026)",
+     "t": "Reuters: el petróleo baja por mayores flujos de Medio Oriente y la reapertura de un oleoducto en Libia (23 nov 2026)",
+     "u": "https://finance.yahoo.com/news/oil-prices-fall-amid-equity-022442236.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (23 nov 2026, 09:07 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
-    }
-   ]
-  },
-  {
-   "id": "retail",
-   "dir": "mixed",
-   "calor": 1,
-   "mx": true,
-   "latam": false,
-   "es": "Retail y última milla",
-   "en": "Retail and last mile",
-   "pt": "Varejo e última milha",
-   "titular": {
-    "es": "El dinero se refugia en consumo básico: General Mills sube 4.4% y Walmart 1.5%",
-    "en": "Money takes shelter in staples: General Mills rises 4.4% and Walmart 1.5%",
-    "pt": "O dinheiro se refugia no consumo básico: a General Mills sobe 4,4% e o Walmart 1,5%"
-   },
-   "x": {
-    "es": "Mientras la tecnología se desplomaba, General Mills subió 4.4%, Lennar 2.5% y Walmart 1.5%, según CBS News. El jueves 26 no opera Wall Street por el Día de Acción de Gracias, que abre la temporada de compras.",
-    "en": "While tech plunged, General Mills rose 4.4%, Lennar 2.5% and Walmart 1.5%, according to CBS News. Wall Street is closed on Thursday the 26th for Thanksgiving, which opens the shopping season.",
-    "pt": "Enquanto a tecnologia despencava, a General Mills subiu 4,4%, a Lennar 2,5% e o Walmart 1,5%, segundo a CBS News. Na quinta, dia 26, Wall Street não opera pelo Dia de Ação de Graças, que abre a temporada de compras."
-   },
-   "scm": {
-    "es": "Si exportas a EE. UU., confirma recolecciones y cortes de embarque antes del miércoles 25.",
-    "en": "If you export to the US, confirm pickups and shipping cutoffs before Wednesday the 25th.",
-    "pt": "Se você exporta para os EUA, confirme coletas e prazos de embarque antes da quarta, dia 25."
-   },
-   "fuentes": [
-    {
-     "t": "CBS News: las bolsas entran en corrección por la caída de la tecnología (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-enter-correction-territory-driven-210818388.html"
     }
    ]
   },
@@ -118,69 +91,61 @@
    "en": "Shipping and ports",
    "pt": "Marítimo e portos",
    "titular": {
-    "es": "Irán dice que dos tanqueros chocaron con minas en Ormuz y están ardiendo; los ataques van a casi uno por día",
-    "en": "Iran says two tankers hit mines in Hormuz and are burning; attacks are running at nearly one a day",
-    "pt": "O Irã diz que dois petroleiros atingiram minas em Ormuz e estão em chamas; os ataques seguem em quase um por dia"
+    "es": "Siguen los ataques en el Golfo: Bahréin reporta un ataque iraní a una planta industrial",
+    "en": "Gulf attacks continue: Bahrain reports an Iranian strike on an industrial facility",
+    "pt": "Os ataques no Golfo continuam: o Bahrein relata um ataque iraniano a uma instalação industrial"
    },
    "x": {
-    "es": "La marina de la Guardia Revolucionaria de Irán dijo que dos tanqueros chocaron con minas en el estrecho de Ormuz y \"están ardiendo\", y los hutíes lanzaron misiles contra Riad. UOB estima que los ataques a tanqueros van a un ritmo de casi uno por día en noviembre.",
-    "en": "Iran's Revolutionary Guards Navy said two tankers struck mines in the Strait of Hormuz and \"are burning,\" and the Houthis fired missiles at Riyadh. UOB estimates tanker attacks are running at nearly one a day in November.",
-    "pt": "A marinha da Guarda Revolucionária do Irã disse que dois petroleiros atingiram minas no estreito de Ormuz e \"estão em chamas\", e os houthis lançaram mísseis contra Riad. O UOB estima que os ataques a petroleiros seguem em ritmo de quase um por dia em novembro."
+    "es": "Bahréin dijo que un ataque iraní alcanzó una instalación industrial civil el sábado, y la Guardia Revolucionaria de Irán dijo que lanzó misiles y drones contra posiciones militares de EE. UU. en ese país, según Reuters. Según CNN, los ataques iraníes en Ormuz están en su nivel más alto desde que empezó el conflicto.",
+    "en": "Bahrain said an Iranian attack hit a civilian industrial facility on Saturday, and Iran’s Revolutionary Guards said they launched missiles and drones at US military positions there, according to Reuters. According to CNN, Iranian attacks in Hormuz are at their highest level since the conflict began.",
+    "pt": "O Bahrein disse que um ataque iraniano atingiu uma instalação industrial civil no sábado, e a Guarda Revolucionária do Irã disse que lançou mísseis e drones contra posições militares dos EUA no país, segundo a Reuters. Segundo a CNN, os ataques iranianos em Ormuz estão no nível mais alto desde o início do conflito."
    },
    "scm": {
-    "es": "Mantén colchón de días y seguro de riesgo de guerra en embarques que crucen Medio Oriente.",
-    "en": "Keep buffer days and war-risk insurance on shipments crossing the Middle East.",
-    "pt": "Mantenha folga de dias e seguro de risco de guerra nos embarques que cruzem o Oriente Médio."
+    "es": "Mantén colchón de días y seguro de riesgo de guerra en embarques que crucen el Golfo Pérsico.",
+    "en": "Keep buffer days and war-risk insurance on shipments crossing the Persian Gulf.",
+    "pt": "Mantenha folga de dias e seguro de risco de guerra nos embarques que cruzem o Golfo Pérsico."
    },
    "fuentes": [
     {
-     "t": "Reuters: el petróleo va por su tercera semana a la baja por los flujos de exportación de Medio Oriente (20 nov 2026)",
-     "u": "https://finance.yahoo.com/news/oil-prices-edge-higher-houthi-020004794.html"
-    },
-    {
-     "t": "MT Newswires: el crudo baja aunque siguen los combates en Medio Oriente (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/commodities/articles/canada-commodities-crude-oil-prices-145711219.html"
+     "t": "Reuters: el petróleo baja por mayores flujos de Medio Oriente y la reapertura de un oleoducto en Libia (23 nov 2026)",
+     "u": "https://finance.yahoo.com/news/oil-prices-fall-amid-equity-022442236.html"
     }
    ]
   },
   {
    "id": "software",
-   "dir": "down",
-   "calor": 3,
+   "dir": "mixed",
+   "calor": 2,
    "mx": false,
    "latam": false,
    "es": "Software e IA para supply chain",
    "en": "Software and AI for supply chain",
    "pt": "Software e IA para supply chain",
    "titular": {
-    "es": "Anthropic cierra en 88.91 dólares (−8.5%) e Intuit cae 12.8% tras recortar su pronóstico",
-    "en": "Anthropic closes at $88.91 (−8.5%) and Intuit falls 12.8% after cutting its forecast",
-    "pt": "A Anthropic fecha a 88,91 dólares (−8,5%) e a Intuit cai 12,8% depois de cortar a previsão"
+    "es": "CrowdStrike comprará Zscaler por unos 43,900 millones de dólares en acciones",
+    "en": "CrowdStrike to buy Zscaler for about $43.9 billion in stock",
+    "pt": "A CrowdStrike vai comprar a Zscaler por cerca de 43,9 bilhões de dólares em ações"
    },
    "x": {
-    "es": "Anthropic terminó su segundo día en 88.91 dólares (−8.5%), aún arriba de su precio de salida de 83, pero cerca de 23% abajo de su máximo de 115.10 del jueves, según CBS News. Intuit cayó 12.8% tras recortar su pronóstico de ingresos y acordar la venta de Mailchimp a Bending Spoons por unos 3,680 millones de dólares, según Reuters.",
-    "en": "Anthropic ended its second day at $88.91 (−8.5%), still above its $83 IPO price but about 23% below Thursday's $115.10 high, according to CBS News. Intuit fell 12.8% after cutting its revenue forecast and agreeing to sell Mailchimp to Bending Spoons for about $3.68 billion, according to Reuters.",
-    "pt": "A Anthropic terminou o segundo dia a 88,91 dólares (−8,5%), ainda acima do preço do IPO de 83, mas cerca de 23% abaixo da máxima de 115,10 de quinta, segundo a CBS News. A Intuit caiu 12,8% depois de cortar a previsão de receita e acordar a venda do Mailchimp para a Bending Spoons por cerca de 3,68 bilhões de dólares, segundo a Reuters."
+    "es": "CrowdStrike anunció la compra de Zscaler en una operación en acciones que valora a la empresa de ciberseguridad en unos 43,900 millones de dólares; Zscaler subía 17.5% y CrowdStrike caía 9%, según Reuters. Anthropic subía 0.5% a 89.37 dólares.",
+    "en": "CrowdStrike announced an all-stock deal to buy Zscaler that values the cybersecurity company at about $43.9 billion; Zscaler rose 17.5% and CrowdStrike fell 9%, according to Reuters. Anthropic rose 0.5% to $89.37.",
+    "pt": "A CrowdStrike anunciou a compra da Zscaler em uma operação em ações que avalia a empresa de cibersegurança em cerca de 43,9 bilhões de dólares; a Zscaler subia 17,5% e a CrowdStrike caía 9%, segundo a Reuters. A Anthropic subia 0,5% para 89,37 dólares."
    },
    "scm": {
-    "es": "Si evalúas herramientas de IA para planeación o compras, pide precios y niveles de servicio fijos para 2027.",
-    "en": "If you are evaluating AI tools for planning or procurement, ask for fixed 2027 pricing and service levels.",
-    "pt": "Se você avalia ferramentas de IA para planejamento ou compras, peça preços e níveis de serviço fixos para 2027."
+    "es": "Si usas ambas plataformas de seguridad, revisa contratos y renovaciones: la integración puede cambiar precios y soporte en 2027.",
+    "en": "If you use both security platforms, review contracts and renewals: the integration may change pricing and support in 2027.",
+    "pt": "Se você usa as duas plataformas de segurança, revise contratos e renovações: a integração pode mudar preços e suporte em 2027."
    },
    "fuentes": [
     {
-     "t": "CBS News: las bolsas entran en corrección por la caída de la tecnología (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-enter-correction-territory-driven-210818388.html"
-    },
-    {
-     "t": "Reuters: Wall Street cierra con fuertes caídas por la venta en IA; el S&P 500 y el Dow entran en corrección (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+     "t": "Reuters: Wall Street se dispara tras el regreso de Jensen Huang como director general de Nvidia (23 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-rebound-rough-075444520.html"
     }
    ]
   },
   {
    "id": "mineria",
-   "dir": "down",
+   "dir": "up",
    "calor": 2,
    "mx": true,
    "latam": true,
@@ -188,28 +153,55 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "El oro pierde 9.3% en la semana, la peor desde marzo, y el cobre 10%",
-    "en": "Gold loses 9.3% for the week, its worst since March, and copper 10%",
-    "pt": "O ouro perde 9,3% na semana, a pior desde março, e o cobre 10%"
+    "es": "Los metales rebotan: plata +6.1%, cobre +4.6% y oro +4.3%",
+    "en": "Metals rebound: silver +6.1%, copper +4.6% and gold +4.3%",
+    "pt": "Os metais sobem: prata +6,1%, cobre +4,6% e ouro +4,3%"
    },
    "x": {
-    "es": "El oro cerró en 3,525 dólares (−4.4%) y perdió 9.3% en la semana, la peor desde marzo, por la expectativa de otra alza de la Fed en diciembre; la plata cayó 7.8% y el cobre 3.0% a 5.47 dólares por libra (−10% en la semana).",
-    "en": "Gold closed at $3,525 (−4.4%) and lost 9.3% for the week, its worst since March, on expectations of another Fed hike in December; silver fell 7.8% and copper 3.0% to $5.47 per pound (−10% for the week).",
-    "pt": "O ouro fechou a 3.525 dólares (−4,4%) e perdeu 9,3% na semana, a pior desde março, pela expectativa de outra alta do Fed em dezembro; a prata caiu 7,8% e o cobre 3,0% para 5,47 dólares por libra (−10% na semana)."
+    "es": "A las 8:57 CDMX el oro estaba en 3,668 dólares (+4.3%), la plata en 43.58 (+6.1%) y el cobre en 5.74 dólares por libra (+4.6%), recuperando parte de la caída de la semana pasada, cuando el oro perdió 9.3% y el cobre 10%.",
+    "en": "At 9:57 a.m. ET gold stood at $3,668 (+4.3%), silver at $43.58 (+6.1%) and copper at $5.74 per pound (+4.6%), recovering part of last week's drop, when gold lost 9.3% and copper 10%.",
+    "pt": "Às 8h57 (Cidade do México) o ouro estava a 3.668 dólares (+4,3%), a prata a 43,58 (+6,1%) e o cobre a 5,74 dólares por libra (+4,6%), recuperando parte da queda da semana passada, quando o ouro perdeu 9,3% e o cobre 10%."
    },
    "scm": {
-    "es": "Cotiza cable, conectores y empaques metálicos del primer trimestre con los metales en mínimos de meses.",
-    "en": "Quote first-quarter cable, connectors and metal packaging with metals at multi-month lows.",
-    "pt": "Cote cabos, conectores e embalagens metálicas do primeiro trimestre com os metais em mínimas de meses."
+    "es": "Escalona las compras de cable y conectores del primer trimestre en lugar de cerrarlas hoy.",
+    "en": "Stagger first-quarter cable and connector purchases instead of closing them today.",
+    "pt": "Escalone as compras de cabos e conectores do primeiro trimestre em vez de fechá-las hoje."
    },
    "fuentes": [
     {
-     "t": "IBTimes: el oro cae casi 9% en su peor semana desde marzo (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/commodities/articles/gold-plunges-nearly-9-worst-172101705.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 20 nov 2026)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (23 nov 2026, 09:07 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
+    }
+   ]
+  },
+  {
+   "id": "centros",
+   "dir": "up",
+   "calor": 2,
+   "mx": false,
+   "latam": false,
+   "es": "Centros de datos y nube",
+   "en": "Data centers and cloud",
+   "pt": "Data centers e nuvem",
+   "titular": {
+    "es": "CoreWeave sube 25% e IREN 28%: los centros de datos rebotan con Nvidia",
+    "en": "CoreWeave rises 25% and IREN 28%: data centers rebound with Nvidia",
+    "pt": "A CoreWeave sobe 25% e a IREN 28%: os data centers sobem com a Nvidia"
+   },
+   "x": {
+    "es": "Las empresas de nube para IA y centros de datos se dispararon con el regreso de Jensen Huang: CoreWeave subía 25%, IREN 28% y Nebius 24.4%, según Reuters. La semana pasada habían caído por el temor a que se frene el gasto en IA.",
+    "en": "AI cloud and data center companies soared with Jensen Huang's return: CoreWeave rose 25%, IREN 28% and Nebius 24.4%, according to Reuters. Last week they had fallen on fears that AI spending would slow.",
+    "pt": "As empresas de nuvem para IA e data centers dispararam com o retorno de Jensen Huang: a CoreWeave subia 25%, a IREN 28% e a Nebius 24,4%, segundo a Reuters. Na semana passada tinham caído pelo temor de que os gastos em IA desacelerem."
+   },
+   "scm": {
+    "es": "Si abasteces a centros de datos (energía, enfriamiento, racks), sigue de cerca los planes de 2027 de tus clientes antes de ajustar capacidad.",
+    "en": "If you supply data centers (power, cooling, racks), track your customers’ 2027 plans closely before adjusting capacity.",
+    "pt": "Se você abastece data centers (energia, refrigeração, racks), acompanhe de perto os planos de 2027 dos clientes antes de ajustar a capacidade."
+   },
+   "fuentes": [
+    {
+     "t": "Reuters: Wall Street se dispara tras el regreso de Jensen Huang como director general de Nvidia (23 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-rebound-rough-075444520.html"
     }
    ]
   }

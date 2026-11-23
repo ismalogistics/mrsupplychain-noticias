@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-23-apertura-global",
+   "fecha": "2026-11-23",
+   "momento": "apertura",
+   "mercado": "global",
+   "titular_es": "Jensen Huang regresa a Nvidia: la acción se dispara 32%, el Nasdaq 6.7% y el S&P 500 4.7%",
+   "titular_en": "Jensen Huang returns to Nvidia: the stock soars 32%, the Nasdaq 6.7% and the S&P 500 4.7%",
+   "titular_pt": "Jensen Huang volta à Nvidia: a ação dispara 32%, o Nasdaq 6,7% e o S&P 500 4,7%"
+  },
+  {
+   "id": "2026-11-23-apertura-latam",
+   "fecha": "2026-11-23",
+   "momento": "apertura",
+   "mercado": "latam",
+   "titular_es": "Canadá sube 2.8% y Argentina 4.3% con el rebote; el Ibovespa baja 0.6% al reabrir",
+   "titular_en": "Canada rises 2.8% and Argentina 4.3% with the rebound; the Ibovespa slips 0.6% as it reopens",
+   "titular_pt": "O Canadá sobe 2,8% e a Argentina 4,3% com o repique; o Ibovespa cai 0,6% na reabertura"
+  },
+  {
+   "id": "2026-11-23-apertura-mexico",
+   "fecha": "2026-11-23",
+   "momento": "apertura",
+   "mercado": "mexico",
+   "titular_es": "El IPC sube 1% con el rebote global y el peso se mantiene en 19.18; el FIX del viernes fue de 19.0228",
+   "titular_en": "The IPC rises 1% with the global rebound and the peso holds at 19.18; Friday's FIX was 19.0228",
+   "titular_pt": "O IPC sobe 1% com o repique global e o peso se mantém em 19,18; o FIX de sexta foi de 19,0228"
+  },
+  {
    "id": "2026-11-23-premercado-global",
    "fecha": "2026-11-23",
    "momento": "premercado",
@@ -782,33 +809,6 @@
    "titular_es": "El IPC cierra con +0.1% tras devolver casi toda su ganancia; el peso termina estable en 18.61",
    "titular_en": "The IPC closes +0.1% after giving back most of its gain; the peso ends steady at 18.61",
    "titular_pt": "O IPC fecha com +0,1% depois de devolver quase todo o ganho; o peso termina estável a 18,61"
-  },
-  {
-   "id": "2026-11-11-mediodia-global",
-   "fecha": "2026-11-11",
-   "momento": "mediodia",
-   "mercado": "global",
-   "titular_es": "El rebote de la IA se amplía: el Nasdaq sube 2.2%, Micron 13.5% y el diésel 2.5%",
-   "titular_en": "The AI rebound broadens: the Nasdaq rises 2.2%, Micron 13.5% and diesel 2.5%",
-   "titular_pt": "A recuperação da IA se amplia: o Nasdaq sobe 2,2%, a Micron 13,5% e o diesel 2,5%"
-  },
-  {
-   "id": "2026-11-11-mediodia-latam",
-   "fecha": "2026-11-11",
-   "momento": "mediodia",
-   "mercado": "latam",
-   "titular_es": "La región sube con Wall Street; el COLCAP cae 1.4% y el peso colombiano se fortalece",
-   "titular_en": "The region rises with Wall Street; the COLCAP falls 1.4% and the Colombian peso strengthens",
-   "titular_pt": "A região sobe com Wall Street; o COLCAP cai 1,4% e o peso colombiano se fortalece"
-  },
-  {
-   "id": "2026-11-11-mediodia-mexico",
-   "fecha": "2026-11-11",
-   "momento": "mediodia",
-   "mercado": "mexico",
-   "titular_es": "El IPC sube 0.85% y el peso se mantiene en 18.61 pese a la caída industrial",
-   "titular_en": "The IPC rises 0.85% and the peso holds at 18.61 despite the industrial drop",
-   "titular_pt": "O IPC sobe 0,85% e o peso se mantém a 18,61 apesar da queda industrial"
   }
  ]
 }

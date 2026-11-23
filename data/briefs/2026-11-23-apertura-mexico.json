@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-23-apertura-mexico",
+ "fecha": "2026-11-23",
+ "momento": "apertura",
+ "mercado": "mexico",
+ "hora": "09:07 CDMX",
+ "es": {
+  "titular": "El IPC sube 1% con el rebote global y el peso se mantiene en 19.18; el FIX del viernes fue de 19.0228",
+  "esencial": [
+   "A las 8:47 CDMX el S&P/BMV IPC subía 1.03% a 69,336.95 puntos; a las 9:07 el peso cotizaba en 19.18 por dólar (+0.18% el dólar).",
+   "El FIX determinado el viernes fue de 19.0228, según Banxico; se publica hoy en el DOF y rige para pagos desde mañana martes. Hoy rige el de 19.0270.",
+   "Para supply chain: el FIX se queda arriba de 19 hoy y mañana; actualiza el tipo de cambio de tus costos y escalona las compras en dólares."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 8:47 CDMX el S&P/BMV IPC estaba en 69,336.95 puntos (+1.03%), con el rebote global. A las 9:07 CDMX el peso cotizaba en 19.18 por dólar (+0.18% el dólar), casi igual que el viernes (19.17), porque el dólar se fortalecía frente al euro. El FIX determinado el viernes fue de 19.0228 (−0.02%), según Banxico: se publica hoy en el DOF y rige para pagos desde mañana martes 24. Hoy rige el de 19.0270."
+   },
+   {
+    "t": "Contexto",
+    "x": "El rebote del oro (+4.3%), la plata (+6.1%) y el cobre (+4.6%) apoya a las mineras del IPC. El índice del dólar sube 0.37% a 104.19 y el mercado sigue esperando un alza de la Fed en diciembre, lo que limita la recuperación del peso."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "La agenda local es ligera hoy. Mañana martes 24 el INEGI publica la inflación de la primera quincena de noviembre, y el viernes 27 la balanza comercial de octubre."
+   }
+  ],
+  "scm": "Con el FIX en 19.03 hoy y 19.02 mañana, actualiza el tipo de cambio de tus costos de importación y escalona las compras en dólares; confirma los cruces a EE. UU. antes del miércoles 25."
+ },
+ "en": {
+  "titular": "The IPC rises 1% with the global rebound and the peso holds at 19.18; Friday's FIX was 19.0228",
+  "esencial": [
+   "At 8:47 a.m. Mexico City time the S&P/BMV IPC was up 1.03% at 69,336.95 points; at 9:07 a.m. the peso traded at 19.18 per dollar (dollar +0.18%).",
+   "Friday's FIX was 19.0228, according to Banxico; it is published today in the DOF and applies to payments from Tuesday. Today the 19.0270 one applies.",
+   "For supply chain: the FIX stays above 19 today and tomorrow; update the exchange rate in your costs and stagger dollar purchases."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "At 8:47 a.m. Mexico City time the S&P/BMV IPC stood at 69,336.95 points (+1.03%), with the global rebound. At 9:07 a.m. the peso traded at 19.18 per dollar (dollar +0.18%), almost the same as Friday (19.17), as the dollar strengthened against the euro. The FIX set on Friday was 19.0228 (−0.02%), according to Banxico: it is published today in the DOF and applies to payments from Tuesday the 24th. Today the 19.0270 one applies."
+   },
+   {
+    "t": "Context",
+    "x": "The rebound in gold (+4.3%), silver (+6.1%) and copper (+4.6%) supports IPC miners. The dollar index rises 0.37% to 104.19 and markets still expect a December Fed hike, which limits the peso’s recovery."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The local agenda is light today. On Tuesday the 24th INEGI publishes first-half November inflation, and on Friday the 27th the October trade balance."
+   }
+  ],
+  "scm": "With the FIX at 19.03 today and 19.02 tomorrow, update the exchange rate in your import costs and stagger dollar purchases; confirm US crossings before Wednesday the 25th."
+ },
+ "pt": {
+  "titular": "O IPC sobe 1% com o repique global e o peso se mantém em 19,18; o FIX de sexta foi de 19,0228",
+  "esencial": [
+   "Às 8h47 (Cidade do México) o S&P/BMV IPC subia 1,03% para 69.336,95 pontos; às 9h07 o peso era cotado a 19,18 por dólar (dólar +0,18%).",
+   "O FIX definido na sexta foi de 19,0228, segundo o Banxico; é publicado hoje no DOF e vale para pagamentos a partir de amanhã, terça. Hoje vale o de 19,0270.",
+   "Para supply chain: o FIX fica acima de 19 hoje e amanhã; atualize o câmbio dos seus custos e escalone as compras em dólares."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 8h47 (Cidade do México) o S&P/BMV IPC estava em 69.336,95 pontos (+1,03%), com o repique global. Às 9h07 o peso era cotado a 19,18 por dólar (dólar +0,18%), quase igual à sexta (19,17), porque o dólar se fortalecia frente ao euro. O FIX definido na sexta foi de 19,0228 (−0,02%), segundo o Banxico: é publicado hoje no DOF e vale para pagamentos a partir de amanhã, terça, dia 24. Hoje vale o de 19,0270."
+   },
+   {
+    "t": "Contexto",
+    "x": "O repique do ouro (+4,3%), da prata (+6,1%) e do cobre (+4,6%) apoia as mineradoras do IPC. O índice do dólar sobe 0,37% para 104,19 e o mercado segue esperando uma alta do Fed em dezembro, o que limita a recuperação do peso."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "A agenda local é leve hoje. Amanhã, terça, dia 24, o INEGI divulga a inflação da primeira quinzena de novembro, e na sexta, dia 27, a balança comercial de outubro."
+   }
+  ],
+  "scm": "Com o FIX em 19,03 hoje e 19,02 amanhã, atualize o câmbio dos custos de importação e escalone as compras em dólares; confirme as travessias para os EUA antes da quarta, dia 25."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 23 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (20 nov 2026: 19.0228)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (23 nov 2026, 09:07 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
