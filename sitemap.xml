@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-  <url><loc>https://mrsupplychain.ai/noticias/</loc><lastmod>2026-11-20T15:15:00-06:00</lastmod><changefreq>hourly</changefreq></url>
-  <url><loc>https://mrsupplychain.ai/noticias/archivo/</loc><lastmod>2026-11-20T15:15:00-06:00</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://mrsupplychain.ai/noticias/</loc><lastmod>2026-11-23T05:08:00-06:00</lastmod><changefreq>hourly</changefreq></url>
+  <url><loc>https://mrsupplychain.ai/noticias/archivo/</loc><lastmod>2026-11-23T05:08:00-06:00</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://mrsupplychain.ai/noticias/especiales/caidas-digitales-nsa-2026/</loc><lastmod>2026-11-20T18:40:00-06:00</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://mrsupplychain.ai/noticias/especiales/paro-aereo-eeuu-2026/</loc><lastmod>2026-11-16T08:35:00-06:00</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://mrsupplychain.ai/noticias/especiales/elecciones-eeuu-2026/</loc><lastmod>2026-11-05T16:00:00-06:00</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://mrsupplychain.ai/noticias/brief/2026-11-23-premercado-mexico/</loc><lastmod>2026-11-23T05:08:00-06:00</lastmod><news:news><news:publication><news:name>Noticias Mr. Supply Chain® México</news:name><news:language>es</news:language></news:publication><news:publication_date>2026-11-23T05:08:00-06:00</news:publication_date><news:title>Hoy rige un FIX de 19.0270 y el peso amanece en 19.18; el FIX del viernes fue de 19.0228</news:title></news:news></url>
+  <url><loc>https://mrsupplychain.ai/noticias/brief/2026-11-23-premercado-latam/</loc><lastmod>2026-11-23T05:08:00-06:00</lastmod><news:news><news:publication><news:name>Noticias Mr. Supply Chain® México</news:name><news:language>es</news:language></news:publication><news:publication_date>2026-11-23T05:08:00-06:00</news:publication_date><news:title>Brasil reabre tras el feriado y el real amanece más firme en 5.91; Canadá viene de perder 8% en la semana</news:title></news:news></url>
+  <url><loc>https://mrsupplychain.ai/noticias/brief/2026-11-23-premercado-global/</loc><lastmod>2026-11-23T05:08:00-06:00</lastmod><news:news><news:publication><news:name>Noticias Mr. Supply Chain® México</news:name><news:language>es</news:language></news:publication><news:publication_date>2026-11-23T05:08:00-06:00</news:publication_date><news:title>Rebote de alivio: los futuros del Nasdaq suben 3.6% y Nvidia 8.7% antes de la apertura, tras la peor semana desde 2020</news:title></news:news></url>
   <url><loc>https://mrsupplychain.ai/noticias/brief/2026-11-20-cierre-mexico/</loc><lastmod>2026-11-20T15:15:00-06:00</lastmod></url>
   <url><loc>https://mrsupplychain.ai/noticias/brief/2026-11-20-cierre-latam/</loc><lastmod>2026-11-20T15:15:00-06:00</lastmod></url>
   <url><loc>https://mrsupplychain.ai/noticias/brief/2026-11-20-cierre-global/</loc><lastmod>2026-11-20T15:15:00-06:00</lastmod></url>
