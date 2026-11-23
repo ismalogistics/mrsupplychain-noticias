@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-23-premercado-global",
+   "fecha": "2026-11-23",
+   "momento": "premercado",
+   "mercado": "global",
+   "titular_es": "Rebote de alivio: los futuros del Nasdaq suben 3.6% y Nvidia 8.7% antes de la apertura, tras la peor semana desde 2020",
+   "titular_en": "Relief rally: Nasdaq futures rise 3.6% and Nvidia 8.7% before the open, after the worst week since 2020",
+   "titular_pt": "Alívio: os futuros do Nasdaq sobem 3,6% e a Nvidia 8,7% antes da abertura, depois da pior semana desde 2020"
+  },
+  {
+   "id": "2026-11-23-premercado-latam",
+   "fecha": "2026-11-23",
+   "momento": "premercado",
+   "mercado": "latam",
+   "titular_es": "Brasil reabre tras el feriado y el real amanece más firme en 5.91; Canadá viene de perder 8% en la semana",
+   "titular_en": "Brazil reopens after the holiday and the real firms to 5.91; Canada comes off an 8% weekly loss",
+   "titular_pt": "O Brasil reabre depois do feriado e o real amanhece mais firme em 5,91; o Canadá vem de perder 8% na semana"
+  },
+  {
+   "id": "2026-11-23-premercado-mexico",
+   "fecha": "2026-11-23",
+   "momento": "premercado",
+   "mercado": "mexico",
+   "titular_es": "Hoy rige un FIX de 19.0270 y el peso amanece en 19.18; el FIX del viernes fue de 19.0228",
+   "titular_en": "A 19.0270 FIX applies today and the peso opens at 19.18; Friday’s FIX was 19.0228",
+   "titular_pt": "Hoje vale um FIX de 19,0270 e o peso amanhece em 19,18; o FIX de sexta foi de 19,0228"
+  },
+  {
    "id": "2026-11-20-cierre-global",
    "fecha": "2026-11-20",
    "momento": "cierre",
@@ -782,33 +809,6 @@
    "titular_es": "El IPC sube 0.85% y el peso se mantiene en 18.61 pese a la caída industrial",
    "titular_en": "The IPC rises 0.85% and the peso holds at 18.61 despite the industrial drop",
    "titular_pt": "O IPC sobe 0,85% e o peso se mantém a 18,61 apesar da queda industrial"
-  },
-  {
-   "id": "2026-11-11-apertura-global",
-   "fecha": "2026-11-11",
-   "momento": "apertura",
-   "mercado": "global",
-   "titular_es": "Wall Street abre al alza con el rebote de los chips: el Nasdaq sube 1.2% y CoreWeave casi 20%",
-   "titular_en": "Wall Street opens higher on a chip rebound: the Nasdaq rises 1.2% and CoreWeave nearly 20%",
-   "titular_pt": "Wall Street abre em alta com a recuperação dos chips: o Nasdaq sobe 1,2% e a CoreWeave quase 20%"
-  },
-  {
-   "id": "2026-11-11-apertura-latam",
-   "fecha": "2026-11-11",
-   "momento": "apertura",
-   "mercado": "latam",
-   "titular_es": "El Ibovespa abre con +0.8% y el real se fortalece; Colombia baja 0.5%",
-   "titular_en": "The Ibovespa opens +0.8% and the real strengthens; Colombia falls 0.5%",
-   "titular_pt": "O Ibovespa abre com +0,8% e o real se fortalece; a Colômbia cai 0,5%"
-  },
-  {
-   "id": "2026-11-11-apertura-mexico",
-   "fecha": "2026-11-11",
-   "momento": "apertura",
-   "mercado": "mexico",
-   "titular_es": "La actividad industrial cae 1.4% en septiembre; el IPC sube 0.6% y el peso opera en 18.62",
-   "titular_en": "Industrial activity falls 1.4% in September; the IPC rises 0.6% and the peso trades at 18.62",
-   "titular_pt": "A atividade industrial cai 1,4% em setembro; o IPC sobe 0,6% e o peso opera a 18,62"
   }
  ]
 }

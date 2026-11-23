@@ -1,0 +1,87 @@
+{
+ "id": "2026-11-23-premercado-latam",
+ "fecha": "2026-11-23",
+ "momento": "premercado",
+ "mercado": "latam",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Brasil reabre tras el feriado y el real amanece más firme en 5.91; Canadá viene de perder 8% en la semana",
+  "esencial": [
+   "El viernes el S&P/TSX de Canadá cerró con −2.47% (33,189.85), su nivel más bajo en seis meses, y los ETF de MSCI cayeron 3.0% en Argentina y 2.4% en Perú; Brasil no operó.",
+   "A las 5:08 CDMX el dólar bajaba a 5.91 reales (−0.70%) y 1,020 pesos chilenos (−0.23%), y estaba estable en 3,483 pesos colombianos.",
+   "Para supply chain: el rebote de los metales (oro +3.1%, cobre +0.7%) puede aliviar a Perú y Chile; sigue escalonando los pagos en la región."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El viernes el S&P/TSX de Canadá cerró en 33,189.85 (−2.47%), su nivel más bajo en seis meses, y perdió 8.1% en la semana. La B3 de Brasil no operó por el Día de la Conciencia Negra; el Ibovespa sigue en su cierre del jueves (166,376). Los ETF de MSCI cerraron con −3.0% en Argentina, −2.4% en Perú y −0.95% en Chile, y el iCOLCAP de Colombia con −0.36%."
+   },
+   {
+    "t": "Contexto",
+    "x": "A las 5:08 CDMX el dólar estaba en 5.91 reales (−0.70%), 1,020 pesos chilenos (−0.23%) y 3,483 pesos colombianos (sin cambio). El oro rebotaba 3.1%, la plata 3.4% y el cobre 0.7% a 5.52 dólares por libra, mientras el crudo caía 1.1%."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Brasil reabre tras el feriado del viernes. La región seguirá el rebote de los futuros de Wall Street; el miércoles el PCE y el PIB de EE. UU. moverán a las monedas, y la OPEP+ se reúne el domingo 29."
+   }
+  ],
+  "scm": "Escalona los pagos en reales y pesos colombianos y aprovecha el cobre debajo de 5.60 dólares por libra para cotizar cable y conectores del primer trimestre."
+ },
+ "en": {
+  "titular": "Brazil reopens after the holiday and the real firms to 5.91; Canada comes off an 8% weekly loss",
+  "esencial": [
+   "On Friday Canada's S&P/TSX closed −2.47% (33,189.85), its lowest in six months, and the MSCI ETFs fell 3.0% for Argentina and 2.4% for Peru; Brazil was closed.",
+   "At 5:08 a.m. Mexico City time the dollar fell to 5.91 reais (−0.70%) and 1,020 Chilean pesos (−0.23%), and was steady at 3,483 Colombian pesos.",
+   "For supply chain: the rebound in metals (gold +3.1%, copper +0.7%) may ease pressure on Peru and Chile; keep staggering payments in the region."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Friday Canada's S&P/TSX closed at 33,189.85 (−2.47%), its lowest in six months, and lost 8.1% for the week. Brazil's B3 was closed for Black Consciousness Day; the Ibovespa remains at its Thursday close (166,376). The MSCI ETFs closed −3.0% for Argentina, −2.4% for Peru and −0.95% for Chile, and Colombia's iCOLCAP −0.36%."
+   },
+   {
+    "t": "Context",
+    "x": "At 5:08 a.m. Mexico City time the dollar stood at 5.91 reais (−0.70%), 1,020 Chilean pesos (−0.23%) and 3,483 Colombian pesos (unchanged). Gold rebounded 3.1%, silver 3.4% and copper 0.7% to $5.52 per pound, while crude fell 1.1%."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Brazil reopens after Friday's holiday. The region will follow the rebound in Wall Street futures; on Wednesday US PCE and GDP will move currencies, and OPEC+ meets on Sunday the 29th."
+   }
+  ],
+  "scm": "Stagger payments in reais and Colombian pesos and use copper below $5.60 per pound to quote first-quarter cable and connectors."
+ },
+ "pt": {
+  "titular": "O Brasil reabre depois do feriado e o real amanhece mais firme em 5,91; o Canadá vem de perder 8% na semana",
+  "esencial": [
+   "Na sexta o S&P/TSX do Canadá fechou com −2,47% (33.189,85), o menor nível em seis meses, e os ETFs da MSCI caíram 3,0% na Argentina e 2,4% no Peru; o Brasil não operou.",
+   "Às 5h08 (Cidade do México) o dólar caía para R$ 5,91 (−0,70%) e 1.020 pesos chilenos (−0,23%), e estava estável em 3.483 pesos colombianos.",
+   "Para supply chain: o repique dos metais (ouro +3,1%, cobre +0,7%) pode aliviar Peru e Chile; siga escalonando os pagamentos na região."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na sexta o S&P/TSX do Canadá fechou em 33.189,85 (−2,47%), o menor nível em seis meses, e perdeu 8,1% na semana. A B3 não operou pelo Dia da Consciência Negra; o Ibovespa segue no fechamento de quinta (166.376). Os ETFs da MSCI fecharam com −3,0% na Argentina, −2,4% no Peru e −0,95% no Chile, e o iCOLCAP da Colômbia com −0,36%."
+   },
+   {
+    "t": "Contexto",
+    "x": "Às 5h08 (Cidade do México) o dólar estava em R$ 5,91 (−0,70%), 1.020 pesos chilenos (−0,23%) e 3.483 pesos colombianos (estável). O ouro subia 3,1%, a prata 3,4% e o cobre 0,7% para 5,52 dólares por libra, enquanto o petróleo caía 1,1%."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "O Brasil reabre depois do feriado de sexta. A região seguirá o repique dos futuros de Wall Street; na quarta o PCE e o PIB dos EUA vão mover as moedas, e a OPEP+ se reúne no domingo, dia 29."
+   }
+  ],
+  "scm": "Escalone os pagamentos em reais e pesos colombianos e aproveite o cobre abaixo de 5,60 dólares por libra para cotar cabos e conectores do primeiro trimestre."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (23 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

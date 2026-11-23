@@ -1,217 +1,189 @@
 {
- "actualizado": "2026-11-20T21:20:21Z",
- "momento": "cierre",
+ "actualizado": "2026-11-23T11:10:28Z",
+ "momento": "premercado",
  "briefs": {
   "global": {
-   "id": "2026-11-20-cierre-global",
-   "fecha": "2026-11-20",
-   "momento": "cierre",
+   "id": "2026-11-23-premercado-global",
+   "fecha": "2026-11-23",
+   "momento": "premercado",
    "mercado": "global",
-   "hora": "15:15 CDMX",
-   "fin_de_semana": true,
+   "hora": "05:08 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "Semana negra para la IA: el Nasdaq se desploma 5.3%, Nvidia 14% y el S&P 500 y el Dow entran en corrección",
+    "titular": "Rebote de alivio: los futuros del Nasdaq suben 3.6% y Nvidia 8.7% antes de la apertura, tras la peor semana desde 2020",
     "esencial": [
-     "El viernes el Nasdaq cerró con −5.28%, el S&P 500 con −3.70% (6,910.39) y el Dow con −1.93%; el S&P 500 y el Dow ya están más de 10% abajo de sus máximos, según Reuters.",
-     "En la semana el S&P 500 perdió 8.6% y el Nasdaq 10.0%, su peor semana desde abril de 2025; Nvidia cayó 14.0% el viernes y 22.9% en la semana, y el VIX cerró cerca de 40.",
-     "Para el fin de semana: el lunes rige un FIX de 19.0270, el mercado da casi por segura un alza de la Fed en diciembre y el jueves no opera Wall Street; deja confirmados embarques y cortes antes del miércoles."
+     "A las 4:58 CDMX los futuros del Nasdaq 100 subían 3.55%, los del S&P 500 2.86% y los del Dow 2.07%; en preapertura Nvidia ganaba 8.7% y Anthropic 4.3%, según Reuters.",
+     "El viernes el S&P 500 y el Dow confirmaron una corrección; el mercado sigue dando 96% de probabilidad a un alza de la Fed en diciembre, según la herramienta FedWatch de CME.",
+     "Para supply chain: el rebote no cambia el fondo; el dólar sigue fuerte, el crudo baja 1.1% y los ataques en Ormuz están en su nivel más alto, según CNN: mantén colchón en embarques del Golfo."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "Wall Street cerró con fuertes caídas: el S&P 500 terminó en 6,910.39 (−3.70%), el Nasdaq en 22,617.73 (−5.28%) y el Dow en 48,147.33 (−1.93%); el VIX subió 40.5% a 39.97. El S&P 500 y el Dow confirmaron una corrección (más de 10% abajo de sus máximos), el S&P 500 sumó siete sesiones a la baja, su racha más larga desde febrero de 2020, y el Nasdaq ya está en negativo en el año, según Reuters. El índice de semiconductores cayó 10.7%: Nvidia −14.0% (125.53 dólares), Micron −13.9%, AMD −13.3%, Broadcom −12.2% y TSMC −9.3%. Anthropic cerró en 88.91 dólares (−8.5%), aún arriba de su precio de 83, e Intuit cayó 12.8% tras recortar su pronóstico. En la semana el S&P 500 perdió 8.6%, el Nasdaq 10.0% y el Dow 8.0%."
+      "t": "Lo que pasó desde el cierre",
+      "x": "El viernes Wall Street cerró su peor semana desde abril de 2025: el S&P 500 perdió 8.6% y el Nasdaq 10.0%, y el S&P 500 y el Dow confirmaron una corrección; el Nasdaq 100 quedó 19.8% abajo de su máximo, a un paso de un mercado bajista, según Reuters. El fin de semana, el presidente Trump volvió a pedir que Jensen Huang regrese a la dirección de Nvidia, y MT Newswires informó que la investigación a Nvidia en California incluye posibles violaciones a leyes penales del estado. En Medio Oriente, CNN reportó que los ataques iraníes en el estrecho de Ormuz están en su nivel más alto desde que empezó el conflicto, y Teherán dijo que el estrecho será seguro si se cumplen sus demandas, según ABC News."
      },
      {
-      "t": "Por qué",
-      "x": "Ni el reporte de Nvidia ni la salida a bolsa de Anthropic calmaron las dudas sobre el retorno del gasto en IA y en centros de datos, según Reuters y CBS News; a eso se suman controles más estrictos a la exportación de chips. La gobernadora de la Fed Lisa Cook dijo que la tasa no es suficientemente alta para la inflación y el mercado da casi por segura un alza de 25 puntos base en diciembre, según la herramienta FedWatch de CME. El presidente Trump dijo que le gustaría ver de regreso a Jensen Huang y criticó a la nueva dirección de Nvidia. El dinero se movió a sectores defensivos: General Mills subió 4.4% y Walmart 1.5%."
+      "t": "Asia, Europa y futuros",
+      "x": "Japón no operó por feriado. El KOSPI de Corea cayó 3.31% (4,708.54), mientras Taiwán subió 2.16%, Hang Seng −0.12% y Shanghái +0.15%. A las 4:53 CDMX Europa subía: Euro Stoxx 50 +0.93%, DAX +0.91%, CAC 40 +0.72% y FTSE 100 +0.56%. A las 4:58 CDMX los futuros del Nasdaq 100 subían 3.55%, los del S&P 500 2.86% y los del Dow 2.07%; el VIX estaba en 29.8. En preapertura, Nvidia ganaba 8.7%, Micron 7%, AMD 5.8%, Broadcom 5.7% y Anthropic 4.3%. El índice del dólar estaba en 103.88 y el euro en 1.0967. El WTI caía 1.1% a 82.50 dólares y el Brent de enero 1.4% a 91.30; el oro rebotaba 3.1% a 3,625, la plata 3.4% y el cobre 0.7% a 5.52 dólares por libra."
      },
      {
-      "t": "Materias primas",
-      "x": "El oro cerró en 3,525 dólares (−4.4%) y perdió 9.3% en la semana, la peor desde marzo; la plata cayó 7.8% y el cobre 3.0% a 5.47 dólares por libra (−10% en la semana). El WTI subió 1.8% a 83.96 dólares y el Brent de enero 1.0% a 92.90, pero en la semana bajaron 5.2% y 3.1%; el diésel en futuros terminó en 3.87 dólares por galón. El Treasury a 10 años cerró en 4.91% y el bitcoin cayó 6.0% a 58,200 dólares, su séptima semana a la baja."
-     },
-     {
-      "t": "La próxima semana",
-      "x": "Semana corta por el Día de Acción de Gracias. Lunes 23: índices PMI preliminares de noviembre en el mundo, feriado en Japón y resultados de Hewlett Packard Enterprise. Martes 24: Dell y HP reportan e Ifo de Alemania. Miércoles 25: en EE. UU. salen el índice PCE de octubre, el PIB del tercer trimestre, los bienes duraderos y las solicitudes de subsidio por desempleo, además del Libro Beige de la Fed. Jueves 26: Wall Street no opera, el Banco de Corea decide su tasa y salen las minutas del BCE. Viernes 27: Wall Street tiene sesión corta. La OPEP+ se reúne el domingo 29."
+      "t": "Qué se espera hoy",
+      "x": "A las 8:45 CDMX salen los índices PMI preliminares de noviembre de S&P Global en EE. UU.; también hay PMI en Europa. Después del cierre reportan Hewlett Packard Enterprise y Zoom. Es una semana corta: el miércoles salen el PCE y el PIB de EE. UU., y el jueves no opera Wall Street por el Día de Acción de Gracias."
      }
     ],
-    "scm": "Para el fin de semana: deja confirmados recolecciones, cortes de embarque y citas en aduana antes del miércoles 25, porque el jueves no opera EE. UU. y el viernes es día de compras; negocia recargos de diciembre con el diésel en 3.87; y en cómputo y memoria no adelantes compras ni firmes precios largos sin cláusula de ajuste."
+    "scm": "El rebote no cambia el fondo: con 96% de probabilidad de un alza de la Fed en diciembre, el dólar seguirá fuerte. Confirma esta semana recolecciones y cortes de embarque antes del miércoles 25 y mantén colchón de días en embarques que crucen el Golfo Pérsico."
    },
    "en": {
-    "titular": "A dark week for AI: the Nasdaq plunges 5.3%, Nvidia 14% and the S&P 500 and Dow enter correction",
+    "titular": "Relief rally: Nasdaq futures rise 3.6% and Nvidia 8.7% before the open, after the worst week since 2020",
     "esencial": [
-     "On Friday the Nasdaq closed −5.28%, the S&P 500 −3.70% (6,910.39) and the Dow −1.93%; the S&P 500 and the Dow are now more than 10% below their highs, according to Reuters.",
-     "For the week the S&P 500 lost 8.6% and the Nasdaq 10.0%, their worst week since April 2025; Nvidia fell 14.0% on Friday and 22.9% for the week, and the VIX closed near 40.",
-     "For the weekend: a 19.0270 FIX applies on Monday, markets see a December Fed hike as nearly certain and Wall Street is closed on Thursday; confirm shipments and cutoffs before Wednesday."
+     "At 5:58 a.m. ET Nasdaq 100 futures were up 3.55%, S&P 500 futures 2.86% and Dow futures 2.07%; in premarket trading Nvidia gained 8.7% and Anthropic 4.3%, according to Reuters.",
+     "On Friday the S&P 500 and the Dow confirmed a correction; markets still see a 96% chance of a December Fed hike, according to CME's FedWatch tool.",
+     "For supply chain: the rebound does not change the backdrop; the dollar stays strong, crude falls 1.1% and attacks in Hormuz are at their highest, according to CNN: keep buffers on Gulf shipments."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "Wall Street closed sharply lower: the S&P 500 ended at 6,910.39 (−3.70%), the Nasdaq at 22,617.73 (−5.28%) and the Dow at 48,147.33 (−1.93%); the VIX jumped 40.5% to 39.97. The S&P 500 and the Dow confirmed a correction (more than 10% below their highs), the S&P 500 posted seven straight losses, its longest streak since February 2020, and the Nasdaq is now negative for the year, according to Reuters. The semiconductor index fell 10.7%: Nvidia −14.0% ($125.53), Micron −13.9%, AMD −13.3%, Broadcom −12.2% and TSMC −9.3%. Anthropic closed at $88.91 (−8.5%), still above its $83 price, and Intuit fell 12.8% after cutting its forecast. For the week the S&P 500 lost 8.6%, the Nasdaq 10.0% and the Dow 8.0%."
+      "t": "What happened since the close",
+      "x": "On Friday Wall Street ended its worst week since April 2025: the S&P 500 lost 8.6% and the Nasdaq 10.0%, and the S&P 500 and the Dow confirmed a correction; the Nasdaq 100 ended 19.8% below its high, one step from a bear market, according to Reuters. Over the weekend, President Trump again called for Jensen Huang to return as Nvidia's CEO, and MT Newswires reported that California's investigation into Nvidia includes potential violations of state criminal law. In the Middle East, CNN reported that Iranian attacks in the Strait of Hormuz are at their highest level since the conflict began, and Tehran said the strait will be safe if its demands are met, according to ABC News."
      },
      {
-      "t": "Why",
-      "x": "Neither Nvidia's report nor Anthropic's IPO eased doubts about the return on AI and data center spending, according to Reuters and CBS News; tighter chip export controls add to that. Fed Governor Lisa Cook said the policy rate is not high enough for inflation and markets see a 25 basis point hike in December as nearly certain, according to CME's FedWatch tool. President Trump said he would like to see Jensen Huang back and criticized Nvidia's new leadership. Money moved into defensive sectors: General Mills rose 4.4% and Walmart 1.5%."
+      "t": "Asia, Europe and futures",
+      "x": "Japan was closed for a holiday. Korea's KOSPI fell 3.31% (4,708.54), while Taiwan rose 2.16%, Hang Seng −0.12% and Shanghai +0.15%. At 5:53 a.m. ET Europe was higher: Euro Stoxx 50 +0.93%, DAX +0.91%, CAC 40 +0.72% and FTSE 100 +0.56%. At 5:58 a.m. ET Nasdaq 100 futures were up 3.55%, S&P 500 futures 2.86% and Dow futures 2.07%; the VIX stood at 29.8. In premarket trading, Nvidia gained 8.7%, Micron 7%, AMD 5.8%, Broadcom 5.7% and Anthropic 4.3%. The dollar index stood at 103.88 and the euro at 1.0967. WTI fell 1.1% to $82.50 and January Brent 1.4% to $91.30; gold rebounded 3.1% to $3,625, silver 3.4% and copper 0.7% to $5.52 per pound."
      },
      {
-      "t": "Commodities",
-      "x": "Gold closed at $3,525 (−4.4%) and lost 9.3% for the week, its worst since March; silver fell 7.8% and copper 3.0% to $5.47 per pound (−10% for the week). WTI rose 1.8% to $83.96 and January Brent 1.0% to $92.90, but they fell 5.2% and 3.1% for the week; diesel futures ended at $3.87 a gallon. The 10-year Treasury yield closed at 4.91% and bitcoin fell 6.0% to $58,200, its seventh weekly loss."
-     },
-     {
-      "t": "Next week",
-      "x": "A short week for Thanksgiving. Monday 23: global November flash PMIs, a holiday in Japan and Hewlett Packard Enterprise results. Tuesday 24: Dell and HP report and Germany’s Ifo. Wednesday 25: the US releases October PCE, third-quarter GDP, durable goods and jobless claims, plus the Fed’s Beige Book. Thursday 26: Wall Street is closed, the Bank of Korea decides on rates and the ECB minutes come out. Friday 27: Wall Street has a shortened session. OPEC+ meets on Sunday the 29th."
+      "t": "What to expect today",
+      "x": "At 9:45 a.m. ET S&P Global's flash November PMIs come out in the US; Europe also releases PMIs. After the close Hewlett Packard Enterprise and Zoom report. It is a short week: US PCE and GDP come out on Wednesday, and Wall Street is closed on Thursday for Thanksgiving."
      }
     ],
-    "scm": "For the weekend: confirm pickups, shipping cutoffs and customs appointments before Wednesday the 25th, because the US is closed on Thursday and Friday is a shopping day; negotiate December surcharges with diesel at $3.87; and in compute and memory, don't pull purchases forward or sign long-term prices without an adjustment clause."
+    "scm": "The rebound does not change the backdrop: with a 96% chance of a December Fed hike, the dollar will stay strong. Confirm pickups and shipping cutoffs this week before Wednesday the 25th and keep buffer days on shipments crossing the Persian Gulf."
    },
    "pt": {
-    "titular": "Semana negra para a IA: o Nasdaq despenca 5,3%, a Nvidia 14% e o S&P 500 e o Dow entram em correção",
+    "titular": "Alívio: os futuros do Nasdaq sobem 3,6% e a Nvidia 8,7% antes da abertura, depois da pior semana desde 2020",
     "esencial": [
-     "Na sexta o Nasdaq fechou com −5,28%, o S&P 500 com −3,70% (6.910,39) e o Dow com −1,93%; o S&P 500 e o Dow já estão mais de 10% abaixo das máximas, segundo a Reuters.",
-     "Na semana o S&P 500 perdeu 8,6% e o Nasdaq 10,0%, a pior semana desde abril de 2025; a Nvidia caiu 14,0% na sexta e 22,9% na semana, e o VIX fechou perto de 40.",
-     "Para o fim de semana: na segunda vale um FIX de 19,0270, o mercado dá como quase certa uma alta do Fed em dezembro e na quinta Wall Street não opera; deixe confirmados embarques e prazos antes de quarta."
+     "Às 4h58 (Cidade do México) os futuros do Nasdaq 100 subiam 3,55%, os do S&P 500 2,86% e os do Dow 2,07%; no pré-mercado a Nvidia ganhava 8,7% e a Anthropic 4,3%, segundo a Reuters.",
+     "Na sexta o S&P 500 e o Dow confirmaram uma correção; o mercado segue dando 96% de probabilidade a uma alta do Fed em dezembro, segundo a ferramenta FedWatch da CME.",
+     "Para supply chain: o repique não muda o pano de fundo; o dólar segue forte, o petróleo cai 1,1% e os ataques em Ormuz estão no nível mais alto, segundo a CNN: mantenha folga nos embarques do Golfo."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "Wall Street fechou com fortes quedas: o S&P 500 terminou em 6.910,39 (−3,70%), o Nasdaq em 22.617,73 (−5,28%) e o Dow em 48.147,33 (−1,93%); o VIX subiu 40,5% para 39,97. O S&P 500 e o Dow confirmaram uma correção (mais de 10% abaixo das máximas), o S&P 500 somou sete sessões em queda, a sequência mais longa desde fevereiro de 2020, e o Nasdaq já está negativo no ano, segundo a Reuters. O índice de semicondutores caiu 10,7%: Nvidia −14,0% (125,53 dólares), Micron −13,9%, AMD −13,3%, Broadcom −12,2% e TSMC −9,3%. A Anthropic fechou a 88,91 dólares (−8,5%), ainda acima do preço de 83, e a Intuit caiu 12,8% depois de cortar a previsão. Na semana o S&P 500 perdeu 8,6%, o Nasdaq 10,0% e o Dow 8,0%."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "Na sexta Wall Street fechou a pior semana desde abril de 2025: o S&P 500 perdeu 8,6% e o Nasdaq 10,0%, e o S&P 500 e o Dow confirmaram uma correção; o Nasdaq 100 ficou 19,8% abaixo da máxima, a um passo de um mercado de baixa, segundo a Reuters. No fim de semana, o presidente Trump voltou a pedir que Jensen Huang retorne ao comando da Nvidia, e a MT Newswires informou que a investigação sobre a Nvidia na Califórnia inclui possíveis violações de leis penais do estado. No Oriente Médio, a CNN informou que os ataques iranianos no estreito de Ormuz estão no nível mais alto desde o início do conflito, e Teerã disse que o estreito será seguro se suas demandas forem atendidas, segundo a ABC News."
      },
      {
-      "t": "Por quê",
-      "x": "Nem o resultado da Nvidia nem o IPO da Anthropic acalmaram as dúvidas sobre o retorno dos gastos em IA e em data centers, segundo a Reuters e a CBS News; a isso se somam controles mais rígidos à exportação de chips. A diretora do Fed Lisa Cook disse que a taxa não é alta o suficiente para a inflação e o mercado dá como quase certa uma alta de 25 pontos-base em dezembro, segundo a ferramenta FedWatch da CME. O presidente Trump disse que gostaria de ver Jensen Huang de volta e criticou a nova direção da Nvidia. O dinheiro migrou para setores defensivos: a General Mills subiu 4,4% e o Walmart 1,5%."
+      "t": "Ásia, Europa e futuros",
+      "x": "O Japão não operou por feriado. O KOSPI da Coreia caiu 3,31% (4.708,54), enquanto Taiwan subiu 2,16%, Hang Seng −0,12% e Xangai +0,15%. Às 4h53 (Cidade do México) a Europa subia: Euro Stoxx 50 +0,93%, DAX +0,91%, CAC 40 +0,72% e FTSE 100 +0,56%. Às 4h58 os futuros do Nasdaq 100 subiam 3,55%, os do S&P 500 2,86% e os do Dow 2,07%; o VIX estava em 29,8. No pré-mercado, a Nvidia ganhava 8,7%, a Micron 7%, a AMD 5,8%, a Broadcom 5,7% e a Anthropic 4,3%. O índice do dólar estava em 103,88 e o euro em 1,0967. O WTI caía 1,1% para 82,50 dólares e o Brent de janeiro 1,4% para 91,30; o ouro subia 3,1% para 3.625, a prata 3,4% e o cobre 0,7% para 5,52 dólares por libra."
      },
      {
-      "t": "Matérias-primas",
-      "x": "O ouro fechou a 3.525 dólares (−4,4%) e perdeu 9,3% na semana, a pior desde março; a prata caiu 7,8% e o cobre 3,0% para 5,47 dólares por libra (−10% na semana). O WTI subiu 1,8% para 83,96 dólares e o Brent de janeiro 1,0% para 92,90, mas na semana caíram 5,2% e 3,1%; o diesel nos futuros terminou a 3,87 dólares por galão. O rendimento do Treasury de 10 anos fechou em 4,91% e o bitcoin caiu 6,0% para 58.200 dólares, a sétima semana de queda."
-     },
-     {
-      "t": "A próxima semana",
-      "x": "Semana curta pelo Dia de Ação de Graças. Segunda, 23: PMIs preliminares de novembro no mundo, feriado no Japão e resultado da Hewlett Packard Enterprise. Terça, 24: Dell e HP divulgam resultados e sai o Ifo da Alemanha. Quarta, 25: nos EUA saem o índice PCE de outubro, o PIB do terceiro trimestre, os bens duráveis e os pedidos de seguro-desemprego, além do Livro Bege do Fed. Quinta, 26: Wall Street não opera, o Banco da Coreia decide os juros e saem as atas do BCE. Sexta, 27: Wall Street tem sessão reduzida. A OPEP+ se reúne no domingo, dia 29."
+      "t": "O que se espera hoje",
+      "x": "Às 8h45 (Cidade do México) saem os PMIs preliminares de novembro da S&P Global nos EUA; a Europa também divulga PMIs. Depois do fechamento divulgam resultados a Hewlett Packard Enterprise e a Zoom. É uma semana curta: na quarta saem o PCE e o PIB dos EUA, e na quinta Wall Street não opera pelo Dia de Ação de Graças."
      }
     ],
-    "scm": "Para o fim de semana: deixe confirmados coletas, prazos de embarque e agendamentos na alfândega antes da quarta, dia 25, porque na quinta os EUA não operam e a sexta é dia de compras; negocie as sobretaxas de dezembro com o diesel a 3,87; e em computação e memória não antecipe compras nem feche preços longos sem cláusula de ajuste."
+    "scm": "O repique não muda o pano de fundo: com 96% de probabilidade de uma alta do Fed em dezembro, o dólar seguirá forte. Confirme nesta semana coletas e prazos de embarque antes da quarta, dia 25, e mantenha folga de dias nos embarques que cruzem o Golfo Pérsico."
    },
    "fuentes": [
     {
-     "t": "Reuters: Wall Street cierra con fuertes caídas por la venta en IA; el S&P 500 y el Dow entran en corrección (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+     "t": "Reuters: los futuros de Wall Street rebotan con las acciones de IA tras una semana difícil (23 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-rebound-rough-075444520.html"
     },
     {
-     "t": "CBS News: las bolsas entran en corrección por la caída de la tecnología (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-enter-correction-territory-driven-210818388.html"
+     "t": "Yahoo Finance: los futuros del Dow, S&P 500 y Nasdaq suben en un rebote de alivio (23 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-091118583.html"
     },
     {
-     "t": "Yahoo Finance: Trump critica a la nueva dirección de Nvidia (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/article/trump-critiques-jensen-huangs-replacement-as-he-wades-deeper-into-nvidia-turmoil-210729338.html"
+     "t": "Straits Daily Brief: estrecho de Ormuz, 22 de noviembre de 2026",
+     "u": "https://straits.live/briefs/2026-11-22"
     },
     {
-     "t": "IBTimes: el oro cae casi 9% en su peor semana desde marzo (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/commodities/articles/gold-plunges-nearly-9-worst-172101705.html"
+     "t": "ABC News: Teherán dice que el estrecho de Ormuz será seguro si se cumplen sus demandas (22 nov 2026)",
+     "u": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648"
     },
     {
      "t": "Newsquawk: calendario económico semanal, 23 a 27 de noviembre de 2026",
      "u": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---23rd-27th-november-2026"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 20 nov 2026)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (23 nov 2026, 05:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-20-cierre-latam",
-   "fecha": "2026-11-20",
-   "momento": "cierre",
+   "id": "2026-11-23-premercado-latam",
+   "fecha": "2026-11-23",
+   "momento": "premercado",
    "mercado": "latam",
-   "hora": "15:15 CDMX",
-   "fin_de_semana": true,
+   "hora": "05:08 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "Canadá pierde 8% en la semana y el peso colombiano se debilita 2.2%; Brasil no operó",
+    "titular": "Brasil reabre tras el feriado y el real amanece más firme en 5.91; Canadá viene de perder 8% en la semana",
     "esencial": [
-     "El S&P/TSX de Canadá cerró con −2.47% en 33,189.85, su nivel más bajo en seis meses, y perdió 8.1% en la semana; la bolsa de Brasil no operó por el Día de la Conciencia Negra.",
-     "Los ETF de MSCI cayeron 3.3% en Brasil, 3.0% en Argentina, 2.8% en Perú y 1.0% en Chile; el dólar subió a 3,497 pesos colombianos (+2.2%).",
-     "Para el fin de semana: escalona los pagos en pesos colombianos y chilenos y aprovecha el cobre en 5.47 dólares (−10% en la semana) para cotizar cable."
+     "El viernes el S&P/TSX de Canadá cerró con −2.47% (33,189.85), su nivel más bajo en seis meses, y los ETF de MSCI cayeron 3.0% en Argentina y 2.4% en Perú; Brasil no operó.",
+     "A las 5:08 CDMX el dólar bajaba a 5.91 reales (−0.70%) y 1,020 pesos chilenos (−0.23%), y estaba estable en 3,483 pesos colombianos.",
+     "Para supply chain: el rebote de los metales (oro +3.1%, cobre +0.7%) puede aliviar a Perú y Chile; sigue escalonando los pagos en la región."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "El S&P/TSX de Canadá cerró en 33,189.85 (−2.47%), su nivel más bajo en seis meses, y perdió 8.1% en la semana. La B3 de Brasil no operó por el Día de la Conciencia Negra. Los ETF de MSCI cayeron 3.26% en Brasil, 2.97% en Argentina, 2.76% en Perú y 1.01% en Chile."
+      "t": "Lo que pasó desde el cierre",
+      "x": "El viernes el S&P/TSX de Canadá cerró en 33,189.85 (−2.47%), su nivel más bajo en seis meses, y perdió 8.1% en la semana. La B3 de Brasil no operó por el Día de la Conciencia Negra; el Ibovespa sigue en su cierre del jueves (166,376). Los ETF de MSCI cerraron con −3.0% en Argentina, −2.4% en Perú y −0.95% en Chile, y el iCOLCAP de Colombia con −0.36%."
      },
      {
-      "t": "Por qué",
-      "x": "La venta global en tecnología y la caída de los metales (oro −4.4%, plata −7.8%, cobre −3.0%) pegaron a las bolsas de la región, en especial a Perú y Chile; la expectativa de un alza de la Fed fortalece al dólar. El crudo cerró al alza (WTI +1.8%), pero bajó en la semana, lo que pesa sobre Colombia. La región seguirá a Wall Street y a la Fed."
+      "t": "Contexto",
+      "x": "A las 5:08 CDMX el dólar estaba en 5.91 reales (−0.70%), 1,020 pesos chilenos (−0.23%) y 3,483 pesos colombianos (sin cambio). El oro rebotaba 3.1%, la plata 3.4% y el cobre 0.7% a 5.52 dólares por libra, mientras el crudo caía 1.1%."
      },
      {
-      "t": "Monedas",
-      "x": "El dólar terminó en 5.95 reales (+0.74%), 1,022 pesos chilenos (+0.64%), 3,497 pesos colombianos (+2.20%), 3.45 soles (+0.21%), 1,580 pesos argentinos (+0.96%) y 1.435 dólares canadienses (+0.10%)."
-     },
-     {
-      "t": "La próxima semana",
-      "x": "Miércoles 25: el PCE y el PIB de EE. UU. mueven a las monedas de la región. Jueves 26: Wall Street no opera. Domingo 29: se reúne la OPEP+, clave para Colombia y para el costo del combustible."
+      "t": "Qué se espera hoy",
+      "x": "Brasil reabre tras el feriado del viernes. La región seguirá el rebote de los futuros de Wall Street; el miércoles el PCE y el PIB de EE. UU. moverán a las monedas, y la OPEP+ se reúne el domingo 29."
      }
     ],
-    "scm": "Para el fin de semana: escalona los pagos en pesos colombianos y chilenos, que se debilitaron, y cotiza cable y conectores del primer trimestre con el cobre en 5.47 dólares por libra."
+    "scm": "Escalona los pagos en reales y pesos colombianos y aprovecha el cobre debajo de 5.60 dólares por libra para cotizar cable y conectores del primer trimestre."
    },
    "en": {
-    "titular": "Canada loses 8% for the week and the Colombian peso weakens 2.2%; Brazil was closed",
+    "titular": "Brazil reopens after the holiday and the real firms to 5.91; Canada comes off an 8% weekly loss",
     "esencial": [
-     "Canada's S&P/TSX closed −2.47% at 33,189.85, its lowest in six months, and lost 8.1% for the week; Brazil's stock market was closed for Black Consciousness Day.",
-     "The MSCI ETFs fell 3.3% for Brazil, 3.0% for Argentina, 2.8% for Peru and 1.0% for Chile; the dollar rose to 3,497 Colombian pesos (+2.2%).",
-     "For the weekend: stagger payments in Colombian and Chilean pesos and use copper at $5.47 (−10% for the week) to quote cable."
+     "On Friday Canada's S&P/TSX closed −2.47% (33,189.85), its lowest in six months, and the MSCI ETFs fell 3.0% for Argentina and 2.4% for Peru; Brazil was closed.",
+     "At 5:08 a.m. Mexico City time the dollar fell to 5.91 reais (−0.70%) and 1,020 Chilean pesos (−0.23%), and was steady at 3,483 Colombian pesos.",
+     "For supply chain: the rebound in metals (gold +3.1%, copper +0.7%) may ease pressure on Peru and Chile; keep staggering payments in the region."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "Canada's S&P/TSX closed at 33,189.85 (−2.47%), its lowest in six months, and lost 8.1% for the week. Brazil's B3 was closed for Black Consciousness Day. The MSCI ETFs fell 3.26% for Brazil, 2.97% for Argentina, 2.76% for Peru and 1.01% for Chile."
+      "t": "What happened since the close",
+      "x": "On Friday Canada's S&P/TSX closed at 33,189.85 (−2.47%), its lowest in six months, and lost 8.1% for the week. Brazil's B3 was closed for Black Consciousness Day; the Ibovespa remains at its Thursday close (166,376). The MSCI ETFs closed −3.0% for Argentina, −2.4% for Peru and −0.95% for Chile, and Colombia's iCOLCAP −0.36%."
      },
      {
-      "t": "Why",
-      "x": "The global tech sell-off and the drop in metals (gold −4.4%, silver −7.8%, copper −3.0%) hit the region’s stock markets, especially Peru and Chile; expectations of a Fed hike strengthen the dollar. Crude closed higher (WTI +1.8%) but fell for the week, which weighs on Colombia. The region will follow Wall Street and the Fed."
+      "t": "Context",
+      "x": "At 5:08 a.m. Mexico City time the dollar stood at 5.91 reais (−0.70%), 1,020 Chilean pesos (−0.23%) and 3,483 Colombian pesos (unchanged). Gold rebounded 3.1%, silver 3.4% and copper 0.7% to $5.52 per pound, while crude fell 1.1%."
      },
      {
-      "t": "Currencies",
-      "x": "The dollar ended at 5.95 reais (+0.74%), 1,022 Chilean pesos (+0.64%), 3,497 Colombian pesos (+2.20%), 3.45 soles (+0.21%), 1,580 Argentine pesos (+0.96%) and 1.435 Canadian dollars (+0.10%)."
-     },
-     {
-      "t": "Next week",
-      "x": "Wednesday 25: US PCE and GDP move the region’s currencies. Thursday 26: Wall Street is closed. Sunday 29: OPEC+ meets, key for Colombia and for fuel costs."
+      "t": "What to expect today",
+      "x": "Brazil reopens after Friday's holiday. The region will follow the rebound in Wall Street futures; on Wednesday US PCE and GDP will move currencies, and OPEC+ meets on Sunday the 29th."
      }
     ],
-    "scm": "For the weekend: stagger payments in Colombian and Chilean pesos, which weakened, and quote first-quarter cable and connectors with copper at $5.47 per pound."
+    "scm": "Stagger payments in reais and Colombian pesos and use copper below $5.60 per pound to quote first-quarter cable and connectors."
    },
    "pt": {
-    "titular": "O Canadá perde 8% na semana e o peso colombiano se enfraquece 2,2%; o Brasil não operou",
+    "titular": "O Brasil reabre depois do feriado e o real amanhece mais firme em 5,91; o Canadá vem de perder 8% na semana",
     "esencial": [
-     "O S&P/TSX do Canadá fechou com −2,47% em 33.189,85, o menor nível em seis meses, e perdeu 8,1% na semana; a bolsa do Brasil não operou pelo Dia da Consciência Negra.",
-     "Os ETFs da MSCI caíram 3,3% no Brasil, 3,0% na Argentina, 2,8% no Peru e 1,0% no Chile; o dólar subiu para 3.497 pesos colombianos (+2,2%).",
-     "Para o fim de semana: escalone os pagamentos em pesos colombianos e chilenos e aproveite o cobre a 5,47 dólares (−10% na semana) para cotar cabos."
+     "Na sexta o S&P/TSX do Canadá fechou com −2,47% (33.189,85), o menor nível em seis meses, e os ETFs da MSCI caíram 3,0% na Argentina e 2,4% no Peru; o Brasil não operou.",
+     "Às 5h08 (Cidade do México) o dólar caía para R$ 5,91 (−0,70%) e 1.020 pesos chilenos (−0,23%), e estava estável em 3.483 pesos colombianos.",
+     "Para supply chain: o repique dos metais (ouro +3,1%, cobre +0,7%) pode aliviar Peru e Chile; siga escalonando os pagamentos na região."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "O S&P/TSX do Canadá fechou em 33.189,85 (−2,47%), o menor nível em seis meses, e perdeu 8,1% na semana. A B3 não operou pelo Dia da Consciência Negra. Os ETFs da MSCI caíram 3,26% no Brasil, 2,97% na Argentina, 2,76% no Peru e 1,01% no Chile."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "Na sexta o S&P/TSX do Canadá fechou em 33.189,85 (−2,47%), o menor nível em seis meses, e perdeu 8,1% na semana. A B3 não operou pelo Dia da Consciência Negra; o Ibovespa segue no fechamento de quinta (166.376). Os ETFs da MSCI fecharam com −3,0% na Argentina, −2,4% no Peru e −0,95% no Chile, e o iCOLCAP da Colômbia com −0,36%."
      },
      {
-      "t": "Por quê",
-      "x": "A venda global em tecnologia e a queda dos metais (ouro −4,4%, prata −7,8%, cobre −3,0%) atingiram as bolsas da região, especialmente Peru e Chile; a expectativa de alta do Fed fortalece o dólar. O petróleo fechou em alta (WTI +1,8%), mas caiu na semana, o que pesa sobre a Colômbia. A região seguirá Wall Street e o Fed."
+      "t": "Contexto",
+      "x": "Às 5h08 (Cidade do México) o dólar estava em R$ 5,91 (−0,70%), 1.020 pesos chilenos (−0,23%) e 3.483 pesos colombianos (estável). O ouro subia 3,1%, a prata 3,4% e o cobre 0,7% para 5,52 dólares por libra, enquanto o petróleo caía 1,1%."
      },
      {
-      "t": "Moedas",
-      "x": "O dólar terminou em R$ 5,95 (+0,74%), 1.022 pesos chilenos (+0,64%), 3.497 pesos colombianos (+2,20%), 3,45 soles (+0,21%), 1.580 pesos argentinos (+0,96%) e 1,435 dólar canadense (+0,10%)."
-     },
-     {
-      "t": "A próxima semana",
-      "x": "Quarta, 25: o PCE e o PIB dos EUA movem as moedas da região. Quinta, 26: Wall Street não opera. Domingo, 29: a OPEP+ se reúne, chave para a Colômbia e para o custo do combustível."
+      "t": "O que se espera hoje",
+      "x": "O Brasil reabre depois do feriado de sexta. A região seguirá o repique dos futuros de Wall Street; na quarta o PCE e o PIB dos EUA vão mover as moedas, e a OPEP+ se reúne no domingo, dia 29."
      }
     ],
-    "scm": "Para o fim de semana: escalone os pagamentos em pesos colombianos e chilenos, que se enfraqueceram, e cote cabos e conectores do primeiro trimestre com o cobre a 5,47 dólares por libra."
+    "scm": "Escalone os pagamentos em reais e pesos colombianos e aproveite o cobre abaixo de 5,60 dólares por libra para cotar cabos e conectores do primeiro trimestre."
    },
    "fuentes": [
     {
-     "t": "MT Newswires: el S&P/TSX cae a su nivel más bajo en seis meses (20 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/world-indices/articles/p-tsx-composite-index-falls-153624477.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 20 nov 2026)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (23 nov 2026, 05:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
@@ -221,104 +193,88 @@
    ]
   },
   "mexico": {
-   "id": "2026-11-20-cierre-mexico",
-   "fecha": "2026-11-20",
-   "momento": "cierre",
+   "id": "2026-11-23-premercado-mexico",
+   "fecha": "2026-11-23",
+   "momento": "premercado",
    "mercado": "mexico",
-   "hora": "15:15 CDMX",
-   "fin_de_semana": true,
+   "hora": "05:08 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "El peso cierra la semana en 19.17 y el IPC aguanta; el lunes rige un FIX de 19.0270",
+    "titular": "Hoy rige un FIX de 19.0270 y el peso amanece en 19.18; el FIX del viernes fue de 19.0228",
     "esencial": [
-     "El peso terminó en 19.17 por dólar (+0.63% el dólar) y perdió alrededor de 3.3% en la semana, desde 18.53.",
-     "El S&P/BMV IPC cerró prácticamente sin cambio en 68,695.45 puntos pese a la caída de Wall Street, pero perdió 3.5% en la semana.",
-     "Para el fin de semana: el lunes rige para pagos el FIX de 19.0270; revisa el tipo de cambio de tus presupuestos y escalona las compras en dólares de la semana."
+     "A las 5:08 CDMX el peso cotizaba en 19.18 por dólar (+0.22% el dólar), después de cerrar el viernes en 19.17.",
+     "Hoy rige para pagos el FIX de 19.0270; el determinado el viernes fue de 19.0228 y rige desde mañana martes, según Banxico.",
+     "Para supply chain: hoy y mañana el FIX está arriba de 19; actualiza costos de importación y escalona las compras en dólares."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "El S&P/BMV IPC cerró prácticamente sin cambio en 68,695.45 puntos, mientras el S&P 500 cayó 3.70%; en la semana perdió 3.5%. El peso terminó en 19.17 por dólar (+0.63% el dólar), después de llegar a 18.97 en la apertura, y en la semana se depreció alrededor de 3.3% (desde 18.53). Hoy rigió para pagos el FIX de 18.6723; el lunes 23 rige el de 19.0270, determinado el jueves."
+      "t": "Lo que pasó desde el cierre",
+      "x": "El viernes el S&P/BMV IPC cerró prácticamente sin cambio en 68,695.45 puntos, pero perdió 3.5% en la semana, y el peso terminó en 19.17. Banxico determinó el viernes un FIX de 19.0228, que se publica hoy en el DOF y rige para pagos desde mañana martes; hoy rige el de 19.0270. A las 5:08 CDMX el peso cotizaba en 19.18 por dólar (+0.22% el dólar)."
      },
      {
-      "t": "Por qué",
-      "x": "La venta global en tecnología y la expectativa de un alza de la Fed en diciembre fortalecen al dólar frente a monedas emergentes. El IPC resistió por su poco peso en tecnología, pero la caída del oro (−4.4%), la plata (−7.8%) y el cobre (−3.0%) pesa sobre las mineras."
+      "t": "Contexto",
+      "x": "El rebote de los futuros de Wall Street (S&P 500 +2.9%) y de Europa ayuda al ánimo, pero el mercado da 96% de probabilidad a un alza de la Fed en diciembre, lo que mantiene fuerte al dólar. El oro (+3.1%) y la plata (+3.4%) rebotan, lo que puede apoyar a las mineras del IPC."
      },
      {
-      "t": "Qué se espera",
-      "x": "Con el peso arriba de 19, el costo en pesos de las importaciones en dólares sube frente a hace una semana. El mercado seguirá atento a la Fed y a la volatilidad de Wall Street (VIX cerca de 40)."
-     },
-     {
-      "t": "La próxima semana",
-      "x": "Martes 24: el INEGI publica la inflación de la primera quincena de noviembre. Miércoles 25: salen el PCE y el PIB de EE. UU., que mueven al peso. Jueves 26: Wall Street no opera por el Día de Acción de Gracias, pero la BMV sí. Viernes 27: el INEGI publica la balanza comercial de octubre."
+      "t": "Qué se espera hoy",
+      "x": "La agenda local es ligera hoy. Mañana martes 24 el INEGI publica la inflación de la primera quincena de noviembre, y el viernes 27 la balanza comercial de octubre. El jueves 26 la BMV opera aunque Wall Street cierra."
      }
     ],
-    "scm": "Para el fin de semana: el lunes rige el FIX de 19.0270, así que actualiza el tipo de cambio de tus costos de importación y de tu presupuesto 2027; escalona las compras en dólares de la semana y confirma con tus transportistas los cruces a EE. UU. antes del jueves 26."
+    "scm": "Con el FIX arriba de 19 hoy y mañana, actualiza el tipo de cambio de tus costos de importación y escalona las compras en dólares; confirma los cruces a EE. UU. antes del miércoles 25."
    },
    "en": {
-    "titular": "The peso ends the week at 19.17 and the IPC holds; a 19.0270 FIX applies on Monday",
+    "titular": "A 19.0270 FIX applies today and the peso opens at 19.18; Friday’s FIX was 19.0228",
     "esencial": [
-     "The peso ended at 19.17 per dollar (dollar +0.63%) and lost about 3.3% for the week, from 18.53.",
-     "The S&P/BMV IPC closed virtually unchanged at 68,695.45 points despite the Wall Street drop, but lost 3.5% for the week.",
-     "For the weekend: the 19.0270 FIX applies to payments on Monday; review the exchange rate in your budgets and stagger dollar purchases this week."
+     "At 5:08 a.m. Mexico City time the peso traded at 19.18 per dollar (dollar +0.22%), after closing Friday at 19.17.",
+     "Today the 19.0270 FIX applies to payments; the one set on Friday was 19.0228 and applies from Tuesday, according to Banxico.",
+     "For supply chain: the FIX is above 19 today and tomorrow; update import costs and stagger dollar purchases."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "The S&P/BMV IPC closed virtually unchanged at 68,695.45 points, while the S&P 500 fell 3.70%; for the week it lost 3.5%. The peso ended at 19.17 per dollar (dollar +0.63%), after reaching 18.97 at the open, and depreciated about 3.3% for the week (from 18.53). Today the 18.6723 FIX applied to payments; on Monday the 23rd the 19.0270 one applies, set on Thursday."
+      "t": "What happened since the close",
+      "x": "On Friday the S&P/BMV IPC closed virtually unchanged at 68,695.45 points, but lost 3.5% for the week, and the peso ended at 19.17. Banxico set a 19.0228 FIX on Friday, published today in the DOF and applying to payments from Tuesday; today the 19.0270 one applies. At 5:08 a.m. the peso traded at 19.18 per dollar (dollar +0.22%)."
      },
      {
-      "t": "Why",
-      "x": "The global tech sell-off and expectations of a December Fed hike strengthen the dollar against emerging-market currencies. The IPC held up thanks to its low tech weighting, but the drop in gold (−4.4%), silver (−7.8%) and copper (−3.0%) weighs on miners."
+      "t": "Context",
+      "x": "The rebound in Wall Street futures (S&P 500 +2.9%) and in Europe helps sentiment, but markets see a 96% chance of a December Fed hike, which keeps the dollar strong. Gold (+3.1%) and silver (+3.4%) rebound, which may support IPC miners."
      },
      {
-      "t": "What to expect",
-      "x": "With the peso above 19, the peso cost of dollar imports is higher than a week ago. Markets will stay focused on the Fed and Wall Street volatility (VIX near 40)."
-     },
-     {
-      "t": "Next week",
-      "x": "Tuesday 24: INEGI publishes first-half November inflation. Wednesday 25: US PCE and GDP come out, which move the peso. Thursday 26: Wall Street is closed for Thanksgiving, but the BMV is open. Friday 27: INEGI publishes the October trade balance."
+      "t": "What to expect today",
+      "x": "The local agenda is light today. On Tuesday the 24th INEGI publishes first-half November inflation, and on Friday the 27th the October trade balance. On Thursday the 26th the BMV is open although Wall Street is closed."
      }
     ],
-    "scm": "For the weekend: the 19.0270 FIX applies on Monday, so update the exchange rate in your import costs and 2027 budget; stagger dollar purchases this week and confirm US crossings with your carriers before Thursday the 26th."
+    "scm": "With the FIX above 19 today and tomorrow, update the exchange rate in your import costs and stagger dollar purchases; confirm US crossings before Wednesday the 25th."
    },
    "pt": {
-    "titular": "O peso fecha a semana em 19,17 e o IPC resiste; na segunda vale um FIX de 19,0270",
+    "titular": "Hoje vale um FIX de 19,0270 e o peso amanhece em 19,18; o FIX de sexta foi de 19,0228",
     "esencial": [
-     "O peso terminou em 19,17 por dólar (dólar +0,63%) e perdeu cerca de 3,3% na semana, desde 18,53.",
-     "O S&P/BMV IPC fechou praticamente estável em 68.695,45 pontos apesar da queda de Wall Street, mas perdeu 3,5% na semana.",
-     "Para o fim de semana: na segunda vale para pagamentos o FIX de 19,0270; revise o câmbio dos seus orçamentos e escalone as compras em dólares da semana."
+     "Às 5h08 (Cidade do México) o peso era cotado a 19,18 por dólar (dólar +0,22%), depois de fechar a sexta em 19,17.",
+     "Hoje vale para pagamentos o FIX de 19,0270; o definido na sexta foi de 19,0228 e vale a partir de amanhã, terça, segundo o Banxico.",
+     "Para supply chain: hoje e amanhã o FIX está acima de 19; atualize os custos de importação e escalone as compras em dólares."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "O S&P/BMV IPC fechou praticamente estável em 68.695,45 pontos, enquanto o S&P 500 caiu 3,70%; na semana perdeu 3,5%. O peso terminou em 19,17 por dólar (dólar +0,63%), depois de chegar a 18,97 na abertura, e na semana se desvalorizou cerca de 3,3% (desde 18,53). Hoje valeu para pagamentos o FIX de 18,6723; na segunda, dia 23, vale o de 19,0270, definido na quinta."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "Na sexta o S&P/BMV IPC fechou praticamente estável em 68.695,45 pontos, mas perdeu 3,5% na semana, e o peso terminou em 19,17. O Banxico definiu na sexta um FIX de 19,0228, publicado hoje no DOF e que vale para pagamentos a partir de amanhã, terça; hoje vale o de 19,0270. Às 5h08 o peso era cotado a 19,18 por dólar (dólar +0,22%)."
      },
      {
-      "t": "Por quê",
-      "x": "A venda global em tecnologia e a expectativa de uma alta do Fed em dezembro fortalecem o dólar frente às moedas emergentes. O IPC resistiu pelo pouco peso da tecnologia, mas a queda do ouro (−4,4%), da prata (−7,8%) e do cobre (−3,0%) pesa sobre as mineradoras."
+      "t": "Contexto",
+      "x": "O repique dos futuros de Wall Street (S&P 500 +2,9%) e da Europa ajuda o ânimo, mas o mercado dá 96% de probabilidade a uma alta do Fed em dezembro, o que mantém o dólar forte. O ouro (+3,1%) e a prata (+3,4%) sobem, o que pode apoiar as mineradoras do IPC."
      },
      {
-      "t": "O que se espera",
-      "x": "Com o peso acima de 19, o custo em pesos das importações em dólares sobe frente a uma semana atrás. O mercado seguirá atento ao Fed e à volatilidade de Wall Street (VIX perto de 40)."
-     },
-     {
-      "t": "A próxima semana",
-      "x": "Terça, 24: o INEGI divulga a inflação da primeira quinzena de novembro. Quarta, 25: saem o PCE e o PIB dos EUA, que movem o peso. Quinta, 26: Wall Street não opera pelo Dia de Ação de Graças, mas a BMV sim. Sexta, 27: o INEGI divulga a balança comercial de outubro."
+      "t": "O que se espera hoje",
+      "x": "A agenda local é leve hoje. Amanhã, terça, dia 24, o INEGI divulga a inflação da primeira quinzena de novembro, e na sexta, dia 27, a balança comercial de outubro. Na quinta, dia 26, a BMV opera embora Wall Street feche."
      }
     ],
-    "scm": "Para o fim de semana: na segunda vale o FIX de 19,0270, então atualize o câmbio dos seus custos de importação e do orçamento de 2027; escalone as compras em dólares da semana e confirme com as transportadoras as travessias para os EUA antes da quinta, dia 26."
+    "scm": "Com o FIX acima de 19 hoje e amanhã, atualize o câmbio dos custos de importação e escalone as compras em dólares; confirme as travessias para os EUA antes da quarta, dia 25."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: IPC México (^MXX), 20 nov 2026",
-     "u": "https://finance.yahoo.com/quote/%5EMXX/"
-    },
-    {
-     "t": "Banxico: tipo de cambio FIX (19 nov 2026: 19.0270)",
+     "t": "Banxico: tipo de cambio FIX (20 nov 2026: 19.0228)",
      "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 20 nov 2026)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (23 nov 2026, 05:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
@@ -677,8 +633,8 @@
    "nombre": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
    "grupo": "bolsa",
-   "valor": 5941.95,
-   "cambio": -2.81,
+   "valor": 5997.0,
+   "cambio": 0.93,
    "unidad": "puntos",
    "name_pt": "Euro Stoxx 50"
   },
@@ -695,8 +651,8 @@
    "nombre": "KOSPI",
    "name_en": "KOSPI",
    "grupo": "bolsa",
-   "valor": 4869.96,
-   "cambio": -5.21,
+   "valor": 4708.54,
+   "cambio": -3.31,
    "unidad": "puntos",
    "name_pt": "KOSPI"
   },
@@ -704,8 +660,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 19.17,
-   "cambio": 0.63,
+   "valor": 19.18,
+   "cambio": 0.22,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -713,8 +669,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.0966,
-   "cambio": -0.06,
+   "valor": 1.0967,
+   "cambio": -0.07,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -722,8 +678,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 158.56,
-   "cambio": -0.65,
+   "valor": 159.04,
+   "cambio": 0.34,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -731,8 +687,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 83.96,
-   "cambio": 1.84,
+   "valor": 82.5,
+   "cambio": -1.09,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -740,8 +696,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 92.9,
-   "cambio": 1.0,
+   "valor": 91.3,
+   "cambio": -1.37,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -758,8 +714,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3525.2,
-   "cambio": -4.35,
+   "valor": 3624.9,
+   "cambio": 3.11,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -767,8 +723,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 5.47,
-   "cambio": -2.98,
+   "valor": 5.52,
+   "cambio": 0.71,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -803,8 +759,8 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 58200.59,
-   "cambio": -5.98,
+   "valor": 61325.38,
+   "cambio": 0.27,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }
