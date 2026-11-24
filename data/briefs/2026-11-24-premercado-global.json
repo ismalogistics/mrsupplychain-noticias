@@ -1,0 +1,103 @@
+{
+ "id": "2026-11-24-premercado-global",
+ "fecha": "2026-11-24",
+ "momento": "premercado",
+ "mercado": "global",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Martes de ajuste: los futuros del Nasdaq bajan 1.8% y Nvidia cede 5.5% tras su alza de 31%; Corea sube 6.3%",
+  "esencial": [
+   "A las 4:58 CDMX los futuros del Nasdaq 100 bajaban 1.75%, los del S&P 500 0.85% y los del Dow 0.42%; en preapertura Nvidia cedía 5.5% y HPE 11.6% tras su reporte.",
+   "Asia siguió el rebote del lunes: el KOSPI de Corea subió 6.32% y el Nikkei 3.91%; el mercado da 95% de probabilidad a un alza de la Fed en diciembre.",
+   "Para supply chain: el WTI tocó su nivel más bajo desde el 10 de agosto, pero Irán dice que tres tanqueros chocaron con minas en Ormuz; cierra combustible, no relajes los colchones de días."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "El lunes Wall Street tuvo su mejor día desde la recuperación de abril de 2025: el S&P 500 cerró con +4.73%, el Nasdaq con +6.51% y Nvidia con +31.5%, tras el regreso de Jensen Huang. Después del cierre, HPE reportó ingresos trimestrales por 14,500 millones de dólares (+50%), arriba de lo esperado, y elevó su guía de 2027 hasta 63,100 millones, pero su guía del primer trimestre quedó un poco abajo de las estimaciones más altas; su director dijo que no financia a nubes de IA ni a clientes de alto riesgo para comprar servidores. La Guardia Revolucionaria de Irán dijo que tres tanqueros chocaron con minas en Ormuz y se incendiaron, y EE. UU. investiga si Irán estuvo detrás de ciberataques a hasta 50 tanqueros, según Reuters."
+   },
+   {
+    "t": "Asia, Europa y futuros",
+    "x": "Asia cerró al alza: KOSPI +6.32% (5,006.03), Nikkei +3.91% (58,644.63) y Shanghái +0.41%; Hang Seng −0.85%. A las 4:53 CDMX Europa bajaba: Euro Stoxx 50 −0.87%, DAX −0.96%, CAC 40 −0.13% y FTSE 100 −0.30%. A las 4:58 CDMX los futuros del Nasdaq 100 bajaban 1.75%, los del S&P 500 0.85% y los del Dow 0.42%; el VIX subía a 29.1. En preapertura, Nvidia cedía 5.5%, HPE 11.6% y AMD 4.2%. El WTI estaba en 79.92 dólares (−0.3%) y el Brent de enero en 89.26 (−0.1%); el oro bajaba 0.7%, la plata 3.2% y el cobre 3.6% a 5.52 dólares por libra."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "A las 9:00 CDMX sale la confianza del consumidor de noviembre del Conference Board en EE. UU., y ADP publica su dato semanal de empleo. Antes de la apertura reportan Best Buy y Dick's Sporting Goods; después del cierre, Dell y HP. En Alemania sale el índice Ifo. El miércoles salen el PCE y el PIB de EE. UU., y el jueves no opera Wall Street."
+   }
+  ],
+  "scm": "Cierra los recargos de combustible de diciembre con el WTI cerca de mínimos de tres meses, pero no relajes los colchones de días en embarques del Golfo: siguen los incidentes con minas. Si compras servidores o laptops, escucha hoy a Dell y HP sobre precios y memoria."
+ },
+ "en": {
+  "titular": "Turnaround Tuesday: Nasdaq futures fall 1.8% and Nvidia gives back 5.5% after its 31% surge; Korea jumps 6.3%",
+  "esencial": [
+   "At 5:58 a.m. ET Nasdaq 100 futures were down 1.75%, S&P 500 futures 0.85% and Dow futures 0.42%; in premarket trading Nvidia fell 5.5% and HPE 11.6% after its report.",
+   "Asia followed Monday's rebound: Korea's KOSPI rose 6.32% and the Nikkei 3.91%; markets see a 95% chance of a December Fed hike.",
+   "For supply chain: WTI touched its lowest since August 10, but Iran says three tankers hit mines in Hormuz; lock in fuel, but keep your buffer days."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "On Monday Wall Street had its best day since the April 2025 recovery: the S&P 500 closed +4.73%, the Nasdaq +6.51% and Nvidia +31.5%, after Jensen Huang's return. After the close, HPE reported quarterly revenue of $14.5 billion (+50%), above expectations, and raised its 2027 outlook to as much as $63.1 billion, but its first-quarter guidance fell slightly short of the highest estimates; its CEO said it does not finance AI neoclouds or high-risk customers to buy servers. Iran's Revolutionary Guards said three tankers hit mines in Hormuz and caught fire, and the US is investigating whether Iran was behind cyberattacks on as many as 50 tankers, according to Reuters."
+   },
+   {
+    "t": "Asia, Europe and futures",
+    "x": "Asia closed higher: KOSPI +6.32% (5,006.03), Nikkei +3.91% (58,644.63) and Shanghai +0.41%; Hang Seng −0.85%. At 5:53 a.m. ET Europe was lower: Euro Stoxx 50 −0.87%, DAX −0.96%, CAC 40 −0.13% and FTSE 100 −0.30%. At 5:58 a.m. ET Nasdaq 100 futures were down 1.75%, S&P 500 futures 0.85% and Dow futures 0.42%; the VIX rose to 29.1. In premarket trading, Nvidia fell 5.5%, HPE 11.6% and AMD 4.2%. WTI stood at $79.92 (−0.3%) and January Brent at $89.26 (−0.1%); gold fell 0.7%, silver 3.2% and copper 3.6% to $5.52 per pound."
+   },
+   {
+    "t": "What to expect today",
+    "x": "At 10:00 a.m. ET the Conference Board's November consumer confidence index comes out in the US, and ADP releases its weekly jobs data. Best Buy and Dick's Sporting Goods report before the open; Dell and HP after the close. Germany releases its Ifo index. US PCE and GDP come out on Wednesday, and Wall Street is closed on Thursday."
+   }
+  ],
+  "scm": "Lock in December fuel surcharges with WTI near three-month lows, but keep buffer days on Gulf shipments: mine incidents continue. If you buy servers or laptops, listen to Dell and HP today on pricing and memory."
+ },
+ "pt": {
+  "titular": "Terça de ajuste: os futuros do Nasdaq caem 1,8% e a Nvidia cede 5,5% depois de subir 31%; a Coreia sobe 6,3%",
+  "esencial": [
+   "Às 4h58 (Cidade do México) os futuros do Nasdaq 100 caíam 1,75%, os do S&P 500 0,85% e os do Dow 0,42%; no pré-mercado a Nvidia cedia 5,5% e a HPE 11,6% depois do resultado.",
+   "A Ásia acompanhou o repique de segunda: o KOSPI da Coreia subiu 6,32% e o Nikkei 3,91%; o mercado dá 95% de probabilidade a uma alta do Fed em dezembro.",
+   "Para supply chain: o WTI tocou o menor nível desde 10 de agosto, mas o Irã diz que três petroleiros atingiram minas em Ormuz; feche o combustível, mas não reduza a folga de dias."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Na segunda Wall Street teve o melhor dia desde a recuperação de abril de 2025: o S&P 500 fechou com +4,73%, o Nasdaq com +6,51% e a Nvidia com +31,5%, depois do retorno de Jensen Huang. Depois do fechamento, a HPE reportou receita trimestral de 14,5 bilhões de dólares (+50%), acima do esperado, e elevou a projeção de 2027 para até 63,1 bilhões, mas a projeção do primeiro trimestre ficou um pouco abaixo das estimativas mais altas; o CEO disse que não financia nuvens de IA nem clientes de alto risco para comprar servidores. A Guarda Revolucionária do Irã disse que três petroleiros atingiram minas em Ormuz e pegaram fogo, e os EUA investigam se o Irã esteve por trás de ciberataques a até 50 petroleiros, segundo a Reuters."
+   },
+   {
+    "t": "Ásia, Europa e futuros",
+    "x": "A Ásia fechou em alta: KOSPI +6,32% (5.006,03), Nikkei +3,91% (58.644,63) e Xangai +0,41%; Hang Seng −0,85%. Às 4h53 (Cidade do México) a Europa caía: Euro Stoxx 50 −0,87%, DAX −0,96%, CAC 40 −0,13% e FTSE 100 −0,30%. Às 4h58 os futuros do Nasdaq 100 caíam 1,75%, os do S&P 500 0,85% e os do Dow 0,42%; o VIX subia para 29,1. No pré-mercado, a Nvidia cedia 5,5%, a HPE 11,6% e a AMD 4,2%. O WTI estava a 79,92 dólares (−0,3%) e o Brent de janeiro a 89,26 (−0,1%); o ouro caía 0,7%, a prata 3,2% e o cobre 3,6% para 5,52 dólares por libra."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Às 9h00 (Cidade do México) sai a confiança do consumidor de novembro do Conference Board nos EUA, e a ADP divulga o dado semanal de emprego. Antes da abertura divulgam resultados a Best Buy e a Dick's Sporting Goods; depois do fechamento, Dell e HP. Na Alemanha sai o índice Ifo. Na quarta saem o PCE e o PIB dos EUA, e na quinta Wall Street não opera."
+   }
+  ],
+  "scm": "Feche as sobretaxas de combustível de dezembro com o WTI perto de mínimas de três meses, mas não reduza a folga de dias nos embarques do Golfo: os incidentes com minas continuam. Se você compra servidores ou laptops, ouça hoje Dell e HP sobre preços e memória."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: los futuros del Dow, S&P 500 y Nasdaq, mixtos tras el rebote impulsado por Nvidia (24 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html"
+  },
+  {
+   "t": "Stocktwits: HPE cae porque su guía del primer trimestre queda un poco abajo de lo esperado (24 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/hpe-stock-drops-8-hours-001026553.html"
+  },
+  {
+   "t": "Reuters: el petróleo toca mínimos de tres meses por mayor oferta pese al riesgo en Ormuz (24 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-prices-near-three-month-051343862.html"
+  },
+  {
+   "t": "Stocktwits: futuros mixtos tras el rally de chips del lunes (24 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/us-futures-mixed-monday-nvidia-093016990.html"
+  },
+  {
+   "t": "Newsquawk: calendario económico semanal, 23 a 27 de noviembre de 2026",
+   "u": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---23rd-27th-november-2026"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (24 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-24-premercado-global",
+   "fecha": "2026-11-24",
+   "momento": "premercado",
+   "mercado": "global",
+   "titular_es": "Martes de ajuste: los futuros del Nasdaq bajan 1.8% y Nvidia cede 5.5% tras su alza de 31%; Corea sube 6.3%",
+   "titular_en": "Turnaround Tuesday: Nasdaq futures fall 1.8% and Nvidia gives back 5.5% after its 31% surge; Korea jumps 6.3%",
+   "titular_pt": "Terça de ajuste: os futuros do Nasdaq caem 1,8% e a Nvidia cede 5,5% depois de subir 31%; a Coreia sobe 6,3%"
+  },
+  {
+   "id": "2026-11-24-premercado-latam",
+   "fecha": "2026-11-24",
+   "momento": "premercado",
+   "mercado": "latam",
+   "titular_es": "La región amanece con metales a la baja (cobre −3.6%) tras un lunes de alzas en Argentina y Perú",
+   "titular_en": "The region opens with metals lower (copper −3.6%) after a Monday of gains in Argentina and Peru",
+   "titular_pt": "A região amanhece com metais em queda (cobre −3,6%) depois de uma segunda de altas na Argentina e no Peru"
+  },
+  {
+   "id": "2026-11-24-premercado-mexico",
+   "fecha": "2026-11-24",
+   "momento": "premercado",
+   "mercado": "mexico",
+   "titular_es": "El peso amanece en 19.26 y hoy sale la inflación de la primera quincena de noviembre; el FIX de ayer fue de 19.1648",
+   "titular_en": "The peso opens at 19.26 and first-half November inflation comes out today; yesterday’s FIX was 19.1648",
+   "titular_pt": "O peso amanhece em 19,26 e hoje sai a inflação da primeira quinzena de novembro; o FIX de ontem foi de 19,1648"
+  },
+  {
    "id": "2026-11-23-cierre-global",
    "fecha": "2026-11-23",
    "momento": "cierre",
@@ -782,33 +809,6 @@
    "titular_es": "El IPC baja 0.16% y el peso se mantiene en 18.61 pese al Treasury en 5.10%",
    "titular_en": "The IPC falls 0.16% and the peso holds at 18.61 despite the Treasury at 5.10%",
    "titular_pt": "O IPC cai 0,16% e o peso se mantém a 18,61 apesar do Treasury em 5,10%"
-  },
-  {
-   "id": "2026-11-12-apertura-global",
-   "fecha": "2026-11-12",
-   "momento": "apertura",
-   "mercado": "global",
-   "titular_es": "Jensen Huang renuncia a Nvidia y la acción cae 7.7%; el Treasury vuelve a 5.06% y el oro se desploma 3.2%",
-   "titular_en": "Jensen Huang resigns from Nvidia and the stock falls 7.7%; the Treasury returns to 5.06% and gold slumps 3.2%",
-   "titular_pt": "Jensen Huang renuncia à Nvidia e a ação cai 7,7%; o Treasury volta a 5,06% e o ouro despenca 3,2%"
-  },
-  {
-   "id": "2026-11-12-apertura-latam",
-   "fecha": "2026-11-12",
-   "momento": "apertura",
-   "mercado": "latam",
-   "titular_es": "El Ibovespa cae 1% pese a un IPCA menor a lo esperado; el peso chileno pierde 1.2%",
-   "titular_en": "The Ibovespa falls 1% despite softer-than-expected IPCA; the Chilean peso loses 1.2%",
-   "titular_pt": "O Ibovespa cai 1% apesar do IPCA abaixo do esperado; o peso chileno perde 1,2%"
-  },
-  {
-   "id": "2026-11-12-apertura-mexico",
-   "fecha": "2026-11-12",
-   "momento": "apertura",
-   "mercado": "mexico",
-   "titular_es": "El IPC abre con −0.2% por Nvidia y el Treasury; el peso se debilita a 18.63",
-   "titular_en": "The IPC opens −0.2% on Nvidia and the Treasury; the peso weakens to 18.63",
-   "titular_pt": "O IPC abre com −0,2% pela Nvidia e pelo Treasury; o peso se enfraquece para 18,63"
   }
  ]
 }

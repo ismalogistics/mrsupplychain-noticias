@@ -1,201 +1,189 @@
 {
- "actualizado": "2026-11-23T21:18:19Z",
- "momento": "cierre",
+ "actualizado": "2026-11-24T11:09:37Z",
+ "momento": "premercado",
  "briefs": {
   "global": {
-   "id": "2026-11-23-cierre-global",
-   "fecha": "2026-11-23",
-   "momento": "cierre",
+   "id": "2026-11-24-premercado-global",
+   "fecha": "2026-11-24",
+   "momento": "premercado",
    "mercado": "global",
-   "hora": "15:15 CDMX",
+   "hora": "05:08 CDMX",
    "fin_de_semana": false,
    "es": {
-    "titular": "El regreso de Jensen Huang dispara a Wall Street: el Nasdaq cierra con +6.5% y el crudo cae a su nivel más bajo desde agosto",
+    "titular": "Martes de ajuste: los futuros del Nasdaq bajan 1.8% y Nvidia cede 5.5% tras su alza de 31%; Corea sube 6.3%",
     "esencial": [
-     "El S&P 500 cerró en 7,237.17 (+4.73%), el Nasdaq en 24,089.56 (+6.51%) y el Dow en 49,595.31 (+3.01%); Nvidia ganó 31.5% y el índice de semiconductores 14.0%.",
-     "El WTI de enero cerró en 80.17 dólares (−3.9%), su nivel más bajo desde el 7 de agosto, y el Brent en 89.37 (−3.5%), según The Wall Street Journal; el diésel en futuros terminó en 3.65.",
-     "Para supply chain: Dell, HPE, Lenovo y Supermicro piden hasta 45% más por servidores de IA ya contratados, según el Financial Times; revisa las cláusulas de precio de tus pedidos de hardware."
+     "A las 4:58 CDMX los futuros del Nasdaq 100 bajaban 1.75%, los del S&P 500 0.85% y los del Dow 0.42%; en preapertura Nvidia cedía 5.5% y HPE 11.6% tras su reporte.",
+     "Asia siguió el rebote del lunes: el KOSPI de Corea subió 6.32% y el Nikkei 3.91%; el mercado da 95% de probabilidad a un alza de la Fed en diciembre.",
+     "Para supply chain: el WTI tocó su nivel más bajo desde el 10 de agosto, pero Irán dice que tres tanqueros chocaron con minas en Ormuz; cierra combustible, no relajes los colchones de días."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "Se cumplió y se amplió lo esperado en la apertura: el S&P 500 cerró en 7,237.17 (+4.73%), el Nasdaq en 24,089.56 (+6.51%) y el Dow en 49,595.31 (+3.01%), y el VIX bajó a 26.8. Nvidia ganó 31.5% (165.05 dólares), Micron 19.0%, TSMC 14.1%, AMD 6.9% y el índice de semiconductores 14.0%. Los fabricantes de servidores también subieron: Dell +20.5%, HPE +17.4% y Supermicro +13.3%; CoreWeave ganó 22.3%. Anthropic cerró con −1.4% (87.64 dólares) y CrowdStrike con −8.9% tras anunciar la compra de Zscaler (+17.7%). Europa cerró al alza: Euro Stoxx 50 +2.23% y DAX +2.15%."
+      "t": "Lo que pasó desde el cierre",
+      "x": "El lunes Wall Street tuvo su mejor día desde la recuperación de abril de 2025: el S&P 500 cerró con +4.73%, el Nasdaq con +6.51% y Nvidia con +31.5%, tras el regreso de Jensen Huang. Después del cierre, HPE reportó ingresos trimestrales por 14,500 millones de dólares (+50%), arriba de lo esperado, y elevó su guía de 2027 hasta 63,100 millones, pero su guía del primer trimestre quedó un poco abajo de las estimaciones más altas; su director dijo que no financia a nubes de IA ni a clientes de alto riesgo para comprar servidores. La Guardia Revolucionaria de Irán dijo que tres tanqueros chocaron con minas en Ormuz y se incendiaron, y EE. UU. investiga si Irán estuvo detrás de ciberataques a hasta 50 tanqueros, según Reuters."
      },
      {
-      "t": "Por qué",
-      "x": "El consejo de Nvidia restituyó a Jensen Huang como director general; el presidente Trump dijo que habló con el consejo y lo \"convenció\". La decisión recibió críticas de senadores de ambos partidos, y el comité bancario del Senado citó a Huang a testificar el 3 de diciembre sobre controles de exportación, según The Guardian. Nomura advirtió que buena parte del rebote fue compra mecánica y cierre de posiciones cortas. El crudo cayó por la expectativa de un excedente de oferta en 2027; los tránsitos por Ormuz siguen 42% abajo de antes de la guerra, según The Wall Street Journal."
+      "t": "Asia, Europa y futuros",
+      "x": "Asia cerró al alza: KOSPI +6.32% (5,006.03), Nikkei +3.91% (58,644.63) y Shanghái +0.41%; Hang Seng −0.85%. A las 4:53 CDMX Europa bajaba: Euro Stoxx 50 −0.87%, DAX −0.96%, CAC 40 −0.13% y FTSE 100 −0.30%. A las 4:58 CDMX los futuros del Nasdaq 100 bajaban 1.75%, los del S&P 500 0.85% y los del Dow 0.42%; el VIX subía a 29.1. En preapertura, Nvidia cedía 5.5%, HPE 11.6% y AMD 4.2%. El WTI estaba en 79.92 dólares (−0.3%) y el Brent de enero en 89.26 (−0.1%); el oro bajaba 0.7%, la plata 3.2% y el cobre 3.6% a 5.52 dólares por libra."
      },
      {
-      "t": "Qué se espera",
-      "x": "Después del cierre reportan Hewlett Packard Enterprise y Zoom; Zoom reportó ingresos del trimestre por 1,290.6 millones de dólares (+4.9%) e inició un dividendo. Mañana martes el INEGI publica la inflación de la primera quincena de noviembre en México, sale el índice Ifo de Alemania y Dell y HP reportan después del cierre. El miércoles salen el PCE y el PIB de EE. UU."
+      "t": "Qué se espera hoy",
+      "x": "A las 9:00 CDMX sale la confianza del consumidor de noviembre del Conference Board en EE. UU., y ADP publica su dato semanal de empleo. Antes de la apertura reportan Best Buy y Dick's Sporting Goods; después del cierre, Dell y HP. En Alemania sale el índice Ifo. El miércoles salen el PCE y el PIB de EE. UU., y el jueves no opera Wall Street."
      }
     ],
-    "scm": "Revisa las cláusulas de precio de tus pedidos de servidores, almacenamiento y memoria: los fabricantes están pidiendo hasta 45% más en contratos ya firmados. Y cierra los recargos de combustible de diciembre con el diésel en 3.65 dólares por galón."
+    "scm": "Cierra los recargos de combustible de diciembre con el WTI cerca de mínimos de tres meses, pero no relajes los colchones de días en embarques del Golfo: siguen los incidentes con minas. Si compras servidores o laptops, escucha hoy a Dell y HP sobre precios y memoria."
    },
    "en": {
-    "titular": "Jensen Huang's return sends Wall Street soaring: the Nasdaq closes +6.5% and crude falls to its lowest since August",
+    "titular": "Turnaround Tuesday: Nasdaq futures fall 1.8% and Nvidia gives back 5.5% after its 31% surge; Korea jumps 6.3%",
     "esencial": [
-     "The S&P 500 closed at 7,237.17 (+4.73%), the Nasdaq at 24,089.56 (+6.51%) and the Dow at 49,595.31 (+3.01%); Nvidia gained 31.5% and the semiconductor index 14.0%.",
-     "January WTI settled at $80.17 (−3.9%), its lowest since August 7, and Brent at $89.37 (−3.5%), according to The Wall Street Journal; diesel futures ended at $3.65.",
-     "For supply chain: Dell, HPE, Lenovo and Supermicro are asking up to 45% more for AI servers already under contract, according to the Financial Times; review the pricing clauses on your hardware orders."
+     "At 5:58 a.m. ET Nasdaq 100 futures were down 1.75%, S&P 500 futures 0.85% and Dow futures 0.42%; in premarket trading Nvidia fell 5.5% and HPE 11.6% after its report.",
+     "Asia followed Monday's rebound: Korea's KOSPI rose 6.32% and the Nikkei 3.91%; markets see a 95% chance of a December Fed hike.",
+     "For supply chain: WTI touched its lowest since August 10, but Iran says three tankers hit mines in Hormuz; lock in fuel, but keep your buffer days."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "The open's expectations were met and exceeded: the S&P 500 closed at 7,237.17 (+4.73%), the Nasdaq at 24,089.56 (+6.51%) and the Dow at 49,595.31 (+3.01%), and the VIX fell to 26.8. Nvidia gained 31.5% ($165.05), Micron 19.0%, TSMC 14.1%, AMD 6.9% and the semiconductor index 14.0%. Server makers also rose: Dell +20.5%, HPE +17.4% and Supermicro +13.3%; CoreWeave gained 22.3%. Anthropic closed −1.4% ($87.64) and CrowdStrike −8.9% after announcing the Zscaler deal (+17.7%). Europe closed higher: Euro Stoxx 50 +2.23% and DAX +2.15%."
+      "t": "What happened since the close",
+      "x": "On Monday Wall Street had its best day since the April 2025 recovery: the S&P 500 closed +4.73%, the Nasdaq +6.51% and Nvidia +31.5%, after Jensen Huang's return. After the close, HPE reported quarterly revenue of $14.5 billion (+50%), above expectations, and raised its 2027 outlook to as much as $63.1 billion, but its first-quarter guidance fell slightly short of the highest estimates; its CEO said it does not finance AI neoclouds or high-risk customers to buy servers. Iran's Revolutionary Guards said three tankers hit mines in Hormuz and caught fire, and the US is investigating whether Iran was behind cyberattacks on as many as 50 tankers, according to Reuters."
      },
      {
-      "t": "Why",
-      "x": "Nvidia's board reinstated Jensen Huang as CEO; President Trump said he spoke with the board and \"convinced\" it. The decision drew criticism from senators of both parties, and the Senate Banking Committee called Huang to testify on December 3 on export controls, according to The Guardian. Nomura warned that much of the rebound was mechanical buying and short covering. Crude fell on expectations of a 2027 supply surplus; Hormuz transits remain 42% below pre-war levels, according to The Wall Street Journal."
+      "t": "Asia, Europe and futures",
+      "x": "Asia closed higher: KOSPI +6.32% (5,006.03), Nikkei +3.91% (58,644.63) and Shanghai +0.41%; Hang Seng −0.85%. At 5:53 a.m. ET Europe was lower: Euro Stoxx 50 −0.87%, DAX −0.96%, CAC 40 −0.13% and FTSE 100 −0.30%. At 5:58 a.m. ET Nasdaq 100 futures were down 1.75%, S&P 500 futures 0.85% and Dow futures 0.42%; the VIX rose to 29.1. In premarket trading, Nvidia fell 5.5%, HPE 11.6% and AMD 4.2%. WTI stood at $79.92 (−0.3%) and January Brent at $89.26 (−0.1%); gold fell 0.7%, silver 3.2% and copper 3.6% to $5.52 per pound."
      },
      {
-      "t": "What to expect",
-      "x": "After the close Hewlett Packard Enterprise and Zoom report; Zoom posted quarterly revenue of $1,290.6 million (+4.9%) and initiated a dividend. On Tuesday INEGI publishes first-half November inflation in Mexico, Germany releases its Ifo index, and Dell and HP report after the close. US PCE and GDP come out on Wednesday."
+      "t": "What to expect today",
+      "x": "At 10:00 a.m. ET the Conference Board's November consumer confidence index comes out in the US, and ADP releases its weekly jobs data. Best Buy and Dick's Sporting Goods report before the open; Dell and HP after the close. Germany releases its Ifo index. US PCE and GDP come out on Wednesday, and Wall Street is closed on Thursday."
      }
     ],
-    "scm": "Review the pricing clauses on your server, storage and memory orders: manufacturers are asking up to 45% more on contracts already signed. And lock in December fuel surcharges with diesel at $3.65 a gallon."
+    "scm": "Lock in December fuel surcharges with WTI near three-month lows, but keep buffer days on Gulf shipments: mine incidents continue. If you buy servers or laptops, listen to Dell and HP today on pricing and memory."
    },
    "pt": {
-    "titular": "O retorno de Jensen Huang faz Wall Street disparar: o Nasdaq fecha com +6,5% e o petróleo cai ao menor nível desde agosto",
+    "titular": "Terça de ajuste: os futuros do Nasdaq caem 1,8% e a Nvidia cede 5,5% depois de subir 31%; a Coreia sobe 6,3%",
     "esencial": [
-     "O S&P 500 fechou em 7.237,17 (+4,73%), o Nasdaq em 24.089,56 (+6,51%) e o Dow em 49.595,31 (+3,01%); a Nvidia ganhou 31,5% e o índice de semicondutores 14,0%.",
-     "O WTI de janeiro fechou a 80,17 dólares (−3,9%), o menor nível desde 7 de agosto, e o Brent a 89,37 (−3,5%), segundo o The Wall Street Journal; o diesel nos futuros terminou a 3,65.",
-     "Para supply chain: Dell, HPE, Lenovo e Supermicro pedem até 45% mais por servidores de IA já contratados, segundo o Financial Times; revise as cláusulas de preço dos seus pedidos de hardware."
+     "Às 4h58 (Cidade do México) os futuros do Nasdaq 100 caíam 1,75%, os do S&P 500 0,85% e os do Dow 0,42%; no pré-mercado a Nvidia cedia 5,5% e a HPE 11,6% depois do resultado.",
+     "A Ásia acompanhou o repique de segunda: o KOSPI da Coreia subiu 6,32% e o Nikkei 3,91%; o mercado dá 95% de probabilidade a uma alta do Fed em dezembro.",
+     "Para supply chain: o WTI tocou o menor nível desde 10 de agosto, mas o Irã diz que três petroleiros atingiram minas em Ormuz; feche o combustível, mas não reduza a folga de dias."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "O esperado na abertura se cumpriu e se ampliou: o S&P 500 fechou em 7.237,17 (+4,73%), o Nasdaq em 24.089,56 (+6,51%) e o Dow em 49.595,31 (+3,01%), e o VIX caiu para 26,8. A Nvidia ganhou 31,5% (165,05 dólares), a Micron 19,0%, a TSMC 14,1%, a AMD 6,9% e o índice de semicondutores 14,0%. Os fabricantes de servidores também subiram: Dell +20,5%, HPE +17,4% e Supermicro +13,3%; a CoreWeave ganhou 22,3%. A Anthropic fechou com −1,4% (87,64 dólares) e a CrowdStrike com −8,9% depois de anunciar a compra da Zscaler (+17,7%). A Europa fechou em alta: Euro Stoxx 50 +2,23% e DAX +2,15%."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "Na segunda Wall Street teve o melhor dia desde a recuperação de abril de 2025: o S&P 500 fechou com +4,73%, o Nasdaq com +6,51% e a Nvidia com +31,5%, depois do retorno de Jensen Huang. Depois do fechamento, a HPE reportou receita trimestral de 14,5 bilhões de dólares (+50%), acima do esperado, e elevou a projeção de 2027 para até 63,1 bilhões, mas a projeção do primeiro trimestre ficou um pouco abaixo das estimativas mais altas; o CEO disse que não financia nuvens de IA nem clientes de alto risco para comprar servidores. A Guarda Revolucionária do Irã disse que três petroleiros atingiram minas em Ormuz e pegaram fogo, e os EUA investigam se o Irã esteve por trás de ciberataques a até 50 petroleiros, segundo a Reuters."
      },
      {
-      "t": "Por quê",
-      "x": "O conselho da Nvidia reconduziu Jensen Huang ao cargo de CEO; o presidente Trump disse que falou com o conselho e o \"convenceu\". A decisão recebeu críticas de senadores dos dois partidos, e o comitê bancário do Senado convocou Huang a depor em 3 de dezembro sobre controles de exportação, segundo o The Guardian. A Nomura alertou que boa parte do repique foi compra mecânica e zeragem de posições vendidas. O petróleo caiu pela expectativa de um excedente de oferta em 2027; os trânsitos por Ormuz seguem 42% abaixo do pré-guerra, segundo o The Wall Street Journal."
+      "t": "Ásia, Europa e futuros",
+      "x": "A Ásia fechou em alta: KOSPI +6,32% (5.006,03), Nikkei +3,91% (58.644,63) e Xangai +0,41%; Hang Seng −0,85%. Às 4h53 (Cidade do México) a Europa caía: Euro Stoxx 50 −0,87%, DAX −0,96%, CAC 40 −0,13% e FTSE 100 −0,30%. Às 4h58 os futuros do Nasdaq 100 caíam 1,75%, os do S&P 500 0,85% e os do Dow 0,42%; o VIX subia para 29,1. No pré-mercado, a Nvidia cedia 5,5%, a HPE 11,6% e a AMD 4,2%. O WTI estava a 79,92 dólares (−0,3%) e o Brent de janeiro a 89,26 (−0,1%); o ouro caía 0,7%, a prata 3,2% e o cobre 3,6% para 5,52 dólares por libra."
      },
      {
-      "t": "O que se espera",
-      "x": "Depois do fechamento divulgam resultados a Hewlett Packard Enterprise e a Zoom; a Zoom reportou receita trimestral de 1,29 bilhão de dólares (+4,9%) e iniciou o pagamento de dividendos. Amanhã, terça, o INEGI divulga a inflação da primeira quinzena de novembro no México, sai o índice Ifo da Alemanha e Dell e HP divulgam resultados depois do fechamento. Na quarta saem o PCE e o PIB dos EUA."
+      "t": "O que se espera hoje",
+      "x": "Às 9h00 (Cidade do México) sai a confiança do consumidor de novembro do Conference Board nos EUA, e a ADP divulga o dado semanal de emprego. Antes da abertura divulgam resultados a Best Buy e a Dick's Sporting Goods; depois do fechamento, Dell e HP. Na Alemanha sai o índice Ifo. Na quarta saem o PCE e o PIB dos EUA, e na quinta Wall Street não opera."
      }
     ],
-    "scm": "Revise as cláusulas de preço dos seus pedidos de servidores, armazenamento e memória: os fabricantes estão pedindo até 45% mais em contratos já assinados. E feche as sobretaxas de combustível de dezembro com o diesel a 3,65 dólares por galão."
+    "scm": "Feche as sobretaxas de combustível de dezembro com o WTI perto de mínimas de três meses, mas não reduza a folga de dias nos embarques do Golfo: os incidentes com minas continuam. Se você compra servidores ou laptops, ouça hoje Dell e HP sobre preços e memória."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: Nvidia sube 31% tras restituir a Jensen Huang; las acciones de chips se disparan (23 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/article/nvidia-soars-25-as-board-reinstates-jensen-huang-as-ceo-chip-stocks-jump-142353537.html"
+     "t": "Yahoo Finance: los futuros del Dow, S&P 500 y Nasdaq, mixtos tras el rebote impulsado por Nvidia (24 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html"
     },
     {
-     "t": "The Guardian: senadores republicanos critican la decisión de Nvidia de restituir a Jensen Huang (23 nov 2026)",
-     "u": "https://finance.yahoo.com/technology/articles/trump-says-convinced-nvidia-board-161922078.html"
+     "t": "Stocktwits: HPE cae porque su guía del primer trimestre queda un poco abajo de lo esperado (24 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/hpe-stock-drops-8-hours-001026553.html"
     },
     {
-     "t": "The Wall Street Journal: el petróleo baja por el excedente de oferta pese a los ataques en el Golfo (23 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-traders-weigh-125800024.html"
+     "t": "Reuters: el petróleo toca mínimos de tres meses por mayor oferta pese al riesgo en Ormuz (24 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-prices-near-three-month-051343862.html"
     },
     {
-     "t": "TIKR: Dell pide hasta 45% más en contratos de IA ya firmados (23 nov 2026)",
-     "u": "https://finance.yahoo.com/technology/ai/articles/dell-wants-45-more-signed-193847809.html"
+     "t": "Stocktwits: futuros mixtos tras el rally de chips del lunes (24 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/us-futures-mixed-monday-nvidia-093016990.html"
     },
     {
-     "t": "Zoom Communications: resultados del tercer trimestre del año fiscal 2027 (23 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/zoom-communications-reports-financial-results-210500379.html"
+     "t": "Newsquawk: calendario económico semanal, 23 a 27 de noviembre de 2026",
+     "u": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---23rd-27th-november-2026"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 23 nov 2026)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (24 nov 2026, 05:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-23-cierre-latam",
-   "fecha": "2026-11-23",
-   "momento": "cierre",
+   "id": "2026-11-24-premercado-latam",
+   "fecha": "2026-11-24",
+   "momento": "premercado",
    "mercado": "latam",
-   "hora": "15:15 CDMX",
+   "hora": "05:08 CDMX",
    "fin_de_semana": false,
    "es": {
-    "titular": "Argentina sube 4.3% y Perú 3.9% con los metales; el Ibovespa cierra con −0.9% y el real se fortalece",
+    "titular": "La región amanece con metales a la baja (cobre −3.6%) tras un lunes de alzas en Argentina y Perú",
     "esencial": [
-     "El S&P/TSX de Canadá cerró con +2.69% (34,081.44) y el Ibovespa con −0.92% (164,843.98); los ETF de MSCI subieron 4.34% en Argentina, 3.89% en Perú y 2.30% en Chile.",
-     "El dólar bajó a 5.93 reales (−0.33%) y 1,016 pesos chilenos (−0.59%), y subió a 3,507 pesos colombianos (+0.69%) con la caída del crudo.",
-     "Para supply chain: el crudo en su nivel más bajo desde agosto presiona al peso colombiano; escalona los pagos en esa moneda y aprovecha el real y el peso chileno más firmes."
+     "Ayer el S&P/TSX de Canadá cerró con +2.69% (34,081.44) y el Ibovespa con −0.92% (164,843.98); los ETF de MSCI subieron 4.3% en Argentina y 3.9% en Perú.",
+     "A las 5:08 CDMX el dólar estaba en 5.92 reales (−0.09%), 1,019 pesos chilenos (+0.24%) y 3,517 pesos colombianos (+0.33%).",
+     "Para supply chain: el cobre cae 3.6% a 5.52 dólares por libra en la mañana; es un buen momento para cotizar cable y conectores."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "El S&P/TSX de Canadá cerró en 34,081.44 (+2.69%) y el Ibovespa en 164,843.98 (−0.92%), en su regreso tras el feriado del viernes. Los ETF de MSCI cerraron con +4.34% en Argentina, +3.89% en Perú, +2.45% en Brasil y +2.30% en Chile."
+      "t": "Lo que pasó desde el cierre",
+      "x": "Ayer el S&P/TSX de Canadá cerró en 34,081.44 (+2.69%) y el Ibovespa en 164,843.98 (−0.92%). Los ETF de MSCI cerraron con +4.34% en Argentina, +3.89% en Perú, +2.45% en Brasil y +2.30% en Chile, con el rebote global y de los metales."
      },
      {
-      "t": "Por qué",
-      "x": "El rebote global por el regreso de Jensen Huang a Nvidia y la subida de los metales (oro +3.4%, plata +4.6%, cobre +2.5%) impulsaron a Perú, Chile y Argentina. En Brasil, el índice local no siguió el rebote, aunque el ETF en dólares subió con la recuperación del real. La caída del crudo a su nivel más bajo desde agosto pesó sobre Colombia."
+      "t": "Contexto",
+      "x": "A las 5:08 CDMX el dólar estaba en 5.92 reales (−0.09%), 1,019 pesos chilenos (+0.24%) y 3,517 pesos colombianos (+0.33%). El cobre caía 3.6% a 5.52 dólares por libra y la plata 3.2%, lo que puede pesar sobre Perú y Chile; el crudo seguía cerca de mínimos de tres meses."
      },
      {
-      "t": "Monedas",
-      "x": "El dólar terminó en 5.93 reales (−0.33%), 1,016 pesos chilenos (−0.59%), 3,507 pesos colombianos (+0.69%), 3.45 soles (sin cambio), 1,580 pesos argentinos (+0.94%) y 1.437 dólares canadienses (+0.18%)."
-     },
-     {
-      "t": "Qué se espera",
-      "x": "Mañana la región seguirá a Wall Street y a la inflación de México; el miércoles el PCE y el PIB de EE. UU. moverán a las monedas, y la OPEP+ se reúne el domingo 29."
+      "t": "Qué se espera hoy",
+      "x": "La región seguirá a los futuros de Wall Street, que bajan. Mañana el PCE y el PIB de EE. UU. moverán a las monedas, y la OPEP+ se reúne el domingo 29."
      }
     ],
-    "scm": "Escalona los pagos en pesos colombianos, presionados por el crudo, y aprovecha el real y el peso chileno más firmes para adelantar pagos en esas monedas."
+    "scm": "Aprovecha la caída del cobre para cotizar cable y conectores del primer trimestre, y escalona los pagos en pesos colombianos mientras el crudo siga bajo."
    },
    "en": {
-    "titular": "Argentina rises 4.3% and Peru 3.9% with metals; the Ibovespa closes −0.9% and the real firms",
+    "titular": "The region opens with metals lower (copper −3.6%) after a Monday of gains in Argentina and Peru",
     "esencial": [
-     "Canada's S&P/TSX closed +2.69% (34,081.44) and the Ibovespa −0.92% (164,843.98); the MSCI ETFs rose 4.34% for Argentina, 3.89% for Peru and 2.30% for Chile.",
-     "The dollar fell to 5.93 reais (−0.33%) and 1,016 Chilean pesos (−0.59%), and rose to 3,507 Colombian pesos (+0.69%) as crude fell.",
-     "For supply chain: crude at its lowest since August pressures the Colombian peso; stagger payments in that currency and use the firmer real and Chilean peso."
+     "Yesterday Canada's S&P/TSX closed +2.69% (34,081.44) and the Ibovespa −0.92% (164,843.98); the MSCI ETFs rose 4.3% for Argentina and 3.9% for Peru.",
+     "At 5:08 a.m. Mexico City time the dollar stood at 5.92 reais (−0.09%), 1,019 Chilean pesos (+0.24%) and 3,517 Colombian pesos (+0.33%).",
+     "For supply chain: copper falls 3.6% to $5.52 per pound this morning; it is a good time to quote cable and connectors."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "Canada's S&P/TSX closed at 34,081.44 (+2.69%) and the Ibovespa at 164,843.98 (−0.92%), returning from Friday's holiday. The MSCI ETFs closed +4.34% for Argentina, +3.89% for Peru, +2.45% for Brazil and +2.30% for Chile."
+      "t": "What happened since the close",
+      "x": "Yesterday Canada's S&P/TSX closed at 34,081.44 (+2.69%) and the Ibovespa at 164,843.98 (−0.92%). The MSCI ETFs closed +4.34% for Argentina, +3.89% for Peru, +2.45% for Brazil and +2.30% for Chile, with the global and metals rebound."
      },
      {
-      "t": "Why",
-      "x": "The global rebound on Jensen Huang's return to Nvidia and the rise in metals (gold +3.4%, silver +4.6%, copper +2.5%) lifted Peru, Chile and Argentina. In Brazil, the local index did not follow the rebound, although the dollar ETF rose with the real's recovery. Crude's drop to its lowest since August weighed on Colombia."
+      "t": "Context",
+      "x": "At 5:08 a.m. Mexico City time the dollar stood at 5.92 reais (−0.09%), 1,019 Chilean pesos (+0.24%) and 3,517 Colombian pesos (+0.33%). Copper fell 3.6% to $5.52 per pound and silver 3.2%, which may weigh on Peru and Chile; crude remained near three-month lows."
      },
      {
-      "t": "Currencies",
-      "x": "The dollar ended at 5.93 reais (−0.33%), 1,016 Chilean pesos (−0.59%), 3,507 Colombian pesos (+0.69%), 3.45 soles (unchanged), 1,580 Argentine pesos (+0.94%) and 1.437 Canadian dollars (+0.18%)."
-     },
-     {
-      "t": "What to expect",
-      "x": "Tomorrow the region will follow Wall Street and Mexico's inflation; on Wednesday US PCE and GDP will move currencies, and OPEC+ meets on Sunday the 29th."
+      "t": "What to expect today",
+      "x": "The region will follow Wall Street futures, which are lower. Tomorrow US PCE and GDP will move currencies, and OPEC+ meets on Sunday the 29th."
      }
     ],
-    "scm": "Stagger payments in Colombian pesos, pressured by crude, and use the firmer real and Chilean peso to bring forward payments in those currencies."
+    "scm": "Use the drop in copper to quote first-quarter cable and connectors, and stagger payments in Colombian pesos while crude stays low."
    },
    "pt": {
-    "titular": "A Argentina sobe 4,3% e o Peru 3,9% com os metais; o Ibovespa fecha com −0,9% e o real se fortalece",
+    "titular": "A região amanhece com metais em queda (cobre −3,6%) depois de uma segunda de altas na Argentina e no Peru",
     "esencial": [
-     "O S&P/TSX do Canadá fechou com +2,69% (34.081,44) e o Ibovespa com −0,92% (164.843,98); os ETFs da MSCI subiram 4,34% na Argentina, 3,89% no Peru e 2,30% no Chile.",
-     "O dólar caiu para R$ 5,93 (−0,33%) e 1.016 pesos chilenos (−0,59%), e subiu para 3.507 pesos colombianos (+0,69%) com a queda do petróleo.",
-     "Para supply chain: o petróleo no menor nível desde agosto pressiona o peso colombiano; escalone os pagamentos nessa moeda e aproveite o real e o peso chileno mais firmes."
+     "Ontem o S&P/TSX do Canadá fechou com +2,69% (34.081,44) e o Ibovespa com −0,92% (164.843,98); os ETFs da MSCI subiram 4,3% na Argentina e 3,9% no Peru.",
+     "Às 5h08 (Cidade do México) o dólar estava em R$ 5,92 (−0,09%), 1.019 pesos chilenos (+0,24%) e 3.517 pesos colombianos (+0,33%).",
+     "Para supply chain: o cobre cai 3,6% para 5,52 dólares por libra pela manhã; é um bom momento para cotar cabos e conectores."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "O S&P/TSX do Canadá fechou em 34.081,44 (+2,69%) e o Ibovespa em 164.843,98 (−0,92%), na volta do feriado de sexta. Os ETFs da MSCI fecharam com +4,34% na Argentina, +3,89% no Peru, +2,45% no Brasil e +2,30% no Chile."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "Ontem o S&P/TSX do Canadá fechou em 34.081,44 (+2,69%) e o Ibovespa em 164.843,98 (−0,92%). Os ETFs da MSCI fecharam com +4,34% na Argentina, +3,89% no Peru, +2,45% no Brasil e +2,30% no Chile, com o repique global e dos metais."
      },
      {
-      "t": "Por quê",
-      "x": "O repique global pelo retorno de Jensen Huang à Nvidia e a alta dos metais (ouro +3,4%, prata +4,6%, cobre +2,5%) impulsionaram Peru, Chile e Argentina. No Brasil, o índice local não acompanhou o repique, embora o ETF em dólares tenha subido com a recuperação do real. A queda do petróleo ao menor nível desde agosto pesou sobre a Colômbia."
+      "t": "Contexto",
+      "x": "Às 5h08 (Cidade do México) o dólar estava em R$ 5,92 (−0,09%), 1.019 pesos chilenos (+0,24%) e 3.517 pesos colombianos (+0,33%). O cobre caía 3,6% para 5,52 dólares por libra e a prata 3,2%, o que pode pesar sobre Peru e Chile; o petróleo seguia perto de mínimas de três meses."
      },
      {
-      "t": "Moedas",
-      "x": "O dólar terminou em R$ 5,93 (−0,33%), 1.016 pesos chilenos (−0,59%), 3.507 pesos colombianos (+0,69%), 3,45 soles (estável), 1.580 pesos argentinos (+0,94%) e 1,437 dólar canadense (+0,18%)."
-     },
-     {
-      "t": "O que se espera",
-      "x": "Amanhã a região seguirá Wall Street e a inflação do México; na quarta o PCE e o PIB dos EUA vão mover as moedas, e a OPEP+ se reúne no domingo, dia 29."
+      "t": "O que se espera hoje",
+      "x": "A região seguirá os futuros de Wall Street, que caem. Amanhã o PCE e o PIB dos EUA vão mover as moedas, e a OPEP+ se reúne no domingo, dia 29."
      }
     ],
-    "scm": "Escalone os pagamentos em pesos colombianos, pressionados pelo petróleo, e aproveite o real e o peso chileno mais firmes para antecipar pagamentos nessas moedas."
+    "scm": "Aproveite a queda do cobre para cotar cabos e conectores do primeiro trimestre, e escalone os pagamentos em pesos colombianos enquanto o petróleo seguir baixo."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 23 nov 2026)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (24 nov 2026, 05:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
@@ -205,93 +193,93 @@
    ]
   },
   "mexico": {
-   "id": "2026-11-23-cierre-mexico",
-   "fecha": "2026-11-23",
-   "momento": "cierre",
+   "id": "2026-11-24-premercado-mexico",
+   "fecha": "2026-11-24",
+   "momento": "premercado",
    "mercado": "mexico",
-   "hora": "15:15 CDMX",
+   "hora": "05:08 CDMX",
    "fin_de_semana": false,
    "es": {
-    "titular": "El IPC cierra con +1% y el peso termina en 19.17; mañana rige un FIX de 19.0228",
+    "titular": "El peso amanece en 19.26 y hoy sale la inflación de la primera quincena de noviembre; el FIX de ayer fue de 19.1648",
     "esencial": [
-     "El S&P/BMV IPC cerró en 69,330.94 puntos (+1.02%), con el rebote global y de las mineras.",
-     "El peso terminó en 19.17 por dólar (+0.16% el dólar), con el índice del dólar arriba 0.49%; hoy rigió el FIX de 19.0270 y mañana rige el de 19.0228.",
-     "Para supply chain: mañana sale la inflación de la primera quincena de noviembre; espera el dato antes de ajustar listas de precios y contratos indexados."
+     "A las 5:08 CDMX el peso cotizaba en 19.26 por dólar (+0.58% el dólar), después de cerrar ayer en 19.17.",
+     "Hoy rige para pagos el FIX de 19.0228; el determinado ayer fue de 19.1648, según Banxico, y rige desde mañana miércoles.",
+     "Para supply chain: el FIX sube 14 centavos mañana; liquida hoy los pagos en dólares que puedas y espera la inflación antes de ajustar precios."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "El S&P/BMV IPC cerró en 69,330.94 puntos (+1.02%), en línea con el rebote que se esperaba desde la apertura. El peso terminó en 19.17 por dólar (+0.16% el dólar), después de moverse entre 19.14 y 19.18 en el día. Hoy rigió el FIX de 19.0270; mañana martes rige el de 19.0228, determinado el viernes. El FIX determinado hoy aún no aparecía en la tabla de Banxico al cierre de este brief."
+      "t": "Lo que pasó desde el cierre",
+      "x": "Ayer el S&P/BMV IPC cerró en 69,330.94 puntos (+1.02%) y el peso en 19.17. Banxico determinó ayer un FIX de 19.1648, que se publica hoy en el DOF y rige para pagos desde mañana miércoles; hoy rige el de 19.0228. A las 5:08 CDMX el peso cotizaba en 19.26 por dólar (+0.58% el dólar)."
      },
      {
-      "t": "Por qué",
-      "x": "El rebote de Wall Street y de los metales (oro +3.4%, plata +4.6%, cobre +2.5%) apoyó al IPC, mientras el índice del dólar subió 0.49% y el euro cayó a 1.0905, lo que frenó al peso. La caída de 3.9% del crudo reduce el costo de los combustibles importados."
+      "t": "Contexto",
+      "x": "Los futuros de Wall Street bajan (Nasdaq −1.8%) y el mercado da 95% de probabilidad a un alza de la Fed en diciembre, lo que presiona al peso. La caída de la plata (−3.2%) y el cobre (−3.6%) puede pesar sobre las mineras del IPC."
      },
      {
-      "t": "Qué se espera",
-      "x": "Mañana martes 24 el INEGI publica la inflación de la primera quincena de noviembre. El viernes 27 sale la balanza comercial de octubre. El jueves 26 la BMV opera aunque Wall Street cierra por el Día de Acción de Gracias."
+      "t": "Qué se espera hoy",
+      "x": "Hoy el INEGI publica la inflación de la primera quincena de noviembre. El viernes 27 sale la balanza comercial de octubre. El jueves 26 la BMV opera aunque Wall Street cierra."
      }
     ],
-    "scm": "Espera la inflación de mañana antes de ajustar listas de precios y contratos indexados; con el peso en 19.17 y el FIX de 19.0228 para mañana, escalona los pagos en dólares de la semana."
+    "scm": "Hoy rige el FIX de 19.0228 y mañana sube a 19.1648: liquida hoy los pagos en dólares que puedas. Espera el dato de inflación antes de ajustar listas de precios o contratos indexados."
    },
    "en": {
-    "titular": "The IPC closes +1% and the peso ends at 19.17; a 19.0228 FIX applies tomorrow",
+    "titular": "The peso opens at 19.26 and first-half November inflation comes out today; yesterday’s FIX was 19.1648",
     "esencial": [
-     "The S&P/BMV IPC closed at 69,330.94 points (+1.02%), with the global rebound and miners.",
-     "The peso ended at 19.17 per dollar (dollar +0.16%), with the dollar index up 0.49%; today the 19.0270 FIX applied and tomorrow the 19.0228 one applies.",
-     "For supply chain: first-half November inflation comes out tomorrow; wait for it before adjusting price lists and indexed contracts."
+     "At 5:08 a.m. Mexico City time the peso traded at 19.26 per dollar (dollar +0.58%), after closing yesterday at 19.17.",
+     "Today the 19.0228 FIX applies to payments; the one set yesterday was 19.1648, according to Banxico, and applies from Wednesday.",
+     "For supply chain: the FIX rises 14 cents tomorrow; settle the dollar payments you can today and wait for inflation before adjusting prices."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "The S&P/BMV IPC closed at 69,330.94 points (+1.02%), in line with the rebound expected at the open. The peso ended at 19.17 per dollar (dollar +0.16%), after trading between 19.14 and 19.18 during the day. Today the 19.0270 FIX applied; on Tuesday the 19.0228 one applies, set on Friday. The FIX set today was not yet in Banxico’s table when this brief closed."
+      "t": "What happened since the close",
+      "x": "Yesterday the S&P/BMV IPC closed at 69,330.94 points (+1.02%) and the peso at 19.17. Banxico set a 19.1648 FIX yesterday, published today in the DOF and applying to payments from Wednesday; today the 19.0228 one applies. At 5:08 a.m. the peso traded at 19.26 per dollar (dollar +0.58%)."
      },
      {
-      "t": "Why",
-      "x": "The rebound on Wall Street and in metals (gold +3.4%, silver +4.6%, copper +2.5%) supported the IPC, while the dollar index rose 0.49% and the euro fell to 1.0905, which held back the peso. The 3.9% drop in crude lowers the cost of imported fuels."
+      "t": "Context",
+      "x": "Wall Street futures are lower (Nasdaq −1.8%) and markets see a 95% chance of a December Fed hike, which pressures the peso. The drop in silver (−3.2%) and copper (−3.6%) may weigh on IPC miners."
      },
      {
-      "t": "What to expect",
-      "x": "On Tuesday the 24th INEGI publishes first-half November inflation. The October trade balance comes out on Friday the 27th. On Thursday the 26th the BMV is open although Wall Street is closed for Thanksgiving."
+      "t": "What to expect today",
+      "x": "INEGI publishes first-half November inflation today. The October trade balance comes out on Friday the 27th. On Thursday the 26th the BMV is open although Wall Street is closed."
      }
     ],
-    "scm": "Wait for tomorrow's inflation before adjusting price lists and indexed contracts; with the peso at 19.17 and the 19.0228 FIX for tomorrow, stagger this week's dollar payments."
+    "scm": "Today the 19.0228 FIX applies and tomorrow it rises to 19.1648: settle the dollar payments you can today. Wait for the inflation data before adjusting price lists or indexed contracts."
    },
    "pt": {
-    "titular": "O IPC fecha com +1% e o peso termina em 19,17; amanhã vale um FIX de 19,0228",
+    "titular": "O peso amanhece em 19,26 e hoje sai a inflação da primeira quinzena de novembro; o FIX de ontem foi de 19,1648",
     "esencial": [
-     "O S&P/BMV IPC fechou em 69.330,94 pontos (+1,02%), com o repique global e das mineradoras.",
-     "O peso terminou em 19,17 por dólar (dólar +0,16%), com o índice do dólar em alta de 0,49%; hoje valeu o FIX de 19,0270 e amanhã vale o de 19,0228.",
-     "Para supply chain: amanhã sai a inflação da primeira quinzena de novembro; espere o dado antes de ajustar listas de preços e contratos indexados."
+     "Às 5h08 (Cidade do México) o peso era cotado a 19,26 por dólar (dólar +0,58%), depois de fechar ontem em 19,17.",
+     "Hoje vale para pagamentos o FIX de 19,0228; o definido ontem foi de 19,1648, segundo o Banxico, e vale a partir de amanhã, quarta.",
+     "Para supply chain: o FIX sobe 14 centavos amanhã; liquide hoje os pagamentos em dólares que puder e espere a inflação antes de ajustar preços."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "O S&P/BMV IPC fechou em 69.330,94 pontos (+1,02%), em linha com o repique esperado desde a abertura. O peso terminou em 19,17 por dólar (dólar +0,16%), depois de oscilar entre 19,14 e 19,18 no dia. Hoje valeu o FIX de 19,0270; amanhã, terça, vale o de 19,0228, definido na sexta. O FIX definido hoje ainda não aparecia na tabela do Banxico no fechamento deste brief."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "Ontem o S&P/BMV IPC fechou em 69.330,94 pontos (+1,02%) e o peso em 19,17. O Banxico definiu ontem um FIX de 19,1648, publicado hoje no DOF e que vale para pagamentos a partir de amanhã, quarta; hoje vale o de 19,0228. Às 5h08 o peso era cotado a 19,26 por dólar (dólar +0,58%)."
      },
      {
-      "t": "Por quê",
-      "x": "O repique de Wall Street e dos metais (ouro +3,4%, prata +4,6%, cobre +2,5%) apoiou o IPC, enquanto o índice do dólar subiu 0,49% e o euro caiu para 1,0905, o que freou o peso. A queda de 3,9% do petróleo reduz o custo dos combustíveis importados."
+      "t": "Contexto",
+      "x": "Os futuros de Wall Street caem (Nasdaq −1,8%) e o mercado dá 95% de probabilidade a uma alta do Fed em dezembro, o que pressiona o peso. A queda da prata (−3,2%) e do cobre (−3,6%) pode pesar sobre as mineradoras do IPC."
      },
      {
-      "t": "O que se espera",
-      "x": "Amanhã, terça, dia 24, o INEGI divulga a inflação da primeira quinzena de novembro. Na sexta, dia 27, sai a balança comercial de outubro. Na quinta, dia 26, a BMV opera embora Wall Street feche pelo Dia de Ação de Graças."
+      "t": "O que se espera hoje",
+      "x": "Hoje o INEGI divulga a inflação da primeira quinzena de novembro. Na sexta, dia 27, sai a balança comercial de outubro. Na quinta, dia 26, a BMV opera embora Wall Street feche."
      }
     ],
-    "scm": "Espere a inflação de amanhã antes de ajustar listas de preços e contratos indexados; com o peso em 19,17 e o FIX de 19,0228 para amanhã, escalone os pagamentos em dólares da semana."
+    "scm": "Hoje vale o FIX de 19,0228 e amanhã sobe para 19,1648: liquide hoje os pagamentos em dólares que puder. Espere o dado de inflação antes de ajustar listas de preços ou contratos indexados."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: IPC México (^MXX), 23 nov 2026",
-     "u": "https://finance.yahoo.com/quote/%5EMXX/"
-    },
-    {
-     "t": "Banxico: tipo de cambio FIX (20 nov 2026: 19.0228)",
+     "t": "Banxico: tipo de cambio FIX (23 nov 2026: 19.1648)",
      "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 23 nov 2026)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (24 nov 2026, 05:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
+    },
+    {
+     "t": "Newsquawk: calendario económico semanal, 23 a 27 de noviembre de 2026",
+     "u": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---23rd-27th-november-2026"
     }
    ]
   }
@@ -645,8 +633,8 @@
    "nombre": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
    "grupo": "bolsa",
-   "valor": 6074.47,
-   "cambio": 2.23,
+   "valor": 6021.77,
+   "cambio": -0.87,
    "unidad": "puntos",
    "name_pt": "Euro Stoxx 50"
   },
@@ -654,8 +642,8 @@
    "nombre": "Nikkei 225",
    "name_en": "Nikkei 225",
    "grupo": "bolsa",
-   "valor": 56436.65,
-   "cambio": -5.06,
+   "valor": 58644.63,
+   "cambio": 3.91,
    "unidad": "puntos",
    "name_pt": "Nikkei 225"
   },
@@ -663,8 +651,8 @@
    "nombre": "KOSPI",
    "name_en": "KOSPI",
    "grupo": "bolsa",
-   "valor": 4708.54,
-   "cambio": -3.31,
+   "valor": 5006.03,
+   "cambio": 6.32,
    "unidad": "puntos",
    "name_pt": "KOSPI"
   },
@@ -672,8 +660,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 19.17,
-   "cambio": 0.16,
+   "valor": 19.26,
+   "cambio": 0.58,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -681,8 +669,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.0905,
-   "cambio": -0.64,
+   "valor": 1.0948,
+   "cambio": 0.39,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -690,8 +678,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 158.95,
-   "cambio": 0.28,
+   "valor": 159.21,
+   "cambio": 0.14,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -699,8 +687,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 80.17,
-   "cambio": -3.9,
+   "valor": 79.92,
+   "cambio": -0.31,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -708,8 +696,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 89.37,
-   "cambio": -3.5,
+   "valor": 89.26,
+   "cambio": -0.12,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -726,8 +714,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3635.1,
-   "cambio": 3.41,
+   "valor": 3624.9,
+   "cambio": -0.73,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -735,8 +723,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 5.62,
-   "cambio": 2.48,
+   "valor": 5.52,
+   "cambio": -3.62,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -771,8 +759,8 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 61315.01,
-   "cambio": 0.25,
+   "valor": 59691.86,
+   "cambio": -2.48,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }

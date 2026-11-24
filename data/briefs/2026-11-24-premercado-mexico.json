@@ -1,0 +1,91 @@
+{
+ "id": "2026-11-24-premercado-mexico",
+ "fecha": "2026-11-24",
+ "momento": "premercado",
+ "mercado": "mexico",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El peso amanece en 19.26 y hoy sale la inflación de la primera quincena de noviembre; el FIX de ayer fue de 19.1648",
+  "esencial": [
+   "A las 5:08 CDMX el peso cotizaba en 19.26 por dólar (+0.58% el dólar), después de cerrar ayer en 19.17.",
+   "Hoy rige para pagos el FIX de 19.0228; el determinado ayer fue de 19.1648, según Banxico, y rige desde mañana miércoles.",
+   "Para supply chain: el FIX sube 14 centavos mañana; liquida hoy los pagos en dólares que puedas y espera la inflación antes de ajustar precios."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "Ayer el S&P/BMV IPC cerró en 69,330.94 puntos (+1.02%) y el peso en 19.17. Banxico determinó ayer un FIX de 19.1648, que se publica hoy en el DOF y rige para pagos desde mañana miércoles; hoy rige el de 19.0228. A las 5:08 CDMX el peso cotizaba en 19.26 por dólar (+0.58% el dólar)."
+   },
+   {
+    "t": "Contexto",
+    "x": "Los futuros de Wall Street bajan (Nasdaq −1.8%) y el mercado da 95% de probabilidad a un alza de la Fed en diciembre, lo que presiona al peso. La caída de la plata (−3.2%) y el cobre (−3.6%) puede pesar sobre las mineras del IPC."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Hoy el INEGI publica la inflación de la primera quincena de noviembre. El viernes 27 sale la balanza comercial de octubre. El jueves 26 la BMV opera aunque Wall Street cierra."
+   }
+  ],
+  "scm": "Hoy rige el FIX de 19.0228 y mañana sube a 19.1648: liquida hoy los pagos en dólares que puedas. Espera el dato de inflación antes de ajustar listas de precios o contratos indexados."
+ },
+ "en": {
+  "titular": "The peso opens at 19.26 and first-half November inflation comes out today; yesterday’s FIX was 19.1648",
+  "esencial": [
+   "At 5:08 a.m. Mexico City time the peso traded at 19.26 per dollar (dollar +0.58%), after closing yesterday at 19.17.",
+   "Today the 19.0228 FIX applies to payments; the one set yesterday was 19.1648, according to Banxico, and applies from Wednesday.",
+   "For supply chain: the FIX rises 14 cents tomorrow; settle the dollar payments you can today and wait for inflation before adjusting prices."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "Yesterday the S&P/BMV IPC closed at 69,330.94 points (+1.02%) and the peso at 19.17. Banxico set a 19.1648 FIX yesterday, published today in the DOF and applying to payments from Wednesday; today the 19.0228 one applies. At 5:08 a.m. the peso traded at 19.26 per dollar (dollar +0.58%)."
+   },
+   {
+    "t": "Context",
+    "x": "Wall Street futures are lower (Nasdaq −1.8%) and markets see a 95% chance of a December Fed hike, which pressures the peso. The drop in silver (−3.2%) and copper (−3.6%) may weigh on IPC miners."
+   },
+   {
+    "t": "What to expect today",
+    "x": "INEGI publishes first-half November inflation today. The October trade balance comes out on Friday the 27th. On Thursday the 26th the BMV is open although Wall Street is closed."
+   }
+  ],
+  "scm": "Today the 19.0228 FIX applies and tomorrow it rises to 19.1648: settle the dollar payments you can today. Wait for the inflation data before adjusting price lists or indexed contracts."
+ },
+ "pt": {
+  "titular": "O peso amanhece em 19,26 e hoje sai a inflação da primeira quinzena de novembro; o FIX de ontem foi de 19,1648",
+  "esencial": [
+   "Às 5h08 (Cidade do México) o peso era cotado a 19,26 por dólar (dólar +0,58%), depois de fechar ontem em 19,17.",
+   "Hoje vale para pagamentos o FIX de 19,0228; o definido ontem foi de 19,1648, segundo o Banxico, e vale a partir de amanhã, quarta.",
+   "Para supply chain: o FIX sobe 14 centavos amanhã; liquide hoje os pagamentos em dólares que puder e espere a inflação antes de ajustar preços."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Ontem o S&P/BMV IPC fechou em 69.330,94 pontos (+1,02%) e o peso em 19,17. O Banxico definiu ontem um FIX de 19,1648, publicado hoje no DOF e que vale para pagamentos a partir de amanhã, quarta; hoje vale o de 19,0228. Às 5h08 o peso era cotado a 19,26 por dólar (dólar +0,58%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "Os futuros de Wall Street caem (Nasdaq −1,8%) e o mercado dá 95% de probabilidade a uma alta do Fed em dezembro, o que pressiona o peso. A queda da prata (−3,2%) e do cobre (−3,6%) pode pesar sobre as mineradoras do IPC."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Hoje o INEGI divulga a inflação da primeira quinzena de novembro. Na sexta, dia 27, sai a balança comercial de outubro. Na quinta, dia 26, a BMV opera embora Wall Street feche."
+   }
+  ],
+  "scm": "Hoje vale o FIX de 19,0228 e amanhã sobe para 19,1648: liquide hoje os pagamentos em dólares que puder. Espere o dado de inflação antes de ajustar listas de preços ou contratos indexados."
+ },
+ "fuentes": [
+  {
+   "t": "Banxico: tipo de cambio FIX (23 nov 2026: 19.1648)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (24 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Newsquawk: calendario económico semanal, 23 a 27 de noviembre de 2026",
+   "u": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---23rd-27th-november-2026"
+  }
+ ]
+}

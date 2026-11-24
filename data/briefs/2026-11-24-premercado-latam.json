@@ -1,0 +1,87 @@
+{
+ "id": "2026-11-24-premercado-latam",
+ "fecha": "2026-11-24",
+ "momento": "premercado",
+ "mercado": "latam",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "La región amanece con metales a la baja (cobre −3.6%) tras un lunes de alzas en Argentina y Perú",
+  "esencial": [
+   "Ayer el S&P/TSX de Canadá cerró con +2.69% (34,081.44) y el Ibovespa con −0.92% (164,843.98); los ETF de MSCI subieron 4.3% en Argentina y 3.9% en Perú.",
+   "A las 5:08 CDMX el dólar estaba en 5.92 reales (−0.09%), 1,019 pesos chilenos (+0.24%) y 3,517 pesos colombianos (+0.33%).",
+   "Para supply chain: el cobre cae 3.6% a 5.52 dólares por libra en la mañana; es un buen momento para cotizar cable y conectores."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "Ayer el S&P/TSX de Canadá cerró en 34,081.44 (+2.69%) y el Ibovespa en 164,843.98 (−0.92%). Los ETF de MSCI cerraron con +4.34% en Argentina, +3.89% en Perú, +2.45% en Brasil y +2.30% en Chile, con el rebote global y de los metales."
+   },
+   {
+    "t": "Contexto",
+    "x": "A las 5:08 CDMX el dólar estaba en 5.92 reales (−0.09%), 1,019 pesos chilenos (+0.24%) y 3,517 pesos colombianos (+0.33%). El cobre caía 3.6% a 5.52 dólares por libra y la plata 3.2%, lo que puede pesar sobre Perú y Chile; el crudo seguía cerca de mínimos de tres meses."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "La región seguirá a los futuros de Wall Street, que bajan. Mañana el PCE y el PIB de EE. UU. moverán a las monedas, y la OPEP+ se reúne el domingo 29."
+   }
+  ],
+  "scm": "Aprovecha la caída del cobre para cotizar cable y conectores del primer trimestre, y escalona los pagos en pesos colombianos mientras el crudo siga bajo."
+ },
+ "en": {
+  "titular": "The region opens with metals lower (copper −3.6%) after a Monday of gains in Argentina and Peru",
+  "esencial": [
+   "Yesterday Canada's S&P/TSX closed +2.69% (34,081.44) and the Ibovespa −0.92% (164,843.98); the MSCI ETFs rose 4.3% for Argentina and 3.9% for Peru.",
+   "At 5:08 a.m. Mexico City time the dollar stood at 5.92 reais (−0.09%), 1,019 Chilean pesos (+0.24%) and 3,517 Colombian pesos (+0.33%).",
+   "For supply chain: copper falls 3.6% to $5.52 per pound this morning; it is a good time to quote cable and connectors."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "Yesterday Canada's S&P/TSX closed at 34,081.44 (+2.69%) and the Ibovespa at 164,843.98 (−0.92%). The MSCI ETFs closed +4.34% for Argentina, +3.89% for Peru, +2.45% for Brazil and +2.30% for Chile, with the global and metals rebound."
+   },
+   {
+    "t": "Context",
+    "x": "At 5:08 a.m. Mexico City time the dollar stood at 5.92 reais (−0.09%), 1,019 Chilean pesos (+0.24%) and 3,517 Colombian pesos (+0.33%). Copper fell 3.6% to $5.52 per pound and silver 3.2%, which may weigh on Peru and Chile; crude remained near three-month lows."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The region will follow Wall Street futures, which are lower. Tomorrow US PCE and GDP will move currencies, and OPEC+ meets on Sunday the 29th."
+   }
+  ],
+  "scm": "Use the drop in copper to quote first-quarter cable and connectors, and stagger payments in Colombian pesos while crude stays low."
+ },
+ "pt": {
+  "titular": "A região amanhece com metais em queda (cobre −3,6%) depois de uma segunda de altas na Argentina e no Peru",
+  "esencial": [
+   "Ontem o S&P/TSX do Canadá fechou com +2,69% (34.081,44) e o Ibovespa com −0,92% (164.843,98); os ETFs da MSCI subiram 4,3% na Argentina e 3,9% no Peru.",
+   "Às 5h08 (Cidade do México) o dólar estava em R$ 5,92 (−0,09%), 1.019 pesos chilenos (+0,24%) e 3.517 pesos colombianos (+0,33%).",
+   "Para supply chain: o cobre cai 3,6% para 5,52 dólares por libra pela manhã; é um bom momento para cotar cabos e conectores."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Ontem o S&P/TSX do Canadá fechou em 34.081,44 (+2,69%) e o Ibovespa em 164.843,98 (−0,92%). Os ETFs da MSCI fecharam com +4,34% na Argentina, +3,89% no Peru, +2,45% no Brasil e +2,30% no Chile, com o repique global e dos metais."
+   },
+   {
+    "t": "Contexto",
+    "x": "Às 5h08 (Cidade do México) o dólar estava em R$ 5,92 (−0,09%), 1.019 pesos chilenos (+0,24%) e 3.517 pesos colombianos (+0,33%). O cobre caía 3,6% para 5,52 dólares por libra e a prata 3,2%, o que pode pesar sobre Peru e Chile; o petróleo seguia perto de mínimas de três meses."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "A região seguirá os futuros de Wall Street, que caem. Amanhã o PCE e o PIB dos EUA vão mover as moedas, e a OPEP+ se reúne no domingo, dia 29."
+   }
+  ],
+  "scm": "Aproveite a queda do cobre para cotar cabos e conectores do primeiro trimestre, e escalone os pagamentos em pesos colombianos enquanto o petróleo seguir baixo."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (24 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}
