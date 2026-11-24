@@ -1,0 +1,86 @@
+{
+ "id": "2026-11-24-apertura-latam",
+ "fecha": "2026-11-24",
+ "momento": "apertura",
+ "mercado": "latam",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "El real se fortalece 1.4% y el Ibovespa sube 1.3%; el peso colombiano cae 1.7% y Chile baja con el cobre",
+  "esencial": [
+   "A las 8:53 CDMX el Ibovespa subía 1.31% a 166,956.84 y el S&P/TSX de Canadá bajaba 0.28% a 33,985.44 a las 9:08.",
+   "El dólar bajaba a 5.84 reales (−1.43%) y subía a 3,565 pesos colombianos (+1.70%) y 1,024 pesos chilenos (+0.69%); el ETF de Chile caía 1.55%.",
+   "Para supply chain: aprovecha el real más firme para adelantar pagos en Brasil y escalona los pagos en pesos colombianos y chilenos."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 8:53 CDMX el Ibovespa estaba en 166,956.84 (+1.31%); a las 9:08 el S&P/TSX de Canadá estaba en 33,985.44 (−0.28%). Los ETF de MSCI subían 2.31% en Brasil y bajaban 1.55% en Chile, 0.98% en Perú y 0.59% en Argentina. En monedas, el dólar estaba en 5.84 reales (−1.43%), 1,024 pesos chilenos (+0.69%), 3,565 pesos colombianos (+1.70%), 3.47 soles (+0.46%), 1,590 pesos argentinos (+0.66%) y 1.430 dólares canadienses (−0.47%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "La caída del cobre (−3.3%) y la plata (−2.6%) pesa sobre Chile y Perú; el crudo rebota 1.8% desde mínimos de tres meses. En Brasil, el real es la moneda más fuerte de la región hoy."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "La región seguirá a Wall Street; mañana el PCE y el PIB de EE. UU. moverán a las monedas, y la OPEP+ se reúne el domingo 29."
+   }
+  ],
+  "scm": "Adelanta pagos en reales mientras la moneda está firme, escalona los pagos en pesos colombianos y chilenos, y cotiza cable con el cobre en 5.53 dólares por libra."
+ },
+ "en": {
+  "titular": "The real firms 1.4% and the Ibovespa rises 1.3%; the Colombian peso falls 1.7% and Chile slips with copper",
+  "esencial": [
+   "At 8:53 a.m. Mexico City time the Ibovespa was up 1.31% at 166,956.84 and Canada's S&P/TSX was down 0.28% at 33,985.44 at 9:08.",
+   "The dollar fell to 5.84 reais (−1.43%) and rose to 3,565 Colombian pesos (+1.70%) and 1,024 Chilean pesos (+0.69%); the Chile ETF fell 1.55%.",
+   "For supply chain: use the firmer real to bring forward payments in Brazil and stagger payments in Colombian and Chilean pesos."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "At 8:53 a.m. Mexico City time the Ibovespa stood at 166,956.84 (+1.31%); at 9:08 Canada's S&P/TSX stood at 33,985.44 (−0.28%). The MSCI ETFs rose 2.31% for Brazil and fell 1.55% for Chile, 0.98% for Peru and 0.59% for Argentina. In currencies, the dollar stood at 5.84 reais (−1.43%), 1,024 Chilean pesos (+0.69%), 3,565 Colombian pesos (+1.70%), 3.47 soles (+0.46%), 1,590 Argentine pesos (+0.66%) and 1.430 Canadian dollars (−0.47%)."
+   },
+   {
+    "t": "Context",
+    "x": "The drop in copper (−3.3%) and silver (−2.6%) weighs on Chile and Peru; crude rebounds 1.8% from three-month lows. In Brazil, the real is the strongest currency in the region today."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The region will follow Wall Street; tomorrow US PCE and GDP will move currencies, and OPEC+ meets on Sunday the 29th."
+   }
+  ],
+  "scm": "Bring forward payments in reais while the currency is firm, stagger payments in Colombian and Chilean pesos, and quote cable with copper at $5.53 per pound."
+ },
+ "pt": {
+  "titular": "O real se fortalece 1,4% e o Ibovespa sobe 1,3%; o peso colombiano cai 1,7% e o Chile recua com o cobre",
+  "esencial": [
+   "Às 8h53 (Cidade do México) o Ibovespa subia 1,31% para 166.956,84 e o S&P/TSX do Canadá caía 0,28% para 33.985,44 às 9h08.",
+   "O dólar caía para R$ 5,84 (−1,43%) e subia para 3.565 pesos colombianos (+1,70%) e 1.024 pesos chilenos (+0,69%); o ETF do Chile caía 1,55%.",
+   "Para supply chain: aproveite o real mais firme para antecipar pagamentos no Brasil e escalone os pagamentos em pesos colombianos e chilenos."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 8h53 (Cidade do México) o Ibovespa estava em 166.956,84 (+1,31%); às 9h08 o S&P/TSX do Canadá estava em 33.985,44 (−0,28%). Os ETFs da MSCI subiam 2,31% no Brasil e caíam 1,55% no Chile, 0,98% no Peru e 0,59% na Argentina. Nas moedas, o dólar estava em R$ 5,84 (−1,43%), 1.024 pesos chilenos (+0,69%), 3.565 pesos colombianos (+1,70%), 3,47 soles (+0,46%), 1.590 pesos argentinos (+0,66%) e 1,430 dólar canadense (−0,47%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "A queda do cobre (−3,3%) e da prata (−2,6%) pesa sobre Chile e Peru; o petróleo sobe 1,8% desde mínimas de três meses. No Brasil, o real é a moeda mais forte da região hoje."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "A região seguirá Wall Street; amanhã o PCE e o PIB dos EUA vão mover as moedas, e a OPEP+ se reúne no domingo, dia 29."
+   }
+  ],
+  "scm": "Antecipe pagamentos em reais enquanto a moeda está firme, escalone os pagamentos em pesos colombianos e chilenos, e cote cabos com o cobre a 5,53 dólares por libra."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (24 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

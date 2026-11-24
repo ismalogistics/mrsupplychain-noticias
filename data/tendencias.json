@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-11-23T21:18:19Z",
- "fecha": "2026-11-23",
+ "actualizado": "2026-11-24T15:11:51Z",
+ "fecha": "2026-11-24",
  "titular": {
-  "es": "Lunes: Nvidia cierra con +31%, los fabricantes de servidores suben precios y el crudo cae a su nivel más bajo desde agosto",
-  "en": "Monday: Nvidia closes +31%, server makers raise prices and crude falls to its lowest since August",
-  "pt": "Segunda: a Nvidia fecha com +31%, os fabricantes de servidores sobem preços e o petróleo cai ao menor nível desde agosto"
+  "es": "Martes: los chips caen 7%, Anthropic baja de su precio de salida y Best Buy tiene sus mejores ventas en cinco años",
+  "en": "Tuesday: chips fall 7%, Anthropic drops below its IPO price and Best Buy posts its best sales in five years",
+  "pt": "Terça: os chips caem 7%, a Anthropic fica abaixo do preço do IPO e a Best Buy tem as melhores vendas em cinco anos"
  },
  "items": [
   {
    "id": "semis",
-   "dir": "up",
+   "dir": "down",
    "calor": 3,
    "mx": false,
    "latam": false,
@@ -17,34 +17,34 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Nvidia cierra con +31.5% y el índice de chips con +14%; Huang testificará en el Senado el 3 de diciembre",
-    "en": "Nvidia closes +31.5% and the chip index +14%; Huang will testify in the Senate on December 3",
-    "pt": "A Nvidia fecha com +31,5% e o índice de chips com +14%; Huang vai depor no Senado em 3 de dezembro"
+    "es": "Los chips caen 7% un día después del rebote: AMD y Micron −9%, Nvidia −6.8%",
+    "en": "Chips fall 7% a day after the rebound: AMD and Micron −9%, Nvidia −6.8%",
+    "pt": "Os chips caem 7% um dia depois do repique: AMD e Micron −9%, Nvidia −6,8%"
    },
    "x": {
-    "es": "Nvidia cerró en 165.05 dólares (+31.5%), Micron con +19.0% y TSMC con +14.1%, tras el regreso de Jensen Huang. Senadores de ambos partidos criticaron la decisión y el comité bancario del Senado lo citó a testificar el 3 de diciembre sobre controles de exportación de chips, según The Guardian.",
-    "en": "Nvidia closed at $165.05 (+31.5%), Micron +19.0% and TSMC +14.1%, after Jensen Huang’s return. Senators from both parties criticized the decision and the Senate Banking Committee called him to testify on December 3 on chip export controls, according to The Guardian.",
-    "pt": "A Nvidia fechou a 165,05 dólares (+31,5%), a Micron com +19,0% e a TSMC com +14,1%, depois do retorno de Jensen Huang. Senadores dos dois partidos criticaram a decisão e o comitê bancário do Senado o convocou a depor em 3 de dezembro sobre controles de exportação de chips, segundo o The Guardian."
+    "es": "A las 9:08 CDMX el índice de semiconductores caía 7.3%: AMD y Micron 9.1%, Nvidia 6.8% (153.85 dólares), TSMC 4.5% y Broadcom 3.1%, un día después de que Nvidia subió 31% por el regreso de Jensen Huang. La tecnología era el peor sector, según 24/7 Wall St.",
+    "en": "At 10:08 a.m. ET the semiconductor index was down 7.3%: AMD and Micron 9.1%, Nvidia 6.8% ($153.85), TSMC 4.5% and Broadcom 3.1%, a day after Nvidia rose 31% on Jensen Huang’s return. Tech was the worst sector, according to 24/7 Wall St.",
+    "pt": "Às 9h08 (Cidade do México) o índice de semicondutores caía 7,3%: AMD e Micron 9,1%, Nvidia 6,8% (153,85 dólares), TSMC 4,5% e Broadcom 3,1%, um dia depois de a Nvidia subir 31% pelo retorno de Jensen Huang. A tecnologia era o pior setor, segundo a 24/7 Wall St."
    },
    "scm": {
-    "es": "Sigue la audiencia del 3 de diciembre: cambios en controles de exportación pueden afectar plazos de chips para México.",
-    "en": "Watch the December 3 hearing: changes in export controls may affect chip lead times for Mexico.",
-    "pt": "Acompanhe a audiência de 3 de dezembro: mudanças nos controles de exportação podem afetar prazos de chips para o México."
+    "es": "La volatilidad en bolsa no cambia los plazos de memoria y GPU: mantén reservas de capacidad y cláusulas de ajuste.",
+    "en": "Stock volatility does not change memory and GPU lead times: keep capacity reservations and adjustment clauses.",
+    "pt": "A volatilidade na bolsa não muda os prazos de memória e GPUs: mantenha reservas de capacidade e cláusulas de ajuste."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: Nvidia sube 31% tras restituir a Jensen Huang; las acciones de chips se disparan (23 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/article/nvidia-soars-25-as-board-reinstates-jensen-huang-as-ceo-chip-stocks-jump-142353537.html"
+     "t": "Yahoo Finance: Nvidia subió 31% con el regreso de Jensen Huang; un día después, la IA se vende (24 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/article/nvidia-leads-semiconductors-lower-alphacheck-144509267.html"
     },
     {
-     "t": "The Guardian: senadores republicanos critican la decisión de Nvidia de restituir a Jensen Huang (23 nov 2026)",
-     "u": "https://finance.yahoo.com/technology/articles/trump-says-convinced-nvidia-board-161922078.html"
+     "t": "24/7 Wall St.: Anthropic cae 9% y cotiza debajo de su precio de salida; CoreWeave y Nebius bajan 8% (24 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/anthropic-tumbles-9-trades-below-145448903.html"
     }
    ]
   },
   {
    "id": "servidores",
-   "dir": "up",
+   "dir": "down",
    "calor": 3,
    "mx": true,
    "latam": true,
@@ -52,131 +52,127 @@
    "en": "Servers and hardware",
    "pt": "Servidores e hardware",
    "titular": {
-    "es": "Dell, HPE, Lenovo y Supermicro piden hasta 45% más por servidores de IA ya contratados",
-    "en": "Dell, HPE, Lenovo and Supermicro ask up to 45% more for AI servers already under contract",
-    "pt": "Dell, HPE, Lenovo e Supermicro pedem até 45% mais por servidores de IA já contratados"
+    "es": "HPE cae 15% por su guía y Dell 11.7% antes de reportar hoy",
+    "en": "HPE falls 15% on guidance and Dell 11.7% ahead of its report today",
+    "pt": "A HPE cai 15% pela projeção e a Dell 11,7% antes de divulgar resultados hoje"
    },
    "x": {
-    "es": "Según el Financial Times, citado por TIKR, los fabricantes subieron 25%, 30% y hasta 45% el precio de servidores de IA entre la firma y la entrega, y culpan a la memoria, que según JPMorgan sube más de 400% desde inicios de 2024. Dell cerró con +20.5%, HPE con +17.4% y Supermicro con +13.3%; Dell y HP reportan mañana.",
-    "en": "According to the Financial Times, cited by TIKR, manufacturers raised AI server prices by 25%, 30% and up to 45% between signing and delivery, blaming memory, which JPMorgan says is up more than 400% since the start of 2024. Dell closed +20.5%, HPE +17.4% and Supermicro +13.3%; Dell and HP report tomorrow.",
-    "pt": "Segundo o Financial Times, citado pela TIKR, os fabricantes subiram 25%, 30% e até 45% o preço de servidores de IA entre a assinatura e a entrega, e culpam a memória, que segundo o JPMorgan sobe mais de 400% desde o início de 2024. A Dell fechou com +20,5%, a HPE com +17,4% e a Supermicro com +13,3%; Dell e HP divulgam resultados amanhã."
+    "es": "HPE reportó ingresos trimestrales por 14,500 millones de dólares (+50%) y elevó su guía de 2027 hasta 63,100 millones, pero su guía del primer trimestre quedó un poco abajo de lo esperado y la acción caía 15% a las 9:08 CDMX. Su director dijo que no financia a nubes de IA ni a clientes de alto riesgo para comprar servidores. Dell caía 11.7% antes de reportar después del cierre.",
+    "en": "HPE reported quarterly revenue of $14.5 billion (+50%) and raised its 2027 outlook to as much as $63.1 billion, but its first-quarter guidance fell slightly short and the stock was down 15% at 10:08 a.m. ET. Its CEO said it does not finance AI neoclouds or high-risk customers to buy servers. Dell fell 11.7% ahead of its report after the close.",
+    "pt": "A HPE reportou receita trimestral de 14,5 bilhões de dólares (+50%) e elevou a projeção de 2027 para até 63,1 bilhões, mas a projeção do primeiro trimestre ficou um pouco abaixo do esperado e a ação caía 15% às 9h08 (Cidade do México). O CEO disse que não financia nuvens de IA nem clientes de alto risco para comprar servidores. A Dell caía 11,7% antes de divulgar resultados depois do fechamento."
    },
    "scm": {
-    "es": "Revisa las cláusulas de precio y de entrega de tus pedidos de servidores, almacenamiento y laptops: pide precio firme por escrito antes de confirmar.",
-    "en": "Review the price and delivery clauses on your server, storage and laptop orders: get a firm written price before confirming.",
-    "pt": "Revise as cláusulas de preço e entrega dos seus pedidos de servidores, armazenamento e laptops: peça preço firme por escrito antes de confirmar."
+    "es": "Escucha a Dell hoy sobre precios y memoria antes de confirmar pedidos de servidores; pide precio firme por escrito.",
+    "en": "Listen to Dell today on pricing and memory before confirming server orders; get a firm written price.",
+    "pt": "Ouça a Dell hoje sobre preços e memória antes de confirmar pedidos de servidores; peça preço firme por escrito."
    },
    "fuentes": [
     {
-     "t": "TIKR: Dell pide hasta 45% más en contratos de IA ya firmados (23 nov 2026)",
-     "u": "https://finance.yahoo.com/technology/ai/articles/dell-wants-45-more-signed-193847809.html"
+     "t": "Stocktwits: HPE cae porque su guía del primer trimestre queda un poco abajo de lo esperado (24 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/hpe-stock-drops-8-hours-001026553.html"
     }
    ]
   },
   {
    "id": "energia",
-   "dir": "down",
-   "calor": 3,
+   "dir": "mixed",
+   "calor": 2,
    "mx": true,
    "latam": true,
    "es": "Energía y combustibles",
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El WTI cierra en 80.17 dólares, su nivel más bajo desde el 7 de agosto; el diésel en 3.65",
-    "en": "WTI settles at $80.17, its lowest since August 7; diesel at $3.65",
-    "pt": "O WTI fecha a 80,17 dólares, o menor nível desde 7 de agosto; o diesel a 3,65"
+    "es": "El crudo rebota 1.8% desde mínimos de tres meses; el diésel en 3.69",
+    "en": "Crude rebounds 1.8% from three-month lows; diesel at $3.69",
+    "pt": "O petróleo sobe 1,8% desde mínimas de três meses; o diesel a 3,69"
    },
    "x": {
-    "es": "El WTI de enero cerró en 80.17 dólares (−3.9%), su nivel más bajo desde el 7 de agosto, y el Brent en 89.37 (−3.5%), el más bajo desde el 28 de agosto, por la expectativa de un excedente de oferta en 2027, según The Wall Street Journal. El diésel en futuros terminó en 3.65 dólares por galón (−5.0%).",
-    "en": "January WTI settled at $80.17 (−3.9%), its lowest since August 7, and Brent at $89.37 (−3.5%), the lowest since August 28, on expectations of a 2027 supply surplus, according to The Wall Street Journal. Diesel futures ended at $3.65 a gallon (−5.0%).",
-    "pt": "O WTI de janeiro fechou a 80,17 dólares (−3,9%), o menor nível desde 7 de agosto, e o Brent a 89,37 (−3,5%), o menor desde 28 de agosto, pela expectativa de um excedente de oferta em 2027, segundo o The Wall Street Journal. O diesel nos futuros terminou a 3,65 dólares por galão (−5,0%)."
+    "es": "El WTI subía 1.8% a 81.64 dólares y el Brent de enero 1.8% a 90.93 a las 8:58 CDMX, después de tocar mínimos de tres meses en la madrugada. Irán dijo que tres tanqueros chocaron con minas en Ormuz y EE. UU. investiga ciberataques a hasta 50 tanqueros, según Reuters. El diésel en futuros estaba en 3.69 dólares por galón.",
+    "en": "WTI rose 1.8% to $81.64 and January Brent 1.8% to $90.93 at 9:58 a.m. ET, after touching three-month lows overnight. Iran said three tankers hit mines in Hormuz and the US is investigating cyberattacks on as many as 50 tankers, according to Reuters. Diesel futures stood at $3.69 a gallon.",
+    "pt": "O WTI subia 1,8% para 81,64 dólares e o Brent de janeiro 1,8% para 90,93 às 8h58 (Cidade do México), depois de tocar mínimas de três meses na madrugada. O Irã disse que três petroleiros atingiram minas em Ormuz e os EUA investigam ciberataques a até 50 petroleiros, segundo a Reuters. O diesel nos futuros estava a 3,69 dólares por galão."
    },
    "scm": {
-    "es": "Cierra los recargos de combustible de diciembre con el diésel en 3.65 dólares por galón y ajuste semanal.",
-    "en": "Lock in December fuel surcharges with diesel at $3.65 a gallon and weekly adjustment.",
-    "pt": "Feche as sobretaxas de combustível de dezembro com o diesel a 3,65 dólares por galão e ajuste semanal."
+    "es": "Cierra los recargos de combustible de diciembre con ajuste semanal: el crudo sigue cerca de mínimos de tres meses.",
+    "en": "Lock in December fuel surcharges with weekly adjustment: crude remains near three-month lows.",
+    "pt": "Feche as sobretaxas de combustível de dezembro com ajuste semanal: o petróleo segue perto de mínimas de três meses."
    },
    "fuentes": [
     {
-     "t": "The Wall Street Journal: el petróleo baja por el excedente de oferta pese a los ataques en el Golfo (23 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-traders-weigh-125800024.html"
+     "t": "Reuters: el petróleo toca mínimos de tres meses por mayor oferta pese al riesgo en Ormuz (24 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-prices-near-three-month-051343862.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 23 nov 2026)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (24 nov 2026, 09:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   {
-   "id": "puertos",
-   "dir": "down",
+   "id": "retail",
+   "dir": "up",
    "calor": 2,
-   "mx": false,
+   "mx": true,
    "latam": false,
-   "es": "Marítimo y puertos",
-   "en": "Shipping and ports",
-   "pt": "Marítimo e portos",
+   "es": "Retail y última milla",
+   "en": "Retail and last mile",
+   "pt": "Varejo e última milha",
    "titular": {
-    "es": "Los tránsitos por Ormuz siguen 42% abajo de antes de la guerra pese a la recuperación de las exportaciones",
-    "en": "Hormuz transits remain 42% below pre-war levels despite the export recovery",
-    "pt": "Os trânsitos por Ormuz seguem 42% abaixo do pré-guerra apesar da recuperação das exportações"
+    "es": "Best Buy tiene sus mejores ventas comparables en cinco años y eleva su guía",
+    "en": "Best Buy posts its best comparable sales in five years and raises guidance",
+    "pt": "A Best Buy tem as melhores vendas comparáveis em cinco anos e eleva a projeção"
    },
    "x": {
-    "es": "Los tránsitos por el estrecho de Ormuz estuvieron 42% abajo de los niveles de antes de la guerra en los siete días al 21 de noviembre, según datos preliminares citados por The Wall Street Journal. Arabia Saudita interceptó un dron hutí el domingo, y los ataques a tanqueros continúan.",
-    "en": "Transits through the Strait of Hormuz were 42% below pre-war levels in the seven days through November 21, according to preliminary data cited by The Wall Street Journal. Saudi Arabia intercepted a Houthi drone on Sunday, and tanker attacks continue.",
-    "pt": "Os trânsitos pelo estreito de Ormuz ficaram 42% abaixo dos níveis do pré-guerra nos sete dias até 21 de novembro, segundo dados preliminares citados pelo The Wall Street Journal. A Arábia Saudita interceptou um drone houthi no domingo, e os ataques a petroleiros continuam."
+    "es": "Las ventas comparables de Best Buy subieron 6.1% en el trimestre, su mejor alza en cinco años, con computadoras, celulares, lentes con IA y cartas coleccionables; sus ventas en línea subieron 10.8%. Elevó su guía de ingresos del año a 43,000 a 43,300 millones de dólares. Dick's Sporting Goods subía 13.8% tras su reporte.",
+    "en": "Best Buy's comparable sales rose 6.1% in the quarter, its best gain in five years, driven by computers, phones, AI glasses and trading cards; online sales rose 10.8%. It raised its annual revenue outlook to $43 billion to $43.3 billion. Dick's Sporting Goods rose 13.8% after its report.",
+    "pt": "As vendas comparáveis da Best Buy subiram 6,1% no trimestre, a melhor alta em cinco anos, com computadores, celulares, óculos com IA e cartas colecionáveis; as vendas online subiram 10,8%. Elevou a projeção de receita do ano para 43 a 43,3 bilhões de dólares. A Dick's Sporting Goods subia 13,8% depois do resultado."
    },
    "scm": {
-    "es": "Mantén colchón de días y seguro de riesgo de guerra en embarques que crucen el Golfo Pérsico.",
-    "en": "Keep buffer days and war-risk insurance on shipments crossing the Persian Gulf.",
-    "pt": "Mantenha folga de dias e seguro de risco de guerra nos embarques que cruzem o Golfo Pérsico."
+    "es": "Si exportas o surtes electrónica a EE. UU., confirma inventario y cortes de embarque antes del miércoles 25.",
+    "en": "If you export or supply electronics to the US, confirm inventory and shipping cutoffs before Wednesday the 25th.",
+    "pt": "Se você exporta ou abastece eletrônicos para os EUA, confirme estoque e prazos de embarque antes da quarta, dia 25."
    },
    "fuentes": [
     {
-     "t": "The Wall Street Journal: el petróleo baja por el excedente de oferta pese a los ataques en el Golfo (23 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-traders-weigh-125800024.html"
+     "t": "Investor's Business Daily: las ventas comparables de Best Buy suben 6.1%, su mayor alza en cinco años (24 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/best-buy-sales-jump-6-144126067.html"
     }
    ]
   },
   {
    "id": "software",
-   "dir": "mixed",
-   "calor": 2,
+   "dir": "down",
+   "calor": 3,
    "mx": false,
    "latam": false,
    "es": "Software e IA para supply chain",
    "en": "Software and AI for supply chain",
    "pt": "Software e IA para supply chain",
    "titular": {
-    "es": "Anthropic cierra con −1.4% y CrowdStrike con −8.9% por la compra de Zscaler",
-    "en": "Anthropic closes −1.4% and CrowdStrike −8.9% on the Zscaler deal",
-    "pt": "A Anthropic fecha com −1,4% e a CrowdStrike com −8,9% pela compra da Zscaler"
+    "es": "Anthropic cae 7.9% a 80.70 dólares, debajo de su precio de salida de 83",
+    "en": "Anthropic falls 7.9% to $80.70, below its $83 IPO price",
+    "pt": "A Anthropic cai 7,9% para 80,70 dólares, abaixo do preço do IPO de 83"
    },
    "x": {
-    "es": "Anthropic se quedó fuera del rebote y cerró en 87.64 dólares (−1.4%). Zscaler subió 17.7% y CrowdStrike cayó 8.9% tras anunciar la compra en acciones por unos 43,900 millones de dólares. Zoom reportó ingresos trimestrales por 1,290.6 millones de dólares (+4.9%) e inició un dividendo.",
-    "en": "Anthropic sat out the rebound and closed at $87.64 (−1.4%). Zscaler rose 17.7% and CrowdStrike fell 8.9% after announcing the all-stock deal worth about $43.9 billion. Zoom reported quarterly revenue of $1,290.6 million (+4.9%) and initiated a dividend.",
-    "pt": "A Anthropic ficou fora do repique e fechou a 87,64 dólares (−1,4%). A Zscaler subiu 17,7% e a CrowdStrike caiu 8,9% depois de anunciar a compra em ações por cerca de 43,9 bilhões de dólares. A Zoom reportou receita trimestral de 1,29 bilhão de dólares (+4,9%) e iniciou o pagamento de dividendos."
+    "es": "Menos de una semana después de su debut, Anthropic caía 7.9% a 80.70 dólares a las 9:08 CDMX, debajo de su precio de salida de 83, pese a que Canaccord (135 dólares), Oppenheimer (150) y Wedbush (120) iniciaron cobertura con recomendación de compra, según 24/7 Wall St.",
+    "en": "Less than a week after its debut, Anthropic was down 7.9% at $80.70 at 10:08 a.m. ET, below its $83 IPO price, even though Canaccord ($135), Oppenheimer ($150) and Wedbush ($120) initiated coverage with buy ratings, according to 24/7 Wall St.",
+    "pt": "Menos de uma semana depois da estreia, a Anthropic caía 7,9% para 80,70 dólares às 9h08 (Cidade do México), abaixo do preço do IPO de 83, apesar de Canaccord (135 dólares), Oppenheimer (150) e Wedbush (120) terem iniciado cobertura com recomendação de compra, segundo a 24/7 Wall St."
    },
    "scm": {
-    "es": "Si usas CrowdStrike o Zscaler, revisa renovaciones: la integración puede cambiar precios y soporte en 2027.",
-    "en": "If you use CrowdStrike or Zscaler, review renewals: the integration may change pricing and support in 2027.",
-    "pt": "Se você usa CrowdStrike ou Zscaler, revise as renovações: a integração pode mudar preços e suporte em 2027."
+    "es": "Si evalúas herramientas de IA para planeación o compras, pide precios y niveles de servicio fijos para 2027.",
+    "en": "If you are evaluating AI tools for planning or procurement, ask for fixed 2027 pricing and service levels.",
+    "pt": "Se você avalia ferramentas de IA para planejamento ou compras, peça preços e níveis de serviço fixos para 2027."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: el Dow, el S&P 500 y el Nasdaq se disparan con el regreso de Jensen Huang a Nvidia (23 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
-    },
-    {
-     "t": "Zoom Communications: resultados del tercer trimestre del año fiscal 2027 (23 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/zoom-communications-reports-financial-results-210500379.html"
+     "t": "24/7 Wall St.: Anthropic cae 9% y cotiza debajo de su precio de salida; CoreWeave y Nebius bajan 8% (24 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/anthropic-tumbles-9-trades-below-145448903.html"
     }
    ]
   },
   {
    "id": "mineria",
-   "dir": "up",
+   "dir": "down",
    "calor": 2,
    "mx": true,
    "latam": true,
@@ -184,30 +180,30 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "El oro cierra con +3.4%, la plata con +4.6% y el cobre con +2.5%",
-    "en": "Gold closes +3.4%, silver +4.6% and copper +2.5%",
-    "pt": "O ouro fecha com +3,4%, a prata com +4,6% e o cobre com +2,5%"
+    "es": "El cobre cae 3.3% a 5.53 dólares y la plata 2.6%",
+    "en": "Copper falls 3.3% to $5.53 and silver 2.6%",
+    "pt": "O cobre cai 3,3% para 5,53 dólares e a prata 2,6%"
    },
    "x": {
-    "es": "El oro terminó en 3,635 dólares (+3.4%), la plata en 42.95 (+4.6%) y el cobre en 5.62 dólares por libra (+2.5%), recuperando parte de la caída de la semana pasada.",
-    "en": "Gold ended at $3,635 (+3.4%), silver at $42.95 (+4.6%) and copper at $5.62 per pound (+2.5%), recovering part of last week's drop.",
-    "pt": "O ouro terminou a 3.635 dólares (+3,4%), a prata a 42,95 (+4,6%) e o cobre a 5,62 dólares por libra (+2,5%), recuperando parte da queda da semana passada."
+    "es": "A las 8:58 CDMX el cobre estaba en 5.53 dólares por libra (−3.3%), la plata en 42.05 (−2.6%) y el oro en 3,624 (−0.8%), devolviendo parte del rebote del lunes.",
+    "en": "At 9:58 a.m. ET copper stood at $5.53 per pound (−3.3%), silver at $42.05 (−2.6%) and gold at $3,624 (−0.8%), giving back part of Monday's rebound.",
+    "pt": "Às 8h58 (Cidade do México) o cobre estava a 5,53 dólares por libra (−3,3%), a prata a 42,05 (−2,6%) e o ouro a 3.624 (−0,8%), devolvendo parte do repique de segunda."
    },
    "scm": {
-    "es": "Escalona las compras de cable y conectores del primer trimestre.",
-    "en": "Stagger first-quarter cable and connector purchases.",
-    "pt": "Escalone as compras de cabos e conectores do primeiro trimestre."
+    "es": "Cotiza cable y conectores del primer trimestre con el cobre a la baja.",
+    "en": "Quote first-quarter cable and connectors with copper lower.",
+    "pt": "Cote cabos e conectores do primeiro trimestre com o cobre em queda."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 23 nov 2026)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (24 nov 2026, 09:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   {
    "id": "centros",
-   "dir": "up",
+   "dir": "down",
    "calor": 2,
    "mx": false,
    "latam": false,
@@ -215,24 +211,28 @@
    "en": "Data centers and cloud",
    "pt": "Data centers e nuvem",
    "titular": {
-    "es": "CoreWeave cierra con +22.3%, Nebius con +20.3% e IREN con +23.9%",
-    "en": "CoreWeave closes +22.3%, Nebius +20.3% and IREN +23.9%",
-    "pt": "A CoreWeave fecha com +22,3%, a Nebius com +20,3% e a IREN com +23,9%"
+    "es": "CoreWeave cae 9.8% y Nebius 10.1% tras el rebote del lunes",
+    "en": "CoreWeave falls 9.8% and Nebius 10.1% after Monday’s rebound",
+    "pt": "A CoreWeave cai 9,8% e a Nebius 10,1% depois do repique de segunda"
    },
    "x": {
-    "es": "Las empresas de nube para IA cerraron con fuertes alzas: CoreWeave +22.3%, IREN +23.9% y Nebius +20.3%. Pero IREN compró unos 5,800 millones de dólares en equipo a Dell para un contrato con precio fijo con Microsoft, y cada 10% extra en el precio de los servidores le costaría unos 580 millones, según TIKR.",
-    "en": "AI cloud companies closed sharply higher: CoreWeave +22.3%, IREN +23.9% and Nebius +20.3%. But IREN bought about $5.8 billion of equipment from Dell for a fixed-price contract with Microsoft, and every extra 10% on server prices would cost it about $580 million, according to TIKR.",
-    "pt": "As empresas de nuvem para IA fecharam em forte alta: CoreWeave +22,3%, IREN +23,9% e Nebius +20,3%. Mas a IREN comprou cerca de 5,8 bilhões de dólares em equipamentos da Dell para um contrato de preço fixo com a Microsoft, e cada 10% extra no preço dos servidores lhe custaria cerca de 580 milhões, segundo a TIKR."
+    "es": "Las nubes de IA devolvían parte del alza del lunes: CoreWeave caía 9.8% y Nebius 10.1%, según 24/7 Wall St. HPE dijo que no financia a estas empresas ni a clientes de alto riesgo para comprar servidores.",
+    "en": "AI neoclouds gave back part of Monday’s gain: CoreWeave fell 9.8% and Nebius 10.1%, according to 24/7 Wall St. HPE said it does not finance these companies or high-risk customers to buy servers.",
+    "pt": "As nuvens de IA devolviam parte da alta de segunda: a CoreWeave caía 9,8% e a Nebius 10,1%, segundo a 24/7 Wall St. A HPE disse que não financia essas empresas nem clientes de alto risco para comprar servidores."
    },
    "scm": {
-    "es": "Si abasteces a centros de datos, revisa quién absorbe los aumentos de precio de hardware en tus contratos.",
-    "en": "If you supply data centers, review who absorbs hardware price increases in your contracts.",
-    "pt": "Se você abastece data centers, revise quem absorve os aumentos de preço de hardware nos seus contratos."
+    "es": "Si abasteces a centros de datos, revisa el riesgo de crédito de tus clientes más nuevos antes de ampliar plazos de pago.",
+    "en": "If you supply data centers, review the credit risk of your newest customers before extending payment terms.",
+    "pt": "Se você abastece data centers, revise o risco de crédito dos clientes mais novos antes de ampliar prazos de pagamento."
    },
    "fuentes": [
     {
-     "t": "TIKR: Dell pide hasta 45% más en contratos de IA ya firmados (23 nov 2026)",
-     "u": "https://finance.yahoo.com/technology/ai/articles/dell-wants-45-more-signed-193847809.html"
+     "t": "24/7 Wall St.: Anthropic cae 9% y cotiza debajo de su precio de salida; CoreWeave y Nebius bajan 8% (24 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/anthropic-tumbles-9-trades-below-145448903.html"
+    },
+    {
+     "t": "Stocktwits: HPE cae porque su guía del primer trimestre queda un poco abajo de lo esperado (24 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/hpe-stock-drops-8-hours-001026553.html"
     }
    ]
   }

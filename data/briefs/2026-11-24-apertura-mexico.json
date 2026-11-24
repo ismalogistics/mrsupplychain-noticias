@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-24-apertura-mexico",
+ "fecha": "2026-11-24",
+ "momento": "apertura",
+ "mercado": "mexico",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "La inflación sube a 3.96% por la luz y el jitomate; el peso se debilita a 19.31 y mañana rige un FIX de 19.1648",
+  "esencial": [
+   "La inflación anual subió a 3.96% en la primera quincena de noviembre, desde 3.88%, por el fin del subsidio de verano a la luz (+20.7%) y el jitomate (+29%); la subyacente bajó a 3.68%, según el INEGI.",
+   "A las 9:08 CDMX el peso cotizaba en 19.31 por dólar (+0.86% el dólar) y el IPC subía 0.70% a 69,839.93.",
+   "Para supply chain: hoy rige el FIX de 19.0228 y mañana sube a 19.1648; liquida hoy los pagos en dólares que puedas."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "A las 8:48 CDMX el S&P/BMV IPC estaba en 69,839.93 puntos (+0.70%). A las 9:08 CDMX el peso cotizaba en 19.31 por dólar (+0.86% el dólar), más débil aunque el índice del dólar bajaba 0.52%. El FIX determinado ayer fue de 19.1648 (+0.75%), según Banxico: se publica hoy en el DOF y rige para pagos desde mañana miércoles. Hoy rige el de 19.0228."
+   },
+   {
+    "t": "Inflación",
+    "x": "La inflación anual subió a 3.96% en la primera quincena de noviembre, desde 3.88% en la segunda de octubre; los precios subieron 0.54% en la quincena, según el INEGI. La luz subió 20.7% por el fin del subsidio de verano en 11 ciudades, el jitomate 29% y el tomate verde 39%. La subyacente, que quita los precios más volátiles, bajó a 3.68% anual y −0.10% en la quincena; El Buen Fin solo entró tres días en la medición, según Expansión. Banorte esperaba 4.03%."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "El viernes 27 el INEGI publica la balanza comercial de octubre. El jueves 26 la BMV opera aunque Wall Street cierra."
+   }
+  ],
+  "scm": "Hoy rige el FIX de 19.0228 y mañana sube a 19.1648: liquida hoy los pagos en dólares que puedas. La subyacente baja: hay margen para negociar precios de servicios y bienes no alimenticios; en alimentos frescos, cubre el alza del jitomate."
+ },
+ "en": {
+  "titular": "Inflation rises to 3.96% on electricity and tomatoes; the peso weakens to 19.31 and a 19.1648 FIX applies tomorrow",
+  "esencial": [
+   "Annual inflation rose to 3.96% in the first half of November, from 3.88%, on the end of the summer electricity subsidy (+20.7%) and tomatoes (+29%); core fell to 3.68%, according to INEGI.",
+   "At 9:08 a.m. Mexico City time the peso traded at 19.31 per dollar (dollar +0.86%) and the IPC rose 0.70% to 69,839.93.",
+   "For supply chain: today the 19.0228 FIX applies and tomorrow it rises to 19.1648; settle the dollar payments you can today."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "At 8:48 a.m. Mexico City time the S&P/BMV IPC stood at 69,839.93 points (+0.70%). At 9:08 a.m. the peso traded at 19.31 per dollar (dollar +0.86%), weaker even as the dollar index fell 0.52%. The FIX set yesterday was 19.1648 (+0.75%), according to Banxico: it is published today in the DOF and applies to payments from Wednesday. Today the 19.0228 one applies."
+   },
+   {
+    "t": "Inflation",
+    "x": "Annual inflation rose to 3.96% in the first half of November, from 3.88% in the second half of October; prices rose 0.54% in the fortnight, according to INEGI. Electricity rose 20.7% on the end of the summer subsidy in 11 cities, tomatoes 29% and green tomatoes 39%. Core inflation, which strips out the most volatile prices, fell to 3.68% annual and −0.10% in the fortnight; El Buen Fin was only in the measurement for three days, according to Expansión. Banorte expected 4.03%."
+   },
+   {
+    "t": "What to expect today",
+    "x": "On Friday the 27th INEGI publishes the October trade balance. On Thursday the 26th the BMV is open although Wall Street is closed."
+   }
+  ],
+  "scm": "Today the 19.0228 FIX applies and tomorrow it rises to 19.1648: settle the dollar payments you can today. Core inflation is falling: there is room to negotiate prices on services and non-food goods; in fresh food, hedge the tomato increase."
+ },
+ "pt": {
+  "titular": "A inflação sobe para 3,96% pela energia e o tomate; o peso se enfraquece para 19,31 e amanhã vale um FIX de 19,1648",
+  "esencial": [
+   "A inflação anual subiu para 3,96% na primeira quinzena de novembro, desde 3,88%, pelo fim do subsídio de verão à energia elétrica (+20,7%) e pelo tomate (+29%); a núcleo caiu para 3,68%, segundo o INEGI.",
+   "Às 9h08 (Cidade do México) o peso era cotado a 19,31 por dólar (dólar +0,86%) e o IPC subia 0,70% para 69.839,93.",
+   "Para supply chain: hoje vale o FIX de 19,0228 e amanhã sobe para 19,1648; liquide hoje os pagamentos em dólares que puder."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "Às 8h48 (Cidade do México) o S&P/BMV IPC estava em 69.839,93 pontos (+0,70%). Às 9h08 o peso era cotado a 19,31 por dólar (dólar +0,86%), mais fraco embora o índice do dólar caísse 0,52%. O FIX definido ontem foi de 19,1648 (+0,75%), segundo o Banxico: é publicado hoje no DOF e vale para pagamentos a partir de amanhã, quarta. Hoje vale o de 19,0228."
+   },
+   {
+    "t": "Inflação",
+    "x": "A inflação anual subiu para 3,96% na primeira quinzena de novembro, desde 3,88% na segunda de outubro; os preços subiram 0,54% na quinzena, segundo o INEGI. A energia elétrica subiu 20,7% pelo fim do subsídio de verão em 11 cidades, o tomate 29% e o tomate verde 39%. A núcleo, que exclui os preços mais voláteis, caiu para 3,68% anual e −0,10% na quinzena; o Buen Fin só entrou três dias na medição, segundo a Expansión. O Banorte esperava 4,03%."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Na sexta, dia 27, o INEGI divulga a balança comercial de outubro. Na quinta, dia 26, a BMV opera embora Wall Street feche."
+   }
+  ],
+  "scm": "Hoje vale o FIX de 19,0228 e amanhã sobe para 19,1648: liquide hoje os pagamentos em dólares que puder. A núcleo cai: há margem para negociar preços de serviços e bens não alimentícios; em alimentos frescos, cubra a alta do tomate."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 24 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Expansión: la inflación sube a 3.96% en la quincena en que arrancó El Buen Fin (24 nov 2026)",
+   "u": "https://expansion.mx/economia/2026/11/24/la-inflacion-sube-a-3-96-en-la-quincena-en-que-arranco-el-buen-fin"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (23 nov 2026: 19.1648)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (24 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

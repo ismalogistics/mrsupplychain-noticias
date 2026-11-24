@@ -1,0 +1,102 @@
+{
+ "id": "2026-11-24-apertura-global",
+ "fecha": "2026-11-24",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "La IA se vende un día después del rebote: los chips caen 7%, Nvidia 6.8% y Anthropic baja de su precio de salida",
+  "esencial": [
+   "A las 9:08 CDMX el Nasdaq bajaba 1.56%, el S&P 500 0.66% y el Dow subía 0.40%; el índice de semiconductores caía 7.3%, AMD y Micron 9.1% y Nvidia 6.8%.",
+   "Anthropic caía 7.9% a 80.70 dólares, debajo de su precio de salida de 83; HPE perdía 15% y Dell 11.7% antes de reportar hoy.",
+   "Para supply chain: Best Buy tuvo sus mejores ventas comparables en cinco años (+6.1%) y elevó su guía; confirma inventario y cortes de embarque para la temporada de compras."
+  ],
+  "bloques": [
+   {
+    "t": "Apertura",
+    "x": "El premercado anticipaba un ajuste tras el rebote del lunes y la apertura lo confirmó en tecnología: a las 9:08 CDMX el S&P 500 estaba en 7,189.57 (−0.66%), el Nasdaq en 23,713.45 (−1.56%) y el Dow en 49,791.96 (+0.40%); el VIX en 27.5. El índice de semiconductores caía 7.3%: AMD −9.1%, Micron −9.1%, Nvidia −6.8% (153.85 dólares), TSMC −4.5% y Broadcom −3.1%. Anthropic caía 7.9% a 80.70 dólares, debajo de su precio de salida de 83, pese a que Canaccord, Oppenheimer y Wedbush iniciaron cobertura con recomendación de compra, según 24/7 Wall St. HPE perdía 15% tras su guía, Dell 11.7% antes de reportar, y CoreWeave y Nebius cerca de 10%. Best Buy subía 1.7% tras reportar ventas comparables de +6.1%, su mejor alza en cinco años, y Dick's Sporting Goods 13.8%."
+   },
+   {
+    "t": "Tasas y materias primas",
+    "x": "El WTI rebotaba 1.8% a 81.64 dólares y el Brent de enero 1.8% a 90.93, desde mínimos de tres meses; el diésel en futuros estaba en 3.69 dólares por galón. El oro bajaba 0.8% a 3,624, la plata 2.6% y el cobre 3.3% a 5.53 dólares por libra. El Treasury a 10 años estaba en 4.91% y el índice del dólar bajaba 0.52% a 103.78."
+   },
+   {
+    "t": "Asia, Europa y qué sigue",
+    "x": "Asia cerró al alza: KOSPI +6.32% y Nikkei +3.91%. A las 8:53 CDMX Europa estaba mixta: Euro Stoxx 50 −0.54%, DAX −0.66%, CAC 40 +0.25% y FTSE 100 +0.13%. A las 9:00 CDMX salió la confianza del consumidor del Conference Board; después del cierre reportan Dell y HP. Mañana salen el PCE y el PIB de EE. UU., y el jueves no opera Wall Street."
+   }
+  ],
+  "scm": "El consumo de electrónica en EE. UU. aguanta (Best Buy +6.1% en ventas comparables): confirma inventario, recolecciones y cortes de embarque antes del miércoles 25. En hardware, escucha hoy a Dell y HP antes de cerrar pedidos de servidores o laptops."
+ },
+ "en": {
+  "titular": "AI sells off a day after the rebound: chips fall 7%, Nvidia 6.8% and Anthropic drops below its IPO price",
+  "esencial": [
+   "At 10:08 a.m. ET the Nasdaq was down 1.56%, the S&P 500 0.66% and the Dow up 0.40%; the semiconductor index fell 7.3%, AMD and Micron 9.1% and Nvidia 6.8%.",
+   "Anthropic fell 7.9% to $80.70, below its $83 IPO price; HPE lost 15% and Dell 11.7% ahead of its report today.",
+   "For supply chain: Best Buy posted its best comparable sales in five years (+6.1%) and raised guidance; confirm inventory and shipping cutoffs for the shopping season."
+  ],
+  "bloques": [
+   {
+    "t": "Open",
+    "x": "Premarket pointed to a pullback after Monday's rebound and the open confirmed it in tech: at 10:08 a.m. ET the S&P 500 stood at 7,189.57 (−0.66%), the Nasdaq at 23,713.45 (−1.56%) and the Dow at 49,791.96 (+0.40%); the VIX at 27.5. The semiconductor index fell 7.3%: AMD −9.1%, Micron −9.1%, Nvidia −6.8% ($153.85), TSMC −4.5% and Broadcom −3.1%. Anthropic fell 7.9% to $80.70, below its $83 IPO price, even though Canaccord, Oppenheimer and Wedbush initiated coverage with buy ratings, according to 24/7 Wall St. HPE lost 15% on its guidance, Dell 11.7% ahead of its report, and CoreWeave and Nebius about 10%. Best Buy rose 1.7% after reporting comparable sales of +6.1%, its best gain in five years, and Dick's Sporting Goods 13.8%."
+   },
+   {
+    "t": "Rates and commodities",
+    "x": "WTI rebounded 1.8% to $81.64 and January Brent 1.8% to $90.93, from three-month lows; diesel futures stood at $3.69 a gallon. Gold fell 0.8% to $3,624, silver 2.6% and copper 3.3% to $5.53 per pound. The 10-year Treasury yield stood at 4.91% and the dollar index fell 0.52% to 103.78."
+   },
+   {
+    "t": "Asia, Europe and what’s next",
+    "x": "Asia closed higher: KOSPI +6.32% and Nikkei +3.91%. At 9:53 a.m. ET Europe was mixed: Euro Stoxx 50 −0.54%, DAX −0.66%, CAC 40 +0.25% and FTSE 100 +0.13%. The Conference Board's consumer confidence index came out at 10:00 a.m. ET; Dell and HP report after the close. US PCE and GDP come out tomorrow, and Wall Street is closed on Thursday."
+   }
+  ],
+  "scm": "US electronics demand holds up (Best Buy comparable sales +6.1%): confirm inventory, pickups and shipping cutoffs before Wednesday the 25th. In hardware, listen to Dell and HP today before closing server or laptop orders."
+ },
+ "pt": {
+  "titular": "A IA é vendida um dia depois do repique: os chips caem 7%, a Nvidia 6,8% e a Anthropic fica abaixo do preço do IPO",
+  "esencial": [
+   "Às 9h08 (Cidade do México) o Nasdaq caía 1,56%, o S&P 500 0,66% e o Dow subia 0,40%; o índice de semicondutores caía 7,3%, AMD e Micron 9,1% e a Nvidia 6,8%.",
+   "A Anthropic caía 7,9% para 80,70 dólares, abaixo do preço do IPO de 83; a HPE perdia 15% e a Dell 11,7% antes de divulgar resultados hoje.",
+   "Para supply chain: a Best Buy teve as melhores vendas comparáveis em cinco anos (+6,1%) e elevou a projeção; confirme estoque e prazos de embarque para a temporada de compras."
+  ],
+  "bloques": [
+   {
+    "t": "Abertura",
+    "x": "O pré-mercado antecipava um ajuste depois do repique de segunda e a abertura o confirmou em tecnologia: às 9h08 (Cidade do México) o S&P 500 estava em 7.189,57 (−0,66%), o Nasdaq em 23.713,45 (−1,56%) e o Dow em 49.791,96 (+0,40%); o VIX em 27,5. O índice de semicondutores caía 7,3%: AMD −9,1%, Micron −9,1%, Nvidia −6,8% (153,85 dólares), TSMC −4,5% e Broadcom −3,1%. A Anthropic caía 7,9% para 80,70 dólares, abaixo do preço do IPO de 83, apesar de Canaccord, Oppenheimer e Wedbush terem iniciado cobertura com recomendação de compra, segundo a 24/7 Wall St. A HPE perdia 15% pela projeção, a Dell 11,7% antes do resultado, e CoreWeave e Nebius cerca de 10%. A Best Buy subia 1,7% depois de reportar vendas comparáveis de +6,1%, a melhor alta em cinco anos, e a Dick's Sporting Goods 13,8%."
+   },
+   {
+    "t": "Juros e matérias-primas",
+    "x": "O WTI subia 1,8% para 81,64 dólares e o Brent de janeiro 1,8% para 90,93, desde mínimas de três meses; o diesel nos futuros estava a 3,69 dólares por galão. O ouro caía 0,8% para 3.624, a prata 2,6% e o cobre 3,3% para 5,53 dólares por libra. O rendimento do Treasury de 10 anos estava em 4,91% e o índice do dólar caía 0,52% para 103,78."
+   },
+   {
+    "t": "Ásia, Europa e o que vem",
+    "x": "A Ásia fechou em alta: KOSPI +6,32% e Nikkei +3,91%. Às 8h53 (Cidade do México) a Europa estava mista: Euro Stoxx 50 −0,54%, DAX −0,66%, CAC 40 +0,25% e FTSE 100 +0,13%. Às 9h00 saiu a confiança do consumidor do Conference Board; depois do fechamento divulgam resultados Dell e HP. Amanhã saem o PCE e o PIB dos EUA, e na quinta Wall Street não opera."
+   }
+  ],
+  "scm": "O consumo de eletrônicos nos EUA resiste (vendas comparáveis da Best Buy +6,1%): confirme estoque, coletas e prazos de embarque antes da quarta, dia 25. Em hardware, ouça hoje Dell e HP antes de fechar pedidos de servidores ou laptops."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: Nvidia subió 31% con el regreso de Jensen Huang; un día después, la IA se vende (24 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/article/nvidia-leads-semiconductors-lower-alphacheck-144509267.html"
+  },
+  {
+   "t": "24/7 Wall St.: Anthropic cae 9% y cotiza debajo de su precio de salida; CoreWeave y Nebius bajan 8% (24 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/anthropic-tumbles-9-trades-below-145448903.html"
+  },
+  {
+   "t": "Stocktwits: HPE cae porque su guía del primer trimestre queda un poco abajo de lo esperado (24 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/hpe-stock-drops-8-hours-001026553.html"
+  },
+  {
+   "t": "Investor's Business Daily: las ventas comparables de Best Buy suben 6.1%, su mayor alza en cinco años (24 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/best-buy-sales-jump-6-144126067.html"
+  },
+  {
+   "t": "Reuters: el petróleo toca mínimos de tres meses por mayor oferta pese al riesgo en Ormuz (24 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-prices-near-three-month-051343862.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (24 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
