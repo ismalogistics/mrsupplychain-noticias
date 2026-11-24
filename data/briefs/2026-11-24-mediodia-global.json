@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-24-mediodia-global",
+ "fecha": "2026-11-24",
+ "momento": "mediodia",
+ "mercado": "global",
+ "hora": "11:37 CDMX",
+ "es": {
+  "titular": "Los chips caen 7.4% y la plata 5.7%, pero la confianza del consumidor de EE. UU. sube a su nivel más alto en casi dos años",
+  "esencial": [
+   "A las 11:37 CDMX el Nasdaq bajaba 1.42%, el S&P 500 0.42% y el Dow subía 0.80%; el índice de semiconductores caía 7.4%, Micron 10.5% y Nvidia 7.1%.",
+   "La confianza del consumidor de EE. UU. subió en noviembre a su nivel más alto en casi dos años, según el Conference Board, y la gasolina bajó a 3.61 dólares por galón, su nivel más bajo desde marzo.",
+   "Para supply chain: la demanda de consumo aguanta antes de la temporada de compras, mientras los metales caen con fuerza (plata −5.7%, cobre −4.9%); cotiza insumos metálicos esta semana."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "La apertura mostraba una venta en IA tras el rebote del lunes: los chips caían 7%, Nvidia 6.8% y Anthropic bajaba de su precio de salida, mientras Best Buy tenía sus mejores ventas en cinco años."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:37 CDMX el S&P 500 estaba en 7,206.57 (−0.42%), el Nasdaq en 23,746.81 (−1.42%) y el Dow en 49,993.80 (+0.80%); más temprano el S&P 500 llegó a caer 1.2%, según Reuters. El índice de semiconductores caía 7.4%: Micron −10.5%, AMD −9.1%, Nvidia −7.1% y TSMC −4.5%. Anthropic caía 8.2% a 80.46 dólares, debajo de su precio de salida de 83; HPE perdía 16.7%, Dell 11.4% y CoreWeave 11.8%. Salud y consumo básico subían y sostenían al Dow. Europa cerró a la baja: Euro Stoxx 50 −1.16% y DAX −1.26%. El WTI subía 1.7% a 81.55 dólares y el Brent de enero 1.6% a 90.83; el oro caía 2.4%, la plata 5.7% y el cobre 4.9% a 5.44 dólares por libra."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "La confianza del consumidor de EE. UU. subió en noviembre a su nivel más alto en casi dos años, con optimismo sobre el empleo y la economía tras las elecciones intermedias, según el Conference Board citado por Reuters. La gasolina bajó a 3.61 dólares por galón en promedio, su nivel más bajo desde marzo y 0.68 menos que hace un mes, según AAA. AMD cayó por un reporte en corto de Hunterbrook y por el registro de 337 millones de acciones para reventa, según GuruFocus. John Williams, de la Fed de Nueva York, dijo que la inflación alta sigue apuntando a una política más restrictiva."
+   }
+  ],
+  "scm": "La demanda de consumo en EE. UU. aguanta antes de la temporada de compras: confirma inventario y cortes de embarque antes de mañana. Con la plata y el cobre a la baja, cotiza esta semana los insumos metálicos del primer trimestre."
+ },
+ "en": {
+  "titular": "Chips fall 7.4% and silver 5.7%, but US consumer confidence rises to its highest in nearly two years",
+  "esencial": [
+   "At 12:37 p.m. ET the Nasdaq was down 1.42%, the S&P 500 0.42% and the Dow up 0.80%; the semiconductor index fell 7.4%, Micron 10.5% and Nvidia 7.1%.",
+   "US consumer confidence rose in November to its highest in nearly two years, according to the Conference Board, and gasoline fell to $3.61 a gallon, its lowest since March.",
+   "For supply chain: consumer demand holds up ahead of the shopping season, while metals fall sharply (silver −5.7%, copper −4.9%); quote metal inputs this week."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "The open showed an AI sell-off after Monday's rebound: chips fell 7%, Nvidia 6.8% and Anthropic dropped below its IPO price, while Best Buy posted its best sales in five years."
+   },
+   {
+    "t": "How it's going",
+    "x": "At 12:37 p.m. ET the S&P 500 stood at 7,206.57 (−0.42%), the Nasdaq at 23,746.81 (−1.42%) and the Dow at 49,993.80 (+0.80%); earlier the S&P 500 was down as much as 1.2%, according to Reuters. The semiconductor index fell 7.4%: Micron −10.5%, AMD −9.1%, Nvidia −7.1% and TSMC −4.5%. Anthropic fell 8.2% to $80.46, below its $83 IPO price; HPE lost 16.7%, Dell 11.4% and CoreWeave 11.8%. Healthcare and consumer staples rose and supported the Dow. Europe closed lower: Euro Stoxx 50 −1.16% and DAX −1.26%. WTI rose 1.7% to $81.55 and January Brent 1.6% to $90.83; gold fell 2.4%, silver 5.7% and copper 4.9% to $5.44 per pound."
+   },
+   {
+    "t": "What surprised",
+    "x": "US consumer confidence rose in November to its highest in nearly two years, on optimism about jobs and the economy after the midterm elections, according to the Conference Board as cited by Reuters. Gasoline fell to a $3.61 national average, its lowest since March and $0.68 less than a month ago, according to AAA. AMD fell on a Hunterbrook short report and the registration of 337 million shares for resale, according to GuruFocus. New York Fed President John Williams said persistently high inflation continues to point to tighter policy."
+   }
+  ],
+  "scm": "US consumer demand holds up ahead of the shopping season: confirm inventory and shipping cutoffs before tomorrow. With silver and copper lower, quote first-quarter metal inputs this week."
+ },
+ "pt": {
+  "titular": "Os chips caem 7,4% e a prata 5,7%, mas a confiança do consumidor dos EUA sobe ao maior nível em quase dois anos",
+  "esencial": [
+   "Às 11h37 (Cidade do México) o Nasdaq caía 1,42%, o S&P 500 0,42% e o Dow subia 0,80%; o índice de semicondutores caía 7,4%, a Micron 10,5% e a Nvidia 7,1%.",
+   "A confiança do consumidor dos EUA subiu em novembro ao maior nível em quase dois anos, segundo o Conference Board, e a gasolina caiu para 3,61 dólares por galão, o menor nível desde março.",
+   "Para supply chain: a demanda de consumo resiste antes da temporada de compras, enquanto os metais caem com força (prata −5,7%, cobre −4,9%); cote insumos metálicos nesta semana."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "A abertura mostrava uma venda em IA depois do repique de segunda: os chips caíam 7%, a Nvidia 6,8% e a Anthropic ficava abaixo do preço do IPO, enquanto a Best Buy tinha as melhores vendas em cinco anos."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h37 (Cidade do México) o S&P 500 estava em 7.206,57 (−0,42%), o Nasdaq em 23.746,81 (−1,42%) e o Dow em 49.993,80 (+0,80%); mais cedo o S&P 500 chegou a cair 1,2%, segundo a Reuters. O índice de semicondutores caía 7,4%: Micron −10,5%, AMD −9,1%, Nvidia −7,1% e TSMC −4,5%. A Anthropic caía 8,2% para 80,46 dólares, abaixo do preço do IPO de 83; a HPE perdia 16,7%, a Dell 11,4% e a CoreWeave 11,8%. Saúde e consumo básico subiam e sustentavam o Dow. A Europa fechou em queda: Euro Stoxx 50 −1,16% e DAX −1,26%. O WTI subia 1,7% para 81,55 dólares e o Brent de janeiro 1,6% para 90,83; o ouro caía 2,4%, a prata 5,7% e o cobre 4,9% para 5,44 dólares por libra."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A confiança do consumidor dos EUA subiu em novembro ao maior nível em quase dois anos, com otimismo sobre o emprego e a economia depois das eleições de meio de mandato, segundo o Conference Board citado pela Reuters. A gasolina caiu para uma média de 3,61 dólares por galão, o menor nível desde março e 0,68 a menos que há um mês, segundo a AAA. A AMD caiu por um relatório vendido da Hunterbrook e pelo registro de 337 milhões de ações para revenda, segundo a GuruFocus. John Williams, do Fed de Nova York, disse que a inflação alta segue apontando para uma política mais restritiva."
+   }
+  ],
+  "scm": "A demanda de consumo nos EUA resiste antes da temporada de compras: confirme estoque e prazos de embarque antes de amanhã. Com a prata e o cobre em queda, cote nesta semana os insumos metálicos do primeiro trimestre."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters: el Nasdaq y el S&P 500 caen mientras se deshace el rally impulsado por Nvidia (24 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-dip-chip-105355594.html"
+  },
+  {
+   "t": "Reuters: el petróleo sube por ataques a barcos en Ormuz; la perspectiva de excedente limita el alza (24 nov 2026)",
+   "u": "https://finance.yahoo.com/news/oil-prices-near-three-month-051343862.html"
+  },
+  {
+   "t": "Yahoo Finance: la gasolina baja a su nivel más bajo desde marzo antes del Día de Acción de Gracias (24 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/article/gas-prices-drop-to-the-lowest-level-since-march-ahead-of-thanksgiving-holiday-170804061.html"
+  },
+  {
+   "t": "GuruFocus: por qué cae AMD; reporte en corto de Hunterbrook (24 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-amd-amd-stock-down-173112516.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (24 nov 2026, 11:37 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

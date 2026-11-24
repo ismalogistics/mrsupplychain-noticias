@@ -1,0 +1,86 @@
+{
+ "id": "2026-11-24-mediodia-latam",
+ "fecha": "2026-11-24",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:37 CDMX",
+ "es": {
+  "titular": "El peso colombiano se desploma 3.6% y Chile cae 3.2% con el cobre; el real devuelve su ganancia",
+  "esencial": [
+   "A las 11:37 CDMX el dólar subía a 3,631 pesos colombianos (+3.58%) y 1,034 pesos chilenos (+1.66%); el ETF de MSCI de Chile caía 3.20% y el de Perú 2.43%.",
+   "El Ibovespa subía apenas 0.12% (164,996.97) y el S&P/TSX de Canadá bajaba 0.26%; el real devolvía la mayor parte de su ganancia de la mañana (5.91 por dólar).",
+   "Para supply chain: escalona los pagos en pesos colombianos y chilenos, que se debilitan con fuerza, y cotiza cable con el cobre en 5.44 dólares por libra."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el real se fortalecía 1.4% y el Ibovespa subía 1.3%, mientras el peso colombiano caía 1.7% y Chile bajaba con el cobre."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:22 CDMX el Ibovespa estaba en 164,996.97 (+0.12%); a las 11:37 el S&P/TSX de Canadá estaba en 33,994.63 (−0.26%). Los ETF de MSCI caían 3.20% en Chile, 2.43% en Perú y 1.01% en Argentina, y subían 0.75% en Brasil. En monedas, el dólar estaba en 5.91 reales (−0.35%), 1,034 pesos chilenos (+1.66%), 3,631 pesos colombianos (+3.58%), 3.48 soles (+0.79%), 1,593 pesos argentinos (+0.85%) y 1.428 dólares canadienses (−0.56%)."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "La caída del cobre (−4.9%) y la plata (−5.7%) se intensificó y arrastró a Chile, Perú y sus monedas; el peso colombiano fue la moneda más débil de la región pese al alza del crudo (+1.7%). El Ibovespa devolvió casi toda su ganancia de la apertura."
+   }
+  ],
+  "scm": "Escalona los pagos en pesos colombianos y chilenos, que se debilitan con fuerza hoy, y cotiza cable y conectores del primer trimestre con el cobre en 5.44 dólares por libra."
+ },
+ "en": {
+  "titular": "The Colombian peso plunges 3.6% and Chile falls 3.2% with copper; the real gives back its gain",
+  "esencial": [
+   "At 11:37 a.m. Mexico City time the dollar rose to 3,631 Colombian pesos (+3.58%) and 1,034 Chilean pesos (+1.66%); the MSCI Chile ETF fell 3.20% and Peru 2.43%.",
+   "The Ibovespa was up just 0.12% (164,996.97) and Canada's S&P/TSX down 0.26%; the real gave back most of its morning gain (5.91 per dollar).",
+   "For supply chain: stagger payments in Colombian and Chilean pesos, which are weakening sharply, and quote cable with copper at $5.44 per pound."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the real firmed 1.4% and the Ibovespa rose 1.3%, while the Colombian peso fell 1.7% and Chile slipped with copper."
+   },
+   {
+    "t": "How it's going",
+    "x": "At 11:22 a.m. Mexico City time the Ibovespa stood at 164,996.97 (+0.12%); at 11:37 Canada's S&P/TSX stood at 33,994.63 (−0.26%). The MSCI ETFs fell 3.20% for Chile, 2.43% for Peru and 1.01% for Argentina, and rose 0.75% for Brazil. In currencies, the dollar stood at 5.91 reais (−0.35%), 1,034 Chilean pesos (+1.66%), 3,631 Colombian pesos (+3.58%), 3.48 soles (+0.79%), 1,593 Argentine pesos (+0.85%) and 1.428 Canadian dollars (−0.56%)."
+   },
+   {
+    "t": "What surprised",
+    "x": "The drop in copper (−4.9%) and silver (−5.7%) intensified and dragged Chile, Peru and their currencies; the Colombian peso was the region's weakest currency despite crude's rise (+1.7%). The Ibovespa gave back almost all of its opening gain."
+   }
+  ],
+  "scm": "Stagger payments in Colombian and Chilean pesos, which are weakening sharply today, and quote first-quarter cable and connectors with copper at $5.44 per pound."
+ },
+ "pt": {
+  "titular": "O peso colombiano despenca 3,6% e o Chile cai 3,2% com o cobre; o real devolve o ganho",
+  "esencial": [
+   "Às 11h37 (Cidade do México) o dólar subia para 3.631 pesos colombianos (+3,58%) e 1.034 pesos chilenos (+1,66%); o ETF da MSCI do Chile caía 3,20% e o do Peru 2,43%.",
+   "O Ibovespa subia apenas 0,12% (164.996,97) e o S&P/TSX do Canadá caía 0,26%; o real devolvia a maior parte do ganho da manhã (R$ 5,91 por dólar).",
+   "Para supply chain: escalone os pagamentos em pesos colombianos e chilenos, que se enfraquecem com força, e cote cabos com o cobre a 5,44 dólares por libra."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o real se fortalecia 1,4% e o Ibovespa subia 1,3%, enquanto o peso colombiano caía 1,7% e o Chile recuava com o cobre."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h22 (Cidade do México) o Ibovespa estava em 164.996,97 (+0,12%); às 11h37 o S&P/TSX do Canadá estava em 33.994,63 (−0,26%). Os ETFs da MSCI caíam 3,20% no Chile, 2,43% no Peru e 1,01% na Argentina, e subiam 0,75% no Brasil. Nas moedas, o dólar estava em R$ 5,91 (−0,35%), 1.034 pesos chilenos (+1,66%), 3.631 pesos colombianos (+3,58%), 3,48 soles (+0,79%), 1.593 pesos argentinos (+0,85%) e 1,428 dólar canadense (−0,56%)."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A queda do cobre (−4,9%) e da prata (−5,7%) se intensificou e arrastou Chile, Peru e suas moedas; o peso colombiano foi a moeda mais fraca da região apesar da alta do petróleo (+1,7%). O Ibovespa devolveu quase todo o ganho da abertura."
+   }
+  ],
+  "scm": "Escalone os pagamentos em pesos colombianos e chilenos, que se enfraquecem com força hoje, e cote cabos e conectores do primeiro trimestre com o cobre a 5,44 dólares por libra."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (24 nov 2026, 11:37 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

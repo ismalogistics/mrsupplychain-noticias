@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-24-mediodia-mexico",
+ "fecha": "2026-11-24",
+ "momento": "mediodia",
+ "mercado": "mexico",
+ "hora": "11:37 CDMX",
+ "es": {
+  "titular": "El peso se debilita a 19.42 junto con las monedas de la región; el IPC sube 0.5%",
+  "esencial": [
+   "A las 11:37 CDMX el peso cotizaba en 19.42 por dólar (+1.42% el dólar), aunque el índice del dólar bajaba 0.49%; el peso colombiano y el chileno también se debilitaban.",
+   "El S&P/BMV IPC subía 0.54% a 69,727.49 puntos a las 11:17 CDMX, tras el dato de inflación de 3.96%.",
+   "Para supply chain: hoy rige el FIX de 19.0228 y mañana el de 19.1648, ambos debajo del mercado; liquida hoy los pagos en dólares que puedas."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el peso estaba en 19.31 y el IPC subía 0.7%, tras la inflación de 3.96% en la primera quincena de noviembre; el FIX de 19.1648 rige desde mañana."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:17 CDMX el S&P/BMV IPC estaba en 69,727.49 puntos (+0.54%). A las 11:37 CDMX el peso cotizaba en 19.42 por dólar (+1.42% el dólar), más débil que en la apertura. Hoy rige el FIX de 19.0228; mañana el de 19.1648."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El peso se debilita aunque el índice del dólar baja 0.49%: las monedas de la región también caen (el dólar sube 3.6% frente al peso colombiano y 1.7% frente al chileno), en un día de fuerte caída de la plata (−5.7%) y el cobre (−4.9%)."
+   }
+  ],
+  "scm": "Hoy rige el FIX de 19.0228 y mañana el de 19.1648, ambos debajo del tipo de cambio de mercado (19.42): liquida hoy los pagos en dólares que puedas y escalona los de la semana."
+ },
+ "en": {
+  "titular": "The peso weakens to 19.42 along with regional currencies; the IPC rises 0.5%",
+  "esencial": [
+   "At 11:37 a.m. Mexico City time the peso traded at 19.42 per dollar (dollar +1.42%), even as the dollar index fell 0.49%; the Colombian and Chilean pesos also weakened.",
+   "The S&P/BMV IPC was up 0.54% at 69,727.49 points at 11:17 a.m., after the 3.96% inflation reading.",
+   "For supply chain: today the 19.0228 FIX applies and tomorrow the 19.1648 one, both below market; settle the dollar payments you can today."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the peso stood at 19.31 and the IPC was up 0.7%, after 3.96% inflation in the first half of November; the 19.1648 FIX applies from tomorrow."
+   },
+   {
+    "t": "How it's going",
+    "x": "At 11:17 a.m. Mexico City time the S&P/BMV IPC stood at 69,727.49 points (+0.54%). At 11:37 a.m. the peso traded at 19.42 per dollar (dollar +1.42%), weaker than at the open. Today the 19.0228 FIX applies; tomorrow the 19.1648 one."
+   },
+   {
+    "t": "What surprised",
+    "x": "The peso weakens even as the dollar index falls 0.49%: regional currencies also fall (the dollar rises 3.6% against the Colombian peso and 1.7% against the Chilean peso), on a day of sharp drops in silver (−5.7%) and copper (−4.9%)."
+   }
+  ],
+  "scm": "Today the 19.0228 FIX applies and tomorrow the 19.1648 one, both below the market rate (19.42): settle the dollar payments you can today and stagger this week's."
+ },
+ "pt": {
+  "titular": "O peso se enfraquece para 19,42 com as moedas da região; o IPC sobe 0,5%",
+  "esencial": [
+   "Às 11h37 (Cidade do México) o peso era cotado a 19,42 por dólar (dólar +1,42%), embora o índice do dólar caísse 0,49%; os pesos colombiano e chileno também se enfraqueciam.",
+   "O S&P/BMV IPC subia 0,54% para 69.727,49 pontos às 11h17, depois do dado de inflação de 3,96%.",
+   "Para supply chain: hoje vale o FIX de 19,0228 e amanhã o de 19,1648, ambos abaixo do mercado; liquide hoje os pagamentos em dólares que puder."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o peso estava em 19,31 e o IPC subia 0,7%, depois da inflação de 3,96% na primeira quinzena de novembro; o FIX de 19,1648 vale a partir de amanhã."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h17 (Cidade do México) o S&P/BMV IPC estava em 69.727,49 pontos (+0,54%). Às 11h37 o peso era cotado a 19,42 por dólar (dólar +1,42%), mais fraco que na abertura. Hoje vale o FIX de 19,0228; amanhã o de 19,1648."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O peso se enfraquece embora o índice do dólar caia 0,49%: as moedas da região também caem (o dólar sobe 3,6% frente ao peso colombiano e 1,7% frente ao chileno), em um dia de forte queda da prata (−5,7%) e do cobre (−4,9%)."
+   }
+  ],
+  "scm": "Hoje vale o FIX de 19,0228 e amanhã o de 19,1648, ambos abaixo do câmbio de mercado (19,42): liquide hoje os pagamentos em dólares que puder e escalone os da semana."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 24 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Expansión: la inflación sube a 3.96% en la quincena en que arrancó El Buen Fin (24 nov 2026)",
+   "u": "https://expansion.mx/economia/2026/11/24/la-inflacion-sube-a-3-96-en-la-quincena-en-que-arranco-el-buen-fin"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (23 nov 2026: 19.1648)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (24 nov 2026, 11:37 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
