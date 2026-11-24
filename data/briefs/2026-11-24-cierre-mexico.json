@@ -1,0 +1,95 @@
+{
+ "id": "2026-11-24-cierre-mexico",
+ "fecha": "2026-11-24",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El peso cierra en 19.41, su nivel más débil en semanas, y el IPC termina plano; mañana rige un FIX de 19.1648",
+  "esencial": [
+   "El peso terminó en 19.41 por dólar (+1.39% el dólar), aunque el índice del dólar bajó 0.47%; el S&P/BMV IPC cerró casi sin cambio en 69,306.81 (−0.07%).",
+   "La inflación de la primera quincena de noviembre subió a 3.96% por la luz y el jitomate, pero la subyacente bajó a 3.68%, según el INEGI.",
+   "Para supply chain: mañana rige el FIX de 19.1648, debajo del mercado; escalona los pagos en dólares de la semana y actualiza el tipo de cambio de tus costos."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El S&P/BMV IPC cerró en 69,306.81 puntos (−0.07%), después de subir hasta 0.7% en la apertura. El peso terminó en 19.41 por dólar (+1.39% el dólar), más débil que en la apertura (19.31). Hoy rigió el FIX de 19.0228; mañana miércoles rige el de 19.1648, determinado ayer. La inflación anual subió a 3.96% en la primera quincena de noviembre, desde 3.88%, y la subyacente bajó a 3.68%, según el INEGI."
+   },
+   {
+    "t": "Por qué",
+    "x": "El peso se debilitó junto con las monedas de la región (el peso colombiano y el chileno cayeron más de 1.5%) en un día de fuerte caída de la plata (−6.2%) y el cobre (−4.1%), aunque el índice del dólar bajó 0.47%. La caída de los metales pesó sobre las mineras del IPC."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana el PCE y el PIB de EE. UU. moverán al peso. El jueves 26 la BMV opera aunque Wall Street cierra, y el viernes 27 el INEGI publica la balanza comercial de octubre."
+   }
+  ],
+  "scm": "Mañana rige el FIX de 19.1648, debajo del mercado (19.41): escalona los pagos en dólares de la semana y actualiza el tipo de cambio de tus costos de importación. La subyacente a la baja da margen para negociar precios de servicios."
+ },
+ "en": {
+  "titular": "The peso closes at 19.41, its weakest in weeks, and the IPC ends flat; a 19.1648 FIX applies tomorrow",
+  "esencial": [
+   "The peso ended at 19.41 per dollar (dollar +1.39%), even as the dollar index fell 0.47%; the S&P/BMV IPC closed nearly unchanged at 69,306.81 (−0.07%).",
+   "First-half November inflation rose to 3.96% on electricity and tomatoes, but core fell to 3.68%, according to INEGI.",
+   "For supply chain: tomorrow the 19.1648 FIX applies, below market; stagger this week's dollar payments and update the exchange rate in your costs."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The S&P/BMV IPC closed at 69,306.81 points (−0.07%), after rising as much as 0.7% at the open. The peso ended at 19.41 per dollar (dollar +1.39%), weaker than at the open (19.31). Today the 19.0228 FIX applied; on Wednesday the 19.1648 one applies, set yesterday. Annual inflation rose to 3.96% in the first half of November, from 3.88%, and core fell to 3.68%, according to INEGI."
+   },
+   {
+    "t": "Why",
+    "x": "The peso weakened along with regional currencies (the Colombian and Chilean pesos fell more than 1.5%) on a day of sharp drops in silver (−6.2%) and copper (−4.1%), even though the dollar index fell 0.47%. The drop in metals weighed on IPC miners."
+   },
+   {
+    "t": "What to expect",
+    "x": "Tomorrow US PCE and GDP will move the peso. On Thursday the 26th the BMV is open although Wall Street is closed, and on Friday the 27th INEGI publishes the October trade balance."
+   }
+  ],
+  "scm": "Tomorrow the 19.1648 FIX applies, below market (19.41): stagger this week's dollar payments and update the exchange rate in your import costs. Falling core inflation leaves room to negotiate service prices."
+ },
+ "pt": {
+  "titular": "O peso fecha em 19,41, o nível mais fraco em semanas, e o IPC termina estável; amanhã vale um FIX de 19,1648",
+  "esencial": [
+   "O peso terminou em 19,41 por dólar (dólar +1,39%), embora o índice do dólar tenha caído 0,47%; o S&P/BMV IPC fechou quase estável em 69.306,81 (−0,07%).",
+   "A inflação da primeira quinzena de novembro subiu para 3,96% pela energia elétrica e o tomate, mas a núcleo caiu para 3,68%, segundo o INEGI.",
+   "Para supply chain: amanhã vale o FIX de 19,1648, abaixo do mercado; escalone os pagamentos em dólares da semana e atualize o câmbio dos seus custos."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O S&P/BMV IPC fechou em 69.306,81 pontos (−0,07%), depois de subir até 0,7% na abertura. O peso terminou em 19,41 por dólar (dólar +1,39%), mais fraco que na abertura (19,31). Hoje valeu o FIX de 19,0228; amanhã, quarta, vale o de 19,1648, definido ontem. A inflação anual subiu para 3,96% na primeira quinzena de novembro, desde 3,88%, e a núcleo caiu para 3,68%, segundo o INEGI."
+   },
+   {
+    "t": "Por quê",
+    "x": "O peso se enfraqueceu junto com as moedas da região (os pesos colombiano e chileno caíram mais de 1,5%) em um dia de forte queda da prata (−6,2%) e do cobre (−4,1%), embora o índice do dólar tenha caído 0,47%. A queda dos metais pesou sobre as mineradoras do IPC."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã o PCE e o PIB dos EUA vão mover o peso. Na quinta, dia 26, a BMV opera embora Wall Street feche, e na sexta, dia 27, o INEGI divulga a balança comercial de outubro."
+   }
+  ],
+  "scm": "Amanhã vale o FIX de 19,1648, abaixo do mercado (19,41): escalone os pagamentos em dólares da semana e atualize o câmbio dos custos de importação. A núcleo em queda dá margem para negociar preços de serviços."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 24 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Expansión: la inflación sube a 3.96% en la quincena en que arrancó El Buen Fin (24 nov 2026)",
+   "u": "https://expansion.mx/economia/2026/11/24/la-inflacion-sube-a-3-96-en-la-quincena-en-que-arranco-el-buen-fin"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (23 nov 2026: 19.1648)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 24 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

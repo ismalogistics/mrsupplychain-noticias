@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-24T17:40:09Z",
+ "actualizado": "2026-11-24T21:18:11Z",
  "fecha": "2026-11-24",
  "titular": {
-  "es": "Mediodía: los chips y los metales caen, pero la confianza del consumidor de EE. UU. sube a su nivel más alto en casi dos años",
-  "en": "Midday: chips and metals fall, but US consumer confidence rises to its highest in nearly two years",
-  "pt": "Meio-dia: os chips e os metais caem, mas a confiança do consumidor dos EUA sobe ao maior nível em quase dois anos"
+  "es": "Martes: los chips caen 7.9%, los metales se desploman y Dell reporta una cartera de pedidos de IA récord",
+  "en": "Tuesday: chips fall 7.9%, metals plunge and Dell reports a record AI backlog",
+  "pt": "Terça: os chips caem 7,9%, os metais despencam e a Dell reporta carteira de pedidos de IA recorde"
  },
  "items": [
   {
@@ -17,14 +17,14 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Los chips caen 7.4%: Micron −10.5%, AMD −9.1% y Nvidia −7.1%",
-    "en": "Chips fall 7.4%: Micron −10.5%, AMD −9.1% and Nvidia −7.1%",
-    "pt": "Os chips caem 7,4%: Micron −10,5%, AMD −9,1% e Nvidia −7,1%"
+    "es": "El índice de chips cierra con −7.9%: Micron −11%, AMD −8.9% y Nvidia −5.9%",
+    "en": "The chip index closes −7.9%: Micron −11%, AMD −8.9% and Nvidia −5.9%",
+    "pt": "O índice de chips fecha com −7,9%: Micron −11%, AMD −8,9% e Nvidia −5,9%"
    },
    "x": {
-    "es": "A las 11:37 CDMX el índice de semiconductores caía 7.4%: Micron −10.5%, AMD −9.1%, Nvidia −7.1% y TSMC −4.5%. AMD cayó además por un reporte en corto de Hunterbrook y por el registro de 337 millones de acciones para reventa, según GuruFocus.",
-    "en": "At 12:37 p.m. ET the semiconductor index was down 7.4%: Micron −10.5%, AMD −9.1%, Nvidia −7.1% and TSMC −4.5%. AMD also fell on a Hunterbrook short report and the registration of 337 million shares for resale, according to GuruFocus.",
-    "pt": "Às 11h37 (Cidade do México) o índice de semicondutores caía 7,4%: Micron −10,5%, AMD −9,1%, Nvidia −7,1% e TSMC −4,5%. A AMD caiu também por um relatório vendido da Hunterbrook e pelo registro de 337 milhões de ações para revenda, segundo a GuruFocus."
+    "es": "El índice de semiconductores cerró con −7.9%: Micron −11.0%, AMD −8.9%, Nvidia −5.9% (155.38 dólares) y TSMC −4.0%. El lunes Nvidia sumó 954,000 millones de dólares en valor, la mayor ganancia en un día para cualquier acción, y las investigaciones del Congreso sobre Jensen Huang siguen abiertas, según TIKR.",
+    "en": "The semiconductor index closed −7.9%: Micron −11.0%, AMD −8.9%, Nvidia −5.9% ($155.38) and TSMC −4.0%. On Monday Nvidia added $954 billion in value, the biggest one-day gain for any stock, and congressional investigations into Jensen Huang remain open, according to TIKR.",
+    "pt": "O índice de semicondutores fechou com −7,9%: Micron −11,0%, AMD −8,9%, Nvidia −5,9% (155,38 dólares) e TSMC −4,0%. Na segunda a Nvidia somou 954 bilhões de dólares em valor, o maior ganho em um dia para qualquer ação, e as investigações do Congresso sobre Jensen Huang seguem abertas, segundo a TIKR."
    },
    "scm": {
     "es": "La volatilidad en bolsa no cambia los plazos de memoria y GPU: mantén reservas de capacidad y cláusulas de ajuste.",
@@ -37,14 +37,14 @@
      "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-dip-chip-105355594.html"
     },
     {
-     "t": "GuruFocus: por qué cae AMD; reporte en corto de Hunterbrook (24 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/why-amd-amd-stock-down-173112516.html"
+     "t": "TIKR: Dan Ives dice que Jensen Huang vale un billón de dólares para Nvidia; el Congreso no ha terminado con él (24 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-says-jensen-huang-202022970.html"
     }
    ]
   },
   {
    "id": "servidores",
-   "dir": "down",
+   "dir": "up",
    "calor": 3,
    "mx": true,
    "latam": true,
@@ -52,24 +52,24 @@
    "en": "Servers and hardware",
    "pt": "Servidores e hardware",
    "titular": {
-    "es": "HPE cae 16.7% y Dell 11.4% antes de su reporte de hoy",
-    "en": "HPE falls 16.7% and Dell 11.4% ahead of its report today",
-    "pt": "A HPE cai 16,7% e a Dell 11,4% antes do resultado de hoje"
+    "es": "Dell reporta ingresos récord por 54,900 millones y una cartera de pedidos de IA de 132,300 millones",
+    "en": "Dell reports record revenue of $54.9 billion and an AI backlog of $132.3 billion",
+    "pt": "A Dell reporta receita recorde de 54,9 bilhões e carteira de pedidos de IA de 132,3 bilhões"
    },
    "x": {
-    "es": "A las 11:37 CDMX HPE perdía 16.7% tras su guía del primer trimestre y Dell 11.4% antes de reportar después del cierre; HP bajaba 2.4% antes de su reporte de hoy.",
-    "en": "At 12:37 p.m. ET HPE was down 16.7% after its first-quarter guidance and Dell 11.4% ahead of its report after the close; HP was down 2.4% ahead of its report today.",
-    "pt": "Às 11h37 (Cidade do México) a HPE perdia 16,7% depois da projeção do primeiro trimestre e a Dell 11,4% antes de divulgar resultados depois do fechamento; a HP caía 2,4% antes do resultado de hoje."
+    "es": "Después del cierre, Dell reportó ingresos trimestrales récord por 54,900 millones de dólares (+103%), ingresos de servidores para IA por 22,000 millones (+291%) y una cartera de pedidos de IA de 132,300 millones tras recibir 60,200 millones en pedidos; elevó su guía del año a 202,000 millones. En el día, Dell había caído 11.8% y HPE 16.3%.",
+    "en": "After the close, Dell reported record quarterly revenue of $54.9 billion (+103%), AI server revenue of $22.0 billion (+291%) and an AI backlog of $132.3 billion after booking $60.2 billion in orders; it raised its full-year guidance to $202 billion. During the day, Dell had fallen 11.8% and HPE 16.3%.",
+    "pt": "Depois do fechamento, a Dell reportou receita trimestral recorde de 54,9 bilhões de dólares (+103%), receita de servidores para IA de 22,0 bilhões (+291%) e carteira de pedidos de IA de 132,3 bilhões depois de receber 60,2 bilhões em pedidos; elevou a projeção do ano para 202 bilhões. No dia, a Dell havia caído 11,8% e a HPE 16,3%."
    },
    "scm": {
-    "es": "Escucha a Dell hoy sobre precios y memoria antes de confirmar pedidos de servidores; pide precio firme por escrito.",
-    "en": "Listen to Dell today on pricing and memory before confirming server orders; get a firm written price.",
-    "pt": "Ouça a Dell hoje sobre preços e memória antes de confirmar pedidos de servidores; peça preço firme por escrito."
+    "es": "Con la demanda en máximos, asegura capacidad y precio por escrito antes de confirmar pedidos de servidores o almacenamiento.",
+    "en": "With demand at record levels, secure capacity and price in writing before confirming server or storage orders.",
+    "pt": "Com a demanda em máximos, garanta capacidade e preço por escrito antes de confirmar pedidos de servidores ou armazenamento."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (24 nov 2026, 11:37 CDMX)",
-     "u": "https://finance.yahoo.com/markets/"
+     "t": "Dell Technologies: resultados del tercer trimestre del año fiscal 2027 (24 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-delivers-third-quarter-210500797.html"
     }
    ]
   },
@@ -83,28 +83,24 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo sube 1.7% por ataques en Ormuz, pero la gasolina en EE. UU. está en su nivel más bajo desde marzo",
-    "en": "Crude rises 1.7% on Hormuz attacks, but US gasoline is at its lowest since March",
-    "pt": "O petróleo sobe 1,7% por ataques em Ormuz, mas a gasolina nos EUA está no menor nível desde março"
+    "es": "El crudo sube 1.6% por ataques en Ormuz; el diésel se mantiene en 3.65",
+    "en": "Crude rises 1.6% on Hormuz attacks; diesel holds at $3.65",
+    "pt": "O petróleo sobe 1,6% por ataques em Ormuz; o diesel se mantém a 3,65"
    },
    "x": {
-    "es": "El WTI subía 1.7% a 81.55 dólares y el Brent de enero 1.6% a 90.83, por nuevos ataques a barcos en Ormuz, aunque la perspectiva de excedente limita el alza, según Reuters; Deutsche Bank estima un exceso de oferta de 1.7 millones de barriles diarios en octubre. El diésel en futuros estaba en 3.65 dólares por galón.",
-    "en": "WTI rose 1.7% to $81.55 and January Brent 1.6% to $90.83 on new attacks on ships in Hormuz, although the surplus outlook limits gains, according to Reuters; Deutsche Bank estimates an oversupply of 1.7 million barrels a day in October. Diesel futures stood at $3.65 a gallon.",
-    "pt": "O WTI subia 1,7% para 81,55 dólares e o Brent de janeiro 1,6% para 90,83, por novos ataques a navios em Ormuz, embora a perspectiva de excedente limite a alta, segundo a Reuters; o Deutsche Bank estima um excesso de oferta de 1,7 milhão de barris por dia em outubro. O diesel nos futuros estava a 3,65 dólares por galão."
+    "es": "El WTI subía 1.6% a 81.43 dólares y el Brent de enero 1.6% a 90.82 a las 15:05 CDMX, por nuevos ataques a barcos en Ormuz, aunque la perspectiva de excedente limita el alza, según Reuters. El diésel en futuros estaba en 3.65 dólares por galón.",
+    "en": "WTI was up 1.6% at $81.43 and January Brent 1.6% at $90.82 at 4:05 p.m. ET, on new attacks on ships in Hormuz, although the surplus outlook limits gains, according to Reuters. Diesel futures stood at $3.65 a gallon.",
+    "pt": "O WTI subia 1,6% para 81,43 dólares e o Brent de janeiro 1,6% para 90,82 às 15h05 (Cidade do México), por novos ataques a navios em Ormuz, embora a perspectiva de excedente limite a alta, segundo a Reuters. O diesel nos futuros estava a 3,65 dólares por galão."
    },
    "scm": {
-    "es": "Cierra los recargos de combustible de diciembre con ajuste semanal: el diésel sigue cerca de 3.65 dólares por galón.",
-    "en": "Lock in December fuel surcharges with weekly adjustment: diesel remains near $3.65 a gallon.",
-    "pt": "Feche as sobretaxas de combustível de dezembro com ajuste semanal: o diesel segue perto de 3,65 dólares por galão."
+    "es": "Cierra los recargos de combustible de diciembre con ajuste semanal antes de la reunión de la OPEP+ del domingo.",
+    "en": "Lock in December fuel surcharges with weekly adjustment before Sunday’s OPEC+ meeting.",
+    "pt": "Feche as sobretaxas de combustível de dezembro com ajuste semanal antes da reunião da OPEP+ de domingo."
    },
    "fuentes": [
     {
      "t": "Reuters: el petróleo sube por ataques a barcos en Ormuz; la perspectiva de excedente limita el alza (24 nov 2026)",
      "u": "https://finance.yahoo.com/news/oil-prices-near-three-month-051343862.html"
-    },
-    {
-     "t": "Yahoo Finance: la gasolina baja a su nivel más bajo desde marzo antes del Día de Acción de Gracias (24 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/article/gas-prices-drop-to-the-lowest-level-since-march-ahead-of-thanksgiving-holiday-170804061.html"
     }
    ]
   },
@@ -118,19 +114,19 @@
    "en": "Retail and last mile",
    "pt": "Varejo e última milha",
    "titular": {
-    "es": "La confianza del consumidor de EE. UU. sube a su nivel más alto en casi dos años",
-    "en": "US consumer confidence rises to its highest in nearly two years",
-    "pt": "A confiança do consumidor dos EUA sobe ao maior nível em quase dois anos"
+    "es": "La confianza del consumidor de EE. UU. está en su nivel más alto en casi dos años; Best Buy cierra con +2.7%",
+    "en": "US consumer confidence is at its highest in nearly two years; Best Buy closes +2.7%",
+    "pt": "A confiança do consumidor dos EUA está no maior nível em quase dois anos; a Best Buy fecha com +2,7%"
    },
    "x": {
-    "es": "La confianza del consumidor de EE. UU. subió en noviembre a su nivel más alto en casi dos años, con optimismo sobre el empleo tras las elecciones intermedias, según el Conference Board citado por Reuters. La gasolina bajó a 3.61 dólares por galón, su nivel más bajo desde marzo, según AAA. Best Buy subía 3.5% tras sus mejores ventas comparables en cinco años.",
-    "en": "US consumer confidence rose in November to its highest in nearly two years, on optimism about jobs after the midterm elections, according to the Conference Board as cited by Reuters. Gasoline fell to $3.61 a gallon, its lowest since March, according to AAA. Best Buy rose 3.5% after its best comparable sales in five years.",
-    "pt": "A confiança do consumidor dos EUA subiu em novembro ao maior nível em quase dois anos, com otimismo sobre o emprego depois das eleições de meio de mandato, segundo o Conference Board citado pela Reuters. A gasolina caiu para 3,61 dólares por galão, o menor nível desde março, segundo a AAA. A Best Buy subia 3,5% depois das melhores vendas comparáveis em cinco anos."
+    "es": "La confianza del consumidor de EE. UU. subió en noviembre a su nivel más alto en casi dos años, según el Conference Board, y la gasolina bajó a 3.61 dólares por galón, su nivel más bajo desde marzo, según AAA. Best Buy cerró con +2.7% tras sus mejores ventas comparables en cinco años.",
+    "en": "US consumer confidence rose in November to its highest in nearly two years, according to the Conference Board, and gasoline fell to $3.61 a gallon, its lowest since March, according to AAA. Best Buy closed +2.7% after its best comparable sales in five years.",
+    "pt": "A confiança do consumidor dos EUA subiu em novembro ao maior nível em quase dois anos, segundo o Conference Board, e a gasolina caiu para 3,61 dólares por galão, o menor nível desde março, segundo a AAA. A Best Buy fechou com +2,7% depois das melhores vendas comparáveis em cinco anos."
    },
    "scm": {
-    "es": "Si exportas a EE. UU., confirma inventario y cortes de embarque antes de mañana: la demanda de la temporada se ve firme.",
-    "en": "If you export to the US, confirm inventory and shipping cutoffs before tomorrow: season demand looks firm.",
-    "pt": "Se você exporta para os EUA, confirme estoque e prazos de embarque antes de amanhã: a demanda da temporada parece firme."
+    "es": "Confirma mañana los últimos cortes de embarque a EE. UU. antes del Día de Acción de Gracias.",
+    "en": "Confirm the last US shipping cutoffs tomorrow before Thanksgiving.",
+    "pt": "Confirme amanhã os últimos prazos de embarque para os EUA antes do Dia de Ação de Graças."
    },
    "fuentes": [
     {
@@ -153,14 +149,14 @@
    "en": "Software and AI for supply chain",
    "pt": "Software e IA para supply chain",
    "titular": {
-    "es": "Anthropic sigue debajo de su precio de salida: cae 8.2% a 80.46 dólares",
-    "en": "Anthropic stays below its IPO price: down 8.2% at $80.46",
-    "pt": "A Anthropic segue abaixo do preço do IPO: cai 8,2% para 80,46 dólares"
+    "es": "Anthropic cierra en 81.91 dólares, debajo de su precio de salida de 83",
+    "en": "Anthropic closes at $81.91, below its $83 IPO price",
+    "pt": "A Anthropic fecha a 81,91 dólares, abaixo do preço do IPO de 83"
    },
    "x": {
-    "es": "Anthropic caía 8.2% a 80.46 dólares a las 11:37 CDMX, debajo de su precio de salida de 83; más temprano llegó a 76 dólares, según Reuters. Amazon y Alphabet, dos de sus mayores inversionistas, bajaban cerca de 2%.",
-    "en": "Anthropic was down 8.2% at $80.46 at 12:37 p.m. ET, below its $83 IPO price; earlier it fell as low as $76, according to Reuters. Amazon and Alphabet, two of its biggest investors, were down about 2%.",
-    "pt": "A Anthropic caía 8,2% para 80,46 dólares às 11h37 (Cidade do México), abaixo do preço do IPO de 83; mais cedo chegou a 76 dólares, segundo a Reuters. Amazon e Alphabet, dois dos maiores investidores, caíam cerca de 2%."
+    "es": "Anthropic cerró con −6.5% en 81.91 dólares, debajo de su precio de salida de 83; durante el día llegó a 76 dólares, según Reuters. Canaccord, Oppenheimer y Wedbush iniciaron cobertura con recomendación de compra.",
+    "en": "Anthropic closed −6.5% at $81.91, below its $83 IPO price; during the day it fell as low as $76, according to Reuters. Canaccord, Oppenheimer and Wedbush initiated coverage with buy ratings.",
+    "pt": "A Anthropic fechou com −6,5% a 81,91 dólares, abaixo do preço do IPO de 83; durante o dia chegou a 76 dólares, segundo a Reuters. Canaccord, Oppenheimer e Wedbush iniciaram cobertura com recomendação de compra."
    },
    "scm": {
     "es": "Si evalúas herramientas de IA para planeación o compras, pide precios y niveles de servicio fijos para 2027.",
@@ -184,14 +180,14 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "La plata cae 5.7% y el cobre 4.9% a 5.44 dólares; el oro baja 2.4%",
-    "en": "Silver falls 5.7% and copper 4.9% to $5.44; gold drops 2.4%",
-    "pt": "A prata cai 5,7% e o cobre 4,9% para 5,44 dólares; o ouro cai 2,4%"
+    "es": "La plata cierra con −6.2%, el cobre con −4.1% y el oro con −2.8%",
+    "en": "Silver closes −6.2%, copper −4.1% and gold −2.8%",
+    "pt": "A prata fecha com −6,2%, o cobre com −4,1% e o ouro com −2,8%"
    },
    "x": {
-    "es": "A las 11:27 CDMX la plata estaba en 40.74 dólares (−5.7%), el cobre en 5.44 dólares por libra (−4.9%) y el oro en 3,563 (−2.4%), borrando el rebote del lunes; la caída arrastró a Chile, Perú y sus monedas.",
-    "en": "At 12:27 p.m. ET silver stood at $40.74 (−5.7%), copper at $5.44 per pound (−4.9%) and gold at $3,563 (−2.4%), erasing Monday's rebound; the drop dragged Chile, Peru and their currencies.",
-    "pt": "Às 11h27 (Cidade do México) a prata estava a 40,74 dólares (−5,7%), o cobre a 5,44 dólares por libra (−4,9%) e o ouro a 3.563 (−2,4%), apagando o repique de segunda; a queda arrastou Chile, Peru e suas moedas."
+    "es": "La plata terminó en 40.51 dólares (−6.2%), el cobre en 5.49 dólares por libra (−4.1%) y el oro en 3,549 (−2.8%), borrando el rebote del lunes; la caída arrastró a Chile, Perú y sus monedas.",
+    "en": "Silver ended at $40.51 (−6.2%), copper at $5.49 per pound (−4.1%) and gold at $3,549 (−2.8%), erasing Monday's rebound; the drop dragged Chile, Peru and their currencies.",
+    "pt": "A prata terminou a 40,51 dólares (−6,2%), o cobre a 5,49 dólares por libra (−4,1%) e o ouro a 3.549 (−2,8%), apagando o repique de segunda; a queda arrastou Chile, Peru e suas moedas."
    },
    "scm": {
     "es": "Cotiza esta semana cable, conectores y empaques metálicos del primer trimestre.",
@@ -200,7 +196,7 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (24 nov 2026, 11:37 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 24 nov 2026)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -215,14 +211,14 @@
    "en": "Data centers and cloud",
    "pt": "Data centers e nuvem",
    "titular": {
-    "es": "CoreWeave cae 11.8% y Nebius cerca de 13%",
-    "en": "CoreWeave falls 11.8% and Nebius about 13%",
-    "pt": "A CoreWeave cai 11,8% e a Nebius cerca de 13%"
+    "es": "CoreWeave cierra con −11.9% y Nebius con −10.7%",
+    "en": "CoreWeave closes −11.9% and Nebius −10.7%",
+    "pt": "A CoreWeave fecha com −11,9% e a Nebius com −10,7%"
    },
    "x": {
-    "es": "Las nubes de IA devolvían parte del alza del lunes: CoreWeave caía 11.8% a 42.63 dólares a las 11:37 CDMX y Nebius cerca de 13%, según Reuters.",
-    "en": "AI neoclouds gave back part of Monday’s gain: CoreWeave was down 11.8% at $42.63 at 12:37 p.m. ET and Nebius about 13%, according to Reuters.",
-    "pt": "As nuvens de IA devolviam parte da alta de segunda: a CoreWeave caía 11,8% para 42,63 dólares às 11h37 (Cidade do México) e a Nebius cerca de 13%, segundo a Reuters."
+    "es": "Las nubes de IA devolvieron parte del alza del lunes: CoreWeave cerró con −11.9% (42.61 dólares) y Nebius con −10.7%. Dell dijo que su cartera de pedidos de IA, de 132,300 millones, se revisa por calidad del cliente y acceso a capital, terreno y energía.",
+    "en": "AI neoclouds gave back part of Monday’s gain: CoreWeave closed −11.9% ($42.61) and Nebius −10.7%. Dell said its $132.3 billion AI backlog is vetted for customer quality and access to capital, land and power.",
+    "pt": "As nuvens de IA devolveram parte da alta de segunda: a CoreWeave fechou com −11,9% (42,61 dólares) e a Nebius com −10,7%. A Dell disse que sua carteira de pedidos de IA, de 132,3 bilhões, é avaliada pela qualidade do cliente e acesso a capital, terreno e energia."
    },
    "scm": {
     "es": "Si abasteces a centros de datos, revisa el riesgo de crédito de tus clientes más nuevos antes de ampliar plazos de pago.",
@@ -231,8 +227,8 @@
    },
    "fuentes": [
     {
-     "t": "Reuters: el Nasdaq y el S&P 500 caen mientras se deshace el rally impulsado por Nvidia (24 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-dip-chip-105355594.html"
+     "t": "Dell Technologies: resultados del tercer trimestre del año fiscal 2027 (24 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-delivers-third-quarter-210500797.html"
     }
    ]
   }

@@ -1,86 +1,95 @@
 {
- "actualizado": "2026-11-24T17:40:09Z",
- "momento": "mediodia",
+ "actualizado": "2026-11-24T21:18:11Z",
+ "momento": "cierre",
  "briefs": {
   "global": {
-   "id": "2026-11-24-mediodia-global",
+   "id": "2026-11-24-cierre-global",
    "fecha": "2026-11-24",
-   "momento": "mediodia",
+   "momento": "cierre",
    "mercado": "global",
-   "hora": "11:37 CDMX",
+   "hora": "15:15 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "Los chips caen 7.4% y la plata 5.7%, pero la confianza del consumidor de EE. UU. sube a su nivel más alto en casi dos años",
+    "titular": "Los chips cierran con −7.9% y el Nasdaq con −1.5%, pero el Dow vuelve arriba de 50,000; Dell reporta ingresos récord",
     "esencial": [
-     "A las 11:37 CDMX el Nasdaq bajaba 1.42%, el S&P 500 0.42% y el Dow subía 0.80%; el índice de semiconductores caía 7.4%, Micron 10.5% y Nvidia 7.1%.",
-     "La confianza del consumidor de EE. UU. subió en noviembre a su nivel más alto en casi dos años, según el Conference Board, y la gasolina bajó a 3.61 dólares por galón, su nivel más bajo desde marzo.",
-     "Para supply chain: la demanda de consumo aguanta antes de la temporada de compras, mientras los metales caen con fuerza (plata −5.7%, cobre −4.9%); cotiza insumos metálicos esta semana."
+     "El S&P 500 cerró en 7,201.09 (−0.50%), el Nasdaq en 23,733.54 (−1.48%) y el Dow en 50,018.70 (+0.85%); el índice de semiconductores cayó 7.9% y Micron 11%.",
+     "Después del cierre, Dell reportó ingresos trimestrales récord por 54,900 millones de dólares (+103%) y una cartera de pedidos de IA de 132,300 millones; la acción había caído 11.8% en el día.",
+     "Para supply chain: la demanda de servidores de IA sigue creciendo y los fabricantes están subiendo precios; mañana salen el PCE y el PIB de EE. UU. y el jueves no opera Wall Street."
     ],
     "bloques": [
      {
-      "t": "Lo que se esperaba",
-      "x": "La apertura mostraba una venta en IA tras el rebote del lunes: los chips caían 7%, Nvidia 6.8% y Anthropic bajaba de su precio de salida, mientras Best Buy tenía sus mejores ventas en cinco años."
+      "t": "Qué pasó",
+      "x": "Se cumplió el ajuste en tecnología que se esperaba en la apertura, pero el Dow resistió: el S&P 500 cerró en 7,201.09 (−0.50%), el Nasdaq en 23,733.54 (−1.48%) y el Dow en 50,018.70 (+0.85%), de nuevo arriba de 50,000; el VIX bajó a 26.2. El índice de semiconductores cayó 7.9%: Micron −11.0%, AMD −8.9%, Nvidia −5.9% (155.38 dólares), Broadcom −4.0% y TSMC −4.0%. Anthropic cerró en 81.91 dólares (−6.5%), debajo de su precio de salida de 83. HPE perdió 16.3%, Dell 11.8%, CoreWeave 11.9% y Nebius 10.7%; Best Buy ganó 2.7%. Salud y consumo básico subieron. Europa cerró a la baja: Euro Stoxx 50 −1.16% y DAX −1.26%."
      },
      {
-      "t": "Cómo va",
-      "x": "A las 11:37 CDMX el S&P 500 estaba en 7,206.57 (−0.42%), el Nasdaq en 23,746.81 (−1.42%) y el Dow en 49,993.80 (+0.80%); más temprano el S&P 500 llegó a caer 1.2%, según Reuters. El índice de semiconductores caía 7.4%: Micron −10.5%, AMD −9.1%, Nvidia −7.1% y TSMC −4.5%. Anthropic caía 8.2% a 80.46 dólares, debajo de su precio de salida de 83; HPE perdía 16.7%, Dell 11.4% y CoreWeave 11.8%. Salud y consumo básico subían y sostenían al Dow. Europa cerró a la baja: Euro Stoxx 50 −1.16% y DAX −1.26%. El WTI subía 1.7% a 81.55 dólares y el Brent de enero 1.6% a 90.83; el oro caía 2.4%, la plata 5.7% y el cobre 4.9% a 5.44 dólares por libra."
+      "t": "Por qué",
+      "x": "Los inversionistas tomaron ganancias tras el alza de Nvidia del lunes, que le sumó 954,000 millones de dólares en valor de mercado, la mayor ganancia en un día para cualquier acción, según TIKR; las investigaciones del Senado y la Cámara sobre el regreso de Jensen Huang siguen abiertas. La Fed también pesa: John Williams, de la Fed de Nueva York, dijo que la inflación alta apunta a una política más restrictiva. En cambio, la confianza del consumidor de EE. UU. subió a su nivel más alto en casi dos años, según el Conference Board."
      },
      {
-      "t": "Lo que sorprendió",
-      "x": "La confianza del consumidor de EE. UU. subió en noviembre a su nivel más alto en casi dos años, con optimismo sobre el empleo y la economía tras las elecciones intermedias, según el Conference Board citado por Reuters. La gasolina bajó a 3.61 dólares por galón en promedio, su nivel más bajo desde marzo y 0.68 menos que hace un mes, según AAA. AMD cayó por un reporte en corto de Hunterbrook y por el registro de 337 millones de acciones para reventa, según GuruFocus. John Williams, de la Fed de Nueva York, dijo que la inflación alta sigue apuntando a una política más restrictiva."
+      "t": "Qué se espera",
+      "x": "Después del cierre, Dell reportó ingresos récord por 54,900 millones de dólares (+103%), ingresos de servidores para IA por 22,000 millones (+291%) y una cartera de pedidos de IA de 132,300 millones; elevó su guía del año a 202,000 millones. HP también reporta hoy. Mañana miércoles salen en EE. UU. el índice PCE de octubre, el PIB del tercer trimestre, los bienes duraderos y las solicitudes de subsidio por desempleo, además del Libro Beige de la Fed. El jueves no opera Wall Street."
      }
     ],
-    "scm": "La demanda de consumo en EE. UU. aguanta antes de la temporada de compras: confirma inventario y cortes de embarque antes de mañana. Con la plata y el cobre a la baja, cotiza esta semana los insumos metálicos del primer trimestre."
+    "scm": "La demanda de servidores de IA sigue en máximos (cartera de Dell de 132,300 millones): si compras servidores o almacenamiento, asegura capacidad y precio por escrito. Confirma mañana los últimos cortes de embarque a EE. UU. antes del Día de Acción de Gracias."
    },
    "en": {
-    "titular": "Chips fall 7.4% and silver 5.7%, but US consumer confidence rises to its highest in nearly two years",
+    "titular": "Chips close −7.9% and the Nasdaq −1.5%, but the Dow is back above 50,000; Dell reports record revenue",
     "esencial": [
-     "At 12:37 p.m. ET the Nasdaq was down 1.42%, the S&P 500 0.42% and the Dow up 0.80%; the semiconductor index fell 7.4%, Micron 10.5% and Nvidia 7.1%.",
-     "US consumer confidence rose in November to its highest in nearly two years, according to the Conference Board, and gasoline fell to $3.61 a gallon, its lowest since March.",
-     "For supply chain: consumer demand holds up ahead of the shopping season, while metals fall sharply (silver −5.7%, copper −4.9%); quote metal inputs this week."
+     "The S&P 500 closed at 7,201.09 (−0.50%), the Nasdaq at 23,733.54 (−1.48%) and the Dow at 50,018.70 (+0.85%); the semiconductor index fell 7.9% and Micron 11%.",
+     "After the close, Dell reported record quarterly revenue of $54.9 billion (+103%) and an AI order backlog of $132.3 billion; the stock had fallen 11.8% during the day.",
+     "For supply chain: AI server demand keeps growing and manufacturers are raising prices; US PCE and GDP come out tomorrow and Wall Street is closed on Thursday."
     ],
     "bloques": [
      {
-      "t": "What was expected",
-      "x": "The open showed an AI sell-off after Monday's rebound: chips fell 7%, Nvidia 6.8% and Anthropic dropped below its IPO price, while Best Buy posted its best sales in five years."
+      "t": "What happened",
+      "x": "The tech pullback expected at the open played out, but the Dow held up: the S&P 500 closed at 7,201.09 (−0.50%), the Nasdaq at 23,733.54 (−1.48%) and the Dow at 50,018.70 (+0.85%), back above 50,000; the VIX fell to 26.2. The semiconductor index fell 7.9%: Micron −11.0%, AMD −8.9%, Nvidia −5.9% ($155.38), Broadcom −4.0% and TSMC −4.0%. Anthropic closed at $81.91 (−6.5%), below its $83 IPO price. HPE lost 16.3%, Dell 11.8%, CoreWeave 11.9% and Nebius 10.7%; Best Buy gained 2.7%. Healthcare and consumer staples rose. Europe closed lower: Euro Stoxx 50 −1.16% and DAX −1.26%."
      },
      {
-      "t": "How it's going",
-      "x": "At 12:37 p.m. ET the S&P 500 stood at 7,206.57 (−0.42%), the Nasdaq at 23,746.81 (−1.42%) and the Dow at 49,993.80 (+0.80%); earlier the S&P 500 was down as much as 1.2%, according to Reuters. The semiconductor index fell 7.4%: Micron −10.5%, AMD −9.1%, Nvidia −7.1% and TSMC −4.5%. Anthropic fell 8.2% to $80.46, below its $83 IPO price; HPE lost 16.7%, Dell 11.4% and CoreWeave 11.8%. Healthcare and consumer staples rose and supported the Dow. Europe closed lower: Euro Stoxx 50 −1.16% and DAX −1.26%. WTI rose 1.7% to $81.55 and January Brent 1.6% to $90.83; gold fell 2.4%, silver 5.7% and copper 4.9% to $5.44 per pound."
+      "t": "Why",
+      "x": "Investors took profits after Nvidia's Monday surge, which added $954 billion in market value, the biggest one-day gain for any stock, according to TIKR; Senate and House investigations into Jensen Huang's return remain open. The Fed also weighs: New York Fed President John Williams said high inflation points to tighter policy. On the other hand, US consumer confidence rose to its highest in nearly two years, according to the Conference Board."
      },
      {
-      "t": "What surprised",
-      "x": "US consumer confidence rose in November to its highest in nearly two years, on optimism about jobs and the economy after the midterm elections, according to the Conference Board as cited by Reuters. Gasoline fell to a $3.61 national average, its lowest since March and $0.68 less than a month ago, according to AAA. AMD fell on a Hunterbrook short report and the registration of 337 million shares for resale, according to GuruFocus. New York Fed President John Williams said persistently high inflation continues to point to tighter policy."
+      "t": "What to expect",
+      "x": "After the close, Dell reported record revenue of $54.9 billion (+103%), AI server revenue of $22.0 billion (+291%) and an AI order backlog of $132.3 billion; it raised its full-year guidance to $202 billion. HP also reports today. On Wednesday the US releases October PCE, third-quarter GDP, durable goods and jobless claims, plus the Fed’s Beige Book. Wall Street is closed on Thursday."
      }
     ],
-    "scm": "US consumer demand holds up ahead of the shopping season: confirm inventory and shipping cutoffs before tomorrow. With silver and copper lower, quote first-quarter metal inputs this week."
+    "scm": "AI server demand remains at record levels (Dell's backlog of $132.3 billion): if you buy servers or storage, secure capacity and price in writing. Confirm the last US shipping cutoffs tomorrow before Thanksgiving."
    },
    "pt": {
-    "titular": "Os chips caem 7,4% e a prata 5,7%, mas a confiança do consumidor dos EUA sobe ao maior nível em quase dois anos",
+    "titular": "Os chips fecham com −7,9% e o Nasdaq com −1,5%, mas o Dow volta acima de 50.000; a Dell reporta receita recorde",
     "esencial": [
-     "Às 11h37 (Cidade do México) o Nasdaq caía 1,42%, o S&P 500 0,42% e o Dow subia 0,80%; o índice de semicondutores caía 7,4%, a Micron 10,5% e a Nvidia 7,1%.",
-     "A confiança do consumidor dos EUA subiu em novembro ao maior nível em quase dois anos, segundo o Conference Board, e a gasolina caiu para 3,61 dólares por galão, o menor nível desde março.",
-     "Para supply chain: a demanda de consumo resiste antes da temporada de compras, enquanto os metais caem com força (prata −5,7%, cobre −4,9%); cote insumos metálicos nesta semana."
+     "O S&P 500 fechou em 7.201,09 (−0,50%), o Nasdaq em 23.733,54 (−1,48%) e o Dow em 50.018,70 (+0,85%); o índice de semicondutores caiu 7,9% e a Micron 11%.",
+     "Depois do fechamento, a Dell reportou receita trimestral recorde de 54,9 bilhões de dólares (+103%) e uma carteira de pedidos de IA de 132,3 bilhões; a ação havia caído 11,8% no dia.",
+     "Para supply chain: a demanda por servidores de IA segue crescendo e os fabricantes estão subindo preços; amanhã saem o PCE e o PIB dos EUA e na quinta Wall Street não opera."
     ],
     "bloques": [
      {
-      "t": "O que se esperava",
-      "x": "A abertura mostrava uma venda em IA depois do repique de segunda: os chips caíam 7%, a Nvidia 6,8% e a Anthropic ficava abaixo do preço do IPO, enquanto a Best Buy tinha as melhores vendas em cinco anos."
+      "t": "O que aconteceu",
+      "x": "O ajuste em tecnologia esperado na abertura se confirmou, mas o Dow resistiu: o S&P 500 fechou em 7.201,09 (−0,50%), o Nasdaq em 23.733,54 (−1,48%) e o Dow em 50.018,70 (+0,85%), de volta acima de 50.000; o VIX caiu para 26,2. O índice de semicondutores caiu 7,9%: Micron −11,0%, AMD −8,9%, Nvidia −5,9% (155,38 dólares), Broadcom −4,0% e TSMC −4,0%. A Anthropic fechou a 81,91 dólares (−6,5%), abaixo do preço do IPO de 83. A HPE perdeu 16,3%, a Dell 11,8%, a CoreWeave 11,9% e a Nebius 10,7%; a Best Buy ganhou 2,7%. Saúde e consumo básico subiram. A Europa fechou em queda: Euro Stoxx 50 −1,16% e DAX −1,26%."
      },
      {
-      "t": "Como está",
-      "x": "Às 11h37 (Cidade do México) o S&P 500 estava em 7.206,57 (−0,42%), o Nasdaq em 23.746,81 (−1,42%) e o Dow em 49.993,80 (+0,80%); mais cedo o S&P 500 chegou a cair 1,2%, segundo a Reuters. O índice de semicondutores caía 7,4%: Micron −10,5%, AMD −9,1%, Nvidia −7,1% e TSMC −4,5%. A Anthropic caía 8,2% para 80,46 dólares, abaixo do preço do IPO de 83; a HPE perdia 16,7%, a Dell 11,4% e a CoreWeave 11,8%. Saúde e consumo básico subiam e sustentavam o Dow. A Europa fechou em queda: Euro Stoxx 50 −1,16% e DAX −1,26%. O WTI subia 1,7% para 81,55 dólares e o Brent de janeiro 1,6% para 90,83; o ouro caía 2,4%, a prata 5,7% e o cobre 4,9% para 5,44 dólares por libra."
+      "t": "Por quê",
+      "x": "Os investidores realizaram lucros depois da alta da Nvidia de segunda, que somou 954 bilhões de dólares em valor de mercado, o maior ganho em um dia para qualquer ação, segundo a TIKR; as investigações do Senado e da Câmara sobre o retorno de Jensen Huang seguem abertas. O Fed também pesa: John Williams, do Fed de Nova York, disse que a inflação alta aponta para uma política mais restritiva. Por outro lado, a confiança do consumidor dos EUA subiu ao maior nível em quase dois anos, segundo o Conference Board."
      },
      {
-      "t": "O que surpreendeu",
-      "x": "A confiança do consumidor dos EUA subiu em novembro ao maior nível em quase dois anos, com otimismo sobre o emprego e a economia depois das eleições de meio de mandato, segundo o Conference Board citado pela Reuters. A gasolina caiu para uma média de 3,61 dólares por galão, o menor nível desde março e 0,68 a menos que há um mês, segundo a AAA. A AMD caiu por um relatório vendido da Hunterbrook e pelo registro de 337 milhões de ações para revenda, segundo a GuruFocus. John Williams, do Fed de Nova York, disse que a inflação alta segue apontando para uma política mais restritiva."
+      "t": "O que se espera",
+      "x": "Depois do fechamento, a Dell reportou receita recorde de 54,9 bilhões de dólares (+103%), receita de servidores para IA de 22,0 bilhões (+291%) e uma carteira de pedidos de IA de 132,3 bilhões; elevou a projeção do ano para 202 bilhões. A HP também divulga resultados hoje. Amanhã, quarta, saem nos EUA o índice PCE de outubro, o PIB do terceiro trimestre, os bens duráveis e os pedidos de seguro-desemprego, além do Livro Bege do Fed. Na quinta Wall Street não opera."
      }
     ],
-    "scm": "A demanda de consumo nos EUA resiste antes da temporada de compras: confirme estoque e prazos de embarque antes de amanhã. Com a prata e o cobre em queda, cote nesta semana os insumos metálicos do primeiro trimestre."
+    "scm": "A demanda por servidores de IA segue em máximos (carteira da Dell de 132,3 bilhões): se você compra servidores ou armazenamento, garanta capacidade e preço por escrito. Confirme amanhã os últimos prazos de embarque para os EUA antes do Dia de Ação de Graças."
    },
    "fuentes": [
     {
      "t": "Reuters: el Nasdaq y el S&P 500 caen mientras se deshace el rally impulsado por Nvidia (24 nov 2026)",
      "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-dip-chip-105355594.html"
+    },
+    {
+     "t": "Dell Technologies: resultados del tercer trimestre del año fiscal 2027 (24 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-delivers-third-quarter-210500797.html"
+    },
+    {
+     "t": "TIKR: Dan Ives dice que Jensen Huang vale un billón de dólares para Nvidia; el Congreso no ha terminado con él (24 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-says-jensen-huang-202022970.html"
     },
     {
      "t": "Reuters: el petróleo sube por ataques a barcos en Ormuz; la perspectiva de excedente limita el alza (24 nov 2026)",
@@ -91,93 +100,106 @@
      "u": "https://finance.yahoo.com/markets/article/gas-prices-drop-to-the-lowest-level-since-march-ahead-of-thanksgiving-holiday-170804061.html"
     },
     {
-     "t": "GuruFocus: por qué cae AMD; reporte en corto de Hunterbrook (24 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/why-amd-amd-stock-down-173112516.html"
+     "t": "Newsquawk: calendario económico semanal, 23 a 27 de noviembre de 2026",
+     "u": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---23rd-27th-november-2026"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (24 nov 2026, 11:37 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 24 nov 2026)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-24-mediodia-latam",
+   "id": "2026-11-24-cierre-latam",
    "fecha": "2026-11-24",
-   "momento": "mediodia",
+   "momento": "cierre",
    "mercado": "latam",
-   "hora": "11:37 CDMX",
+   "hora": "15:15 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "El peso colombiano se desploma 3.6% y Chile cae 3.2% con el cobre; el real devuelve su ganancia",
+    "titular": "Chile y Perú caen 2.6% con los metales y el peso colombiano se debilita 2.7%; el Ibovespa cierra con −0.4%",
     "esencial": [
-     "A las 11:37 CDMX el dólar subía a 3,631 pesos colombianos (+3.58%) y 1,034 pesos chilenos (+1.66%); el ETF de MSCI de Chile caía 3.20% y el de Perú 2.43%.",
-     "El Ibovespa subía apenas 0.12% (164,996.97) y el S&P/TSX de Canadá bajaba 0.26%; el real devolvía la mayor parte de su ganancia de la mañana (5.91 por dólar).",
-     "Para supply chain: escalona los pagos en pesos colombianos y chilenos, que se debilitan con fuerza, y cotiza cable con el cobre en 5.44 dólares por libra."
+     "El Ibovespa cerró con −0.43% (164,088.77) y el S&P/TSX de Canadá con −0.35% (33,962.25); los ETF de MSCI cayeron 2.64% en Perú, 2.60% en Chile y 1.56% en Argentina.",
+     "El dólar subió a 3,599 pesos colombianos (+2.68%) y 1,033 pesos chilenos (+1.58%), y bajó a 5.91 reales (−0.37%).",
+     "Para supply chain: escalona los pagos en pesos colombianos y chilenos y cotiza cable y conectores con el cobre cerca de 5.49 dólares por libra."
     ],
     "bloques": [
      {
-      "t": "Lo que se esperaba",
-      "x": "En la apertura el real se fortalecía 1.4% y el Ibovespa subía 1.3%, mientras el peso colombiano caía 1.7% y Chile bajaba con el cobre."
+      "t": "Qué pasó",
+      "x": "El Ibovespa cerró en 164,088.77 (−0.43%), después de subir 1.3% en la apertura, y el S&P/TSX de Canadá en 33,962.25 (−0.35%). Los ETF de MSCI cerraron con −2.64% en Perú, −2.60% en Chile, −1.56% en Argentina y +0.21% en Brasil."
      },
      {
-      "t": "Cómo va",
-      "x": "A las 11:22 CDMX el Ibovespa estaba en 164,996.97 (+0.12%); a las 11:37 el S&P/TSX de Canadá estaba en 33,994.63 (−0.26%). Los ETF de MSCI caían 3.20% en Chile, 2.43% en Perú y 1.01% en Argentina, y subían 0.75% en Brasil. En monedas, el dólar estaba en 5.91 reales (−0.35%), 1,034 pesos chilenos (+1.66%), 3,631 pesos colombianos (+3.58%), 3.48 soles (+0.79%), 1,593 pesos argentinos (+0.85%) y 1.428 dólares canadienses (−0.56%)."
+      "t": "Por qué",
+      "x": "La plata cayó 6.2% y el cobre 4.1%, lo que arrastró a Perú, Chile y sus monedas; el crudo subió 1.6%, pero no alcanzó para sostener al peso colombiano. Brasil devolvió su ganancia de la mañana con la venta en tecnología."
      },
      {
-      "t": "Lo que sorprendió",
-      "x": "La caída del cobre (−4.9%) y la plata (−5.7%) se intensificó y arrastró a Chile, Perú y sus monedas; el peso colombiano fue la moneda más débil de la región pese al alza del crudo (+1.7%). El Ibovespa devolvió casi toda su ganancia de la apertura."
+      "t": "Monedas",
+      "x": "El dólar terminó en 5.91 reales (−0.37%), 1,033 pesos chilenos (+1.58%), 3,599 pesos colombianos (+2.68%), 3.48 soles (+0.68%), 1,592 pesos argentinos (+0.79%) y 1.427 dólares canadienses (−0.65%)."
+     },
+     {
+      "t": "Qué se espera",
+      "x": "Mañana el PCE y el PIB de EE. UU. moverán a las monedas de la región; la OPEP+ se reúne el domingo 29."
      }
     ],
-    "scm": "Escalona los pagos en pesos colombianos y chilenos, que se debilitan con fuerza hoy, y cotiza cable y conectores del primer trimestre con el cobre en 5.44 dólares por libra."
+    "scm": "Escalona los pagos en pesos colombianos y chilenos, que se debilitaron con fuerza, y cotiza cable y conectores del primer trimestre con el cobre cerca de 5.49 dólares por libra."
    },
    "en": {
-    "titular": "The Colombian peso plunges 3.6% and Chile falls 3.2% with copper; the real gives back its gain",
+    "titular": "Chile and Peru fall 2.6% with metals and the Colombian peso weakens 2.7%; the Ibovespa closes −0.4%",
     "esencial": [
-     "At 11:37 a.m. Mexico City time the dollar rose to 3,631 Colombian pesos (+3.58%) and 1,034 Chilean pesos (+1.66%); the MSCI Chile ETF fell 3.20% and Peru 2.43%.",
-     "The Ibovespa was up just 0.12% (164,996.97) and Canada's S&P/TSX down 0.26%; the real gave back most of its morning gain (5.91 per dollar).",
-     "For supply chain: stagger payments in Colombian and Chilean pesos, which are weakening sharply, and quote cable with copper at $5.44 per pound."
+     "The Ibovespa closed −0.43% (164,088.77) and Canada's S&P/TSX −0.35% (33,962.25); the MSCI ETFs fell 2.64% for Peru, 2.60% for Chile and 1.56% for Argentina.",
+     "The dollar rose to 3,599 Colombian pesos (+2.68%) and 1,033 Chilean pesos (+1.58%), and fell to 5.91 reais (−0.37%).",
+     "For supply chain: stagger payments in Colombian and Chilean pesos and quote cable and connectors with copper near $5.49 per pound."
     ],
     "bloques": [
      {
-      "t": "What was expected",
-      "x": "At the open the real firmed 1.4% and the Ibovespa rose 1.3%, while the Colombian peso fell 1.7% and Chile slipped with copper."
+      "t": "What happened",
+      "x": "The Ibovespa closed at 164,088.77 (−0.43%), after rising 1.3% at the open, and Canada's S&P/TSX at 33,962.25 (−0.35%). The MSCI ETFs closed −2.64% for Peru, −2.60% for Chile, −1.56% for Argentina and +0.21% for Brazil."
      },
      {
-      "t": "How it's going",
-      "x": "At 11:22 a.m. Mexico City time the Ibovespa stood at 164,996.97 (+0.12%); at 11:37 Canada's S&P/TSX stood at 33,994.63 (−0.26%). The MSCI ETFs fell 3.20% for Chile, 2.43% for Peru and 1.01% for Argentina, and rose 0.75% for Brazil. In currencies, the dollar stood at 5.91 reais (−0.35%), 1,034 Chilean pesos (+1.66%), 3,631 Colombian pesos (+3.58%), 3.48 soles (+0.79%), 1,593 Argentine pesos (+0.85%) and 1.428 Canadian dollars (−0.56%)."
+      "t": "Why",
+      "x": "Silver fell 6.2% and copper 4.1%, dragging Peru, Chile and their currencies; crude rose 1.6%, but not enough to support the Colombian peso. Brazil gave back its morning gain with the tech sell-off."
      },
      {
-      "t": "What surprised",
-      "x": "The drop in copper (−4.9%) and silver (−5.7%) intensified and dragged Chile, Peru and their currencies; the Colombian peso was the region's weakest currency despite crude's rise (+1.7%). The Ibovespa gave back almost all of its opening gain."
+      "t": "Currencies",
+      "x": "The dollar ended at 5.91 reais (−0.37%), 1,033 Chilean pesos (+1.58%), 3,599 Colombian pesos (+2.68%), 3.48 soles (+0.68%), 1,592 Argentine pesos (+0.79%) and 1.427 Canadian dollars (−0.65%)."
+     },
+     {
+      "t": "What to expect",
+      "x": "Tomorrow US PCE and GDP will move the region's currencies; OPEC+ meets on Sunday the 29th."
      }
     ],
-    "scm": "Stagger payments in Colombian and Chilean pesos, which are weakening sharply today, and quote first-quarter cable and connectors with copper at $5.44 per pound."
+    "scm": "Stagger payments in Colombian and Chilean pesos, which weakened sharply, and quote first-quarter cable and connectors with copper near $5.49 per pound."
    },
    "pt": {
-    "titular": "O peso colombiano despenca 3,6% e o Chile cai 3,2% com o cobre; o real devolve o ganho",
+    "titular": "Chile e Peru caem 2,6% com os metais e o peso colombiano se enfraquece 2,7%; o Ibovespa fecha com −0,4%",
     "esencial": [
-     "Às 11h37 (Cidade do México) o dólar subia para 3.631 pesos colombianos (+3,58%) e 1.034 pesos chilenos (+1,66%); o ETF da MSCI do Chile caía 3,20% e o do Peru 2,43%.",
-     "O Ibovespa subia apenas 0,12% (164.996,97) e o S&P/TSX do Canadá caía 0,26%; o real devolvia a maior parte do ganho da manhã (R$ 5,91 por dólar).",
-     "Para supply chain: escalone os pagamentos em pesos colombianos e chilenos, que se enfraquecem com força, e cote cabos com o cobre a 5,44 dólares por libra."
+     "O Ibovespa fechou com −0,43% (164.088,77) e o S&P/TSX do Canadá com −0,35% (33.962,25); os ETFs da MSCI caíram 2,64% no Peru, 2,60% no Chile e 1,56% na Argentina.",
+     "O dólar subiu para 3.599 pesos colombianos (+2,68%) e 1.033 pesos chilenos (+1,58%), e caiu para R$ 5,91 (−0,37%).",
+     "Para supply chain: escalone os pagamentos em pesos colombianos e chilenos e cote cabos e conectores com o cobre perto de 5,49 dólares por libra."
     ],
     "bloques": [
      {
-      "t": "O que se esperava",
-      "x": "Na abertura o real se fortalecia 1,4% e o Ibovespa subia 1,3%, enquanto o peso colombiano caía 1,7% e o Chile recuava com o cobre."
+      "t": "O que aconteceu",
+      "x": "O Ibovespa fechou em 164.088,77 (−0,43%), depois de subir 1,3% na abertura, e o S&P/TSX do Canadá em 33.962,25 (−0,35%). Os ETFs da MSCI fecharam com −2,64% no Peru, −2,60% no Chile, −1,56% na Argentina e +0,21% no Brasil."
      },
      {
-      "t": "Como está",
-      "x": "Às 11h22 (Cidade do México) o Ibovespa estava em 164.996,97 (+0,12%); às 11h37 o S&P/TSX do Canadá estava em 33.994,63 (−0,26%). Os ETFs da MSCI caíam 3,20% no Chile, 2,43% no Peru e 1,01% na Argentina, e subiam 0,75% no Brasil. Nas moedas, o dólar estava em R$ 5,91 (−0,35%), 1.034 pesos chilenos (+1,66%), 3.631 pesos colombianos (+3,58%), 3,48 soles (+0,79%), 1.593 pesos argentinos (+0,85%) e 1,428 dólar canadense (−0,56%)."
+      "t": "Por quê",
+      "x": "A prata caiu 6,2% e o cobre 4,1%, o que arrastou Peru, Chile e suas moedas; o petróleo subiu 1,6%, mas não bastou para sustentar o peso colombiano. O Brasil devolveu o ganho da manhã com a venda em tecnologia."
      },
      {
-      "t": "O que surpreendeu",
-      "x": "A queda do cobre (−4,9%) e da prata (−5,7%) se intensificou e arrastou Chile, Peru e suas moedas; o peso colombiano foi a moeda mais fraca da região apesar da alta do petróleo (+1,7%). O Ibovespa devolveu quase todo o ganho da abertura."
+      "t": "Moedas",
+      "x": "O dólar terminou em R$ 5,91 (−0,37%), 1.033 pesos chilenos (+1,58%), 3.599 pesos colombianos (+2,68%), 3,48 soles (+0,68%), 1.592 pesos argentinos (+0,79%) e 1,427 dólar canadense (−0,65%)."
+     },
+     {
+      "t": "O que se espera",
+      "x": "Amanhã o PCE e o PIB dos EUA vão mover as moedas da região; a OPEP+ se reúne no domingo, dia 29."
      }
     ],
-    "scm": "Escalone os pagamentos em pesos colombianos e chilenos, que se enfraquecem com força hoje, e cote cabos e conectores do primeiro trimestre com o cobre a 5,44 dólares por libra."
+    "scm": "Escalone os pagamentos em pesos colombianos e chilenos, que se enfraqueceram com força, e cote cabos e conectores do primeiro trimestre com o cobre perto de 5,49 dólares por libra."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (24 nov 2026, 11:37 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 24 nov 2026)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
@@ -187,79 +209,80 @@
    ]
   },
   "mexico": {
-   "id": "2026-11-24-mediodia-mexico",
+   "id": "2026-11-24-cierre-mexico",
    "fecha": "2026-11-24",
-   "momento": "mediodia",
+   "momento": "cierre",
    "mercado": "mexico",
-   "hora": "11:37 CDMX",
+   "hora": "15:15 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "El peso se debilita a 19.42 junto con las monedas de la región; el IPC sube 0.5%",
+    "titular": "El peso cierra en 19.41, su nivel más débil en semanas, y el IPC termina plano; mañana rige un FIX de 19.1648",
     "esencial": [
-     "A las 11:37 CDMX el peso cotizaba en 19.42 por dólar (+1.42% el dólar), aunque el índice del dólar bajaba 0.49%; el peso colombiano y el chileno también se debilitaban.",
-     "El S&P/BMV IPC subía 0.54% a 69,727.49 puntos a las 11:17 CDMX, tras el dato de inflación de 3.96%.",
-     "Para supply chain: hoy rige el FIX de 19.0228 y mañana el de 19.1648, ambos debajo del mercado; liquida hoy los pagos en dólares que puedas."
+     "El peso terminó en 19.41 por dólar (+1.39% el dólar), aunque el índice del dólar bajó 0.47%; el S&P/BMV IPC cerró casi sin cambio en 69,306.81 (−0.07%).",
+     "La inflación de la primera quincena de noviembre subió a 3.96% por la luz y el jitomate, pero la subyacente bajó a 3.68%, según el INEGI.",
+     "Para supply chain: mañana rige el FIX de 19.1648, debajo del mercado; escalona los pagos en dólares de la semana y actualiza el tipo de cambio de tus costos."
     ],
     "bloques": [
      {
-      "t": "Lo que se esperaba",
-      "x": "En la apertura el peso estaba en 19.31 y el IPC subía 0.7%, tras la inflación de 3.96% en la primera quincena de noviembre; el FIX de 19.1648 rige desde mañana."
+      "t": "Qué pasó",
+      "x": "El S&P/BMV IPC cerró en 69,306.81 puntos (−0.07%), después de subir hasta 0.7% en la apertura. El peso terminó en 19.41 por dólar (+1.39% el dólar), más débil que en la apertura (19.31). Hoy rigió el FIX de 19.0228; mañana miércoles rige el de 19.1648, determinado ayer. La inflación anual subió a 3.96% en la primera quincena de noviembre, desde 3.88%, y la subyacente bajó a 3.68%, según el INEGI."
      },
      {
-      "t": "Cómo va",
-      "x": "A las 11:17 CDMX el S&P/BMV IPC estaba en 69,727.49 puntos (+0.54%). A las 11:37 CDMX el peso cotizaba en 19.42 por dólar (+1.42% el dólar), más débil que en la apertura. Hoy rige el FIX de 19.0228; mañana el de 19.1648."
+      "t": "Por qué",
+      "x": "El peso se debilitó junto con las monedas de la región (el peso colombiano y el chileno cayeron más de 1.5%) en un día de fuerte caída de la plata (−6.2%) y el cobre (−4.1%), aunque el índice del dólar bajó 0.47%. La caída de los metales pesó sobre las mineras del IPC."
      },
      {
-      "t": "Lo que sorprendió",
-      "x": "El peso se debilita aunque el índice del dólar baja 0.49%: las monedas de la región también caen (el dólar sube 3.6% frente al peso colombiano y 1.7% frente al chileno), en un día de fuerte caída de la plata (−5.7%) y el cobre (−4.9%)."
+      "t": "Qué se espera",
+      "x": "Mañana el PCE y el PIB de EE. UU. moverán al peso. El jueves 26 la BMV opera aunque Wall Street cierra, y el viernes 27 el INEGI publica la balanza comercial de octubre."
      }
     ],
-    "scm": "Hoy rige el FIX de 19.0228 y mañana el de 19.1648, ambos debajo del tipo de cambio de mercado (19.42): liquida hoy los pagos en dólares que puedas y escalona los de la semana."
+    "scm": "Mañana rige el FIX de 19.1648, debajo del mercado (19.41): escalona los pagos en dólares de la semana y actualiza el tipo de cambio de tus costos de importación. La subyacente a la baja da margen para negociar precios de servicios."
    },
    "en": {
-    "titular": "The peso weakens to 19.42 along with regional currencies; the IPC rises 0.5%",
+    "titular": "The peso closes at 19.41, its weakest in weeks, and the IPC ends flat; a 19.1648 FIX applies tomorrow",
     "esencial": [
-     "At 11:37 a.m. Mexico City time the peso traded at 19.42 per dollar (dollar +1.42%), even as the dollar index fell 0.49%; the Colombian and Chilean pesos also weakened.",
-     "The S&P/BMV IPC was up 0.54% at 69,727.49 points at 11:17 a.m., after the 3.96% inflation reading.",
-     "For supply chain: today the 19.0228 FIX applies and tomorrow the 19.1648 one, both below market; settle the dollar payments you can today."
+     "The peso ended at 19.41 per dollar (dollar +1.39%), even as the dollar index fell 0.47%; the S&P/BMV IPC closed nearly unchanged at 69,306.81 (−0.07%).",
+     "First-half November inflation rose to 3.96% on electricity and tomatoes, but core fell to 3.68%, according to INEGI.",
+     "For supply chain: tomorrow the 19.1648 FIX applies, below market; stagger this week's dollar payments and update the exchange rate in your costs."
     ],
     "bloques": [
      {
-      "t": "What was expected",
-      "x": "At the open the peso stood at 19.31 and the IPC was up 0.7%, after 3.96% inflation in the first half of November; the 19.1648 FIX applies from tomorrow."
+      "t": "What happened",
+      "x": "The S&P/BMV IPC closed at 69,306.81 points (−0.07%), after rising as much as 0.7% at the open. The peso ended at 19.41 per dollar (dollar +1.39%), weaker than at the open (19.31). Today the 19.0228 FIX applied; on Wednesday the 19.1648 one applies, set yesterday. Annual inflation rose to 3.96% in the first half of November, from 3.88%, and core fell to 3.68%, according to INEGI."
      },
      {
-      "t": "How it's going",
-      "x": "At 11:17 a.m. Mexico City time the S&P/BMV IPC stood at 69,727.49 points (+0.54%). At 11:37 a.m. the peso traded at 19.42 per dollar (dollar +1.42%), weaker than at the open. Today the 19.0228 FIX applies; tomorrow the 19.1648 one."
+      "t": "Why",
+      "x": "The peso weakened along with regional currencies (the Colombian and Chilean pesos fell more than 1.5%) on a day of sharp drops in silver (−6.2%) and copper (−4.1%), even though the dollar index fell 0.47%. The drop in metals weighed on IPC miners."
      },
      {
-      "t": "What surprised",
-      "x": "The peso weakens even as the dollar index falls 0.49%: regional currencies also fall (the dollar rises 3.6% against the Colombian peso and 1.7% against the Chilean peso), on a day of sharp drops in silver (−5.7%) and copper (−4.9%)."
+      "t": "What to expect",
+      "x": "Tomorrow US PCE and GDP will move the peso. On Thursday the 26th the BMV is open although Wall Street is closed, and on Friday the 27th INEGI publishes the October trade balance."
      }
     ],
-    "scm": "Today the 19.0228 FIX applies and tomorrow the 19.1648 one, both below the market rate (19.42): settle the dollar payments you can today and stagger this week's."
+    "scm": "Tomorrow the 19.1648 FIX applies, below market (19.41): stagger this week's dollar payments and update the exchange rate in your import costs. Falling core inflation leaves room to negotiate service prices."
    },
    "pt": {
-    "titular": "O peso se enfraquece para 19,42 com as moedas da região; o IPC sobe 0,5%",
+    "titular": "O peso fecha em 19,41, o nível mais fraco em semanas, e o IPC termina estável; amanhã vale um FIX de 19,1648",
     "esencial": [
-     "Às 11h37 (Cidade do México) o peso era cotado a 19,42 por dólar (dólar +1,42%), embora o índice do dólar caísse 0,49%; os pesos colombiano e chileno também se enfraqueciam.",
-     "O S&P/BMV IPC subia 0,54% para 69.727,49 pontos às 11h17, depois do dado de inflação de 3,96%.",
-     "Para supply chain: hoje vale o FIX de 19,0228 e amanhã o de 19,1648, ambos abaixo do mercado; liquide hoje os pagamentos em dólares que puder."
+     "O peso terminou em 19,41 por dólar (dólar +1,39%), embora o índice do dólar tenha caído 0,47%; o S&P/BMV IPC fechou quase estável em 69.306,81 (−0,07%).",
+     "A inflação da primeira quinzena de novembro subiu para 3,96% pela energia elétrica e o tomate, mas a núcleo caiu para 3,68%, segundo o INEGI.",
+     "Para supply chain: amanhã vale o FIX de 19,1648, abaixo do mercado; escalone os pagamentos em dólares da semana e atualize o câmbio dos seus custos."
     ],
     "bloques": [
      {
-      "t": "O que se esperava",
-      "x": "Na abertura o peso estava em 19,31 e o IPC subia 0,7%, depois da inflação de 3,96% na primeira quinzena de novembro; o FIX de 19,1648 vale a partir de amanhã."
+      "t": "O que aconteceu",
+      "x": "O S&P/BMV IPC fechou em 69.306,81 pontos (−0,07%), depois de subir até 0,7% na abertura. O peso terminou em 19,41 por dólar (dólar +1,39%), mais fraco que na abertura (19,31). Hoje valeu o FIX de 19,0228; amanhã, quarta, vale o de 19,1648, definido ontem. A inflação anual subiu para 3,96% na primeira quinzena de novembro, desde 3,88%, e a núcleo caiu para 3,68%, segundo o INEGI."
      },
      {
-      "t": "Como está",
-      "x": "Às 11h17 (Cidade do México) o S&P/BMV IPC estava em 69.727,49 pontos (+0,54%). Às 11h37 o peso era cotado a 19,42 por dólar (dólar +1,42%), mais fraco que na abertura. Hoje vale o FIX de 19,0228; amanhã o de 19,1648."
+      "t": "Por quê",
+      "x": "O peso se enfraqueceu junto com as moedas da região (os pesos colombiano e chileno caíram mais de 1,5%) em um dia de forte queda da prata (−6,2%) e do cobre (−4,1%), embora o índice do dólar tenha caído 0,47%. A queda dos metais pesou sobre as mineradoras do IPC."
      },
      {
-      "t": "O que surpreendeu",
-      "x": "O peso se enfraquece embora o índice do dólar caia 0,49%: as moedas da região também caem (o dólar sobe 3,6% frente ao peso colombiano e 1,7% frente ao chileno), em um dia de forte queda da prata (−5,7%) e do cobre (−4,9%)."
+      "t": "O que se espera",
+      "x": "Amanhã o PCE e o PIB dos EUA vão mover o peso. Na quinta, dia 26, a BMV opera embora Wall Street feche, e na sexta, dia 27, o INEGI divulga a balança comercial de outubro."
      }
     ],
-    "scm": "Hoje vale o FIX de 19,0228 e amanhã o de 19,1648, ambos abaixo do câmbio de mercado (19,42): liquide hoje os pagamentos em dólares que puder e escalone os da semana."
+    "scm": "Amanhã vale o FIX de 19,1648, abaixo do mercado (19,41): escalone os pagamentos em dólares da semana e atualize o câmbio dos custos de importação. A núcleo em queda dá margem para negociar preços de serviços."
    },
    "fuentes": [
     {
@@ -275,7 +298,7 @@
      "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (24 nov 2026, 11:37 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 24 nov 2026)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -283,8 +306,8 @@
  },
  "lectura": {
   "es": {
-   "titular": "La IA y los metales caen, pero el consumidor de EE. UU. está más optimista que en casi dos años; el peso se debilita a 19.42",
-   "resumen": "El rebote del lunes no aguantó: los chips caen 7%, Nvidia 6.8% y Anthropic baja de su precio de salida, mientras HPE y Dell caen más de 11%. Para supply chain, el dato más útil del día está en el consumo: Best Buy tuvo sus mejores ventas comparables en cinco años y elevó su guía, señal de que la demanda de electrónica en EE. UU. aguanta antes de la temporada de compras. En México la inflación subió a 3.96% por el fin del subsidio de verano a la luz y el jitomate, pero la subyacente bajó a 3.68%, lo que da margen en precios de servicios y bienes no alimenticios. El peso se debilita a 19.31 y el FIX sube a 19.1648 desde mañana. El crudo rebota desde mínimos de tres meses; el diésel está en 3.69 dólares por galón.",
+   "titular": "Se deshace parte del rally de la IA, el peso cierra en 19.41 y Dell confirma que la demanda de servidores sigue en máximos",
+   "resumen": "Los chips devolvieron parte del rally del lunes (índice de semiconductores −7.9%) y Anthropic cerró debajo de su precio de salida, aunque el Dow volvió arriba de 50,000 con salud y consumo básico. Para supply chain, el dato del día llegó después del cierre: Dell reportó ingresos récord por 54,900 millones de dólares (+103%) y una cartera de pedidos de IA de 132,300 millones, señal de que la demanda de servidores no se frena y de que los aumentos de precio pueden seguir. La confianza del consumidor de EE. UU. está en su nivel más alto en casi dos años y la gasolina en su nivel más bajo desde marzo. En México la inflación subió a 3.96%, pero la subyacente bajó a 3.68%; el peso cerró en 19.41, golpeado junto con la región por la caída de la plata y el cobre. Mañana salen el PCE y el PIB de EE. UU.",
    "temas": [
     {
      "tema": "Peso y tasas",
@@ -385,8 +408,8 @@
    ]
   },
   "en": {
-   "titular": "AI and metals fall, but US consumers are the most optimistic in nearly two years; the peso weakens to 19.42",
-   "resumen": "Monday's rebound did not hold: chips fall 7%, Nvidia 6.8% and Anthropic drops below its IPO price, while HPE and Dell fall more than 11%. For supply chain, the most useful data point of the day is in consumption: Best Buy posted its best comparable sales in five years and raised guidance, a sign that US electronics demand is holding up ahead of the shopping season. In Mexico inflation rose to 3.96% on the end of the summer electricity subsidy and tomatoes, but core fell to 3.68%, leaving room on prices for services and non-food goods. The peso weakens to 19.31 and the FIX rises to 19.1648 from tomorrow. Crude rebounds from three-month lows; diesel is at $3.69 a gallon.",
+   "titular": "Part of the AI rally unwinds, the peso closes at 19.41 and Dell confirms server demand remains at record levels",
+   "resumen": "Chips gave back part of Monday's rally (semiconductor index −7.9%) and Anthropic closed below its IPO price, although the Dow returned above 50,000 with healthcare and staples. For supply chain, the key data point came after the close: Dell reported record revenue of $54.9 billion (+103%) and an AI order backlog of $132.3 billion, a sign that server demand is not slowing and that price increases may continue. US consumer confidence is at its highest in nearly two years and gasoline at its lowest since March. In Mexico inflation rose to 3.96%, but core fell to 3.68%; the peso closed at 19.41, hit along with the region by the drop in silver and copper. US PCE and GDP come out tomorrow.",
    "temas": [
     {
      "tema": "Peso and rates",
@@ -487,8 +510,8 @@
    ]
   },
   "pt": {
-   "titular": "A IA e os metais caem, mas o consumidor dos EUA está mais otimista que em quase dois anos; o peso se enfraquece para 19,42",
-   "resumen": "O repique de segunda não se sustentou: os chips caem 7%, a Nvidia 6,8% e a Anthropic fica abaixo do preço do IPO, enquanto HPE e Dell caem mais de 11%. Para supply chain, o dado mais útil do dia está no consumo: a Best Buy teve as melhores vendas comparáveis em cinco anos e elevou a projeção, sinal de que a demanda por eletrônicos nos EUA resiste antes da temporada de compras. No México a inflação subiu para 3,96% pelo fim do subsídio de verão à energia e pelo tomate, mas a núcleo caiu para 3,68%, o que dá margem nos preços de serviços e bens não alimentícios. O peso se enfraquece para 19,31 e o FIX sobe para 19,1648 a partir de amanhã. O petróleo sobe desde mínimas de três meses; o diesel está a 3,69 dólares por galão.",
+   "titular": "Parte do rally da IA se desfaz, o peso fecha em 19,41 e a Dell confirma que a demanda por servidores segue em máximos",
+   "resumen": "Os chips devolveram parte do rally de segunda (índice de semicondutores −7,9%) e a Anthropic fechou abaixo do preço do IPO, embora o Dow tenha voltado acima de 50.000 com saúde e consumo básico. Para supply chain, o dado do dia veio depois do fechamento: a Dell reportou receita recorde de 54,9 bilhões de dólares (+103%) e uma carteira de pedidos de IA de 132,3 bilhões, sinal de que a demanda por servidores não desacelera e de que os aumentos de preço podem continuar. A confiança do consumidor dos EUA está no maior nível em quase dois anos e a gasolina no menor nível desde março. No México a inflação subiu para 3,96%, mas a núcleo caiu para 3,68%; o peso fechou em 19,41, atingido junto com a região pela queda da prata e do cobre. Amanhã saem o PCE e o PIB dos EUA.",
    "temas": [
     {
      "tema": "Peso e juros",
@@ -594,8 +617,8 @@
    "nombre": "IPC BMV",
    "name_en": "IPC BMV",
    "grupo": "bolsa",
-   "valor": 69727.49,
-   "cambio": 0.54,
+   "valor": 69306.81,
+   "cambio": -0.07,
    "unidad": "puntos",
    "name_pt": "IPC BMV"
   },
@@ -603,8 +626,8 @@
    "nombre": "S&P 500",
    "name_en": "S&P 500",
    "grupo": "bolsa",
-   "valor": 7206.57,
-   "cambio": -0.42,
+   "valor": 7201.09,
+   "cambio": -0.5,
    "unidad": "puntos",
    "name_pt": "S&P 500"
   },
@@ -612,8 +635,8 @@
    "nombre": "Nasdaq",
    "name_en": "Nasdaq",
    "grupo": "bolsa",
-   "valor": 23746.81,
-   "cambio": -1.42,
+   "valor": 23733.54,
+   "cambio": -1.48,
    "unidad": "puntos",
    "name_pt": "Nasdaq"
   },
@@ -621,8 +644,8 @@
    "nombre": "Dow Jones",
    "name_en": "Dow Jones",
    "grupo": "bolsa",
-   "valor": 49993.8,
-   "cambio": 0.8,
+   "valor": 50018.7,
+   "cambio": 0.85,
    "unidad": "puntos",
    "name_pt": "Dow Jones"
   },
@@ -657,8 +680,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 19.42,
-   "cambio": 1.42,
+   "valor": 19.41,
+   "cambio": 1.39,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -666,8 +689,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.0975,
-   "cambio": 0.63,
+   "valor": 1.0969,
+   "cambio": 0.58,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -675,8 +698,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 159.25,
-   "cambio": 0.17,
+   "valor": 159.24,
+   "cambio": 0.16,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -684,8 +707,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 81.55,
-   "cambio": 1.72,
+   "valor": 81.43,
+   "cambio": 1.57,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -693,8 +716,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 90.83,
-   "cambio": 1.63,
+   "valor": 90.82,
+   "cambio": 1.62,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -711,8 +734,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3562.9,
-   "cambio": -2.42,
+   "valor": 3549.4,
+   "cambio": -2.79,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -720,8 +743,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 5.44,
-   "cambio": -4.88,
+   "valor": 5.49,
+   "cambio": -4.12,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -730,7 +753,7 @@
    "name_en": "10-yr Treasury",
    "grupo": "bono",
    "valor": 4.9,
-   "cambio": -2,
+   "cambio": -1,
    "unidad": "%",
    "name_pt": "Título do Tesouro 10 anos"
   },
@@ -756,19 +779,13 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 59980.33,
-   "cambio": -2.01,
+   "valor": 59680.67,
+   "cambio": -2.5,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }
  ],
  "agenda": [
-  {
-   "fecha": "2026-11-24",
-   "es": "INEGI: inflación de la 1a quincena de noviembre",
-   "en": "INEGI: first-half November inflation",
-   "pt": "INEGI: inflação da 1ª quinzena de novembro"
-  },
   {
    "fecha": "2026-11-25",
    "es": "EE. UU.: índice PCE de octubre y PIB del tercer trimestre",

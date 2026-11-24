@@ -1,0 +1,107 @@
+{
+ "id": "2026-11-24-cierre-global",
+ "fecha": "2026-11-24",
+ "momento": "cierre",
+ "mercado": "global",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Los chips cierran con −7.9% y el Nasdaq con −1.5%, pero el Dow vuelve arriba de 50,000; Dell reporta ingresos récord",
+  "esencial": [
+   "El S&P 500 cerró en 7,201.09 (−0.50%), el Nasdaq en 23,733.54 (−1.48%) y el Dow en 50,018.70 (+0.85%); el índice de semiconductores cayó 7.9% y Micron 11%.",
+   "Después del cierre, Dell reportó ingresos trimestrales récord por 54,900 millones de dólares (+103%) y una cartera de pedidos de IA de 132,300 millones; la acción había caído 11.8% en el día.",
+   "Para supply chain: la demanda de servidores de IA sigue creciendo y los fabricantes están subiendo precios; mañana salen el PCE y el PIB de EE. UU. y el jueves no opera Wall Street."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "Se cumplió el ajuste en tecnología que se esperaba en la apertura, pero el Dow resistió: el S&P 500 cerró en 7,201.09 (−0.50%), el Nasdaq en 23,733.54 (−1.48%) y el Dow en 50,018.70 (+0.85%), de nuevo arriba de 50,000; el VIX bajó a 26.2. El índice de semiconductores cayó 7.9%: Micron −11.0%, AMD −8.9%, Nvidia −5.9% (155.38 dólares), Broadcom −4.0% y TSMC −4.0%. Anthropic cerró en 81.91 dólares (−6.5%), debajo de su precio de salida de 83. HPE perdió 16.3%, Dell 11.8%, CoreWeave 11.9% y Nebius 10.7%; Best Buy ganó 2.7%. Salud y consumo básico subieron. Europa cerró a la baja: Euro Stoxx 50 −1.16% y DAX −1.26%."
+   },
+   {
+    "t": "Por qué",
+    "x": "Los inversionistas tomaron ganancias tras el alza de Nvidia del lunes, que le sumó 954,000 millones de dólares en valor de mercado, la mayor ganancia en un día para cualquier acción, según TIKR; las investigaciones del Senado y la Cámara sobre el regreso de Jensen Huang siguen abiertas. La Fed también pesa: John Williams, de la Fed de Nueva York, dijo que la inflación alta apunta a una política más restrictiva. En cambio, la confianza del consumidor de EE. UU. subió a su nivel más alto en casi dos años, según el Conference Board."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Después del cierre, Dell reportó ingresos récord por 54,900 millones de dólares (+103%), ingresos de servidores para IA por 22,000 millones (+291%) y una cartera de pedidos de IA de 132,300 millones; elevó su guía del año a 202,000 millones. HP también reporta hoy. Mañana miércoles salen en EE. UU. el índice PCE de octubre, el PIB del tercer trimestre, los bienes duraderos y las solicitudes de subsidio por desempleo, además del Libro Beige de la Fed. El jueves no opera Wall Street."
+   }
+  ],
+  "scm": "La demanda de servidores de IA sigue en máximos (cartera de Dell de 132,300 millones): si compras servidores o almacenamiento, asegura capacidad y precio por escrito. Confirma mañana los últimos cortes de embarque a EE. UU. antes del Día de Acción de Gracias."
+ },
+ "en": {
+  "titular": "Chips close −7.9% and the Nasdaq −1.5%, but the Dow is back above 50,000; Dell reports record revenue",
+  "esencial": [
+   "The S&P 500 closed at 7,201.09 (−0.50%), the Nasdaq at 23,733.54 (−1.48%) and the Dow at 50,018.70 (+0.85%); the semiconductor index fell 7.9% and Micron 11%.",
+   "After the close, Dell reported record quarterly revenue of $54.9 billion (+103%) and an AI order backlog of $132.3 billion; the stock had fallen 11.8% during the day.",
+   "For supply chain: AI server demand keeps growing and manufacturers are raising prices; US PCE and GDP come out tomorrow and Wall Street is closed on Thursday."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The tech pullback expected at the open played out, but the Dow held up: the S&P 500 closed at 7,201.09 (−0.50%), the Nasdaq at 23,733.54 (−1.48%) and the Dow at 50,018.70 (+0.85%), back above 50,000; the VIX fell to 26.2. The semiconductor index fell 7.9%: Micron −11.0%, AMD −8.9%, Nvidia −5.9% ($155.38), Broadcom −4.0% and TSMC −4.0%. Anthropic closed at $81.91 (−6.5%), below its $83 IPO price. HPE lost 16.3%, Dell 11.8%, CoreWeave 11.9% and Nebius 10.7%; Best Buy gained 2.7%. Healthcare and consumer staples rose. Europe closed lower: Euro Stoxx 50 −1.16% and DAX −1.26%."
+   },
+   {
+    "t": "Why",
+    "x": "Investors took profits after Nvidia's Monday surge, which added $954 billion in market value, the biggest one-day gain for any stock, according to TIKR; Senate and House investigations into Jensen Huang's return remain open. The Fed also weighs: New York Fed President John Williams said high inflation points to tighter policy. On the other hand, US consumer confidence rose to its highest in nearly two years, according to the Conference Board."
+   },
+   {
+    "t": "What to expect",
+    "x": "After the close, Dell reported record revenue of $54.9 billion (+103%), AI server revenue of $22.0 billion (+291%) and an AI order backlog of $132.3 billion; it raised its full-year guidance to $202 billion. HP also reports today. On Wednesday the US releases October PCE, third-quarter GDP, durable goods and jobless claims, plus the Fed’s Beige Book. Wall Street is closed on Thursday."
+   }
+  ],
+  "scm": "AI server demand remains at record levels (Dell's backlog of $132.3 billion): if you buy servers or storage, secure capacity and price in writing. Confirm the last US shipping cutoffs tomorrow before Thanksgiving."
+ },
+ "pt": {
+  "titular": "Os chips fecham com −7,9% e o Nasdaq com −1,5%, mas o Dow volta acima de 50.000; a Dell reporta receita recorde",
+  "esencial": [
+   "O S&P 500 fechou em 7.201,09 (−0,50%), o Nasdaq em 23.733,54 (−1,48%) e o Dow em 50.018,70 (+0,85%); o índice de semicondutores caiu 7,9% e a Micron 11%.",
+   "Depois do fechamento, a Dell reportou receita trimestral recorde de 54,9 bilhões de dólares (+103%) e uma carteira de pedidos de IA de 132,3 bilhões; a ação havia caído 11,8% no dia.",
+   "Para supply chain: a demanda por servidores de IA segue crescendo e os fabricantes estão subindo preços; amanhã saem o PCE e o PIB dos EUA e na quinta Wall Street não opera."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O ajuste em tecnologia esperado na abertura se confirmou, mas o Dow resistiu: o S&P 500 fechou em 7.201,09 (−0,50%), o Nasdaq em 23.733,54 (−1,48%) e o Dow em 50.018,70 (+0,85%), de volta acima de 50.000; o VIX caiu para 26,2. O índice de semicondutores caiu 7,9%: Micron −11,0%, AMD −8,9%, Nvidia −5,9% (155,38 dólares), Broadcom −4,0% e TSMC −4,0%. A Anthropic fechou a 81,91 dólares (−6,5%), abaixo do preço do IPO de 83. A HPE perdeu 16,3%, a Dell 11,8%, a CoreWeave 11,9% e a Nebius 10,7%; a Best Buy ganhou 2,7%. Saúde e consumo básico subiram. A Europa fechou em queda: Euro Stoxx 50 −1,16% e DAX −1,26%."
+   },
+   {
+    "t": "Por quê",
+    "x": "Os investidores realizaram lucros depois da alta da Nvidia de segunda, que somou 954 bilhões de dólares em valor de mercado, o maior ganho em um dia para qualquer ação, segundo a TIKR; as investigações do Senado e da Câmara sobre o retorno de Jensen Huang seguem abertas. O Fed também pesa: John Williams, do Fed de Nova York, disse que a inflação alta aponta para uma política mais restritiva. Por outro lado, a confiança do consumidor dos EUA subiu ao maior nível em quase dois anos, segundo o Conference Board."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Depois do fechamento, a Dell reportou receita recorde de 54,9 bilhões de dólares (+103%), receita de servidores para IA de 22,0 bilhões (+291%) e uma carteira de pedidos de IA de 132,3 bilhões; elevou a projeção do ano para 202 bilhões. A HP também divulga resultados hoje. Amanhã, quarta, saem nos EUA o índice PCE de outubro, o PIB do terceiro trimestre, os bens duráveis e os pedidos de seguro-desemprego, além do Livro Bege do Fed. Na quinta Wall Street não opera."
+   }
+  ],
+  "scm": "A demanda por servidores de IA segue em máximos (carteira da Dell de 132,3 bilhões): se você compra servidores ou armazenamento, garanta capacidade e preço por escrito. Confirme amanhã os últimos prazos de embarque para os EUA antes do Dia de Ação de Graças."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters: el Nasdaq y el S&P 500 caen mientras se deshace el rally impulsado por Nvidia (24 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-dip-chip-105355594.html"
+  },
+  {
+   "t": "Dell Technologies: resultados del tercer trimestre del año fiscal 2027 (24 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-delivers-third-quarter-210500797.html"
+  },
+  {
+   "t": "TIKR: Dan Ives dice que Jensen Huang vale un billón de dólares para Nvidia; el Congreso no ha terminado con él (24 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-says-jensen-huang-202022970.html"
+  },
+  {
+   "t": "Reuters: el petróleo sube por ataques a barcos en Ormuz; la perspectiva de excedente limita el alza (24 nov 2026)",
+   "u": "https://finance.yahoo.com/news/oil-prices-near-three-month-051343862.html"
+  },
+  {
+   "t": "Yahoo Finance: la gasolina baja a su nivel más bajo desde marzo antes del Día de Acción de Gracias (24 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/article/gas-prices-drop-to-the-lowest-level-since-march-ahead-of-thanksgiving-holiday-170804061.html"
+  },
+  {
+   "t": "Newsquawk: calendario económico semanal, 23 a 27 de noviembre de 2026",
+   "u": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---23rd-27th-november-2026"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 24 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

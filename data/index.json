@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-24-cierre-global",
+   "fecha": "2026-11-24",
+   "momento": "cierre",
+   "mercado": "global",
+   "titular_es": "Los chips cierran con −7.9% y el Nasdaq con −1.5%, pero el Dow vuelve arriba de 50,000; Dell reporta ingresos récord",
+   "titular_en": "Chips close −7.9% and the Nasdaq −1.5%, but the Dow is back above 50,000; Dell reports record revenue",
+   "titular_pt": "Os chips fecham com −7,9% e o Nasdaq com −1,5%, mas o Dow volta acima de 50.000; a Dell reporta receita recorde"
+  },
+  {
+   "id": "2026-11-24-cierre-latam",
+   "fecha": "2026-11-24",
+   "momento": "cierre",
+   "mercado": "latam",
+   "titular_es": "Chile y Perú caen 2.6% con los metales y el peso colombiano se debilita 2.7%; el Ibovespa cierra con −0.4%",
+   "titular_en": "Chile and Peru fall 2.6% with metals and the Colombian peso weakens 2.7%; the Ibovespa closes −0.4%",
+   "titular_pt": "Chile e Peru caem 2,6% com os metais e o peso colombiano se enfraquece 2,7%; o Ibovespa fecha com −0,4%"
+  },
+  {
+   "id": "2026-11-24-cierre-mexico",
+   "fecha": "2026-11-24",
+   "momento": "cierre",
+   "mercado": "mexico",
+   "titular_es": "El peso cierra en 19.41, su nivel más débil en semanas, y el IPC termina plano; mañana rige un FIX de 19.1648",
+   "titular_en": "The peso closes at 19.41, its weakest in weeks, and the IPC ends flat; a 19.1648 FIX applies tomorrow",
+   "titular_pt": "O peso fecha em 19,41, o nível mais fraco em semanas, e o IPC termina estável; amanhã vale um FIX de 19,1648"
+  },
+  {
    "id": "2026-11-24-mediodia-global",
    "fecha": "2026-11-24",
    "momento": "mediodia",
@@ -782,33 +809,6 @@
    "titular_es": "El peso se fortalece a 18.56 y el IPC baja 0.25%; el FIX del jueves fue de 18.6188",
    "titular_en": "The peso strengthens to 18.56 and the IPC falls 0.25%; Thursday's FIX was 18.6188",
    "titular_pt": "O peso se fortalece para 18,56 e o IPC cai 0,25%; o FIX de quinta foi de 18,6188"
-  },
-  {
-   "id": "2026-11-13-premercado-global",
-   "fecha": "2026-11-13",
-   "momento": "premercado",
-   "mercado": "global",
-   "titular_es": "Los futuros se estabilizan tras la salida de Jensen Huang; hoy el PPI define la semana",
-   "titular_en": "Futures steady after Jensen Huang's exit; today's PPI decides the week",
-   "titular_pt": "Os futuros se estabilizam após a saída de Jensen Huang; hoje o PPI define a semana"
-  },
-  {
-   "id": "2026-11-13-premercado-latam",
-   "fecha": "2026-11-13",
-   "momento": "premercado",
-   "mercado": "latam",
-   "titular_es": "La región busca rebotar tras su caída del jueves; el real amanece en 5.65",
-   "titular_en": "The region seeks a rebound after Thursday's drop; the real starts at 5.65",
-   "titular_pt": "A região busca se recuperar depois da queda de quinta; o real amanhece a R$ 5,65"
-  },
-  {
-   "id": "2026-11-13-premercado-mexico",
-   "fecha": "2026-11-13",
-   "momento": "premercado",
-   "mercado": "mexico",
-   "titular_es": "El peso amanece en 18.59 antes del PPI; el lunes no abren la BMV ni los bancos",
-   "titular_en": "The peso starts at 18.59 ahead of PPI; the BMV and banks are closed Monday",
-   "titular_pt": "O peso amanhece a 18,59 antes do PPI; na segunda não abrem a BMV nem os bancos"
   }
  ]
 }

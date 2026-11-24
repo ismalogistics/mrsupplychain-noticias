@@ -1,0 +1,99 @@
+{
+ "id": "2026-11-24-cierre-latam",
+ "fecha": "2026-11-24",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Chile y Perú caen 2.6% con los metales y el peso colombiano se debilita 2.7%; el Ibovespa cierra con −0.4%",
+  "esencial": [
+   "El Ibovespa cerró con −0.43% (164,088.77) y el S&P/TSX de Canadá con −0.35% (33,962.25); los ETF de MSCI cayeron 2.64% en Perú, 2.60% en Chile y 1.56% en Argentina.",
+   "El dólar subió a 3,599 pesos colombianos (+2.68%) y 1,033 pesos chilenos (+1.58%), y bajó a 5.91 reales (−0.37%).",
+   "Para supply chain: escalona los pagos en pesos colombianos y chilenos y cotiza cable y conectores con el cobre cerca de 5.49 dólares por libra."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El Ibovespa cerró en 164,088.77 (−0.43%), después de subir 1.3% en la apertura, y el S&P/TSX de Canadá en 33,962.25 (−0.35%). Los ETF de MSCI cerraron con −2.64% en Perú, −2.60% en Chile, −1.56% en Argentina y +0.21% en Brasil."
+   },
+   {
+    "t": "Por qué",
+    "x": "La plata cayó 6.2% y el cobre 4.1%, lo que arrastró a Perú, Chile y sus monedas; el crudo subió 1.6%, pero no alcanzó para sostener al peso colombiano. Brasil devolvió su ganancia de la mañana con la venta en tecnología."
+   },
+   {
+    "t": "Monedas",
+    "x": "El dólar terminó en 5.91 reales (−0.37%), 1,033 pesos chilenos (+1.58%), 3,599 pesos colombianos (+2.68%), 3.48 soles (+0.68%), 1,592 pesos argentinos (+0.79%) y 1.427 dólares canadienses (−0.65%)."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana el PCE y el PIB de EE. UU. moverán a las monedas de la región; la OPEP+ se reúne el domingo 29."
+   }
+  ],
+  "scm": "Escalona los pagos en pesos colombianos y chilenos, que se debilitaron con fuerza, y cotiza cable y conectores del primer trimestre con el cobre cerca de 5.49 dólares por libra."
+ },
+ "en": {
+  "titular": "Chile and Peru fall 2.6% with metals and the Colombian peso weakens 2.7%; the Ibovespa closes −0.4%",
+  "esencial": [
+   "The Ibovespa closed −0.43% (164,088.77) and Canada's S&P/TSX −0.35% (33,962.25); the MSCI ETFs fell 2.64% for Peru, 2.60% for Chile and 1.56% for Argentina.",
+   "The dollar rose to 3,599 Colombian pesos (+2.68%) and 1,033 Chilean pesos (+1.58%), and fell to 5.91 reais (−0.37%).",
+   "For supply chain: stagger payments in Colombian and Chilean pesos and quote cable and connectors with copper near $5.49 per pound."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The Ibovespa closed at 164,088.77 (−0.43%), after rising 1.3% at the open, and Canada's S&P/TSX at 33,962.25 (−0.35%). The MSCI ETFs closed −2.64% for Peru, −2.60% for Chile, −1.56% for Argentina and +0.21% for Brazil."
+   },
+   {
+    "t": "Why",
+    "x": "Silver fell 6.2% and copper 4.1%, dragging Peru, Chile and their currencies; crude rose 1.6%, but not enough to support the Colombian peso. Brazil gave back its morning gain with the tech sell-off."
+   },
+   {
+    "t": "Currencies",
+    "x": "The dollar ended at 5.91 reais (−0.37%), 1,033 Chilean pesos (+1.58%), 3,599 Colombian pesos (+2.68%), 3.48 soles (+0.68%), 1,592 Argentine pesos (+0.79%) and 1.427 Canadian dollars (−0.65%)."
+   },
+   {
+    "t": "What to expect",
+    "x": "Tomorrow US PCE and GDP will move the region's currencies; OPEC+ meets on Sunday the 29th."
+   }
+  ],
+  "scm": "Stagger payments in Colombian and Chilean pesos, which weakened sharply, and quote first-quarter cable and connectors with copper near $5.49 per pound."
+ },
+ "pt": {
+  "titular": "Chile e Peru caem 2,6% com os metais e o peso colombiano se enfraquece 2,7%; o Ibovespa fecha com −0,4%",
+  "esencial": [
+   "O Ibovespa fechou com −0,43% (164.088,77) e o S&P/TSX do Canadá com −0,35% (33.962,25); os ETFs da MSCI caíram 2,64% no Peru, 2,60% no Chile e 1,56% na Argentina.",
+   "O dólar subiu para 3.599 pesos colombianos (+2,68%) e 1.033 pesos chilenos (+1,58%), e caiu para R$ 5,91 (−0,37%).",
+   "Para supply chain: escalone os pagamentos em pesos colombianos e chilenos e cote cabos e conectores com o cobre perto de 5,49 dólares por libra."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O Ibovespa fechou em 164.088,77 (−0,43%), depois de subir 1,3% na abertura, e o S&P/TSX do Canadá em 33.962,25 (−0,35%). Os ETFs da MSCI fecharam com −2,64% no Peru, −2,60% no Chile, −1,56% na Argentina e +0,21% no Brasil."
+   },
+   {
+    "t": "Por quê",
+    "x": "A prata caiu 6,2% e o cobre 4,1%, o que arrastou Peru, Chile e suas moedas; o petróleo subiu 1,6%, mas não bastou para sustentar o peso colombiano. O Brasil devolveu o ganho da manhã com a venda em tecnologia."
+   },
+   {
+    "t": "Moedas",
+    "x": "O dólar terminou em R$ 5,91 (−0,37%), 1.033 pesos chilenos (+1,58%), 3.599 pesos colombianos (+2,68%), 3,48 soles (+0,68%), 1.592 pesos argentinos (+0,79%) e 1,427 dólar canadense (−0,65%)."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã o PCE e o PIB dos EUA vão mover as moedas da região; a OPEP+ se reúne no domingo, dia 29."
+   }
+  ],
+  "scm": "Escalone os pagamentos em pesos colombianos e chilenos, que se enfraqueceram com força, e cote cabos e conectores do primeiro trimestre com o cobre perto de 5,49 dólares por libra."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 24 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}
