@@ -10,7 +10,7 @@
   "esencial": [
    "Ayer el Ibovespa cerró con −0.43% (164,088.77) y el S&P/TSX de Canadá con −0.35%; los ETF de MSCI cayeron 2.6% en Perú y Chile.",
    "A las 5:08 CDMX el dólar estaba en 5.89 reales (−0.59%), 1,037 pesos chilenos (+0.40%) y 3,605 pesos colombianos (+0.07%).",
-   "Para supply chain: según el New York Post, los aranceles en preparación no incluirían a Brasil, Chile ni Colombia, pero sí a México; revisa rutas y orígenes alternos."
+   "Para supply chain: EE. UU. prepara aranceles a 16 economías por subsidios industriales; revisa qué rutas y orígenes de la región podrían quedar en la lista. (Corrección 9:10 CDMX: la propuesta oficial sí incluye a Brasil y deja pendiente a México.)"
   ],
   "bloques": [
    {
@@ -19,21 +19,21 @@
    },
    {
     "t": "Contexto",
-    "x": "A las 5:08 CDMX el dólar estaba en 5.89 reales (−0.59%), 1,037 pesos chilenos (+0.40%) y 3,605 pesos colombianos (+0.07%). EE. UU. prepara aranceles contra 16 economías por subsidios industriales; el New York Post menciona a México, China, la UE, Japón, Corea del Sur, Vietnam, Camboya y Malasia, pero no a países de Sudamérica. El cobre bajaba 1.0% a 5.40 dólares por libra."
+    "x": "A las 5:08 CDMX el dólar estaba en 5.89 reales (−0.59%), 1,037 pesos chilenos (+0.40%) y 3,605 pesos colombianos (+0.07%). EE. UU. prepara aranceles contra 16 economías por subsidios industriales; el New York Post mencionó a México, China, la UE, Japón, Corea del Sur, Vietnam, Camboya y Malasia. (Corrección 9:10 CDMX: la propuesta oficial incluye a Brasil, con 10% a los aviones y más arancel al azúcar, y deja pendiente la investigación sobre México, según AP.) El cobre bajaba 1.0% a 5.40 dólares por libra."
    },
    {
     "t": "Qué se espera hoy",
     "x": "La región seguirá el PCE y el PIB de EE. UU. de las 7:30 CDMX; la OPEP+ se reúne el domingo 29."
    }
   ],
-  "scm": "Si abasteces a EE. UU. desde México, evalúa orígenes alternos en Sudamérica, que por ahora no aparecen en la lista de aranceles; escalona los pagos en pesos chilenos y colombianos."
+  "scm": "Si abasteces a EE. UU. desde la región, revisa qué orígenes quedan en la propuesta de aranceles; escalona los pagos en pesos chilenos y colombianos."
  },
  "en": {
   "titular": "The region opens under the tariff threat; the real firms to 5.89 and the Chilean peso stays weak",
   "esencial": [
    "Yesterday the Ibovespa closed −0.43% (164,088.77) and Canada's S&P/TSX −0.35%; the MSCI ETFs fell 2.6% for Peru and Chile.",
    "At 5:08 a.m. Mexico City time the dollar stood at 5.89 reais (−0.59%), 1,037 Chilean pesos (+0.40%) and 3,605 Colombian pesos (+0.07%).",
-   "For supply chain: according to the New York Post, the tariffs being prepared would not include Brazil, Chile or Colombia, but would include Mexico; review alternative routes and origins."
+   "For supply chain: the US is preparing tariffs on 16 economies over industrial subsidies; review which routes and origins in the region could end up on the list. (Correction 9:10 a.m. Mexico City time: the official proposal does include Brazil and leaves Mexico pending.)"
   ],
   "bloques": [
    {
@@ -42,21 +42,21 @@
    },
    {
     "t": "Context",
-    "x": "At 5:08 a.m. Mexico City time the dollar stood at 5.89 reais (−0.59%), 1,037 Chilean pesos (+0.40%) and 3,605 Colombian pesos (+0.07%). The US is preparing tariffs on 16 economies over industrial subsidies; the New York Post mentions Mexico, China, the EU, Japan, South Korea, Vietnam, Cambodia and Malaysia, but no South American countries. Copper fell 1.0% to $5.40 per pound."
+    "x": "At 5:08 a.m. Mexico City time the dollar stood at 5.89 reais (−0.59%), 1,037 Chilean pesos (+0.40%) and 3,605 Colombian pesos (+0.07%). The US is preparing tariffs on 16 economies over industrial subsidies; the New York Post mentioned Mexico, China, the EU, Japan, South Korea, Vietnam, Cambodia and Malaysia. (Correction 9:10 a.m. Mexico City time: the official proposal includes Brazil, with 10% on aircraft and higher sugar duties, and leaves the investigation on Mexico pending, according to AP.) Copper fell 1.0% to $5.40 per pound."
    },
    {
     "t": "What to expect today",
     "x": "The region will follow US PCE and GDP at 7:30 a.m. Mexico City time; OPEC+ meets on Sunday the 29th."
    }
   ],
-  "scm": "If you supply the US from Mexico, evaluate alternative origins in South America, which for now do not appear on the tariff list; stagger payments in Chilean and Colombian pesos."
+  "scm": "If you supply the US from the region, review which origins are in the tariff proposal; stagger payments in Chilean and Colombian pesos."
  },
  "pt": {
   "titular": "A região amanhece com a ameaça de tarifas; o real se fortalece para 5,89 e o peso chileno segue fraco",
   "esencial": [
    "Ontem o Ibovespa fechou com −0,43% (164.088,77) e o S&P/TSX do Canadá com −0,35%; os ETFs da MSCI caíram 2,6% no Peru e no Chile.",
    "Às 5h08 (Cidade do México) o dólar estava em R$ 5,89 (−0,59%), 1.037 pesos chilenos (+0,40%) e 3.605 pesos colombianos (+0,07%).",
-   "Para supply chain: segundo o New York Post, as tarifas em preparação não incluiriam Brasil, Chile nem Colômbia, mas sim o México; revise rotas e origens alternativas."
+   "Para supply chain: os EUA preparam tarifas para 16 economias por subsídios industriais; revise quais rotas e origens da região podem ficar na lista. (Correção 9h10, Cidade do México: a proposta oficial inclui o Brasil e deixa o México pendente.)"
   ],
   "bloques": [
    {
@@ -65,14 +65,14 @@
    },
    {
     "t": "Contexto",
-    "x": "Às 5h08 (Cidade do México) o dólar estava em R$ 5,89 (−0,59%), 1.037 pesos chilenos (+0,40%) e 3.605 pesos colombianos (+0,07%). Os EUA preparam tarifas contra 16 economias por subsídios industriais; o New York Post menciona México, China, UE, Japão, Coreia do Sul, Vietnã, Camboja e Malásia, mas nenhum país da América do Sul. O cobre caía 1,0% para 5,40 dólares por libra."
+    "x": "Às 5h08 (Cidade do México) o dólar estava em R$ 5,89 (−0,59%), 1.037 pesos chilenos (+0,40%) e 3.605 pesos colombianos (+0,07%). Os EUA preparam tarifas contra 16 economias por subsídios industriais; o New York Post mencionou México, China, UE, Japão, Coreia do Sul, Vietnã, Camboja e Malásia. (Correção 9h10, Cidade do México: a proposta oficial inclui o Brasil, com 10% sobre aviões e mais tarifa sobre o açúcar, e deixa pendente a investigação sobre o México, segundo a AP.) O cobre caía 1,0% para 5,40 dólares por libra."
    },
    {
     "t": "O que se espera hoje",
     "x": "A região seguirá o PCE e o PIB dos EUA das 7h30 (Cidade do México); a OPEP+ se reúne no domingo, dia 29."
    }
   ],
-  "scm": "Se você abastece os EUA a partir do México, avalie origens alternativas na América do Sul, que por enquanto não aparecem na lista de tarifas; escalone os pagamentos em pesos chilenos e colombianos."
+  "scm": "Se você abastece os EUA a partir da região, revise quais origens estão na proposta de tarifas; escalone os pagamentos em pesos chilenos e colombianos."
  },
  "fuentes": [
   {
@@ -86,6 +86,10 @@
   {
    "t": "Mr. Supply Chain México: mapa de calor de América",
    "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "AP vía CP24: EE. UU. propone subir aranceles a China, la UE, Brasil y otros por producción subsidiada (25 nov 2026)",
+   "u": "https://www.cp24.com/news/world/2026/11/25/us-plans-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-production/"
   }
  ]
 }

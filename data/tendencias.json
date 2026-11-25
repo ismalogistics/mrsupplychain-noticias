@@ -1,12 +1,51 @@
 {
- "actualizado": "2026-11-24T21:18:11Z",
- "fecha": "2026-11-24",
+ "actualizado": "2026-11-25T15:13:06Z",
+ "fecha": "2026-11-25",
  "titular": {
-  "es": "Martes: los chips caen 7.9%, los metales se desploman y Dell reporta una cartera de pedidos de IA récord",
-  "en": "Tuesday: chips fall 7.9%, metals plunge and Dell reports a record AI backlog",
-  "pt": "Terça: os chips caem 7,9%, os metais despencam e a Dell reporta carteira de pedidos de IA recorde"
+  "es": "Miércoles: aranceles de hasta 20% a 14 socios, los chips caen 5.7% y el crudo sube por un ataque a una refinería saudí",
+  "en": "Wednesday: tariffs of up to 20% on 14 partners, chips fall 5.7% and crude rises after an attack on a Saudi refinery",
+  "pt": "Quarta: tarifas de até 20% para 14 parceiros, os chips caem 5,7% e o petróleo sobe após um ataque a uma refinaria saudita"
  },
  "items": [
+  {
+   "id": "manufactura",
+   "dir": "down",
+   "calor": 3,
+   "mx": true,
+   "latam": true,
+   "es": "Manufactura",
+   "en": "Manufacturing",
+   "pt": "Manufatura",
+   "titular": {
+    "es": "EE. UU. propone aranceles de hasta 20% a China, la UE y otras 12 economías; México, pendiente",
+    "en": "US proposes tariffs of up to 20% on China, the EU and 12 other economies; Mexico pending",
+    "pt": "EUA propõem tarifas de até 20% para China, UE e outras 12 economias; México pendente"
+   },
+   "x": {
+    "es": "Tras una investigación de ocho meses por exceso de capacidad industrial (Sección 301), EE. UU. propuso aranceles de hasta 20% a China, la UE, Japón, Corea del Sur, Taiwán, Brasil, India y siete economías más; en China se sumarían a los existentes, con tasas arriba de 40% en algunos productos. Entrarían en enero como pronto, tras audiencias y consulta pública, y no se acumulan con los de la Sección 232. Las investigaciones de México y Noruega siguen pendientes, según AP.",
+    "en": "After an eight-month investigation into industrial overcapacity (Section 301), the US proposed tariffs of up to 20% on China, the EU, Japan, South Korea, Taiwan, Brazil, India and seven other economies; for China they would stack on existing duties, with rates above 40% on some products. They would take effect in January at the earliest, after hearings and public comment, and would not stack on Section 232 tariffs. The investigations of Mexico and Norway are still pending, according to AP.",
+    "pt": "Depois de uma investigação de oito meses sobre excesso de capacidade industrial (Seção 301), os EUA propuseram tarifas de até 20% para China, UE, Japão, Coreia do Sul, Taiwan, Brasil, Índia e outras sete economias; na China se somariam às existentes, com alíquotas acima de 40% em alguns produtos. Entrariam em vigor a partir de janeiro no mínimo, após audiências e consulta pública, e não se acumulam com as da Seção 232. As investigações do México e da Noruega seguem pendentes, segundo a AP."
+   },
+   "scm": {
+    "es": "Haz hoy la lista de insumos con origen en los países de la propuesta y calcula su costo con 20% adicional desde enero; evalúa proveedores en México o en países fuera de la lista.",
+    "en": "Make a list today of inputs originating in the proposed countries and calculate their cost with an extra 20% from January; evaluate suppliers in Mexico or in countries outside the list.",
+    "pt": "Faça hoje a lista de insumos com origem nos países da proposta e calcule o custo com 20% adicional a partir de janeiro; avalie fornecedores no México ou em países fora da lista."
+   },
+   "fuentes": [
+    {
+     "t": "AP vía CP24: EE. UU. propone subir aranceles a China, la UE, Brasil y otros por producción subsidiada (25 nov 2026)",
+     "u": "https://www.cp24.com/news/world/2026/11/25/us-plans-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-production/"
+    },
+    {
+     "t": "CNBC: EE. UU. propone aranceles a 14 socios comerciales, entre ellos China y la UE (25 nov 2026)",
+     "u": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+    },
+    {
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq caen por inflación alta, nuevos aranceles y la venta en chips (25 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+    }
+   ]
+  },
   {
    "id": "semis",
    "dir": "down",
@@ -17,65 +56,100 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "El índice de chips cierra con −7.9%: Micron −11%, AMD −8.9% y Nvidia −5.9%",
-    "en": "The chip index closes −7.9%: Micron −11%, AMD −8.9% and Nvidia −5.9%",
-    "pt": "O índice de chips fecha com −7,9%: Micron −11%, AMD −8,9% e Nvidia −5,9%"
+    "es": "Los chips caen 5.7% por tercer día: Micron −8.6%, AMD −7.6%, Nvidia −6.9%",
+    "en": "Chips fall 5.7% for a third day: Micron −8.6%, AMD −7.6%, Nvidia −6.9%",
+    "pt": "Os chips caem 5,7% pelo terceiro dia: Micron −8,6%, AMD −7,6%, Nvidia −6,9%"
    },
    "x": {
-    "es": "El índice de semiconductores cerró con −7.9%: Micron −11.0%, AMD −8.9%, Nvidia −5.9% (155.38 dólares) y TSMC −4.0%. El lunes Nvidia sumó 954,000 millones de dólares en valor, la mayor ganancia en un día para cualquier acción, y las investigaciones del Congreso sobre Jensen Huang siguen abiertas, según TIKR.",
-    "en": "The semiconductor index closed −7.9%: Micron −11.0%, AMD −8.9%, Nvidia −5.9% ($155.38) and TSMC −4.0%. On Monday Nvidia added $954 billion in value, the biggest one-day gain for any stock, and congressional investigations into Jensen Huang remain open, according to TIKR.",
-    "pt": "O índice de semicondutores fechou com −7,9%: Micron −11,0%, AMD −8,9%, Nvidia −5,9% (155,38 dólares) e TSMC −4,0%. Na segunda a Nvidia somou 954 bilhões de dólares em valor, o maior ganho em um dia para qualquer ação, e as investigações do Congresso sobre Jensen Huang seguem abertas, segundo a TIKR."
+    "es": "A las 9:06 CDMX el índice de semiconductores caía 5.7%: Micron 8.6%, AMD 7.6%, Nvidia 6.9% (144.72 dólares), TSMC 6.1% y Broadcom 4.6%. Taiwán y Corea están entre las economías a las que EE. UU. propuso nuevos aranceles.",
+    "en": "At 10:06 a.m. ET the semiconductor index was down 5.7%: Micron 8.6%, AMD 7.6%, Nvidia 6.9% ($144.72), TSMC 6.1% and Broadcom 4.6%. Taiwan and Korea are among the economies the US proposed new tariffs on.",
+    "pt": "Às 9h06 (Cidade do México) o índice de semicondutores caía 5,7%: Micron 8,6%, AMD 7,6%, Nvidia 6,9% (144,72 dólares), TSMC 6,1% e Broadcom 4,6%. Taiwan e Coreia estão entre as economias para as quais os EUA propuseram novas tarifas."
    },
    "scm": {
-    "es": "La volatilidad en bolsa no cambia los plazos de memoria y GPU: mantén reservas de capacidad y cláusulas de ajuste.",
-    "en": "Stock volatility does not change memory and GPU lead times: keep capacity reservations and adjustment clauses.",
-    "pt": "A volatilidade na bolsa não muda os prazos de memória e GPUs: mantenha reservas de capacidade e cláusulas de ajuste."
+    "es": "Pregunta a tus proveedores de memoria y chips de Taiwán y Corea cómo trasladarían un arancel desde enero, antes de cerrar precios de 2027.",
+    "en": "Ask your memory and chip suppliers in Taiwan and Korea how they would pass on a tariff from January before closing 2027 prices.",
+    "pt": "Pergunte aos fornecedores de memória e chips de Taiwan e Coreia como repassariam uma tarifa a partir de janeiro antes de fechar preços de 2027."
    },
    "fuentes": [
     {
-     "t": "Reuters: el Nasdaq y el S&P 500 caen mientras se deshace el rally impulsado por Nvidia (24 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-dip-chip-105355594.html"
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq caen por inflación alta, nuevos aranceles y la venta en chips (25 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
     },
     {
-     "t": "TIKR: Dan Ives dice que Jensen Huang vale un billón de dólares para Nvidia; el Congreso no ha terminado con él (24 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-says-jensen-huang-202022970.html"
+     "t": "Reuters: el Nasdaq cae 3% en la apertura por la venta en IA (25 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-falls-3-open-ai-143718440.html"
     }
    ]
   },
   {
    "id": "servidores",
-   "dir": "up",
-   "calor": 3,
+   "dir": "down",
+   "calor": 2,
    "mx": true,
    "latam": true,
    "es": "Servidores y hardware",
    "en": "Servers and hardware",
    "pt": "Servidores e hardware",
    "titular": {
-    "es": "Dell reporta ingresos récord por 54,900 millones y una cartera de pedidos de IA de 132,300 millones",
-    "en": "Dell reports record revenue of $54.9 billion and an AI backlog of $132.3 billion",
-    "pt": "A Dell reporta receita recorde de 54,9 bilhões e carteira de pedidos de IA de 132,3 bilhões"
+    "es": "Dell cae 5.6% pese a ingresos récord de 54,900 millones",
+    "en": "Dell falls 5.6% despite record revenue of $54.9 billion",
+    "pt": "A Dell cai 5,6% apesar de receita recorde de 54,9 bilhões"
    },
    "x": {
-    "es": "Después del cierre, Dell reportó ingresos trimestrales récord por 54,900 millones de dólares (+103%), ingresos de servidores para IA por 22,000 millones (+291%) y una cartera de pedidos de IA de 132,300 millones tras recibir 60,200 millones en pedidos; elevó su guía del año a 202,000 millones. En el día, Dell había caído 11.8% y HPE 16.3%.",
-    "en": "After the close, Dell reported record quarterly revenue of $54.9 billion (+103%), AI server revenue of $22.0 billion (+291%) and an AI backlog of $132.3 billion after booking $60.2 billion in orders; it raised its full-year guidance to $202 billion. During the day, Dell had fallen 11.8% and HPE 16.3%.",
-    "pt": "Depois do fechamento, a Dell reportou receita trimestral recorde de 54,9 bilhões de dólares (+103%), receita de servidores para IA de 22,0 bilhões (+291%) e carteira de pedidos de IA de 132,3 bilhões depois de receber 60,2 bilhões em pedidos; elevou a projeção do ano para 202 bilhões. No dia, a Dell havia caído 11,8% e a HPE 16,3%."
+    "es": "Dell reportó ingresos por 54,900 millones de dólares, contra 49,330 millones esperados, elevó su guía del año a 202,000 millones y tiene una cartera de pedidos de IA de 132,300 millones, pero su acción caía 5.6% a 278.65 dólares a las 9:06 CDMX, en la venta general de tecnología.",
+    "en": "Dell reported revenue of $54.9 billion versus $49.33 billion expected, raised its full-year guidance to $202 billion and has an AI backlog of $132.3 billion, but its stock was down 5.6% at $278.65 at 10:06 a.m. ET, in the broad tech selloff.",
+    "pt": "A Dell reportou receita de 54,9 bilhões de dólares, contra 49,33 bilhões esperados, elevou a projeção do ano para 202 bilhões e tem carteira de pedidos de IA de 132,3 bilhões, mas a ação caía 5,6% para 278,65 dólares às 9h06 (Cidade do México), na venda geral de tecnologia."
    },
    "scm": {
-    "es": "Con la demanda en máximos, asegura capacidad y precio por escrito antes de confirmar pedidos de servidores o almacenamiento.",
-    "en": "With demand at record levels, secure capacity and price in writing before confirming server or storage orders.",
-    "pt": "Com a demanda em máximos, garanta capacidade e preço por escrito antes de confirmar pedidos de servidores ou armazenamento."
+    "es": "La demanda de servidores de IA sigue fuerte: asegura capacidad y plazos de entrega para el primer trimestre.",
+    "en": "AI server demand remains strong: secure capacity and delivery dates for the first quarter.",
+    "pt": "A demanda por servidores de IA segue forte: garanta capacidade e prazos de entrega para o primeiro trimestre."
    },
    "fuentes": [
     {
-     "t": "Dell Technologies: resultados del tercer trimestre del año fiscal 2027 (24 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-delivers-third-quarter-210500797.html"
+     "t": "Investor's Business Daily: el Dow cae 700 puntos; Nvidia y Anthropic se hunden (25 nov 2026)",
+     "u": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow-dives.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 09:08 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
+    }
+   ]
+  },
+  {
+   "id": "agro",
+   "dir": "mixed",
+   "calor": 2,
+   "mx": true,
+   "latam": true,
+   "es": "Agroalimentos",
+   "en": "Agrifood",
+   "pt": "Agroalimentos",
+   "titular": {
+    "es": "Deere gana menos de lo esperado; sus ventas de maquinaria agrícola grande caen 15%",
+    "en": "Deere earns less than expected; large farm equipment sales fall 15%",
+    "pt": "A Deere lucra menos que o esperado; as vendas de máquinas agrícolas grandes caem 15%"
+   },
+   "x": {
+    "es": "Deere ganó 3.89 dólares por acción en su cuarto trimestre fiscal, contra 4.03 esperados, con ingresos de 12,120 millones (−2%). Sus ventas de agricultura de producción y precisión cayeron 15%, mientras construcción y forestal subieron 12%. Para 2027 espera una utilidad de 4,500 a 5,250 millones y ventas agrícolas grandes de +5% a +15%. Su acción subía 2.5% a las 9:06 CDMX.",
+    "en": "Deere earned $3.89 per share in its fiscal fourth quarter versus $4.03 expected, with revenue of $12.12 billion (−2%). Production and precision agriculture sales fell 15%, while construction and forestry rose 12%. For 2027 it expects net income of $4.5 billion to $5.25 billion and large ag sales up 5% to 15%. Its stock was up 2.5% at 10:06 a.m. ET.",
+    "pt": "A Deere lucrou 3,89 dólares por ação no quarto trimestre fiscal, contra 4,03 esperados, com receita de 12,12 bilhões (−2%). As vendas de agricultura de produção e precisão caíram 15%, enquanto construção e florestal subiram 12%. Para 2027 espera lucro de 4,5 a 5,25 bilhões e vendas agrícolas grandes de +5% a +15%. A ação subia 2,5% às 9h06 (Cidade do México)."
+   },
+   "scm": {
+    "es": "Si surtes partes para maquinaria agrícola, planea un 2027 de recuperación gradual y revisa los pedidos del primer semestre con tu cliente.",
+    "en": "If you supply parts for farm equipment, plan for a gradual recovery in 2027 and review first-half orders with your customer.",
+    "pt": "Se você fornece peças para máquinas agrícolas, planeje uma recuperação gradual em 2027 e revise os pedidos do primeiro semestre com o cliente."
+   },
+   "fuentes": [
+    {
+     "t": "Investing.com: Deere gana menos de lo esperado en el cuarto trimestre pese a ingresos mayores (25 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/deere-stock-slides-q4-earnings-115411848.html"
     }
    ]
   },
   {
    "id": "energia",
-   "dir": "mixed",
+   "dir": "up",
    "calor": 2,
    "mx": true,
    "latam": true,
@@ -83,80 +157,49 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo sube 1.6% por ataques en Ormuz; el diésel se mantiene en 3.65",
-    "en": "Crude rises 1.6% on Hormuz attacks; diesel holds at $3.65",
-    "pt": "O petróleo sobe 1,6% por ataques em Ormuz; o diesel se mantém a 3,65"
+    "es": "El crudo sube 1.4% tras un ataque a una refinería saudí; el Brent en 93.25",
+    "en": "Crude rises 1.4% after an attack on a Saudi refinery; Brent at $93.25",
+    "pt": "O petróleo sobe 1,4% depois de um ataque a uma refinaria saudita; o Brent a 93,25"
    },
    "x": {
-    "es": "El WTI subía 1.6% a 81.43 dólares y el Brent de enero 1.6% a 90.82 a las 15:05 CDMX, por nuevos ataques a barcos en Ormuz, aunque la perspectiva de excedente limita el alza, según Reuters. El diésel en futuros estaba en 3.65 dólares por galón.",
-    "en": "WTI was up 1.6% at $81.43 and January Brent 1.6% at $90.82 at 4:05 p.m. ET, on new attacks on ships in Hormuz, although the surplus outlook limits gains, according to Reuters. Diesel futures stood at $3.65 a gallon.",
-    "pt": "O WTI subia 1,6% para 81,43 dólares e o Brent de janeiro 1,6% para 90,82 às 15h05 (Cidade do México), por novos ataques a navios em Ormuz, embora a perspectiva de excedente limite a alta, segundo a Reuters. O diesel nos futuros estava a 3,65 dólares por galão."
+    "es": "El WTI subía 1.4% a 83.20 dólares y el Brent de enero 2.0% a 93.25 a las 8:54 CDMX, tras un ataque a una refinería saudí, según MT Newswires. El diésel en futuros estaba en 3.68 dólares por galón (+0.5%).",
+    "en": "WTI rose 1.4% to $83.20 and January Brent 2.0% to $93.25 at 9:54 a.m. ET, after an attack on a Saudi refinery, according to MT Newswires. Diesel futures stood at $3.68 a gallon (+0.5%).",
+    "pt": "O WTI subia 1,4% para 83,20 dólares e o Brent de janeiro 2,0% para 93,25 às 8h54 (Cidade do México), depois de um ataque a uma refinaria saudita, segundo a MT Newswires. O diesel em futuros estava a 3,68 dólares por galão (+0,5%)."
    },
    "scm": {
-    "es": "Cierra los recargos de combustible de diciembre con ajuste semanal antes de la reunión de la OPEP+ del domingo.",
-    "en": "Lock in December fuel surcharges with weekly adjustment before Sunday’s OPEC+ meeting.",
-    "pt": "Feche as sobretaxas de combustível de dezembro com ajuste semanal antes da reunião da OPEP+ de domingo."
+    "es": "Mantén el ajuste semanal del recargo de combustible: el crudo volvió a subir con el riesgo en Medio Oriente.",
+    "en": "Keep weekly fuel surcharge adjustments: crude rose again on Middle East risk.",
+    "pt": "Mantenha o ajuste semanal da sobretaxa de combustível: o petróleo voltou a subir com o risco no Oriente Médio."
    },
    "fuentes": [
     {
-     "t": "Reuters: el petróleo sube por ataques a barcos en Ormuz; la perspectiva de excedente limita el alza (24 nov 2026)",
-     "u": "https://finance.yahoo.com/news/oil-prices-near-three-month-051343862.html"
-    }
-   ]
-  },
-  {
-   "id": "retail",
-   "dir": "up",
-   "calor": 2,
-   "mx": true,
-   "latam": false,
-   "es": "Retail y última milla",
-   "en": "Retail and last mile",
-   "pt": "Varejo e última milha",
-   "titular": {
-    "es": "La confianza del consumidor de EE. UU. está en su nivel más alto en casi dos años; Best Buy cierra con +2.7%",
-    "en": "US consumer confidence is at its highest in nearly two years; Best Buy closes +2.7%",
-    "pt": "A confiança do consumidor dos EUA está no maior nível em quase dois anos; a Best Buy fecha com +2,7%"
-   },
-   "x": {
-    "es": "La confianza del consumidor de EE. UU. subió en noviembre a su nivel más alto en casi dos años, según el Conference Board, y la gasolina bajó a 3.61 dólares por galón, su nivel más bajo desde marzo, según AAA. Best Buy cerró con +2.7% tras sus mejores ventas comparables en cinco años.",
-    "en": "US consumer confidence rose in November to its highest in nearly two years, according to the Conference Board, and gasoline fell to $3.61 a gallon, its lowest since March, according to AAA. Best Buy closed +2.7% after its best comparable sales in five years.",
-    "pt": "A confiança do consumidor dos EUA subiu em novembro ao maior nível em quase dois anos, segundo o Conference Board, e a gasolina caiu para 3,61 dólares por galão, o menor nível desde março, segundo a AAA. A Best Buy fechou com +2,7% depois das melhores vendas comparáveis em cinco anos."
-   },
-   "scm": {
-    "es": "Confirma mañana los últimos cortes de embarque a EE. UU. antes del Día de Acción de Gracias.",
-    "en": "Confirm the last US shipping cutoffs tomorrow before Thanksgiving.",
-    "pt": "Confirme amanhã os últimos prazos de embarque para os EUA antes do Dia de Ação de Graças."
-   },
-   "fuentes": [
-    {
-     "t": "Reuters: el Nasdaq y el S&P 500 caen mientras se deshace el rally impulsado por Nvidia (24 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-dip-chip-105355594.html"
+     "t": "MT Newswires: el petróleo sube tras un ataque a una refinería saudí (25 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/commodities/articles/canada-commodities-oil-prices-climb-145809381.html"
     },
     {
-     "t": "Yahoo Finance: la gasolina baja a su nivel más bajo desde marzo antes del Día de Acción de Gracias (24 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/article/gas-prices-drop-to-the-lowest-level-since-march-ahead-of-thanksgiving-holiday-170804061.html"
+     "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 09:08 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   {
    "id": "software",
    "dir": "down",
-   "calor": 3,
+   "calor": 2,
    "mx": false,
    "latam": false,
    "es": "Software e IA para supply chain",
    "en": "Software and AI for supply chain",
    "pt": "Software e IA para supply chain",
    "titular": {
-    "es": "Anthropic cierra en 81.91 dólares, debajo de su precio de salida de 83",
-    "en": "Anthropic closes at $81.91, below its $83 IPO price",
-    "pt": "A Anthropic fecha a 81,91 dólares, abaixo do preço do IPO de 83"
+    "es": "Anthropic cae 4.2% a 78.46 dólares, debajo de su precio de salida",
+    "en": "Anthropic falls 4.2% to $78.46, below its IPO price",
+    "pt": "A Anthropic cai 4,2% para 78,46 dólares, abaixo do preço do IPO"
    },
    "x": {
-    "es": "Anthropic cerró con −6.5% en 81.91 dólares, debajo de su precio de salida de 83; durante el día llegó a 76 dólares, según Reuters. Canaccord, Oppenheimer y Wedbush iniciaron cobertura con recomendación de compra.",
-    "en": "Anthropic closed −6.5% at $81.91, below its $83 IPO price; during the day it fell as low as $76, according to Reuters. Canaccord, Oppenheimer and Wedbush initiated coverage with buy ratings.",
-    "pt": "A Anthropic fechou com −6,5% a 81,91 dólares, abaixo do preço do IPO de 83; durante o dia chegou a 76 dólares, segundo a Reuters. Canaccord, Oppenheimer e Wedbush iniciaram cobertura com recomendação de compra."
+    "es": "Anthropic caía 4.2% a 78.46 dólares a las 9:08 CDMX, debajo de su precio de salida de 83, y CoreWeave bajaba 8.5%, en la tercera sesión de venta en IA.",
+    "en": "Anthropic was down 4.2% at $78.46 at 10:08 a.m. ET, below its $83 IPO price, and CoreWeave fell 8.5%, in the third session of AI selling.",
+    "pt": "A Anthropic caía 4,2% para 78,46 dólares às 9h08 (Cidade do México), abaixo do preço do IPO de 83, e a CoreWeave caía 8,5%, na terceira sessão de venda em IA."
    },
    "scm": {
     "es": "Si evalúas herramientas de IA para planeación o compras, pide precios y niveles de servicio fijos para 2027.",
@@ -165,70 +208,43 @@
    },
    "fuentes": [
     {
-     "t": "Reuters: el Nasdaq y el S&P 500 caen mientras se deshace el rally impulsado por Nvidia (24 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-dip-chip-105355594.html"
+     "t": "Investor's Business Daily: el Dow cae 700 puntos; Nvidia y Anthropic se hunden (25 nov 2026)",
+     "u": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow-dives.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 09:08 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   {
    "id": "mineria",
    "dir": "down",
-   "calor": 3,
+   "calor": 2,
    "mx": true,
    "latam": true,
    "es": "Minería y metales",
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "La plata cierra con −6.2%, el cobre con −4.1% y el oro con −2.8%",
-    "en": "Silver closes −6.2%, copper −4.1% and gold −2.8%",
-    "pt": "A prata fecha com −6,2%, o cobre com −4,1% e o ouro com −2,8%"
+    "es": "El oro cae 2.8%, la plata 4.9% y el cobre 2.1% a 5.34 dólares",
+    "en": "Gold falls 2.8%, silver 4.9% and copper 2.1% to $5.34",
+    "pt": "O ouro cai 2,8%, a prata 4,9% e o cobre 2,1% para 5,34 dólares"
    },
    "x": {
-    "es": "La plata terminó en 40.51 dólares (−6.2%), el cobre en 5.49 dólares por libra (−4.1%) y el oro en 3,549 (−2.8%), borrando el rebote del lunes; la caída arrastró a Chile, Perú y sus monedas.",
-    "en": "Silver ended at $40.51 (−6.2%), copper at $5.49 per pound (−4.1%) and gold at $3,549 (−2.8%), erasing Monday's rebound; the drop dragged Chile, Peru and their currencies.",
-    "pt": "A prata terminou a 40,51 dólares (−6,2%), o cobre a 5,49 dólares por libra (−4,1%) e o ouro a 3.549 (−2,8%), apagando o repique de segunda; a queda arrastou Chile, Peru e suas moedas."
+    "es": "A las 8:54 CDMX el cobre estaba en 5.34 dólares por libra (−2.1%), la plata en 39.22 (−4.9%) y el oro en 3,492 (−2.8%), con el dólar más fuerte tras el dato de inflación de EE. UU.",
+    "en": "At 9:54 a.m. ET copper stood at $5.34 per pound (−2.1%), silver at $39.22 (−4.9%) and gold at $3,492 (−2.8%), with a stronger dollar after the US inflation data.",
+    "pt": "Às 8h54 (Cidade do México) o cobre estava a 5,34 dólares por libra (−2,1%), a prata a 39,22 (−4,9%) e o ouro a 3.492 (−2,8%), com o dólar mais forte após o dado de inflação dos EUA."
    },
    "scm": {
-    "es": "Cotiza esta semana cable, conectores y empaques metálicos del primer trimestre.",
-    "en": "Quote first-quarter cable, connectors and metal packaging this week.",
-    "pt": "Cote nesta semana cabos, conectores e embalagens metálicas do primeiro trimestre."
+    "es": "Cotiza cable, conectores y empaques metálicos del primer trimestre con los metales a la baja.",
+    "en": "Quote first-quarter cable, connectors and metal packaging with metals lower.",
+    "pt": "Cote cabos, conectores e embalagens metálicas do primeiro trimestre com os metais em queda."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 24 nov 2026)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 09:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
-    }
-   ]
-  },
-  {
-   "id": "centros",
-   "dir": "down",
-   "calor": 2,
-   "mx": false,
-   "latam": false,
-   "es": "Centros de datos y nube",
-   "en": "Data centers and cloud",
-   "pt": "Data centers e nuvem",
-   "titular": {
-    "es": "CoreWeave cierra con −11.9% y Nebius con −10.7%",
-    "en": "CoreWeave closes −11.9% and Nebius −10.7%",
-    "pt": "A CoreWeave fecha com −11,9% e a Nebius com −10,7%"
-   },
-   "x": {
-    "es": "Las nubes de IA devolvieron parte del alza del lunes: CoreWeave cerró con −11.9% (42.61 dólares) y Nebius con −10.7%. Dell dijo que su cartera de pedidos de IA, de 132,300 millones, se revisa por calidad del cliente y acceso a capital, terreno y energía.",
-    "en": "AI neoclouds gave back part of Monday’s gain: CoreWeave closed −11.9% ($42.61) and Nebius −10.7%. Dell said its $132.3 billion AI backlog is vetted for customer quality and access to capital, land and power.",
-    "pt": "As nuvens de IA devolveram parte da alta de segunda: a CoreWeave fechou com −11,9% (42,61 dólares) e a Nebius com −10,7%. A Dell disse que sua carteira de pedidos de IA, de 132,3 bilhões, é avaliada pela qualidade do cliente e acesso a capital, terreno e energia."
-   },
-   "scm": {
-    "es": "Si abasteces a centros de datos, revisa el riesgo de crédito de tus clientes más nuevos antes de ampliar plazos de pago.",
-    "en": "If you supply data centers, review the credit risk of your newest customers before extending payment terms.",
-    "pt": "Se você abastece data centers, revise o risco de crédito dos clientes mais novos antes de ampliar prazos de pagamento."
-   },
-   "fuentes": [
-    {
-     "t": "Dell Technologies: resultados del tercer trimestre del año fiscal 2027 (24 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-delivers-third-quarter-210500797.html"
     }
    ]
   }

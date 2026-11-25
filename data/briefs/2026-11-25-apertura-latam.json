@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-25-apertura-latam",
+ "fecha": "2026-11-25",
+ "momento": "apertura",
+ "mercado": "latam",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "Brasil entra en la lista de aranceles: 10% a los aviones y más arancel al azúcar; el Ibovespa resiste",
+  "esencial": [
+   "A las 8:49 CDMX el Ibovespa subía 0.25% (164,503.16) y el S&P/TSX de Canadá bajaba 1.29%.",
+   "EE. UU. propuso un arancel de 10% a los aviones de Brasil, que pegaría a Embraer, y más arancel al azúcar, según AP; México quedó con su investigación pendiente.",
+   "Para supply chain: el dólar sube a 1,042 pesos chilenos (+0.9%) y 3,645 colombianos (+1.2%); escalona los pagos en esas monedas."
+  ],
+  "bloques": [
+   {
+    "t": "Cómo abrió",
+    "x": "A las 8:49 CDMX el Ibovespa subía 0.25% a 164,503.16 y el S&P/TSX de Canadá bajaba 1.29% a 33,522.66. A las 9:04 CDMX el dólar bajaba a 5.88 reales (−0.28%) y subía a 1,042 pesos chilenos (+0.92%) y 3,645 pesos colombianos (+1.18%)."
+   },
+   {
+    "t": "Lo que mueve al mercado",
+    "x": "EE. UU. propuso aranceles a 14 socios comerciales por exceso de capacidad industrial. Para Brasil, propuso subir el arancel al azúcar cruda y refinada y uno nuevo de 10% a los aviones, que pegaría a Embraer, tras el estancamiento de las negociaciones, según AP. Las investigaciones de México y Noruega siguen pendientes. Los metales bajaban: el cobre 2.1% a 5.34 dólares por libra y la plata 4.9%, lo que pesa sobre Chile y Perú; el petróleo subía 1.4%."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Los aranceles entrarían en vigor tras audiencias y consulta pública, en enero como pronto. La OPEP+ se reúne el domingo 29."
+   }
+  ],
+  "scm": "Si compras aviones, refacciones aeronáuticas o azúcar de Brasil para EE. UU., revisa contratos y fechas de entrega antes de enero; escalona los pagos en pesos chilenos y colombianos."
+ },
+ "en": {
+  "titular": "Brazil joins the tariff list: 10% on aircraft and higher sugar duties; the Ibovespa holds up",
+  "esencial": [
+   "At 9:49 a.m. ET the Ibovespa rose 0.25% (164,503.16) and Canada's S&P/TSX fell 1.29%.",
+   "The US proposed a 10% tariff on Brazilian aircraft, which would hit Embraer, and higher sugar duties, according to AP; Mexico’s investigation remains pending.",
+   "For supply chain: the dollar rises to 1,042 Chilean pesos (+0.9%) and 3,645 Colombian pesos (+1.2%); stagger payments in those currencies."
+  ],
+  "bloques": [
+   {
+    "t": "How it opened",
+    "x": "At 9:49 a.m. ET the Ibovespa rose 0.25% to 164,503.16 and Canada's S&P/TSX fell 1.29% to 33,522.66. At 10:04 a.m. ET the dollar fell to 5.88 reais (−0.28%) and rose to 1,042 Chilean pesos (+0.92%) and 3,645 Colombian pesos (+1.18%)."
+   },
+   {
+    "t": "What is moving the market",
+    "x": "The US proposed tariffs on 14 trading partners over industrial overcapacity. For Brazil, it proposed higher duties on raw and refined sugar and a new 10% tariff on aircraft, which would hit Embraer, after talks stalled, according to AP. The investigations of Mexico and Norway are still pending. Metals fell: copper 2.1% to $5.34 per pound and silver 4.9%, weighing on Chile and Peru; oil rose 1.4%."
+   },
+   {
+    "t": "What to expect",
+    "x": "The tariffs would take effect after hearings and public comment, in January at the earliest. OPEC+ meets on Sunday the 29th."
+   }
+  ],
+  "scm": "If you buy aircraft, aerospace parts or sugar from Brazil for the US, review contracts and delivery dates before January; stagger payments in Chilean and Colombian pesos."
+ },
+ "pt": {
+  "titular": "O Brasil entra na lista de tarifas: 10% sobre aviões e mais tarifa sobre o açúcar; o Ibovespa resiste",
+  "esencial": [
+   "Às 8h49 (Cidade do México) o Ibovespa subia 0,25% (164.503,16) e o S&P/TSX do Canadá caía 1,29%.",
+   "Os EUA propuseram uma tarifa de 10% sobre aviões do Brasil, que atingiria a Embraer, e mais tarifa sobre o açúcar, segundo a AP; a investigação do México segue pendente.",
+   "Para supply chain: o dólar sobe para 1.042 pesos chilenos (+0,9%) e 3.645 colombianos (+1,2%); escalone os pagamentos nessas moedas."
+  ],
+  "bloques": [
+   {
+    "t": "Como abriu",
+    "x": "Às 8h49 (Cidade do México) o Ibovespa subia 0,25% para 164.503,16 e o S&P/TSX do Canadá caía 1,29% para 33.522,66. Às 9h04 o dólar caía para R$ 5,88 (−0,28%) e subia para 1.042 pesos chilenos (+0,92%) e 3.645 pesos colombianos (+1,18%)."
+   },
+   {
+    "t": "O que move o mercado",
+    "x": "Os EUA propuseram tarifas para 14 parceiros comerciais por excesso de capacidade industrial. Para o Brasil, propuseram subir a tarifa sobre açúcar bruto e refinado e uma nova de 10% sobre aviões, que atingiria a Embraer, depois do impasse nas negociações, segundo a AP. As investigações do México e da Noruega seguem pendentes. Os metais caíam: o cobre 2,1% para 5,34 dólares por libra e a prata 4,9%, o que pesa sobre Chile e Peru; o petróleo subia 1,4%."
+   },
+   {
+    "t": "O que se espera",
+    "x": "As tarifas entrariam em vigor após audiências e consulta pública, a partir de janeiro no mínimo. A OPEP+ se reúne no domingo, dia 29."
+   }
+  ],
+  "scm": "Se você compra aviões, peças aeronáuticas ou açúcar do Brasil para os EUA, revise contratos e prazos de entrega antes de janeiro; escalone os pagamentos em pesos chilenos e colombianos."
+ },
+ "fuentes": [
+  {
+   "t": "AP vía CP24: EE. UU. propone subir aranceles a China, la UE, Brasil y otros por producción subsidiada (25 nov 2026)",
+   "u": "https://www.cp24.com/news/world/2026/11/25/us-plans-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-production/"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

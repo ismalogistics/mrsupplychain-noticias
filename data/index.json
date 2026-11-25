@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-25-apertura-global",
+   "fecha": "2026-11-25",
+   "momento": "apertura",
+   "mercado": "global",
+   "titular_es": "Inflación más alta, aranceles de hasta 20% y otra caída en chips: el Nasdaq abre con −3.1%",
+   "titular_en": "Hotter inflation, tariffs of up to 20% and another chip drop: the Nasdaq opens −3.1%",
+   "titular_pt": "Inflação mais alta, tarifas de até 20% e outra queda nos chips: o Nasdaq abre com −3,1%"
+  },
+  {
+   "id": "2026-11-25-apertura-latam",
+   "fecha": "2026-11-25",
+   "momento": "apertura",
+   "mercado": "latam",
+   "titular_es": "Brasil entra en la lista de aranceles: 10% a los aviones y más arancel al azúcar; el Ibovespa resiste",
+   "titular_en": "Brazil joins the tariff list: 10% on aircraft and higher sugar duties; the Ibovespa holds up",
+   "titular_pt": "O Brasil entra na lista de tarifas: 10% sobre aviões e mais tarifa sobre o açúcar; o Ibovespa resiste"
+  },
+  {
+   "id": "2026-11-25-apertura-mexico",
+   "fecha": "2026-11-25",
+   "momento": "apertura",
+   "mercado": "mexico",
+   "titular_es": "El peso cae a 19.73 con la inflación de EE. UU. y los aranceles; México quedó con su investigación pendiente",
+   "titular_en": "The peso falls to 19.73 on US inflation and tariffs; Mexico’s investigation remains pending",
+   "titular_pt": "O peso cai para 19,73 com a inflação dos EUA e as tarifas; a investigação do México segue pendente"
+  },
+  {
    "id": "2026-11-25-premercado-global",
    "fecha": "2026-11-25",
    "momento": "premercado",
@@ -782,33 +809,6 @@
    "titular_es": "El peso cierra la semana en 18.53, su mejor nivel en días; el IPC cae 0.84%",
    "titular_en": "The peso ends the week at 18.53, its best level in days; the IPC falls 0.84%",
    "titular_pt": "O peso fecha a semana a 18,53, seu melhor nível em dias; o IPC cai 0,84%"
-  },
-  {
-   "id": "2026-11-13-mediodia-global",
-   "fecha": "2026-11-13",
-   "momento": "mediodia",
-   "mercado": "global",
-   "titular_es": "La venta de chips se acelera: AMD cae 10% y el Nasdaq 1.2%; el VIX sube a 20",
-   "titular_en": "The chip selloff accelerates: AMD falls 10% and the Nasdaq 1.2%; the VIX rises to 20",
-   "titular_pt": "A venda de chips se acelera: a AMD cai 10% e o Nasdaq 1,2%; o VIX sobe para 20"
-  },
-  {
-   "id": "2026-11-13-mediodia-latam",
-   "fecha": "2026-11-13",
-   "momento": "mediodia",
-   "mercado": "latam",
-   "titular_es": "El Ibovespa sube 0.55% y el TSX 0.12% pese a la venta de chips; Colombia cae 0.9%",
-   "titular_en": "The Ibovespa rises 0.55% and the TSX 0.12% despite the chip selloff; Colombia falls 0.9%",
-   "titular_pt": "O Ibovespa sobe 0,55% e o TSX 0,12% apesar da venda de chips; a Colômbia cai 0,9%"
-  },
-  {
-   "id": "2026-11-13-mediodia-mexico",
-   "fecha": "2026-11-13",
-   "momento": "mediodia",
-   "mercado": "mexico",
-   "titular_es": "El IPC baja 0.48% con los chips y el peso se mantiene en 18.56",
-   "titular_en": "The IPC falls 0.48% with chips and the peso holds at 18.56",
-   "titular_pt": "O IPC cai 0,48% com os chips e o peso se mantém a 18,56"
   }
  ]
 }

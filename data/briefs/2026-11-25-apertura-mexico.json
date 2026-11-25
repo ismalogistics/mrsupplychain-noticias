@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-25-apertura-mexico",
+ "fecha": "2026-11-25",
+ "momento": "apertura",
+ "mercado": "mexico",
+ "hora": "09:08 CDMX",
+ "es": {
+  "titular": "El peso cae a 19.73 con la inflación de EE. UU. y los aranceles; México quedó con su investigación pendiente",
+  "esencial": [
+   "A las 9:06 CDMX el peso cotizaba en 19.73 por dólar (+1.67% el dólar) y el S&P/BMV IPC subía 0.08% (69,359.40).",
+   "EE. UU. propuso aranceles a 14 socios comerciales, pero no fijó tasa para México: su investigación sigue pendiente, igual que la de Noruega, según AP.",
+   "Para supply chain: hoy rige el FIX de 19.1648 y mañana el de 19.3668; liquida hoy los pagos en dólares y revisa qué insumos traes de Asia y la UE."
+  ],
+  "bloques": [
+   {
+    "t": "Cómo abrió",
+    "x": "A las 8:46 CDMX el S&P/BMV IPC subía 0.08% a 69,359.40 puntos, mientras Wall Street caía más de 2%: la bolsa mexicana tiene poca tecnología. A las 9:06 CDMX el peso se depreciaba a 19.73 por dólar (+1.67% el dólar), desde 19.41 ayer, su nivel más débil del mes. Hoy rige para pagos el FIX de 19.1648; el de 19.3668 rige desde mañana jueves."
+   },
+   {
+    "t": "Lo que mueve al mercado",
+    "x": "El PCE subyacente de EE. UU. subió a 3.3% anual, arriba de lo esperado, y el mercado da 98% de probabilidad a un alza de la Fed en diciembre, lo que fortalece al dólar. EE. UU. propuso aranceles de hasta 20% a China, la UE y otras 12 economías; un funcionario dijo que las investigaciones de México y Noruega siguen pendientes, por lo que no hay tasa propuesta para México, según AP. Los aranceles no se acumularían con los de la Sección 232 (autos, acero, aluminio) ni con los de julio."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana jueves la BMV opera aunque Wall Street cierra. El viernes 27 el INEGI publica la balanza comercial de octubre. Banxico publica hoy, alrededor de las 12:00 CDMX, el FIX que regirá el viernes."
+   }
+  ],
+  "scm": "Liquida hoy los pagos en dólares con el FIX de 19.1648: mañana sube a 19.3668. Si importas insumos de Asia o la UE, calcula el costo con un arancel adicional de hasta 20% desde enero, y sigue la investigación pendiente sobre México."
+ },
+ "en": {
+  "titular": "The peso falls to 19.73 on US inflation and tariffs; Mexico’s investigation remains pending",
+  "esencial": [
+   "At 9:06 a.m. Mexico City time the peso traded at 19.73 per dollar (dollar +1.67%) and the S&P/BMV IPC rose 0.08% (69,359.40).",
+   "The US proposed tariffs on 14 trading partners but set no rate for Mexico: its investigation is still pending, as is Norway’s, according to AP.",
+   "For supply chain: today the 19.1648 FIX applies and tomorrow the 19.3668; settle dollar payments today and review which inputs you bring from Asia and the EU."
+  ],
+  "bloques": [
+   {
+    "t": "How it opened",
+    "x": "At 8:46 a.m. Mexico City time the S&P/BMV IPC rose 0.08% to 69,359.40 points, while Wall Street fell more than 2%: the Mexican market has little tech exposure. At 9:06 a.m. the peso weakened to 19.73 per dollar (dollar +1.67%), from 19.41 yesterday, its weakest level of the month. Today the 19.1648 FIX applies to payments; the 19.3668 one applies from Thursday."
+   },
+   {
+    "t": "What is moving the market",
+    "x": "US core PCE rose to 3.3% annual, above expectations, and markets see a 98% chance of a December Fed hike, which strengthens the dollar. The US proposed tariffs of up to 20% on China, the EU and 12 other economies; an official said the investigations of Mexico and Norway are still pending, so there is no proposed rate for Mexico, according to AP. The tariffs would not stack on Section 232 duties (autos, steel, aluminum) or on July’s levies."
+   },
+   {
+    "t": "What to expect",
+    "x": "Tomorrow, Thursday, the BMV is open although Wall Street is closed. On Friday the 27th INEGI publishes the October trade balance. Banxico publishes today, around 12:00 p.m. Mexico City time, the FIX that will apply on Friday."
+   }
+  ],
+  "scm": "Settle dollar payments today with the 19.1648 FIX: tomorrow it rises to 19.3668. If you import inputs from Asia or the EU, calculate costs with an additional tariff of up to 20% from January, and follow the pending investigation on Mexico."
+ },
+ "pt": {
+  "titular": "O peso cai para 19,73 com a inflação dos EUA e as tarifas; a investigação do México segue pendente",
+  "esencial": [
+   "Às 9h06 (Cidade do México) o peso era cotado a 19,73 por dólar (dólar +1,67%) e o S&P/BMV IPC subia 0,08% (69.359,40).",
+   "Os EUA propuseram tarifas para 14 parceiros comerciais, mas não fixaram alíquota para o México: a investigação segue pendente, assim como a da Noruega, segundo a AP.",
+   "Para supply chain: hoje vale o FIX de 19,1648 e amanhã o de 19,3668; liquide hoje os pagamentos em dólares e revise quais insumos você traz da Ásia e da UE."
+  ],
+  "bloques": [
+   {
+    "t": "Como abriu",
+    "x": "Às 8h46 (Cidade do México) o S&P/BMV IPC subia 0,08% para 69.359,40 pontos, enquanto Wall Street caía mais de 2%: a bolsa mexicana tem pouca tecnologia. Às 9h06 o peso se desvalorizava para 19,73 por dólar (dólar +1,67%), desde 19,41 ontem, seu nível mais fraco do mês. Hoje vale para pagamentos o FIX de 19,1648; o de 19,3668 vale a partir de amanhã, quinta."
+   },
+   {
+    "t": "O que move o mercado",
+    "x": "O núcleo do PCE dos EUA subiu para 3,3% ao ano, acima do esperado, e o mercado dá 98% de probabilidade a uma alta do Fed em dezembro, o que fortalece o dólar. Os EUA propuseram tarifas de até 20% para China, UE e outras 12 economias; um funcionário disse que as investigações do México e da Noruega seguem pendentes, por isso não há alíquota proposta para o México, segundo a AP. As tarifas não se acumulariam com as da Seção 232 (autos, aço, alumínio) nem com as de julho."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã, quinta, a BMV opera embora Wall Street feche. Na sexta, dia 27, o INEGI divulga a balança comercial de outubro. O Banxico publica hoje, por volta das 12h00 (Cidade do México), o FIX que valerá na sexta."
+   }
+  ],
+  "scm": "Liquide hoje os pagamentos em dólares com o FIX de 19,1648: amanhã sobe para 19,3668. Se você importa insumos da Ásia ou da UE, calcule o custo com uma tarifa adicional de até 20% a partir de janeiro e acompanhe a investigação pendente sobre o México."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 25 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "AP vía CP24: EE. UU. propone subir aranceles a China, la UE, Brasil y otros por producción subsidiada (25 nov 2026)",
+   "u": "https://www.cp24.com/news/world/2026/11/25/us-plans-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-production/"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (24 nov 2026: 19.3668)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 09:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
