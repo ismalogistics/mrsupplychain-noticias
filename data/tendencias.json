@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-11-25T15:13:06Z",
+ "actualizado": "2026-11-25T17:42:49Z",
  "fecha": "2026-11-25",
  "titular": {
-  "es": "Miércoles: aranceles de hasta 20% a 14 socios, los chips caen 5.7% y el crudo sube por un ataque a una refinería saudí",
-  "en": "Wednesday: tariffs of up to 20% on 14 partners, chips fall 5.7% and crude rises after an attack on a Saudi refinery",
-  "pt": "Quarta: tarifas de até 20% para 14 parceiros, os chips caem 5,7% e o petróleo sobe após um ataque a uma refinaria saudita"
+  "es": "Mediodía: el USTR publica las tasas por país, México queda sin determinación y el Brent sube a 93.65",
+  "en": "Midday: USTR publishes rates by country, Mexico is left without a determination and Brent rises to $93.65",
+  "pt": "Meio-dia: o USTR publica as alíquotas por país, o México fica sem determinação e o Brent sobe para 93,65"
  },
  "items": [
   {
    "id": "manufactura",
-   "dir": "down",
+   "dir": "mixed",
    "calor": 3,
    "mx": true,
    "latam": true,
@@ -17,32 +17,32 @@
    "en": "Manufacturing",
    "pt": "Manufatura",
    "titular": {
-    "es": "EE. UU. propone aranceles de hasta 20% a China, la UE y otras 12 economías; México, pendiente",
-    "en": "US proposes tariffs of up to 20% on China, the EU and 12 other economies; Mexico pending",
-    "pt": "EUA propõem tarifas de até 20% para China, UE e outras 12 economias; México pendente"
+    "es": "El USTR publica las tasas: Vietnam hasta 35%, India 25%, China 20% y la UE, Japón y Corea 15%; México, sin determinación",
+    "en": "USTR publishes the rates: Vietnam up to 35%, India 25%, China 20% and the EU, Japan and Korea 15%; Mexico without a determination",
+    "pt": "O USTR publica as alíquotas: Vietnã até 35%, Índia 25%, China 20% e UE, Japão e Coreia 15%; México sem determinação"
    },
    "x": {
-    "es": "Tras una investigación de ocho meses por exceso de capacidad industrial (Sección 301), EE. UU. propuso aranceles de hasta 20% a China, la UE, Japón, Corea del Sur, Taiwán, Brasil, India y siete economías más; en China se sumarían a los existentes, con tasas arriba de 40% en algunos productos. Entrarían en enero como pronto, tras audiencias y consulta pública, y no se acumulan con los de la Sección 232. Las investigaciones de México y Noruega siguen pendientes, según AP.",
-    "en": "After an eight-month investigation into industrial overcapacity (Section 301), the US proposed tariffs of up to 20% on China, the EU, Japan, South Korea, Taiwan, Brazil, India and seven other economies; for China they would stack on existing duties, with rates above 40% on some products. They would take effect in January at the earliest, after hearings and public comment, and would not stack on Section 232 tariffs. The investigations of Mexico and Norway are still pending, according to AP.",
-    "pt": "Depois de uma investigação de oito meses sobre excesso de capacidade industrial (Seção 301), os EUA propuseram tarifas de até 20% para China, UE, Japão, Coreia do Sul, Taiwan, Brasil, Índia e outras sete economias; na China se somariam às existentes, com alíquotas acima de 40% em alguns produtos. Entrariam em vigor a partir de janeiro no mínimo, após audiências e consulta pública, e não se acumulam com as da Seção 232. As investigações do México e da Noruega seguem pendentes, segundo a AP."
+    "es": "Tras una investigación de ocho meses por exceso de capacidad industrial (Sección 301), el USTR propuso aranceles a 14 economías: Vietnam hasta 35%, India 25%, China y Singapur 20%, cinco economías del Sudeste Asiático y Bangladesh 18%, y la UE, Japón, Corea del Sur, Suiza y Taiwán 15%, según Baker McKenzie. Los comentarios se reciben hasta el 5 de enero y las audiencias empiezan el 25 de enero; salvo en China, no aplican a bienes con aranceles de la Sección 232. México y Noruega siguen sin determinación, según Expansión.",
+    "en": "After an eight-month investigation into industrial overcapacity (Section 301), the USTR proposed tariffs on 14 economies: Vietnam up to 35%, India 25%, China and Singapore 20%, five Southeast Asian economies and Bangladesh 18%, and the EU, Japan, South Korea, Switzerland and Taiwan 15%, according to Baker McKenzie. Comments are due January 5 and hearings begin January 25; except for China, they do not apply to goods under Section 232 tariffs. Mexico and Norway still have no determination, according to Expansión.",
+    "pt": "Depois de uma investigação de oito meses sobre excesso de capacidade industrial (Seção 301), o USTR propôs tarifas para 14 economias: Vietnã até 35%, Índia 25%, China e Singapura 20%, cinco economias do Sudeste Asiático e Bangladesh 18%, e UE, Japão, Coreia do Sul, Suíça e Taiwan 15%, segundo a Baker McKenzie. Os comentários vão até 5 de janeiro e as audiências começam em 25 de janeiro; exceto na China, não se aplicam a bens com tarifas da Seção 232. México e Noruega seguem sem determinação, segundo a Expansión."
    },
    "scm": {
-    "es": "Haz hoy la lista de insumos con origen en los países de la propuesta y calcula su costo con 20% adicional desde enero; evalúa proveedores en México o en países fuera de la lista.",
-    "en": "Make a list today of inputs originating in the proposed countries and calculate their cost with an extra 20% from January; evaluate suppliers in Mexico or in countries outside the list.",
-    "pt": "Faça hoje a lista de insumos com origem nos países da proposta e calcule o custo com 20% adicional a partir de janeiro; avalie fornecedores no México ou em países fora da lista."
+    "es": "Haz hoy la lista de insumos por país de origen y calcula su costo con la tasa propuesta para cada uno; evalúa proveedores en México o fuera de la lista antes de las audiencias de enero.",
+    "en": "Make a list of inputs by country of origin today and cost each with its proposed rate; evaluate suppliers in Mexico or outside the list before the January hearings.",
+    "pt": "Faça hoje a lista de insumos por país de origem e calcule o custo de cada um com a alíquota proposta; avalie fornecedores no México ou fora da lista antes das audiências de janeiro."
    },
    "fuentes": [
     {
+     "t": "Baker McKenzie: el USTR propone aranceles de la Sección 301 a 14 economías por exceso de capacidad estructural (25 nov 2026)",
+     "u": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"
+    },
+    {
+     "t": "Expansión: México libra por ahora los aranceles que EE. UU. propone a 14 economías (25 nov 2026)",
+     "u": "https://expansion.mx/economia/2026/11/25/eu-propone-aranceles-14-economias-mexico-queda-fuera"
+    },
+    {
      "t": "AP vía CP24: EE. UU. propone subir aranceles a China, la UE, Brasil y otros por producción subsidiada (25 nov 2026)",
      "u": "https://www.cp24.com/news/world/2026/11/25/us-plans-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-production/"
-    },
-    {
-     "t": "CNBC: EE. UU. propone aranceles a 14 socios comerciales, entre ellos China y la UE (25 nov 2026)",
-     "u": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
-    },
-    {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq caen por inflación alta, nuevos aranceles y la venta en chips (25 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
     }
    ]
   },
@@ -56,28 +56,32 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônicos",
    "titular": {
-    "es": "Los chips caen 5.7% por tercer día: Micron −8.6%, AMD −7.6%, Nvidia −6.9%",
-    "en": "Chips fall 5.7% for a third day: Micron −8.6%, AMD −7.6%, Nvidia −6.9%",
-    "pt": "Os chips caem 5,7% pelo terceiro dia: Micron −8,6%, AMD −7,6%, Nvidia −6,9%"
+    "es": "Los chips caen 4.8% a media sesión: Micron −9.4% y Nvidia −7.4%; SK hynix cayó 11% en Seúl",
+    "en": "Chips fall 4.8% at midday: Micron −9.4% and Nvidia −7.4%; SK hynix fell 11% in Seoul",
+    "pt": "Os chips caem 4,8% no meio da sessão: Micron −9,4% e Nvidia −7,4%; a SK hynix caiu 11% em Seul"
    },
    "x": {
-    "es": "A las 9:06 CDMX el índice de semiconductores caía 5.7%: Micron 8.6%, AMD 7.6%, Nvidia 6.9% (144.72 dólares), TSMC 6.1% y Broadcom 4.6%. Taiwán y Corea están entre las economías a las que EE. UU. propuso nuevos aranceles.",
-    "en": "At 10:06 a.m. ET the semiconductor index was down 5.7%: Micron 8.6%, AMD 7.6%, Nvidia 6.9% ($144.72), TSMC 6.1% and Broadcom 4.6%. Taiwan and Korea are among the economies the US proposed new tariffs on.",
-    "pt": "Às 9h06 (Cidade do México) o índice de semicondutores caía 5,7%: Micron 8,6%, AMD 7,6%, Nvidia 6,9% (144,72 dólares), TSMC 6,1% e Broadcom 4,6%. Taiwan e Coreia estão entre as economias para as quais os EUA propuseram novas tarifas."
+    "es": "A las 11:38 CDMX el índice de semiconductores caía 4.8%: Micron 9.4%, Nvidia 7.4% (143.91 dólares), AMD 6.5%, TSMC 5.2% y Broadcom 4.7%. En Seúl, SK hynix cayó 11.05% pese a un margen operativo de 80%; tiene acuerdos de largo plazo con 14 clientes que cubren más de la mitad de su capacidad de 2027 y 2028, según GuruFocus.",
+    "en": "At 12:38 p.m. ET the semiconductor index was down 4.8%: Micron 9.4%, Nvidia 7.4% ($143.91), AMD 6.5%, TSMC 5.2% and Broadcom 4.7%. In Seoul, SK hynix fell 11.05% despite an 80% operating margin; it has long-term agreements with 14 customers covering more than half of its 2027 and 2028 capacity, according to GuruFocus.",
+    "pt": "Às 11h38 (Cidade do México) o índice de semicondutores caía 4,8%: Micron 9,4%, Nvidia 7,4% (143,91 dólares), AMD 6,5%, TSMC 5,2% e Broadcom 4,7%. Em Seul, a SK hynix caiu 11,05% apesar de margem operacional de 80%; tem acordos de longo prazo com 14 clientes que cobrem mais da metade da capacidade de 2027 e 2028, segundo a GuruFocus."
    },
    "scm": {
-    "es": "Pregunta a tus proveedores de memoria y chips de Taiwán y Corea cómo trasladarían un arancel desde enero, antes de cerrar precios de 2027.",
-    "en": "Ask your memory and chip suppliers in Taiwan and Korea how they would pass on a tariff from January before closing 2027 prices.",
-    "pt": "Pergunte aos fornecedores de memória e chips de Taiwan e Coreia como repassariam uma tarifa a partir de janeiro antes de fechar preços de 2027."
+    "es": "La memoria sigue comprometida en contratos de largo plazo: si no tienes asignación para 2027, negóciala ya, con cláusula por aranceles de Corea y Taiwán (15%).",
+    "en": "Memory remains committed under long-term contracts: if you lack a 2027 allocation, negotiate it now, with a clause for Korea and Taiwan tariffs (15%).",
+    "pt": "A memória segue comprometida em contratos de longo prazo: se você não tem alocação para 2027, negocie já, com cláusula para tarifas de Coreia e Taiwan (15%)."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq caen por inflación alta, nuevos aranceles y la venta en chips (25 nov 2026)",
+     "t": "Yahoo Finance: las bolsas recortan pérdidas, pero la tecnología sigue golpeada (25 nov 2026)",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
     },
     {
-     "t": "Reuters: el Nasdaq cae 3% en la apertura por la venta en IA (25 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-falls-3-open-ai-143718440.html"
+     "t": "GuruFocus: SK hynix cae 11% y arrastra al KOSPI (25 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stocks-sink-11-171606778.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 11:38 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
@@ -91,14 +95,14 @@
    "en": "Servers and hardware",
    "pt": "Servidores e hardware",
    "titular": {
-    "es": "Dell cae 5.6% pese a ingresos récord de 54,900 millones",
-    "en": "Dell falls 5.6% despite record revenue of $54.9 billion",
-    "pt": "A Dell cai 5,6% apesar de receita recorde de 54,9 bilhões"
+    "es": "Dell recorta su caída a 4.1% tras ingresos récord de 54,900 millones",
+    "en": "Dell trims its drop to 4.1% after record revenue of $54.9 billion",
+    "pt": "A Dell reduz a queda para 4,1% após receita recorde de 54,9 bilhões"
    },
    "x": {
-    "es": "Dell reportó ingresos por 54,900 millones de dólares, contra 49,330 millones esperados, elevó su guía del año a 202,000 millones y tiene una cartera de pedidos de IA de 132,300 millones, pero su acción caía 5.6% a 278.65 dólares a las 9:06 CDMX, en la venta general de tecnología.",
-    "en": "Dell reported revenue of $54.9 billion versus $49.33 billion expected, raised its full-year guidance to $202 billion and has an AI backlog of $132.3 billion, but its stock was down 5.6% at $278.65 at 10:06 a.m. ET, in the broad tech selloff.",
-    "pt": "A Dell reportou receita de 54,9 bilhões de dólares, contra 49,33 bilhões esperados, elevou a projeção do ano para 202 bilhões e tem carteira de pedidos de IA de 132,3 bilhões, mas a ação caía 5,6% para 278,65 dólares às 9h06 (Cidade do México), na venda geral de tecnologia."
+    "es": "Dell bajaba 4.1% a 283.30 dólares a las 11:38 CDMX, desde −5.6% en la apertura, pese a ingresos de 54,900 millones de dólares, contra 49,330 millones esperados, una guía del año de 202,000 millones y una cartera de pedidos de IA de 132,300 millones.",
+    "en": "Dell was down 4.1% at $283.30 at 12:38 p.m. ET, from −5.6% at the open, despite revenue of $54.9 billion versus $49.33 billion expected, full-year guidance of $202 billion and an AI backlog of $132.3 billion.",
+    "pt": "A Dell caía 4,1% para 283,30 dólares às 11h38 (Cidade do México), desde −5,6% na abertura, apesar de receita de 54,9 bilhões de dólares, contra 49,33 bilhões esperados, projeção do ano de 202 bilhões e carteira de pedidos de IA de 132,3 bilhões."
    },
    "scm": {
     "es": "La demanda de servidores de IA sigue fuerte: asegura capacidad y plazos de entrega para el primer trimestre.",
@@ -107,11 +111,7 @@
    },
    "fuentes": [
     {
-     "t": "Investor's Business Daily: el Dow cae 700 puntos; Nvidia y Anthropic se hunden (25 nov 2026)",
-     "u": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow-dives.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -126,14 +126,14 @@
    "en": "Agrifood",
    "pt": "Agroalimentos",
    "titular": {
-    "es": "Deere gana menos de lo esperado; sus ventas de maquinaria agrícola grande caen 15%",
-    "en": "Deere earns less than expected; large farm equipment sales fall 15%",
-    "pt": "A Deere lucra menos que o esperado; as vendas de máquinas agrícolas grandes caem 15%"
+    "es": "Deere sube 3.4% pese a ganar menos de lo esperado; ve recuperación agrícola en 2027",
+    "en": "Deere rises 3.4% despite missing estimates; sees a farm recovery in 2027",
+    "pt": "A Deere sobe 3,4% apesar de lucrar menos que o esperado; vê recuperação agrícola em 2027"
    },
    "x": {
-    "es": "Deere ganó 3.89 dólares por acción en su cuarto trimestre fiscal, contra 4.03 esperados, con ingresos de 12,120 millones (−2%). Sus ventas de agricultura de producción y precisión cayeron 15%, mientras construcción y forestal subieron 12%. Para 2027 espera una utilidad de 4,500 a 5,250 millones y ventas agrícolas grandes de +5% a +15%. Su acción subía 2.5% a las 9:06 CDMX.",
-    "en": "Deere earned $3.89 per share in its fiscal fourth quarter versus $4.03 expected, with revenue of $12.12 billion (−2%). Production and precision agriculture sales fell 15%, while construction and forestry rose 12%. For 2027 it expects net income of $4.5 billion to $5.25 billion and large ag sales up 5% to 15%. Its stock was up 2.5% at 10:06 a.m. ET.",
-    "pt": "A Deere lucrou 3,89 dólares por ação no quarto trimestre fiscal, contra 4,03 esperados, com receita de 12,12 bilhões (−2%). As vendas de agricultura de produção e precisão caíram 15%, enquanto construção e florestal subiram 12%. Para 2027 espera lucro de 4,5 a 5,25 bilhões e vendas agrícolas grandes de +5% a +15%. A ação subia 2,5% às 9h06 (Cidade do México)."
+    "es": "Deere ganó 3.89 dólares por acción en su cuarto trimestre fiscal, contra 4.03 esperados, con ingresos de 12,120 millones (−2%); sus ventas de agricultura de producción y precisión cayeron 15%. Para 2027 espera una utilidad de 4,500 a 5,250 millones y ventas agrícolas grandes de +5% a +15%. Su acción subía 3.4% a 634.62 dólares a las 11:38 CDMX.",
+    "en": "Deere earned $3.89 per share in its fiscal fourth quarter versus $4.03 expected, with revenue of $12.12 billion (−2%); production and precision agriculture sales fell 15%. For 2027 it expects net income of $4.5 billion to $5.25 billion and large ag sales up 5% to 15%. Its stock was up 3.4% at $634.62 at 12:38 p.m. ET.",
+    "pt": "A Deere lucrou 3,89 dólares por ação no quarto trimestre fiscal, contra 4,03 esperados, com receita de 12,12 bilhões (−2%); as vendas de agricultura de produção e precisão caíram 15%. Para 2027 espera lucro de 4,5 a 5,25 bilhões e vendas agrícolas grandes de +5% a +15%. A ação subia 3,4% para 634,62 dólares às 11h38 (Cidade do México)."
    },
    "scm": {
     "es": "Si surtes partes para maquinaria agrícola, planea un 2027 de recuperación gradual y revisa los pedidos del primer semestre con tu cliente.",
@@ -144,6 +144,10 @@
     {
      "t": "Investing.com: Deere gana menos de lo esperado en el cuarto trimestre pese a ingresos mayores (25 nov 2026)",
      "u": "https://finance.yahoo.com/markets/stocks/articles/deere-stock-slides-q4-earnings-115411848.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 11:38 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
@@ -157,19 +161,19 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El crudo sube 1.4% tras un ataque a una refinería saudí; el Brent en 93.25",
-    "en": "Crude rises 1.4% after an attack on a Saudi refinery; Brent at $93.25",
-    "pt": "O petróleo sobe 1,4% depois de um ataque a uma refinaria saudita; o Brent a 93,25"
+    "es": "El Brent sube 2.5% a 93.65 dólares; los destilados de EE. UU. están 6% abajo del promedio",
+    "en": "Brent rises 2.5% to $93.65; US distillate stocks are 6% below average",
+    "pt": "O Brent sobe 2,5% para 93,65 dólares; os destilados dos EUA estão 6% abaixo da média"
    },
    "x": {
-    "es": "El WTI subía 1.4% a 83.20 dólares y el Brent de enero 2.0% a 93.25 a las 8:54 CDMX, tras un ataque a una refinería saudí, según MT Newswires. El diésel en futuros estaba en 3.68 dólares por galón (+0.5%).",
-    "en": "WTI rose 1.4% to $83.20 and January Brent 2.0% to $93.25 at 9:54 a.m. ET, after an attack on a Saudi refinery, according to MT Newswires. Diesel futures stood at $3.68 a gallon (+0.5%).",
-    "pt": "O WTI subia 1,4% para 83,20 dólares e o Brent de janeiro 2,0% para 93,25 às 8h54 (Cidade do México), depois de um ataque a uma refinaria saudita, segundo a MT Newswires. O diesel em futuros estava a 3,68 dólares por galão (+0,5%)."
+    "es": "A las 11:28 CDMX el WTI subía 1.9% a 83.61 dólares y el Brent de enero 2.5% a 93.65, tras un ataque a una refinería saudí, según MT Newswires. Los inventarios de crudo de EE. UU. subieron 1.1 millones de barriles, a 418.9 millones (3% abajo del promedio de cinco años), y los de destilados están 6% abajo del promedio, según la EIA. El diésel en futuros estaba en 3.69 dólares por galón.",
+    "en": "At 12:28 p.m. ET WTI rose 1.9% to $83.61 and January Brent 2.5% to $93.65, after an attack on a Saudi refinery, according to MT Newswires. US crude inventories rose 1.1 million barrels to 418.9 million (3% below the five-year average), and distillate stocks are 6% below average, according to the EIA. Diesel futures stood at $3.69 a gallon.",
+    "pt": "Às 11h28 (Cidade do México) o WTI subia 1,9% para 83,61 dólares e o Brent de janeiro 2,5% para 93,65, depois de um ataque a uma refinaria saudita, segundo a MT Newswires. Os estoques de petróleo dos EUA subiram 1,1 milhão de barris, para 418,9 milhões (3% abaixo da média de cinco anos), e os de destilados estão 6% abaixo da média, segundo a EIA. O diesel em futuros estava a 3,69 dólares por galão."
    },
    "scm": {
-    "es": "Mantén el ajuste semanal del recargo de combustible: el crudo volvió a subir con el riesgo en Medio Oriente.",
-    "en": "Keep weekly fuel surcharge adjustments: crude rose again on Middle East risk.",
-    "pt": "Mantenha o ajuste semanal da sobretaxa de combustível: o petróleo voltou a subir com o risco no Oriente Médio."
+    "es": "Con destilados abajo del promedio, no cierres recargos de combustible a precio fijo para diciembre; mantén el ajuste semanal.",
+    "en": "With distillates below average, do not lock December fuel surcharges at a fixed price; keep weekly adjustment.",
+    "pt": "Com destilados abaixo da média, não feche sobretaxas de combustível a preço fixo para dezembro; mantenha o ajuste semanal."
    },
    "fuentes": [
     {
@@ -177,14 +181,18 @@
      "u": "https://finance.yahoo.com/markets/commodities/articles/canada-commodities-oil-prices-climb-145809381.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 09:08 CDMX)",
+     "t": "Oilprice.com: los inventarios de crudo de EE. UU. suben 1.1 millones de barriles (EIA, 25 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-inventories-continue-rise-us-154256636.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   {
    "id": "software",
-   "dir": "down",
+   "dir": "up",
    "calor": 2,
    "mx": false,
    "latam": false,
@@ -192,14 +200,14 @@
    "en": "Software and AI for supply chain",
    "pt": "Software e IA para supply chain",
    "titular": {
-    "es": "Anthropic cae 4.2% a 78.46 dólares, debajo de su precio de salida",
-    "en": "Anthropic falls 4.2% to $78.46, below its IPO price",
-    "pt": "A Anthropic cai 4,2% para 78,46 dólares, abaixo do preço do IPO"
+    "es": "Anthropic sube 2.5% y vuelve arriba de su precio de salida, a 83.93 dólares",
+    "en": "Anthropic rises 2.5% and moves back above its IPO price, to $83.93",
+    "pt": "A Anthropic sobe 2,5% e volta acima do preço do IPO, para 83,93 dólares"
    },
    "x": {
-    "es": "Anthropic caía 4.2% a 78.46 dólares a las 9:08 CDMX, debajo de su precio de salida de 83, y CoreWeave bajaba 8.5%, en la tercera sesión de venta en IA.",
-    "en": "Anthropic was down 4.2% at $78.46 at 10:08 a.m. ET, below its $83 IPO price, and CoreWeave fell 8.5%, in the third session of AI selling.",
-    "pt": "A Anthropic caía 4,2% para 78,46 dólares às 9h08 (Cidade do México), abaixo do preço do IPO de 83, e a CoreWeave caía 8,5%, na terceira sessão de venda em IA."
+    "es": "Anthropic subía 2.5% a 83.93 dólares a las 11:38 CDMX, arriba de su precio de salida de 83, después de caer a 78.46 en la apertura; CoreWeave seguía con −6.4%.",
+    "en": "Anthropic was up 2.5% at $83.93 at 12:38 p.m. ET, above its $83 IPO price, after falling to $78.46 at the open; CoreWeave was still down 6.4%.",
+    "pt": "A Anthropic subia 2,5% para 83,93 dólares às 11h38 (Cidade do México), acima do preço do IPO de 83, depois de cair para 78,46 na abertura; a CoreWeave seguia com −6,4%."
    },
    "scm": {
     "es": "Si evalúas herramientas de IA para planeación o compras, pide precios y niveles de servicio fijos para 2027.",
@@ -208,11 +216,7 @@
    },
    "fuentes": [
     {
-     "t": "Investor's Business Daily: el Dow cae 700 puntos; Nvidia y Anthropic se hunden (25 nov 2026)",
-     "u": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow-dives.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -227,14 +231,14 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "El oro cae 2.8%, la plata 4.9% y el cobre 2.1% a 5.34 dólares",
-    "en": "Gold falls 2.8%, silver 4.9% and copper 2.1% to $5.34",
-    "pt": "O ouro cai 2,8%, a prata 4,9% e o cobre 2,1% para 5,34 dólares"
+    "es": "Los metales recortan pérdidas: la plata cae 3.3% y el cobre 0.7% a 5.41 dólares",
+    "en": "Metals pare losses: silver falls 3.3% and copper 0.7% to $5.41",
+    "pt": "Os metais reduzem perdas: a prata cai 3,3% e o cobre 0,7% para 5,41 dólares"
    },
    "x": {
-    "es": "A las 8:54 CDMX el cobre estaba en 5.34 dólares por libra (−2.1%), la plata en 39.22 (−4.9%) y el oro en 3,492 (−2.8%), con el dólar más fuerte tras el dato de inflación de EE. UU.",
-    "en": "At 9:54 a.m. ET copper stood at $5.34 per pound (−2.1%), silver at $39.22 (−4.9%) and gold at $3,492 (−2.8%), with a stronger dollar after the US inflation data.",
-    "pt": "Às 8h54 (Cidade do México) o cobre estava a 5,34 dólares por libra (−2,1%), a prata a 39,22 (−4,9%) e o ouro a 3.492 (−2,8%), com o dólar mais forte após o dado de inflação dos EUA."
+    "es": "A las 11:28 CDMX el cobre estaba en 5.41 dólares por libra (−0.7%), la plata en 39.88 (−3.3%) y el oro en 3,528 (−1.75%), menos abajo que en la apertura.",
+    "en": "At 12:28 p.m. ET copper stood at $5.41 per pound (−0.7%), silver at $39.88 (−3.3%) and gold at $3,528 (−1.75%), less down than at the open.",
+    "pt": "Às 11h28 (Cidade do México) o cobre estava a 5,41 dólares por libra (−0,7%), a prata a 39,88 (−3,3%) e o ouro a 3.528 (−1,75%), em queda menor que na abertura."
    },
    "scm": {
     "es": "Cotiza cable, conectores y empaques metálicos del primer trimestre con los metales a la baja.",
@@ -243,8 +247,39 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 09:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
+    }
+   ]
+  },
+  {
+   "id": "centros",
+   "dir": "up",
+   "calor": 2,
+   "mx": false,
+   "latam": false,
+   "es": "Centros de datos",
+   "en": "Data centers",
+   "pt": "Data centers",
+   "titular": {
+    "es": "Goldman: EE. UU. sumará 52 gigawatts para centros de datos en 2028, casi el triple que en 2026",
+    "en": "Goldman: the US will add 52 gigawatts for data centers in 2028, nearly triple 2026",
+    "pt": "Goldman: os EUA vão somar 52 gigawatts para data centers em 2028, quase o triplo de 2026"
+   },
+   "x": {
+    "es": "Goldman Sachs estima que EE. UU. sumará unos 52 gigawatts de capacidad eléctrica para centros de datos en 2028, contra 18 esperados en 2026; los centros de datos explican más de un tercio del crecimiento de la demanda eléctrica de EE. UU. este año, según Yahoo Finance.",
+    "en": "Goldman Sachs estimates the US will add about 52 gigawatts of data center power capacity in 2028, versus 18 expected in 2026; data centers account for more than a third of US power demand growth this year, according to Yahoo Finance.",
+    "pt": "O Goldman Sachs estima que os EUA vão somar cerca de 52 gigawatts de capacidade elétrica para data centers em 2028, contra 18 esperados em 2026; os data centers respondem por mais de um terço do crescimento da demanda elétrica dos EUA neste ano, segundo o Yahoo Finance."
+   },
+   "scm": {
+    "es": "Si surtes transformadores, tableros o cable a centros de datos, la demanda se ve firme hasta 2028: reserva capacidad con tus proveedores.",
+    "en": "If you supply transformers, switchgear or cable to data centers, demand looks firm through 2028: reserve capacity with your suppliers.",
+    "pt": "Se você fornece transformadores, painéis ou cabos para data centers, a demanda parece firme até 2028: reserve capacidade com seus fornecedores."
+   },
+   "fuentes": [
+    {
+     "t": "Yahoo Finance: las bolsas recortan pérdidas, pero la tecnología sigue golpeada (25 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
     }
    ]
   }

@@ -5,7 +5,7 @@
  "mercado": "latam",
  "hora": "09:08 CDMX",
  "es": {
-  "titular": "Brasil entra en la lista de aranceles: 10% a los aviones y más arancel al azúcar; el Ibovespa resiste",
+  "titular": "Brasil enfrenta un arancel de 10% a los aviones y más arancel al azúcar; el Ibovespa resiste",
   "esencial": [
    "A las 8:49 CDMX el Ibovespa subía 0.25% (164,503.16) y el S&P/TSX de Canadá bajaba 1.29%.",
    "EE. UU. propuso un arancel de 10% a los aviones de Brasil, que pegaría a Embraer, y más arancel al azúcar, según AP; México quedó con su investigación pendiente.",
@@ -18,7 +18,7 @@
    },
    {
     "t": "Lo que mueve al mercado",
-    "x": "EE. UU. propuso aranceles a 14 socios comerciales por exceso de capacidad industrial. Para Brasil, propuso subir el arancel al azúcar cruda y refinada y uno nuevo de 10% a los aviones, que pegaría a Embraer, tras el estancamiento de las negociaciones, según AP. Las investigaciones de México y Noruega siguen pendientes. Los metales bajaban: el cobre 2.1% a 5.34 dólares por libra y la plata 4.9%, lo que pesa sobre Chile y Perú; el petróleo subía 1.4%."
+    "x": "EE. UU. propuso aranceles de 15% a 35% a 14 economías por exceso de capacidad industrial; ninguna es latinoamericana. Aparte, para Brasil propuso subir el arancel al azúcar cruda y refinada y uno nuevo de 10% a los aviones, que pegaría a Embraer, tras el estancamiento de las negociaciones, según AP. Las investigaciones de México y Noruega siguen pendientes. (Corregido a las 11:45 CDMX con las tasas oficiales del USTR.) Los metales bajaban: el cobre 2.1% a 5.34 dólares por libra y la plata 4.9%, lo que pesa sobre Chile y Perú; el petróleo subía 1.4%."
    },
    {
     "t": "Qué se espera",
@@ -28,7 +28,7 @@
   "scm": "Si compras aviones, refacciones aeronáuticas o azúcar de Brasil para EE. UU., revisa contratos y fechas de entrega antes de enero; escalona los pagos en pesos chilenos y colombianos."
  },
  "en": {
-  "titular": "Brazil joins the tariff list: 10% on aircraft and higher sugar duties; the Ibovespa holds up",
+  "titular": "Brazil faces a 10% tariff on aircraft and higher sugar duties; the Ibovespa holds up",
   "esencial": [
    "At 9:49 a.m. ET the Ibovespa rose 0.25% (164,503.16) and Canada's S&P/TSX fell 1.29%.",
    "The US proposed a 10% tariff on Brazilian aircraft, which would hit Embraer, and higher sugar duties, according to AP; Mexico’s investigation remains pending.",
@@ -41,7 +41,7 @@
    },
    {
     "t": "What is moving the market",
-    "x": "The US proposed tariffs on 14 trading partners over industrial overcapacity. For Brazil, it proposed higher duties on raw and refined sugar and a new 10% tariff on aircraft, which would hit Embraer, after talks stalled, according to AP. The investigations of Mexico and Norway are still pending. Metals fell: copper 2.1% to $5.34 per pound and silver 4.9%, weighing on Chile and Peru; oil rose 1.4%."
+    "x": "The US proposed tariffs of 15% to 35% on 14 economies over industrial overcapacity; none is in Latin America. Separately, for Brazil it proposed higher duties on raw and refined sugar and a new 10% tariff on aircraft, which would hit Embraer, after talks stalled, according to AP. The investigations of Mexico and Norway are still pending. (Corrected at 12:45 p.m. ET with official USTR rates.) Metals fell: copper 2.1% to $5.34 per pound and silver 4.9%, weighing on Chile and Peru; oil rose 1.4%."
    },
    {
     "t": "What to expect",
@@ -51,7 +51,7 @@
   "scm": "If you buy aircraft, aerospace parts or sugar from Brazil for the US, review contracts and delivery dates before January; stagger payments in Chilean and Colombian pesos."
  },
  "pt": {
-  "titular": "O Brasil entra na lista de tarifas: 10% sobre aviões e mais tarifa sobre o açúcar; o Ibovespa resiste",
+  "titular": "O Brasil enfrenta tarifa de 10% sobre aviões e mais tarifa sobre o açúcar; o Ibovespa resiste",
   "esencial": [
    "Às 8h49 (Cidade do México) o Ibovespa subia 0,25% (164.503,16) e o S&P/TSX do Canadá caía 1,29%.",
    "Os EUA propuseram uma tarifa de 10% sobre aviões do Brasil, que atingiria a Embraer, e mais tarifa sobre o açúcar, segundo a AP; a investigação do México segue pendente.",
@@ -64,7 +64,7 @@
    },
    {
     "t": "O que move o mercado",
-    "x": "Os EUA propuseram tarifas para 14 parceiros comerciais por excesso de capacidade industrial. Para o Brasil, propuseram subir a tarifa sobre açúcar bruto e refinado e uma nova de 10% sobre aviões, que atingiria a Embraer, depois do impasse nas negociações, segundo a AP. As investigações do México e da Noruega seguem pendentes. Os metais caíam: o cobre 2,1% para 5,34 dólares por libra e a prata 4,9%, o que pesa sobre Chile e Peru; o petróleo subia 1,4%."
+    "x": "Os EUA propuseram tarifas de 15% a 35% para 14 economias por excesso de capacidade industrial; nenhuma é latino-americana. À parte, para o Brasil propuseram subir a tarifa sobre açúcar bruto e refinado e uma nova de 10% sobre aviões, que atingiria a Embraer, depois do impasse nas negociações, segundo a AP. As investigações do México e da Noruega seguem pendentes. (Corrigido às 11h45, Cidade do México, com as alíquotas oficiais do USTR.) Os metais caíam: o cobre 2,1% para 5,34 dólares por libra e a prata 4,9%, o que pesa sobre Chile e Peru; o petróleo subia 1,4%."
    },
    {
     "t": "O que se espera",
@@ -85,6 +85,10 @@
   {
    "t": "Mr. Supply Chain México: mapa de calor de América",
    "u": "https://mrsupplychain.ai/noticias/"
+  },
+  {
+   "t": "Baker McKenzie: el USTR propone aranceles de la Sección 301 a 14 economías por exceso de capacidad estructural (25 nov 2026)",
+   "u": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"
   }
  ]
 }

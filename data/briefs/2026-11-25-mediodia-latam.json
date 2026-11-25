@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-25-mediodia-latam",
+ "fecha": "2026-11-25",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "La región sube a media sesión: el Ibovespa gana 1.2% y el real y el peso colombiano se fortalecen",
+  "esencial": [
+   "A las 11:23 CDMX el Ibovespa subía 1.22% (166,095.48) y el S&P/TSX de Canadá bajaba 0.32%.",
+   "La lista de 14 economías con aranceles propuestos no incluye a ningún país latinoamericano; aparte, EE. UU. propuso a Brasil más arancel al azúcar y 10% a los aviones, según AP.",
+   "Para supply chain: el dólar baja a 5.81 reales y 3,562 pesos colombianos; aprovecha para cubrir pagos en esas monedas."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el Ibovespa subía 0.25% y el dólar se fortalecía frente al peso chileno y el colombiano, con los metales a la baja y la propuesta de aranceles de EE. UU."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:23 CDMX el Ibovespa subía 1.22% a 166,095.48 y el S&P/TSX de Canadá bajaba 0.32% a 33,854.08. A las 11:38 CDMX el dólar bajaba a 5.81 reales (−1.35%) y 3,562 pesos colombianos (−1.14%), y subía a 1,042 pesos chilenos (+0.89%)."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El detalle del USTR confirmó que las 14 economías con aranceles propuestos están en Asia y Europa; ninguna es latinoamericana, y México y Noruega siguen sin determinación. Aparte, AP reporta que EE. UU. propuso a Brasil más arancel al azúcar y uno nuevo de 10% a los aviones, que pegaría a Embraer. El cobre recortó su caída a 0.7% (5.41 dólares por libra) y la plata a 3.3%."
+   }
+  ],
+  "scm": "Si compras en Asia, evalúa proveedores en la región, que quedó fuera de la lista; si compras aviones, refacciones aeronáuticas o azúcar de Brasil, revisa contratos antes de enero. Cubre hoy pagos en reales y pesos colombianos."
+ },
+ "en": {
+  "titular": "The region rises at midday: the Ibovespa gains 1.2% and the real and Colombian peso strengthen",
+  "esencial": [
+   "At 12:23 p.m. ET the Ibovespa rose 1.22% (166,095.48) and Canada's S&P/TSX fell 0.32%.",
+   "The list of 14 economies with proposed tariffs includes no Latin American country; separately, the US proposed higher sugar duties and 10% on aircraft for Brazil, according to AP.",
+   "For supply chain: the dollar falls to 5.81 reais and 3,562 Colombian pesos; use it to cover payments in those currencies."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the Ibovespa rose 0.25% and the dollar strengthened against the Chilean and Colombian pesos, with metals lower and the US tariff proposal."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 12:23 p.m. ET the Ibovespa rose 1.22% to 166,095.48 and Canada's S&P/TSX fell 0.32% to 33,854.08. At 12:38 p.m. ET the dollar fell to 5.81 reais (−1.35%) and 3,562 Colombian pesos (−1.14%), and rose to 1,042 Chilean pesos (+0.89%)."
+   },
+   {
+    "t": "What surprised",
+    "x": "The USTR detail confirmed that the 14 economies with proposed tariffs are in Asia and Europe; none is in Latin America, and Mexico and Norway still have no determination. Separately, AP reports the US proposed higher sugar duties and a new 10% tariff on aircraft for Brazil, which would hit Embraer. Copper pared its loss to 0.7% ($5.41 per pound) and silver to 3.3%."
+   }
+  ],
+  "scm": "If you buy in Asia, evaluate suppliers in the region, which was left off the list; if you buy aircraft, aerospace parts or sugar from Brazil, review contracts before January. Cover payments in reais and Colombian pesos today."
+ },
+ "pt": {
+  "titular": "A região sobe no meio da sessão: o Ibovespa ganha 1,2% e o real e o peso colombiano se fortalecem",
+  "esencial": [
+   "Às 11h23 (Cidade do México) o Ibovespa subia 1,22% (166.095,48) e o S&P/TSX do Canadá caía 0,32%.",
+   "A lista de 14 economias com tarifas propostas não inclui nenhum país latino-americano; à parte, os EUA propuseram ao Brasil mais tarifa sobre o açúcar e 10% sobre aviões, segundo a AP.",
+   "Para supply chain: o dólar cai para R$ 5,81 e 3.562 pesos colombianos; aproveite para cobrir pagamentos nessas moedas."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o Ibovespa subia 0,25% e o dólar se fortalecia frente aos pesos chileno e colombiano, com os metais em queda e a proposta de tarifas dos EUA."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h23 (Cidade do México) o Ibovespa subia 1,22% para 166.095,48 e o S&P/TSX do Canadá caía 0,32% para 33.854,08. Às 11h38 o dólar caía para R$ 5,81 (−1,35%) e 3.562 pesos colombianos (−1,14%), e subia para 1.042 pesos chilenos (+0,89%)."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O detalhe do USTR confirmou que as 14 economias com tarifas propostas estão na Ásia e na Europa; nenhuma é latino-americana, e México e Noruega seguem sem determinação. À parte, a AP informa que os EUA propuseram ao Brasil mais tarifa sobre o açúcar e uma nova de 10% sobre aviões, que atingiria a Embraer. O cobre reduziu a queda para 0,7% (5,41 dólares por libra) e a prata para 3,3%."
+   }
+  ],
+  "scm": "Se você compra na Ásia, avalie fornecedores na região, que ficou fora da lista; se compra aviões, peças aeronáuticas ou açúcar do Brasil, revise contratos antes de janeiro. Cubra hoje pagamentos em reais e pesos colombianos."
+ },
+ "fuentes": [
+  {
+   "t": "Baker McKenzie: el USTR propone aranceles de la Sección 301 a 14 economías por exceso de capacidad estructural (25 nov 2026)",
+   "u": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"
+  },
+  {
+   "t": "AP vía CP24: EE. UU. propone subir aranceles a China, la UE, Brasil y otros por producción subsidiada (25 nov 2026)",
+   "u": "https://www.cp24.com/news/world/2026/11/25/us-plans-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-production/"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

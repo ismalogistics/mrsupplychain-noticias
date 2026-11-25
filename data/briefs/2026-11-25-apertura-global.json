@@ -5,11 +5,11 @@
  "mercado": "global",
  "hora": "09:08 CDMX",
  "es": {
-  "titular": "Inflación más alta, aranceles de hasta 20% y otra caída en chips: el Nasdaq abre con −3.1%",
+  "titular": "Inflación más alta, aranceles de 15% a 35% a 14 economías y otra caída en chips: el Nasdaq abre con −3.1%",
   "esencial": [
    "A las 9:06 CDMX el S&P 500 caía 2.07%, el Nasdaq 3.14% y el Dow 1.26%; el índice de chips bajaba 5.7% y Nvidia 6.9%.",
    "El PCE subyacente subió a 3.3% anual (se esperaba 3.2%) y el PIB del tercer trimestre creció 4.3%; el mercado da 98% de probabilidad a un alza de la Fed en diciembre.",
-   "Para supply chain: EE. UU. propuso aranceles de hasta 20% a China, la UE y otras 12 economías, desde enero como pronto; México quedó con su investigación pendiente. Mapea hoy qué insumos vienen de esos países."
+   "Para supply chain: EE. UU. propuso aranceles de 15% a 35% a 14 economías, entre ellas China (20%), la UE, Japón, Corea y Taiwán (15%), India (25%) y Vietnam (35%); México quedó con su investigación pendiente. Mapea hoy qué insumos vienen de esos países."
   ],
   "bloques": [
    {
@@ -18,21 +18,21 @@
    },
    {
     "t": "Lo que mueve al mercado",
-    "x": "El índice de precios PCE de octubre subió 0.3% en el mes y 3.8% anual, su nivel más alto desde 2023; la medida subyacente subió a 3.3% anual, arriba del 3.2% esperado, según la BEA. El PIB del tercer trimestre creció a una tasa anual de 4.3%, contra 3.5% esperado. El mercado da 98% de probabilidad a un alza de 25 puntos base de la Fed en diciembre. Además, EE. UU. propuso aranceles de hasta 20% a China, la UE y otras 12 economías por exceso de capacidad industrial (Sección 301); en China se sumarían a los existentes, con tasas totales arriba de 40% en algunos productos. Entrarían en vigor tras audiencias y consulta pública, en enero como pronto, y no se acumulan con los de la Sección 232 ni con los de 10% a 12.5% de julio. El Treasury a 10 años bajaba a 4.82%."
+    "x": "El índice de precios PCE de octubre subió 0.3% en el mes y 3.8% anual, su nivel más alto desde 2023; la medida subyacente subió a 3.3% anual, arriba del 3.2% esperado, según la BEA. El PIB del tercer trimestre creció a una tasa anual de 4.3%, contra 3.5% esperado. El mercado da 98% de probabilidad a un alza de 25 puntos base de la Fed en diciembre. Además, el USTR propuso aranceles a 14 economías por exceso de capacidad industrial (Sección 301): Vietnam hasta 35%, India 25%, China y Singapur 20%, Malasia, Tailandia, Indonesia, Camboya y Bangladesh 18%, y la UE, Japón, Corea del Sur, Suiza y Taiwán 15%, según Baker McKenzie. Los comentarios se reciben hasta el 5 de enero y las audiencias empiezan el 25 de enero; salvo en China, no aplican a bienes con aranceles de la Sección 232. (Corregido a las 11:45 CDMX con las tasas oficiales del USTR.) El Treasury a 10 años bajaba a 4.82%."
    },
    {
     "t": "Qué se espera",
     "x": "A las 13:00 CDMX la Fed publica el Libro Beige. Mañana jueves no operan las bolsas de EE. UU. por el Día de Acción de Gracias y el viernes la sesión cierra a las 12:00 CDMX. La tregua comercial entre EE. UU. y China vence el 10 de enero."
    }
   ],
-  "scm": "Mapea hoy qué insumos y componentes vienen de China, la UE, Japón, Corea, Taiwán, India y el Sudeste Asiático, y prepara escenarios con un arancel adicional de hasta 20% desde enero; deja cerrados hoy los embarques a EE. UU., que mañana es feriado."
+  "scm": "Mapea hoy qué insumos y componentes vienen de China, la UE, Japón, Corea, Taiwán, India y el Sudeste Asiático, y prepara escenarios con el arancel propuesto para cada origen (15% a 35%); deja cerrados hoy los embarques a EE. UU., que mañana es feriado."
  },
  "en": {
-  "titular": "Hotter inflation, tariffs of up to 20% and another chip drop: the Nasdaq opens −3.1%",
+  "titular": "Hotter inflation, tariffs of 15% to 35% on 14 economies and another chip drop: the Nasdaq opens −3.1%",
   "esencial": [
    "At 10:06 a.m. ET the S&P 500 was down 2.07%, the Nasdaq 3.14% and the Dow 1.26%; the chip index fell 5.7% and Nvidia 6.9%.",
    "Core PCE rose to 3.3% annual (3.2% expected) and third-quarter GDP grew 4.3%; markets see a 98% chance of a December Fed hike.",
-   "For supply chain: the US proposed tariffs of up to 20% on China, the EU and 12 other economies, from January at the earliest; Mexico’s investigation is still pending. Map today which inputs come from those countries."
+   "For supply chain: the US proposed tariffs of 15% to 35% on 14 economies, including China (20%), the EU, Japan, Korea and Taiwan (15%), India (25%) and Vietnam (35%); Mexico’s investigation is still pending. Map today which inputs come from those countries."
   ],
   "bloques": [
    {
@@ -41,21 +41,21 @@
    },
    {
     "t": "What is moving the market",
-    "x": "The October PCE price index rose 0.3% on the month and 3.8% annual, its highest since 2023; the core measure rose to 3.3% annual, above the 3.2% expected, according to the BEA. Third-quarter GDP grew at a 4.3% annual rate versus 3.5% expected. Markets see a 98% chance of a 25 basis point Fed hike in December. The US also proposed tariffs of up to 20% on China, the EU and 12 other economies over industrial overcapacity (Section 301); for China they would stack on existing duties, with total rates above 40% on some products. They would take effect after hearings and public comment, in January at the earliest, and would not stack on Section 232 tariffs or on July’s 10% to 12.5% levies. The 10-year Treasury fell to 4.82%."
+    "x": "The October PCE price index rose 0.3% on the month and 3.8% annual, its highest since 2023; the core measure rose to 3.3% annual, above the 3.2% expected, according to the BEA. Third-quarter GDP grew at a 4.3% annual rate versus 3.5% expected. Markets see a 98% chance of a 25 basis point Fed hike in December. The USTR also proposed tariffs on 14 economies over industrial overcapacity (Section 301): Vietnam up to 35%, India 25%, China and Singapore 20%, Malaysia, Thailand, Indonesia, Cambodia and Bangladesh 18%, and the EU, Japan, South Korea, Switzerland and Taiwan 15%, according to Baker McKenzie. Comments are due January 5 and hearings begin January 25; except for China, they do not apply to goods under Section 232 tariffs. (Corrected at 12:45 p.m. ET with official USTR rates.) The 10-year Treasury fell to 4.82%."
    },
    {
     "t": "What to expect",
     "x": "At 2:00 p.m. ET the Fed publishes its Beige Book. US markets are closed tomorrow, Thursday, for Thanksgiving and Friday’s session closes at 1:00 p.m. ET. The US-China trade truce expires on January 10."
    }
   ],
-  "scm": "Map today which inputs and components come from China, the EU, Japan, Korea, Taiwan, India and Southeast Asia, and prepare scenarios with an additional tariff of up to 20% from January; close out US shipments today, since tomorrow is a holiday."
+  "scm": "Map today which inputs and components come from China, the EU, Japan, Korea, Taiwan, India and Southeast Asia, and prepare scenarios with the tariff proposed for each origin (15% to 35%); close out US shipments today, since tomorrow is a holiday."
  },
  "pt": {
-  "titular": "Inflação mais alta, tarifas de até 20% e outra queda nos chips: o Nasdaq abre com −3,1%",
+  "titular": "Inflação mais alta, tarifas de 15% a 35% para 14 economias e outra queda nos chips: o Nasdaq abre com −3,1%",
   "esencial": [
    "Às 9h06 (Cidade do México) o S&P 500 caía 2,07%, o Nasdaq 3,14% e o Dow 1,26%; o índice de chips caía 5,7% e a Nvidia 6,9%.",
    "O núcleo do PCE subiu para 3,3% ao ano (esperava-se 3,2%) e o PIB do terceiro trimestre cresceu 4,3%; o mercado dá 98% de probabilidade a uma alta do Fed em dezembro.",
-   "Para supply chain: os EUA propuseram tarifas de até 20% para China, UE e outras 12 economias, a partir de janeiro no mínimo; a investigação do México segue pendente. Mapeie hoje quais insumos vêm desses países."
+   "Para supply chain: os EUA propuseram tarifas de 15% a 35% para 14 economias, entre elas China (20%), UE, Japão, Coreia e Taiwan (15%), Índia (25%) e Vietnã (35%); a investigação do México segue pendente. Mapeie hoje quais insumos vêm desses países."
   ],
   "bloques": [
    {
@@ -64,14 +64,14 @@
    },
    {
     "t": "O que move o mercado",
-    "x": "O índice de preços PCE de outubro subiu 0,3% no mês e 3,8% ao ano, o maior nível desde 2023; o núcleo subiu para 3,3% ao ano, acima dos 3,2% esperados, segundo o BEA. O PIB do terceiro trimestre cresceu a uma taxa anual de 4,3%, contra 3,5% esperados. O mercado dá 98% de probabilidade a uma alta de 25 pontos-base do Fed em dezembro. Além disso, os EUA propuseram tarifas de até 20% para China, UE e outras 12 economias por excesso de capacidade industrial (Seção 301); na China se somariam às existentes, com alíquotas totais acima de 40% em alguns produtos. Entrariam em vigor após audiências e consulta pública, a partir de janeiro no mínimo, e não se acumulam com as da Seção 232 nem com as de 10% a 12,5% de julho. O Treasury de 10 anos caía para 4,82%."
+    "x": "O índice de preços PCE de outubro subiu 0,3% no mês e 3,8% ao ano, o maior nível desde 2023; o núcleo subiu para 3,3% ao ano, acima dos 3,2% esperados, segundo o BEA. O PIB do terceiro trimestre cresceu a uma taxa anual de 4,3%, contra 3,5% esperados. O mercado dá 98% de probabilidade a uma alta de 25 pontos-base do Fed em dezembro. Além disso, o USTR propôs tarifas para 14 economias por excesso de capacidade industrial (Seção 301): Vietnã até 35%, Índia 25%, China e Singapura 20%, Malásia, Tailândia, Indonésia, Camboja e Bangladesh 18%, e UE, Japão, Coreia do Sul, Suíça e Taiwan 15%, segundo a Baker McKenzie. Os comentários vão até 5 de janeiro e as audiências começam em 25 de janeiro; exceto na China, não se aplicam a bens com tarifas da Seção 232. (Corrigido às 11h45, Cidade do México, com as alíquotas oficiais do USTR.) O Treasury de 10 anos caía para 4,82%."
    },
    {
     "t": "O que se espera",
     "x": "Às 13h00 (Cidade do México) o Fed publica o Livro Bege. Amanhã, quinta, as bolsas dos EUA não operam pelo Dia de Ação de Graças e na sexta a sessão fecha às 12h00 (Cidade do México). A trégua comercial entre EUA e China vence em 10 de janeiro."
    }
   ],
-  "scm": "Mapeie hoje quais insumos e componentes vêm de China, UE, Japão, Coreia, Taiwan, Índia e Sudeste Asiático e prepare cenários com uma tarifa adicional de até 20% a partir de janeiro; deixe fechados hoje os embarques para os EUA, porque amanhã é feriado."
+  "scm": "Mapeie hoje quais insumos e componentes vêm de China, UE, Japão, Coreia, Taiwan, Índia e Sudeste Asiático e prepare cenários com a tarifa proposta para cada origem (15% a 35%); deixe fechados hoje os embarques para os EUA, porque amanhã é feriado."
  },
  "fuentes": [
   {
@@ -105,6 +105,10 @@
   {
    "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 09:08 CDMX)",
    "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Baker McKenzie: el USTR propone aranceles de la Sección 301 a 14 economías por exceso de capacidad estructural (25 nov 2026)",
+   "u": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"
   }
  ]
 }

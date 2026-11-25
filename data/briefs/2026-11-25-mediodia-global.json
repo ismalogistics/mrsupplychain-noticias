@@ -1,0 +1,102 @@
+{
+ "id": "2026-11-25-mediodia-global",
+ "fecha": "2026-11-25",
+ "momento": "mediodia",
+ "mercado": "global",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "Wall Street recorta pérdidas a media sesión: el Nasdaq cae 2.4% y Anthropic vuelve arriba de su precio de salida",
+  "esencial": [
+   "A las 11:38 CDMX el S&P 500 bajaba 1.37%, el Nasdaq 2.35% y el Dow 0.26%, menos que en la apertura; los chips seguían cayendo 4.8%.",
+   "El USTR detalló las tasas propuestas a 14 economías: Vietnam hasta 35%, India 25%, China y Singapur 20%, cinco economías del Sudeste Asiático y Bangladesh 18%, y la UE, Japón, Corea del Sur, Suiza y Taiwán 15%. México quedó sin determinación.",
+   "Para supply chain: los comentarios se reciben hasta el 5 de enero y las audiencias empiezan el 25; usa ese plazo para costear cada origen y buscar alternativas."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura, Wall Street caía con fuerza (Nasdaq −3.1%) por el PCE subyacente de 3.3%, arriba de lo esperado, la propuesta de aranceles de EE. UU. y una tercera sesión de venta en chips."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:38 CDMX el S&P 500 bajaba 1.37% (7,102.49), el Nasdaq 2.35% (23,176.42) y el Dow 0.26% (49,886.35); el VIX bajaba a 30.8 desde 33.8 en la apertura. El índice de semiconductores caía 4.8%: Micron 9.4%, Nvidia 7.4% (143.91 dólares), AMD 6.5% y TSMC 5.2%. Dell bajaba 4.1%, Deere subía 3.4% y Anthropic subía 2.5% a 83.93 dólares, arriba de su precio de salida de 83. Europa cerró a la baja: Euro Stoxx 50 −1.82% y DAX −1.26%. El Treasury a 10 años estaba en 4.83% (−7 pb) y el Brent de enero subía 2.5% a 93.65 dólares."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "Las bolsas recortaron pérdidas, sobre todo el Dow. El USTR detalló las tasas propuestas por exceso de capacidad industrial: Vietnam hasta 35%, India 25%, China y Singapur 20%, cinco economías del Sudeste Asiático y Bangladesh 18%, y la UE, Japón, Corea del Sur, Suiza y Taiwán 15%, según Baker McKenzie; no hay determinación para México ni Noruega. Los inventarios de crudo de EE. UU. subieron 1.1 millones de barriles, a 418.9 millones, y los de destilados están 6% abajo del promedio de cinco años, según la EIA. Goldman Sachs estima que EE. UU. sumará 52 gigawatts de capacidad eléctrica para centros de datos en 2028, casi el triple que en 2026."
+   }
+  ],
+  "scm": "Con las tasas ya publicadas, calcula el costo de importar desde cada origen de la lista y prepara tus comentarios o los de tu cámara antes del 5 de enero; el diésel sigue en 3.69 dólares por galón, con inventarios de destilados abajo del promedio."
+ },
+ "en": {
+  "titular": "Wall Street pares losses at midday: the Nasdaq falls 2.4% and Anthropic moves back above its IPO price",
+  "esencial": [
+   "At 12:38 p.m. ET the S&P 500 was down 1.37%, the Nasdaq 2.35% and the Dow 0.26%, less than at the open; chips were still down 4.8%.",
+   "The USTR detailed the rates proposed for 14 economies: Vietnam up to 35%, India 25%, China and Singapore 20%, five Southeast Asian economies and Bangladesh 18%, and the EU, Japan, South Korea, Switzerland and Taiwan 15%. Mexico was left without a determination.",
+   "For supply chain: comments are due January 5 and hearings begin January 25; use that window to cost each origin and look for alternatives."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open, Wall Street fell sharply (Nasdaq −3.1%) on core PCE of 3.3%, above expectations, the US tariff proposal and a third session of chip selling."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 12:38 p.m. ET the S&P 500 was down 1.37% (7,102.49), the Nasdaq 2.35% (23,176.42) and the Dow 0.26% (49,886.35); the VIX fell to 30.8 from 33.8 at the open. The semiconductor index fell 4.8%: Micron 9.4%, Nvidia 7.4% ($143.91), AMD 6.5% and TSMC 5.2%. Dell was down 4.1%, Deere up 3.4% and Anthropic up 2.5% at $83.93, above its $83 IPO price. Europe closed lower: Euro Stoxx 50 −1.82% and DAX −1.26%. The 10-year Treasury stood at 4.83% (−7 bp) and January Brent rose 2.5% to $93.65."
+   },
+   {
+    "t": "What surprised",
+    "x": "Stocks pared losses, especially the Dow. The USTR detailed the rates proposed over industrial overcapacity: Vietnam up to 35%, India 25%, China and Singapore 20%, five Southeast Asian economies and Bangladesh 18%, and the EU, Japan, South Korea, Switzerland and Taiwan 15%, according to Baker McKenzie; there is no determination for Mexico or Norway. US crude inventories rose 1.1 million barrels to 418.9 million, and distillate stocks are 6% below the five-year average, according to the EIA. Goldman Sachs estimates the US will add 52 gigawatts of data center power capacity in 2028, nearly triple 2026."
+   }
+  ],
+  "scm": "With the rates now published, calculate the cost of importing from each listed origin and prepare your comments, or your trade association’s, before January 5; diesel remains at $3.69 a gallon, with distillate stocks below average."
+ },
+ "pt": {
+  "titular": "Wall Street reduz perdas no meio da sessão: o Nasdaq cai 2,4% e a Anthropic volta acima do preço do IPO",
+  "esencial": [
+   "Às 11h38 (Cidade do México) o S&P 500 caía 1,37%, o Nasdaq 2,35% e o Dow 0,26%, menos que na abertura; os chips ainda caíam 4,8%.",
+   "O USTR detalhou as alíquotas propostas para 14 economias: Vietnã até 35%, Índia 25%, China e Singapura 20%, cinco economias do Sudeste Asiático e Bangladesh 18%, e UE, Japão, Coreia do Sul, Suíça e Taiwan 15%. O México ficou sem determinação.",
+   "Para supply chain: os comentários vão até 5 de janeiro e as audiências começam em 25; use esse prazo para custear cada origem e buscar alternativas."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura, Wall Street caía forte (Nasdaq −3,1%) pelo núcleo do PCE de 3,3%, acima do esperado, pela proposta de tarifas dos EUA e por uma terceira sessão de venda nos chips."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h38 (Cidade do México) o S&P 500 caía 1,37% (7.102,49), o Nasdaq 2,35% (23.176,42) e o Dow 0,26% (49.886,35); o VIX caía para 30,8 desde 33,8 na abertura. O índice de semicondutores caía 4,8%: Micron 9,4%, Nvidia 7,4% (143,91 dólares), AMD 6,5% e TSMC 5,2%. A Dell caía 4,1%, a Deere subia 3,4% e a Anthropic subia 2,5% para 83,93 dólares, acima do preço do IPO de 83. A Europa fechou em queda: Euro Stoxx 50 −1,82% e DAX −1,26%. O Treasury de 10 anos estava em 4,83% (−7 pb) e o Brent de janeiro subia 2,5% para 93,65 dólares."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "As bolsas reduziram as perdas, sobretudo o Dow. O USTR detalhou as alíquotas propostas por excesso de capacidade industrial: Vietnã até 35%, Índia 25%, China e Singapura 20%, cinco economias do Sudeste Asiático e Bangladesh 18%, e UE, Japão, Coreia do Sul, Suíça e Taiwan 15%, segundo a Baker McKenzie; não há determinação para México nem Noruega. Os estoques de petróleo dos EUA subiram 1,1 milhão de barris, para 418,9 milhões, e os de destilados estão 6% abaixo da média de cinco anos, segundo a EIA. O Goldman Sachs estima que os EUA vão somar 52 gigawatts de capacidade elétrica para data centers em 2028, quase o triplo de 2026."
+   }
+  ],
+  "scm": "Com as alíquotas já publicadas, calcule o custo de importar de cada origem da lista e prepare seus comentários, ou os da sua associação, antes de 5 de janeiro; o diesel segue a 3,69 dólares por galão, com estoques de destilados abaixo da média."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: las bolsas recortan pérdidas, pero la tecnología sigue golpeada (25 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+  },
+  {
+   "t": "Baker McKenzie: el USTR propone aranceles de la Sección 301 a 14 economías por exceso de capacidad estructural (25 nov 2026)",
+   "u": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"
+  },
+  {
+   "t": "Oilprice.com: los inventarios de crudo de EE. UU. suben 1.1 millones de barriles (EIA, 25 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-inventories-continue-rise-us-154256636.html"
+  },
+  {
+   "t": "GuruFocus: SK hynix cae 11% y arrastra al KOSPI (25 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stocks-sink-11-171606778.html"
+  },
+  {
+   "t": "MT Newswires: el petróleo sube tras un ataque a una refinería saudí (25 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/canada-commodities-oil-prices-climb-145809381.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

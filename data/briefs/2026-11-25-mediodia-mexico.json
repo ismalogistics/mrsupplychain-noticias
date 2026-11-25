@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-25-mediodia-mexico",
+ "fecha": "2026-11-25",
+ "momento": "mediodia",
+ "mercado": "mexico",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "El IPC sube 1.7% y el peso se recupera a 19.64 tras confirmarse que México queda fuera, por ahora, de los aranceles",
+  "esencial": [
+   "A las 11:18 CDMX el S&P/BMV IPC subía 1.70% (70,482.49) y a las 11:38 el peso cotizaba en 19.64 por dólar (+1.18% el dólar), desde 19.73 en la apertura.",
+   "El representante comercial de EE. UU., Jamieson Greer, dijo que aún no hay determinación para México en la investigación por exceso de capacidad, según Expansión; no hay plazo para resolverla.",
+   "Para supply chain: hoy rige el FIX de 19.1648 y mañana el de 19.3668; liquida hoy y aprovecha el respiro para revisar tu exposición si México entra después."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el IPC estaba estable (+0.08%) y el peso caía a 19.73, con México sin tasa propuesta en los aranceles de EE. UU."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:18 CDMX el S&P/BMV IPC subía 1.70% a 70,482.49 puntos, mientras el S&P 500 bajaba 1.37%. A las 11:38 CDMX el peso se recuperaba a 19.64 por dólar (+1.18% el dólar), desde 19.73 en la apertura. Hoy rige el FIX de 19.1648; Banxico publica alrededor de las 12:00 CDMX el que regirá el viernes."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "La bolsa mexicana subió con fuerza mientras Wall Street caía, en un día en que se confirmó que México queda fuera, por ahora, de los aranceles propuestos a 14 economías: Greer dijo que aún no hay determinación para México ni para Noruega y no fijó plazo, según Expansión y Excélsior. En las audiencias del USTR, la representación de la Secretaría de Economía en Washington dijo que la manufactura mexicana usa alrededor de 80% de su capacidad instalada."
+   }
+  ],
+  "scm": "Liquida hoy los pagos en dólares con el FIX de 19.1648. Si exportas a EE. UU. desde México, prepara un escenario por si la investigación pendiente termina en arancel; si compites con importaciones de Asia, revisa tus precios a partir de enero."
+ },
+ "en": {
+  "titular": "The IPC rises 1.7% and the peso recovers to 19.64 after it is confirmed Mexico is left out of the tariffs, for now",
+  "esencial": [
+   "At 11:18 a.m. Mexico City time the S&P/BMV IPC rose 1.70% (70,482.49) and at 11:38 the peso traded at 19.64 per dollar (dollar +1.18%), from 19.73 at the open.",
+   "US Trade Representative Jamieson Greer said there is still no determination for Mexico in the overcapacity investigation, according to Expansión; there is no deadline to resolve it.",
+   "For supply chain: today the 19.1648 FIX applies and tomorrow the 19.3668; settle today and use the breather to review your exposure in case Mexico is added later."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the IPC was flat (+0.08%) and the peso fell to 19.73, with Mexico having no proposed rate in the US tariffs."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:18 a.m. Mexico City time the S&P/BMV IPC rose 1.70% to 70,482.49 points, while the S&P 500 fell 1.37%. At 11:38 a.m. the peso recovered to 19.64 per dollar (dollar +1.18%), from 19.73 at the open. Today the 19.1648 FIX applies; Banxico publishes around 12:00 p.m. the one that will apply on Friday."
+   },
+   {
+    "t": "What surprised",
+    "x": "The Mexican market rose strongly while Wall Street fell, on a day it was confirmed that Mexico is left out, for now, of the tariffs proposed for 14 economies: Greer said there is still no determination for Mexico or Norway and set no deadline, according to Expansión and Excélsior. At the USTR hearings, the Ministry of Economy’s office in Washington said Mexican manufacturing uses about 80% of its installed capacity."
+   }
+  ],
+  "scm": "Settle dollar payments today with the 19.1648 FIX. If you export to the US from Mexico, prepare a scenario in case the pending investigation ends in a tariff; if you compete with Asian imports, review your pricing from January."
+ },
+ "pt": {
+  "titular": "O IPC sobe 1,7% e o peso se recupera para 19,64 após a confirmação de que o México fica fora das tarifas, por enquanto",
+  "esencial": [
+   "Às 11h18 (Cidade do México) o S&P/BMV IPC subia 1,70% (70.482,49) e às 11h38 o peso era cotado a 19,64 por dólar (dólar +1,18%), desde 19,73 na abertura.",
+   "O representante comercial dos EUA, Jamieson Greer, disse que ainda não há determinação para o México na investigação por excesso de capacidade, segundo a Expansión; não há prazo para resolvê-la.",
+   "Para supply chain: hoje vale o FIX de 19,1648 e amanhã o de 19,3668; liquide hoje e aproveite o respiro para revisar sua exposição caso o México entre depois."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o IPC estava estável (+0,08%) e o peso caía para 19,73, com o México sem alíquota proposta nas tarifas dos EUA."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h18 (Cidade do México) o S&P/BMV IPC subia 1,70% para 70.482,49 pontos, enquanto o S&P 500 caía 1,37%. Às 11h38 o peso se recuperava para 19,64 por dólar (dólar +1,18%), desde 19,73 na abertura. Hoje vale o FIX de 19,1648; o Banxico publica por volta das 12h00 o que valerá na sexta."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "A bolsa mexicana subiu forte enquanto Wall Street caía, num dia em que se confirmou que o México fica fora, por enquanto, das tarifas propostas para 14 economias: Greer disse que ainda não há determinação para México nem Noruega e não fixou prazo, segundo a Expansión e o Excélsior. Nas audiências do USTR, a representação da Secretaria de Economia em Washington disse que a manufatura mexicana usa cerca de 80% da capacidade instalada."
+   }
+  ],
+  "scm": "Liquide hoje os pagamentos em dólares com o FIX de 19,1648. Se você exporta do México para os EUA, prepare um cenário caso a investigação pendente termine em tarifa; se você compete com importações da Ásia, revise seus preços a partir de janeiro."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 25 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Expansión: México libra por ahora los aranceles que EE. UU. propone a 14 economías (25 nov 2026)",
+   "u": "https://expansion.mx/economia/2026/11/25/eu-propone-aranceles-14-economias-mexico-queda-fuera"
+  },
+  {
+   "t": "Excélsior: EE. UU. excluye por ahora a México de los aranceles a 14 socios y mantiene la investigación (25 nov 2026)",
+   "u": "https://www.excelsior.com.mx/finanzas/eu-excluye-por-ahora-mexico-aranceles-14-socios-mantiene-investigacion"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (24 nov 2026: 19.3668)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

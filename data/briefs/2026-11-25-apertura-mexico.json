@@ -18,14 +18,14 @@
    },
    {
     "t": "Lo que mueve al mercado",
-    "x": "El PCE subyacente de EE. UU. subió a 3.3% anual, arriba de lo esperado, y el mercado da 98% de probabilidad a un alza de la Fed en diciembre, lo que fortalece al dólar. EE. UU. propuso aranceles de hasta 20% a China, la UE y otras 12 economías; un funcionario dijo que las investigaciones de México y Noruega siguen pendientes, por lo que no hay tasa propuesta para México, según AP. Los aranceles no se acumularían con los de la Sección 232 (autos, acero, aluminio) ni con los de julio."
+    "x": "El PCE subyacente de EE. UU. subió a 3.3% anual, arriba de lo esperado, y el mercado da 98% de probabilidad a un alza de la Fed en diciembre, lo que fortalece al dólar. El USTR propuso aranceles de 15% a 35% a 14 economías, entre ellas China (20%), la UE, Japón, Corea y Taiwán (15%), India (25%) y Vietnam (35%); el representante comercial Jamieson Greer dijo que aún no hay determinación para México ni para Noruega, por lo que no hay tasa propuesta para México, según Expansión. (Corregido a las 11:45 CDMX con las tasas oficiales del USTR.)"
    },
    {
     "t": "Qué se espera",
     "x": "Mañana jueves la BMV opera aunque Wall Street cierra. El viernes 27 el INEGI publica la balanza comercial de octubre. Banxico publica hoy, alrededor de las 12:00 CDMX, el FIX que regirá el viernes."
    }
   ],
-  "scm": "Liquida hoy los pagos en dólares con el FIX de 19.1648: mañana sube a 19.3668. Si importas insumos de Asia o la UE, calcula el costo con un arancel adicional de hasta 20% desde enero, y sigue la investigación pendiente sobre México."
+  "scm": "Liquida hoy los pagos en dólares con el FIX de 19.1648: mañana sube a 19.3668. Si importas insumos de Asia o la UE, calcula el costo con el arancel propuesto para cada origen (15% a 35%), y sigue la investigación pendiente sobre México."
  },
  "en": {
   "titular": "The peso falls to 19.73 on US inflation and tariffs; Mexico’s investigation remains pending",
@@ -41,14 +41,14 @@
    },
    {
     "t": "What is moving the market",
-    "x": "US core PCE rose to 3.3% annual, above expectations, and markets see a 98% chance of a December Fed hike, which strengthens the dollar. The US proposed tariffs of up to 20% on China, the EU and 12 other economies; an official said the investigations of Mexico and Norway are still pending, so there is no proposed rate for Mexico, according to AP. The tariffs would not stack on Section 232 duties (autos, steel, aluminum) or on July’s levies."
+    "x": "US core PCE rose to 3.3% annual, above expectations, and markets see a 98% chance of a December Fed hike, which strengthens the dollar. The USTR proposed tariffs of 15% to 35% on 14 economies, including China (20%), the EU, Japan, Korea and Taiwan (15%), India (25%) and Vietnam (35%); Trade Representative Jamieson Greer said there is still no determination for Mexico or Norway, so there is no proposed rate for Mexico, according to Expansión. (Corrected at 12:45 p.m. ET with official USTR rates.)"
    },
    {
     "t": "What to expect",
     "x": "Tomorrow, Thursday, the BMV is open although Wall Street is closed. On Friday the 27th INEGI publishes the October trade balance. Banxico publishes today, around 12:00 p.m. Mexico City time, the FIX that will apply on Friday."
    }
   ],
-  "scm": "Settle dollar payments today with the 19.1648 FIX: tomorrow it rises to 19.3668. If you import inputs from Asia or the EU, calculate costs with an additional tariff of up to 20% from January, and follow the pending investigation on Mexico."
+  "scm": "Settle dollar payments today with the 19.1648 FIX: tomorrow it rises to 19.3668. If you import inputs from Asia or the EU, calculate costs with the tariff proposed for each origin (15% to 35%), and follow the pending investigation on Mexico."
  },
  "pt": {
   "titular": "O peso cai para 19,73 com a inflação dos EUA e as tarifas; a investigação do México segue pendente",
@@ -64,14 +64,14 @@
    },
    {
     "t": "O que move o mercado",
-    "x": "O núcleo do PCE dos EUA subiu para 3,3% ao ano, acima do esperado, e o mercado dá 98% de probabilidade a uma alta do Fed em dezembro, o que fortalece o dólar. Os EUA propuseram tarifas de até 20% para China, UE e outras 12 economias; um funcionário disse que as investigações do México e da Noruega seguem pendentes, por isso não há alíquota proposta para o México, segundo a AP. As tarifas não se acumulariam com as da Seção 232 (autos, aço, alumínio) nem com as de julho."
+    "x": "O núcleo do PCE dos EUA subiu para 3,3% ao ano, acima do esperado, e o mercado dá 98% de probabilidade a uma alta do Fed em dezembro, o que fortalece o dólar. O USTR propôs tarifas de 15% a 35% para 14 economias, entre elas China (20%), UE, Japão, Coreia e Taiwan (15%), Índia (25%) e Vietnã (35%); o representante comercial Jamieson Greer disse que ainda não há determinação para México nem Noruega, por isso não há alíquota proposta para o México, segundo a Expansión. (Corrigido às 11h45, Cidade do México, com as alíquotas oficiais do USTR.)"
    },
    {
     "t": "O que se espera",
     "x": "Amanhã, quinta, a BMV opera embora Wall Street feche. Na sexta, dia 27, o INEGI divulga a balança comercial de outubro. O Banxico publica hoje, por volta das 12h00 (Cidade do México), o FIX que valerá na sexta."
    }
   ],
-  "scm": "Liquide hoje os pagamentos em dólares com o FIX de 19,1648: amanhã sobe para 19,3668. Se você importa insumos da Ásia ou da UE, calcule o custo com uma tarifa adicional de até 20% a partir de janeiro e acompanhe a investigação pendente sobre o México."
+  "scm": "Liquide hoje os pagamentos em dólares com o FIX de 19,1648: amanhã sobe para 19,3668. Se você importa insumos da Ásia ou da UE, calcule o custo com a tarifa proposta para cada origem (15% a 35%) e acompanhe a investigação pendente sobre o México."
  },
  "fuentes": [
   {
@@ -89,6 +89,14 @@
   {
    "t": "Yahoo Finance: índices, divisas y materias primas (25 nov 2026, 09:08 CDMX)",
    "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Expansión: México libra por ahora los aranceles que EE. UU. propone a 14 economías (25 nov 2026)",
+   "u": "https://expansion.mx/economia/2026/11/25/eu-propone-aranceles-14-economias-mexico-queda-fuera"
+  },
+  {
+   "t": "Baker McKenzie: el USTR propone aranceles de la Sección 301 a 14 economías por exceso de capacidad estructural (25 nov 2026)",
+   "u": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"
   }
  ]
 }
