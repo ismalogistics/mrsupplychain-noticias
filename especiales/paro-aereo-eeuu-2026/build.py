@@ -177,9 +177,9 @@ def todas_fuentes():
 TITULO = L('EE. UU. detuvo sus vuelos: los impactos del paro aéreo en supply chain',
            'The US grounded its flights: the impacts of the air shutdown on supply chains',
            'Os EUA pararam seus voos: os impactos da paralisação aérea em supply chain')
-DEK = L('Cuatro horas de paro, tres días de red irregular: qué le pasó a la carga aérea y la paquetería, a México y Canadá, quién absorbió el costo, qué riesgo queda para la temporada alta y qué hacer en tu operación.',
-        'Four hours of stoppage, three days of irregular network: what happened to air cargo and parcels, Mexico and Canada, who absorbed the cost, what risk remains for peak season and what to do in your operation.',
-        'Quatro horas de paralisação, três dias de rede irregular: o que aconteceu com a carga aérea e as encomendas, o México e o Canadá, quem absorveu o custo, que risco fica para a alta temporada e o que fazer na sua operação.')
+DEK = L("Cuatro horas de paro, tres días de red irregular y, en plena semana de Thanksgiving, más fallas: la causa del paro, Delta y O'Hare, qué le pasó a la carga, quién absorbió el costo y qué hacer en tu operación hasta el Cyber Monday.",
+        "Four hours of stoppage, three days of irregular network and, in the middle of Thanksgiving week, more failures: the cause of the stop, Delta and O'Hare, what happened to cargo, who absorbed the cost and what to do in your operation through Cyber Monday.",
+        "Quatro horas de paralisação, três dias de rede irregular e, em plena semana de Thanksgiving, mais falhas: a causa da paralisação, Delta e O'Hare, o que aconteceu com a carga, quem absorveu o custo e o que fazer na sua operação até a Cyber Monday.")
 DESC = 'Especial: los impactos en supply chain del paro nacional de vuelos de la FAA del 13 de noviembre de 2026: carga aérea, paquetería, México, Canadá, costos, riesgo para la temporada alta y acciones.'
 
 CSS = r'''
