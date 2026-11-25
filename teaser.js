@@ -10,10 +10,10 @@
   };
   var data = null, cur = null, box = null;
   // Especial destacado arriba del hero (se oculta solo después de HASTA).
-  var ESP = { url: BASE + 'especiales/caidas-digitales-nsa-2026/?utm_source=home&utm_medium=banner&utm_campaign=caidasnsa2026', hasta: '2026-11-24T23:59:00-06:00',
-    es: { k: 'Especial · Al momento', h: 'Seis días, cinco caídas: de Microsoft a la NSA', s: 'Correo, control aéreo, pagos, aerolíneas y la red de la NSA fallaron sin ningún ataque. Qué significa para supply chain y qué hacer antes de la temporada alta.', b: 'Ver el especial' },
-    en: { k: 'Special · Live', h: 'Six days, five outages: from Microsoft to the NSA', s: 'Email, air traffic control, payments, airlines and the NSA network failed with no attack. What it means for supply chains and what to do before peak season.', b: 'See the special' },
-    pt: { k: 'Especial · Ao vivo', h: 'Seis dias, cinco quedas: da Microsoft à NSA', s: 'E-mail, controle aéreo, pagamentos, companhias aéreas e a rede da NSA falharam sem nenhum ataque. O que significa para supply chain e o que fazer antes da alta temporada.', b: 'Ver o especial' } };
+  var ESP = { url: BASE + 'especiales/paro-aereo-eeuu-2026/?utm_source=home&utm_medium=banner&utm_campaign=paroaereo2026', hasta: '2026-12-04T23:59:00-06:00',
+    es: { k: 'Última hora · Especial', h: 'Sigue el caos aéreo en EE. UU.', s: 'Ya se conoce la causa del paro del 13 de noviembre, y Delta y O\'Hare volvieron a fallar en plena semana de Thanksgiving. Qué significa para la carga y qué hacer hasta el Cyber Monday.', b: 'Ver el especial' },
+    en: { k: 'Breaking · Special', h: 'US air chaos continues', s: 'The cause of the November 13 shutdown is now known, and Delta and O\'Hare failed again in the middle of Thanksgiving week. What it means for cargo and what to do through Cyber Monday.', b: 'See the special' },
+    pt: { k: 'Última hora · Especial', h: 'O caos aéreo nos EUA continua', s: 'Já se conhece a causa da paralisação de 13 de novembro, e Delta e O\'Hare voltaram a falhar em plena semana de Thanksgiving. O que significa para a carga e o que fazer até a Cyber Monday.', b: 'Ver o especial' } };
   var espBox = null, espCur = null;
   function renderEsp() {
     var l = lang(); if (!espBox || l === espCur) return; espCur = l; var E = ESP[l];
