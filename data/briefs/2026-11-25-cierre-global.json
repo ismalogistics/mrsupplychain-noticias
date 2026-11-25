@@ -1,0 +1,107 @@
+{
+ "id": "2026-11-25-cierre-global",
+ "fecha": "2026-11-25",
+ "momento": "cierre",
+ "mercado": "global",
+ "hora": "15:16 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Wall Street se recupera antes del feriado: el Dow cierra con +0.33% y el S&P 500 con −0.25%; el Libro Beige ve más costos",
+  "esencial": [
+   "El S&P 500 cerró en 7,182.78 (−0.25%), el Nasdaq en 23,585.80 (−0.62%) y el Dow en 50,182.95 (+0.33%), después de caer más de 2% en la apertura.",
+   "El Libro Beige de la Fed reporta presiones de costos sostenidas en energía, transporte, seguros y aranceles, y en materias primas, metales y fletes; las empresas esperan más alzas.",
+   "Para supply chain: mañana no opera Wall Street y el viernes cierra a las 12:00 CDMX; prevé alzas de tus proveedores en diciembre y enero, y pide justificación por partida."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "Wall Street recuperó casi todo lo perdido: el S&P 500 cerró en 7,182.78 (−0.25%), el Nasdaq en 23,585.80 (−0.62%) y el Dow en 50,182.95 (+0.33%), tras caer más de 2% en la apertura. El índice de semiconductores cerró con −0.65%, desde −5.7% en la mañana: Nvidia −3.9% (149.30 dólares) tras llegar a −8%, Micron −4.6% y TSMC −2.0%. Deere subió 4.4%, Dell 0.6% y Anthropic 1.1% (82.79 dólares). El VIX cerró en 28.2. El Treasury a 10 años bajó 6 puntos base, a 4.85%. El Brent de enero subió 3.5% a 94.56 dólares y el WTI 2.6% a 84.16."
+   },
+   {
+    "t": "Por qué",
+    "x": "El PCE subyacente de octubre subió a 3.3% anual, arriba de lo esperado, y el mercado da 98% de probabilidad a un alza de la Fed en diciembre. El USTR propuso aranceles a 14 economías: Vietnam hasta 35%, India 25%, China y Singapur 20%, cinco economías del Sudeste Asiático y Bangladesh 18%, y la UE, Japón, Corea del Sur, Suiza y Taiwán 15%. En la tarde, el Libro Beige de la Fed reportó presiones de costos sostenidas en energía, transporte, salud, seguros y aranceles, y en materias primas, metales, fletes e importaciones especializadas; los costos de insumos subieron más que los precios de venta y las empresas esperan más alzas. S&P Global Ratings puso a Nvidia en revisión con perspectiva negativa por preocupaciones de gobierno corporativo. El petróleo subió por las tensiones en Medio Oriente, según The Wall Street Journal."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana jueves no operan las bolsas de EE. UU. por el Día de Acción de Gracias; el Banco de Corea decide su tasa. El viernes 27 la sesión cierra a las 12:00 CDMX y arranca la temporada de compras. Los comentarios sobre los aranceles se reciben hasta el 5 de enero y las audiencias empiezan el 25. La OPEP+ se reúne el domingo 29."
+   }
+  ],
+  "scm": "El Libro Beige confirma que fletes, energía, metales y seguros siguen presionando costos: prevé solicitudes de alza de tus proveedores en diciembre y enero, pide justificación por partida y costea cada origen con su arancel propuesto."
+ },
+ "en": {
+  "titular": "Wall Street recovers before the holiday: the Dow closes +0.33% and the S&P 500 −0.25%; the Beige Book sees higher costs",
+  "esencial": [
+   "The S&P 500 closed at 7,182.78 (−0.25%), the Nasdaq at 23,585.80 (−0.62%) and the Dow at 50,182.95 (+0.33%), after falling more than 2% at the open.",
+   "The Fed’s Beige Book reports sustained cost pressures in energy, transportation, insurance and tariffs, and in raw materials, metals and freight; firms expect more increases.",
+   "For supply chain: Wall Street is closed tomorrow and closes at 1:00 p.m. ET on Friday; expect supplier price increases in December and January, and ask for line-item justification."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "Wall Street recovered almost all of its losses: the S&P 500 closed at 7,182.78 (−0.25%), the Nasdaq at 23,585.80 (−0.62%) and the Dow at 50,182.95 (+0.33%), after falling more than 2% at the open. The semiconductor index closed −0.65%, from −5.7% in the morning: Nvidia −3.9% ($149.30) after reaching −8%, Micron −4.6% and TSMC −2.0%. Deere rose 4.4%, Dell 0.6% and Anthropic 1.1% ($82.79). The VIX closed at 28.2. The 10-year Treasury fell 6 basis points to 4.85%. January Brent rose 3.5% to $94.56 and WTI 2.6% to $84.16."
+   },
+   {
+    "t": "Why",
+    "x": "October core PCE rose to 3.3% annual, above expectations, and markets see a 98% chance of a December Fed hike. The USTR proposed tariffs on 14 economies: Vietnam up to 35%, India 25%, China and Singapore 20%, five Southeast Asian economies and Bangladesh 18%, and the EU, Japan, South Korea, Switzerland and Taiwan 15%. In the afternoon, the Fed’s Beige Book reported sustained cost pressures in energy, transportation, healthcare, insurance and tariffs, and in raw materials, metals, freight and specialized imports; input costs rose faster than selling prices and firms expect more increases. S&P Global Ratings placed Nvidia on CreditWatch negative over corporate governance concerns. Oil rose on Middle East tensions, according to The Wall Street Journal."
+   },
+   {
+    "t": "What to expect",
+    "x": "US markets are closed tomorrow, Thursday, for Thanksgiving; the Bank of Korea decides its rate. On Friday the 27th the session closes at 1:00 p.m. ET and the shopping season begins. Comments on the tariffs are due January 5 and hearings begin January 25. OPEC+ meets on Sunday the 29th."
+   }
+  ],
+  "scm": "The Beige Book confirms that freight, energy, metals and insurance keep pushing costs up: expect supplier price increase requests in December and January, ask for line-item justification and cost each origin with its proposed tariff."
+ },
+ "pt": {
+  "titular": "Wall Street se recupera antes do feriado: o Dow fecha com +0,33% e o S&P 500 com −0,25%; o Livro Bege vê mais custos",
+  "esencial": [
+   "O S&P 500 fechou em 7.182,78 (−0,25%), o Nasdaq em 23.585,80 (−0,62%) e o Dow em 50.182,95 (+0,33%), depois de cair mais de 2% na abertura.",
+   "O Livro Bege do Fed relata pressões de custos persistentes em energia, transporte, seguros e tarifas, e em matérias-primas, metais e fretes; as empresas esperam mais altas.",
+   "Para supply chain: amanhã Wall Street não opera e na sexta fecha às 12h00 (Cidade do México); preveja altas dos fornecedores em dezembro e janeiro e peça justificativa por item."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "Wall Street recuperou quase tudo o que perdeu: o S&P 500 fechou em 7.182,78 (−0,25%), o Nasdaq em 23.585,80 (−0,62%) e o Dow em 50.182,95 (+0,33%), depois de cair mais de 2% na abertura. O índice de semicondutores fechou com −0,65%, desde −5,7% de manhã: Nvidia −3,9% (149,30 dólares) depois de chegar a −8%, Micron −4,6% e TSMC −2,0%. A Deere subiu 4,4%, a Dell 0,6% e a Anthropic 1,1% (82,79 dólares). O VIX fechou em 28,2. O Treasury de 10 anos caiu 6 pontos-base, para 4,85%. O Brent de janeiro subiu 3,5% para 94,56 dólares e o WTI 2,6% para 84,16."
+   },
+   {
+    "t": "Por quê",
+    "x": "O núcleo do PCE de outubro subiu para 3,3% ao ano, acima do esperado, e o mercado dá 98% de probabilidade a uma alta do Fed em dezembro. O USTR propôs tarifas para 14 economias: Vietnã até 35%, Índia 25%, China e Singapura 20%, cinco economias do Sudeste Asiático e Bangladesh 18%, e UE, Japão, Coreia do Sul, Suíça e Taiwan 15%. À tarde, o Livro Bege do Fed relatou pressões de custos persistentes em energia, transporte, saúde, seguros e tarifas, e em matérias-primas, metais, fretes e importações especializadas; os custos dos insumos subiram mais que os preços de venda e as empresas esperam mais altas. A S&P Global Ratings colocou a Nvidia em revisão com perspectiva negativa por preocupações de governança corporativa. O petróleo subiu pelas tensões no Oriente Médio, segundo o The Wall Street Journal."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã, quinta, as bolsas dos EUA não operam pelo Dia de Ação de Graças; o Banco da Coreia decide sua taxa. Na sexta, dia 27, a sessão fecha às 12h00 (Cidade do México) e começa a temporada de compras. Os comentários sobre as tarifas vão até 5 de janeiro e as audiências começam em 25. A OPEP+ se reúne no domingo, dia 29."
+   }
+  ],
+  "scm": "O Livro Bege confirma que fretes, energia, metais e seguros seguem pressionando custos: preveja pedidos de alta dos fornecedores em dezembro e janeiro, peça justificativa por item e calcule o custo de cada origem com sua tarifa proposta."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: el Dow borra sus pérdidas y cierra arriba; el S&P 500 y el Nasdaq recuperan terreno (25 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+  },
+  {
+   "t": "Yahoo Finance: el Libro Beige de la Fed muestra presiones de precios más amplias (25 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+  },
+  {
+   "t": "Baker McKenzie: el USTR propone aranceles de la Sección 301 a 14 economías por exceso de capacidad estructural (25 nov 2026)",
+   "u": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"
+  },
+  {
+   "t": "MT Newswires: S&P Global Ratings pone a Nvidia en revisión con perspectiva negativa (25 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-put-creditwatch-negative-p-210636240.html"
+  },
+  {
+   "t": "The Wall Street Journal: el petróleo sube por las tensiones en Medio Oriente (25 nov 2026)",
+   "u": "https://finance.yahoo.com/m/6315b182-a0b7-3674-84d6-efcd68443f9c/oil-futures-pick-up-as-middle.html"
+  },
+  {
+   "t": "Oilprice.com: los inventarios de crudo de EE. UU. suben 1.1 millones de barriles (EIA, 25 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-inventories-continue-rise-us-154256636.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 25 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

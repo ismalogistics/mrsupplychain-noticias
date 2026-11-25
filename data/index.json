@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-25-cierre-global",
+   "fecha": "2026-11-25",
+   "momento": "cierre",
+   "mercado": "global",
+   "titular_es": "Wall Street se recupera antes del feriado: el Dow cierra con +0.33% y el S&P 500 con −0.25%; el Libro Beige ve más costos",
+   "titular_en": "Wall Street recovers before the holiday: the Dow closes +0.33% and the S&P 500 −0.25%; the Beige Book sees higher costs",
+   "titular_pt": "Wall Street se recupera antes do feriado: o Dow fecha com +0,33% e o S&P 500 com −0,25%; o Livro Bege vê mais custos"
+  },
+  {
+   "id": "2026-11-25-cierre-latam",
+   "fecha": "2026-11-25",
+   "momento": "cierre",
+   "mercado": "latam",
+   "titular_es": "La región cierra al alza fuera de la lista de aranceles: el Ibovespa sube 1.7% y el real y el peso colombiano se fortalecen",
+   "titular_en": "The region closes higher off the tariff list: the Ibovespa rises 1.7% and the real and Colombian peso strengthen",
+   "titular_pt": "A região fecha em alta fora da lista de tarifas: o Ibovespa sobe 1,7% e o real e o peso colombiano se fortalecem"
+  },
+  {
+   "id": "2026-11-25-cierre-mexico",
+   "fecha": "2026-11-25",
+   "momento": "cierre",
+   "mercado": "mexico",
+   "titular_es": "El IPC sube 3% y el peso cierra en 19.58 después de que México quedó fuera, por ahora, de los aranceles a 14 economías",
+   "titular_en": "The IPC rises 3% and the peso closes at 19.58 after Mexico was left out, for now, of the tariffs on 14 economies",
+   "titular_pt": "O IPC sobe 3% e o peso fecha em 19,58 depois que o México ficou fora, por enquanto, das tarifas para 14 economias"
+  },
+  {
    "id": "2026-11-25-mediodia-global",
    "fecha": "2026-11-25",
    "momento": "mediodia",
@@ -782,33 +809,6 @@
    "titular_es": "La BMV no opera por el Día de la Revolución; el peso se debilita a 18.66 con la venta en tecnología",
    "titular_en": "The BMV is closed for Revolution Day; the peso weakens to 18.66 on the tech sell-off",
    "titular_pt": "A BMV não opera pelo Dia da Revolução; o peso se enfraquece para 18,66 com a venda em tecnologia"
-  },
-  {
-   "id": "2026-11-16-premercado-global",
-   "fecha": "2026-11-16",
-   "momento": "premercado",
-   "mercado": "global",
-   "titular_es": "Los chips vuelven a caer antes de Nvidia: los futuros del Nasdaq bajan 1% y el KOSPI se hunde 3.6%",
-   "titular_en": "Chips fall again ahead of Nvidia: Nasdaq futures drop 1% and the KOSPI sinks 3.6%",
-   "titular_pt": "Os chips voltam a cair antes da Nvidia: os futuros do Nasdaq caem 1% e o KOSPI afunda 3,6%"
-  },
-  {
-   "id": "2026-11-16-premercado-latam",
-   "fecha": "2026-11-16",
-   "momento": "premercado",
-   "mercado": "latam",
-   "titular_es": "La región arranca con los chips y el cobre a la baja; SQM reporta el martes",
-   "titular_en": "The region starts with chips and copper lower; SQM reports Tuesday",
-   "titular_pt": "A região começa com chips e cobre em queda; a SQM divulga resultados na terça"
-  },
-  {
-   "id": "2026-11-16-premercado-mexico",
-   "fecha": "2026-11-16",
-   "momento": "premercado",
-   "mercado": "mexico",
-   "titular_es": "Hoy no opera la BMV por el Día de la Revolución; el peso amanece en 18.57",
-   "titular_en": "The BMV is closed today for Revolution Day; the peso starts at 18.57",
-   "titular_pt": "Hoje a BMV não opera pelo Dia da Revolução; o peso amanhece a 18,57"
   }
  ]
 }

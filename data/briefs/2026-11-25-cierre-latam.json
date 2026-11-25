@@ -1,0 +1,111 @@
+{
+ "id": "2026-11-25-cierre-latam",
+ "fecha": "2026-11-25",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "15:16 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "La región cierra al alza fuera de la lista de aranceles: el Ibovespa sube 1.7% y el real y el peso colombiano se fortalecen",
+  "esencial": [
+   "El Ibovespa cerró en 166,880.12 (+1.70%) y el S&P/TSX de Canadá en 34,179.99 (+0.64%).",
+   "Ninguna de las 14 economías con aranceles propuestos es latinoamericana; aparte, EE. UU. propuso a Brasil más arancel al azúcar y 10% a los aviones, según AP.",
+   "Para supply chain: el campo Bacalhau de Brasil (220,000 barriles diarios) suspende su producción de cinco a ocho semanas; el Brent sube 3.5%."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El Ibovespa cerró en 166,880.12 (+1.70%) y el S&P/TSX de Canadá en 34,179.99 (+0.64%), ambos arriba después de abrir con dudas. Los metales recuperaron terreno: el cobre terminó en 5.48 dólares por libra (+0.6%) y la plata en 41.34 (+0.2%)."
+   },
+   {
+    "t": "Monedas",
+    "x": "A las 15:16 CDMX el dólar bajaba a 5.82 reales (−1.18%) y 3,539 pesos colombianos (−1.76%), y subía a 1,038 pesos chilenos (+0.51%)."
+   },
+   {
+    "t": "Por qué",
+    "x": "El USTR propuso aranceles a 14 economías de Asia y Europa; ninguna es latinoamericana, y México sigue sin determinación. Aparte, AP reporta que EE. UU. propuso a Brasil más arancel al azúcar y uno nuevo de 10% a los aviones, que pegaría a Embraer. En Brasil, el campo Bacalhau, de 220,000 barriles diarios, suspendió su producción de cinco a ocho semanas por un incidente en su plataforma flotante, según Galp y Equinor; Petrobras aprobó un plan de inversión de 122,000 millones de dólares para 2027 a 2031."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana jueves los mercados de la región operan, aunque Wall Street cierra. El viernes 27 el INEGI publica la balanza comercial de México. La OPEP+ se reúne el domingo 29."
+   }
+  ],
+  "scm": "Si compras en Asia, evalúa proveedores en la región, que quedó fuera de la lista de aranceles; si compras aviones, refacciones aeronáuticas o azúcar de Brasil, revisa contratos antes de enero. Con el real y el peso colombiano más fuertes, cubre hoy tus pagos en esas monedas."
+ },
+ "en": {
+  "titular": "The region closes higher off the tariff list: the Ibovespa rises 1.7% and the real and Colombian peso strengthen",
+  "esencial": [
+   "The Ibovespa closed at 166,880.12 (+1.70%) and Canada's S&P/TSX at 34,179.99 (+0.64%).",
+   "None of the 14 economies with proposed tariffs is in Latin America; separately, the US proposed higher sugar duties and 10% on aircraft for Brazil, according to AP.",
+   "For supply chain: Brazil's Bacalhau field (220,000 barrels a day) halts production for five to eight weeks; Brent rises 3.5%."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The Ibovespa closed at 166,880.12 (+1.70%) and Canada's S&P/TSX at 34,179.99 (+0.64%), both higher after a hesitant open. Metals regained ground: copper ended at $5.48 per pound (+0.6%) and silver at $41.34 (+0.2%)."
+   },
+   {
+    "t": "Currencies",
+    "x": "At 4:16 p.m. ET the dollar fell to 5.82 reais (−1.18%) and 3,539 Colombian pesos (−1.76%), and rose to 1,038 Chilean pesos (+0.51%)."
+   },
+   {
+    "t": "Why",
+    "x": "The USTR proposed tariffs on 14 economies in Asia and Europe; none is in Latin America, and Mexico still has no determination. Separately, AP reports the US proposed higher sugar duties and a new 10% tariff on aircraft for Brazil, which would hit Embraer. In Brazil, the 220,000-barrel-a-day Bacalhau field halted production for five to eight weeks after an incident on its floating platform, according to Galp and Equinor; Petrobras approved a $122 billion investment plan for 2027 to 2031."
+   },
+   {
+    "t": "What to expect",
+    "x": "Tomorrow, Thursday, the region's markets are open although Wall Street is closed. On Friday the 27th INEGI publishes Mexico's trade balance. OPEC+ meets on Sunday the 29th."
+   }
+  ],
+  "scm": "If you buy in Asia, evaluate suppliers in the region, which was left off the tariff list; if you buy aircraft, aerospace parts or sugar from Brazil, review contracts before January. With the real and Colombian peso stronger, cover your payments in those currencies today."
+ },
+ "pt": {
+  "titular": "A região fecha em alta fora da lista de tarifas: o Ibovespa sobe 1,7% e o real e o peso colombiano se fortalecem",
+  "esencial": [
+   "O Ibovespa fechou em 166.880,12 (+1,70%) e o S&P/TSX do Canadá em 34.179,99 (+0,64%).",
+   "Nenhuma das 14 economias com tarifas propostas é latino-americana; à parte, os EUA propuseram ao Brasil mais tarifa sobre o açúcar e 10% sobre aviões, segundo a AP.",
+   "Para supply chain: o campo de Bacalhau, no Brasil (220 mil barris por dia), suspende a produção por cinco a oito semanas; o Brent sobe 3,5%."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O Ibovespa fechou em 166.880,12 (+1,70%) e o S&P/TSX do Canadá em 34.179,99 (+0,64%), ambos em alta depois de abrir com dúvidas. Os metais recuperaram terreno: o cobre terminou a 5,48 dólares por libra (+0,6%) e a prata a 41,34 (+0,2%)."
+   },
+   {
+    "t": "Moedas",
+    "x": "Às 15h16 (Cidade do México) o dólar caía para R$ 5,82 (−1,18%) e 3.539 pesos colombianos (−1,76%), e subia para 1.038 pesos chilenos (+0,51%)."
+   },
+   {
+    "t": "Por quê",
+    "x": "O USTR propôs tarifas para 14 economias da Ásia e da Europa; nenhuma é latino-americana, e o México segue sem determinação. À parte, a AP informa que os EUA propuseram ao Brasil mais tarifa sobre o açúcar e uma nova de 10% sobre aviões, que atingiria a Embraer. No Brasil, o campo de Bacalhau, de 220 mil barris por dia, suspendeu a produção por cinco a oito semanas por um incidente em sua plataforma flutuante, segundo Galp e Equinor; a Petrobras aprovou um plano de investimento de 122 bilhões de dólares para 2027 a 2031."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã, quinta, os mercados da região operam, embora Wall Street feche. Na sexta, dia 27, o INEGI divulga a balança comercial do México. A OPEP+ se reúne no domingo, dia 29."
+   }
+  ],
+  "scm": "Se você compra na Ásia, avalie fornecedores na região, que ficou fora da lista de tarifas; se compra aviões, peças aeronáuticas ou açúcar do Brasil, revise contratos antes de janeiro. Com o real e o peso colombiano mais fortes, cubra hoje seus pagamentos nessas moedas."
+ },
+ "fuentes": [
+  {
+   "t": "Baker McKenzie: el USTR propone aranceles de la Sección 301 a 14 economías por exceso de capacidad estructural (25 nov 2026)",
+   "u": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"
+  },
+  {
+   "t": "AP vía CP24: EE. UU. propone subir aranceles a China, la UE, Brasil y otros por producción subsidiada (25 nov 2026)",
+   "u": "https://www.cp24.com/news/world/2026/11/25/us-plans-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-production/"
+  },
+  {
+   "t": "Oilprice.com: el campo Bacalhau de Brasil, de 220,000 barriles diarios, suspende su producción (25 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/brazils-220-000-bpd-bacalhau-205200049.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 25 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

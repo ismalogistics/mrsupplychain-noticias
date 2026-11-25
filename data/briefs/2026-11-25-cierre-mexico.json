@@ -1,0 +1,99 @@
+{
+ "id": "2026-11-25-cierre-mexico",
+ "fecha": "2026-11-25",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "15:16 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El IPC sube 3% y el peso cierra en 19.58 después de que México quedó fuera, por ahora, de los aranceles a 14 economías",
+  "esencial": [
+   "El S&P/BMV IPC terminó en 71,374.41 puntos (+2.99%) y el peso cotizaba en 19.58 por dólar a las 15:16 CDMX (+0.87% el dólar), desde 19.73 en la apertura.",
+   "El USTR no fijó tasa para México: su investigación por exceso de capacidad sigue pendiente, sin plazo, según Expansión.",
+   "Para supply chain: mañana rige el FIX de 19.3668, 20 centavos arriba del de hoy; la BMV opera aunque Wall Street cierra."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El S&P/BMV IPC subió 2.99% a 71,374.41 puntos, mientras el S&P 500 bajaba 0.25%. El peso llegó a 19.77 por dólar en la mañana, su nivel más débil desde abril de 2025, según El Financiero, y se recuperó a 19.58 a las 15:16 CDMX (+0.87% el dólar). Hoy rigió para pagos el FIX de 19.1648; mañana rige el de 19.3668."
+   },
+   {
+    "t": "Por qué",
+    "x": "El USTR propuso aranceles a 14 economías de Asia y Europa y no fijó tasa para México: el representante comercial Jamieson Greer dijo que aún no hay determinación para México ni para Noruega y no dio plazo, según Expansión. En las audiencias, la Secretaría de Economía dijo que la manufactura mexicana usa alrededor de 80% de su capacidad instalada. En la mañana, el peso cayó por el PCE de EE. UU. más alto de lo esperado."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana jueves la BMV opera aunque Wall Street está cerrado. El viernes 27 el INEGI publica la balanza comercial de octubre. Los comentarios sobre los aranceles se reciben hasta el 5 de enero y las audiencias empiezan el 25."
+   }
+  ],
+  "scm": "Los pagos en dólares de mañana se liquidan con el FIX de 19.3668. Si compras insumos en Asia o Europa, compara su costo con el arancel propuesto frente a proveedores en México, que por ahora no tiene arancel nuevo; prepara también un escenario por si la investigación sobre México termina en arancel."
+ },
+ "en": {
+  "titular": "The IPC rises 3% and the peso closes at 19.58 after Mexico was left out, for now, of the tariffs on 14 economies",
+  "esencial": [
+   "The S&P/BMV IPC ended at 71,374.41 points (+2.99%) and the peso traded at 19.58 per dollar at 3:16 p.m. Mexico City time (dollar +0.87%), from 19.73 at the open.",
+   "The USTR set no rate for Mexico: its overcapacity investigation is still pending, with no deadline, according to Expansión.",
+   "For supply chain: tomorrow the 19.3668 FIX applies, 20 cents above today’s; the BMV is open although Wall Street is closed."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The S&P/BMV IPC rose 2.99% to 71,374.41 points, while the S&P 500 fell 0.25%. The peso reached 19.77 per dollar in the morning, its weakest since April 2025, according to El Financiero, and recovered to 19.58 at 3:16 p.m. (dollar +0.87%). Today the 19.1648 FIX applied to payments; tomorrow the 19.3668 one applies."
+   },
+   {
+    "t": "Why",
+    "x": "The USTR proposed tariffs on 14 economies in Asia and Europe and set no rate for Mexico: Trade Representative Jamieson Greer said there is still no determination for Mexico or Norway and gave no deadline, according to Expansión. At the hearings, the Ministry of Economy said Mexican manufacturing uses about 80% of its installed capacity. In the morning, the peso fell on hotter-than-expected US PCE."
+   },
+   {
+    "t": "What to expect",
+    "x": "Tomorrow, Thursday, the BMV is open although Wall Street is closed. On Friday the 27th INEGI publishes the October trade balance. Comments on the tariffs are due January 5 and hearings begin January 25."
+   }
+  ],
+  "scm": "Tomorrow’s dollar payments settle at the 19.3668 FIX. If you buy inputs in Asia or Europe, compare their cost with the proposed tariff against suppliers in Mexico, which for now has no new tariff; also prepare a scenario in case the investigation on Mexico ends in a tariff."
+ },
+ "pt": {
+  "titular": "O IPC sobe 3% e o peso fecha em 19,58 depois que o México ficou fora, por enquanto, das tarifas para 14 economias",
+  "esencial": [
+   "O S&P/BMV IPC terminou em 71.374,41 pontos (+2,99%) e o peso era cotado a 19,58 por dólar às 15h16 (Cidade do México) (dólar +0,87%), desde 19,73 na abertura.",
+   "O USTR não fixou alíquota para o México: a investigação por excesso de capacidade segue pendente, sem prazo, segundo a Expansión.",
+   "Para supply chain: amanhã vale o FIX de 19,3668, 20 centavos acima do de hoje; a BMV opera embora Wall Street feche."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O S&P/BMV IPC subiu 2,99% para 71.374,41 pontos, enquanto o S&P 500 caía 0,25%. O peso chegou a 19,77 por dólar de manhã, seu nível mais fraco desde abril de 2025, segundo o El Financiero, e se recuperou para 19,58 às 15h16 (dólar +0,87%). Hoje valeu para pagamentos o FIX de 19,1648; amanhã vale o de 19,3668."
+   },
+   {
+    "t": "Por quê",
+    "x": "O USTR propôs tarifas para 14 economias da Ásia e da Europa e não fixou alíquota para o México: o representante comercial Jamieson Greer disse que ainda não há determinação para México nem Noruega e não deu prazo, segundo a Expansión. Nas audiências, a Secretaria de Economia disse que a manufatura mexicana usa cerca de 80% da capacidade instalada. De manhã, o peso caiu pelo PCE dos EUA acima do esperado."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã, quinta, a BMV opera embora Wall Street esteja fechada. Na sexta, dia 27, o INEGI divulga a balança comercial de outubro. Os comentários sobre as tarifas vão até 5 de janeiro e as audiências começam em 25."
+   }
+  ],
+  "scm": "Os pagamentos em dólares de amanhã se liquidam com o FIX de 19,3668. Se você compra insumos na Ásia ou na Europa, compare o custo com a tarifa proposta frente a fornecedores no México, que por enquanto não tem tarifa nova; prepare também um cenário caso a investigação sobre o México termine em tarifa."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 25 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Expansión: México libra por ahora los aranceles que EE. UU. propone a 14 economías (25 nov 2026)",
+   "u": "https://expansion.mx/economia/2026/11/25/eu-propone-aranceles-14-economias-mexico-queda-fuera"
+  },
+  {
+   "t": "El Financiero: el peso alcanza su peor nivel en 19 meses (25 nov 2026)",
+   "u": "https://www.elfinanciero.com.mx/mercados/2026/11/25/peso-dolar-tipo-de-cambio-hoy-25-de-noviembre-de-2026/"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (24 nov 2026: 19.3668)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 25 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
