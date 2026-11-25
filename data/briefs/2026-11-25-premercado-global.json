@@ -1,0 +1,115 @@
+{
+ "id": "2026-11-25-premercado-global",
+ "fecha": "2026-11-25",
+ "momento": "premercado",
+ "mercado": "global",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Aranceles a la vista y más venta en IA: los futuros del Nasdaq bajan 2.5% antes del PCE; Corea se desploma 6.2%",
+  "esencial": [
+   "A las 4:58 CDMX los futuros del Nasdaq 100 bajaban 2.53%, los del S&P 500 1.51% y los del Dow 0.77%; en preapertura Nvidia caía 5.3% y Dell 7.4% pese a resultados récord.",
+   "AP y el New York Post reportan que EE. UU. prepara aranceles contra China, la UE y otras 14 economías por subsidios industriales; según el Post, la lista incluye a México. Las tasas y la fecha no están confirmadas.",
+   "Para supply chain: hoy salen a las 7:30 CDMX el PCE y el PIB de EE. UU. y mañana no opera Wall Street; revisa tu exposición a nuevos aranceles y deja hoy cerrados los embarques a EE. UU."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "Ayer el Nasdaq cerró con −1.48% y el índice de semiconductores con −7.9%, aunque el Dow volvió arriba de 50,000. Después del cierre, Dell reportó ingresos por 54,900 millones de dólares, contra 49,330 millones esperados, elevó su guía del año a 202,000 millones y mostró una cartera de pedidos de IA de 132,300 millones, pero su acción caía en preapertura, según Yahoo Finance. AP, Bloomberg y The Wall Street Journal reportaron que EE. UU. prepara aranceles contra China, la UE y otras 14 economías tras una investigación por subsidios industriales; según el New York Post, la lista incluye a México, Japón y Corea del Sur, con tasas que no están definidas. En Washington crece la presión para restringir el acceso de China a chips avanzados tras el regreso de Jensen Huang, según Reuters."
+   },
+   {
+    "t": "Asia, Europa y futuros",
+    "x": "Asia cerró a la baja: KOSPI −6.16% (4,697.51), Nikkei −2.78% (57,011.62), Hang Seng −1.87% y Shanghái −1.77%. A las 4:53 CDMX Europa estaba mixta: Euro Stoxx 50 −0.01%, DAX +0.17%, CAC 40 +1.02% y FTSE 100 +0.50%. A las 4:58 CDMX los futuros del Nasdaq 100 bajaban 2.53%, los del S&P 500 1.51% y los del Dow 0.77%; el VIX subía a 29.4. En preapertura, Nvidia caía 5.3% (147.20 dólares), Micron 5.9%, AMD 5.7% y Dell 7.4%, según Investing.com. El WTI bajaba 0.9% a 81.35 dólares y el Brent de enero 0.6% a 90.89; el oro bajaba 0.9%, la plata 1.8% y el cobre 1.0% a 5.40 dólares por libra."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "A las 7:30 CDMX salen en EE. UU. el índice de precios PCE de octubre (se espera que la medida subyacente suba a 3.2% anual), el PIB del tercer trimestre, los pedidos de bienes duraderos y las solicitudes de subsidio por desempleo. A las 13:00 CDMX la Fed publica el Libro Beige. Deere reporta antes de la apertura. El mercado da 98% de probabilidad a un alza de la Fed en diciembre. Mañana jueves no operan las bolsas de EE. UU. y el viernes la sesión es corta."
+   }
+  ],
+  "scm": "Revisa hoy qué partes de tu cadena dependen de China, la UE, Japón o Corea, y si exportas a EE. UU. desde México, prepara escenarios de arancel: las tasas aún no se conocen. Deja hoy cerrados los embarques y recolecciones a EE. UU., que mañana es feriado."
+ },
+ "en": {
+  "titular": "Tariffs on the horizon and more AI selling: Nasdaq futures fall 2.5% ahead of PCE; Korea plunges 6.2%",
+  "esencial": [
+   "At 5:58 a.m. ET Nasdaq 100 futures were down 2.53%, S&P 500 futures 1.51% and Dow futures 0.77%; in premarket trading Nvidia fell 5.3% and Dell 7.4% despite record results.",
+   "AP and the New York Post report the US is preparing tariffs on China, the EU and 14 other economies over industrial subsidies; according to the Post, the list includes Mexico. Rates and timing are not confirmed.",
+   "For supply chain: US PCE and GDP come out at 8:30 a.m. ET today and Wall Street is closed tomorrow; review your exposure to new tariffs and close out US shipments today."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "Yesterday the Nasdaq closed −1.48% and the semiconductor index −7.9%, although the Dow returned above 50,000. After the close, Dell reported revenue of $54.9 billion versus $49.33 billion expected, raised its full-year guidance to $202 billion and showed an AI backlog of $132.3 billion, but its stock fell in premarket trading, according to Yahoo Finance. AP, Bloomberg and The Wall Street Journal reported the US is preparing tariffs on China, the EU and 14 other economies after an investigation into industrial subsidies; according to the New York Post, the list includes Mexico, Japan and South Korea, with rates not yet set. In Washington, pressure is growing to restrict China’s access to advanced chips after Jensen Huang’s return, according to Reuters."
+   },
+   {
+    "t": "Asia, Europe and futures",
+    "x": "Asia closed lower: KOSPI −6.16% (4,697.51), Nikkei −2.78% (57,011.62), Hang Seng −1.87% and Shanghai −1.77%. At 5:53 a.m. ET Europe was mixed: Euro Stoxx 50 −0.01%, DAX +0.17%, CAC 40 +1.02% and FTSE 100 +0.50%. At 5:58 a.m. ET Nasdaq 100 futures were down 2.53%, S&P 500 futures 1.51% and Dow futures 0.77%; the VIX rose to 29.4. In premarket trading, Nvidia fell 5.3% ($147.20), Micron 5.9%, AMD 5.7% and Dell 7.4%, according to Investing.com. WTI fell 0.9% to $81.35 and January Brent 0.6% to $90.89; gold fell 0.9%, silver 1.8% and copper 1.0% to $5.40 per pound."
+   },
+   {
+    "t": "What to expect today",
+    "x": "At 8:30 a.m. ET the US releases October PCE prices (core is expected to rise to 3.2% annual), third-quarter GDP, durable goods orders and jobless claims. At 2:00 p.m. ET the Fed publishes its Beige Book. Deere reports before the open. Markets see a 98% chance of a December Fed hike. US markets are closed tomorrow, Thursday, and Friday is a shortened session."
+   }
+  ],
+  "scm": "Review today which parts of your supply chain depend on China, the EU, Japan or Korea, and if you export to the US from Mexico, prepare tariff scenarios: rates are not yet known. Close out US shipments and pickups today, since tomorrow is a holiday."
+ },
+ "pt": {
+  "titular": "Tarifas à vista e mais venda em IA: os futuros do Nasdaq caem 2,5% antes do PCE; a Coreia despenca 6,2%",
+  "esencial": [
+   "Às 4h58 (Cidade do México) os futuros do Nasdaq 100 caíam 2,53%, os do S&P 500 1,51% e os do Dow 0,77%; no pré-mercado a Nvidia caía 5,3% e a Dell 7,4% apesar de resultados recorde.",
+   "A AP e o New York Post informam que os EUA preparam tarifas contra China, UE e outras 14 economias por subsídios industriais; segundo o Post, a lista inclui o México. As alíquotas e a data não estão confirmadas.",
+   "Para supply chain: hoje às 7h30 (Cidade do México) saem o PCE e o PIB dos EUA e amanhã Wall Street não opera; revise sua exposição a novas tarifas e deixe hoje fechados os embarques para os EUA."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Ontem o Nasdaq fechou com −1,48% e o índice de semicondutores com −7,9%, embora o Dow tenha voltado acima de 50.000. Depois do fechamento, a Dell reportou receita de 54,9 bilhões de dólares, contra 49,33 bilhões esperados, elevou a projeção do ano para 202 bilhões e mostrou carteira de pedidos de IA de 132,3 bilhões, mas a ação caía no pré-mercado, segundo o Yahoo Finance. AP, Bloomberg e The Wall Street Journal informaram que os EUA preparam tarifas contra China, UE e outras 14 economias depois de uma investigação sobre subsídios industriais; segundo o New York Post, a lista inclui México, Japão e Coreia do Sul, com alíquotas ainda não definidas. Em Washington cresce a pressão para restringir o acesso da China a chips avançados depois do retorno de Jensen Huang, segundo a Reuters."
+   },
+   {
+    "t": "Ásia, Europa e futuros",
+    "x": "A Ásia fechou em queda: KOSPI −6,16% (4.697,51), Nikkei −2,78% (57.011,62), Hang Seng −1,87% e Xangai −1,77%. Às 4h53 (Cidade do México) a Europa estava mista: Euro Stoxx 50 −0,01%, DAX +0,17%, CAC 40 +1,02% e FTSE 100 +0,50%. Às 4h58 os futuros do Nasdaq 100 caíam 2,53%, os do S&P 500 1,51% e os do Dow 0,77%; o VIX subia para 29,4. No pré-mercado, a Nvidia caía 5,3% (147,20 dólares), a Micron 5,9%, a AMD 5,7% e a Dell 7,4%, segundo a Investing.com. O WTI caía 0,9% para 81,35 dólares e o Brent de janeiro 0,6% para 90,89; o ouro caía 0,9%, a prata 1,8% e o cobre 1,0% para 5,40 dólares por libra."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Às 7h30 (Cidade do México) saem nos EUA o índice de preços PCE de outubro (espera-se que o núcleo suba para 3,2% anual), o PIB do terceiro trimestre, os pedidos de bens duráveis e os pedidos de seguro-desemprego. Às 13h00 o Fed publica o Livro Bege. A Deere divulga resultados antes da abertura. O mercado dá 98% de probabilidade a uma alta do Fed em dezembro. Amanhã, quinta, as bolsas dos EUA não operam e na sexta a sessão é reduzida."
+   }
+  ],
+  "scm": "Revise hoje quais partes da sua cadeia dependem de China, UE, Japão ou Coreia e, se você exporta do México para os EUA, prepare cenários de tarifa: as alíquotas ainda não são conhecidas. Deixe hoje fechados os embarques e coletas para os EUA, porque amanhã é feriado."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: los futuros del Dow, S&P 500 y Nasdaq bajan antes del dato de inflación (25 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+  },
+  {
+   "t": "Investing.com: las acciones de chips amplían pérdidas en preapertura por dudas sobre el gasto en IA (25 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/ai/articles/u-chip-stocks-extend-losses-104903644.html"
+  },
+  {
+   "t": "Yahoo Finance: la acción de Dell se hunde pese a resultados muy superiores a lo esperado (25 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/article/dell-stock-tanks-after-blowout-earnings-wall-street-just-isnt-impressed-103036530.html"
+  },
+  {
+   "t": "AP: EE. UU. se prepara para imponer aranceles a China, la UE y otras 14 economías por producción subsidiada (24 nov 2026)",
+   "u": "https://www.news4jax.com/news/politics/2026/11/25/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say/"
+  },
+  {
+   "t": "New York Post vía Yahoo: Trump prepara aranceles a China, la UE, México y Japón (24 nov 2026)",
+   "u": "https://www.yahoo.com/news/politics/articles/trump-eyes-tariff-blitz-china-212440320.html"
+  },
+  {
+   "t": "Reuters: el regreso de Jensen Huang a Nvidia aviva la pelea en Washington por el acceso de China a los chips (25 nov 2026)",
+   "u": "https://finance.yahoo.com/technology/ai/articles/analysis-jensen-huangs-return-nvidia-110323392.html"
+  },
+  {
+   "t": "InvestorsHub: el petróleo amplía su caída por mayor oferta pese a las tensiones en Ormuz (25 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-prices-extend-declines-rising-095430611.html"
+  },
+  {
+   "t": "Newsquawk: calendario económico semanal, 23 a 27 de noviembre de 2026",
+   "u": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---23rd-27th-november-2026"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (25 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

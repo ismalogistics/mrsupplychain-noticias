@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-25-premercado-global",
+   "fecha": "2026-11-25",
+   "momento": "premercado",
+   "mercado": "global",
+   "titular_es": "Aranceles a la vista y más venta en IA: los futuros del Nasdaq bajan 2.5% antes del PCE; Corea se desploma 6.2%",
+   "titular_en": "Tariffs on the horizon and more AI selling: Nasdaq futures fall 2.5% ahead of PCE; Korea plunges 6.2%",
+   "titular_pt": "Tarifas à vista e mais venda em IA: os futuros do Nasdaq caem 2,5% antes do PCE; a Coreia despenca 6,2%"
+  },
+  {
+   "id": "2026-11-25-premercado-latam",
+   "fecha": "2026-11-25",
+   "momento": "premercado",
+   "mercado": "latam",
+   "titular_es": "La región amanece con la amenaza de aranceles; el real se fortalece a 5.89 y el peso chileno sigue débil",
+   "titular_en": "The region opens under the tariff threat; the real firms to 5.89 and the Chilean peso stays weak",
+   "titular_pt": "A região amanhece com a ameaça de tarifas; o real se fortalece para 5,89 e o peso chileno segue fraco"
+  },
+  {
+   "id": "2026-11-25-premercado-mexico",
+   "fecha": "2026-11-25",
+   "momento": "premercado",
+   "mercado": "mexico",
+   "titular_es": "El peso cae a 19.63 por los reportes de aranceles que incluirían a México; el FIX de ayer fue de 19.3668",
+   "titular_en": "The peso falls to 19.63 on reports of tariffs that would include Mexico; yesterday’s FIX was 19.3668",
+   "titular_pt": "O peso cai para 19,63 por notícias de tarifas que incluiriam o México; o FIX de ontem foi de 19,3668"
+  },
+  {
    "id": "2026-11-24-cierre-global",
    "fecha": "2026-11-24",
    "momento": "cierre",
@@ -782,33 +809,6 @@
    "titular_es": "El IPC baja 0.48% con los chips y el peso se mantiene en 18.56",
    "titular_en": "The IPC falls 0.48% with chips and the peso holds at 18.56",
    "titular_pt": "O IPC cai 0,48% com os chips e o peso se mantém a 18,56"
-  },
-  {
-   "id": "2026-11-13-apertura-global",
-   "fecha": "2026-11-13",
-   "momento": "apertura",
-   "mercado": "global",
-   "titular_es": "El PPI sube 6.5% anual, su mayor alza en cuatro años; el Treasury llega a 5.16% y el Nasdaq cae 1%",
-   "titular_en": "PPI rises 6.5% year over year, its biggest jump in four years; the Treasury hits 5.16% and the Nasdaq falls 1%",
-   "titular_pt": "O PPI sobe 6,5% no ano, a maior alta em quatro anos; o Treasury chega a 5,16% e o Nasdaq cai 1%"
-  },
-  {
-   "id": "2026-11-13-apertura-latam",
-   "fecha": "2026-11-13",
-   "momento": "apertura",
-   "mercado": "latam",
-   "titular_es": "El Ibovespa abre con +0.6% y Argentina sube 0.8%; el peso chileno llega a 999",
-   "titular_en": "The Ibovespa opens +0.6% and Argentina rises 0.8%; the Chilean peso reaches 999",
-   "titular_pt": "O Ibovespa abre com +0,6% e a Argentina sobe 0,8%; o peso chileno chega a 999"
-  },
-  {
-   "id": "2026-11-13-apertura-mexico",
-   "fecha": "2026-11-13",
-   "momento": "apertura",
-   "mercado": "mexico",
-   "titular_es": "El peso se fortalece a 18.56 y el IPC baja 0.25%; el FIX del jueves fue de 18.6188",
-   "titular_en": "The peso strengthens to 18.56 and the IPC falls 0.25%; Thursday's FIX was 18.6188",
-   "titular_pt": "O peso se fortalece para 18,56 e o IPC cai 0,25%; o FIX de quinta foi de 18,6188"
   }
  ]
 }

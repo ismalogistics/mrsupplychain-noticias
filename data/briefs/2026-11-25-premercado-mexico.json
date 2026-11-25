@@ -1,0 +1,95 @@
+{
+ "id": "2026-11-25-premercado-mexico",
+ "fecha": "2026-11-25",
+ "momento": "premercado",
+ "mercado": "mexico",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El peso cae a 19.63 por los reportes de aranceles que incluirían a México; el FIX de ayer fue de 19.3668",
+  "esencial": [
+   "A las 5:08 CDMX el peso cotizaba en 19.63 por dólar (+1.16% el dólar), después de cerrar ayer en 19.41, tras reportes de que EE. UU. prepara aranceles que incluirían a México, según el New York Post.",
+   "Hoy rige para pagos el FIX de 19.1648; el determinado ayer fue de 19.3668, según Banxico, y rige desde mañana jueves.",
+   "Para supply chain: el FIX sube 20 centavos mañana; liquida hoy los pagos en dólares que puedas y prepara escenarios de costo con el peso arriba de 19.5."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "Ayer el S&P/BMV IPC cerró en 69,306.81 puntos (−0.07%) y el peso en 19.41. Banxico determinó ayer un FIX de 19.3668 (+1.05%), que se publica hoy en el DOF y rige para pagos desde mañana jueves; hoy rige el de 19.1648. En la noche, el peso se debilitó a 19.63 por dólar (+1.16% el dólar a las 5:08 CDMX), tras reportes de AP, Bloomberg y The Wall Street Journal de que EE. UU. prepara aranceles contra 16 economías por subsidios industriales; según el New York Post, la lista incluye a México."
+   },
+   {
+    "t": "Contexto",
+    "x": "Las tasas y la fecha de los aranceles no están confirmadas; según el New York Post, se sumarían a los aranceles de 10% a 12.5% impuestos en julio y excluirían petróleo, gas y fertilizantes. El índice del dólar sube 0.20% y el mercado da 98% de probabilidad a un alza de la Fed en diciembre."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "A las 7:30 CDMX salen el PCE y el PIB de EE. UU., que moverán al peso. Mañana jueves la BMV opera aunque Wall Street cierra, y el viernes 27 el INEGI publica la balanza comercial de octubre."
+   }
+  ],
+  "scm": "Liquida hoy los pagos en dólares con el FIX de 19.1648: mañana sube a 19.3668. Si exportas a EE. UU., prepara escenarios de arancel y revisa qué incoterms y cláusulas de tus contratos definen quién lo paga."
+ },
+ "en": {
+  "titular": "The peso falls to 19.63 on reports of tariffs that would include Mexico; yesterday’s FIX was 19.3668",
+  "esencial": [
+   "At 5:08 a.m. Mexico City time the peso traded at 19.63 per dollar (dollar +1.16%), after closing yesterday at 19.41, following reports that the US is preparing tariffs that would include Mexico, according to the New York Post.",
+   "Today the 19.1648 FIX applies to payments; the one set yesterday was 19.3668, according to Banxico, and applies from Thursday.",
+   "For supply chain: the FIX rises 20 cents tomorrow; settle the dollar payments you can today and prepare cost scenarios with the peso above 19.5."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "Yesterday the S&P/BMV IPC closed at 69,306.81 points (−0.07%) and the peso at 19.41. Banxico set a 19.3668 FIX yesterday (+1.05%), published today in the DOF and applying to payments from Thursday; today the 19.1648 one applies. Overnight, the peso weakened to 19.63 per dollar (dollar +1.16% at 5:08 a.m.), after AP, Bloomberg and The Wall Street Journal reported the US is preparing tariffs on 16 economies over industrial subsidies; according to the New York Post, the list includes Mexico."
+   },
+   {
+    "t": "Context",
+    "x": "Tariff rates and timing are not confirmed; according to the New York Post, they would stack on the 10% to 12.5% tariffs imposed in July and exclude oil, gas and fertilizer. The dollar index rises 0.20% and markets see a 98% chance of a December Fed hike."
+   },
+   {
+    "t": "What to expect today",
+    "x": "At 7:30 a.m. Mexico City time US PCE and GDP come out, which will move the peso. Tomorrow, Thursday, the BMV is open although Wall Street is closed, and on Friday the 27th INEGI publishes the October trade balance."
+   }
+  ],
+  "scm": "Settle dollar payments today with the 19.1648 FIX: tomorrow it rises to 19.3668. If you export to the US, prepare tariff scenarios and review which incoterms and contract clauses define who pays them."
+ },
+ "pt": {
+  "titular": "O peso cai para 19,63 por notícias de tarifas que incluiriam o México; o FIX de ontem foi de 19,3668",
+  "esencial": [
+   "Às 5h08 (Cidade do México) o peso era cotado a 19,63 por dólar (dólar +1,16%), depois de fechar ontem em 19,41, após notícias de que os EUA preparam tarifas que incluiriam o México, segundo o New York Post.",
+   "Hoje vale para pagamentos o FIX de 19,1648; o definido ontem foi de 19,3668, segundo o Banxico, e vale a partir de amanhã, quinta.",
+   "Para supply chain: o FIX sobe 20 centavos amanhã; liquide hoje os pagamentos em dólares que puder e prepare cenários de custo com o peso acima de 19,5."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Ontem o S&P/BMV IPC fechou em 69.306,81 pontos (−0,07%) e o peso em 19,41. O Banxico definiu ontem um FIX de 19,3668 (+1,05%), publicado hoje no DOF e que vale para pagamentos a partir de amanhã, quinta; hoje vale o de 19,1648. Durante a noite, o peso se enfraqueceu para 19,63 por dólar (dólar +1,16% às 5h08), depois de AP, Bloomberg e The Wall Street Journal informarem que os EUA preparam tarifas contra 16 economias por subsídios industriais; segundo o New York Post, a lista inclui o México."
+   },
+   {
+    "t": "Contexto",
+    "x": "As alíquotas e a data das tarifas não estão confirmadas; segundo o New York Post, se somariam às tarifas de 10% a 12,5% impostas em julho e excluiriam petróleo, gás e fertilizantes. O índice do dólar sobe 0,20% e o mercado dá 98% de probabilidade a uma alta do Fed em dezembro."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Às 7h30 (Cidade do México) saem o PCE e o PIB dos EUA, que vão mover o peso. Amanhã, quinta, a BMV opera embora Wall Street feche, e na sexta, dia 27, o INEGI divulga a balança comercial de outubro."
+   }
+  ],
+  "scm": "Liquide hoje os pagamentos em dólares com o FIX de 19,1648: amanhã sobe para 19,3668. Se você exporta para os EUA, prepare cenários de tarifa e revise quais incoterms e cláusulas dos contratos definem quem as paga."
+ },
+ "fuentes": [
+  {
+   "t": "Banxico: tipo de cambio FIX (24 nov 2026: 19.3668)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "AP: EE. UU. se prepara para imponer aranceles a China, la UE y otras 14 economías por producción subsidiada (24 nov 2026)",
+   "u": "https://www.news4jax.com/news/politics/2026/11/25/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say/"
+  },
+  {
+   "t": "New York Post vía Yahoo: Trump prepara aranceles a China, la UE, México y Japón (24 nov 2026)",
+   "u": "https://www.yahoo.com/news/politics/articles/trump-eyes-tariff-blitz-china-212440320.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (25 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

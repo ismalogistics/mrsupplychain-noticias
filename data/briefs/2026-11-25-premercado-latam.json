@@ -1,0 +1,91 @@
+{
+ "id": "2026-11-25-premercado-latam",
+ "fecha": "2026-11-25",
+ "momento": "premercado",
+ "mercado": "latam",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "La región amanece con la amenaza de aranceles; el real se fortalece a 5.89 y el peso chileno sigue débil",
+  "esencial": [
+   "Ayer el Ibovespa cerró con −0.43% (164,088.77) y el S&P/TSX de Canadá con −0.35%; los ETF de MSCI cayeron 2.6% en Perú y Chile.",
+   "A las 5:08 CDMX el dólar estaba en 5.89 reales (−0.59%), 1,037 pesos chilenos (+0.40%) y 3,605 pesos colombianos (+0.07%).",
+   "Para supply chain: según el New York Post, los aranceles en preparación no incluirían a Brasil, Chile ni Colombia, pero sí a México; revisa rutas y orígenes alternos."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "Ayer el Ibovespa cerró en 164,088.77 (−0.43%) y el S&P/TSX de Canadá en 33,962.25 (−0.35%). Los ETF de MSCI cerraron con −2.64% en Perú, −2.60% en Chile y −1.56% en Argentina, con la caída de la plata (−6.2%) y el cobre (−4.1%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "A las 5:08 CDMX el dólar estaba en 5.89 reales (−0.59%), 1,037 pesos chilenos (+0.40%) y 3,605 pesos colombianos (+0.07%). EE. UU. prepara aranceles contra 16 economías por subsidios industriales; el New York Post menciona a México, China, la UE, Japón, Corea del Sur, Vietnam, Camboya y Malasia, pero no a países de Sudamérica. El cobre bajaba 1.0% a 5.40 dólares por libra."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "La región seguirá el PCE y el PIB de EE. UU. de las 7:30 CDMX; la OPEP+ se reúne el domingo 29."
+   }
+  ],
+  "scm": "Si abasteces a EE. UU. desde México, evalúa orígenes alternos en Sudamérica, que por ahora no aparecen en la lista de aranceles; escalona los pagos en pesos chilenos y colombianos."
+ },
+ "en": {
+  "titular": "The region opens under the tariff threat; the real firms to 5.89 and the Chilean peso stays weak",
+  "esencial": [
+   "Yesterday the Ibovespa closed −0.43% (164,088.77) and Canada's S&P/TSX −0.35%; the MSCI ETFs fell 2.6% for Peru and Chile.",
+   "At 5:08 a.m. Mexico City time the dollar stood at 5.89 reais (−0.59%), 1,037 Chilean pesos (+0.40%) and 3,605 Colombian pesos (+0.07%).",
+   "For supply chain: according to the New York Post, the tariffs being prepared would not include Brazil, Chile or Colombia, but would include Mexico; review alternative routes and origins."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "Yesterday the Ibovespa closed at 164,088.77 (−0.43%) and Canada's S&P/TSX at 33,962.25 (−0.35%). The MSCI ETFs closed −2.64% for Peru, −2.60% for Chile and −1.56% for Argentina, on the drop in silver (−6.2%) and copper (−4.1%)."
+   },
+   {
+    "t": "Context",
+    "x": "At 5:08 a.m. Mexico City time the dollar stood at 5.89 reais (−0.59%), 1,037 Chilean pesos (+0.40%) and 3,605 Colombian pesos (+0.07%). The US is preparing tariffs on 16 economies over industrial subsidies; the New York Post mentions Mexico, China, the EU, Japan, South Korea, Vietnam, Cambodia and Malaysia, but no South American countries. Copper fell 1.0% to $5.40 per pound."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The region will follow US PCE and GDP at 7:30 a.m. Mexico City time; OPEC+ meets on Sunday the 29th."
+   }
+  ],
+  "scm": "If you supply the US from Mexico, evaluate alternative origins in South America, which for now do not appear on the tariff list; stagger payments in Chilean and Colombian pesos."
+ },
+ "pt": {
+  "titular": "A região amanhece com a ameaça de tarifas; o real se fortalece para 5,89 e o peso chileno segue fraco",
+  "esencial": [
+   "Ontem o Ibovespa fechou com −0,43% (164.088,77) e o S&P/TSX do Canadá com −0,35%; os ETFs da MSCI caíram 2,6% no Peru e no Chile.",
+   "Às 5h08 (Cidade do México) o dólar estava em R$ 5,89 (−0,59%), 1.037 pesos chilenos (+0,40%) e 3.605 pesos colombianos (+0,07%).",
+   "Para supply chain: segundo o New York Post, as tarifas em preparação não incluiriam Brasil, Chile nem Colômbia, mas sim o México; revise rotas e origens alternativas."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Ontem o Ibovespa fechou em 164.088,77 (−0,43%) e o S&P/TSX do Canadá em 33.962,25 (−0,35%). Os ETFs da MSCI fecharam com −2,64% no Peru, −2,60% no Chile e −1,56% na Argentina, com a queda da prata (−6,2%) e do cobre (−4,1%)."
+   },
+   {
+    "t": "Contexto",
+    "x": "Às 5h08 (Cidade do México) o dólar estava em R$ 5,89 (−0,59%), 1.037 pesos chilenos (+0,40%) e 3.605 pesos colombianos (+0,07%). Os EUA preparam tarifas contra 16 economias por subsídios industriais; o New York Post menciona México, China, UE, Japão, Coreia do Sul, Vietnã, Camboja e Malásia, mas nenhum país da América do Sul. O cobre caía 1,0% para 5,40 dólares por libra."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "A região seguirá o PCE e o PIB dos EUA das 7h30 (Cidade do México); a OPEP+ se reúne no domingo, dia 29."
+   }
+  ],
+  "scm": "Se você abastece os EUA a partir do México, avalie origens alternativas na América do Sul, que por enquanto não aparecem na lista de tarifas; escalone os pagamentos em pesos chilenos e colombianos."
+ },
+ "fuentes": [
+  {
+   "t": "New York Post vía Yahoo: Trump prepara aranceles a China, la UE, México y Japón (24 nov 2026)",
+   "u": "https://www.yahoo.com/news/politics/articles/trump-eyes-tariff-blitz-china-212440320.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (25 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}
