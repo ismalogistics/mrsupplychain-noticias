@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-26-mediodia-global",
+   "fecha": "2026-11-26",
+   "momento": "mediodia",
+   "mercado": "global",
+   "titular_es": "Europa cierra con +2.0% y el Brent se mantiene en 96 dólares en un jueves sin Wall Street",
+   "titular_en": "Europe closes +2.0% and Brent holds at $96 on a Thursday without Wall Street",
+   "titular_pt": "A Europa fecha com +2,0% e o Brent se mantém em 96 dólares numa quinta sem Wall Street"
+  },
+  {
+   "id": "2026-11-26-mediodia-latam",
+   "fecha": "2026-11-26",
+   "momento": "mediodia",
+   "mercado": "latam",
+   "titular_es": "El Ibovespa mantiene alza de 3.5% a media sesión; el real se fortalece a 5.75",
+   "titular_en": "The Ibovespa holds a 3.5% gain at midday; the real strengthens to 5.75",
+   "titular_pt": "O Ibovespa mantém alta de 3,5% no meio da sessão; o real se fortalece para 5,75"
+  },
+  {
+   "id": "2026-11-26-mediodia-mexico",
+   "fecha": "2026-11-26",
+   "momento": "mediodia",
+   "mercado": "mexico",
+   "titular_es": "El peso se debilita a 19.72 y el IPC cae 1.0%; el desempleo de octubre pesa sobre el consumo",
+   "titular_en": "The peso weakens to 19.72 and the IPC falls 1.0%; October unemployment weighs on consumption",
+   "titular_pt": "O peso se enfraquece para 19,72 e o IPC cai 1,0%; o desemprego de outubro pesa sobre o consumo"
+  },
+  {
    "id": "2026-11-26-apertura-global",
    "fecha": "2026-11-26",
    "momento": "apertura",
@@ -782,33 +809,6 @@
    "titular_es": "Reabre la BMV: el IPC sube 0.1% y el peso se fortalece a 18.48; el FIX del viernes fue de 18.5525",
    "titular_en": "The BMV reopens: the IPC rises 0.1% and the peso firms to 18.48; Friday's FIX was 18.5525",
    "titular_pt": "A BMV reabre: o IPC sobe 0,1% e o peso se fortalece para 18,48; o FIX de sexta foi de 18,5525"
-  },
-  {
-   "id": "2026-11-16-cierre-global",
-   "fecha": "2026-11-16",
-   "momento": "cierre",
-   "mercado": "global",
-   "titular_es": "El Nasdaq entra en corrección: cae 2.5% con los chips y el crudo baja 3.6% a 92.44 dólares",
-   "titular_en": "The Nasdaq enters a correction: it falls 2.5% on chips and crude drops 3.6% to $92.44",
-   "titular_pt": "O Nasdaq entra em correção: cai 2,5% com os chips e o petróleo cai 3,6% para 92,44 dólares"
-  },
-  {
-   "id": "2026-11-16-cierre-latam",
-   "fecha": "2026-11-16",
-   "momento": "cierre",
-   "mercado": "latam",
-   "titular_es": "El Ibovespa cae 1.9% y el real se debilita 2.2% a 5.79; Argentina y Perú caen fuerte",
-   "titular_en": "The Ibovespa falls 1.9% and the real weakens 2.2% to 5.79; Argentina and Peru fall sharply",
-   "titular_pt": "O Ibovespa cai 1,9% e o real se enfraquece 2,2% para 5,79; Argentina e Peru caem forte"
-  },
-  {
-   "id": "2026-11-16-cierre-mexico",
-   "fecha": "2026-11-16",
-   "momento": "cierre",
-   "mercado": "mexico",
-   "titular_es": "Día sin BMV: el peso termina en 18.51 y resiste la venta global; mañana reabren bolsa y bancos",
-   "titular_en": "A day without the BMV: the peso ends at 18.51 and withstands the global sell-off; markets and banks reopen tomorrow",
-   "titular_pt": "Dia sem BMV: o peso termina em 18,51 e resiste à venda global; amanhã reabrem bolsa e bancos"
   }
  ]
 }

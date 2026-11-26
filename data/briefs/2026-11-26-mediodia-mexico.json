@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-26-mediodia-mexico",
+ "fecha": "2026-11-26",
+ "momento": "mediodia",
+ "mercado": "mexico",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "El peso se debilita a 19.72 y el IPC cae 1.0%; el desempleo de octubre pesa sobre el consumo",
+  "esencial": [
+   "A las 11:38 CDMX el peso cotizaba en 19.72 por dólar (+0.69% el dólar) y a las 11:18 el S&P/BMV IPC bajaba 1.02% (70,642.74).",
+   "La tasa de desocupación subió a 3.0% en octubre, su nivel más alto desde 2022, según el INEGI.",
+   "Para supply chain: hoy rige el FIX de 19.3668 y mañana el de 19.7040; liquida hoy los pagos en dólares que puedas."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el IPC caía 1.2% y el peso operaba en 19.66, tras siete sesiones a la baja, con un desempleo de 3.0% en octubre."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:18 CDMX el S&P/BMV IPC bajaba 1.02% a 70,642.74 puntos. A las 11:38 CDMX el peso se debilitaba a 19.72 por dólar (+0.69% el dólar), desde 19.66 en la apertura. Hoy rige para pagos el FIX de 19.3668; Banxico publica alrededor de las 12:00 CDMX el que regirá el lunes."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El peso siguió debilitándose aunque el dólar apenas sube (índice del dólar +0.11%), en un día de poca liquidez por el feriado en EE. UU. Investing.com atribuye la racha a la salida de inversiones de carry trade ante un menor diferencial de tasas entre Banxico y la Fed. La población ocupada bajó en 185,000 personas en un año, según el INEGI."
+   }
+  ],
+  "scm": "Liquida hoy los pagos en dólares con el FIX de 19.3668: mañana sube a 19.7040. Con el peso arriba de 19.7, actualiza el tipo de cambio de tus costos de importación del primer trimestre."
+ },
+ "en": {
+  "titular": "The peso weakens to 19.72 and the IPC falls 1.0%; October unemployment weighs on consumption",
+  "esencial": [
+   "At 11:38 a.m. Mexico City time the peso traded at 19.72 per dollar (dollar +0.69%) and at 11:18 the S&P/BMV IPC was down 1.02% (70,642.74).",
+   "The unemployment rate rose to 3.0% in October, its highest since 2022, according to INEGI.",
+   "For supply chain: today the 19.3668 FIX applies and tomorrow the 19.7040; settle the dollar payments you can today."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the IPC was down 1.2% and the peso traded at 19.66, after seven sessions of losses, with October unemployment at 3.0%."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:18 a.m. Mexico City time the S&P/BMV IPC was down 1.02% at 70,642.74 points. At 11:38 a.m. the peso weakened to 19.72 per dollar (dollar +0.69%), from 19.66 at the open. Today the 19.3668 FIX applies to payments; Banxico publishes around 12:00 p.m. the one that will apply on Monday."
+   },
+   {
+    "t": "What surprised",
+    "x": "The peso kept weakening even though the dollar barely rises (dollar index +0.11%), on a thin day due to the US holiday. Investing.com attributes the streak to carry trade unwinding on a narrower rate gap between Banxico and the Fed. Employment fell by 185,000 people over the year, according to INEGI."
+   }
+  ],
+  "scm": "Settle dollar payments today with the 19.3668 FIX: tomorrow it rises to 19.7040. With the peso above 19.7, update the exchange rate in your first-quarter import costs."
+ },
+ "pt": {
+  "titular": "O peso se enfraquece para 19,72 e o IPC cai 1,0%; o desemprego de outubro pesa sobre o consumo",
+  "esencial": [
+   "Às 11h38 (Cidade do México) o peso era cotado a 19,72 por dólar (dólar +0,69%) e às 11h18 o S&P/BMV IPC caía 1,02% (70.642,74).",
+   "A taxa de desemprego subiu para 3,0% em outubro, o maior nível desde 2022, segundo o INEGI.",
+   "Para supply chain: hoje vale o FIX de 19,3668 e amanhã o de 19,7040; liquide hoje os pagamentos em dólares que puder."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o IPC caía 1,2% e o peso operava em 19,66, após sete sessões em queda, com desemprego de 3,0% em outubro."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h18 (Cidade do México) o S&P/BMV IPC caía 1,02% para 70.642,74 pontos. Às 11h38 o peso se enfraquecia para 19,72 por dólar (dólar +0,69%), desde 19,66 na abertura. Hoje vale para pagamentos o FIX de 19,3668; o Banxico publica por volta das 12h00 o que valerá na segunda."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O peso continuou se enfraquecendo embora o dólar quase não suba (índice do dólar +0,11%), num dia de pouca liquidez pelo feriado nos EUA. A Investing.com atribui a sequência à saída de operações de carry trade diante de um diferencial de juros menor entre Banxico e Fed. A população ocupada caiu 185 mil pessoas em um ano, segundo o INEGI."
+   }
+  ],
+  "scm": "Liquide hoje os pagamentos em dólares com o FIX de 19,3668: amanhã sobe para 19,7040. Com o peso acima de 19,7, atualize a taxa de câmbio dos seus custos de importação do primeiro trimestre."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 26 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Alto Nivel: el desempleo en México sube a 3% en octubre, su nivel más alto en cuatro años (26 nov 2026)",
+   "u": "https://www.altonivel.com.mx/desempleo-en-mexico-sube-a-3-en-octubre-su-nivel-mas-alto-en-cuatro-anos/"
+  },
+  {
+   "t": "Investing.com México: el peso extiende su caída en el Día de Acción de Gracias (26 nov 2026)",
+   "u": "https://mx.investing.com/news/forex-news/precio-del-dolar-hoy-no-da-tregua-en-thanksgiving-peso-mexicano-extiende-su-caida-3864009"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (25 nov 2026: 19.7040)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

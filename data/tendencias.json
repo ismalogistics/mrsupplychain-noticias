@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-26T15:12:34Z",
+ "actualizado": "2026-11-26T17:40:19Z",
  "fecha": "2026-11-26",
  "titular": {
-  "es": "Jueves: el Brent sube a 96 dólares, Brasil enfrenta aranceles a aviones y azúcar, y en México el desempleo sube a 3%",
-  "en": "Thursday: Brent rises to $96, Brazil faces tariffs on aircraft and sugar, and Mexico unemployment rises to 3%",
-  "pt": "Quinta: o Brent sobe para 96 dólares, o Brasil enfrenta tarifas sobre aviões e açúcar e o desemprego no México sobe para 3%"
+  "es": "Mediodía: el Brent se sostiene en 96 dólares, el peso cae a 19.72 y Europa cierra con +2%",
+  "en": "Midday: Brent holds at $96, the peso falls to 19.72 and Europe closes +2%",
+  "pt": "Meio-dia: o Brent se sustenta em 96 dólares, o peso cai para 19,72 e a Europa fecha com +2%"
  },
  "items": [
   {
@@ -17,14 +17,14 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El Brent sube a 96.08 dólares por tercer día tras ataques con minas en Ormuz",
-    "en": "Brent rises to $96.08 for a third day after mine strikes in Hormuz",
-    "pt": "O Brent sobe para 96,08 dólares pelo terceiro dia após ataques com minas em Ormuz"
+    "es": "El Brent se sostiene en 96 dólares; Siemens Energy firma la rehabilitación eléctrica de Venezuela",
+    "en": "Brent holds at $96; Siemens Energy signs Venezuela power rehabilitation",
+    "pt": "O Brent se sustenta em 96 dólares; a Siemens Energy assina a reabilitação elétrica da Venezuela"
    },
    "x": {
-    "es": "El Brent de enero subía 1.6% a 96.08 dólares y el WTI 1.1% a 84.56 a las 8:59 CDMX, después de que los hutíes dijeron que atacaron la refinería saudí de Ras Tanura y al menos dos barcos chocaron con minas iraníes en Ormuz, según Reuters. La OPEP+ decide el domingo 29 su producción de 2027. El diésel en futuros subía 1.3% a 3.70 dólares por galón.",
-    "en": "January Brent rose 1.6% to $96.08 and WTI 1.1% to $84.56 at 9:59 a.m. ET, after the Houthis said they attacked Saudi Arabia’s Ras Tanura refinery and at least two ships struck Iranian mines in Hormuz, according to Reuters. OPEC+ decides its 2027 output on Sunday the 29th. Diesel futures rose 1.3% to $3.70 a gallon.",
-    "pt": "O Brent de janeiro subia 1,6% para 96,08 dólares e o WTI 1,1% para 84,56 às 8h59 (Cidade do México), depois que os houthis disseram ter atacado a refinaria saudita de Ras Tanura e pelo menos dois navios bateram em minas iranianas em Ormuz, segundo a Reuters. A OPEP+ decide no domingo, dia 29, sua produção de 2027. O diesel em futuros subia 1,3% para 3,70 dólares por galão."
+    "es": "El Brent de enero estaba en 96.09 dólares (+1.6%) y el WTI en 84.70 (+1.2%) a las 11:28 CDMX, tras los ataques con minas en Ormuz; el diésel en futuros subía 0.9% a 3.69 dólares por galón. Siemens Energy firmó con Venezuela acuerdos para rehabilitar la red eléctrica y la generación de los campos de PDVSA, según Oilprice.com. La OPEP+ decide el domingo 29 su producción de 2027.",
+    "en": "January Brent stood at $96.09 (+1.6%) and WTI at $84.70 (+1.2%) at 12:28 p.m. ET, after the mine strikes in Hormuz; diesel futures rose 0.9% to $3.69 a gallon. Siemens Energy signed agreements with Venezuela to rehabilitate the power grid and the generation serving PDVSA fields, according to Oilprice.com. OPEC+ decides its 2027 output on Sunday the 29th.",
+    "pt": "O Brent de janeiro estava a 96,09 dólares (+1,6%) e o WTI a 84,70 (+1,2%) às 11h28 (Cidade do México), após os ataques com minas em Ormuz; o diesel em futuros subia 0,9% para 3,69 dólares por galão. A Siemens Energy assinou com a Venezuela acordos para reabilitar a rede elétrica e a geração dos campos da PDVSA, segundo a Oilprice.com. A OPEP+ decide no domingo, dia 29, sua produção de 2027."
    },
    "scm": {
     "es": "No fijes recargos de combustible de diciembre antes de la reunión de la OPEP+ del domingo; mantén el ajuste semanal.",
@@ -37,11 +37,11 @@
      "u": "https://finance.yahoo.com/energy/articles/oil-rises-supply-concerns-iran-030849858.html"
     },
     {
-     "t": "The Wall Street Journal: la OPEP+ enfrenta decisiones difíciles con un superávit en aumento (26 nov 2026)",
-     "u": "https://finance.yahoo.com/m/91da27c4-8363-3144-b4ea-34a161403eca/opec%2C-allies-face-tough.html"
+     "t": "Oilprice.com: Siemens Energy firma acuerdos para rehabilitar la red eléctrica de Venezuela (26 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/siemens-energy-signs-major-deal-172352287.html"
     },
     {
-     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 09:09 CDMX)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -184,14 +184,14 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "La plata sube 3.5%, el oro 1.2% y el cobre 0.9% a 5.47 dólares",
-    "en": "Silver rises 3.5%, gold 1.2% and copper 0.9% to $5.47",
-    "pt": "A prata sobe 3,5%, o ouro 1,2% e o cobre 0,9% para 5,47 dólares"
+    "es": "La plata sube 3.0%, el oro 0.9% y el cobre 0.2% a 5.43 dólares",
+    "en": "Silver rises 3.0%, gold 0.9% and copper 0.2% to $5.43",
+    "pt": "A prata sobe 3,0%, o ouro 0,9% e o cobre 0,2% para 5,43 dólares"
    },
    "x": {
-    "es": "A las 8:59 CDMX la plata estaba en 41.97 dólares (+3.5%), el oro en 3,607 (+1.2%) y el cobre en 5.47 dólares por libra (+0.9%), con el riesgo en Medio Oriente.",
-    "en": "At 9:59 a.m. ET silver stood at $41.97 (+3.5%), gold at $3,607 (+1.2%) and copper at $5.47 per pound (+0.9%), on Middle East risk.",
-    "pt": "Às 8h59 (Cidade do México) a prata estava a 41,97 dólares (+3,5%), o ouro a 3.607 (+1,2%) e o cobre a 5,47 dólares por libra (+0,9%), com o risco no Oriente Médio."
+    "es": "A las 11:28 CDMX la plata estaba en 41.77 dólares (+3.0%), el oro en 3,596 (+0.9%) y el cobre en 5.43 dólares por libra (+0.2%), con el riesgo en Medio Oriente.",
+    "en": "At 12:28 p.m. ET silver stood at $41.77 (+3.0%), gold at $3,596 (+0.9%) and copper at $5.43 per pound (+0.2%), on Middle East risk.",
+    "pt": "Às 11h28 (Cidade do México) a prata estava a 41,77 dólares (+3,0%), o ouro a 3.596 (+0,9%) e o cobre a 5,43 dólares por libra (+0,2%), com o risco no Oriente Médio."
    },
    "scm": {
     "es": "Los metales rebotan: si tienes cotizaciones de cable y conectores vigentes, ciérralas esta semana.",
@@ -200,7 +200,7 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 09:09 CDMX)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
