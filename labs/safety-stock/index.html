@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Safety Stock Calculator · Labs · Mr. Supply Chain® México</title>
+<meta name="description" content="Compute statistically correct safety stock from demand and lead-time variability — z × σDLT — with DIO impact, carrying cost, and a working-capital comparison across service levels. A transparent inventory baseline. Mr. Supply Chain® México Labs."/>
+
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/site.css?v=8">
+<link rel="preload" href="/assets/fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/labs.css?v=2">
+<link rel="canonical" href="https://mrsupplychain.ai/labs/safety-stock/">
+<link rel="alternate" hreflang="en" href="https://mrsupplychain.ai/labs/safety-stock/">
+<link rel="alternate" hreflang="es" href="https://mrsupplychain.ai/es/labs/safety-stock/">
+<link rel="alternate" hreflang="x-default" href="https://mrsupplychain.ai/labs/safety-stock/">
+<meta property="og:image" content="https://mrsupplychain.ai/assets/og-index.png">
+
+
+<script src="/assets/lang.js?v=5" defer></script>
+<link rel="manifest" href="/manifest.webmanifest">
+<meta name="theme-color" content="#163e86">
+<link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="MSC México">
+</head>
+<body class="labs-app " data-tool="safety-stock">
+<script src="/assets/site.js?v=15"></script>
+<div data-msc-legacy hidden aria-hidden="true"><button id="btn-lang-en" class="lb on" type="button">EN</button><button id="btn-lang-es" class="lb" type="button">ES</button><button id="hamburger" type="button"></button><div id="mobileMenu"></div></div>
+<header class="tb" role="toolbar" aria-label="Tool">
+  <div class="tb-in">
+    <nav class="tb-crumb" aria-label="Breadcrumb"><a href="/labs/"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg> Labs</a><span class="sep">/</span><span><span class="msc-en">Plan</span><span class="msc-es">Planear</span></span></nav>
+    <div class="tb-title"><span class="tb-ic"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l9 4.5-9 4.5-9-4.5L12 3zM3 12l9 4.5 9-4.5M3 16.5L12 21l9-4.5"/></svg></span><h1><span class="msc-en">Safety Stock Calculator</span><span class="msc-es">Calculadora de Inventario de Seguridad</span></h1><span class="tb-ver">v2.2</span><span class="tb-status"><span class="msc-en">Stable</span><span class="msc-es">Estable</span></span></div>
+    <div class="tb-spacer"></div>
+    <div class="tb-switch"><button type="button" aria-haspopup="true" aria-expanded="false"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg><span class="lbl"><span class="msc-en">Switch tool</span><span class="msc-es">Cambiar herramienta</span></span><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></button><div class="tb-switch-pop" role="menu"><div class="grp"><span class="msc-en">Plan</span><span class="msc-es">Planear</span></div><a href="/labs/forecast/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 17l6-6 4 4 8-8M15 7h6v6"/></svg><div><b><span class="msc-en">Demand Forecast Studio</span><span class="msc-es">Estudio de Pronóstico</span></b><span><span class="msc-en">Holt-Winters, MA, decomposition · MAPE on holdout</span><span class="msc-es">Holt-Winters, PM, descomposición · MAPE en holdout</span></span></div></a><a href="/labs/safety-stock/" class="on" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l9 4.5-9 4.5-9-4.5L12 3zM3 12l9 4.5 9-4.5M3 16.5L12 21l9-4.5"/></svg><div><b><span class="msc-en">Safety Stock Calculator</span><span class="msc-es">Calculadora de Inventario de Seguridad</span></b><span><span class="msc-en">z · σDLT with working-capital trade-off</span><span class="msc-es">z · σDLT con capital de trabajo</span></span></div></a><a href="/labs/semis-buffer/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><rect x="7" y="7" width="10" height="10" rx="1.5"/><path d="M10 3v4M14 3v4M10 17v4M14 17v4M3 10h4M3 14h4M17 10h4M17 14h4"/></svg><div><b><span class="msc-en">Semiconductor Buffer Optimizer</span><span class="msc-es">Optimizador de Buffers de Semiconductores</span></b><span><span class="msc-en">Yield, binning, die bank, differentiated SL</span><span class="msc-es">Yield, binning, die bank, SL diferenciado</span></span></div></a><div class="grp"><span class="msc-en">Measure</span><span class="msc-es">Medir</span></div><a href="/labs/kpi/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V11M10 20V5M16 20v-6M3 20h18"/></svg><div><b><span class="msc-en">KPI Reference Library</span><span class="msc-es">Biblioteca de KPIs</span></b><span><span class="msc-en">58 KPIs · formula, target, benchmark</span><span class="msc-es">58 KPIs · fórmula, meta, benchmark</span></span></div></a><div class="grp"><span class="msc-en">Design</span><span class="msc-es">Diseñar</span></div><a href="/labs/network/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="6" r="2.5"/><circle cx="19" cy="6" r="2.5"/><circle cx="12" cy="18" r="2.5"/><path d="M7 7.5l3.5 8M17 7.5l-3.5 8M7.5 6h9"/></svg><div><b><span class="msc-en">Network Design Analyzer</span><span class="msc-es">Analizador de Diseño de Red</span></b><span><span class="msc-en">p-median siting, coverage, cost per zone</span><span class="msc-es">Localización p-median, cobertura, costo por zona</span></span></div></a><a href="/labs/warehouse/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9l9-5 9 5v11H3zM7 20v-7h10v7M7 16h10"/></svg><div><b><span class="msc-en">Warehouse Layout Designer</span><span class="msc-es">Diseñador de Layout de Almacén</span></b><span><span class="msc-en">Scaled floor plan, zones, rack estimates</span><span class="msc-es">Plano a escala, zonas, estimado de racks</span></span></div></a><div class="all"><a href="/labs/" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg><div><b><span class="msc-en">All Labs tools</span><span class="msc-es">Todas las herramientas</span></b><span><span class="msc-en">Catalogue, simulators and experiments</span><span class="msc-es">Catálogo, simuladores y experimentos</span></span></div></a></div></div></div>
+    <div class="tb-actions"><button type="button" class="btn btn-ghost" onclick="toggleHowTo()" aria-controls="howTo" title="?"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M9.5 9.5a2.5 2.5 0 1 1 3.5 2.3c-.7.3-1 .9-1 1.7M12 17h.01"/></svg><span class="lbl"><span class="msc-en">Guide</span><span class="msc-es">Guía</span></span></button><button type="button" class="btn btn-primary" data-lb-export="exportReport"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M4 19h16"/></svg><span class="lbl"><span class="msc-en">Export report</span><span class="msc-es">Exportar reporte</span></span></button></div>
+  </div>
+</header>
+<main class="ws">
+  <aside class="ws-side" aria-label="Parameters">
+    <div class="inputs">
+      <div class="inputs-title"><span class="msc-en">Parameters</span><span class="msc-es">Parámetros</span><span class="tb-ver" style="text-transform:none;letter-spacing:0">SKU</span></div>
+      <div class="inputs-note"><span class="msc-en">Use consistent time units (e.g. all in days/weeks). Defaults illustrate a typical retail SKU.</span><span class="msc-es">Usa unidades de tiempo consistentes (p. ej., todo en d&iacute;as o todo en semanas). Los valores predeterminados ilustran un SKU t&iacute;pico de retail.</span></div>
+
+      <!-- demand variability mode -->
+      <div class="field">
+        <div class="field-lbl"><span class="msc-en">Demand variability from&hellip;</span><span class="msc-es">Variabilidad de la demanda a partir de&hellip;</span></div>
+        <div class="seg">
+          <button class="seg-btn on" id="modeSigma" onclick="setMode('sigma')"><span class="msc-en">&sigma; directly</span><span class="msc-es">&sigma; directa</span></button>
+          <button class="seg-btn" id="modeMape" onclick="setMode('mape')"><span class="msc-en">From MAPE</span><span class="msc-es">A partir del MAPE</span></button>
+        </div>
+      </div>
+
+      <div class="field" id="fieldAvgDemand">
+        <div class="field-lbl"><span class="msc-en">Average demand</span><span class="msc-es">Demanda promedio</span><span class="field-unit"><span class="msc-en">units / period</span><span class="msc-es">unidades / periodo</span></span></div>
+        <input class="field-input" id="inAvgDemand" type="number" value="1000" oninput="calc()">
+        <div class="field-hint"><span class="msc-en">Mean demand per period (e.g. per week).</span><span class="msc-es">Demanda promedio por periodo (p. ej., por semana).</span></div>
+      </div>
+
+      <div class="field" id="fieldSigma">
+        <div class="field-lbl"><span class="msc-en">Demand std. dev (&sigma;<sub>D</sub>)</span><span class="msc-es">Desv. est&aacute;ndar de la demanda (&sigma;<sub>D</sub>)</span><span class="field-unit"><span class="msc-en">units / period</span><span class="msc-es">unidades / periodo</span></span></div>
+        <input class="field-input" id="inSigma" type="number" value="180" oninput="calc()">
+        <div class="field-hint"><span class="msc-en">Standard deviation of demand per period.</span><span class="msc-es">Desviaci&oacute;n est&aacute;ndar de la demanda por periodo.</span></div>
+      </div>
+
+      <div class="field hidden" id="fieldMape">
+        <div class="field-lbl"><span class="msc-en">Forecast MAPE</span><span class="msc-es">MAPE del pron&oacute;stico</span><span class="field-unit">%</span></div>
+        <input class="field-input" id="inMape" type="number" value="18" oninput="calc()">
+        <div class="field-hint"><span class="msc-en">&sigma;<sub>D</sub> &asymp; (MAPE/100) &times; demand &times; 1.25. From the Forecast Studio holdout.</span><span class="msc-es">&sigma;<sub>D</sub> &asymp; (MAPE/100) &times; demanda &times; 1.25. Tomado del periodo de validaci&oacute;n (holdout) del Estudio de Pron&oacute;stico.</span></div>
+      </div>
+
+      <div class="field">
+        <div class="field-lbl"><span class="msc-en">Lead time (LT)</span><span class="msc-es">Lead time (LT)</span><span class="field-unit"><span class="msc-en">periods</span><span class="msc-es">periodos</span></span></div>
+        <input class="field-input" id="inLT" type="number" value="3" oninput="calc()">
+        <div class="field-hint"><span class="msc-en">Average replenishment lead time.</span><span class="msc-es">Lead time promedio de reabastecimiento.</span></div>
+      </div>
+
+      <div class="field">
+        <div class="field-lbl"><span class="msc-en">Lead-time std. dev (&sigma;<sub>LT</sub>)</span><span class="msc-es">Desv. est&aacute;ndar del lead time (&sigma;<sub>LT</sub>)</span><span class="field-unit"><span class="msc-en">periods</span><span class="msc-es">periodos</span></span></div>
+        <input class="field-input" id="inSigmaLT" type="number" value="0.5" step="0.1" oninput="calc()">
+        <div class="field-hint"><span class="msc-en">Variability of lead time. Set 0 to ignore.</span><span class="msc-es">Variabilidad del lead time. Pon 0 para ignorarla.</span></div>
+      </div>
+
+      <div class="field">
+        <div class="field-lbl"><span class="msc-en">Unit cost</span><span class="msc-es">Costo unitario</span><span class="field-unit"><span class="msc-en">$ / unit</span><span class="msc-es">$ / unidad</span></span></div>
+        <input class="field-input" id="inCost" type="number" value="12" step="0.5" oninput="calc()">
+      </div>
+
+      <div class="field">
+        <div class="field-lbl"><span class="msc-en">Annual holding rate</span><span class="msc-es">Tasa anual de mantenimiento</span><span class="field-unit">%</span></div>
+        <input class="field-input" id="inHold" type="number" value="25" oninput="calc()">
+        <div class="field-hint"><span class="msc-en">Carrying cost as % of unit value / year.</span><span class="msc-es">Costo de mantener inventario como % del valor unitario por a&ntilde;o.</span></div>
+      </div>
+
+      <div class="field" style="margin-bottom:8px">
+        <div class="field-lbl"><span class="msc-en">Service level target</span><span class="msc-es">Nivel de servicio objetivo</span></div>
+        <div class="svc-row" id="svcRow">
+          <button class="svc-chip" data-sl="90" onclick="setSL(90)">90%</button>
+          <button class="svc-chip" data-sl="95" onclick="setSL(95)">95%</button>
+          <button class="svc-chip on" data-sl="97" onclick="setSL(97)">97%</button>
+          <button class="svc-chip" data-sl="99" onclick="setSL(99)">99%</button>
+          <button class="svc-chip" data-sl="99.9" onclick="setSL(99.9)">99.9%</button>
+        </div>
+      </div></div>
+  </aside>
+  <div class="ws-intro">
+  <div>
+    <h2><span class="msc-en">Safety stock and reorder point for one SKU</span><span class="msc-es">Inventario de seguridad y punto de reorden de un SKU</span></h2>
+    <p><span class="msc-en">Enter demand, lead time and their variability, and pick a service level. You get safety stock, the reorder point, the capital it ties up and what each step of service level costs. No σ? Use the MAPE from the <a href="/labs/forecast/">Forecast Studio</a>.</span><span class="msc-es">Captura demanda, lead time y su variabilidad, y elige el nivel de servicio. Obtienes el inventario de seguridad, el punto de reorden, el capital que inmoviliza y cuánto cuesta cada escalón de servicio. ¿Sin σ? Usa el MAPE del <a href="/labs/forecast/">Estudio de Pronóstico</a>.</span></p>
+  </div>
+</div>
+  <section class="ws-main">
+    <div class="metrics" id="metricStrip"></div>
+      <div id="ssInterp"></div>
+
+      
+
+      <div class="panel">
+        <div class="panel-title"><span class="msc-en">How it's computed</span><span class="msc-es">C&oacute;mo se calcula</span></div>
+        <div class="panel-note"><span class="msc-en">Combined demand + lead-time variability (King, 2011).</span><span class="msc-es">Variabilidad combinada de la demanda + el lead time (King, 2011).</span></div>
+        <div class="formula" id="formulaBox"></div>
+        <div class="formula-step" id="formulaSteps"></div>
+        <div class="lb-read" id="rdFormula"></div>
+      </div>
+
+      <div class="panel">
+        <div class="panel-title"><span class="msc-en">Working capital vs. service level</span><span class="msc-es">Capital de trabajo vs. nivel de servicio</span></div>
+        <div class="panel-note"><span class="msc-en">Each extra point of service costs more than the last.</span><span class="msc-es">Cada punto adicional de servicio cuesta más que el anterior.</span></div>
+        <div class="wc-bars" id="wcBars"></div>
+        <div class="tbl-wrap"><table class="ftbl" id="slTable"></table></div>
+        <div class="lb-read" id="rdSL"></div>
+      </div>
+
+      <div class="disclaimer">
+    <span class="msc-en"><b>Method and limits.</b> Classical model with a cycle service level: SS = z·σ<sub>DLT</sub>, σ<sub>DLT</sub> = √(LT·σ<sub>D</sub>² + D²·σ<sub>LT</sub>²) (King, 2011); reorder point = D·LT + SS. Assumes normally distributed demand. It does not cover order frequency, MOQs, shelf life or fill-rate targets. Data never leaves your browser.</span>
+    <span class="msc-es"><b>Método y límites.</b> Modelo clásico con nivel de servicio por ciclo: SS = z·σ<sub>DLT</sub>, σ<sub>DLT</sub> = √(LT·σ<sub>D</sub>² + D²·σ<sub>LT</sub>²) (King, 2011); punto de reorden = D·LT + SS. Supone demanda con distribución normal. No considera frecuencia de pedido, lotes mínimos, vida útil ni metas de fill rate. Los datos no salen de tu navegador.</span>
+  </div>
+
+    
+  </section>
+</main>
+<div class="how-to" id="howTo"><div class="how-to-head"><div class="how-to-title"><span class="msc-en">Guide</span><span class="msc-es">Guía</span></div><button class="how-to-toggle" id="howToBtn"></button></div><div class="how-to-steps"><div class="how-to-step"><div class="step-num">1</div><div class="step-body"><div class="step-title"><span class="msc-en">Demand variability</span><span class="msc-es">Variabilidad de la demanda</span></div><div class="step-desc"><span class="msc-en">Enter σ directly, or switch to From MAPE and use the error from the Forecast Studio.</span><span class="msc-es">Captura σ directamente, o cambia a A partir del MAPE y usa el error del Estudio de Pronóstico.</span></div></div></div><div class="how-to-step"><div class="step-num">2</div><div class="step-body"><div class="step-title"><span class="msc-en">Lead time and cost</span><span class="msc-es">Lead time y costo</span></div><div class="step-desc"><span class="msc-en">Use the same time unit everywhere (weeks or days). Holding rate is usually 20–30% a year: storage, cost of capital and obsolescence.</span><span class="msc-es">Usa la misma unidad de tiempo en todo (semanas o días). La tasa de mantenimiento suele ser de 20–30% anual: almacenaje, costo de capital y obsolescencia.</span></div></div></div><div class="how-to-step"><div class="step-num">3</div><div class="step-body"><div class="step-title"><span class="msc-en">Service level</span><span class="msc-es">Nivel de servicio</span></div><div class="step-desc"><span class="msc-en">Compare the table to see how much capital each step adds, and set the level where the cost of a stockout justifies it.</span><span class="msc-es">Compara la tabla para ver cuánto capital agrega cada escalón y fija el nivel en el que el costo de un faltante lo justifica.</span></div></div></div></div></div>
+<script>
+/* ============================================================
+   SAFETY STOCK CALCULATOR — in-browser, transparent textbook model
+   SS = z * sqrt( LT*sigmaD^2 + D^2*sigmaLT^2 )   (King, 2011)
+   ============================================================ */
+
+var MODE='sigma';   // 'sigma' | 'mape'
+var SL=97;          // current service level target
+var SLS=[90,95,97,99,99.9];
+
+/* inverse normal CDF (Acklam's algorithm) for z given cycle service level */
+function invNorm(p){
+  if(p<=0)return -Infinity;if(p>=1)return Infinity;
+  var a=[-3.969683028665376e+01,2.209460984245205e+02,-2.759285104469687e+02,1.383577518672690e+02,-3.066479806614716e+01,2.506628277459239e+00];
+  var b=[-5.447609879822406e+01,1.615858368580409e+02,-1.556989798598866e+02,6.680131188771972e+01,-1.328068155288572e+01];
+  var c=[-7.784894002430293e-03,-3.223964580411365e-01,-2.400758277161838e+00,-2.549732539343734e+00,4.374664141464968e+00,2.938163982698783e+00];
+  var d=[7.784695709041462e-03,3.224671290700398e-01,2.445134137142996e+00,3.754408661907416e+00];
+  var pl=0.02425,ph=1-pl,q,r,x;
+  if(p<pl){q=Math.sqrt(-2*Math.log(p));x=(((((c[0]*q+c[1])*q+c[2])*q+c[3])*q+c[4])*q+c[5])/((((d[0]*q+d[1])*q+d[2])*q+d[3])*q+1);}
+  else if(p<=ph){q=p-0.5;r=q*q;x=(((((a[0]*r+a[1])*r+a[2])*r+a[3])*r+a[4])*r+a[5])*q/(((((b[0]*r+b[1])*r+b[2])*r+b[3])*r+b[4])*r+1);}
+  else{q=Math.sqrt(-2*Math.log(1-p));x=-(((((c[0]*q+c[1])*q+c[2])*q+c[3])*q+c[4])*q+c[5])/((((d[0]*q+d[1])*q+d[2])*q+d[3])*q+1);}
+  return x;
+}
+function zFor(sl){return invNorm(sl/100);}
+
+function val(id){var v=parseFloat(document.getElementById(id).value);return isFinite(v)?v:0;}
+
+function getSigmaD(){
+  var D=val('inAvgDemand');
+  if(MODE==='mape'){
+    var mape=val('inMape');
+    // sigma ~ (MAPE/100)*mean*sqrt(pi/2); sqrt(pi/2)=1.2533
+    return (mape/100)*D*1.2533;
+  }
+  return val('inSigma');
+}
+
+function computeSS(sl){
+  var D=val('inAvgDemand');
+  var LT=val('inLT');
+  var sigmaD=getSigmaD();
+  var sigmaLT=val('inSigmaLT');
+  var z=zFor(sl);
+  var sigmaDLT=Math.sqrt(LT*sigmaD*sigmaD + D*D*sigmaLT*sigmaLT);
+  var ss=z*sigmaDLT;
+  return {z:z,sigmaD:sigmaD,sigmaDLT:sigmaDLT,ss:Math.max(0,ss),D:D,LT:LT,sigmaLT:sigmaLT};
+}
+
+function fmtN(v){
+  v=Math.round(v);
+  return v.toString().replace(/\B(?=(\d{3})+(?!\d))/g,',');
+}
+function fmtMoney(v){return '$'+fmtN(v);}
+
+/* ---------- i18n helpers (site language = html.msc-es) ---------- */
+function isES(){return document.documentElement.classList.contains('msc-es');}
+function L(en,es){return isES()?es:en;}
+function refreshStaticI18n(){
+  var A={
+    inAvgDemand:['Average demand (units per period)','Demanda promedio (unidades por periodo)'],
+    inSigma:['Demand standard deviation (units per period)','Desviación estándar de la demanda (unidades por periodo)'],
+    inMape:['Forecast MAPE (%)','MAPE del pronóstico (%)'],
+    inLT:['Lead time (periods)','Lead time (periodos)'],
+    inSigmaLT:['Lead-time standard deviation (periods)','Desviación estándar del lead time (periodos)'],
+    inCost:['Unit cost ($ per unit)','Costo unitario ($ por unidad)'],
+    inHold:['Annual holding rate (%)','Tasa anual de mantenimiento (%)']
+  };
+  var i=isES()?1:0;
+  Object.keys(A).forEach(function(id){var el=document.getElementById(id);if(el)el.setAttribute('aria-label',A[id][i]);});
+  document.querySelectorAll('.svc-chip').forEach(function(c){
+    c.setAttribute('aria-label',L('Service level ','Nivel de servicio ')+c.getAttribute('data-sl')+'%');
+  });
+}
+
+function setRead(id,html){var e=document.getElementById(id);if(!e)return;e.setAttribute("data-label",L("Reading","Lectura"));e.innerHTML=html||"";}
+function renderReadsSS(r,cost,hold){
+  var vd=r.LT*r.sigmaD*r.sigmaD,vl=r.D*r.D*r.sigmaLT*r.sigmaLT,tot=vd+vl||1,sl=vl/tot*100;
+  var t=L('<b>'+sl.toFixed(0)+'%</b> of the combined variability comes from the lead time and '+(100-sl).toFixed(0)+'% from demand. ','<b>'+sl.toFixed(0)+'%</b> de la variabilidad combinada viene del lead time y '+(100-sl).toFixed(0)+'% de la demanda. ');
+  t+=sl>=50?L('Working with the supplier on lead-time reliability reduces this buffer more than improving the forecast.','Trabajar con el proveedor en la confiabilidad del lead time reduce más este inventario que mejorar el pronóstico.'):L('Improving forecast accuracy is the bigger lever here.','Mejorar la exactitud del pronóstico es la palanca más grande aquí.');
+  if(r.sigmaLT>0){var noLT=r.z*Math.sqrt(vd);t+=' '+L('With a fixed lead time, safety stock would be '+fmtN(noLT)+' units ('+fmtMoney((r.ss-noLT)*cost)+' less).','Con un lead time sin variación, serían '+fmtN(noLT)+' unidades ('+fmtMoney((r.ss-noLT)*cost)+' menos).');}
+  setRead('rdFormula',t);
+  var s95=computeSS(95).ss*cost,s99=computeSS(99).ss*cost,cur=r.ss*cost;
+  setRead('rdSL',L('Going from 95% to 99% adds <b>'+fmtMoney(s99-s95)+'</b> of capital (+'+(s95>0?((s99/s95-1)*100).toFixed(0):0)+'%) and '+fmtMoney((s99-s95)*hold)+' a year to hold. Your '+SL+'% target ties up '+fmtMoney(cur)+'.','Pasar de 95% a 99% agrega <b>'+fmtMoney(s99-s95)+'</b> de capital (+'+(s95>0?((s99/s95-1)*100).toFixed(0):0)+'%) y '+fmtMoney((s99-s95)*hold)+' al año en mantenerlo. Tu meta de '+SL+'% inmoviliza '+fmtMoney(cur)+'.'));
+}
+function calc(){
+  var r=computeSS(SL);
+  var cost=val('inCost'),holdRate=val('inHold')/100;
+  var unitsForDIO=r.D; // demand per period
+  // DIO impact: SS expressed in days of demand. Convert period to days? We keep "periods of demand"
+  var daysOfDemand=r.D>0?(r.ss/r.D):0; // in periods
+  var ssValue=r.ss*cost;
+  var carrying=ssValue*holdRate;
+
+  renderMetrics(r,daysOfDemand,ssValue,carrying);
+  renderFormula(r);
+  renderSL(cost,holdRate);
+  renderReadsSS(r,cost,holdRate);
+}
+
+function renderMetrics(r,daysOfDemand,ssValue,carrying){
+  var u=L('units','unidades');
+  var html=''+
+    '<div class="metric hero-metric"><div class="metric-lbl">'+L('Safety Stock @ '+SL+'% service','Inventario de seguridad @ '+SL+'% de servicio')+'</div>'+
+      '<div class="metric-val">'+fmtN(r.ss)+' <span style="font-size:1rem;font-weight:600">'+u+'</span></div>'+
+      '<div class="metric-sub">z = '+r.z.toFixed(3)+' &nbsp;&middot;&nbsp; &sigma;<sub>DLT</sub> = '+fmtN(r.sigmaDLT)+' '+u+'</div></div>'+
+    '<div class="metric"><div class="metric-lbl">'+L('Reorder point','Punto de reorden')+'</div>'+
+      '<div class="metric-val">'+fmtN(r.D*r.LT+r.ss)+'</div>'+
+      '<div class="metric-sub">'+L('demand over lead time + safety stock','demanda en el lead time + seguridad')+'</div></div>'+
+    '<div class="metric"><div class="metric-lbl">'+L('Coverage','Cobertura')+'</div>'+
+      '<div class="metric-val">'+daysOfDemand.toFixed(1)+'</div>'+
+      '<div class="metric-sub">'+L('periods of average demand','periodos de demanda promedio')+'</div></div>'+
+    '<div class="metric"><div class="metric-lbl">'+L('Tied-up capital','Capital inmovilizado')+'</div>'+
+      '<div class="metric-val">'+fmtMoney(ssValue)+'</div>'+
+      '<div class="metric-sub">'+L('safety stock at unit cost','inventario de seguridad a costo unitario')+'</div></div>'+
+    '<div class="metric"><div class="metric-lbl">'+L('Annual carrying cost','Costo anual de mantenimiento')+'</div>'+
+      '<div class="metric-val">'+fmtMoney(carrying)+'</div>'+
+      '<div class="metric-sub">'+L('to hold this buffer / year','por mantener este inventario / a&ntilde;o')+'</div></div>';
+  document.getElementById('metricStrip').innerHTML=html;
+  var iEl=document.getElementById('ssInterp');
+  if(iEl)iEl.innerHTML=interpSS(r.ss,val('inCost'),SL);
+}
+
+function renderFormula(r){
+  var box='SS = z &times; &radic;( LT &middot; &sigma;<span class="sub">D</span>&sup2; + D&sup2; &middot; &sigma;<span class="sub">LT</span>&sup2; )';
+  document.getElementById('formulaBox').innerHTML=box;
+  var modeNote=MODE==='mape'
+    ? L('<b>&sigma;<sub>D</sub> from MAPE:</b> ('+val('inMape')+'%/100) &times; '+fmtN(r.D)+' &times; 1.25 = <b>'+fmtN(r.sigmaD)+'</b> units/period.',
+        '<b>&sigma;<sub>D</sub> a partir del MAPE:</b> ('+val('inMape')+'%/100) &times; '+fmtN(r.D)+' &times; 1.25 = <b>'+fmtN(r.sigmaD)+'</b> unidades/periodo.')+'<br>'
+    : '';
+  var steps=modeNote+
+    L('<b>Plug in:</b> z='+r.z.toFixed(3)+' (for '+SL+'% cycle service)',
+      '<b>Sustituyendo:</b> z='+r.z.toFixed(3)+' (para '+SL+'% de nivel de servicio por ciclo)')+
+      ', LT='+r.LT+', &sigma;<sub>D</sub>='+fmtN(r.sigmaD)+', D='+fmtN(r.D)+', &sigma;<sub>LT</sub>='+r.sigmaLT+'<br>'+
+      '&rArr; &sigma;<sub>DLT</sub> = &radic;('+r.LT+'&middot;'+fmtN(r.sigmaD)+'&sup2; + '+fmtN(r.D)+'&sup2;&middot;'+r.sigmaLT+'&sup2;) = <b>'+fmtN(r.sigmaDLT)+'</b><br>'+
+      '&rArr; SS = '+r.z.toFixed(3)+' &times; '+fmtN(r.sigmaDLT)+' = <b>'+fmtN(r.ss)+' '+L('units','unidades')+'</b>';
+  document.getElementById('formulaSteps').innerHTML=steps;
+}
+
+function renderSL(cost,holdRate){
+  var rows='',bars='';
+  var vals=SLS.map(function(sl){var r=computeSS(sl);return {sl:sl,ss:r.ss,z:r.z,val:r.ss*cost,carry:r.ss*cost*holdRate};});
+  var maxVal=Math.max.apply(null,vals.map(function(v){return v.val;}))||1;
+  // table
+  var th='<thead><tr>'+
+    '<th>'+L('Service','Servicio')+'</th><th>z</th>'+
+    '<th>'+L('Safety stock','Inv. de seguridad')+'</th>'+
+    '<th>'+L('Capital','Capital')+'</th>'+
+    '<th>'+L('Carrying / yr','Mantenimiento / a&ntilde;o')+'</th>'+
+    '<th>&Delta; vs '+SLS[0]+'%</th></tr></thead>';
+  var base=vals[0].val;
+  vals.forEach(function(v){
+    var delta=v.val-base;
+    rows+='<tr class="'+(v.sl===SL?'cur':'')+'"><td>'+v.sl+'%</td><td>'+v.z.toFixed(2)+'</td>'+
+      '<td>'+fmtN(v.ss)+'</td><td>'+fmtMoney(v.val)+'</td><td>'+fmtMoney(v.carry)+'</td>'+
+      '<td class="'+(delta>0?'delta-up':'')+'">'+(delta>0?'+':'')+fmtMoney(delta)+'</td></tr>';
+    var pct=(v.val/maxVal)*100;
+    bars+='<div class="wc-row"><div class="wc-row-lbl">'+v.sl+'%</div>'+
+      '<div class="wc-bar-track"><div class="wc-bar-fill '+(v.sl===SL?'cur':'')+'" style="width:'+pct.toFixed(1)+'%"></div></div>'+
+      '<div class="wc-row-val">'+fmtMoney(v.val)+'</div></div>';
+  });
+  document.getElementById('slTable').innerHTML=th+'<tbody>'+rows+'</tbody>';
+  document.getElementById('wcBars').innerHTML=bars;
+}
+
+/* ── handlers ── */
+function setMode(m){
+  MODE=m;
+  document.getElementById('modeSigma').classList.toggle('on',m==='sigma');
+  document.getElementById('modeMape').classList.toggle('on',m==='mape');
+  document.getElementById('fieldSigma').classList.toggle('hidden',m!=='sigma');
+  document.getElementById('fieldMape').classList.toggle('hidden',m!=='mape');
+  calc();
+}
+function setSL(sl){
+  SL=sl;
+  document.querySelectorAll('.svc-chip').forEach(function(c){
+    c.classList.toggle('on',parseFloat(c.getAttribute('data-sl'))===sl);
+  });
+  calc();
+}
+
+/* ── export ── */
+function buildReportHTML(){
+  var r=computeSS(SL);var cost=val('inCost'),holdRate=val('inHold')/100;
+  var date=new Date().toISOString().slice(0,10);
+  var metricHTML=document.getElementById('metricStrip').innerText.replace(/\n+/g,' &middot; ');
+  var formula=document.getElementById('formulaBox').innerHTML+'<br>'+document.getElementById('formulaSteps').innerHTML;
+  var slTable=document.getElementById('slTable').outerHTML;
+  return '<!DOCTYPE html><html lang="'+L('en','es')+'"><head><meta charset="utf-8"><title>'+L('Safety Stock Report','Reporte de inventario de seguridad')+'</title>'+
+    '<style>body{font-family:-apple-system,Segoe UI,sans-serif;color:#1d1d1f;margin:0}'+
+    '.header{padding:24px 32px;border-bottom:2px solid #0066CC}.brand{font-size:11px;color:#6e6e73;letter-spacing:.04em}'+
+    '.title{font-size:22px;font-weight:700;margin-top:4px}.meta{font-size:12px;color:#6e6e73;margin-top:6px}'+
+    '.body{padding:24px 32px}.metricline{font-size:13px;font-weight:600;margin:14px 0;color:#0066CC}'+
+    '.fx{font-family:SF Mono,monospace;font-size:13px;background:#f3f6fb;color:#0066CC;padding:14px;border-radius:8px;line-height:1.7}'+
+    'table{width:100%;border-collapse:collapse;font-size:12px;margin-top:18px}'+
+    'th{text-align:right;padding:6px 10px;font-size:10px;text-transform:uppercase;color:#888;border-bottom:1px solid #ccc}'+
+    'th:first-child,td:first-child{text-align:left}td{text-align:right;padding:5px 10px;border-bottom:1px solid #f0f0f2}'+
+    '.foot{padding:16px 32px;border-top:1px solid #e8e8ed;font-size:10px;color:#aaa;display:flex;justify-content:space-between}'+
+    '.actions{padding:16px 32px}button{font-size:13px;font-weight:600;padding:8px 16px;border-radius:8px;border:none;cursor:pointer;margin-right:8px}'+
+    '.bp{background:#0066CC;color:#fff}.bc{background:#f5f5f7;border:1px solid #d2d2d7}'+
+    '@media print{.actions{display:none}@page{size:A4 portrait;margin:14mm}}</style></head><body>'+
+    '<div class="header"><div class="brand">Mr. Supply Chain&#174; México &middot; mrsupplychain.ai &middot; Labs &middot; '+L('Safety Stock Calculator','Calculadora de Inventario de Seguridad')+'</div>'+
+    '<div class="title">'+L('Safety Stock &mdash; '+SL+'% service level','Inventario de seguridad &mdash; nivel de servicio de '+SL+'%')+'</div>'+
+    '<div class="meta">'+L('Generated: ','Generado: ')+date+' &nbsp;|&nbsp; SS = z&times;&radic;(LT&middot;&sigma;D&sup2;+D&sup2;&middot;&sigma;LT&sup2;)</div></div>'+
+    '<div class="body"><div class="metricline">'+metricHTML+'</div>'+
+    '<div class="fx">'+formula+'</div>'+slTable+'</div>'+
+    '<div class="foot"><span>Mr. Supply Chain&#174; México &middot; &#169; 2026 Ismael L&oacute;pez</span><span>'+L('Textbook model &mdash; sizes the buffer, not the full policy','Modelo de libro de texto &mdash; dimensiona el inventario de seguridad, no la pol&iacute;tica completa')+'</span></div>'+
+    '<div class="actions"><button class="bp" onclick="window.print()">&#128424; '+L('Print / Save PDF','Imprimir / Guardar PDF')+'</button><button class="bc" onclick="window.close()">&#10005; '+L('Close','Cerrar')+'</button></div>'+
+    '<\/body><\/html>';
+}
+function exportReport(){
+  var doc=buildReportHTML();
+  var w=window.open('','ss_report','width=1000,height=820,scrollbars=yes,resizable=yes');
+  if(w){w.document.write(doc);w.document.close();w.focus();}
+}
+
+/* ── language + menu ── */
+
+function interpSS(ss,unitCost,svcTarget){
+  if(!isFinite(ss)||ss<0)return '';
+  var c,txt,n=(100/(100-svcTarget)).toFixed(0);
+  if(svcTarget>=99){c='amber';txt=L('<b>'+svcTarget+'%:</b> each extra point now needs much more stock. Check it against the real cost of a stockout (lost margin, penalties).','<b>'+svcTarget+'%:</b> cada punto adicional ya pide mucho m&aacute;s inventario. Comp&aacute;ralo con el costo real de un faltante (margen perdido, penalizaciones).');}
+  else if(svcTarget>=95){c='green';txt=L('<b>'+svcTarget+'%:</b> a common level for consumer goods. The table shows the extra capital a 99%+ target would need.','<b>'+svcTarget+'%:</b> nivel habitual en bienes de consumo. La tabla muestra el capital adicional que pedir&iacute;a una meta de 99% o m&aacute;s.');}
+  else{c='amber';txt=L('<b>'+svcTarget+'%:</b> reasonable for low-criticality or easily substituted items. About 1 in '+n+' replenishment cycles will run out.','<b>'+svcTarget+'%:</b> razonable para art&iacute;culos de baja criticidad o f&aacute;ciles de sustituir. Cerca de 1 de cada '+n+' ciclos de reposici&oacute;n terminar&aacute; en faltante.');}
+  return '<div class="interp '+c+'"><div class="interp-text">'+txt+'</div></div>';
+}
+var HOWTO_SHOW='<span class="msc-en">Show &#9660;</span><span class="msc-es">Mostrar &#9660;</span>';
+var HOWTO_HIDE='<span class="msc-en">Hide &#9650;</span><span class="msc-es">Ocultar &#9650;</span>';
+function toggleHowTo(){
+  var h=document.getElementById('howTo'),b=document.getElementById('howToBtn');
+  var col=h.classList.toggle('collapsed');
+  b.innerHTML=col?HOWTO_SHOW:HOWTO_HIDE;
+  try{localStorage.setItem('howto_hidden',col?'1':'');}catch(ex){}
+}
+(function(){
+  try{
+    if(localStorage.getItem('howto_hidden')==='1'){
+      var h=document.getElementById('howTo');
+      if(h){
+        h.classList.add('collapsed');
+        var b=document.getElementById('howToBtn');
+        if(b){b.innerHTML=HOWTO_SHOW;}
+      }
+    }
+  }catch(ex){}
+})();
+var __lang="en";
+function setLang(l){
+  __lang=l;
+  document.querySelectorAll('.li-en').forEach(function(e){
+    e.style.display=l==='en'?(e.tagName==='SPAN'||e.tagName==='BUTTON'?'inline':'block'):'none';
+  });
+  document.querySelectorAll('.li-es').forEach(function(e){
+    e.style.display=l==='es'?(e.tagName==='SPAN'||e.tagName==='BUTTON'?'inline':'block'):'none';
+  });
+  document.getElementById('btn-lang-en').classList.toggle('on',l==='en');
+  document.getElementById('btn-lang-es').classList.toggle('on',l==='es');
+  try{localStorage.setItem('lang',l);}catch(ex){}
+}
+function toggleMenu(){var b=document.getElementById('hamburger'),m=document.getElementById('mobileMenu');b.classList.toggle('open');m.classList.toggle('open');}
+function closeMenu(){var b=document.getElementById('hamburger'),m=document.getElementById('mobileMenu');if(b)b.classList.remove('open');if(m)m.classList.remove('open');}
+document.addEventListener('click',function(e){var m=document.getElementById('mobileMenu'),b=document.getElementById('hamburger');if(m&&m.classList.contains('open')&&!m.contains(e.target)&&b&&!b.contains(e.target))closeMenu();},false);
+
+/* init */
+refreshStaticI18n();
+calc();
+/* Re-render the tool whenever the site language (html.msc-es) changes; inputs, mode and service level are kept. */
+(function(){
+  var lastES=isES();
+  new MutationObserver(function(){
+    var nowES=isES();
+    if(nowES===lastES)return;
+    lastES=nowES;
+    refreshStaticI18n();
+    calc();
+  }).observe(document.documentElement,{attributes:true,attributeFilter:['class']});
+})();
+/* Legacy nav sync: read-only (no calc()-time writes to localStorage 'lang'). */
+(function(){try{var s=localStorage.getItem('lang');if(s==='es'||s==='en'){setLang(s);}}catch(e){}})();
+</script>
+<script>/* msc title i18n */(function(){var en=document.title,es="Calculadora de Inventario de Seguridad \u00b7 Labs \u00b7 Mr. Supply Chain\u00ae México";function u(){document.title=document.documentElement.classList.contains("msc-es")?es:en}u();new MutationObserver(u).observe(document.documentElement,{attributes:true,attributeFilter:["class"]})})();</script>
+<script src="/assets/labs.js?v=2"></script>
+</body>
+</html>

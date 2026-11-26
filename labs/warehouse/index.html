@@ -1,0 +1,843 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Warehouse Layout Designer · Labs · Mr. Supply Chain® México</title>
+<meta name="description" content="Generate a warehouse floor plan by industry — enter your m², number of bays, dock doors, rack type and throughput, and get a scaled SVG layout with zone areas, rack counts, and operational specs. Retail, Food, Pharma, Oil & Gas, Chemical, Manufacturing. Mr. Supply Chain® México Labs."/>
+
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/site.css?v=8">
+<link rel="preload" href="/assets/fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/labs.css?v=2">
+<link rel="canonical" href="https://mrsupplychain.ai/labs/warehouse/">
+<link rel="alternate" hreflang="en" href="https://mrsupplychain.ai/labs/warehouse/">
+<link rel="alternate" hreflang="es" href="https://mrsupplychain.ai/es/labs/warehouse/">
+<link rel="alternate" hreflang="x-default" href="https://mrsupplychain.ai/labs/warehouse/">
+<meta property="og:image" content="https://mrsupplychain.ai/assets/og-index.png">
+
+<script src="/assets/lang.js?v=5" defer></script>
+<link rel="manifest" href="/manifest.webmanifest">
+<meta name="theme-color" content="#163e86">
+<link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="MSC México">
+</head>
+<body class="labs-app " data-tool="warehouse">
+<script src="/assets/site.js?v=15"></script>
+<div data-msc-legacy hidden aria-hidden="true"><button id="btn-lang-en" class="lb on" type="button">EN</button><button id="btn-lang-es" class="lb" type="button">ES</button><button id="hamburger" type="button"></button><div id="mobileMenu"></div></div>
+<header class="tb" role="toolbar" aria-label="Tool">
+  <div class="tb-in">
+    <nav class="tb-crumb" aria-label="Breadcrumb"><a href="/labs/"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg> Labs</a><span class="sep">/</span><span><span class="msc-en">Design</span><span class="msc-es">Diseñar</span></span></nav>
+    <div class="tb-title"><span class="tb-ic"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9l9-5 9 5v11H3zM7 20v-7h10v7M7 16h10"/></svg></span><h1><span class="msc-en">Warehouse Layout Designer</span><span class="msc-es">Diseñador de Layout de Almacén</span></h1><span class="tb-ver">v2.1</span><span class="tb-status"><span class="msc-en">Stable</span><span class="msc-es">Estable</span></span></div>
+    <div class="tb-spacer"></div>
+    <div class="tb-switch"><button type="button" aria-haspopup="true" aria-expanded="false"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg><span class="lbl"><span class="msc-en">Switch tool</span><span class="msc-es">Cambiar herramienta</span></span><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></button><div class="tb-switch-pop" role="menu"><div class="grp"><span class="msc-en">Plan</span><span class="msc-es">Planear</span></div><a href="/labs/forecast/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 17l6-6 4 4 8-8M15 7h6v6"/></svg><div><b><span class="msc-en">Demand Forecast Studio</span><span class="msc-es">Estudio de Pronóstico</span></b><span><span class="msc-en">Holt-Winters, MA, decomposition · MAPE on holdout</span><span class="msc-es">Holt-Winters, PM, descomposición · MAPE en holdout</span></span></div></a><a href="/labs/safety-stock/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l9 4.5-9 4.5-9-4.5L12 3zM3 12l9 4.5 9-4.5M3 16.5L12 21l9-4.5"/></svg><div><b><span class="msc-en">Safety Stock Calculator</span><span class="msc-es">Calculadora de Inventario de Seguridad</span></b><span><span class="msc-en">z · σDLT with working-capital trade-off</span><span class="msc-es">z · σDLT con capital de trabajo</span></span></div></a><a href="/labs/semis-buffer/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><rect x="7" y="7" width="10" height="10" rx="1.5"/><path d="M10 3v4M14 3v4M10 17v4M14 17v4M3 10h4M3 14h4M17 10h4M17 14h4"/></svg><div><b><span class="msc-en">Semiconductor Buffer Optimizer</span><span class="msc-es">Optimizador de Buffers de Semiconductores</span></b><span><span class="msc-en">Yield, binning, die bank, differentiated SL</span><span class="msc-es">Yield, binning, die bank, SL diferenciado</span></span></div></a><div class="grp"><span class="msc-en">Measure</span><span class="msc-es">Medir</span></div><a href="/labs/kpi/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V11M10 20V5M16 20v-6M3 20h18"/></svg><div><b><span class="msc-en">KPI Reference Library</span><span class="msc-es">Biblioteca de KPIs</span></b><span><span class="msc-en">58 KPIs · formula, target, benchmark</span><span class="msc-es">58 KPIs · fórmula, meta, benchmark</span></span></div></a><div class="grp"><span class="msc-en">Design</span><span class="msc-es">Diseñar</span></div><a href="/labs/network/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="6" r="2.5"/><circle cx="19" cy="6" r="2.5"/><circle cx="12" cy="18" r="2.5"/><path d="M7 7.5l3.5 8M17 7.5l-3.5 8M7.5 6h9"/></svg><div><b><span class="msc-en">Network Design Analyzer</span><span class="msc-es">Analizador de Diseño de Red</span></b><span><span class="msc-en">p-median siting, coverage, cost per zone</span><span class="msc-es">Localización p-median, cobertura, costo por zona</span></span></div></a><a href="/labs/warehouse/" class="on" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9l9-5 9 5v11H3zM7 20v-7h10v7M7 16h10"/></svg><div><b><span class="msc-en">Warehouse Layout Designer</span><span class="msc-es">Diseñador de Layout de Almacén</span></b><span><span class="msc-en">Scaled floor plan, zones, rack estimates</span><span class="msc-es">Plano a escala, zonas, estimado de racks</span></span></div></a><div class="all"><a href="/labs/" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg><div><b><span class="msc-en">All Labs tools</span><span class="msc-es">Todas las herramientas</span></b><span><span class="msc-en">Catalogue, simulators and experiments</span><span class="msc-es">Catálogo, simuladores y experimentos</span></span></div></a></div></div></div>
+    <div class="tb-actions"><button type="button" class="btn btn-ghost" onclick="toggleHowTo()" aria-controls="howTo" title="?"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M9.5 9.5a2.5 2.5 0 1 1 3.5 2.3c-.7.3-1 .9-1 1.7M12 17h.01"/></svg><span class="lbl"><span class="msc-en">Guide</span><span class="msc-es">Guía</span></span></button><button type="button" class="btn btn-primary" data-lb-export="exportPDF"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M4 19h16"/></svg><span class="lbl"><span class="msc-en">Export PDF</span><span class="msc-es">Exportar PDF</span></span></button></div>
+  </div>
+</header>
+<main class="ws">
+  <aside class="ws-side" aria-label="Warehouse setup">
+    <div class="panel"><div class="panel-title"><span class="msc-en">Industry template</span><span class="msc-es">Plantilla por industria</span></div><div class="industry-grid" id="industryGrid"></div></div>
+    <div class="panel params">
+    <div class="panel-title"><span class="msc-en">Building parameters</span><span class="msc-es">Parámetros del edificio</span></div>
+    <div class="params-grid">
+      <div class="param-field">
+        <div class="param-lbl"><span class="msc-en">Total area</span><span class="msc-es">&Aacute;rea total</span><span class="param-unit">m&sup2;</span></div>
+        <input class="param-input" id="inArea" type="number" value="5000" min="500" max="200000">
+        <div class="param-hint"><span class="msc-en">Gross floor area including all zones</span><span class="msc-es">&Aacute;rea bruta incluyendo todas las zonas</span></div>
+      </div>
+      <div class="param-field">
+        <div class="param-lbl"><span class="msc-en">Bays</span><span class="msc-es">Naves / Secciones</span><span class="param-unit">#</span></div>
+        <input class="param-input" id="inBays" type="number" value="2" min="1" max="12">
+        <div class="param-hint"><span class="msc-en">Structural bays separated by internal walls or columns</span><span class="msc-es">Naves estructurales separadas por muros o columnas</span></div>
+      </div>
+      <div class="param-field">
+        <div class="param-lbl"><span class="msc-en">Dock doors</span><span class="msc-es">Puertas de and&eacute;n</span><span class="param-unit">#</span></div>
+        <input class="param-input" id="inDoors" type="number" value="6" min="1" max="60">
+        <div class="param-hint"><span class="msc-en">Total dock levelers (inbound + outbound)</span><span class="msc-es">Total de niveladores de and&eacute;n (entrada + salida)</span></div>
+      </div>
+      <div class="param-field">
+        <div class="param-lbl"><span class="msc-en">Clear height</span><span class="msc-es">Altura libre</span><span class="param-unit">m</span></div>
+        <input class="param-input" id="inHeight" type="number" value="10" min="4" max="30" step="0.5">
+        <div class="param-hint"><span class="msc-en">Eave height to lowest obstruction</span><span class="msc-es">Altura hasta la obstrucci&oacute;n m&aacute;s baja</span></div>
+      </div>
+      <div class="param-field">
+        <div class="param-lbl"><div class="rack-label-row"><span class="msc-en">Rack type</span><span class="msc-es">Tipo de rack</span><button class="rack-info-btn" onclick="openRackPanel()" aria-label="Rack types" title="Rack types">&#8505;</button></div></div>
+        <select class="ctrl-select" id="inRack">
+          <option value="selective">Selective Rack</option>
+          <option value="drive-in">Drive-In Rack</option>
+          <option value="push-back">Push-Back Rack</option>
+          <option value="pallet-flow">Pallet Flow</option>
+          <option value="cantilever">Cantilever Rack</option>
+          <option value="mezzanine">Mezzanine / Multi-level</option>
+          <option value="mobile">Mobile Rack</option>
+        </select>
+        <div class="param-hint" id="rackHint"></div>
+      </div>
+      <div class="param-field">
+        <div class="param-lbl"><span class="msc-en">Daily throughput</span><span class="msc-es">Volumen diario</span><span class="param-unit"><span class="msc-en">pallets/day</span><span class="msc-es">tarimas/d&iacute;a</span></span></div>
+        <input class="param-input" id="inThroughput" type="number" value="120" min="10" max="5000">
+        <div class="param-hint"><span class="msc-en">Combined inbound + outbound pallet moves/day</span><span class="msc-es">Movimientos de tarimas por d&iacute;a (entrada + salida combinadas)</span></div>
+      </div>
+      <div class="param-field">
+        <div class="param-lbl"><span class="msc-en">Aisle width</span><span class="msc-es">Ancho de pasillo</span><span class="param-unit">m</span></div>
+        <select class="ctrl-select" id="inAisle">
+          <option value="3.5">3.5 m — Wide aisle (counterbalance)</option>
+          <option value="2.7" selected>2.7 m — Narrow aisle (reach truck)</option>
+          <option value="1.8">1.8 m — Very narrow aisle (turret)</option>
+        </select>
+        <div class="param-hint"><span class="msc-en">Determines rack density and equipment type</span><span class="msc-es">Determina densidad de rack y tipo de equipo</span></div>
+      </div>
+      <div class="param-field">
+        <div class="param-lbl"><span class="msc-en">Pallet footprint</span><span class="msc-es">Huella de tarima</span><span class="param-unit">m&sup2;</span></div>
+        <select class="ctrl-select" id="inPallet">
+          <option value="1.2">1.2 m&sup2; — Euro pallet (800×1200)</option>
+          <option value="1.44" selected>1.44 m&sup2; — Standard (1200×1200)</option>
+          <option value="1.8">1.8 m&sup2; — Industrial (1200×1500)</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Yard -->
+    </div>
+    <div class="panel"><div class="yard-section">
+      <div class="yard-section-lbl"><span class="msc-en">Yard / Maneuvering area</span><span class="msc-es">Patio de maniobras</span></div>
+      <div class="yard-grid">
+        <div class="param-field">
+          <div class="param-lbl"><span class="msc-en">Primary vehicle</span><span class="msc-es">Veh&iacute;culo principal</span></div>
+          <select class="ctrl-select" id="inVehicle" onchange="updateYardCalc()">
+            <option value="trailer">Trailer / Semi (18-wheeler)</option>
+            <option value="rigid" selected>Rigid truck (box truck)</option>
+            <option value="van">Van / Last-mile</option>
+          </select>
+          <div class="param-hint" id="yardHint"></div>
+        </div>
+        <div class="param-field">
+          <div class="param-lbl"><span class="msc-en">Yard area</span><span class="msc-es">&Aacute;rea de patio</span><span class="param-unit">m&sup2;</span></div>
+          <input class="param-input" id="inYardArea" type="number" value="1500" min="0">
+        </div>
+        <div class="param-field">
+          <div class="param-lbl"><span class="msc-en">Yard features</span><span class="msc-es">Elementos del patio</span></div>
+          <div style="display:flex;flex-direction:column;gap:6px;margin-top:2px">
+            <label style="display:flex;align-items:center;gap:7px;font-size:.74rem;cursor:pointer"><input type="checkbox" id="yardScale" checked> <span class="msc-en">Weigh scale</span><span class="msc-es">B&aacute;scula</span></label>
+            <label style="display:flex;align-items:center;gap:7px;font-size:.74rem;cursor:pointer"><input type="checkbox" id="yardGuard" checked> <span class="msc-en">Guard booth</span><span class="msc-es">Caseta de vigilancia</span></label>
+            <label style="display:flex;align-items:center;gap:7px;font-size:.74rem;cursor:pointer"><input type="checkbox" id="yardWait"> <span class="msc-en">Truck waiting</span><span class="msc-es">Espera de camiones</span></label>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    <div class="panel"><div class="zone-toggles">
+      <div class="zone-toggle-lbl"><span class="msc-en">Optional zones for this industry</span><span class="msc-es">Zonas opcionales para esta industria</span></div>
+      <div class="toggle-chips" id="zoneToggles"></div>
+    </div></div>
+    <button class="btn btn-primary btn-generate" type="button" onclick="generate()"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5l12 7-12 7z"/></svg><span class="msc-en">Generate warehouse plan</span><span class="msc-es">Generar plano de almacén</span></button>
+  </aside>
+  <div class="ws-intro">
+  <div>
+    <h2><span class="msc-en">Size each zone of a warehouse and estimate rack capacity</span><span class="msc-es">Dimensiona cada zona de un almacén y estima su capacidad de rack</span></h2>
+    <p><span class="msc-en">Choose the industry and enter area, bays, docks, clear height, rack type and daily volume. You get a schematic floor plan to scale, the area of each zone and an estimate of pallet positions. It is a first sizing, not a construction document.</span><span class="msc-es">Elige la industria y captura área, naves, andenes, altura libre, tipo de rack y volumen diario. Obtienes un plano esquemático a escala, el área de cada zona y un estimado de posiciones de tarima. Es un primer dimensionamiento, no un documento de construcción.</span></p>
+  </div>
+</div>
+  <section class="ws-main">
+    
+  <div id="metricsStrip"></div>
+  <div class="output-grid" id="outputGrid" style="display:none">
+    <div class="panel plan-panel">
+      <div class="plan-head">
+        <div>
+          <div class="plan-title"><span class="msc-en">Floor plan</span><span class="msc-es">Plano de planta</span></div>
+          <div class="plan-meta" id="planMeta"></div>
+        </div>
+        <div class="plan-actions">
+          <button class="btn btn-sm" type="button" onclick="copyPlanSVG()"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg><span class="msc-en">Copy SVG</span><span class="msc-es">Copiar SVG</span></button>
+          <button class="btn btn-sm" type="button" onclick="exportPDF()"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M4 19h16"/></svg><span class="msc-en">Export PDF</span><span class="msc-es">Exportar PDF</span></button>
+        </div>
+      </div>
+      <div class="floor-box" id="floorBox"></div>
+      <div class="rack-box" id="rackBox"></div>
+    </div>
+    <div class="panel zone-table-panel">
+      <div class="panel-title" style="margin-bottom:6px"><span class="msc-en">Zone breakdown</span><span class="msc-es">Desglose de zonas</span></div>
+      <div id="zoneTable"></div>
+      <div class="lb-read" id="rdZones" style="margin-top:12px"></div>
+    </div>
+  </div>
+
+  <div class="disclaimer" id="disclaimer" style="display:none">
+    <span class="msc-en"><b>Method and limits.</b> Zone allocations follow industry practice references (GxP, NFPA, OSHA, GDP) and scale with your inputs. The plan is schematic: it does not consider column grid, emergency exits, structural loads or local building codes. Rack counts are estimated from standard bay dimensions. Data never leaves your browser.</span>
+    <span class="msc-es"><b>Método y límites.</b> La asignación de zonas sigue referencias de práctica de la industria (GxP, NFPA, OSHA, GDP) y se escala con tus datos. El plano es esquemático: no considera retícula de columnas, salidas de emergencia, cargas estructurales ni reglamentos locales. Las posiciones de rack se estiman con dimensiones estándar de bahía. Los datos no salen de tu navegador.</span>
+  </div>
+
+</div>
+
+
+
+
+
+
+  </section>
+</main>
+<div class="rack-panel" id="rackPanel" onclick="closeRackPanelOutside(event)"><div class="rack-panel-inner"><div class="rack-panel-head"><div class="rack-panel-title"><span class="msc-en">&#128218; Rack types</span><span class="msc-es">&#128218; Tipos de rack</span></div><button class="rack-panel-close" onclick="closeRackPanel()" aria-label="Close" title="Close">&#10005;</button></div><div class="rack-cards" id="rackCards"></div><div class="rack-select-hint"><span class="msc-en">Click any card to select it.</span><span class="msc-es">Haz clic en cualquier tarjeta para seleccionarla.</span></div></div>
+<div class="how-to" id="howTo"><div class="how-to-head"><div class="how-to-title"><span class="msc-en">Guide</span><span class="msc-es">Guía</span></div><button class="how-to-toggle" id="howToBtn"></button></div><div class="how-to-steps"><div class="how-to-step"><div class="step-num">1</div><div class="step-body"><div class="step-title"><span class="msc-en">Choose the industry</span><span class="msc-es">Elige la industria</span></div><div class="step-desc"><span class="msc-en">Each industry loads its own zone template, for example quarantine and cold chain in pharma, or pipe yard in oil and gas.</span><span class="msc-es">Cada industria carga su propia plantilla de zonas, por ejemplo cuarentena y cadena fría en farma, o patio de tubería en petróleo y gas.</span></div></div></div><div class="how-to-step"><div class="step-num">2</div><div class="step-body"><div class="step-title"><span class="msc-en">Enter the building</span><span class="msc-es">Captura el edificio</span></div><div class="step-desc"><span class="msc-en">Total area, bays, dock doors, clear height, rack type and daily volume. Turn optional zones on or off.</span><span class="msc-es">Área total, naves, puertas de andén, altura libre, tipo de rack y volumen diario. Activa o desactiva las zonas opcionales.</span></div></div></div><div class="how-to-step"><div class="step-num">3</div><div class="step-body"><div class="step-title"><span class="msc-en">Generate and export</span><span class="msc-es">Genera y exporta</span></div><div class="step-desc"><span class="msc-en">Generate the plan, check the zone breakdown and rack estimate, and export to PDF or copy the SVG.</span><span class="msc-es">Genera el plano, revisa el desglose de zonas y el estimado de racks, y exporta a PDF o copia el SVG.</span></div></div></div></div></div>
+<script>
+/* ============================================================
+   WAREHOUSE LAYOUT DESIGNER
+   Industry-aware zone templates → scaled SVG floor plan
+   ============================================================ */
+
+/* ---------- i18n helpers (site language = html.msc-es; the tool never writes localStorage 'lang') ---------- */
+function isES(){return document.documentElement.classList.contains('msc-es');}
+function L(en,es){return isES()?es:en;}
+function rkName(r){return L(r.name,r.nameEs);}
+function rkDen(r){return L(r.density,r.densityEs);}
+var OPT_LABELS={
+  inRack:{selective:['Selective Rack','Rack selectivo'],'drive-in':['Drive-In Rack','Rack drive-in'],'push-back':['Push-Back Rack','Rack push-back'],
+    'pallet-flow':['Pallet Flow','Rack de flujo (pallet flow)'],cantilever:['Cantilever Rack','Rack cantilever'],
+    mezzanine:['Mezzanine / Multi-level','Entrepiso / Multinivel'],mobile:['Mobile Rack','Rack m\u00f3vil']},
+  inAisle:{'3.5':['3.5 m \u2014 Wide aisle (counterbalance)','3.5 m \u2014 Pasillo ancho (contrabalanceado)'],
+    '2.7':['2.7 m \u2014 Narrow aisle (reach truck)','2.7 m \u2014 Pasillo angosto (retr\u00e1ctil)'],
+    '1.8':['1.8 m \u2014 Very narrow aisle (turret)','1.8 m \u2014 Pasillo muy angosto (trilateral)']},
+  inPallet:{'1.2':['1.2 m\u00b2 \u2014 Euro pallet (800\u00d71200)','1.2 m\u00b2 \u2014 Tarima europea (800\u00d71200)'],
+    '1.44':['1.44 m\u00b2 \u2014 Standard (1200\u00d71200)','1.44 m\u00b2 \u2014 Est\u00e1ndar (1200\u00d71200)'],
+    '1.8':['1.8 m\u00b2 \u2014 Industrial (1200\u00d71500)','1.8 m\u00b2 \u2014 Industrial (1200\u00d71500)']},
+  inVehicle:{trailer:['Trailer / Semi (18-wheeler)','Tr\u00e1iler / Semirremolque (18 ruedas)'],
+    rigid:['Rigid truck (box truck)','Cami\u00f3n r\u00edgido (caja seca)'],van:['Van / Last-mile','Van / \u00daltima milla']}
+};
+/* Options, aria-labels and titles: refreshed on load and on every language change (selected values are untouched). */
+function refreshStaticI18n(){
+  Object.keys(OPT_LABELS).forEach(function(id){
+    var sel=document.getElementById(id);if(!sel)return;
+    Array.prototype.forEach.call(sel.options,function(o){var t=OPT_LABELS[id][o.value];if(t)o.textContent=L(t[0],t[1]);});
+  });
+  var ib=document.querySelector('.rack-info-btn');
+  if(ib){ib.setAttribute('aria-label',L('Rack types','Tipos de rack'));ib.setAttribute('title',L('Rack types','Tipos de rack'));}
+  var cb=document.querySelector('.rack-panel-close');
+  if(cb){cb.setAttribute('aria-label',L('Close','Cerrar'));cb.setAttribute('title',L('Close','Cerrar'));}
+  document.querySelectorAll('.ind-card').forEach(function(c){
+    var ind=INDUSTRIES[c.id.replace('ind-','')];
+    if(ind)c.querySelector('.ind-name').innerHTML=L(ind.name,ind.nameEs);
+  });
+}
+
+/* ── INDUSTRY + ZONE DATA ── */
+var INDUSTRIES = {
+  retail:{name:'Retail / E-commerce',nameEs:'Retail / Comercio electr\u00f3nico',icon:'&#128722;',color:'#0066CC',rackDefault:'selective',
+    zones:[
+      {id:'receiving', name:'Receiving / Inbound',       nameEs:'Recepci\u00f3n / Entradas',           pct:12, color:'#64b5f6', req:true,  desc:'Unloading, counting, QC inspection, label application',descEs:'Descarga, conteo, inspecci\u00f3n de calidad, etiquetado'},
+      {id:'bulk',      name:'Bulk Storage',               nameEs:'Almacenamiento masivo',                   pct:30, color:'#1565c0', req:true,  desc:'High-density storage: selective rack or drive-in for full pallets',descEs:'Almacenaje de alta densidad: rack selectivo o drive-in para tarimas completas'},
+      {id:'picking',   name:'Pick & Pack',                nameEs:'Surtido y empaque',                   pct:22, color:'#42a5f5', req:true,  desc:'Order picking lanes, packing stations, void fill',descEs:'Pasillos de surtido, estaciones de empaque, material de relleno'},
+      {id:'returns',   name:'Returns / Reverse',          nameEs:'Devoluciones / Reversa',              pct:8,  color:'#90caf9', req:true,  desc:'Receiving, inspection, disposition of customer returns',descEs:'Recepci\u00f3n, inspecci\u00f3n y disposici\u00f3n de devoluciones'},
+      {id:'staging',   name:'Outbound Staging',           nameEs:'Preparaci\u00f3n de embarques',                      pct:12, color:'#bbdefb', req:true,  desc:'Sorted orders awaiting carrier pickup, dock assignment',descEs:'Pedidos clasificados en espera de transportista, asignaci\u00f3n de and\u00e9n'},
+      {id:'office',    name:'Office / WMS Control',       nameEs:'Oficina / Control WMS',               pct:4,  color:'#e3f2fd', req:true,  desc:'Supervisory office, WMS terminals, break room',descEs:'Oficina de supervisi\u00f3n, terminales WMS, sala de descanso'},
+      {id:'ecommerce', name:'E-com Sorter / Conveyor',    nameEs:'Clasificador / Transportador e-commerce',             pct:8,  color:'#0288d1', req:false, desc:'Automated sortation, conveyor loop, put-to-light',descEs:'Clasificaci\u00f3n automatizada, circuito de transportadores, put-to-light'},
+      {id:'vas',       name:'Value-Added Services',       nameEs:'Servicios de Valor Agregado',         pct:4,  color:'#039be5', req:false, desc:'Kitting, gift wrapping, co-packing, labeling',descEs:'Armado de kits, envoltura de regalo, co-empaque, etiquetado'},
+    ]},
+  food:{name:'Food & Beverage / Cold Chain',nameEs:'Alimentos y Bebidas / Cadena Fr\u00eda',icon:'&#129398;',color:'#00838f',rackDefault:'drive-in',
+    zones:[
+      {id:'receiving',     name:'Receiving (Ambient)',  nameEs:'Recepci\u00f3n (Ambiente)',   pct:8,  color:'#80cbc4', req:true,  desc:'Ambient product inbound, QC, temperature logging',descEs:'Entrada de producto ambiente, QC, registro de temperatura'},
+      {id:'receiving_cold',name:'Receiving (Cold)',     nameEs:'Recepci\u00f3n (Fr\u00edo)', pct:5,  color:'#00acc1', req:true,  desc:'Refrigerated dock, temp-controlled staging for cold chain',descEs:'And\u00e9n refrigerado, preparaci\u00f3n a temperatura controlada para cadena fr\u00eda'},
+      {id:'freezer',       name:'Freezer (-18\u00b0C)',  nameEs:'Congelador (-18\u00b0C)',     pct:18, color:'#0097a7', req:true,  desc:'Blast freezer or multi-temp frozen storage, walk-in panels',descEs:'Ultracongelaci\u00f3n o almacenamiento congelado multi-temperatura'},
+      {id:'cold',          name:'Cooler (0\u20134\u00b0C)',nameEs:'C\u00e1mara (0\u20134\u00b0C)',pct:15,color:'#00838f',req:true,desc:'Refrigerated storage for fresh/chilled products',descEs:'Almacenaje refrigerado para producto fresco'},
+      {id:'ambient',       name:'Ambient Storage',      nameEs:'Almacenaje Ambiente',         pct:20, color:'#b2dfdb', req:true,  desc:'Dry grocery, shelf-stable, FIFO flow rack',descEs:'Comestibles secos, productos estables en anaquel, rack de flujo FIFO'},
+      {id:'picking',       name:'Order Assembly',       nameEs:'Armado de pedidos',         pct:14, color:'#4db6ac', req:true,  desc:'Multi-temp order picking, protective gear stations',descEs:'Surtido multi-temperatura, estaciones de equipo de protecci\u00f3n'},
+      {id:'staging',       name:'Outbound / Loading',   nameEs:'Salida / Carga',              pct:10, color:'#80cbc4', req:true,  desc:'Refrigerated dock staging, load sequencing',descEs:'Preparaci\u00f3n en and\u00e9n refrigerado, secuenciaci\u00f3n de carga'},
+      {id:'sanitation',    name:'Sanitation / Wash',    nameEs:'Sanitizaci\u00f3n / Lavado',  pct:5,  color:'#e0f2f1', req:true,  desc:'Equipment wash-down, cleaning supply storage, FSMA compliance',descEs:'Lavado de equipo, almacenaje de limpieza, cumplimiento FSMA'},
+      {id:'office',        name:'Office / QA Lab',      nameEs:'Oficina / Laboratorio QA',            pct:5,  color:'#e0f7fa', req:true,  desc:'Temperature monitoring HQ, QA sampling lab, HACCP records',descEs:'Central de monitoreo de temperatura, laboratorio de muestreo QA, registros HACCP'},
+    ]},
+  pharma:{name:'Pharmaceutical / Healthcare',nameEs:'Farmac\u00e9utico / Salud',icon:'&#128138;',color:'#6a1b9a',rackDefault:'selective',
+    zones:[
+      {id:'receiving', name:'Receiving / GDP Check',  nameEs:'Recepci\u00f3n / Revisi\u00f3n GDP',pct:8, color:'#ce93d8',req:true,  desc:'GxP-compliant inbound: documentation, seal verification, temp log',descEs:'Entrada conforme GxP: documentaci\u00f3n, verificaci\u00f3n de sellos, registro de temperatura'},
+      {id:'quarantine',name:'Quarantine',             nameEs:'Cuarentena',                     pct:10,color:'#f48fb1',req:true,  desc:'Physical or system quarantine pending QA release, locked access',descEs:'Cuarentena f\u00edsica o en sistema pendiente de liberaci\u00f3n QA, acceso restringido'},
+      {id:'controlled',name:'Controlled Substances',  nameEs:'Sustancias Controladas',         pct:6, color:'#ab47bc',req:true,  desc:'Locked cage or vault, dual-key access, narcotic register',descEs:'Jaula o b\u00f3veda cerrada, acceso de doble llave, registro de narc\u00f3ticos'},
+      {id:'cold_chain', name:'Cold Chain (2\u20138\u00b0C)',nameEs:'Cadena Fr\u00eda (2\u20138\u00b0C)',pct:15,color:'#7b1fa2',req:true,desc:'Validated refrigerated zone, continuous monitoring, backup power',descEs:'Zona refrigerada validada, monitoreo continuo, energ\u00eda de respaldo'},
+      {id:'ambient',   name:'GDP Ambient Storage',    nameEs:'Almacenaje GDP Ambiente',        pct:28,color:'#e1bee7',req:true,  desc:'Serialized stock, FEFO picking, segregated by status',descEs:'Inventario serializado, surtido FEFO, segregado por estatus'},
+      {id:'picking',   name:'Pick & Dispatch',        nameEs:'Surtido y despacho',             pct:14,color:'#ba68c8',req:true,  desc:'GDP picking, tamper-evident packaging, serialization verification',descEs:'Surtido GDP, empaque a prueba de manipulaci\u00f3n, verificaci\u00f3n de serializaci\u00f3n'},
+      {id:'returns',   name:'Returns / Rejected',     nameEs:'Devoluciones / Rechazados',      pct:6, color:'#9c27b0',req:true,  desc:'Returned goods processing, rejection/recall segregation',descEs:'Procesamiento de devoluciones, segregaci\u00f3n de rechazos/retiros'},
+      {id:'office',    name:'QA Office / Archive',    nameEs:'Oficina QA / Archivo',           pct:6, color:'#f3e5f5',req:true,  desc:'QA documentation, SOP library, deviation management',descEs:'Documentaci\u00f3n QA, biblioteca de SOPs, gesti\u00f3n de desviaciones'},
+      {id:'staging',   name:'Dispatch Staging',       nameEs:'Preparaci\u00f3n de despacho',               pct:7, color:'#e1bee7',req:true,  desc:'GDP-compliant staging, temperature excursion monitoring',descEs:'Preparaci\u00f3n conforme GDP, monitoreo de excursiones de temperatura'},
+    ]},
+  oilgas:{name:'Oil & Gas / Energy',nameEs:'Petr\u00f3leo y gas / Energ\u00eda',icon:'&#128226;',color:'#e65100',rackDefault:'cantilever',
+    zones:[
+      {id:'receiving', name:'Receiving / Inspection',  nameEs:'Recepci\u00f3n / Inspecci\u00f3n', pct:10,color:'#ffcc80',req:true, desc:'Equipment unloading, dimensional check, material traceability tagging',descEs:'Descarga de equipo, verificaci\u00f3n dimensional, etiquetado de trazabilidad'},
+      {id:'pipe',      name:'Pipe & Tubular Yard',     nameEs:'Patio de Tuber\u00eda',            pct:20,color:'#ff9800',req:true, desc:'Open or covered yard: cantilever rack for long goods, pipe bundles',descEs:'Patio cubierto o abierto: rack cantilever para mercanc\u00eda larga, paquetes de tubo'},
+      {id:'containers',name:'ISO Container Storage',   nameEs:'Almacenaje Contenedores ISO',     pct:12,color:'#f57c00',req:true, desc:'DNV/offshore containers, FIFO stacking, inspection record by unit',descEs:'Contenedores DNV/offshore, apilamiento FIFO, registro de inspecci\u00f3n por unidad'},
+      {id:'hazmat',    name:'Hazmat / Chemicals',      nameEs:'Materiales peligrosos / Qu\u00edmicos',           pct:8, color:'#e65100',req:true, desc:'Spill bunds, fire suppression, chemical segregation per NFPA 30',descEs:'Diques de contenci\u00f3n, supresi\u00f3n de incendios, segregaci\u00f3n qu\u00edmica seg\u00fan NFPA 30'},
+      {id:'mro',       name:'MRO / Spare Parts',       nameEs:'MRO / Refacciones',               pct:20,color:'#ffe0b2',req:true, desc:'Selective rack for critical spares, rotable tracking, min/max control',descEs:'Rack selectivo para refacciones cr\u00edticas, seguimiento de rotables, control min/max'},
+      {id:'staging',   name:'Dispatch / Load Out',     nameEs:'Despacho / Carga',                pct:12,color:'#ffb74d',req:true, desc:'Rig-ready assembly, load-out sequencing, weight/dim verification',descEs:'Armado listo para plataforma, secuenciaci\u00f3n de carga, verificaci\u00f3n de peso y dimensiones'},
+      {id:'equipment', name:'Heavy Equipment Bay',     nameEs:'Bah\u00eda Equipo Pesado',         pct:10,color:'#ef6c00',req:false,desc:'Forklift maintenance, crane bay, equipment inspection pit',descEs:'Mantenimiento de montacargas, bah\u00eda de gr\u00faa, fosa de inspecci\u00f3n de equipo'},
+      {id:'office',    name:'Control Room / Office',   nameEs:'Sala de Control / Oficina',       pct:8, color:'#fff3e0',req:true, desc:'Operations control, asset tracking screens, HSE board',descEs:'Control de operaciones, pantallas de seguimiento de activos, tablero HSE'},
+    ]},
+  chemical:{name:'Chemicals / Hazmat',nameEs:'Qu\u00edmicos / Materiales peligrosos',icon:'&#9879;&#65039;',color:'#558b2f',rackDefault:'selective',
+    zones:[
+      {id:'receiving', name:'Receiving / SDS Check',   nameEs:'Recepci\u00f3n / Revisi\u00f3n SDS',pct:8, color:'#aed581',req:true, desc:'MSDS/SDS verification, DOT placard check, leak inspection, labeling',descEs:'Verificaci\u00f3n MSDS/SDS, revisi\u00f3n de placas DOT, inspecci\u00f3n de fugas, etiquetado'},
+      {id:'flammable', name:'Flammable Storage',        nameEs:'Almacenaje Inflamables',           pct:16,color:'#f57f17',req:true, desc:'Explosion-proof, non-sparking equip, \u22653 m from ignition, bunded floor',descEs:'A prueba de explosi\u00f3n, equipo no generador de chispas, \u22653 m de fuentes de ignici\u00f3n'},
+      {id:'corrosive', name:'Corrosive Zone',           nameEs:'Zona Corrosivos',                  pct:12,color:'#827717',req:true, desc:'Acid/alkali segregation, neutralizer stations, secondary containment',descEs:'Segregaci\u00f3n \u00e1cido/\u00e1lcali, estaciones neutralizadoras, contenci\u00f3n secundaria'},
+      {id:'toxic',     name:'Toxic / High-hazard',      nameEs:'T\u00f3xicos / Alto Riesgo',       pct:10,color:'#558b2f',req:true, desc:'Enclosed, negative pressure, PPE dispense, restricted access',descEs:'Recinto cerrado, presi\u00f3n negativa, dispensador de EPP, acceso restringido'},
+      {id:'oxidizers', name:'Oxidizers',                nameEs:'Oxidantes',                        pct:8, color:'#33691e',req:true, desc:'Segregated from flammables (min 15 m or fire wall), no organics adjacent',descEs:'Segregados de inflamables (m\u00edn 15 m o muro cortafuego), sin org\u00e1nicos adyacentes'},
+      {id:'general',   name:'Non-hazardous Storage',    nameEs:'Almacenaje No Peligroso',          pct:18,color:'#c5e1a5',req:true, desc:'UN-compatible general chemicals, compliant shelving, spill kit access',descEs:'Qu\u00edmicos generales UN-compatibles, estanter\u00eda conforme, acceso a kit de derrames'},
+      {id:'picking',   name:'Dispensing / Filling',     nameEs:'Dispensado / Llenado',             pct:12,color:'#8bc34a',req:true, desc:'Controlled dispensing, weighing station, waste container collection',descEs:'Dispensado controlado, estaci\u00f3n de pesado, recolecci\u00f3n de contenedores de residuo'},
+      {id:'waste',     name:'Waste / Disposal Staging', nameEs:'Residuos / Disposici\u00f3n final',pct:6,color:'#9e9d24',req:true,desc:'UN-approved containers, manifest tracking, carrier pickup area',descEs:'Contenedores aprobados UN, seguimiento de manifiestos, \u00e1rea de recolecci\u00f3n'},
+      {id:'office',    name:'Safety Office / ERT',      nameEs:'Oficina Seguridad / ERT',          pct:10,color:'#f9fbe7',req:true, desc:'Emergency response team room, eyewash/shower, SCBA storage',descEs:'Sala de equipo de respuesta, lavaojos/ducha, almacenaje SCBA'},
+    ]},
+  manufacturing:{name:'Manufacturing / Automotive',nameEs:'Manufactura / Automotriz',icon:'&#127981;',color:'#37474f',rackDefault:'selective',
+    zones:[
+      {id:'receiving', name:'Receiving / GRN',         nameEs:'Recepci\u00f3n / GRN',        pct:8, color:'#b0bec5',req:true, desc:'Goods receipt note, supplier label verification, incoming QC',descEs:'Nota de recepci\u00f3n, verificaci\u00f3n de etiqueta de proveedor, QC de entrada'},
+      {id:'raw',       name:'Raw Material Store',      nameEs:'Almac\u00e9n de Materia Prima', pct:22,color:'#78909c',req:true, desc:'BOM-linked storage, FIFO/FEFO per material, kanban supermarket',descEs:'Almacenaje ligado al BOM, FIFO/FEFO por material, supermercado kanban'},
+      {id:'wip',       name:'WIP Buffer',              nameEs:'Inventario en proceso (WIP)',                   pct:12,color:'#546e7a',req:true, desc:'Work-in-process staging between production stages, CONWIP control',descEs:'Resguardo de producto en proceso entre etapas, control CONWIP'},
+      {id:'lineside',  name:'Lineside / Supermarket',  nameEs:'Pie de l\u00ednea / Supermercado',      pct:10,color:'#607d8b',req:true, desc:'Milk-run fed, sequenced parts, kitting area, water spider route',descEs:'Alimentado por milk-run, partes secuenciadas, \u00e1rea de armado de kits, ruta water spider'},
+      {id:'finished',  name:'Finished Goods',          nameEs:'Producto Terminado',           pct:20,color:'#90a4ae',req:true, desc:'FG buffer, serialized pallet tracking, FIFO lanes, ship-from-stock',descEs:'Inventario de PT, seguimiento de tarimas serializadas, carriles FIFO'},
+      {id:'tooling',   name:'Tooling / Jigs Store',    nameEs:'Almac\u00e9n de Herramental', pct:6, color:'#455a64',req:true, desc:'Calibrated tooling, gauge storage, tool crib, maintenance schedule',descEs:'Herramental calibrado, resguardo de calibradores, pa\u00f1ol de herramientas'},
+      {id:'defects',   name:'Defects / NCMR Zone',     nameEs:'Zona Defectos / NCMR',        pct:6, color:'#ef5350',req:true, desc:'Non-conforming material review, red-tag area, rework staging',descEs:'Revisi\u00f3n de material no conforme, \u00e1rea de etiqueta roja, resguardo para retrabajo'},
+      {id:'staging',   name:'Outbound / Milk Run',     nameEs:'Salida / Milk run',            pct:10,color:'#cfd8dc',req:true, desc:'Sequenced shipment staging, KANBAN signal board, carrier docks',descEs:'Preparaci\u00f3n de embarques secuenciados, tablero de se\u00f1ales KANBAN, andenes de transportistas'},
+      {id:'office',    name:'Production Control',      nameEs:'Control de Producci\u00f3n',   pct:6, color:'#eceff1',req:true, desc:'Production scheduling screens, andon display, quality wall',descEs:'Pantallas de programaci\u00f3n, tablero andon, muro de calidad'},
+    ]}
+};
+
+var RACK_TYPES = {
+  selective:   {name:'Selective Rack',         density:'Low-Med',nameEs:'Rack selectivo',densityEs:'Baja-media',  aisleM:2.7, palletsPer100m2:18, desc:'Universal fast access. Best for mixed SKUs and pick-from-pallet. Every pallet directly accessible.',descEs:'Acceso r\u00e1pido universal. Ideal para SKUs mixtos y surtido desde tarima. Cada tarima accesible directamente.'},
+  'drive-in':  {name:'Drive-In Rack',          density:'High',nameEs:'Rack drive-in',densityEs:'Alta',     aisleM:3.5, palletsPer100m2:28, desc:'LIFO, high density for homogeneous product. Forklift drives into the rack. Common in food/cold storage.',descEs:'LIFO, alta densidad para producto homog\u00e9neo. El montacargas ingresa al rack. Com\u00fan en alimentos y fr\u00edo.'},
+  'push-back': {name:'Push-Back Rack',         density:'High',nameEs:'Rack push-back',densityEs:'Alta',     aisleM:3.0, palletsPer100m2:25, desc:'LIFO, 2\u20135 pallets deep per lane. Good for limited SKUs at high volume per location.',descEs:'LIFO, 2\u20135 tarimas de profundidad por carril. Bueno para pocos SKUs con alto volumen por ubicaci\u00f3n.'},
+  'pallet-flow':{name:'Pallet Flow',           density:'High',nameEs:'Rack de flujo (pallet flow)',densityEs:'Alta',     aisleM:3.5, palletsPer100m2:26, desc:'FIFO gravity flow. Ideal for FEFO-driven industries (pharma, food). Loads from back, picks from front.',descEs:'Flujo gravitacional FIFO. Ideal para industrias FEFO (farma, alimentos). Se carga por atr\u00e1s y se surte por el frente.'},
+  cantilever:  {name:'Cantilever Rack',        density:'Med',nameEs:'Rack cantilever',densityEs:'Media',      aisleM:3.5, palletsPer100m2:12, desc:'For long goods: pipe, lumber, profiles. No vertical columns obstructing the item length.',descEs:'Para mercanc\u00eda larga: tuber\u00eda, madera, perfiles. Sin columnas verticales que obstruyan la longitud.'},
+  mezzanine:   {name:'Mezzanine / Multi-level',density:'Very High',nameEs:'Entrepiso / Multinivel',densityEs:'Muy alta',aisleM:2.7, palletsPer100m2:32, desc:'Structural mezzanine doubles usable floor area. Common in e-commerce pick zones and archives.',descEs:'Entrepiso estructural que duplica el \u00e1rea \u00fatil. Com\u00fan en zonas de surtido e-commerce y archivos.'},
+  mobile:      {name:'Mobile Rack',            density:'Very High',nameEs:'Rack m\u00f3vil',densityEs:'Muy alta',aisleM:1.5, palletsPer100m2:36, desc:'Motorized moving aisles, maximum density, one active aisle. Used in pharma, archive, cold stores.',descEs:'Pasillos m\u00f3viles motorizados, densidad m\u00e1xima, un pasillo activo. Usado en farma, archivo, c\u00e1maras.'}
+};
+
+/* ── STATE ── */
+var CUR_IND = 'retail';
+var ACTIVE_ZONES = {};  // zoneId -> true/false
+var LAST_RESULT = null;
+
+/* ── INIT ── */
+function init(){
+  buildIndustryGrid();
+  selectIndustry('retail');
+  updateRackHint();
+  updateYardCalc();
+}
+
+/* ── INDUSTRY GRID ── */
+function buildIndustryGrid(){
+  var g=document.getElementById('industryGrid');
+  var html='';
+  Object.keys(INDUSTRIES).forEach(function(k){
+    var ind=INDUSTRIES[k];
+    html+='<div class="ind-card" id="ind-'+k+'" onclick="selectIndustry(\''+k+'\')">'
+      +'<div class="ind-icon">'+ind.icon+'</div>'
+      +'<div class="ind-name">'+(isES()?ind.nameEs:ind.name)+'</div>'
+      +'</div>';
+  });
+  g.innerHTML=html;
+}
+
+function selectIndustry(k){
+  CUR_IND=k;
+  document.querySelectorAll('.ind-card').forEach(function(c){c.classList.remove('active');});
+  var el=document.getElementById('ind-'+k);
+  if(el)el.classList.add('active');
+  // set rack default
+  var rack=INDUSTRIES[k].rackDefault;
+  var sel=document.getElementById('inRack');
+  if(sel)sel.value=rack;
+  updateRackHint();
+  buildZoneToggles(k);
+  // update industry card names for language
+  document.querySelectorAll('.ind-card').forEach(function(c){
+    var ikey=c.id.replace('ind-','');
+    var ind=INDUSTRIES[ikey];
+    if(ind)c.querySelector('.ind-name').innerHTML=L(ind.name,ind.nameEs);
+  });
+}
+
+/* ── ZONE TOGGLES ── */
+function buildZoneToggles(k){
+  var zones=INDUSTRIES[k].zones;
+  var optional=zones.filter(function(z){return !z.req;});
+  var tc=document.getElementById('zoneToggles');
+  if(!optional.length){tc.innerHTML='<span style="font-size:.72rem;color:#6e6e73"><span class="msc-en">All zones are required for this industry.</span><span class="msc-es">Todas las zonas son obligatorias para esta industria.</span></span>';return;}
+  var html='';
+  optional.forEach(function(z){
+    var on=ACTIVE_ZONES[z.id]!==false; // default on
+    html+='<label class="toggle-chip'+(on?' on':'')+'" id="chip-'+z.id+'" onclick="toggleZone(\''+z.id+'\')">'
+      +'<span class="chip-dot"></span>'
+      +'<span class="msc-en">'+z.name+'</span>'
+      +'<span class="msc-es">'+z.nameEs+'</span>'
+      +'</label>';
+  });
+  tc.innerHTML=html;
+}
+
+function toggleZone(id){
+  var chip=document.getElementById('chip-'+id);
+  if(!chip)return;
+  var on=!chip.classList.contains('on');
+  chip.classList.toggle('on',on);
+  chip.querySelector('.chip-dot').style.background=on?'#0066CC':'#d2d2d7';
+  ACTIVE_ZONES[id]=on;
+}
+
+/* ── RACK HINT ── */
+function updateRackHint(){
+  var rack=document.getElementById('inRack').value;
+  var r=RACK_TYPES[rack];
+  if(!r)return;
+  var hint=document.getElementById('rackHint');
+  if(hint)hint.innerHTML='<span class="msc-en"><b>Density: '+r.density+'.</b> '+r.desc+'</span>'
+    +'<span class="msc-es"><b>Densidad: '+r.densityEs.toLowerCase()+'.</b> '+r.descEs+'</span>';
+}
+document.getElementById('inRack').addEventListener('change',updateRackHint);
+
+/* ── GENERATE ── */
+function generate(){
+  var area=parseFloat(document.getElementById('inArea').value)||5000;
+  var bays=parseInt(document.getElementById('inBays').value)||2;
+  var doors=parseInt(document.getElementById('inDoors').value)||6;
+  var height=parseFloat(document.getElementById('inHeight').value)||10;
+  var rack=document.getElementById('inRack').value;
+  var throughput=parseFloat(document.getElementById('inThroughput').value)||120;
+  var aisleW=parseFloat(document.getElementById('inAisle').value)||2.7;
+  var palletFP=parseFloat(document.getElementById('inPallet').value)||1.44;
+  var ind=INDUSTRIES[CUR_IND];
+
+  // build active zone list (req zones always on; optional zones per toggle state)
+  var zones=ind.zones.filter(function(z){
+    if(z.req)return true;
+    return ACTIVE_ZONES[z.id]!==false; // optional default on
+  });
+
+  // re-normalise percentages to 100 if some optional zones removed
+  var total=zones.reduce(function(s,z){return s+z.pct;},0);
+  zones=zones.map(function(z){return Object.assign({},z,{pctN:z.pct/total*100});});
+
+  // compute m² per zone
+  var rackSpec=RACK_TYPES[rack]||RACK_TYPES.selective;
+  zones=zones.map(function(z){
+    var m2=area*(z.pctN/100);
+    // rack count: only applicable to storage zones, not office/staging/sanitation
+    var isStorageZone=z.id.match(/bulk|ambient|raw|finished|mro|pipe|flammable|corrosive|toxic|oxidizers|general|cold_chain|freezer|cold|controlled|quarantine|wip/);
+    var racks=isStorageZone?Math.round(m2/100*rackSpec.palletsPer100m2*rack_levels(rack,height)):0; /* pallet positions = floor density per level x levels */
+    return Object.assign({},z,{m2:Math.round(m2),racks:racks});
+  });
+
+  // throughput → dock door check
+  var palletsPerDoor=Math.round(throughput/doors);
+  var dockOk=palletsPerDoor<=25; // benchmark: <25 pallets/door/day is comfortable
+
+  LAST_RESULT={area,bays,doors,height,rack,throughput,aisleW,palletFP,zones,ind,rackSpec,palletsPerDoor,dockOk};
+
+  renderMetrics(LAST_RESULT);
+  renderFloorPlanV2(LAST_RESULT);
+  renderZoneTable(LAST_RESULT);
+  renderRackBox(LAST_RESULT);
+
+  document.getElementById('outputGrid').style.display='grid';
+  document.getElementById('disclaimer').style.display='block';
+}
+
+function rack_levels(rackType,height){var b=rackType==='cantilever'?4:2;return pallet_positions_per_rack(rackType,height)/b;}
+function pallet_positions_per_rack(rackType, height){
+  // typical positions per rack frame based on type and height
+  var levelsPerHeight={selective:Math.max(2,Math.floor(height/1.7)),
+    'drive-in':Math.max(2,Math.floor(height/1.7)),'push-back':3,
+    'pallet-flow':3,cantilever:Math.max(2,Math.floor(height/1.8)),
+    mezzanine:4,mobile:Math.max(2,Math.floor(height/1.7))};
+  var levels=levelsPerHeight[rackType]||3;
+  var baysPerFrame=rackType==='cantilever'?4:2;
+  return levels*baysPerFrame;
+}
+
+/* ── METRICS STRIP ── */
+function renderMetrics(r){
+  var vol=Math.round(r.area*r.height);
+  var totalRacks=r.zones.reduce(function(s,z){return s+z.racks;},0);
+  var covClass=r.dockOk?'color:#248a3d':'color:#c77700';
+  var html='<div class="metrics">'
+    +'<div class="metric"><div class="metric-lbl"><span class="msc-en">Total area</span><span class="msc-es">\u00c1rea total</span></div>'
+      +'<div class="metric-val">'+fmtN(r.area)+'<span style="font-size:.9rem;color:#6e6e73"> m\u00b2</span></div>'
+      +'<div class="metric-sub">'+r.bays+' <span class="msc-en">bay(s)</span><span class="msc-es">nave(s)</span></div></div>'
+    +'<div class="metric"><div class="metric-lbl"><span class="msc-en">Usable volume</span><span class="msc-es">Volumen \u00fatil</span></div>'
+      +'<div class="metric-val">'+fmtN(vol)+'<span style="font-size:.9rem;color:#6e6e73"> m\u00b3</span></div>'
+      +'<div class="metric-sub">'+r.height+' m <span class="msc-en">clear height</span><span class="msc-es">altura libre</span></div></div>'
+    +'<div class="metric"><div class="metric-lbl"><span class="msc-en">Est. pallet positions</span><span class="msc-es">Posiciones de tarima est.</span></div>'
+      +'<div class="metric-val">'+fmtN(totalRacks)+'</div>'
+      +'<div class="metric-sub">'+rkName(r.rackSpec)+' &middot; '+L(r.rackSpec.density,'Densidad '+r.rackSpec.densityEs.toLowerCase())+'</div></div>'
+    +'<div class="metric"><div class="metric-lbl"><span class="msc-en">Pallets / door / day</span><span class="msc-es">Tarimas / puerta / d\u00eda</span></div>'
+      +'<div class="metric-val" style="'+covClass+'">'+r.palletsPerDoor+'</div>'
+      +'<div class="metric-sub">'+(r.dockOk?'<span class="msc-en">Within benchmark</span><span class="msc-es">Dentro de la referencia</span>':'<span class="msc-en">&#128993; Consider more doors</span><span class="msc-es">&#128993; Considera m\u00e1s puertas</span>')+'</div></div>'
+    +'</div>';
+  document.getElementById('metricsStrip').innerHTML=html;
+}
+
+/* ── FLOOR PLAN SVG ── */
+function renderFloorPlan(r){
+  var W=1000, H=600, pad=36;
+  var plotW=W-pad*2, plotH=H-pad*2;
+  var bayW=plotW/r.bays;
+  var ind=r.ind;
+  var svg='<svg class="floor" viewBox="0 0 '+W+' '+H+'" xmlns="http://www.w3.org/2000/svg" id="floorSvg">';
+
+  // background
+  svg+='<rect x="'+pad+'" y="'+pad+'" width="'+plotW+'" height="'+plotH
+    +'" fill="#f8f9fa" stroke="#adb5bd" stroke-width="2" rx="4"/>';
+
+  // draw zones: lay them in rows across bays
+  // strategy: zones run as horizontal strips across all bays,
+  // stacked vertically proportional to their m² share.
+  // Special zones (office, staging, receiving) go at top and bottom.
+  var topZones=['receiving','receiving_cold'];
+  var bottomZones=['staging','office','sanitation','waste'];
+  var topZ=r.zones.filter(function(z){return topZones.indexOf(z.id)>=0;});
+  var botZ=r.zones.filter(function(z){return bottomZones.indexOf(z.id)>=0;});
+  var midZ=r.zones.filter(function(z){return topZones.indexOf(z.id)<0&&bottomZones.indexOf(z.id)<0;});
+
+  // allocate height proportionally
+  var topPct=topZ.reduce(function(s,z){return s+z.pctN;},0);
+  var botPct=botZ.reduce(function(s,z){return s+z.pctN;},0);
+  var midPct=100-topPct-botPct;
+  var topH=plotH*(topPct/100), botH=plotH*(botPct/100), midH=plotH*(midPct/100);
+
+  function drawZoneStrip(zones, startY, stripH, label){
+    if(!zones.length)return '';
+    var out='';
+    var totalPct=zones.reduce(function(s,z){return s+z.pctN;},0);
+    var x=pad;
+    zones.forEach(function(z){
+      var w=plotW*(z.pctN/totalPct);
+      // zone rect
+      out+='<rect x="'+x.toFixed(1)+'" y="'+startY.toFixed(1)+'" width="'+w.toFixed(1)+'" height="'+stripH.toFixed(1)+
+        '" fill="'+z.color+'" fill-opacity=".82" stroke="#fff" stroke-width="1.5"/>';
+      // zone label (name + m²)
+      var cx=x+w/2, cy=startY+stripH/2;
+      var fontSize=Math.min(11,Math.max(7,w/12));
+      out+='<text x="'+cx.toFixed(1)+'" y="'+(cy-fontSize*0.6).toFixed(1)+'" text-anchor="middle" '
+        +'font-family="-apple-system,sans-serif" font-size="'+fontSize.toFixed(1)+'" font-weight="600" fill="#fff" paint-order="stroke" '
+        +'stroke="#0005" stroke-width="2">'+truncate(isES()?z.nameEs:z.name,Math.floor(w/fontSize*1.4))+'</text>';
+      out+='<text x="'+cx.toFixed(1)+'" y="'+(cy+fontSize).toFixed(1)+'" text-anchor="middle" '
+        +'font-family="-apple-system,sans-serif" font-size="'+(fontSize*0.85).toFixed(1)+'" fill="#ffffffcc">'+fmtN(z.m2)+' m\u00b2</text>';
+      x+=w;
+    });
+    return out;
+  }
+
+  // draw strips
+  svg+=drawZoneStrip(topZ, pad, topH);
+  svg+=drawZoneStrip(midZ, pad+topH, midH);
+  svg+=drawZoneStrip(botZ, pad+topH+midH, botH);
+
+  // bay dividers (internal walls)
+  for(var b=1;b<r.bays;b++){
+    var bx=pad+bayW*b;
+    svg+='<line x1="'+bx.toFixed(1)+'" y1="'+pad+'" x2="'+bx.toFixed(1)+'" y2="'+(pad+plotH)+'" '
+      +'stroke="#4a4a4f" stroke-width="3" stroke-dasharray="8 4"/>';
+    svg+='<text x="'+(bx-4)+'" y="'+(pad+14)+'" text-anchor="end" font-size="9" fill="#6e6e73" font-family="-apple-system,sans-serif">'+L('BAY ','NAVE ')+(b)+'</text>';
+    svg+='<text x="'+(bx+4)+'" y="'+(pad+14)+'" text-anchor="start" font-size="9" fill="#6e6e73" font-family="-apple-system,sans-serif">'+L('BAY ','NAVE ')+(b+1)+'</text>';
+  }
+
+  // dock doors on bottom edge
+  var doorSpacing=plotW/(r.doors+1);
+  for(var d=0;d<r.doors;d++){
+    var dx=pad+doorSpacing*(d+1);
+    var dy=pad+plotH;
+    svg+='<rect x="'+(dx-9)+'" y="'+(dy-3)+'" width="18" height="10" rx="2" fill="#0066CC"/>';
+    svg+='<text x="'+dx.toFixed(1)+'" y="'+(dy+18)+'" text-anchor="middle" font-size="7.5" fill="#6e6e73" font-family="-apple-system,sans-serif">D'+(d+1)+'</text>';
+  }
+  // door label
+  svg+='<text x="'+(pad+plotW/2)+'" y="'+(pad+plotH+28)+'" text-anchor="middle" font-size="9" font-weight="600" '
+    +'fill="#6e6e73" letter-spacing="1" font-family="-apple-system,sans-serif">'
+    +L('DOCK DOORS \u25bc','PUERTAS DE AND\u00c9N \u25bc')+'</text>';
+
+  // dimensions
+  svg+='<text x="'+(pad+plotW/2)+'" y="'+(pad-10)+'" text-anchor="middle" font-size="10" fill="#aeaeb2" font-family="-apple-system,sans-serif">'
+    +L('FRONT: ','FRENTE: ')+estimateDim(r.area,r.bays,'w')+' m</text>';
+  svg+='<text x="'+(pad-10)+'" y="'+(pad+plotH/2)+'" text-anchor="middle" font-size="10" fill="#aeaeb2" '
+    +'transform="rotate(-90,'+(pad-10)+','+(pad+plotH/2)+')" font-family="-apple-system,sans-serif">'
+    +(isES()?'FONDO: ':'DEPTH: ')+estimateDim(r.area,r.bays,'d')+' m</text>';
+
+  // industry label top-right
+  svg+='<text x="'+(pad+plotW-6)+'" y="'+(pad+14)+'" text-anchor="end" font-size="10" font-weight="700" fill="'+ind.color+'" '
+    +'font-family="-apple-system,sans-serif">'+(isES()?ind.nameEs:ind.name)+'</text>';
+
+  svg+='</svg>';
+  document.getElementById('floorBox').innerHTML=svg;
+  // meta
+  document.getElementById('planMeta').innerHTML='<span class="msc-en">'+r.bays+' bay(s) &middot; '+r.doors+' dock doors &middot; '+r.height+' m clear &middot; '+r.zones.length+' zones</span>'
+    +'<span class="msc-es">'+r.bays+' nave(s) &middot; '+r.doors+' puertas de and\u00e9n &middot; '+r.height+' m altura libre &middot; '+r.zones.length+' zonas</span>';
+}
+
+function estimateDim(area, bays, which){
+  // rough aspect ratio: depth = sqrt(area/bays) * 1.2, width = area/(depth)
+  var dep=Math.round(Math.sqrt(area/bays)*1.2);
+  var wid=Math.round(area/dep);
+  return which==='w'?wid:dep;
+}
+function truncate(s,max){return s.length>max?s.slice(0,max-1)+'\u2026':s;}
+
+/* ── ZONE TABLE ── */
+function setRead(id,html){var e=document.getElementById(id);if(!e)return;e.setAttribute("data-label",L("Reading","Lectura"));e.innerHTML=html||"";}
+function renderZoneTable(r){
+  var html='';
+  r.zones.forEach(function(z){
+    html+='<div class="zt-row">'
+      +'<div class="zt-swatch" style="background:'+z.color+'"></div>'
+      +'<div class="zt-info">'
+        +'<div class="zt-name">'+(isES()?z.nameEs:z.name)+'</div>'
+        +'<div class="zt-desc">'+(isES()?z.descEs:z.desc)+(z.racks?' &middot; ~'+z.racks+L(' pallet positions',' posiciones de tarima'):'')+'</div>'
+      +'</div>'
+      +'<div class="zt-nums">'
+        +'<div class="zt-m2">'+fmtN(z.m2)+'m\u00b2</div>'
+        +'<div class="zt-pct">'+z.pctN.toFixed(0)+'%</div>'
+      +'</div>'
+    +'</div>';
+  });
+  document.getElementById('zoneTable').innerHTML=html;
+  var st=r.zones.filter(function(z){return z.racks>0;}),stA=st.reduce(function(a,z){return a+z.m2;},0),pos=st.reduce(function(a,z){return a+z.racks;},0);
+  var big=r.zones.slice().sort(function(a,b){return b.m2-a.m2;})[0];
+  var days=r.throughput>0?pos/(r.throughput/2):0;
+  var t=L('Storage zones take <b>'+Math.round(stA/r.area*100)+'%</b> of the floor ('+fmtN(stA)+' m²) for about '+fmtN(pos)+' pallet positions; the largest zone is '+big.name+' ('+Math.round(big.m2/r.area*100)+'%). ','Las zonas de almacenaje ocupan el <b>'+Math.round(stA/r.area*100)+'%</b> del piso ('+fmtN(stA)+' m²) con unas '+fmtN(pos)+' posiciones de tarima; la zona más grande es '+big.nameEs+' ('+Math.round(big.m2/r.area*100)+'%). ');
+  if(days>0)t+=L('At '+fmtN(r.throughput)+' pallet moves a day, that capacity holds roughly '+days.toFixed(0)+' days of inbound.','Con '+fmtN(r.throughput)+' movimientos de tarima al día, esa capacidad equivale a unos '+days.toFixed(0)+' días de entradas.');
+  t+=' '+(r.dockOk?L('Docks: '+r.palletsPerDoor+' pallets per door a day, within the usual range (up to 25).','Andenes: '+r.palletsPerDoor+' tarimas por puerta al día, dentro del rango habitual (hasta 25).'):L('Docks: '+r.palletsPerDoor+' pallets per door a day, above the usual 25; add doors or spread the schedule.','Andenes: '+r.palletsPerDoor+' tarimas por puerta al día, arriba de las 25 habituales; agrega puertas o reparte el horario.'));
+  setRead('rdZones',t);
+}
+
+/* ── RACK BOX ── */
+function renderRackBox(r){
+  var box=document.getElementById('rackBox');
+  var rt=r.rackSpec;
+  box.innerHTML='<div class="rack-box-title">'+L(rt.name+' &mdash; '+rt.density+' density',rt.nameEs+' &mdash; densidad '+rt.densityEs.toLowerCase())+'</div>'
+    +'<div class="rack-box-desc"><span class="msc-en">'+rt.desc+'</span><span class="msc-es">'+rt.descEs+'</span>'
+    +' <span class="msc-en">Aisle width: '+r.aisleW+' m &middot; Pallet footprint: '+r.palletFP+' m\u00b2 &middot; Est. positions per 100 m\u00b2 per level: '+rt.palletsPer100m2+'</span>'
+    +'<span class="msc-es">Ancho de pasillo: '+r.aisleW+' m &middot; Huella de tarima: '+r.palletFP+' m\u00b2 &middot; Posiciones est. por 100 m\u00b2 por nivel: '+rt.palletsPer100m2+'</span>'
+    +'</div>';
+}
+
+/* ── EXPORT ── */
+function exportPDF(){
+  if(!LAST_RESULT){return;}
+  var r=LAST_RESULT;
+  var svgEl=document.getElementById('floorSvg');
+  var svgStr=svgEl?svgEl.outerHTML:'';
+  var tableHtml=document.getElementById('zoneTable').innerHTML;
+  var metricsHtml=document.getElementById('metricsStrip').innerText.replace(/\n+/g,' \u00b7 ');
+  var date=new Date().toISOString().slice(0,10);
+  var doc='<!DOCTYPE html><html lang="'+L('en','es')+'"><head><meta charset="utf-8"><title>'+L('Warehouse Plan','Plano de almac\u00e9n')+'</title>'
+    +'<style>body{font-family:-apple-system,Segoe UI,sans-serif;color:#1d1d1f;margin:0}'
+    +'.header{padding:20px 28px;border-bottom:2px solid #0066CC}.brand{font-size:10px;color:#6e6e73}'
+    +'.title{font-size:20px;font-weight:700;margin-top:4px}.meta{font-size:11px;color:#6e6e73;margin-top:4px}'
+    +'.body{padding:20px 28px;display:grid;grid-template-columns:1fr 280px;gap:20px}'
+    +'svg{width:100%;height:auto;border:1px solid #e8e8ed;border-radius:8px;background:#fafafa}'
+    +'.zt-row{display:flex;gap:8px;padding:7px 0;border-bottom:1px solid #f0f0f2;align-items:flex-start}'
+    +'.zt-swatch{width:10px;height:10px;border-radius:2px;flex-shrink:0;margin-top:2px}'
+    +'.zt-name{font-size:11px;font-weight:600}.zt-desc{font-size:9px;color:#888;line-height:1.4}'
+    +'.zt-nums{margin-left:auto;text-align:right;font-size:11px;font-weight:600}'
+    +'.zt-pct{font-size:9px;color:#888}.metrics{font-size:11px;color:#0066CC;margin-bottom:12px;font-weight:600}'
+    +'.foot{padding:12px 28px;border-top:1px solid #e8e8ed;font-size:9px;color:#aaa;display:flex;justify-content:space-between}'
+    +'.actions{padding:12px 28px}button{font-size:12px;font-weight:600;padding:7px 14px;border-radius:7px;border:none;cursor:pointer;margin-right:6px}'
+    +'.bp{background:#0066CC;color:#fff}.bc{background:#f5f5f7;border:1px solid #d2d2d7}'
+    +'@media print{.actions{display:none}@page{size:A4 landscape;margin:10mm}}</style></head><body>'
+    +'<div class="header"><div class="brand">Mr. Supply Chain\u00ae México &middot; mrsupplychain.ai &middot; Labs &middot; '+L('Warehouse Layout Designer','Dise\u00f1ador de layout de almac\u00e9n')+'</div>'
+    +'<div class="title">'+L('Warehouse Floor Plan','Plano de planta del almac\u00e9n')+' \u2014 '+L(r.ind.name,r.ind.nameEs)+'</div>'
+    +'<div class="meta">'+r.area.toLocaleString()+' m\u00b2 &middot; '+r.bays+L(' bay(s)',' nave(s)')+' &middot; '+r.doors+L(' dock doors',' puertas de and\u00e9n')+' &middot; '+r.height+L(' m clear',' m de altura libre')+' &middot; '+rkName(r.rackSpec)+' &middot; '+L('Generated: ','Generado: ')+date+'</div></div>'
+    +'<div class="body"><div><div class="metrics">'+metricsHtml+'</div>'+svgStr+'</div>'
+    +'<div><b style="font-size:12px;display:block;margin-bottom:8px">'+L('Zone breakdown','Desglose de zonas')+'</b>'+tableHtml+'</div></div>'
+    +'<div class="foot"><span>Mr. Supply Chain\u00ae México &middot; \u00a9 2026 Ismael L\u00f3pez</span><span>'+L('Schematic reference \u2014 not a construction document','Referencia esquem\u00e1tica \u2014 no es un documento de construcci\u00f3n')+'</span></div>'
+    +'<div class="actions"><button class="bp" onclick="window.print()">\uD83D\uDDA8 '+L('Print / Save PDF','Imprimir / Guardar PDF')+'</button><button class="bc" onclick="window.close()">\u2715 '+L('Close','Cerrar')+'</button></div>'
+    +'<\/body><\/html>';
+  var w=window.open('','wh_plan','width=1200,height=820,scrollbars=yes,resizable=yes');
+  if(w){w.document.write(doc);w.document.close();w.focus();}
+}
+
+function copyPlanSVG(){
+  var svgEl=document.getElementById('floorSvg');
+  if(!svgEl)return;
+  try{navigator.clipboard.writeText(svgEl.outerHTML).then(function(){
+    var b=document.querySelector('.plan-actions .btn-sm');
+    if(b){var orig=b.innerHTML;b.innerHTML='<span class="msc-en">&#10003; Copied!</span><span class="msc-es">&#10003; &iexcl;Copiado!</span>';setTimeout(function(){b.innerHTML=orig;},1600);}
+  });}catch(e){}
+}
+
+/* ── HOW-TO ── */
+function toggleHowTo(){
+  var h=document.getElementById('howTo'),b=document.getElementById('howToBtn');
+  var col=h.classList.toggle('collapsed');
+  b.innerHTML=col?'<span class="msc-en">Show &#9660;</span><span class="msc-es">Ver &#9660;</span>':'<span class="msc-en">Hide &#9650;</span><span class="msc-es">Ocultar &#9650;</span>';
+  try{localStorage.setItem('howto_wh',col?'1':'');}catch(e){}
+}
+(function(){try{if(localStorage.getItem('howto_wh')==='1'){var h=document.getElementById('howTo');if(h){h.classList.add('collapsed');var b=document.getElementById('howToBtn');if(b)b.innerHTML='<span class="msc-en">Show &#9660;</span><span class="msc-es">Ver &#9660;</span>';}}}catch(e){}})();
+
+/* ── UTILS ── */
+function fmtN(v){v=Math.round(v);return v.toString().replace(/\B(?=(\d{3})+(?!\d))/g,',');}
+
+/* ── LANG + MENU ── */
+/* -- RACK PANEL -- */
+var RACK_EXTRA={"selective": {"icon": "&#x1F4E6;", "wen": "Mixed SKUs, daily replenishment, easy access", "wes": "SKUs mixtos, reabasto diario, acceso f\u00e1cil", "nen": "Very high volume single SKU; cold store on budget", "nes": "Alto volumen un solo SKU; c\u00e1mara con presupuesto ajustado"}, "drive-in": {"icon": "&#x1F697;", "wen": "Homogeneous product, LIFO acceptable, cold-store density", "wes": "Producto homog\u00e9neo, LIFO aceptable, densidad en c\u00e1mara", "nen": "FEFO required; many SKUs", "nes": "FEFO requerido; muchos SKUs"}, "push-back": {"icon": "&#x1F9F1;", "wen": "2-5 SKUs at high volume per slot", "wes": "2-5 SKUs de alto volumen por posici\u00f3n", "nen": "Many SKUs requiring FEFO/FIFO", "nes": "Muchos SKUs que requieren FEFO/FIFO"}, "pallet-flow": {"icon": "&#x1F6F9;", "wen": "FIFO mandatory, high-velocity replenishment", "wes": "FIFO obligatorio, reabasto de alta velocidad", "nen": "Irregular pallet weights or sizes", "nes": "Pesos o tama\u00f1os de tarima irregulares"}, "cantilever": {"icon": "&#x1F6A7;", "wen": "Long goods: pipe, lumber, steel profiles", "wes": "Mercanc\u00eda larga: tuber\u00eda, madera, perfiles", "nen": "Standard palletized product", "nes": "Producto paletizado est\u00e1ndar"}, "mezzanine": {"icon": "&#x1F3D7;", "wen": "E-commerce picking, archive, maximize area", "wes": "Surtido e-commerce, archivo, maximizar \u00e1rea", "nen": "Heavy unit loads; low floor load capacity", "nes": "Cargas pesadas; baja capacidad de carga de piso"}, "mobile": {"icon": "&#x1F4BF;", "wen": "Pharma, archive, cold store where every m2 counts", "wes": "Farma, archivo, c\u00e1mara fr\u00eda donde cada m2 importa", "nen": "High-frequency picking needing simultaneous aisle access", "nes": "Surtido frecuente que requiere acceso simult\u00e1neo a pasillos"}};
+function openRackPanel(){
+  var cur=document.getElementById('inRack').value;
+  var html='';
+  Object.keys(RACK_TYPES).forEach(function(k){
+    var r=RACK_TYPES[k],ex=RACK_EXTRA[k]||{},sel=(k===cur);
+    html+='<div class="rack-card'+(sel?' selected':'')+'" onclick="selectRackFromPanel(\''+k+'\')">'
+    +'<div style="display:flex;align-items:center;gap:8px">'+(ex.icon?'<span style="font-size:1.3rem">'+ex.icon+'</span>':'')+'<div class="rack-card-name"><span class="msc-en">'+r.name+'</span><span class="msc-es">'+r.nameEs+'</span></div></div>'
+    +'<span class="rack-density"><span class="msc-en">'+r.density+' density</span><span class="msc-es">Densidad '+r.densityEs.toLowerCase()+'</span></span>'
+    +'<div class="rack-card-desc"><span class="msc-en">'+r.desc+'</span><span class="msc-es">'+r.descEs+'</span></div>'
+    +(ex.wen?'<div class="rack-card-when"><b><span class="msc-en">Use when:</span><span class="msc-es">Usar cuando:</span></b> <span class="msc-en">'+ex.wen+'</span><span class="msc-es">'+ex.wes+'</span></div>':'')
+    +(ex.nen?'<div class="rack-card-when"><b><span class="msc-en">Avoid when:</span><span class="msc-es">Evitar cuando:</span></b> <span class="msc-en">'+ex.nen+'</span><span class="msc-es">'+ex.nes+'</span></div>':'')
+    +'</div>';
+  });
+  document.getElementById('rackCards').innerHTML=html;
+  document.getElementById('rackPanel').classList.add('open');
+}
+function closeRackPanel(){document.getElementById('rackPanel').classList.remove('open');}
+function closeRackPanelOutside(e){if(e.target===document.getElementById('rackPanel'))closeRackPanel();}
+function selectRackFromPanel(k){document.getElementById('inRack').value=k;updateRackHint();closeRackPanel();}
+document.addEventListener('keydown',function(e){if(e.key==='Escape')closeRackPanel();});
+
+/* -- YARD -- */
+var VEHICLE_SPECS={
+  trailer:{depth:35,nameEn:'Trailer (18-wheeler)',nameEs:'Tr\u00e1iler (18 ruedas)'},
+  rigid:  {depth:22,nameEn:'Rigid truck',nameEs:'Cami\u00f3n r\u00edgido'},
+  van:    {depth:14,nameEn:'Van / Last-mile',nameEs:'Van / \u00faltima milla'}
+};
+function updateYardCalc(){
+  var v=document.getElementById('inVehicle').value;
+  var spec=VEHICLE_SPECS[v]||VEHICLE_SPECS.rigid;
+  var doors=parseInt(document.getElementById('inDoors').value)||6;
+  var area=parseInt(document.getElementById('inArea').value)||5000;
+  var bays=parseInt(document.getElementById('inBays').value)||2;
+  var fw=estimateDim(area,bays,'w');
+  var rec=Math.round(spec.depth*fw*1.1);
+  var h=document.getElementById('yardHint');
+  if(h){
+    h.innerHTML='<span class="msc-en"><b>Min depth: '+spec.depth+' m</b> for '+spec.nameEn+'. Recommended: ~'+rec.toLocaleString()+' m\u00b2.</span>'
+      +'<span class="msc-es"><b>Profundidad m\u00edn.: '+spec.depth+' m</b> para '+spec.nameEs.toLowerCase()+'. Recomendado: ~'+rec.toLocaleString()+' m\u00b2.</span>';
+    var cur=parseInt(document.getElementById('inYardArea').value)||0;
+    if(cur<=100||cur===1500)document.getElementById('inYardArea').value=rec;
+  }
+}
+
+/* -- FLOOR PLAN V2: circulation aisle + yard -- */
+function renderFloorPlanV2(r){
+  var yardArea=parseFloat(document.getElementById('inYardArea').value)||0;
+  var veh=document.getElementById('inVehicle').value||'rigid';
+  var vSpec=VEHICLE_SPECS[veh]||VEHICLE_SPECS.rigid;
+  var hasScale=!!(document.getElementById('yardScale')&&document.getElementById('yardScale').checked);
+  var hasGuard=!!(document.getElementById('yardGuard')&&document.getElementById('yardGuard').checked);
+  var hasWait=!!(document.getElementById('yardWait')&&document.getElementById('yardWait').checked);
+  var hasYard=yardArea>0;
+  var W=1000,pL=52,pR=24,pT=28,ind=r.ind;
+  var plotW=W-pL-pR;
+  var totalH=hasYard?780:600;
+  var buildH=hasYard?Math.round(totalH*0.56):totalH-pT-28;
+  var yardH=hasYard?totalH-buildH-pT-28-14:0;
+  var svg='<svg class="floor" viewBox="0 0 '+W+' '+totalH+'" xmlns="http://www.w3.org/2000/svg" id="floorSvg">';
+  svg+='<rect x="'+pL+'" y="'+pT+'" width="'+plotW+'" height="'+buildH+'" fill="#f8f9fa" stroke="#adb5bd" stroke-width="2" rx="2"/>';
+  var tids=['receiving','receiving_cold'],bids=['staging','office','sanitation','waste'];
+  var tZ=r.zones.filter(function(z){return tids.indexOf(z.id)>=0;});
+  var bZ=r.zones.filter(function(z){return bids.indexOf(z.id)>=0;});
+  var mZ=r.zones.filter(function(z){return tids.indexOf(z.id)<0&&bids.indexOf(z.id)<0;});
+  var tPct=tZ.reduce(function(a,z){return a+z.pctN;},0);
+  var bPct=bZ.reduce(function(a,z){return a+z.pctN;},0);
+  var cH=Math.max(9,buildH*0.046);
+  var av=buildH-cH;
+  var tH=av*(tPct/100),bH=av*(bPct/100),mH=av*((100-tPct-bPct)/100);
+  function strip(zones,sy,sh){
+    if(!zones.length||sh<4)return '';
+    var out='',tot=zones.reduce(function(a,z){return a+z.pctN;},0),x=pL;
+    zones.forEach(function(z){
+      var w=plotW*(z.pctN/tot);
+      out+='<rect x="'+x.toFixed(1)+'" y="'+sy.toFixed(1)+'" width="'+w.toFixed(1)+'" height="'+sh.toFixed(1)+'" fill="'+z.color+'" fill-opacity=".82" stroke="#fff" stroke-width="1.5"/>';
+      var cx=x+w/2,cy=sy+sh/2,fs=Math.min(11,Math.max(6.5,w/11));
+      out+='<text x="'+cx.toFixed(1)+'" y="'+(cy-fs*0.55).toFixed(1)+'" text-anchor="middle" font-family="-apple-system,sans-serif" font-size="'+fs.toFixed(1)+'" font-weight="600" fill="#fff" paint-order="stroke" stroke="#0005" stroke-width="2">'+truncate(isES()?z.nameEs:z.name,Math.floor(w/fs*1.35))+'</text>';
+      out+='<text x="'+cx.toFixed(1)+'" y="'+(cy+fs*0.9).toFixed(1)+'" text-anchor="middle" font-family="-apple-system,sans-serif" font-size="'+(fs*0.82).toFixed(1)+'" fill="#ffffffcc">'+fmtN(z.m2)+' m\u00b2</text>';
+      x+=w;
+    });
+    return out;
+  }
+  var y0=pT;
+  svg+=strip(tZ,y0,tH); y0+=tH;
+  svg+='<rect x="'+pL+'" y="'+y0.toFixed(1)+'" width="'+plotW+'" height="'+cH.toFixed(1)+'" fill="#fff9c4" stroke="#f9a825" stroke-width="1" fill-opacity=".9"/>';
+  svg+='<text x="'+(pL+plotW/2)+'" y="'+(y0+cH/2+3.5).toFixed(1)+'" text-anchor="middle" font-family="-apple-system,sans-serif" font-size="8.5" font-weight="700" fill="#e65100" letter-spacing="0.8">'+(isES()?'-- PASILLO PRINCIPAL --':'-- MAIN CIRCULATION AISLE --')+'</text>';
+  y0+=cH;
+  svg+=strip(mZ,y0,mH); y0+=mH;
+  svg+=strip(bZ,y0,bH); y0+=bH;
+  var bayW=plotW/r.bays;
+  for(var b=1;b<r.bays;b++){
+    var bx=pL+bayW*b;
+    svg+='<line x1="'+bx.toFixed(1)+'" y1="'+pT+'" x2="'+bx.toFixed(1)+'" y2="'+(pT+buildH)+'" stroke="#4a4a4f" stroke-width="2.5" stroke-dasharray="8 4"/>';
+    svg+='<text x="'+(bx-4)+'" y="'+(pT+13)+'" text-anchor="end" font-size="8" fill="#6e6e73" font-family="-apple-system,sans-serif">'+L('BAY ','NAVE ')+b+'</text>';
+    svg+='<text x="'+(bx+4)+'" y="'+(pT+13)+'" text-anchor="start" font-size="8" fill="#6e6e73" font-family="-apple-system,sans-serif">'+L('BAY ','NAVE ')+(b+1)+'</text>';
+  }
+  var dY=pT+buildH,dSp=plotW/(r.doors+1);
+  for(var d=0;d<r.doors;d++){
+    var dx=pL+dSp*(d+1);
+    svg+='<rect x="'+(dx-8)+'" y="'+(dY-3)+'" width="16" height="9" rx="2" fill="#0066CC"/>';
+    svg+='<text x="'+dx.toFixed(1)+'" y="'+(dY+16)+'" text-anchor="middle" font-size="7" fill="#6e6e73" font-family="-apple-system,sans-serif">D'+(d+1)+'</text>';
+  }
+  if(hasYard){
+    var yx=pL,yy=dY+20,yw=plotW;
+    svg+='<rect x="'+yx+'" y="'+yy+'" width="'+yw+'" height="'+yardH+'" fill="#f1f8e9" stroke="#aed581" stroke-width="1.5" rx="2"/>';
+    var vdpx=yardH*(vSpec.depth/(vSpec.depth+8));
+    svg+='<line x1="'+yx+'" y1="'+(yy+vdpx).toFixed(1)+'" x2="'+(yx+yw)+'" y2="'+(yy+vdpx).toFixed(1)+'" stroke="#8d6e63" stroke-width="1" stroke-dasharray="6 3"/>';
+    svg+='<text x="'+(yx+6)+'" y="'+(yy+vdpx-3).toFixed(1)+'" font-size="7.5" fill="#8d6e63" font-family="-apple-system,sans-serif">'+vSpec.depth+'m '+L('min. maneuver','m\u00edn. de maniobra')+'</text>';
+    var ex2=yx+8,ey=yy+5;
+    if(hasGuard){svg+='<rect x="'+ex2+'" y="'+ey+'" width="28" height="20" rx="3" fill="#fff9c4" stroke="#f9a825" stroke-width="1"/><text x="'+(ex2+14)+'" y="'+(ey+13)+'" text-anchor="middle" font-size="6.5" font-weight="600" fill="#e65100" font-family="-apple-system,sans-serif">'+(isES()?'CASETA':'GUARD')+'</text>';ex2+=36;}
+    if(hasScale){svg+='<rect x="'+ex2+'" y="'+ey+'" width="36" height="20" rx="3" fill="#e8f5e9" stroke="#81c784" stroke-width="1"/><text x="'+(ex2+18)+'" y="'+(ey+13)+'" text-anchor="middle" font-size="6.5" font-weight="600" fill="#388e3c" font-family="-apple-system,sans-serif">'+L('SCALE','B\u00c1SCULA')+'</text>';}
+    if(hasWait){var ww=yw*0.22;svg+='<rect x="'+(yx+yw-ww-4)+'" y="'+(yy+4)+'" width="'+ww+'" height="'+(yardH-8)+'" rx="3" fill="none" stroke="#90a4ae" stroke-width="1" stroke-dasharray="5 3"/><text x="'+(yx+yw-ww/2-4)+'" y="'+(yy+yardH/2+4)+'" text-anchor="middle" font-size="8" fill="#607d8b" font-family="-apple-system,sans-serif">'+L('TRUCK WAIT','ESPERA')+'</text>';}
+    svg+='<text x="'+(yx+yw/2)+'" y="'+(yy+yardH/2+3)+'" text-anchor="middle" font-size="9" font-weight="600" fill="#558b2f" font-family="-apple-system,sans-serif" opacity=".7">'+(isES()?'PATIO DE MANIOBRAS':'MANEUVERING YARD')+'</text>';
+    svg+='<text x="'+(yx+yw/2)+'" y="'+(yy+yardH/2+14)+'" text-anchor="middle" font-size="7.5" fill="#7cb342" font-family="-apple-system,sans-serif">~'+fmtN(yardArea)+' m\u00b2</text>';
+    svg+='<text x="'+(yx+yw/2)+'" y="'+(yy+yardH+12)+'" text-anchor="middle" font-size="7" fill="#7cb342" font-family="-apple-system,sans-serif">'+(isES()?'ENTRADA / SALIDA':'ENTRY / EXIT')+'</text>';
+  }
+  svg+='<text x="'+(pL+plotW/2)+'" y="'+(pT-8)+'" text-anchor="middle" font-size="9.5" fill="#aeaeb2" font-family="-apple-system,sans-serif">'+(isES()?'FRENTE: ':'FRONT: ')+estimateDim(r.area,r.bays,'w')+' m</text>';
+  svg+='<text x="'+(pL-8)+'" y="'+(pT+buildH/2)+'" text-anchor="middle" font-size="9.5" fill="#aeaeb2" transform="rotate(-90,'+(pL-8)+','+(pT+buildH/2)+')" font-family="-apple-system,sans-serif">'+(isES()?'FONDO: ':'DEPTH: ')+estimateDim(r.area,r.bays,'d')+' m</text>';
+  svg+='<text x="'+(pL+plotW-4)+'" y="'+(pT+13)+'" text-anchor="end" font-size="9.5" font-weight="700" fill="'+ind.color+'" font-family="-apple-system,sans-serif">'+(isES()?ind.nameEs:ind.name)+'</text>';
+  svg+='</svg>';
+  document.getElementById('floorBox').innerHTML=svg;
+  var hY=hasYard&&yardArea>0;
+  document.getElementById('planMeta').innerHTML='<span class="msc-en">'+r.bays+' bay(s) &middot; '+r.doors+' dock doors &middot; '+r.height+' m &middot; '+r.zones.length+' zones'+(hY?' &middot; yard: '+fmtN(yardArea)+' m&sup2;':'')+'</span>'
+    +'<span class="msc-es">'+r.bays+' nave(s) &middot; '+r.doors+' puertas de and\u00e9n &middot; '+r.height+' m &middot; '+r.zones.length+' zonas'+(hY?' &middot; patio: '+fmtN(yardArea)+' m&sup2;':'')+'</span>';
+}
+
+var __lang=isES()?'es':'en';
+/* Legacy nav only (hidden by site.js). Display sync without touching localStorage. */
+function applyLegacyLang(l){
+  __lang=l;
+  document.querySelectorAll('.li-en').forEach(function(e){e.style.display=l==='en'?(e.tagName==='SPAN'||e.tagName==='BUTTON'?'inline':'block'):'none';});
+  document.querySelectorAll('.li-es').forEach(function(e){e.style.display=l==='es'?(e.tagName==='SPAN'||e.tagName==='BUTTON'?'inline':'block'):'none';});
+  document.getElementById('btn-lang-en').classList.toggle('on',l==='en');
+  document.getElementById('btn-lang-es').classList.toggle('on',l==='es');
+}
+/* Called by the legacy nav buttons and by site.js's header (window.setLang) with the language the user picked. */
+function setLang(l){
+  applyLegacyLang(l);
+  if(window.mscSetLang&&(l==='es')!==isES()){window.mscSetLang(l);}
+}
+function toggleMenu(){var b=document.getElementById('hamburger'),m=document.getElementById('mobileMenu');b.classList.toggle('open');m.classList.toggle('open');}
+function closeMenu(){var b=document.getElementById('hamburger'),m=document.getElementById('mobileMenu');if(b)b.classList.remove('open');if(m)m.classList.remove('open');}
+document.addEventListener('click',function(e){var m=document.getElementById('mobileMenu'),b=document.getElementById('hamburger');if(m&&m.classList.contains('open')&&!m.contains(e.target)&&b&&!b.contains(e.target))closeMenu();},false);
+
+/* ── BOOT ── */
+init();
+refreshStaticI18n();
+document.addEventListener('DOMContentLoaded',refreshStaticI18n); /* rack panel markup sits after this script */
+applyLegacyLang(isES()?'es':'en');
+/* Re-render on site language change (html.msc-es). Inputs, selections, toggles and the last generated plan are kept. */
+(function(){
+  var lastES=isES();
+  new MutationObserver(function(){
+    var nowES=isES();
+    if(nowES===lastES)return;
+    lastES=nowES;
+    refreshStaticI18n();
+    applyLegacyLang(nowES?'es':'en');
+    if(LAST_RESULT){
+      renderMetrics(LAST_RESULT);
+      renderFloorPlanV2(LAST_RESULT);
+      renderZoneTable(LAST_RESULT);
+      renderRackBox(LAST_RESULT);
+    }
+  }).observe(document.documentElement,{attributes:true,attributeFilter:['class']});
+})();
+</script>
+<script>/* msc title i18n */(function(){var en=document.title,es="Dise\u00f1ador de layout de almac\u00e9n \u00b7 Labs \u00b7 Mr. Supply Chain\u00ae México";function u(){document.title=document.documentElement.classList.contains("msc-es")?es:en}u();new MutationObserver(u).observe(document.documentElement,{attributes:true,attributeFilter:["class"]})})();</script>
+<script src="/assets/labs.js?v=2"></script>
+</body>
+</html>

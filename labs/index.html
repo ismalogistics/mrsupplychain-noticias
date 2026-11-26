@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Labs — Mr. Supply Chain® México</title>
+<meta name="description" content="Free supply chain tools that run in your browser: demand forecast, safety stock, semiconductor buffers, KPI library, network and warehouse design, and simulators. EN/ES."/>
+<link rel="canonical" href="https://mrsupplychain.ai/labs/">
+<link rel="alternate" hreflang="en" href="https://mrsupplychain.ai/labs/">
+<link rel="alternate" hreflang="es" href="https://mrsupplychain.ai/es/labs/">
+<link rel="alternate" hreflang="x-default" href="https://mrsupplychain.ai/labs/">
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="Mr. Supply Chain® México"/>
+<meta property="og:title" content="Labs — Mr. Supply Chain® México"/>
+<meta property="og:description" content="Free supply chain tools that run in your browser: demand forecast, safety stock, semiconductor buffers, KPI library, network and warehouse design, and simulators. EN/ES."/>
+<meta property="og:url" content="https://mrsupplychain.ai/labs/"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://mrsupplychain.ai/labs/#collection",
+  "url": "https://mrsupplychain.ai/labs/",
+  "name": "Mr. Supply Chain® México Labs",
+  "description": "Free supply chain tools that run in your browser: demand forecast, safety stock, semiconductor buffers, KPI library, network and warehouse design, and simulators. EN/ES.",
+  "inLanguage": ["en", "es"],
+  "isPartOf": { "@type": "WebSite", "url": "https://mrsupplychain.ai/", "name": "Mr. Supply Chain® México" },
+  "creator": { "@id": "https://mrsupplychain.ai/#person" },
+  "hasPart": [
+    { "@type": "WebApplication", "name": "Demand Forecast Studio", "url": "https://mrsupplychain.ai/labs/forecast/" },
+    { "@type": "WebApplication", "name": "KPI Reference Library", "url": "https://mrsupplychain.ai/labs/kpi/" },
+    { "@type": "WebApplication", "name": "Safety Stock Calculator", "url": "https://mrsupplychain.ai/labs/safety-stock/" },
+    { "@type": "WebApplication", "name": "Semiconductor Buffer Optimizer", "url": "https://mrsupplychain.ai/labs/semis-buffer/" },
+    { "@type": "WebApplication", "name": "Network Design Analyzer", "url": "https://mrsupplychain.ai/labs/network/" },
+    { "@type": "WebApplication", "name": "Warehouse Layout Designer", "url": "https://mrsupplychain.ai/labs/warehouse/" },
+    { "@id": "https://mrsupplychain.ai/labs/dronsim/#app" },
+    { "@id": "https://mrsupplychain.ai/labs/twin/#app" }
+  ]
+}
+</script>
+
+<style>body.labs-feed{background:#f5f6f8}.lf,.lf h1,.lf h2,.lf h2 a,.lf button,.lf input{font-family:"Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif!important}
+.lf{max-width:1200px;margin:0 auto;padding:20px 20px 56px;display:grid;grid-template-columns:230px minmax(0,1fr) 290px;gap:22px;align-items:start}
+.lf svg{fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.lf-media svg,.lf-media svg *{stroke-linecap:butt}
+.lf-media svg{stroke:none;stroke-width:initial}
+.lf-left,.lf-right{position:sticky;top:76px;display:flex;flex-direction:column;gap:14px}
+.lf-me{display:flex;gap:10px;align-items:center;background:#fff;border:1px solid var(--lb-line);border-radius:12px;padding:12px}
+.lf-me-ic{width:38px;height:38px;border-radius:10px;background:var(--lb-accent);color:#fff;display:grid;place-items:center}
+.lf-me-ic svg{width:20px;height:20px}
+.lf-me b{display:block;font-size:15px;color:var(--lb-ink)}
+.lf-me span{font-size:12px;color:var(--lb-muted)}
+.lf-nav{display:flex;flex-direction:column;gap:2px;background:#fff;border:1px solid var(--lb-line);border-radius:12px;padding:6px}
+.lf-nav button{display:flex;align-items:center;gap:12px;border:0;background:none;padding:10px 12px;border-radius:8px;font:inherit;font-size:14px;color:var(--lb-ink-2);cursor:pointer;text-align:left}
+.lf-nav button svg{width:20px;height:20px;flex:0 0 auto}
+.lf-nav button i{margin-left:auto;font-style:normal;font-size:12px;color:var(--lb-faint)}
+.lf-nav button:hover{background:var(--lb-surface-2)}
+.lf-nav button.on{background:var(--lb-accent-soft);color:var(--lb-accent);font-weight:600}
+.lf-recent{background:#fff;border:1px solid var(--lb-line);border-radius:12px;padding:12px}
+.lf-recent ul{list-style:none;margin:6px 0 0;padding:0}
+.lf-recent a{display:block;padding:6px 2px;font-size:13px;color:var(--lb-ink-2);text-decoration:none}
+.lf-recent a:hover{color:var(--lb-accent)}
+.lf-h{font-size:12px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--lb-muted)}
+.lf-feed{display:flex;flex-direction:column;gap:14px;min-width:0}
+.lf-head{background:#fff;border:1px solid var(--lb-line);border-radius:12px;padding:18px 18px 14px}
+.lf-head h1{margin:0;font-size:22px;font-weight:700;letter-spacing:-.01em;color:var(--lb-ink);font-family:var(--lb-font)}
+.lf-head p{margin:4px 0 12px;font-size:14px;line-height:1.5;color:var(--lb-ink-2)}
+.lf-search{display:flex;align-items:center;gap:8px;background:var(--lb-surface-3);border-radius:999px;padding:0 14px;height:40px;color:var(--lb-muted)}
+.lf-search svg{width:18px;height:18px}
+.lf-search input{flex:1;border:0;background:none;font:inherit;font-size:14px;outline:0;color:var(--lb-ink);min-width:0}
+.lf-search:focus-within{box-shadow:0 0 0 2px var(--lb-accent-line);background:#fff}
+.lf-chips{display:none;gap:8px;overflow-x:auto;margin-top:12px;scrollbar-width:none}
+.lf-chips button{flex:0 0 auto;border:1px solid var(--lb-line);background:#fff;border-radius:999px;padding:6px 14px;font:inherit;font-size:13px;color:var(--lb-ink-2);cursor:pointer}
+.lf-chips button.on{background:var(--lb-ink);border-color:var(--lb-ink);color:#fff}
+.lf-card{background:#fff;border:1px solid var(--lb-line);border-radius:12px;overflow:hidden}
+.lf-card[hidden]{display:none}
+.lf-card-h{display:flex;gap:12px;align-items:center;padding:16px 18px 0}
+.lf-av{width:44px;height:44px;border-radius:50%;background:var(--c);color:#fff;display:grid;place-items:center;flex:0 0 auto}
+.lf-av svg{width:22px;height:22px}
+.lf-card h2{margin:0;font-size:15px;font-weight:600;line-height:1.3;font-family:var(--lb-font)}
+.lf-card h2 a{color:var(--lb-ink);text-decoration:none}
+.lf-card h2 a:hover{text-decoration:underline}
+.lf-new{display:inline-block;margin-left:8px;padding:1px 7px;border-radius:999px;background:var(--lb-accent-soft);color:var(--lb-accent);font-size:11px;font-weight:600;vertical-align:2px}
+.lf-meta{display:block;font-size:12px;color:var(--lb-muted);margin-top:2px}
+.lf-q{margin:12px 18px 4px;font-size:16px;line-height:1.4;font-weight:600;color:var(--lb-ink)}
+.lf-d{margin:0 18px 12px;font-size:14px;line-height:1.5;color:var(--lb-ink-2)}
+.lf-media{display:block;border-top:1px solid var(--lb-line-2);border-bottom:1px solid var(--lb-line-2);line-height:0}
+.lf-media svg{width:100%;height:auto;aspect-ratio:600/220;display:block}
+.lf-act{display:flex;gap:8px;padding:10px 14px}
+.lf-btn{display:inline-flex;align-items:center;gap:6px;height:36px;padding:0 16px;border-radius:999px;border:1px solid var(--lb-line);background:#fff;font:inherit;font-size:14px;font-weight:600;color:var(--lb-ink-2);text-decoration:none;cursor:pointer}
+.lf-btn svg{width:16px;height:16px}
+.lf-btn:hover{background:var(--lb-surface-2)}
+.lf-btn.p{background:var(--lb-accent);border-color:var(--lb-accent);color:#fff}
+.lf-btn.p:hover{background:var(--lb-accent-hover)}
+.lf-empty{text-align:center;color:var(--lb-muted);padding:24px}
+.lf-box{background:#fff;border:1px solid var(--lb-line);border-radius:12px;padding:14px}
+.lf-path{list-style:none;counter-reset:s;margin:8px 0 0;padding:0}
+.lf-path li{counter-increment:s}
+.lf-path a{display:grid;grid-template-columns:26px 1fr;column-gap:8px;padding:7px 0;text-decoration:none;color:var(--lb-ink-2);font-size:13px}
+.lf-path a::before{content:counter(s);grid-row:1/span 2;width:22px;height:22px;border-radius:50%;background:var(--lb-surface-3);color:var(--lb-ink);font-size:12px;font-weight:600;display:grid;place-items:center}
+.lf-path b{color:var(--lb-ink);font-weight:600}
+.lf-path a:hover b{color:var(--lb-accent)}
+.lf-news{list-style:none;margin:6px 0 0;padding:0}
+.lf-news a{display:block;padding:8px 0;border-bottom:1px solid var(--lb-line-2);text-decoration:none;font-size:13px;line-height:1.4;color:var(--lb-ink-2)}
+.lf-news li:last-child a{border-bottom:0}
+.lf-news b{display:block;color:var(--lb-ink);font-weight:600}
+.lf-news time{display:block;font-size:11.5px;color:var(--lb-faint);margin-top:2px}
+.lf-news a:hover b{color:var(--lb-accent)}
+.lf-note{display:flex;gap:10px;align-items:flex-start;color:var(--lb-muted)}
+.lf-note svg{width:18px;height:18px;flex:0 0 auto;margin-top:2px}
+.lf-note p{margin:0;font-size:12.5px;line-height:1.5}
+@media (max-width:1080px){.lf{grid-template-columns:200px minmax(0,1fr)}.lf-right{grid-column:2;position:static}}
+@media (max-width:760px){.lf{grid-template-columns:1fr;padding:12px 10px 40px;gap:12px}.lf-left{display:none}.lf-right{grid-column:auto}.lf-chips{display:flex}.lf-head{padding:16px 14px 12px}.lf-card-h{padding:14px 14px 0}.lf-q{margin:10px 14px 4px;font-size:15px}.lf-d{margin:0 14px 10px}}
+</style>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/site.css?v=8">
+<link rel="preload" href="/assets/fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/labs.css?v=2">
+<meta property="og:image" content="https://mrsupplychain.ai/assets/og-index.png">
+
+<script src="/assets/lang.js?v=5" defer></script>
+<link rel="manifest" href="/manifest.webmanifest">
+<meta name="theme-color" content="#163e86">
+<link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="MSC México">
+</head>
+<body class="labs-feed">
+<script src="/assets/site.js?v=15"></script>
+<div data-msc-legacy hidden aria-hidden="true"><button id="btn-lang-en" class="lb on" type="button">EN</button><button id="btn-lang-es" class="lb" type="button">ES</button><button id="hamburger" type="button"></button><div id="mobileMenu"></div></div>
+
+<div class="lf">
+  <!-- LEFT RAIL -->
+  <aside class="lf-left" aria-label="Labs navigation">
+    <div class="lf-me">
+      <div class="lf-me-ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 3h6M10 3v6l-5 9a2 2 0 0 0 1.7 3h10.6a2 2 0 0 0 1.7-3l-5-9V3"/><path d="M7.5 15h9"/></svg></div>
+      <div><b>Labs</b><span><span class="msc-en">Supply chain tools</span><span class="msc-es">Herramientas de supply chain</span></span></div>
+    </div>
+    <nav class="lf-nav" role="tablist" aria-label="Category">
+      <button type="button" class="on" data-cat="all"><svg viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg><span class="msc-en">All</span><span class="msc-es">Todas</span><i>8</i></button>
+      <button type="button" data-cat="plan"><svg viewBox="0 0 24 24"><path d="M3 17l6-6 4 4 8-8M15 7h6v6"/></svg><span class="msc-en">Plan</span><span class="msc-es">Planear</span><i>3</i></button>
+      <button type="button" data-cat="measure"><svg viewBox="0 0 24 24"><path d="M4 20V11M10 20V5M16 20v-6M3 20h18"/></svg><span class="msc-en">Measure</span><span class="msc-es">Medir</span><i>1</i></button>
+      <button type="button" data-cat="design"><svg viewBox="0 0 24 24"><path d="M3 9l9-5 9 5v11H3zM7 20v-7h10v7"/></svg><span class="msc-en">Design</span><span class="msc-es">Diseñar</span><i>2</i></button>
+      <button type="button" data-cat="simulate"><svg viewBox="0 0 24 24"><path d="M12 3l8 4.5v9L12 21l-8-4.5v-9z"/><path d="M12 12l8-4.5M12 12v9M12 12L4 7.5"/></svg><span class="msc-en">Simulate</span><span class="msc-es">Simular</span><i>2</i></button>
+    </nav>
+    <div class="lf-recent" id="lfRecent" hidden>
+      <div class="lf-h"><span class="msc-en">Recent</span><span class="msc-es">Recientes</span></div>
+      <ul id="lfRecentList"></ul>
+    </div>
+  </aside>
+
+  <!-- FEED -->
+  <main class="lf-feed" id="tools">
+    <header class="lf-head">
+      <h1><span class="msc-en">Labs</span><span class="msc-es">Labs</span></h1>
+      <p><span class="msc-en">Free tools to make supply chain decisions with your own data: forecast, inventory, network, warehouse and KPIs. Your data stays in your browser.</span><span class="msc-es">Herramientas gratuitas para tomar decisiones de supply chain con tus propios datos: pronóstico, inventario, red, almacén y KPIs. Tus datos se quedan en tu navegador.</span></p>
+      <label class="lf-search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg><input type="search" id="lfSearch" aria-label="Search"></label>
+      <div class="lf-chips" role="tablist" aria-label="Category"></div>
+    </header>
+
+    <!-- FORECAST -->
+    <article class="lf-card" data-cat="plan" data-href="/labs/forecast/" data-key="forecast">
+      <div class="lf-card-h">
+        <span class="lf-av" style="--c:#1e5fa8"><svg viewBox="0 0 24 24"><path d="M3 17l6-6 4 4 8-8M15 7h6v6"/></svg></span>
+        <div><h2><a href="/labs/forecast/"><span class="msc-en">Demand Forecast Studio</span><span class="msc-es">Estudio de Pronóstico de Demanda</span></a></h2>
+        <span class="lf-meta"><span class="msc-en">Plan</span><span class="msc-es">Planear</span> · v2.1 · <span class="msc-en">updated Nov 2026</span><span class="msc-es">actualizado nov 2026</span></span></div>
+      </div>
+      <p class="lf-q"><span class="msc-en">Which forecasting method fits this series, and how accurate is it?</span><span class="msc-es">¿Qué método de pronóstico le queda a esta serie y qué tan exacto es?</span></p>
+      <p class="lf-d"><span class="msc-en">Upload weekly history or use a sample. Holt-Winters, moving average and seasonal decomposition are scored on the same holdout; download the forecast with its 95% band.</span><span class="msc-es">Sube tu historia semanal o usa un ejemplo. Holt-Winters, promedio móvil y descomposición estacional se evalúan sobre la misma validación; descarga el pronóstico con su banda del 95%.</span></p>
+      <a class="lf-media" href="/labs/forecast/" aria-hidden="true" tabindex="-1"><svg viewBox="0 0 600 220" preserveAspectRatio="none"><rect width="600" height="220" fill="#f3f6fb"/><g stroke="#e2e7ef"><path d="M0 55h600M0 110h600M0 165h600"/></g><path d="M20 160 L60 140 L95 150 L130 110 L165 95 L200 120 L235 150 L270 135 L305 100 L340 80 L375 105 L410 140 L440 125" fill="none" stroke="#0f1720" stroke-width="2.5"/><path d="M440 125 L470 95 L500 82 L530 100 L560 120 L585 104 L585 140 L560 152 L530 134 L500 118 L470 130 L440 125Z" fill="rgba(30,79,156,.14)"/><path d="M440 125 L470 112 L500 100 L530 117 L560 136 L585 122" fill="none" stroke="#1e4f9c" stroke-width="2.5"/><path d="M440 20V200" stroke="#94a3b8" stroke-dasharray="4 4"/></svg></a>
+      <div class="lf-act"><a class="lf-btn p" href="/labs/forecast/"><span class="msc-en">Open</span><span class="msc-es">Abrir</span></a><button type="button" class="lf-btn" data-share><svg viewBox="0 0 24 24"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg><span class="msc-en">Copy link</span><span class="msc-es">Copiar enlace</span></button></div>
+    </article>
+
+    <!-- SAFETY STOCK -->
+    <article class="lf-card" data-cat="plan" data-href="/labs/safety-stock/" data-key="safety-stock">
+      <div class="lf-card-h">
+        <span class="lf-av" style="--c:#1e5fa8"><svg viewBox="0 0 24 24"><path d="M12 3l9 4.5-9 4.5-9-4.5L12 3zM3 12l9 4.5 9-4.5M3 16.5L12 21l9-4.5"/></svg></span>
+        <div><h2><a href="/labs/safety-stock/"><span class="msc-en">Safety Stock Calculator</span><span class="msc-es">Calculadora de Inventario de Seguridad</span></a></h2>
+        <span class="lf-meta"><span class="msc-en">Plan</span><span class="msc-es">Planear</span> · v2.2 · <span class="msc-en">updated Nov 2026</span><span class="msc-es">actualizado nov 2026</span></span></div>
+      </div>
+      <p class="lf-q"><span class="msc-en">How much safety stock does this SKU need, when do I reorder, and what does each point of service cost?</span><span class="msc-es">¿Cuánto inventario de seguridad necesita este SKU, cuándo reordeno y cuánto cuesta cada punto de servicio?</span></p>
+      <p class="lf-d"><span class="msc-en">Demand, lead time and their variability in; safety stock, reorder point, tied-up capital and a cost table by service level out.</span><span class="msc-es">Entran demanda, lead time y su variabilidad; salen inventario de seguridad, punto de reorden, capital inmovilizado y una tabla de costo por nivel de servicio.</span></p>
+      <a class="lf-media" href="/labs/safety-stock/" aria-hidden="true" tabindex="-1"><svg viewBox="0 0 600 220" preserveAspectRatio="none"><rect width="600" height="220" fill="#f3f6fb"/><g fill="#a9bcd9"><rect x="40" y="40" width="230" height="22" rx="4"/><rect x="40" y="76" width="290" height="22" rx="4"/><rect x="40" y="148" width="410" height="22" rx="4"/><rect x="40" y="184" width="520" height="22" rx="4" opacity=".7"/></g><rect x="40" y="112" width="345" height="22" rx="4" fill="#1e4f9c"/><g fill="#64748b" font-family="Inter,Arial" font-size="13"><text x="285" y="56">90%</text><text x="345" y="92">95%</text><text x="400" y="128" fill="#1e4f9c" font-weight="700">97%</text><text x="465" y="164">99%</text></g></svg></a>
+      <div class="lf-act"><a class="lf-btn p" href="/labs/safety-stock/"><span class="msc-en">Open</span><span class="msc-es">Abrir</span></a><button type="button" class="lf-btn" data-share><svg viewBox="0 0 24 24"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg><span class="msc-en">Copy link</span><span class="msc-es">Copiar enlace</span></button></div>
+    </article>
+
+    <!-- SEMIS -->
+    <article class="lf-card" data-cat="plan" data-href="/labs/semis-buffer/" data-key="semis-buffer">
+      <div class="lf-card-h">
+        <span class="lf-av" style="--c:#5b3fb8"><svg viewBox="0 0 24 24"><rect x="7" y="7" width="10" height="10" rx="1.5"/><path d="M10 3v4M14 3v4M10 17v4M14 17v4M3 10h4M3 14h4M17 10h4M17 14h4"/></svg></span>
+        <div><h2><a href="/labs/semis-buffer/"><span class="msc-en">Semiconductor Buffer Optimizer</span><span class="msc-es">Optimizador de Buffer para Semiconductores</span></a><span class="lf-new"><span class="msc-en">New version</span><span class="msc-es">Nueva versión</span></span></h2>
+        <span class="lf-meta"><span class="msc-en">Plan · Semiconductors</span><span class="msc-es">Planear · Semiconductores</span> · v3.0 · <span class="msc-en">updated Nov 2026</span><span class="msc-es">actualizado nov 2026</span></span></div>
+      </div>
+      <p class="lf-q"><span class="msc-en">How much buffer does each customer segment need, and should it sit at wafer, die bank or finished goods?</span><span class="msc-es">¿Cuánto buffer necesita cada segmento de cliente y conviene tenerlo en wafer, die bank o producto terminado?</span></p>
+      <p class="lf-d"><span class="msc-en">Bin split, segments with their own service level, yields and lead times by stage. Import your segments from CSV and get a policy table with units and capital per segment.</span><span class="msc-es">Bin split, segmentos con su propio nivel de servicio, yields y lead times por etapa. Importa tus segmentos desde CSV y obtén una tabla de política con unidades y capital por segmento.</span></p>
+      <a class="lf-media" href="/labs/semis-buffer/" aria-hidden="true" tabindex="-1"><svg viewBox="0 0 600 220" preserveAspectRatio="none"><rect width="600" height="220" fill="#f5f3fb"/><g font-family="Inter,Arial" font-size="14" text-anchor="middle"><rect x="30" y="80" width="110" height="56" rx="8" fill="#fff" stroke="#d8d1ef"/><text x="85" y="113" fill="#334155">Wafer</text><rect x="175" y="80" width="110" height="56" rx="8" fill="#5b3fb8"/><text x="230" y="113" fill="#fff" font-weight="700">Die bank</text><rect x="320" y="80" width="110" height="56" rx="8" fill="#fff" stroke="#d8d1ef"/><text x="375" y="113" fill="#334155">Test / bin</text><rect x="465" y="80" width="110" height="56" rx="8" fill="#fff" stroke="#d8d1ef"/><text x="520" y="113" fill="#334155">FG</text></g><g stroke="#b9ace6" stroke-width="2"><path d="M140 108h35M285 108h35M430 108h35"/></g><g fill="#5b3fb8" opacity=".5"><rect x="200" y="160" width="12" height="30" rx="2"/><rect x="218" y="150" width="12" height="40" rx="2"/><rect x="236" y="170" width="12" height="20" rx="2"/></g></svg></a>
+      <div class="lf-act"><a class="lf-btn p" href="/labs/semis-buffer/"><span class="msc-en">Open</span><span class="msc-es">Abrir</span></a><button type="button" class="lf-btn" data-share><svg viewBox="0 0 24 24"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg><span class="msc-en">Copy link</span><span class="msc-es">Copiar enlace</span></button></div>
+    </article>
+
+    <!-- KPI -->
+    <article class="lf-card" data-cat="measure" data-href="/labs/kpi/" data-key="kpi">
+      <div class="lf-card-h">
+        <span class="lf-av" style="--c:#1f8a5b"><svg viewBox="0 0 24 24"><path d="M4 20V11M10 20V5M16 20v-6M3 20h18"/></svg></span>
+        <div><h2><a href="/labs/kpi/"><span class="msc-en">KPI Reference Library</span><span class="msc-es">Biblioteca de KPIs</span></a></h2>
+        <span class="lf-meta"><span class="msc-en">Measure</span><span class="msc-es">Medir</span> · v3.0</span></div>
+      </div>
+      <p class="lf-q"><span class="msc-en">What should I measure, and against which target?</span><span class="msc-es">¿Qué debo medir y contra qué meta?</span></p>
+      <p class="lf-d"><span class="msc-en">58 KPIs in 10 SCRA domains, each with formula, target, reference range, levers and alert threshold, ready to copy into a scorecard.</span><span class="msc-es">58 KPIs en 10 dominios de la SCRA, cada uno con fórmula, meta, rango de referencia, palancas y umbral de alerta, listos para copiar a un scorecard.</span></p>
+      <a class="lf-media" href="/labs/kpi/" aria-hidden="true" tabindex="-1"><svg viewBox="0 0 600 220" preserveAspectRatio="none"><rect width="600" height="220" fill="#f2f8f5"/><g fill="#fff" stroke="#cfe6da"><rect x="30" y="30" width="170" height="74" rx="8"/><rect x="215" y="30" width="170" height="74" rx="8"/><rect x="400" y="30" width="170" height="74" rx="8"/><rect x="30" y="118" width="170" height="74" rx="8"/><rect x="215" y="118" width="170" height="74" rx="8"/><rect x="400" y="118" width="170" height="74" rx="8"/></g><g fill="#1f8a5b" font-family="Inter,Arial" font-size="12" font-weight="700"><text x="46" y="56">OTIF</text><text x="231" y="56">MAPE</text><text x="416" y="56">DIO</text><text x="46" y="144">C2C</text><text x="231" y="144">Fill rate</text><text x="416" y="144">Perfect order</text></g><g fill="#cfe6da"><rect x="46" y="72" width="110" height="8" rx="4"/><rect x="231" y="72" width="90" height="8" rx="4"/><rect x="416" y="72" width="120" height="8" rx="4"/><rect x="46" y="160" width="80" height="8" rx="4"/><rect x="231" y="160" width="120" height="8" rx="4"/><rect x="416" y="160" width="100" height="8" rx="4"/></g></svg></a>
+      <div class="lf-act"><a class="lf-btn p" href="/labs/kpi/"><span class="msc-en">Open</span><span class="msc-es">Abrir</span></a><button type="button" class="lf-btn" data-share><svg viewBox="0 0 24 24"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg><span class="msc-en">Copy link</span><span class="msc-es">Copiar enlace</span></button></div>
+    </article>
+
+    <!-- NETWORK -->
+    <article class="lf-card" data-cat="design" data-href="/labs/network/" data-key="network">
+      <div class="lf-card-h">
+        <span class="lf-av" style="--c:#b87514"><svg viewBox="0 0 24 24"><circle cx="5" cy="6" r="2.5"/><circle cx="19" cy="6" r="2.5"/><circle cx="12" cy="18" r="2.5"/><path d="M7 7.5l3.5 8M17 7.5l-3.5 8M7.5 6h9"/></svg></span>
+        <div><h2><a href="/labs/network/"><span class="msc-en">Network Design Analyzer</span><span class="msc-es">Analizador de Diseño de Red</span></a></h2>
+        <span class="lf-meta"><span class="msc-en">Design</span><span class="msc-es">Diseñar</span> · v2.0</span></div>
+      </div>
+      <p class="lf-q"><span class="msc-en">How many DCs should I open, and where?</span><span class="msc-es">¿Cuántos CEDIS conviene abrir y dónde?</span></p>
+      <p class="lf-d"><span class="msc-en">Evaluate your current network on a map, then compare it with the optimizer’s proposal: total cost, coverage and the zones left outside the service distance.</span><span class="msc-es">Evalúa tu red actual en un mapa y compárala con la propuesta del optimizador: costo total, cobertura y las zonas que quedan fuera de la distancia de servicio.</span></p>
+      <a class="lf-media" href="/labs/network/" aria-hidden="true" tabindex="-1"><svg viewBox="0 0 600 220" preserveAspectRatio="none"><rect width="600" height="220" fill="#fbf7f0"/><g stroke="#e8d7b9" stroke-width="1.5"><path d="M190 90L90 50M190 90L120 150M190 90L260 40M420 120L340 70M420 120L500 60M420 120L520 170M420 120L360 180"/></g><g fill="#e2c48f"><circle cx="90" cy="50" r="10"/><circle cx="120" cy="150" r="14"/><circle cx="260" cy="40" r="8"/><circle cx="340" cy="70" r="12"/><circle cx="500" cy="60" r="9"/><circle cx="520" cy="170" r="13"/><circle cx="360" cy="180" r="10"/></g><g fill="#b87514"><rect x="178" y="78" width="24" height="24" rx="5"/><rect x="408" y="108" width="24" height="24" rx="5"/></g></svg></a>
+      <div class="lf-act"><a class="lf-btn p" href="/labs/network/"><span class="msc-en">Open</span><span class="msc-es">Abrir</span></a><button type="button" class="lf-btn" data-share><svg viewBox="0 0 24 24"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg><span class="msc-en">Copy link</span><span class="msc-es">Copiar enlace</span></button></div>
+    </article>
+
+    <!-- WAREHOUSE -->
+    <article class="lf-card" data-cat="design" data-href="/labs/warehouse/" data-key="warehouse">
+      <div class="lf-card-h">
+        <span class="lf-av" style="--c:#b87514"><svg viewBox="0 0 24 24"><path d="M3 9l9-5 9 5v11H3zM7 20v-7h10v7M7 16h10"/></svg></span>
+        <div><h2><a href="/labs/warehouse/"><span class="msc-en">Warehouse Layout Designer</span><span class="msc-es">Diseñador de Layout de Almacén</span></a></h2>
+        <span class="lf-meta"><span class="msc-en">Design</span><span class="msc-es">Diseñar</span> · v2.0</span></div>
+      </div>
+      <p class="lf-q"><span class="msc-en">How much space does each zone need, and how many pallet positions do I get?</span><span class="msc-es">¿Cuánto espacio necesita cada zona y cuántas posiciones de tarima obtengo?</span></p>
+      <p class="lf-d"><span class="msc-en">Six industry templates. Enter area, docks, clear height, rack type and volume for a scaled schematic plan with the zone breakdown.</span><span class="msc-es">Seis plantillas por industria. Captura área, andenes, altura libre, tipo de rack y volumen para obtener un plano esquemático a escala con el desglose por zona.</span></p>
+      <a class="lf-media" href="/labs/warehouse/" aria-hidden="true" tabindex="-1"><svg viewBox="0 0 600 220" preserveAspectRatio="none"><rect width="600" height="220" fill="#fbf7f0"/><rect x="40" y="25" width="520" height="170" fill="#fff" stroke="#e8d7b9"/><rect x="40" y="25" width="90" height="170" fill="#f1e3c8"/><g fill="#c9a66b"><rect x="160" y="45" width="230" height="10"/><rect x="160" y="70" width="230" height="10"/><rect x="160" y="95" width="230" height="10"/><rect x="160" y="120" width="230" height="10"/><rect x="160" y="145" width="230" height="10"/></g><rect x="420" y="45" width="120" height="65" fill="#e9eef7"/><rect x="420" y="125" width="120" height="50" fill="#e6f2ec"/><g fill="#b87514"><rect x="60" y="190" width="18" height="10"/><rect x="88" y="190" width="18" height="10"/></g></svg></a>
+      <div class="lf-act"><a class="lf-btn p" href="/labs/warehouse/"><span class="msc-en">Open</span><span class="msc-es">Abrir</span></a><button type="button" class="lf-btn" data-share><svg viewBox="0 0 24 24"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg><span class="msc-en">Copy link</span><span class="msc-es">Copiar enlace</span></button></div>
+    </article>
+
+    <!-- TWIN -->
+    <article class="lf-card" data-cat="simulate" data-href="/labs/twin/" data-key="twin">
+      <div class="lf-card-h">
+        <span class="lf-av" style="--c:#0f1720"><svg viewBox="0 0 24 24"><path d="M12 3l8 4.5v9L12 21l-8-4.5v-9z"/><path d="M12 12l8-4.5M12 12v9M12 12L4 7.5"/></svg></span>
+        <div><h2><a href="/labs/twin/">TwinOps 3D</a></h2>
+        <span class="lf-meta"><span class="msc-en">Simulate · digital twin</span><span class="msc-es">Simular · gemelo digital</span> · Beta</span></div>
+      </div>
+      <p class="lf-q"><span class="msc-en">What happens to my DC’s KPIs if volume peaks or something breaks?</span><span class="msc-es">¿Qué pasa con los KPIs de mi CEDIS si sube el volumen o algo falla?</span></p>
+      <p class="lf-d"><span class="msc-en">A 3D distribution center running live. Change resources, inject disruptions and compare against a baseline run. Synthetic data or your CSV.</span><span class="msc-es">Un centro de distribución en 3D operando en vivo. Cambia recursos, provoca disrupciones y compara contra una corrida base. Datos sintéticos o tu CSV.</span></p>
+      <a class="lf-media dark" href="/labs/twin/" aria-hidden="true" tabindex="-1"><svg viewBox="0 0 600 220" preserveAspectRatio="none"><rect width="600" height="220" fill="#0f1720"/><g fill="none" stroke="#3b82f6" stroke-opacity=".55"><path d="M300 30l170 70-170 70-170-70z"/><path d="M130 100v40l170 70 170-70v-40"/><path d="M300 170v40"/></g><g fill="#60a5fa" opacity=".8"><rect x="250" y="80" width="16" height="10"/><rect x="290" y="95" width="16" height="10"/><rect x="330" y="80" width="16" height="10"/><rect x="270" y="110" width="16" height="10"/></g><g font-family="Inter,Arial" font-size="12" fill="#93c5fd"><text x="30" y="40">OTIF 96.2%</text><text x="30" y="60">UPH 142</text></g></svg></a>
+      <div class="lf-act"><a class="lf-btn p" href="/labs/twin/"><span class="msc-en">Open</span><span class="msc-es">Abrir</span></a><button type="button" class="lf-btn" data-share><svg viewBox="0 0 24 24"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg><span class="msc-en">Copy link</span><span class="msc-es">Copiar enlace</span></button></div>
+    </article>
+
+    <!-- DRONSIM -->
+    <article class="lf-card" data-cat="simulate" data-href="/labs/dronsim/" data-key="dronsim">
+      <div class="lf-card-h">
+        <span class="lf-av" style="--c:#0f1720"><svg viewBox="0 0 24 24"><path d="M3 11l18-8-8 18-2-8z"/></svg></span>
+        <div><h2><a href="/labs/dronsim/">DronSim 3D</a></h2>
+        <span class="lf-meta"><span class="msc-en">Simulate · game</span><span class="msc-es">Simular · juego</span> · Beta</span></div>
+      </div>
+      <p class="lf-q"><span class="msc-en">Fly last-mile delivery missions over a city.</span><span class="msc-es">Vuela misiones de entrega de última milla sobre una ciudad.</span></p>
+      <p class="lf-d"><span class="msc-en">Deliveries against the battery, timed rings and free flight. Keyboard, mouse, touch or gamepad.</span><span class="msc-es">Entregas contra la batería, anillos contra reloj y vuelo libre. Teclado, ratón, pantalla táctil o control.</span></p>
+      <a class="lf-media dark" href="/labs/dronsim/" aria-hidden="true" tabindex="-1"><svg viewBox="0 0 600 220" preserveAspectRatio="none"><defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1e3a5f"/><stop offset="1" stop-color="#0f1720"/></linearGradient></defs><rect width="600" height="220" fill="url(#sky)"/><g fill="#1f2a37"><rect x="20" y="130" width="60" height="90"/><rect x="90" y="100" width="50" height="120"/><rect x="150" y="145" width="70" height="75"/><rect x="380" y="115" width="55" height="105"/><rect x="445" y="90" width="60" height="130"/><rect x="515" y="140" width="70" height="80"/></g><g stroke="#e2e8f0" stroke-width="3" fill="none"><path d="M275 70h50M300 70v14"/><circle cx="268" cy="70" r="12" stroke-width="1.5"/><circle cx="332" cy="70" r="12" stroke-width="1.5"/></g><rect x="290" y="84" width="20" height="14" fill="#f59e0b"/><path d="M300 98v40" stroke="#f59e0b" stroke-dasharray="3 4"/></svg></a>
+      <div class="lf-act"><a class="lf-btn p" href="/labs/dronsim/"><span class="msc-en">Play</span><span class="msc-es">Jugar</span></a><button type="button" class="lf-btn" data-share><svg viewBox="0 0 24 24"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg><span class="msc-en">Copy link</span><span class="msc-es">Copiar enlace</span></button></div>
+    </article>
+
+    <p class="lf-empty" id="lfEmpty" hidden><span class="msc-en">No tools match your search.</span><span class="msc-es">Ninguna herramienta coincide con tu búsqueda.</span></p>
+  </main>
+
+  <!-- RIGHT RAIL -->
+  <aside class="lf-right">
+    <section class="lf-box">
+      <div class="lf-h"><span class="msc-en">Suggested path</span><span class="msc-es">Ruta sugerida</span></div>
+      <ol class="lf-path">
+        <li><a href="/labs/forecast/"><b><span class="msc-en">Forecast</span><span class="msc-es">Pronóstico</span></b><span><span class="msc-en">get MAPE for your series</span><span class="msc-es">obtén el MAPE de tu serie</span></span></a></li>
+        <li><a href="/labs/safety-stock/"><b><span class="msc-en">Safety stock</span><span class="msc-es">Inventario de seguridad</span></b><span><span class="msc-en">use that MAPE to size it</span><span class="msc-es">usa ese MAPE para dimensionarlo</span></span></a></li>
+        <li><a href="/labs/network/"><b><span class="msc-en">Network</span><span class="msc-es">Red</span></b><span><span class="msc-en">decide where stock sits</span><span class="msc-es">decide dónde vive el inventario</span></span></a></li>
+        <li><a href="/labs/kpi/"><b>KPIs</b><span><span class="msc-en">measure the result</span><span class="msc-es">mide el resultado</span></span></a></li>
+      </ol>
+    </section>
+    <section class="lf-box">
+      <div class="lf-h"><span class="msc-en">What’s new</span><span class="msc-es">Novedades</span></div>
+      <ul class="lf-news">
+        <li><a href="/labs/semis-buffer/"><b><span class="msc-en">Semiconductor Buffer v3</span><span class="msc-es">Buffer para semis v3</span></b><span><span class="msc-en">CSV import, policy table by segment, position comparison</span><span class="msc-es">Importa CSV, tabla de política por segmento, comparación de posiciones</span></span><time datetime="2026-11-26"><span class="msc-en">Nov 26</span><span class="msc-es">26 nov</span></time></a></li>
+        <li><a href="/labs/forecast/"><b><span class="msc-en">Forecast: method comparison</span><span class="msc-es">Pronóstico: comparación de métodos</span></b><span><span class="msc-en">all three scored on the same holdout, CSV export</span><span class="msc-es">los tres evaluados sobre la misma validación, exporta CSV</span></span><time datetime="2026-11-26"><span class="msc-en">Nov 26</span><span class="msc-es">26 nov</span></time></a></li>
+        <li><a href="/labs/safety-stock/"><b><span class="msc-en">Safety stock: reorder point</span><span class="msc-es">Inventario de seguridad: punto de reorden</span></b><span><span class="msc-en">now shown next to safety stock</span><span class="msc-es">ahora junto al inventario de seguridad</span></span><time datetime="2026-11-26"><span class="msc-en">Nov 26</span><span class="msc-es">26 nov</span></time></a></li>
+      </ul>
+    </section>
+    <section class="lf-box lf-note">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="11" width="14" height="10" rx="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/></svg>
+      <p><span class="msc-en">Every tool runs in your browser. Files you load are not uploaded.</span><span class="msc-es">Todas las herramientas corren en tu navegador. Los archivos que cargas no se suben.</span></p>
+    </section>
+  </aside>
+</div>
+
+<script>
+(function(){
+  var d=document;function ES(){return d.documentElement.classList.contains('msc-es');}function L(en,es){return ES()?es:en;}
+  var cards=[].slice.call(d.querySelectorAll('.lf-card')),nav=[].slice.call(d.querySelectorAll('.lf-nav button')),chips=d.querySelector('.lf-chips'),q=d.getElementById('lfSearch'),cat='all';
+  nav.forEach(function(b){var c=b.cloneNode(true);var sv=c.querySelector('svg');if(sv)sv.remove();var n=c.querySelector('i');if(n)n.remove();chips.appendChild(c);});
+  var all=nav.concat([].slice.call(chips.children));
+  function run(){var t=(q.value||'').trim().toLowerCase(),n=0;
+    cards.forEach(function(c){var ok=(cat==='all'||c.dataset.cat===cat)&&(!t||c.textContent.toLowerCase().indexOf(t)>=0);c.hidden=!ok;if(ok)n++;});
+    d.getElementById('lfEmpty').hidden=n>0;}
+  function setCat(v){cat=v;all.forEach(function(b){b.classList.toggle('on',b.dataset.cat===v);});run();try{history.replaceState(null,'',v==='all'?location.pathname:'#cat='+v);}catch(e){}}
+  all.forEach(function(b){b.addEventListener('click',function(){setCat(b.dataset.cat);});});
+  q.addEventListener('input',run);
+  function ph(){q.placeholder=L('Search tools','Buscar herramientas');}ph();
+  new MutationObserver(function(){ph();recent();}).observe(d.documentElement,{attributes:true,attributeFilter:['class']});
+  var m=location.hash.match(/cat=([a-z]+)/);if(m)setCat(m[1]);
+  d.addEventListener('keydown',function(e){if(e.key==='/'&&!/INPUT|TEXTAREA|SELECT/.test(e.target.tagName)){e.preventDefault();q.focus();}});
+  /* toast */
+  var tEl,tT;function toast(m){if(!tEl){tEl=d.createElement('div');tEl.className='lb-toast';d.body.appendChild(tEl);}tEl.textContent=m;tEl.classList.add('on');clearTimeout(tT);tT=setTimeout(function(){tEl.classList.remove('on');},2000);}
+  /* copy link */
+  d.querySelectorAll('[data-share]').forEach(function(b){b.addEventListener('click',function(){
+    var u=location.origin+b.closest('.lf-card').dataset.href;
+    function ok(){toast(L('Link copied','Enlace copiado'));}
+    if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(u).then(ok,function(){prompt('',u);});}else{prompt('',u);}
+  });});
+  /* recent */
+  var KEY='msc-labs-recent';
+  function get(){try{return JSON.parse(localStorage.getItem(KEY)||'[]');}catch(e){return [];}}
+  cards.forEach(function(c){c.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){
+    var r=get().filter(function(k){return k!==c.dataset.key;});r.unshift(c.dataset.key);try{localStorage.setItem(KEY,JSON.stringify(r.slice(0,4)));}catch(e){}});});});
+  function recent(){var r=get(),ul=d.getElementById('lfRecentList');ul.innerHTML='';
+    r.forEach(function(k){var c=d.querySelector('.lf-card[data-key="'+k+'"]');if(!c)return;var h=c.querySelector('h2 a');
+      var li=d.createElement('li');li.innerHTML='<a href="'+c.dataset.href+'">'+(ES()?(h.querySelector('.msc-es')||h).textContent:(h.querySelector('.msc-en')||h).textContent)+'</a>';ul.appendChild(li);});
+    d.getElementById('lfRecent').hidden=!ul.children.length;}
+  recent();
+})();
+</script>
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "83d3c28484e44c21b9d87b1a9228f95c"}'></script>
+</body>
+</html>

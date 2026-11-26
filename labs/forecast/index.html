@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Demand Forecast Studio · Labs · Mr. Supply Chain® México</title>
+<meta name="description" content="A transparent statistical baseline for demand forecasting — moving average, Holt-Winters and seasonal decomposition with confidence intervals and MAPE / bias / WMAPE scored against a holdout. The benchmark AI forecasts must beat. Mr. Supply Chain® México Labs."/>
+
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/site.css?v=8">
+<link rel="preload" href="/assets/fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/labs.css?v=2">
+<link rel="canonical" href="https://mrsupplychain.ai/labs/forecast/">
+<link rel="alternate" hreflang="en" href="https://mrsupplychain.ai/labs/forecast/">
+<link rel="alternate" hreflang="es" href="https://mrsupplychain.ai/es/labs/forecast/">
+<link rel="alternate" hreflang="x-default" href="https://mrsupplychain.ai/labs/forecast/">
+<meta property="og:image" content="https://mrsupplychain.ai/assets/og-index.png">
+
+<script src="/assets/lang.js?v=5" defer></script>
+<link rel="manifest" href="/manifest.webmanifest">
+<meta name="theme-color" content="#163e86">
+<link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="MSC México">
+<style>.lb-click tbody tr{cursor:pointer}.lb-click tbody tr:hover td{background:var(--lb-surface-2)}.lb-click tbody tr.sel td{background:var(--lb-accent-soft)}.lb-click tbody tr.sel td:first-child{color:var(--lb-accent);font-weight:600}.lb-best{display:inline-block;margin-left:8px;padding:1px 6px;border-radius:4px;font-size:10px;font-weight:600;background:var(--lb-ok-soft);color:var(--lb-ok);font-family:var(--lb-font)}</style>
+</head>
+<body class="labs-app " data-tool="forecast">
+<script src="/assets/site.js?v=15"></script>
+<div data-msc-legacy hidden aria-hidden="true"><button id="btn-lang-en" class="lb on" type="button">EN</button><button id="btn-lang-es" class="lb" type="button">ES</button><button id="hamburger" type="button"></button><div id="mobileMenu"></div></div>
+<header class="tb" role="toolbar" aria-label="Tool">
+  <div class="tb-in">
+    <nav class="tb-crumb" aria-label="Breadcrumb"><a href="/labs/"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg> Labs</a><span class="sep">/</span><span><span class="msc-en">Plan</span><span class="msc-es">Planear</span></span></nav>
+    <div class="tb-title"><span class="tb-ic"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 17l6-6 4 4 8-8M15 7h6v6"/></svg></span><h1><span class="msc-en">Demand Forecast Studio</span><span class="msc-es">Estudio de Pronóstico de Demanda</span></h1><span class="tb-ver">v2.1</span><span class="tb-status"><span class="msc-en">Stable</span><span class="msc-es">Estable</span></span></div>
+    <div class="tb-spacer"></div>
+    <div class="tb-switch"><button type="button" aria-haspopup="true" aria-expanded="false"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg><span class="lbl"><span class="msc-en">Switch tool</span><span class="msc-es">Cambiar herramienta</span></span><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></button><div class="tb-switch-pop" role="menu"><div class="grp"><span class="msc-en">Plan</span><span class="msc-es">Planear</span></div><a href="/labs/forecast/" class="on" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 17l6-6 4 4 8-8M15 7h6v6"/></svg><div><b><span class="msc-en">Demand Forecast Studio</span><span class="msc-es">Estudio de Pronóstico</span></b><span><span class="msc-en">Holt-Winters, MA, decomposition · MAPE on holdout</span><span class="msc-es">Holt-Winters, PM, descomposición · MAPE en holdout</span></span></div></a><a href="/labs/safety-stock/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l9 4.5-9 4.5-9-4.5L12 3zM3 12l9 4.5 9-4.5M3 16.5L12 21l9-4.5"/></svg><div><b><span class="msc-en">Safety Stock Calculator</span><span class="msc-es">Calculadora de Inventario de Seguridad</span></b><span><span class="msc-en">z · σDLT with working-capital trade-off</span><span class="msc-es">z · σDLT con capital de trabajo</span></span></div></a><a href="/labs/semis-buffer/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><rect x="7" y="7" width="10" height="10" rx="1.5"/><path d="M10 3v4M14 3v4M10 17v4M14 17v4M3 10h4M3 14h4M17 10h4M17 14h4"/></svg><div><b><span class="msc-en">Semiconductor Buffer Optimizer</span><span class="msc-es">Optimizador de Buffers de Semiconductores</span></b><span><span class="msc-en">Yield, binning, die bank, differentiated SL</span><span class="msc-es">Yield, binning, die bank, SL diferenciado</span></span></div></a><div class="grp"><span class="msc-en">Measure</span><span class="msc-es">Medir</span></div><a href="/labs/kpi/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V11M10 20V5M16 20v-6M3 20h18"/></svg><div><b><span class="msc-en">KPI Reference Library</span><span class="msc-es">Biblioteca de KPIs</span></b><span><span class="msc-en">58 KPIs · formula, target, benchmark</span><span class="msc-es">58 KPIs · fórmula, meta, benchmark</span></span></div></a><div class="grp"><span class="msc-en">Design</span><span class="msc-es">Diseñar</span></div><a href="/labs/network/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="6" r="2.5"/><circle cx="19" cy="6" r="2.5"/><circle cx="12" cy="18" r="2.5"/><path d="M7 7.5l3.5 8M17 7.5l-3.5 8M7.5 6h9"/></svg><div><b><span class="msc-en">Network Design Analyzer</span><span class="msc-es">Analizador de Diseño de Red</span></b><span><span class="msc-en">p-median siting, coverage, cost per zone</span><span class="msc-es">Localización p-median, cobertura, costo por zona</span></span></div></a><a href="/labs/warehouse/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9l9-5 9 5v11H3zM7 20v-7h10v7M7 16h10"/></svg><div><b><span class="msc-en">Warehouse Layout Designer</span><span class="msc-es">Diseñador de Layout de Almacén</span></b><span><span class="msc-en">Scaled floor plan, zones, rack estimates</span><span class="msc-es">Plano a escala, zonas, estimado de racks</span></span></div></a><div class="all"><a href="/labs/" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg><div><b><span class="msc-en">All Labs tools</span><span class="msc-es">Todas las herramientas</span></b><span><span class="msc-en">Catalogue, simulators and experiments</span><span class="msc-es">Catálogo, simuladores y experimentos</span></span></div></a></div></div></div>
+    <div class="tb-actions"><button type="button" class="btn btn-ghost" onclick="toggleHowTo()" aria-controls="howTo" title="?"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M9.5 9.5a2.5 2.5 0 1 1 3.5 2.3c-.7.3-1 .9-1 1.7M12 17h.01"/></svg><span class="lbl"><span class="msc-en">Guide</span><span class="msc-es">Guía</span></span></button><button type="button" class="btn btn-primary" data-lb-export="exportReport"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M4 19h16"/></svg><span class="lbl"><span class="msc-en">Export report</span><span class="msc-es">Exportar reporte</span></span></button></div>
+  </div>
+</header>
+<main class="ws">
+  <aside class="ws-side" aria-label="Controls">
+    <div class="inputs"><div class="inputs-title"><span class="msc-en">Model setup</span><span class="msc-es">Configuración del modelo</span></div>
+  <div class="ctrl-group">
+    <div class="ctrl-label"><span class="msc-en">Dataset</span><span class="msc-es">Conjunto de datos</span></div>
+    <select class="ctrl-select" id="datasetSel" onchange="onDatasetChange()">
+      <option value="retail">Retail &mdash; weekly, strong seasonality</option>
+      <option value="cpg">CPG staple &mdash; weekly, mild trend</option>
+      <option value="industrial">Industrial part &mdash; intermittent demand</option>
+      <option value="ecom">E-commerce SKU &mdash; growth + promo spikes</option>
+    </select>
+  </div>
+  <div class="ctrl-group">
+    <div class="ctrl-label"><span class="msc-en">Method</span><span class="msc-es">M&eacute;todo</span></div>
+    <select class="ctrl-select" id="methodSel" onchange="generate()">
+      <option value="hw">Holt-Winters (triple exp. smoothing)</option>
+      <option value="ma">Moving Average (baseline)</option>
+      <option value="sd">Seasonal Decomposition</option>
+    </select>
+  </div>
+  <div class="ctrl-group">
+    <div class="ctrl-label"><span class="msc-en">Forecast horizon</span><span class="msc-es">Horizonte de pron&oacute;stico</span></div>
+    <div class="ctrl-slider-wrap">
+      <input type="range" class="ctrl-slider" id="horizonSlider" min="4" max="26" value="13" oninput="onHorizonInput()" onchange="generate()">
+      <span class="ctrl-slider-val" id="horizonVal">13 wk</span>
+    </div>
+  </div>
+  <div class="ctrl-actions"><div class="field-hint" style="margin:0 0 2px"><span class="msc-en">One column of weekly or monthly demand. Processed locally.</span><span class="msc-es">Una columna de demanda semanal o mensual. Se procesa localmente.</span></div>
+    <button class="btn btn-block" type="button" onclick="document.getElementById('fileInput').click()"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 16V5M7 10l5-5 5 5M4 19h16"/></svg><span class="msc-en">Upload CSV</span><span class="msc-es">Subir CSV</span></button>
+    
+    <input type="file" id="fileInput" accept=".csv,text/csv" onchange="onFileUpload(event)">
+  </div>
+</div>
+  </aside>
+  <div class="ws-intro">
+  <div>
+    <h2><span class="msc-en">Pick a forecasting method for a demand series and measure its accuracy</span><span class="msc-es">Elige el método de pronóstico para una serie de demanda y mide su exactitud</span></h2>
+    <p><span class="msc-en">Use a sample profile or upload your weekly history. All three methods are scored on the same holdout (the last weeks, kept out of fitting); the most accurate one is marked. Download the forecast with its 95% band as CSV.</span><span class="msc-es">Usa un perfil de ejemplo o sube tu historia semanal. Los tres métodos se evalúan sobre la misma validación (las últimas semanas, fuera del ajuste) y se marca el más exacto. Descarga el pronóstico con su banda del 95% en CSV.</span></p>
+  </div>
+</div>
+  <section class="ws-main">
+    <div class="data-source" id="dataSource"></div>
+
+  <!-- METRIC STRIP -->
+  <div class="metrics" id="metricStrip"></div>
+  <div id="forecastInterp"></div>
+
+  <div class="panel">
+    <div class="panel-title"><span class="msc-en">Method comparison</span><span class="msc-es">Comparación de métodos</span></div>
+    <div class="panel-note"><span class="msc-en">Same holdout for all three. Click a row to use that method.</span><span class="msc-es">Misma validación para los tres. Haz clic en una fila para usar ese método.</span></div>
+    <div class="tbl-wrap"><table class="ftbl lb-click" id="cmpTable"></table></div>
+    <div class="lb-read" id="rdCmp"></div>
+  </div>
+
+  <!-- BASELINE FRAMING -->
+  
+
+  <!-- CHART -->
+  <div class="panel">
+    <div class="panel-head">
+      <div>
+        <div class="panel-title"><span class="msc-en">Forecast vs. actuals</span><span class="msc-es">Pron&oacute;stico vs. demanda real</span></div>
+        <div class="panel-note" id="chartNote"></div>
+      </div>
+    </div>
+    <div class="legend">
+      <div class="legend-item"><span class="legend-swatch" style="background:#1d1d1f"></span><span class="msc-en">History (train)</span><span class="msc-es">Historia (entrenamiento)</span></div>
+      <div class="legend-item"><span class="legend-swatch dot" style="background:#aeaeb2"></span><span class="msc-en">Holdout actuals</span><span class="msc-es">Reales de validaci&oacute;n (holdout)</span></div>
+      <div class="legend-item"><span class="legend-swatch" style="background:#0066CC"></span><span class="msc-en">Forecast</span><span class="msc-es">Pron&oacute;stico</span></div>
+      <div class="legend-item"><span class="legend-swatch band" style="background:rgba(0,102,204,.14)"></span><span class="msc-en">95% confidence band</span><span class="msc-es">Banda de confianza del 95%</span></div>
+    </div>
+    <div class="chart-box" id="chartBox"></div>
+    <div class="lb-read" id="rdChart"></div>
+  </div>
+
+  <!-- METHOD EXPLAINER -->
+  <div class="panel explainer">
+    <div class="panel-title"><span class="msc-en">How these methods work</span><span class="msc-es">C&oacute;mo funcionan estos m&eacute;todos</span></div>
+    <div class="panel-note" style="margin-top:3px"><span class="msc-en">The active method is highlighted. Pick by demand pattern: trend, seasonality or neither.</span><span class="msc-es">El método activo aparece resaltado. Elige según el patrón de la demanda: tendencia, estacionalidad o ninguno.</span></div>
+    <div class="exp-grid" id="expGrid"></div>
+  </div>
+
+  <!-- TABLE -->
+  <div class="panel">
+    <div class="panel-head">
+      <div><div class="panel-title"><span class="msc-en">Forecast detail</span><span class="msc-es">Detalle del pron&oacute;stico</span></div>
+      <div class="panel-note"><span class="msc-en">Holdout rows show actual vs. forecast; future rows show the forward forecast with bounds.</span><span class="msc-es">Las filas de validaci&oacute;n (holdout) muestran real vs. pron&oacute;stico; las filas futuras muestran el pron&oacute;stico hacia adelante con sus l&iacute;mites.</span></div></div>
+      <button type="button" class="btn btn-ghost btn-sm" onclick="downloadForecastCSV()"><span class="msc-en">Download CSV</span><span class="msc-es">Descargar CSV</span></button>
+    </div>
+    <div class="tbl-wrap"><table class="ftbl" id="fTable"></table></div>
+    <div class="lb-read" id="rdDetail"></div>
+  </div>
+
+  <div class="disclaimer">
+    <span class="msc-en"><b>Method and limits.</b> Additive Holt-Winters, moving average and additive seasonal decomposition, computed in your browser. Accuracy is measured out of sample on the last weeks of the series. Use it to validate a series and set an accuracy reference; it does not model promotions, price or other causal drivers. Data never leaves your browser.</span>
+    <span class="msc-es"><b>Método y límites.</b> Holt-Winters aditivo, promedio móvil y descomposición estacional aditiva, calculados en tu navegador. La exactitud se mide fuera de muestra sobre las últimas semanas de la serie. Sirve para validar una serie y fijar una referencia de exactitud; no modela promociones, precio ni otras variables causales. Los datos no salen de tu navegador.</span>
+  </div>
+
+  </section>
+</main>
+<div class="how-to" id="howTo"><div class="how-to-head"><div class="how-to-title"><span class="msc-en">Guide</span><span class="msc-es">Guía</span></div><button class="how-to-toggle" id="howToBtn"></button></div><div class="how-to-steps"><div class="how-to-step"><div class="step-num">1</div><div class="step-body"><div class="step-title"><span class="msc-en">Load data</span><span class="msc-es">Carga los datos</span></div><div class="step-desc"><span class="msc-en">Pick a sample profile or upload a CSV with one demand column (one row per week or month).</span><span class="msc-es">Elige un perfil de ejemplo o sube un CSV con una columna de demanda (una fila por semana o mes).</span></div></div></div><div class="how-to-step"><div class="step-num">2</div><div class="step-body"><div class="step-title"><span class="msc-en">Compare methods</span><span class="msc-es">Compara métodos</span></div><div class="step-desc"><span class="msc-en">The comparison table scores the three methods on the same holdout. Click a row to use that method.</span><span class="msc-es">La tabla de comparación evalúa los tres métodos sobre la misma validación. Haz clic en una fila para usar ese método.</span></div></div></div><div class="how-to-step"><div class="step-num">3</div><div class="step-body"><div class="step-title"><span class="msc-en">Read accuracy</span><span class="msc-es">Lee la exactitud</span></div><div class="step-desc"><span class="msc-en">MAPE up to 10% is good, 10–25% workable, above 25% high. Bias shows whether the method runs high (+) or low (−).</span><span class="msc-es">MAPE hasta 10% es bueno, 10–25% manejable y más de 25% alto. El sesgo indica si el método tiende a quedar arriba (+) o abajo (−).</span></div></div></div><div class="how-to-step"><div class="step-num">4</div><div class="step-body"><div class="step-title"><span class="msc-en">Export</span><span class="msc-es">Exporta</span></div><div class="step-desc"><span class="msc-en">Download the forecast as CSV or export a PDF report.</span><span class="msc-es">Descarga el pronóstico en CSV o exporta un reporte en PDF.</span></div></div></div></div></div>
+<script>
+/* ============================================================
+   DEMAND FORECAST STUDIO — in-browser forecasting engine
+   No libraries. No network. Classical, transparent models.
+   ============================================================ */
+
+var SEASON = 52;          // weekly data, annual season
+var HOLDOUT_DEFAULT = 13; // weeks held out for accuracy scoring
+var Z95 = 1.959963985;    // z for 95% interval
+
+/* ---------- Sample dataset generators (deterministic) ---------- */
+function mulberry32(seed){return function(){seed|=0;seed=seed+0x6D2B79F5|0;var t=Math.imul(seed^seed>>>15,1|seed);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296;};}
+
+function genSeries(kind){
+  var rnd=mulberry32(kind==='retail'?7:kind==='cpg'?23:kind==='industrial'?91:42);
+  var n=156; // 3 years weekly
+  var v=[];
+  for(var i=0;i<n;i++){
+    var wk=i%52, year=Math.floor(i/52);
+    var val;
+    if(kind==='retail'){
+      var base=1000+year*60;
+      var seas=320*Math.sin((wk/52)*2*Math.PI - 1.3); // peak ~ week 38
+      var holiday=(wk>=46&&wk<=51)?(420*(1-(Math.abs(48.5-wk)/3))):0;
+      val=base+seas+holiday+(rnd()-0.5)*120;
+    }else if(kind==='cpg'){
+      var base=2200+i*4; // mild upward trend
+      var seas=140*Math.sin((wk/52)*2*Math.PI);
+      val=base+seas+(rnd()-0.5)*90;
+    }else if(kind==='industrial'){
+      // intermittent: many zeros, occasional orders
+      val=(rnd()<0.45)?0:(40+rnd()*160);
+    }else{ // ecom
+      var base=300*Math.pow(1.006,i); // ~0.6%/wk growth
+      var seas=70*Math.sin((wk/52)*2*Math.PI+0.5);
+      var promo=(i%9===0)?base*0.6:0; // periodic promo spikes
+      val=base+seas+promo+(rnd()-0.5)*60;
+    }
+    v.push(Math.max(0,Math.round(val)));
+  }
+  return v;
+}
+
+/* ---------- Forecast methods ---------- */
+
+// Simple moving average baseline: forecast = mean of last w; seasonal naive blend for season
+function forecastMA(train,h){
+  var w=Math.min(8,train.length);
+  var recent=train.slice(-w);
+  var lvl=mean(recent);
+  // seasonal ratios if enough data
+  var fc=[];
+  var hasSeason=train.length>=SEASON*1.5;
+  var seasMean=hasSeason?seasonalMeans(train):null;
+  var gMean=mean(train);
+  for(var i=0;i<h;i++){
+    if(hasSeason){
+      var idx=(train.length+i)%SEASON;
+      var factor=gMean>0?(seasMean[idx]/gMean):1;
+      fc.push(lvl*factor);
+    }else{
+      fc.push(lvl);
+    }
+  }
+  return fc;
+}
+
+function seasonalMeans(arr){
+  var sums=new Array(SEASON).fill(0), cnt=new Array(SEASON).fill(0);
+  for(var i=0;i<arr.length;i++){var idx=i%SEASON;sums[idx]+=arr[i];cnt[idx]++;}
+  var m=[];for(var j=0;j<SEASON;j++){m.push(cnt[j]>0?sums[j]/cnt[j]:0);}
+  return m;
+}
+
+// Holt-Winters additive triple exponential smoothing
+function forecastHW(train,h){
+  var m=SEASON;
+  if(train.length<m*2){ // not enough for full seasonal -> double exp (Holt)
+    return forecastHolt(train,h);
+  }
+  var alpha=0.3,beta=0.05,gamma=0.25;
+  // init level & trend from first season
+  var s1=mean(train.slice(0,m));
+  var s2=mean(train.slice(m,m*2));
+  var level=s1;
+  var trend=(s2-s1)/m;
+  // init seasonals
+  var seas=[];
+  for(var i=0;i<m;i++){seas[i]=train[i]-s1;}
+  var fitted=[];
+  for(var t=0;t<train.length;t++){
+    var si=t%m;
+    var lastLevel=level;
+    var val=train[t];
+    level=alpha*(val-seas[si])+(1-alpha)*(lastLevel+trend);
+    trend=beta*(level-lastLevel)+(1-beta)*trend;
+    seas[si]=gamma*(val-level)+(1-gamma)*seas[si];
+    fitted.push(lastLevel+trend+seas[si]);
+  }
+  var fc=[];
+  for(var k=0;k<h;k++){
+    var sidx=(train.length+k)%m;
+    fc.push(level+(k+1)*trend+seas[sidx]);
+  }
+  return fc;
+}
+
+// Holt double exponential (fallback when no full season)
+function forecastHolt(train,h){
+  var alpha=0.4,beta=0.1;
+  var level=train[0],trend=train.length>1?train[1]-train[0]:0;
+  for(var t=1;t<train.length;t++){
+    var last=level;
+    level=alpha*train[t]+(1-alpha)*(level+trend);
+    trend=beta*(level-last)+(1-beta)*trend;
+  }
+  var fc=[];for(var k=0;k<h;k++){fc.push(level+(k+1)*trend);}return fc;
+}
+
+// Additive seasonal decomposition + linear trend extrapolation
+function forecastSD(train,h){
+  var m=SEASON;
+  var hasSeason=train.length>=m*1.5;
+  // linear trend via least squares
+  var n=train.length;
+  var sx=0,sy=0,sxx=0,sxy=0;
+  for(var i=0;i<n;i++){sx+=i;sy+=train[i];sxx+=i*i;sxy+=i*train[i];}
+  var slope=(n*sxy-sx*sy)/(n*sxx-sx*sx);
+  var intercept=(sy-slope*sx)/n;
+  // seasonal component = avg detrended by season index
+  var seas=new Array(m).fill(0),cnt=new Array(m).fill(0);
+  if(hasSeason){
+    for(var t=0;t<n;t++){var d=train[t]-(intercept+slope*t);var idx=t%m;seas[idx]+=d;cnt[idx]++;}
+    for(var j=0;j<m;j++){seas[j]=cnt[j]>0?seas[j]/cnt[j]:0;}
+  }
+  var fc=[];
+  for(var k=0;k<h;k++){
+    var ti=n+k;var s=hasSeason?seas[ti%m]:0;
+    fc.push(intercept+slope*ti+s);
+  }
+  return fc;
+}
+
+function runMethod(method,train,h){
+  if(method==='ma')return forecastMA(train,h);
+  if(method==='sd')return forecastSD(train,h);
+  return forecastHW(train,h);
+}
+
+/* ---------- Metrics ---------- */
+function mean(a){if(!a.length)return 0;var s=0;for(var i=0;i<a.length;i++)s+=a[i];return s/a.length;}
+function std(a){if(a.length<2)return 0;var mu=mean(a),s=0;for(var i=0;i<a.length;i++)s+=(a[i]-mu)*(a[i]-mu);return Math.sqrt(s/(a.length-1));}
+
+function metrics(actual,forecast){
+  var n=actual.length,absErr=0,absPct=0,sumActual=0,sumErr=0,pctCount=0;
+  for(var i=0;i<n;i++){
+    var e=forecast[i]-actual[i];
+    absErr+=Math.abs(e);
+    sumErr+=e;
+    sumActual+=Math.abs(actual[i]);
+    if(actual[i]!==0){absPct+=Math.abs(e/actual[i]);pctCount++;}
+  }
+  var mape=pctCount>0?(absPct/pctCount)*100:NaN;
+  var wmape=sumActual>0?(absErr/sumActual)*100:NaN;
+  var bias=sumActual>0?(sumErr/sumActual)*100:0; // % bias relative to volume
+  return {mape:mape,wmape:wmape,bias:bias,rmse:rmse(actual,forecast)};
+}
+function rmse(a,f){var s=0;for(var i=0;i<a.length;i++){var e=f[i]-a[i];s+=e*e;}return Math.sqrt(s/a.length);}
+
+/* ---------- State ---------- */
+var STATE={series:[],labels:[],method:'hw',horizon:13,source:'sample'};
+
+function buildLabels(n){
+  // weekly labels W1..Wn relative; we show every Nth on axis
+  var l=[];for(var i=0;i<n;i++)l.push('W'+(i+1));return l;
+}
+
+
+/* ---------- i18n helpers (site language = html.msc-es) ---------- */
+function isES(){return document.documentElement.classList.contains('msc-es');}
+function L(en,es){return isES()?es:en;}
+function wkLbl(n){return L('W','S')+n;}
+function methodName(m){return {hw:'Holt-Winters',ma:L('Moving Average','Promedio móvil'),sd:L('Seasonal Decomposition','Descomposición estacional')}[m];}
+var DS_LABELS={
+  retail:['Retail — weekly, strong seasonality','Retail — semanal, estacionalidad marcada'],
+  cpg:['CPG staple — weekly, mild trend','Básico de consumo masivo — semanal, tendencia leve'],
+  industrial:['Industrial part — intermittent demand','Refacción industrial — demanda intermitente'],
+  ecom:['E-commerce SKU — growth + promo spikes','SKU de e-commerce — crecimiento + picos por promoción']
+};
+var METHOD_LABELS={
+  hw:['Holt-Winters (triple exp. smoothing)','Holt-Winters (suavizamiento exponencial triple)'],
+  ma:['Moving Average','Promedio móvil'],
+  sd:['Seasonal Decomposition','Descomposición estacional']
+};
+function refreshStaticI18n(){
+  var i=isES()?1:0;
+  var ds=document.getElementById('datasetSel'),ms=document.getElementById('methodSel');
+  Array.prototype.forEach.call(ds.options,function(o){if(DS_LABELS[o.value])o.textContent=DS_LABELS[o.value][i];});
+  Array.prototype.forEach.call(ms.options,function(o){if(METHOD_LABELS[o.value])o.textContent=METHOD_LABELS[o.value][i];});
+  ds.setAttribute('aria-label',L('Dataset','Conjunto de datos'));
+  ms.setAttribute('aria-label',L('Forecast method','Método de pronóstico'));
+  document.getElementById('horizonSlider').setAttribute('aria-label',L('Forecast horizon (weeks)','Horizonte de pronóstico (semanas)'));
+  document.getElementById('fileInput').setAttribute('aria-label',L('Upload CSV','Subir CSV'));
+  onHorizonInput();
+  renderDataSource();
+}
+
+/* ---------- Main generate ---------- */
+function generate(){
+  var method=document.getElementById('methodSel').value;
+  var horizon=parseInt(document.getElementById('horizonSlider').value,10);
+  STATE.method=method;STATE.horizon=horizon;
+
+  var series=STATE.series;
+  if(!series||series.length<8){return;}
+
+  // Holdout = last min(horizon, available-buffer) weeks for scoring
+  var holdout=Math.min(horizon,Math.max(4,Math.floor(series.length*0.18)));
+  holdout=Math.min(holdout,series.length-SEASON> 0?holdout:Math.min(holdout,Math.floor(series.length/3)));
+  if(holdout>series.length-4)holdout=Math.max(2,Math.floor(series.length/4));
+
+  var train=series.slice(0,series.length-holdout);
+  var actualHoldout=series.slice(series.length-holdout);
+
+  // forecast over holdout window (for scoring) + future horizon
+  var totalH=holdout+horizon;
+  var fcAll=runMethod(method,train,totalH).map(function(x){return Math.max(0,x);});
+  var fcHoldout=fcAll.slice(0,holdout);
+  var fcFuture=fcAll.slice(holdout);
+
+  var met=metrics(actualHoldout,fcHoldout);
+  var cmp=['hw','sd','ma'].map(function(m){var f=(m===method)?fcHoldout:runMethod(m,train,holdout).map(function(x){return Math.max(0,x);}).slice(0,holdout);var r=metrics(actualHoldout,f);r.m=m;return r;});
+  var best=cmp.slice().sort(function(a,b){var x=isFinite(a.wmape)?a.wmape:1e9,y=isFinite(b.wmape)?b.wmape:1e9;return x-y;})[0];
+  STATE.best=best;STATE.cmp=cmp;
+
+  // confidence band from holdout residual std
+  var resid=[];for(var i=0;i<holdout;i++)resid.push(actualHoldout[i]-fcHoldout[i]);
+  var sigma=std(resid);if(!isFinite(sigma)||sigma===0)sigma=std(train)*0.15;
+
+  renderCompare(cmp,best,method);
+  STATE.last={train:train,actualHoldout:actualHoldout,fcHoldout:fcHoldout,fcFuture:fcFuture,sigma:sigma,method:method};
+  renderMetrics(met,holdout);
+  renderChart(train,actualHoldout,fcHoldout,fcFuture,sigma);
+  renderTable(train,actualHoldout,fcHoldout,fcFuture,sigma,holdout);
+  renderReadsFC(train,actualHoldout,fcHoldout,fcFuture,sigma,cmp,best,method);
+  renderExplainer(method);
+  updateChartNote(train.length,holdout,horizon,method);
+}
+
+function updateChartNote(trainN,holdout,horizon,method){
+  var mname=methodName(method);
+  document.getElementById('chartNote').innerHTML=L(
+    mname+' &middot; '+trainN+' weeks train &middot; '+holdout+'-week holdout &middot; '+horizon+'-week forward forecast',
+    mname+' &middot; '+trainN+' semanas de entrenamiento &middot; validaci&oacute;n (holdout) de '+holdout+' semanas &middot; pron&oacute;stico de '+horizon+' semanas');
+}
+
+function setRead(id,html){var e=document.getElementById(id);if(!e)return;e.setAttribute("data-label",L("Reading","Lectura"));e.innerHTML=html||"";}
+function renderReadsFC(train,ah,fh,ff,sigma,cmp,best,method){
+  var srt=cmp.filter(function(r){return isFinite(r.wmape);}).sort(function(a,b){return a.wmape-b.wmape;});
+  var t='';
+  if(srt.length>1){var gap=srt[1].wmape-srt[0].wmape;
+    t=L('<b>'+methodName(srt[0].m)+'</b> has the lowest error (WMAPE '+srt[0].wmape.toFixed(1)+'%), '+gap.toFixed(1)+' points ahead of '+methodName(srt[1].m)+'. ','<b>'+methodName(srt[0].m)+'</b> tiene el menor error (WMAPE '+srt[0].wmape.toFixed(1)+'%), '+gap.toFixed(1)+' puntos por delante de '+methodName(srt[1].m)+'. ')+
+      (gap<1?L('The difference is small: choose the one your team can explain and maintain.','La diferencia es pequeña: elige el que tu equipo pueda explicar y mantener.'):L('The difference is material; use it unless you have a reason not to.','La diferencia es relevante; úsalo salvo que tengas una razón para no hacerlo.'));}
+  setRead('rdCmp',t);
+  var n=Math.min(ff.length,ah.length+train.length),hist=train.concat(ah).slice(-ff.length);
+  var avgF=mean(ff),avgH=mean(hist),band=Z95*sigma;
+  var ch=avgH>0?(avgF/avgH-1)*100:0;
+  setRead('rdChart',L('Over the next '+ff.length+' weeks the forecast averages <b>'+Math.round(avgF).toLocaleString()+'</b> units/week, '+(ch>=0?'+':'')+ch.toFixed(1)+'% vs. the last '+ff.length+' weeks. The 95% band is about ±'+Math.round(band).toLocaleString()+' units/week (±'+(avgF>0?(band/avgF*100).toFixed(0):0)+'%) and widens with the horizon.',
+    'En las próximas '+ff.length+' semanas el pronóstico promedia <b>'+Math.round(avgF).toLocaleString()+'</b> unidades/semana, '+(ch>=0?'+':'')+ch.toFixed(1)+'% contra las últimas '+ff.length+' semanas. La banda del 95% es de unas ±'+Math.round(band).toLocaleString()+' unidades/semana (±'+(avgF>0?(band/avgF*100).toFixed(0):0)+'%) y se abre conforme avanza el horizonte.'));
+  var worst=-1,wv=0,over=0;ah.forEach(function(a,i){var e=a?Math.abs(fh[i]-a)/a:0;if(e>wv){wv=e;worst=i;}if(fh[i]>a)over++;});
+  setRead('rdDetail',worst<0?'':L('In the holdout, the largest miss was week '+(train.length+worst+1)+' ('+(wv*100).toFixed(0)+'%). The forecast ran high in '+over+' of '+ah.length+' weeks.','En la validación, el mayor error fue la semana '+(train.length+worst+1)+' ('+(wv*100).toFixed(0)+'%). El pronóstico quedó arriba en '+over+' de '+ah.length+' semanas.'));
+}
+/* ---------- Method comparison + CSV ---------- */
+function renderCompare(cmp,best,active){
+  function f(v,s){return isFinite(v)?(v.toFixed(1)+s):'&mdash;';}
+  var h='<thead><tr><th>'+L('Method','M&eacute;todo')+'</th><th>MAPE</th><th>WMAPE</th><th>'+L('Bias','Sesgo')+'</th><th>RMSE</th></tr></thead><tbody>';
+  cmp.forEach(function(r){
+    h+='<tr data-m="'+r.m+'" class="'+(r.m===active?'sel':'')+'" tabindex="0"><td>'+methodName(r.m)+(r.m===best.m?'<span class="lb-best">'+L('most accurate','m&aacute;s exacto')+'</span>':'')+'</td><td>'+f(r.mape,'%')+'</td><td>'+f(r.wmape,'%')+'</td><td>'+(r.bias>0?'+':'')+f(r.bias,'%')+'</td><td>'+(isFinite(r.rmse)?Math.round(r.rmse):'&mdash;')+'</td></tr>';
+  });
+  var t=document.getElementById('cmpTable');t.innerHTML=h+'</tbody>';
+  t.querySelectorAll('tr[data-m]').forEach(function(tr){
+    function go(){document.getElementById('methodSel').value=tr.getAttribute('data-m');generate();}
+    tr.onclick=go;tr.onkeydown=function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();go();}};
+  });
+}
+function downloadForecastCSV(){
+  var d=STATE.last;if(!d)return;
+  var r=['period,phase,actual,forecast,lower_95,upper_95'];
+  var n=d.train.length;
+  d.train.forEach(function(v,i){r.push((i+1)+',history,'+Math.round(v)+',,,');});
+  d.actualHoldout.forEach(function(v,i){r.push((n+i+1)+',holdout,'+Math.round(v)+','+Math.round(d.fcHoldout[i])+',,');});
+  d.fcFuture.forEach(function(v,k){var sp=Z95*d.sigma*Math.sqrt(1+k*0.04);r.push((n+d.actualHoldout.length+k+1)+',forecast,,'+Math.round(v)+','+Math.round(Math.max(0,v-sp))+','+Math.round(v+sp));});
+  var b=new Blob(['\ufeff'+r.join('\n')],{type:'text/csv;charset=utf-8'}),a=document.createElement('a');
+  a.href=URL.createObjectURL(b);a.download='forecast-'+d.method+'.csv';document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove();},500);
+}
+
+/* ---------- Render: metric strip ---------- */
+function cls(v,good,warn){if(!isFinite(v))return '';if(v<=good)return 'good';if(v<=warn)return 'warn';return 'bad';}
+function renderMetrics(m,holdout){
+  function fmt(v,suf){return isFinite(v)?(v.toFixed(1)+suf):'&mdash;';}
+  var biasTxt=m.bias>1?L('&#9650; over-forecast','&#9650; sobrepron&oacute;stico'):(m.bias<-1?L('&#9660; under-forecast','&#9660; subpron&oacute;stico'):L('&#8226; neutral-forecast','&#8226; sin sesgo'));
+  var html=''+
+   '<div class="metric"><div class="metric-lbl">MAPE</div>'+
+     '<div class="metric-val '+cls(m.mape,10,25)+'">'+fmt(m.mape,'%')+'</div>'+
+     '<div class="metric-sub">'+L('Mean abs. % error','Error porcentual absoluto medio')+'</div></div>'+
+   '<div class="metric"><div class="metric-lbl">WMAPE</div>'+
+     '<div class="metric-val '+cls(m.wmape,12,25)+'">'+fmt(m.wmape,'%')+'</div>'+
+     '<div class="metric-sub">'+L('Volume-weighted','Ponderado por volumen')+'</div></div>'+
+   '<div class="metric"><div class="metric-lbl">'+L('Bias','Sesgo')+'</div>'+
+     '<div class="metric-val '+(Math.abs(m.bias)<=3?'good':(Math.abs(m.bias)<=10?'warn':'bad'))+'">'+(m.bias>0?'+':'')+fmt(m.bias,'%')+'</div>'+
+     '<div class="metric-sub">'+biasTxt+'</div></div>'+
+   '<div class="metric"><div class="metric-lbl">'+L('Holdout','Validaci&oacute;n (holdout)')+'</div>'+
+     '<div class="metric-val">'+holdout+'<span style="font-size:.9rem;font-weight:600;color:#6e6e73"> '+L('wk','sem')+'</span></div>'+
+     '<div class="metric-sub">'+L('Scored out-of-sample','Evaluado fuera de muestra')+'</div></div>';
+  document.getElementById('metricStrip').innerHTML=html;
+  var iEl=document.getElementById('forecastInterp');
+  if(iEl)iEl.innerHTML=interpForecast(m.mape,m.bias);
+}
+
+/* ---------- Render: SVG chart ---------- */
+function renderChart(train,actualHoldout,fcHoldout,fcFuture,sigma){
+  var _cb=document.getElementById('chartBox'),_cw=(_cb&&_cb.clientWidth)||1120;var W=1120,H=420,padL=58,padR=22,padT=20,padB=42;if(_cw<640){W=Math.max(300,Math.round(_cw));H=Math.round(W*0.72);padL=44;padR=22;}
+  var plotW=W-padL-padR,plotH=H-padT-padB;
+
+  var trainN=train.length,holdoutN=actualHoldout.length,futN=fcFuture.length;
+  var totalN=trainN+holdoutN+futN;
+
+  // y-range across everything incl. bands
+  var all=train.concat(actualHoldout).concat(fcHoldout).concat(fcFuture);
+  var upper=fcFuture.map(function(v,i){return v+Z95*sigma*Math.sqrt(1+i*0.04);});
+  var maxV=Math.max.apply(null,all.concat(upper));
+  var minV=Math.min.apply(null,all.concat([0]));
+  minV=Math.min(minV,0);
+  var range=maxV-minV||1;
+  maxV+=range*0.06;
+
+  function X(i){return padL+(i/(totalN-1))*plotW;}
+  function Y(v){return padT+plotH-((v-minV)/(maxV-minV))*plotH;}
+
+  var svg='<svg class="chart" viewBox="0 0 '+W+' '+H+'" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">';
+
+  // gridlines + y labels
+  var ticks=5;
+  for(var g=0;g<=ticks;g++){
+    var yv=minV+(maxV-minV)*(g/ticks);
+    var yy=Y(yv);
+    svg+='<line class="gridline" x1="'+padL+'" y1="'+yy.toFixed(1)+'" x2="'+(W-padR)+'" y2="'+yy.toFixed(1)+'"/>';
+    svg+='<text class="axis-text" x="'+(padL-8)+'" y="'+(yy+3).toFixed(1)+'" text-anchor="end">'+fmtNum(yv)+'</text>';
+  }
+  // x axis labels (every ~13 weeks)
+  var step=Math.max(1,Math.round(totalN/(W<640?4:9)));
+  for(var xi=0;xi<totalN;xi+=step){
+    svg+='<text class="axis-text" x="'+X(xi).toFixed(1)+'" y="'+(H-padB+16)+'" text-anchor="middle">'+wkLbl(xi+1)+'</text>';
+  }
+  svg+='<text class="axis-title" x="'+padL+'" y="13">'+L('Units / wk','Unidades / sem')+'</text>';
+
+  // split line (train | forecast boundary)
+  var splitX=X(trainN-0.5);
+  svg+='<line class="split-line" x1="'+splitX.toFixed(1)+'" y1="'+padT+'" x2="'+splitX.toFixed(1)+'" y2="'+(padT+plotH)+'"/>';
+  svg+='<text class="split-text" x="'+(W<640?splitX-5:splitX+5).toFixed(1)+'" y="'+(padT+12)+'"'+(W<640?' text-anchor="end"':'')+'>'+L('forecast','pron&oacute;stico')+' &#8594;</text>';
+
+  // confidence band (future)
+  var bandTop='',bandBot='';
+  var startIdx=trainN+holdoutN-1; // connect from last holdout point
+  // Build band polygon over future region
+  var bandPts=[];
+  // include last holdout fc point as anchor
+  bandPts.push({i:startIdx,u:fcHoldout[fcHoldout.length-1],l:fcHoldout[fcHoldout.length-1]});
+  for(var b=0;b<futN;b++){
+    var spread=Z95*sigma*Math.sqrt(1+b*0.04);
+    bandPts.push({i:trainN+holdoutN+b,u:fcFuture[b]+spread,l:Math.max(0,fcFuture[b]-spread)});
+  }
+  var top=bandPts.map(function(p){return X(p.i).toFixed(1)+','+Y(p.u).toFixed(1);}).join(' ');
+  var bot=bandPts.slice().reverse().map(function(p){return X(p.i).toFixed(1)+','+Y(p.l).toFixed(1);}).join(' ');
+  svg+='<polygon points="'+top+' '+bot+'" fill="rgba(0,102,204,.13)" stroke="none"/>';
+
+  // train line (black)
+  var trainPath='';
+  for(var t=0;t<trainN;t++){trainPath+=(t===0?'M':'L')+X(t).toFixed(1)+' '+Y(train[t]).toFixed(1)+' ';}
+  svg+='<path d="'+trainPath+'" fill="none" stroke="#1d1d1f" stroke-width="1.8"/>';
+
+  // holdout actuals (grey dots + light line) continuing from train
+  var hoPath='M'+X(trainN-1).toFixed(1)+' '+Y(train[trainN-1]).toFixed(1)+' ';
+  for(var ho=0;ho<holdoutN;ho++){hoPath+='L'+X(trainN+ho).toFixed(1)+' '+Y(actualHoldout[ho]).toFixed(1)+' ';}
+  svg+='<path d="'+hoPath+'" fill="none" stroke="#aeaeb2" stroke-width="1.6"/>';
+  for(var hd=0;hd<holdoutN;hd++){svg+='<circle cx="'+X(trainN+hd).toFixed(1)+'" cy="'+Y(actualHoldout[hd]).toFixed(1)+'" r="2.6" fill="#aeaeb2"/>';}
+
+  // forecast line (blue): over holdout (dashed) + future (solid)
+  var fcPath='M'+X(trainN-1).toFixed(1)+' '+Y(train[trainN-1]).toFixed(1)+' ';
+  for(var fh=0;fh<holdoutN;fh++){fcPath+='L'+X(trainN+fh).toFixed(1)+' '+Y(fcHoldout[fh]).toFixed(1)+' ';}
+  svg+='<path d="'+fcPath+'" fill="none" stroke="#0066CC" stroke-width="1.6" stroke-dasharray="5 3" opacity=".8"/>';
+  var futPath='M'+X(trainN+holdoutN-1).toFixed(1)+' '+Y(fcHoldout[fcHoldout.length-1]).toFixed(1)+' ';
+  for(var ff=0;ff<futN;ff++){futPath+='L'+X(trainN+holdoutN+ff).toFixed(1)+' '+Y(fcFuture[ff]).toFixed(1)+' ';}
+  svg+='<path d="'+futPath+'" fill="none" stroke="#0066CC" stroke-width="2.4"/>';
+
+  svg+='</svg>';
+  document.getElementById('chartBox').innerHTML=svg;
+}
+
+function fmtNum(v){
+  v=Math.round(v);
+  if(Math.abs(v)>=1000)return (v/1000).toFixed(v%1000===0?0:1)+'k';
+  return ''+v;
+}
+
+/* ---------- Render: explainer cards ---------- */
+function renderExplainer(active){
+  var defs=[
+    {id:'hw',name:'Holt-Winters',tag:L('Triple exp.','Exp. triple'),
+      desc:L('Smooths level, trend and seasonality, updating each as new data arrives.',
+             'Suaviza nivel, tendencia y estacionalidad, y actualiza cada uno conforme llegan datos nuevos.'),
+      bestH:L('Best for','Ideal para'),best:L('established SKUs with clear annual seasonality.','SKUs consolidados con estacionalidad anual clara.')},
+    {id:'ma',name:L('Moving Average','Promedio m&oacute;vil'),tag:L('Reference','Referencia'),
+      desc:L('Averages recent periods, optionally scaled by a seasonal index. Useful as a reference for the other two.',
+             'Promedia los periodos recientes, opcionalmente ajustado por un &iacute;ndice estacional. Sirve como referencia para los otros dos.'),
+      bestH:L('Best for','Ideal para'),best:L('C-class SKUs and quick checks.','SKUs clase C y revisiones r&aacute;pidas.')},
+    {id:'sd',name:L('Seasonal Decomposition','Descomposici&oacute;n estacional'),tag:L('Trend + season','Tendencia + estacionalidad'),
+      desc:L('Splits the series into a linear trend plus an average seasonal shape and projects both forward. Easy to explain to planners.',
+             'Separa la serie en una tendencia lineal y un patr&oacute;n estacional promedio, y proyecta ambos hacia adelante. F&aacute;cil de explicar a los planeadores.'),
+      bestH:L('Best for','Ideal para'),best:L('clear trend with a repeating seasonal pattern.','tendencia clara con patr&oacute;n estacional recurrente.')}
+  ];
+  var html='';
+  defs.forEach(function(d){
+    html+='<div class="exp-card'+(d.id===active?' active':'')+'">'+
+      '<div class="exp-card-name">'+d.name+' <span class="exp-tag">'+d.tag+'</span></div>'+
+      '<div class="exp-card-desc">'+d.desc+'</div>'+
+      '<div class="exp-card-best"><b>'+d.bestH+':</b> '+d.best+'</div>'+
+    '</div>';
+  });
+  document.getElementById('expGrid').innerHTML=html;
+}
+
+/* ---------- Render: table ---------- */
+function renderTable(train,actualHoldout,fcHoldout,fcFuture,sigma,holdout){
+  var th='<thead><tr>'+
+    '<th>'+L('Week','Semana')+'</th>'+
+    '<th>'+L('Phase','Fase')+'</th>'+
+    '<th>'+L('Actual','Real')+'</th>'+
+    '<th>'+L('Forecast','Pron&oacute;stico')+'</th>'+
+    '<th>'+L('Error','Error')+'</th>'+
+    '<th>'+L('Lower 95%','Inferior 95%')+'</th>'+
+    '<th>'+L('Upper 95%','Superior 95%')+'</th>'+
+  '</tr></thead>';
+  var rows='';
+  var baseWk=train.length;
+  var phHold=L('Holdout','Validaci&oacute;n'),phFc=L('Forecast','Pron&oacute;stico');
+  // holdout rows
+  for(var i=0;i<actualHoldout.length;i++){
+    var a=actualHoldout[i],f=fcHoldout[i],e=f-a;
+    rows+='<tr><td>'+wkLbl(baseWk+i+1)+'</td>'+
+      '<td>'+phHold+'</td>'+
+      '<td>'+Math.round(a)+'</td><td>'+Math.round(f)+'</td>'+
+      '<td style="color:'+(Math.abs(e)/(a||1)>0.2?'#d70015':'#6e6e73')+'">'+(e>0?'+':'')+Math.round(e)+'</td>'+
+      '<td class="tbl-band">&mdash;</td><td class="tbl-band">&mdash;</td></tr>';
+  }
+  // future rows
+  for(var k=0;k<fcFuture.length;k++){
+    var spread=Z95*sigma*Math.sqrt(1+k*0.04);
+    var lo=Math.max(0,fcFuture[k]-spread),hi=fcFuture[k]+spread;
+    rows+='<tr class="fc"><td>'+wkLbl(baseWk+actualHoldout.length+k+1)+'</td>'+
+      '<td>'+phFc+'</td>'+
+      '<td class="tbl-band">&mdash;</td><td>'+Math.round(fcFuture[k])+'</td>'+
+      '<td class="tbl-band">&mdash;</td>'+
+      '<td>'+Math.round(lo)+'</td><td>'+Math.round(hi)+'</td></tr>';
+  }
+  document.getElementById('fTable').innerHTML=th+'<tbody>'+rows+'</tbody>';
+}
+
+/* ---------- Dataset / horizon handlers ---------- */
+function onDatasetChange(){
+  var kind=document.getElementById('datasetSel').value;
+  STATE.series=genSeries(kind);
+  STATE.source='sample';
+  document.getElementById('dataSource').style.display='none';
+  generate();
+}
+function onHorizonInput(){
+  var v=document.getElementById('horizonSlider').value;
+  document.getElementById('horizonVal').textContent=v+' '+L('wk','sem');
+}
+function renderDataSource(){
+  var ds=document.getElementById('dataSource');
+  if(!ds||STATE.source!=='upload')return;
+  ds.textContent=L('✓ Using uploaded data — ','✓ Usando datos subidos — ')+STATE.series.length+L(' periods',' periodos');
+}
+
+/* ---------- CSV upload ---------- */
+function onFileUpload(ev){
+  var file=ev.target.files[0];if(!file)return;
+  var reader=new FileReader();
+  reader.onload=function(e){
+    try{
+      var text=e.target.result;
+      var vals=parseCSV(text);
+      if(vals.length<12){alert(L('Need at least 12 numeric values. Found: ','Se necesitan al menos 12 valores numéricos. Encontrados: ')+vals.length);return;}
+      STATE.series=vals;STATE.source='upload';
+      var ds=document.getElementById('dataSource');
+      ds.style.display='block';
+      renderDataSource();
+      generate();
+    }catch(err){alert(L('Could not read CSV: ','No se pudo leer el CSV: ')+err.message);}
+  };
+  reader.readAsText(file);
+}
+function parseCSV(text){
+  // Accept: single column of numbers, or two columns (date,value) -> take last numeric column
+  var lines=text.split(/\r?\n/).filter(function(l){return l.trim()!=='';});
+  var vals=[];
+  for(var i=0;i<lines.length;i++){
+    var parts=lines[i].split(/[,;\t]/);
+    var numStr=parts[parts.length-1].trim().replace(/[^0-9.\-]/g,'');
+    var n=parseFloat(numStr);
+    if(isFinite(n)){vals.push(Math.max(0,n));}
+  }
+  return vals;
+}
+
+/* ---------- Export report (print window) ---------- */
+function buildReportHTML(){
+  var method=methodName(STATE.method);
+  var dsLabel=document.getElementById('datasetSel');
+  dsLabel=STATE.source==='upload'?L('Uploaded series','Serie subida'):dsLabel.options[dsLabel.selectedIndex].textContent.replace(/[☀-➿️‍]|\uD83C[\uDC00-\uDFFF]|\uD83D[\uDC00-\uDFFF]|\uD83E[\uDC00-\uDFFF]/g,'').trim();
+  var chartSVG=document.getElementById('chartBox').innerHTML;
+  var metricHTML=document.getElementById('metricStrip').innerText.replace(/\n+/g,' &middot; ');
+  var tableHTML=document.getElementById('fTable').outerHTML;
+  var date=new Date().toISOString().slice(0,10);
+  return '<!DOCTYPE html><html lang="'+L('en','es')+'"><head><meta charset="utf-8"><title>'+L('Forecast Report','Reporte de pronóstico')+'</title>'+
+    '<style>body{font-family:-apple-system,Segoe UI,sans-serif;color:#1d1d1f;margin:0;padding:0}'+
+    '.header{padding:24px 32px;border-bottom:2px solid #0066CC}.brand{font-size:11px;color:#6e6e73;letter-spacing:.04em}'+
+    '.title{font-size:22px;font-weight:700;margin-top:4px}.meta{font-size:12px;color:#6e6e73;margin-top:6px}'+
+    '.body{padding:24px 32px}svg{width:100%;height:auto;border:1px solid #e8e8ed;border-radius:8px;padding:8px}'+
+    'table{width:100%;border-collapse:collapse;font-size:12px;margin-top:18px}'+
+    'th{text-align:right;padding:6px 10px;font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:#888;border-bottom:1px solid #ccc}'+
+    'th:first-child,td:first-child{text-align:left}td{text-align:right;padding:5px 10px;border-bottom:1px solid #f0f0f2}'+
+    '.metricline{font-size:13px;font-weight:600;margin:14px 0;color:#0066CC}'+
+    '.foot{padding:16px 32px;border-top:1px solid #e8e8ed;font-size:10px;color:#aaa;display:flex;justify-content:space-between}'+
+    '.actions{padding:16px 32px}button{font-size:13px;font-weight:600;padding:8px 16px;border-radius:8px;border:none;cursor:pointer;margin-right:8px}'+
+    '.bp{background:#0066CC;color:#fff}.bc{background:#f5f5f7;border:1px solid #d2d2d7}'+
+    '@media print{.actions{display:none}@page{size:A4 landscape;margin:12mm}}</style></head><body>'+
+    '<div class="header"><div class="brand">Mr. Supply Chain&#174; México &middot; mrsupplychain.ai &middot; Labs &middot; '+L('Demand Forecast Studio','Estudio de Pron&oacute;stico de Demanda')+'</div>'+
+    '<div class="title">'+L('Demand Forecast','Pron&oacute;stico de demanda')+' &mdash; '+method+'</div>'+
+    '<div class="meta">'+L('Dataset: ','Conjunto de datos: ')+dsLabel+' &nbsp;|&nbsp; '+L('Horizon: ','Horizonte: ')+STATE.horizon+L(' weeks',' semanas')+' &nbsp;|&nbsp; '+L('Generated: ','Generado: ')+date+'</div></div>'+
+    '<div class="body"><div class="metricline">'+metricHTML+'</div>'+chartSVG+tableHTML+'</div>'+
+    '<div class="foot"><span>Mr. Supply Chain&#174; México &middot; &#169; 2026 Ismael L&oacute;pez</span><span>'+L('In-browser forecast &mdash; not a production planning output','Pron&oacute;stico en el navegador &mdash; no es un resultado de planeaci&oacute;n productiva')+'</span></div>'+
+    '<div class="actions"><button class="bp" onclick="window.print()">&#128424; '+L('Print / Save PDF','Imprimir / Guardar PDF')+'</button><button class="bc" onclick="window.close()">&#10005; '+L('Close','Cerrar')+'</button></div>'+
+    '<\/body><\/html>';
+}
+function exportReport(){
+  var doc=buildReportHTML();
+  var w=window.open('','fc_report','width=1180,height=800,scrollbars=yes,resizable=yes');
+  if(w){w.document.write(doc);w.document.close();w.focus();}
+}
+
+/* ---------- Language + menu (matches site pattern) ---------- */
+
+function interpForecast(mape,bias){
+  if(!isFinite(mape))return '';
+  var c,txt,mp=mape.toFixed(1);
+  if(mape<=10){c='green';txt=L('<b>MAPE '+mp+'%: good accuracy.</b> Solid enough to commit purchasing and production on this method.','<b>MAPE '+mp+'%: exactitud buena.</b> Suficiente para comprometer compras y producci&oacute;n con este m&eacute;todo.');}
+  else if(mape<=25){c='amber';txt=L('<b>MAPE '+mp+'%: workable.</b> Fine for planning; review the highest-error periods before committing large volumes.','<b>MAPE '+mp+'%: manejable.</b> Sirve para planear; revisa los periodos con m&aacute;s error antes de comprometer vol&uacute;menes grandes.');}
+  else{c='red';txt=L('<b>MAPE '+mp+'%: high error.</b> Check data quality (gaps, outliers, pattern breaks) and consider causal drivers such as promotions or price.','<b>MAPE '+mp+'%: error alto.</b> Revisa la calidad de los datos (faltantes, valores at&iacute;picos, cambios de patr&oacute;n) y considera variables causales como promociones o precio.');}
+  if(Math.abs(bias)>5)txt+=' '+L('Bias of '+bias.toFixed(1)+'%: this method runs '+(bias>0?'high':'low')+' consistently.','Sesgo de '+bias.toFixed(1)+'%: este m&eacute;todo queda '+(bias>0?'arriba':'abajo')+' de forma sistem&aacute;tica.');
+  if(STATE.best&&STATE.best.m!==STATE.method&&isFinite(STATE.best.wmape))txt+=' '+L(methodName(STATE.best.m)+' is more accurate on this series (WMAPE '+STATE.best.wmape.toFixed(1)+'%).',methodName(STATE.best.m)+' es m&aacute;s exacto en esta serie (WMAPE '+STATE.best.wmape.toFixed(1)+'%).');
+  return '<div class="interp '+c+'"><div class="interp-text">'+txt+'</div></div>';
+}
+var HOWTO_SHOW='<span class="msc-en">Show &#9660;</span><span class="msc-es">Mostrar &#9660;</span>';
+var HOWTO_HIDE='<span class="msc-en">Hide &#9650;</span><span class="msc-es">Ocultar &#9650;</span>';
+function toggleHowTo(){
+  var h=document.getElementById('howTo'),b=document.getElementById('howToBtn');
+  var col=h.classList.toggle('collapsed');
+  b.innerHTML=col?HOWTO_SHOW:HOWTO_HIDE;
+  try{localStorage.setItem('howto_hidden',col?'1':'');}catch(ex){}
+}
+(function(){
+  try{
+    if(localStorage.getItem('howto_hidden')==='1'){
+      var h=document.getElementById('howTo');
+      if(h){
+        h.classList.add('collapsed');
+        var b=document.getElementById('howToBtn');
+        if(b){b.innerHTML=HOWTO_SHOW;}
+      }
+    }
+  }catch(ex){}
+})();
+var __lang="en";
+function setLang(l){
+  __lang=l;
+  document.querySelectorAll('.li-en').forEach(function(e){
+    e.style.display=l==='en'?(e.tagName==='SPAN'||e.tagName==='BUTTON'?'inline':'block'):'none';
+  });
+  document.querySelectorAll('.li-es').forEach(function(e){
+    e.style.display=l==='es'?(e.tagName==='SPAN'||e.tagName==='BUTTON'?'inline':'block'):'none';
+  });
+  document.getElementById('btn-lang-en').classList.toggle('on',l==='en');
+  document.getElementById('btn-lang-es').classList.toggle('on',l==='es');
+  try{localStorage.setItem('lang',l);}catch(ex){}
+}
+function toggleMenu(){
+  var b=document.getElementById('hamburger'),m=document.getElementById('mobileMenu');
+  b.classList.toggle('open');m.classList.toggle('open');
+}
+function closeMenu(){
+  var b=document.getElementById('hamburger'),m=document.getElementById('mobileMenu');
+  if(b)b.classList.remove('open');if(m)m.classList.remove('open');
+}
+document.addEventListener('click',function(e){
+  var m=document.getElementById('mobileMenu'),b=document.getElementById('hamburger');
+  if(m&&m.classList.contains('open')&&!m.contains(e.target)&&b&&!b.contains(e.target))closeMenu();
+},false);
+
+/* ---------- Init ---------- */
+STATE.series=genSeries('retail');
+refreshStaticI18n();
+generate();
+/* Re-render the tool whenever the site language (html.msc-es) changes; selections and data in STATE/controls are kept. */
+(function(){
+  var lastES=isES();
+  new MutationObserver(function(){
+    var nowES=isES();
+    if(nowES===lastES)return;
+    lastES=nowES;
+    refreshStaticI18n();
+    generate();
+  }).observe(document.documentElement,{attributes:true,attributeFilter:['class']});
+})();
+/* Legacy nav sync: read-only (no generate()-time writes to localStorage 'lang'). */
+(function(){try{var s=localStorage.getItem('lang');if(s==='es'||s==='en'){setLang(s);}}catch(e){}})();
+</script>
+<script>/* msc title i18n */(function(){var en=document.title,es="Estudio de Pron\u00f3stico de Demanda \u00b7 Labs \u00b7 Mr. Supply Chain\u00ae México";function u(){document.title=document.documentElement.classList.contains("msc-es")?es:en}u();new MutationObserver(u).observe(document.documentElement,{attributes:true,attributeFilter:["class"]})})();</script>
+<script>/* msc resize */(function(){var t,lw=0;function w(){var e=document.getElementById("chartBox");return e?e.clientWidth:0}window.addEventListener("resize",function(){clearTimeout(t);t=setTimeout(function(){var n=w();if(Math.abs(n-lw)>40&&(n<640||lw<640)){lw=n;try{generate()}catch(e){}}},250)});setTimeout(function(){lw=w()},0)})();</script>
+<script src="/assets/labs.js?v=2"></script>
+</body>
+</html>

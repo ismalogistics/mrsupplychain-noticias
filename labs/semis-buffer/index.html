@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Semiconductor Buffer Optimizer · Labs · Mr. Supply Chain® México</title>
+<meta name="description" content="Size safety stock for a semiconductor supply chain by customer segment and by stage (wafer, die bank, finished goods): bin split with downgrade substitution, service level per segment, BOM commonality, yield and supply variability, NPI. Import and export CSV. Free, in-browser, EN/ES."/>
+
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="Mr. Supply Chain® México"/>
+<meta property="og:title" content="Semiconductor Buffer Optimizer — Mr. Supply Chain® México Labs"/>
+<meta property="og:description" content="Safety stock by customer segment and by stage for semiconductor supply chains, with CSV import and export."/>
+<meta property="og:url" content="https://mrsupplychain.ai/labs/semis-buffer/"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:locale:alternate" content="es_MX"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Semiconductor Buffer Optimizer — Mr. Supply Chain® México Labs"/>
+<meta name="twitter:description" content="Safety stock by customer segment and by stage for semiconductor supply chains."/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebApplication",
+      "@id": "https://mrsupplychain.ai/labs/semis-buffer/#app",
+      "name": "Semiconductor Buffer Optimizer",
+      "url": "https://mrsupplychain.ai/labs/semis-buffer/",
+      "description": "Interactive planning model that sizes inventory buffers for semiconductor supply chains: fixed bin split with downgrade substitution, differentiated service levels per demand segment, buffer positioning at wafer, die bank or finished goods, grade-fix point (wafer sort vs final test), BOM commonality with √N risk pooling, supply-adherence variability, and NPI handling via analog products.",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Any (web browser)",
+      "browserRequirements": "Requires JavaScript",
+      "inLanguage": ["en", "es"],
+      "isAccessibleForFree": true,
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+      "datePublished": "2026-08-04",
+      "dateModified": "2026-11-26",
+      "softwareVersion": "3.0",
+      "isPartOf": { "@id": "https://mrsupplychain.ai/labs/#collection" },
+      "creator": { "@id": "https://mrsupplychain.ai/#person" },
+      "featureList": [
+        "CSV import and export of bins and segments",
+        "Per-segment policy table: safety units, units at stage and capital",
+        "Differentiated service levels per customer, product or family segment",
+        "Fixed bin split with downgrade substitution and structural excess",
+        "Buffer positioning: wafer, die bank, finished goods",
+        "Grade-fix point: wafer sort (front-end) vs final test (back-end)",
+        "BOM commonality: SKU fan-out with variant correlation (√N pooling)",
+        "Supply-adherence variability in quadrature (extended King formula)",
+        "NPI buffers by type — next-generation (known unknowns) vs new-to-world (unknown unknowns) — with risk premium and maturity decay"
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://mrsupplychain.ai/labs/#collection",
+      "name": "Mr. Supply Chain® México Labs",
+      "url": "https://mrsupplychain.ai/labs/"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://mrsupplychain.ai/#person",
+      "name": "Ismael López",
+      "url": "https://mrsupplychain.ai/about/"
+    }
+  ]
+}
+</script>
+<style>.sb-lt{display:grid;grid-template-columns:minmax(0,1fr) 58px 58px;gap:6px 6px;align-items:center}
+.sb-lt label{font-size:12px;color:var(--lb-ink-2)}
+.sb-lt .field-input,.sb-3 .field-input{width:100%;min-width:0;text-align:right;padding-left:4px;padding-right:6px;font-size:12px}
+.sb-3{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
+.sb-3 small{display:block;font-size:10.5px;color:var(--lb-muted);margin-bottom:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sb-actions{display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end}
+.sb-data{display:grid;grid-template-columns:230px minmax(0,1fr);gap:28px;align-items:start}.sb-dem{border-left:1px solid #e1e6ed;padding-left:28px}.sb-sub{font-size:12px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:#1e4f9c;margin:0 0 8px}
+.sb-scroll{overflow-x:auto}
+.sb-edit td{padding:4px 6px}
+.sb-edit th{padding:6px 6px}
+.sb-edit input,.sb-edit select{width:70px;min-width:62px;height:28px;border:1px solid var(--lb-line);border-radius:5px;background:var(--lb-surface);font:inherit;font-size:12px;padding:0 6px;text-align:right;color:var(--lb-ink)}
+.sb-edit td:first-child input,.sb-edit input.wide{width:100%;min-width:120px;text-align:left;font-family:var(--lb-font)}
+.sb-edit select{width:auto;min-width:118px;text-align:left;font-family:var(--lb-font)}
+.sb-edit input[type=checkbox]{width:16px;height:16px}
+.sb-edit input:focus,.sb-edit select:focus{outline:0;border-color:var(--lb-accent);box-shadow:var(--lb-focus)}
+.sb-edit td.c{text-align:center}
+.sb-x{border:0;background:none;color:var(--lb-faint);font-size:16px;line-height:1;cursor:pointer;padding:0 4px;margin-left:2px}
+.sb-x:hover{color:var(--lb-bad)}
+.sb-rowbtns{display:flex;align-items:center;gap:10px;margin-top:8px}
+.sb-sum{font-size:11px;color:var(--lb-muted)}
+.sb-tag{display:inline-block;margin-left:8px;padding:1px 6px;border-radius:4px;font-size:10px;font-weight:600;background:var(--lb-accent-soft);color:var(--lb-accent);font-family:var(--lb-font);vertical-align:1px}
+.sb-tag.warn{background:var(--lb-warn-soft);color:var(--lb-warn)}
+.sb-bar{display:inline-block;width:48px;height:5px;border-radius:3px;background:var(--lb-line-2);margin-right:6px;vertical-align:middle;overflow:hidden}
+.sb-bar i{display:block;height:100%;background:var(--lb-accent)}
+#polTable tfoot td{font-weight:600;border-top:1px solid var(--lb-line-strong);color:var(--lb-ink)}
+.sb-two{display:flex;flex-direction:column;gap:14px}.sb-two .sb-chart{max-width:760px;margin:0 auto}
+.sb-click tbody tr{cursor:pointer}
+.sb-click tbody tr:hover td{background:var(--lb-surface-2)}
+.sb-click tbody tr.sel td{background:var(--lb-accent-soft)}
+.sb-click tbody tr.sel td:first-child{color:var(--lb-accent);font-weight:600}
+.sb-chart{width:100%;height:auto;display:block}
+.sb-notes{margin:4px 0 0;padding-left:18px;font-size:13px;line-height:1.55;color:var(--lb-ink-2)}
+.sb-notes li{margin:6px 0}
+.sb-notes b{color:var(--lb-ink);font-weight:600}
+@media (max-width:1100px){.sb-data,.sb-two{grid-template-columns:1fr}.sb-dem{border-left:0;padding-left:0;border-top:1px solid #e1e6ed;padding-top:16px}}
+.sb-summary .sb-notes{font-size:14px}
+.sb-summary .sb-notes li::marker{color:#1e4f9c}
+</style>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/site.css?v=8">
+<link rel="preload" href="/assets/fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/labs.css?v=2">
+<link rel="canonical" href="https://mrsupplychain.ai/labs/semis-buffer/">
+<link rel="alternate" hreflang="en" href="https://mrsupplychain.ai/labs/semis-buffer/">
+<link rel="alternate" hreflang="es" href="https://mrsupplychain.ai/es/labs/semis-buffer/">
+<link rel="alternate" hreflang="x-default" href="https://mrsupplychain.ai/labs/semis-buffer/">
+<meta property="og:image" content="https://mrsupplychain.ai/assets/og-index.png">
+
+
+<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "83d3c28484e44c21b9d87b1a9228f95c"}'></script><!-- End Cloudflare Web Analytics -->
+<script src="/assets/lang.js?v=5" defer></script>
+<link rel="manifest" href="/manifest.webmanifest">
+<meta name="theme-color" content="#163e86">
+<link rel="apple-touch-icon" href="/noticias/app/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="MSC México">
+</head>
+<body class="labs-app " data-tool="semis-buffer">
+<script src="/assets/site.js?v=15"></script>
+<div data-msc-legacy hidden aria-hidden="true"><button id="btn-lang-en" class="lb on" type="button">EN</button><button id="btn-lang-es" class="lb" type="button">ES</button><button id="hamburger" type="button"></button><div id="mobileMenu"></div></div>
+<header class="tb" role="toolbar" aria-label="Tool">
+  <div class="tb-in">
+    <nav class="tb-crumb" aria-label="Breadcrumb"><a href="/labs/"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg> Labs</a><span class="sep">/</span><span><span class="msc-en">Plan</span><span class="msc-es">Planear</span></span></nav>
+    <div class="tb-title"><span class="tb-ic"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><rect x="7" y="7" width="10" height="10" rx="1.5"/><path d="M10 3v4M14 3v4M10 17v4M14 17v4M3 10h4M3 14h4M17 10h4M17 14h4"/></svg></span><h1><span class="msc-en">Semiconductor Buffer Optimizer</span><span class="msc-es">Optimizador de Buffer para Semiconductores</span></h1><span class="tb-ver">v3.0</span><span class="tb-status"><span class="msc-en">Stable</span><span class="msc-es">Estable</span></span></div>
+    <div class="tb-spacer"></div>
+    <div class="tb-switch"><button type="button" aria-haspopup="true" aria-expanded="false"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg><span class="lbl"><span class="msc-en">Switch tool</span><span class="msc-es">Cambiar herramienta</span></span><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></button><div class="tb-switch-pop" role="menu"><div class="grp"><span class="msc-en">Plan</span><span class="msc-es">Planear</span></div><a href="/labs/forecast/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 17l6-6 4 4 8-8M15 7h6v6"/></svg><div><b><span class="msc-en">Demand Forecast Studio</span><span class="msc-es">Estudio de Pronóstico</span></b><span><span class="msc-en">Holt-Winters, MA, decomposition · MAPE on holdout</span><span class="msc-es">Holt-Winters, PM, descomposición · MAPE en holdout</span></span></div></a><a href="/labs/safety-stock/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l9 4.5-9 4.5-9-4.5L12 3zM3 12l9 4.5 9-4.5M3 16.5L12 21l9-4.5"/></svg><div><b><span class="msc-en">Safety Stock Calculator</span><span class="msc-es">Calculadora de Inventario de Seguridad</span></b><span><span class="msc-en">z · σDLT with working-capital trade-off</span><span class="msc-es">z · σDLT con capital de trabajo</span></span></div></a><a href="/labs/semis-buffer/" class="on" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><rect x="7" y="7" width="10" height="10" rx="1.5"/><path d="M10 3v4M14 3v4M10 17v4M14 17v4M3 10h4M3 14h4M17 10h4M17 14h4"/></svg><div><b><span class="msc-en">Semiconductor Buffer Optimizer</span><span class="msc-es">Optimizador de Buffer para Semiconductores</span></b><span><span class="msc-en">Yield, binning, die bank, differentiated SL</span><span class="msc-es">Yield, binning, die bank, SL diferenciado</span></span></div></a><div class="grp"><span class="msc-en">Measure</span><span class="msc-es">Medir</span></div><a href="/labs/kpi/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V11M10 20V5M16 20v-6M3 20h18"/></svg><div><b><span class="msc-en">KPI Reference Library</span><span class="msc-es">Biblioteca de KPIs</span></b><span><span class="msc-en">58 KPIs · formula, target, benchmark</span><span class="msc-es">58 KPIs · fórmula, meta, benchmark</span></span></div></a><div class="grp"><span class="msc-en">Design</span><span class="msc-es">Diseñar</span></div><a href="/labs/network/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="6" r="2.5"/><circle cx="19" cy="6" r="2.5"/><circle cx="12" cy="18" r="2.5"/><path d="M7 7.5l3.5 8M17 7.5l-3.5 8M7.5 6h9"/></svg><div><b><span class="msc-en">Network Design Analyzer</span><span class="msc-es">Analizador de Diseño de Red</span></b><span><span class="msc-en">p-median siting, coverage, cost per zone</span><span class="msc-es">Localización p-median, cobertura, costo por zona</span></span></div></a><a href="/labs/warehouse/" class="" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9l9-5 9 5v11H3zM7 20v-7h10v7M7 16h10"/></svg><div><b><span class="msc-en">Warehouse Layout Designer</span><span class="msc-es">Diseñador de Layout de Almacén</span></b><span><span class="msc-en">Scaled floor plan, zones, rack estimates</span><span class="msc-es">Plano a escala, zonas, estimado de racks</span></span></div></a><div class="all"><a href="/labs/" role="menuitem"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg><div><b><span class="msc-en">All Labs tools</span><span class="msc-es">Todas las herramientas</span></b><span><span class="msc-en">Catalogue, simulators and experiments</span><span class="msc-es">Catálogo, simuladores y experimentos</span></span></div></a></div></div></div>
+    <div class="tb-actions"><button type="button" class="btn btn-ghost" onclick="toggleHowTo()" aria-controls="howTo" title="?"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M9.5 9.5a2.5 2.5 0 1 1 3.5 2.3c-.7.3-1 .9-1 1.7M12 17h.01"/></svg><span class="lbl"><span class="msc-en">Guide</span><span class="msc-es">Guía</span></span></button><button type="button" class="btn btn-primary" data-lb-export="exportReport"><svg class="msc-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M4 19h16"/></svg><span class="lbl"><span class="msc-en">Export report</span><span class="msc-es">Exportar reporte</span></span></button></div>
+  </div>
+</header>
+<main class="ws">
+  <aside class="ws-side" aria-label="Parameters">
+    <div class="inputs">
+      <div class="inputs-title"><span class="msc-en">Supply chain</span><span class="msc-es">Cadena de suministro</span></div>
+
+      <div class="field">
+        <div class="field-lbl"><span class="msc-en">Buffer position</span><span class="msc-es">Posición del buffer</span></div>
+        <div class="seg" id="postoggle">
+          <button class="seg-btn" data-pos="wafer" onclick="setPos('wafer')">Wafer</button>
+          <button class="seg-btn on" data-pos="die" onclick="setPos('die')">Die bank</button>
+          <button class="seg-btn" data-pos="fg" onclick="setPos('fg')"><span class="msc-en">Finished</span><span class="msc-es">Terminado</span></button>
+        </div>
+        <div class="field-hint"><span class="msc-en">Where safety stock is held. Upstream is cheaper per unit; downstream ships faster.</span><span class="msc-es">Dónde se guarda el inventario de seguridad. Más arriba cuesta menos por unidad; más abajo se entrega más rápido.</span></div>
+      </div>
+
+      <div class="field">
+        <div class="field-lbl"><span class="msc-en">Grade is fixed at</span><span class="msc-es">El grado se fija en</span></div>
+        <div class="seg" id="fixtoggle">
+          <button class="seg-btn" data-fix="sort" onclick="setFix('sort')">Wafer sort</button>
+          <button class="seg-btn on" data-fix="finaltest" onclick="setFix('finaltest')">Final test</button>
+        </div>
+        <div class="field-hint"><span class="msc-en">At wafer sort, the die bank is already split by grade and stops pooling.</span><span class="msc-es">En wafer sort, el die bank ya queda separado por grado y deja de agruparse.</span></div>
+      </div>
+
+      <div class="field">
+        <div class="field-lbl"><span class="msc-en">Lead time by stage</span><span class="msc-es">Lead time por etapa</span><span class="field-unit"><span class="msc-en">weeks · mean ± σ</span><span class="msc-es">semanas · media ± σ</span></span></div>
+        <div class="sb-lt">
+          <label><span class="msc-en">Wafer supply</span><span class="msc-es">Suministro de wafer</span></label><input class="field-input" id="lt_waf" type="number" step="0.5" value="2"><input class="field-input" id="sd_waf" type="number" step="0.1" value="0.5">
+          <label>Fab</label><input class="field-input" id="lt_fab" type="number" step="0.5" value="10"><input class="field-input" id="sd_fab" type="number" step="0.1" value="2">
+          <label><span class="msc-en">Assembly / test</span><span class="msc-es">Ensamble / prueba</span></label><input class="field-input" id="lt_at" type="number" step="0.5" value="3"><input class="field-input" id="sd_at" type="number" step="0.1" value="1">
+          <label><span class="msc-en">Pack / final</span><span class="msc-es">Empaque / final</span></label><input class="field-input" id="lt_pkg" type="number" step="0.5" value="2"><input class="field-input" id="sd_pkg" type="number" step="0.1" value="0.5">
+        </div>
+      </div>
+
+      <div class="field">
+        <div class="field-lbl"><span class="msc-en">Yield by stage</span><span class="msc-es">Yield por etapa</span><span class="field-unit">%</span></div>
+        <div class="sb-3">
+          <div><small>Fab</small><input class="field-input" id="y_fab" type="number" value="90"></div>
+          <div><small><span class="msc-en">Assy/test</span><span class="msc-es">Ens./prueba</span></small><input class="field-input" id="y_at" type="number" value="95"></div>
+          <div><small><span class="msc-en">Final</span><span class="msc-es">Final</span></small><input class="field-input" id="y_fin" type="number" value="98"></div>
+        </div>
+      </div>
+
+      <div class="field">
+        <div class="field-lbl"><span class="msc-en">Variability</span><span class="msc-es">Variabilidad</span><span class="field-unit">CV %</span></div>
+        <div class="sb-3">
+          <div><small>Yield</small><input class="field-input" id="y_cv" type="number" value="5"></div>
+          <div><small><span class="msc-en">Supply</span><span class="msc-es">Entregas</span></small><input class="field-input" id="sup_cv" type="number" value="8"></div>
+          <div><small>ρ <span class="msc-en">variants</span><span class="msc-es">variantes</span></small><input class="field-input" id="rho" type="number" value="20"></div>
+        </div>
+        <div class="field-hint"><span class="msc-en">Supply: receipts vs. the unbuffered plan. ρ: demand correlation between finished SKUs of the same die (0–100).</span><span class="msc-es">Entregas: recibido vs. plan sin colchones. ρ: correlación de demanda entre SKUs terminados del mismo die (0–100).</span></div>
+      </div>
+
+      <div class="field">
+        <div class="field-lbl"><span class="msc-en">Unit cost by stage</span><span class="msc-es">Costo unitario por etapa</span><span class="field-unit">$</span></div>
+        <div class="sb-3">
+          <div><small>Wafer</small><input class="field-input" id="c_waf" type="number" value="50"></div>
+          <div><small>Die</small><input class="field-input" id="c_die" type="number" value="120"></div>
+          <div><small><span class="msc-en">Finished</span><span class="msc-es">Terminado</span></small><input class="field-input" id="c_fg" type="number" value="200"></div>
+        </div>
+        <div class="field-hint"><span class="msc-en">Cost per good unit (one finished part’s worth) at that stage.</span><span class="msc-es">Costo por unidad buena (equivalente a una pieza terminada) en esa etapa.</span></div>
+      </div>
+
+      <button type="button" class="btn btn-ghost btn-block" onclick="resetExample()"><span class="msc-en">Reset to example</span><span class="msc-es">Restablecer ejemplo</span></button>
+    </div>
+  </aside>
+
+  <div class="ws-intro">
+    <div>
+      <h2><span class="msc-en">Safety stock by customer segment and by stage, for a semiconductor supply chain</span><span class="msc-es">Inventario de seguridad por segmento de cliente y por etapa, para una cadena de semiconductores</span></h2>
+      <p><span class="msc-en">Enter your bin split and demand segments with their service levels. You get the units and capital each segment needs at the chosen position, how wafer, die bank and finished goods compare, and what a single service level for everyone would cost.</span><span class="msc-es">Captura tu reparto por grado (bin split) y tus segmentos de demanda con su nivel de servicio. Obtienes las unidades y el capital que necesita cada segmento en la posición elegida, cómo se comparan wafer, die bank y producto terminado, y cuánto costaría un mismo nivel de servicio para todos.</span></p>
+    </div>
+  </div>
+
+  <section class="ws-main">
+    <div class="metrics" id="metricStrip"></div>
+
+    <div class="panel sb-summary">
+      <div class="panel-title"><span class="msc-en">What this scenario says</span><span class="msc-es">Qué dice este escenario</span></div>
+      <ul class="sb-notes" id="notes"></ul>
+    </div>
+
+    <div class="panel">
+      <div class="panel-head">
+        <div>
+          <div class="panel-title"><span class="msc-en">Supply and demand</span><span class="msc-es">Oferta y demanda</span></div>
+          <div class="panel-note"><span class="msc-en">Grades from best to worst. A segment accepts its minimum grade or better (downgrade substitution). Demand and CV are weekly, for the whole segment.</span><span class="msc-es">Grados de mejor a peor. Cada segmento acepta su grado mínimo o uno mejor (sustitución hacia abajo). Demanda y CV son semanales, por segmento completo.</span></div>
+        </div>
+        <div class="sb-actions">
+          <button type="button" class="btn btn-ghost btn-sm" onclick="document.getElementById('csvIn').click()"><span class="msc-en">Import CSV</span><span class="msc-es">Importar CSV</span></button>
+          <button type="button" class="btn btn-ghost btn-sm" onclick="downloadInputs()"><span class="msc-en">Download CSV</span><span class="msc-es">Descargar CSV</span></button>
+          <input type="file" id="csvIn" accept=".csv,text/csv" hidden onchange="importCSV(this)">
+        </div>
+      </div>
+      <div class="sb-data">
+        <div>
+          <div class="sb-sub"><span class="msc-en">Supply · bin split</span><span class="msc-es">Oferta · reparto por grado</span></div>
+          <table class="ftbl sb-edit" aria-label="Bin split">
+            <thead><tr><th><span class="msc-en">Grade</span><span class="msc-es">Grado</span></th><th><span class="msc-en">% of output</span><span class="msc-es">% de salida</span></th></tr></thead>
+            <tbody id="binbody"></tbody>
+          </table>
+          <div class="sb-rowbtns"><button type="button" class="btn btn-ghost btn-sm" onclick="addBin()">+ <span class="msc-en">Grade</span><span class="msc-es">Grado</span></button><span id="binsum" class="sb-sum"></span></div>
+        </div>
+        <div class="sb-scroll sb-dem">
+          <div class="sb-sub"><span class="msc-en">Demand · customer segments</span><span class="msc-es">Demanda · segmentos de cliente</span></div>
+          <table class="ftbl sb-edit" aria-label="Segments">
+            <thead><tr>
+              <th><span class="msc-en">Segment</span><span class="msc-es">Segmento</span></th>
+              <th><span class="msc-en">Min. grade</span><span class="msc-es">Grado mín.</span></th>
+              <th title="Finished SKUs per die family"><span class="msc-en">FG SKUs</span><span class="msc-es">SKUs term.</span></th>
+              <th><span class="msc-en">Demand / wk</span><span class="msc-es">Demanda / sem</span></th>
+              <th>CV %</th>
+              <th><span class="msc-en">Service %</span><span class="msc-es">Servicio %</span></th>
+              <th>NPI</th><th></th>
+            </tr></thead>
+            <tbody id="segbody"></tbody>
+          </table>
+          <div class="sb-rowbtns"><button type="button" class="btn btn-ghost btn-sm" onclick="addSeg()">+ <span class="msc-en">Segment</span><span class="msc-es">Segmento</span></button></div>
+        </div>
+      </div>
+      <div class="lb-read" id="rdData"></div>
+      <div id="npiPanel" class="sb-npi" hidden>
+        <div class="panel-title" style="margin-top:12px"><span class="msc-en">New products (NPI)</span><span class="msc-es">Productos nuevos (NPI)</span></div>
+        <div class="panel-note"><span class="msc-en">The CV you entered is read as the CV of a comparable product. The new share of demand gets a risk premium that fades as the product matures. Next generation: a predecessor exists (default 40%). New to the world: no comparable product (default 100%).</span><span class="msc-es">El CV capturado se toma como el de un producto comparable. La parte nueva de la demanda lleva una prima de riesgo que baja conforme el producto madura. Nueva generación: existe un antecesor (40% por defecto). Nuevo en el mundo: sin producto comparable (100% por defecto).</span></div>
+        <table class="ftbl sb-edit"><thead><tr><th><span class="msc-en">Segment</span><span class="msc-es">Segmento</span></th><th><span class="msc-en">Type</span><span class="msc-es">Tipo</span></th><th><span class="msc-en">New share %</span><span class="msc-es">% nuevo</span></th><th><span class="msc-en">Risk %</span><span class="msc-es">Riesgo %</span></th><th><span class="msc-en">Maturity %</span><span class="msc-es">Madurez %</span></th></tr></thead><tbody id="npibody"></tbody></table>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-head">
+        <div>
+          <div class="panel-title" id="polTitle"></div>
+          <div class="panel-note" id="polNote"></div>
+        </div>
+        <div class="sb-actions"><button type="button" class="btn btn-ghost btn-sm" onclick="downloadResults()"><span class="msc-en">Download results (CSV)</span><span class="msc-es">Descargar resultados (CSV)</span></button></div>
+      </div>
+      <div class="tbl-wrap"><table class="ftbl" id="polTable"></table></div>
+      <div class="lb-read" id="rdPol"></div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-title"><span class="msc-en">Where to hold it</span><span class="msc-es">Dónde conviene tenerlo</span></div>
+      <div class="panel-note"><span class="msc-en">Same segments and service levels at each position. Click a row to select it.</span><span class="msc-es">Mismos segmentos y niveles de servicio en cada posición. Haz clic en una fila para elegirla.</span></div>
+      <div class="sb-two">
+        <div class="tbl-wrap"><table class="ftbl sb-click" id="posTable"></table></div>
+        <div><svg id="frontier" class="sb-chart" role="img" aria-label="Capital vs response"></svg></div>
+      </div>
+      <div class="lb-read" id="rdPos"></div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-title"><span class="msc-en">Cost of one service level for everyone</span><span class="msc-es">Costo de un mismo nivel de servicio para todos</span></div>
+      <div class="panel-note" id="curveNote"></div>
+      <svg id="curve" class="sb-chart" role="img" aria-label="Uniform service level cost"></svg>
+      <div class="lb-read" id="rdCurve"></div>
+    </div>
+
+    <div class="disclaimer">
+      <span class="msc-en"><b>Method.</b> Screening model for setting targets and comparing scenarios, not a replacement for a stochastic simulation or your planning system. Demand, lead-time and supply variability combine in quadrature (King, extended). Pooled positions size one buffer with cumulative cuts by grade, each set to the highest service level it covers; the per-segment split is proportional to z·σ. Yield uncertainty uses the delta method. Finished goods split each segment across its SKUs by √(N/(1+(N−1)ρ)). NPI demand adds a risk premium on the new share that decays with maturity. Inputs stay in your browser.</span>
+      <span class="msc-es"><b>Método.</b> Modelo de primer corte para fijar metas y comparar escenarios; no sustituye una simulación estocástica ni tu sistema de planeación. La variabilidad de demanda, lead time y entregas se combina en cuadratura (King, extendido). En posiciones agrupadas se dimensiona un solo buffer con cortes acumulados por grado, cada uno al nivel de servicio más alto que cubre; el reparto por segmento es proporcional a z·σ. La incertidumbre del yield usa el método delta. En producto terminado cada segmento se reparte entre sus SKUs con √(N/(1+(N−1)ρ)). La demanda NPI agrega una prima de riesgo a la parte nueva que baja con la madurez. Los datos se quedan en tu navegador.</span>
+    </div>
+  </section>
+</main>
+
+<div class="how-to" id="howTo"><div class="how-to-head"><div class="how-to-title"><span class="msc-en">Guide</span><span class="msc-es">Guía</span></div><button class="how-to-toggle" id="howToBtn"></button></div>
+<div class="how-to-steps">
+  <div class="how-to-step"><div class="step-num">1</div><div class="step-body"><div class="step-title"><span class="msc-en">Bin split</span><span class="msc-es">Reparto por grado</span></div><div class="step-desc"><span class="msc-en">List grades from best to worst with the share of good output that lands in each. It is measured, not chosen. Shares are normalized to 100%.</span><span class="msc-es">Lista los grados de mejor a peor con el % de la salida buena que cae en cada uno. Se mide, no se elige. Los porcentajes se normalizan a 100%.</span></div></div></div>
+  <div class="how-to-step"><div class="step-num">2</div><div class="step-body"><div class="step-title"><span class="msc-en">Segments</span><span class="msc-es">Segmentos</span></div><div class="step-desc"><span class="msc-en">One row per customer group, product family or end market: minimum grade, number of finished SKUs that share the die, weekly demand, CV and target service level. Tick NPI for products without history.</span><span class="msc-es">Una fila por grupo de clientes, familia o mercado: grado mínimo, número de SKUs terminados que comparten el die, demanda semanal, CV y nivel de servicio objetivo. Marca NPI en productos sin historia.</span></div></div></div>
+  <div class="how-to-step"><div class="step-num">3</div><div class="step-body"><div class="step-title"><span class="msc-en">Chain parameters</span><span class="msc-es">Parámetros de la cadena</span></div><div class="step-desc"><span class="msc-en">Lead times with their σ, yields, variability and unit cost by stage. Choose where the buffer sits and where the grade is fixed.</span><span class="msc-es">Lead times con su σ, yields, variabilidad y costo por etapa. Elige dónde se guarda el buffer y dónde se fija el grado.</span></div></div></div>
+  <div class="how-to-step"><div class="step-num">4</div><div class="step-body"><div class="step-title"><span class="msc-en">Read and export</span><span class="msc-es">Lee y exporta</span></div><div class="step-desc"><span class="msc-en">The policy table gives units and capital per segment. Compare positions, then download the results as CSV or export a printable report.</span><span class="msc-es">La tabla de política da unidades y capital por segmento. Compara posiciones y descarga los resultados en CSV o exporta un reporte imprimible.</span></div></div></div>
+  <div class="how-to-step"><div class="step-num">CSV</div><div class="step-body"><div class="step-title"><span class="msc-en">Import format</span><span class="msc-es">Formato de importación</span></div><div class="step-desc"><code>bin,Prime,20</code><br><code>segment,min_grade,fg_skus,demand_wk,cv_pct,service_pct,npi</code><br><code>Automotive OEM,Prime,3,50,35,99.5,0</code><br><span class="msc-en">Start from “Download CSV”. Your last scenario is kept in this browser.</span><span class="msc-es">Parte de “Descargar CSV”. Tu último escenario se guarda en este navegador.</span></div></div></div>
+</div></div>
+
+<script>
+/* Semiconductor Buffer Optimizer v3 · Mr. Supply Chain® México Labs
+   Same model as v2 (Aug–Sep 2026); new workspace UI, CSV in/out, per-segment policy table. */
+function isES(){return document.documentElement.classList.contains('msc-es');}
+function L(en,es){return isES()?es:en;}
+var $=function(id){return document.getElementById(id);};
+var num=function(id){var v=parseFloat($(id).value);return isNaN(v)?0:v;};
+function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+function fmt(n){if(!isFinite(n))return '–';n=Math.round(n);return n.toLocaleString('en-US');}
+function money(n){if(!isFinite(n))return '–';var s=n<0?'−':'';n=Math.abs(n);
+  if(n>=1e6)return s+'$'+(n/1e6).toFixed(2)+'M';if(n>=1e3)return s+'$'+(n/1e3).toFixed(1)+'K';return s+'$'+Math.round(n);}
+function wk(n){return (n<=0?'0':n.toFixed(1))+' '+L('wk','sem');}
+
+function invNorm(p){
+  if(p<=0)return -8; if(p>=1)return 8;
+  var a=[-39.6968302866538,220.946098424521,-275.928510446969,138.357751867269,-30.6647980661472,2.50662827745924];
+  var b=[-54.4760987982241,161.585836858041,-155.698979859887,66.8013118877197,-13.2806815528857];
+  var c=[-0.00778489400243029,-0.322396458041136,-2.40075827716184,-2.54973253934373,4.37466414146497,2.93816398269878];
+  var d=[0.00778469570904146,0.32246712907004,2.445134137143,3.75440866190742];
+  var pl=0.02425,ph=1-pl,q,r;
+  if(p<pl){q=Math.sqrt(-2*Math.log(p));return (((((c[0]*q+c[1])*q+c[2])*q+c[3])*q+c[4])*q+c[5])/((((d[0]*q+d[1])*q+d[2])*q+d[3])*q+1);}
+  if(p<=ph){q=p-0.5;r=q*q;return (((((a[0]*r+a[1])*r+a[2])*r+a[3])*r+a[4])*r+a[5])*q/(((((b[0]*r+b[1])*r+b[2])*r+b[3])*r+b[4])*r+1);}
+  q=Math.sqrt(-2*Math.log(1-p));return -(((((c[0]*q+c[1])*q+c[2])*q+c[3])*q+c[4])*q+c[5])/((((d[0]*q+d[1])*q+d[2])*q+d[3])*q+1);
+}
+
+/* ---------- state ---------- */
+var EXAMPLE={
+  bins:[{name:'Prime',split:20},{name:'Standard',split:50},{name:'Value',split:30}],
+  segs:[
+    {name:'Automotive OEM',req:0,dem:50,cv:35,sl:99.5,skus:3},
+    {name:'Mobile Tier-1',req:0,dem:80,cv:45,sl:97,skus:5},
+    {name:'Industrial',req:1,dem:260,cv:30,sl:95,skus:15},
+    {name:'Distributor',req:1,dem:90,cv:40,sl:92,skus:10},
+    {name:'Spot / Broker',req:2,dem:150,cv:60,sl:88,skus:20}],
+  pos:'die',fix:'finaltest',
+  inputs:{lt_waf:2,sd_waf:0.5,lt_fab:10,sd_fab:2,lt_at:3,sd_at:1,lt_pkg:2,sd_pkg:0.5,y_fab:90,y_at:95,y_fin:98,y_cv:5,sup_cv:8,rho:20,c_waf:50,c_die:120,c_fg:200}
+};
+var INPUT_IDS=Object.keys(EXAMPLE.inputs);
+var bins,segs,POS,GRADEFIX;
+var KEY='msc-semis-buffer-v3';
+function clone(o){return JSON.parse(JSON.stringify(o));}
+function save(){try{var inp={};INPUT_IDS.forEach(function(id){inp[id]=num(id);});
+  localStorage.setItem(KEY,JSON.stringify({bins:bins,segs:segs,pos:POS,fix:GRADEFIX,inputs:inp}));}catch(e){}}
+function load(st){
+  bins=st.bins;segs=st.segs;POS=st.pos||'die';GRADEFIX=st.fix||'finaltest';
+  INPUT_IDS.forEach(function(id){if(st.inputs&&st.inputs[id]!=null)$(id).value=st.inputs[id];});
+  syncToggles();renderBins();renderSegs();
+}
+function resetExample(){load(clone(EXAMPLE));calc();if(window.lbToast)lbToast(L('Example restored','Ejemplo restablecido'));}
+function syncToggles(){
+  document.querySelectorAll('#postoggle .seg-btn').forEach(function(b){b.classList.toggle('on',b.dataset.pos===POS);});
+  document.querySelectorAll('#fixtoggle .seg-btn').forEach(function(b){b.classList.toggle('on',b.dataset.fix===GRADEFIX);});
+}
+function setPos(p){POS=p;syncToggles();calc();}
+function setFix(f){GRADEFIX=f;syncToggles();calc();}
+
+/* ---------- editable tables ---------- */
+function renderBins(){
+  var tb=$('binbody');tb.innerHTML='';
+  bins.forEach(function(b,i){
+    var tr=document.createElement('tr');
+    tr.innerHTML='<td><input value="'+esc(b.name)+'" aria-label="Grade name" oninput="updBin('+i+',\'name\',this.value)"></td>'+
+      '<td><input type="number" value="'+b.split+'" aria-label="Split %" oninput="updBin('+i+',\'split\',this.value)">'+
+      (bins.length>1?'<button type="button" class="sb-x" title="'+L('Remove','Quitar')+'" onclick="rmBin('+i+')">×</button>':'')+'</td>';
+    tb.appendChild(tr);
+  });
+  binSum();
+}
+function binSum(){var t=bins.reduce(function(s,b){return s+Math.max(0,b.split);},0);
+  $('binsum').textContent=L('Total ','Total ')+(Math.round(t*10)/10)+'%'+(Math.abs(t-100)>0.05?L(' · normalized',' · se normaliza'):'');}
+function updBin(i,k,v){bins[i][k]=(k==='name')?v:(parseFloat(v)||0);if(k==='name')renderSegsSoft();binSum();calc();}
+function addBin(){if(bins.length>=6)return;bins.push({name:L('Grade ','Grado ')+(bins.length+1),split:10});renderBins();renderSegs();calc();}
+function rmBin(i){if(bins.length<=1)return;bins.splice(i,1);segs.forEach(function(s){if(s.req>i)s.req--;else if(s.req===i)s.req=Math.min(i,bins.length-1);});renderBins();renderSegs();calc();}
+
+function gradeOpts(sel){return bins.map(function(b,bi){return '<option value="'+bi+'"'+(bi===sel?' selected':'')+'>'+esc(b.name)+'</option>';}).join('');}
+function renderSegsSoft(){document.querySelectorAll('#segbody select').forEach(function(s,i){s.innerHTML=gradeOpts(segs[i].req);});renderNpis();}
+function renderSegs(){
+  var tb=$('segbody');tb.innerHTML='';
+  segs.forEach(function(s,i){
+    var tr=document.createElement('tr');
+    tr.innerHTML='<td><input class="wide" value="'+esc(s.name)+'" oninput="updSeg('+i+',\'name\',this.value)"></td>'+
+      '<td><select onchange="updSeg('+i+',\'req\',this.value)">'+gradeOpts(s.req)+'</select></td>'+
+      '<td><input type="number" min="1" value="'+(s.skus||1)+'" oninput="updSeg('+i+',\'skus\',this.value)"></td>'+
+      '<td><input type="number" value="'+s.dem+'" oninput="updSeg('+i+',\'dem\',this.value)"></td>'+
+      '<td><input type="number" value="'+s.cv+'" oninput="updSeg('+i+',\'cv\',this.value)"></td>'+
+      '<td><input type="number" step="0.1" value="'+s.sl+'" oninput="updSeg('+i+',\'sl\',this.value)"></td>'+
+      '<td class="c"><input type="checkbox" '+(s.npi?'checked':'')+' aria-label="NPI" onchange="updSegNpi('+i+',this.checked)"></td>'+
+      '<td class="c">'+(segs.length>1?'<button type="button" class="sb-x" title="'+L('Remove','Quitar')+'" onclick="rmSeg('+i+')">×</button>':'')+'</td>';
+    tb.appendChild(tr);
+  });
+  renderNpis();
+}
+function updSeg(i,k,v){
+  if(k==='name'){segs[i].name=v;renderNpis();}
+  else{var x=parseFloat(v);if(k==='sl'){x=Math.min(99.9,Math.max(50,x||0));}segs[i][k]=isNaN(x)?0:x;}
+  calc();
+}
+function npiDefaults(s){if(s.npiType===undefined){s.npiType='gen';s.npiShare=30;s.npiRisk=40;s.npiMat=25;}}
+function updSegNpi(i,c){segs[i].npi=c?1:0;if(c)npiDefaults(segs[i]);renderNpis();calc();}
+function updNpiType(i,v){segs[i].npiType=v;segs[i].npiRisk=(v==='new')?100:40;renderNpis();calc();}
+function addSeg(){if(segs.length>=12)return;segs.push({name:L('Segment ','Segmento ')+(segs.length+1),req:0,dem:80,cv:40,sl:95,skus:5});renderSegs();calc();}
+function rmSeg(i){if(segs.length<=1)return;segs.splice(i,1);renderSegs();calc();}
+function renderNpis(){
+  var flagged=[];segs.forEach(function(s,i){if(s.npi)flagged.push(i);});
+  $('npiPanel').hidden=!flagged.length;
+  var tb=$('npibody');tb.innerHTML='';
+  flagged.forEach(function(i){var s=segs[i];npiDefaults(s);
+    var tr=document.createElement('tr');
+    tr.innerHTML='<td>'+esc(s.name)+'</td>'+
+      '<td><select onchange="updNpiType('+i+',this.value)"><option value="gen"'+(s.npiType==='gen'?' selected':'')+'>'+L('Next generation','Nueva generación')+'</option><option value="new"'+(s.npiType==='new'?' selected':'')+'>'+L('New to the world','Nuevo en el mundo')+'</option></select></td>'+
+      '<td><input type="number" value="'+s.npiShare+'" oninput="updSeg('+i+',\'npiShare\',this.value)"></td>'+
+      '<td><input type="number" value="'+s.npiRisk+'" oninput="updSeg('+i+',\'npiRisk\',this.value)"></td>'+
+      '<td><input type="number" value="'+s.npiMat+'" oninput="updSeg('+i+',\'npiMat\',this.value)"></td>';
+    tb.appendChild(tr);
+  });
+}
+
+/* ---------- model (unchanged from v2) ---------- */
+function evalPosition(pos,slOverride,noNpi){
+  var lt_waf=num('lt_waf'),sd_waf=num('sd_waf'),lt_fab=num('lt_fab'),sd_fab=num('sd_fab');
+  var lt_at=num('lt_at'),sd_at=num('sd_at'),lt_pkg=num('lt_pkg'),sd_pkg=num('sd_pkg');
+  var yf=num('y_fab')/100,ya=num('y_at')/100,yfin=num('y_fin')/100,ycv=num('y_cv')/100;
+  var cost={wafer:num('c_waf'),die:num('c_die'),fg:num('c_fg')};
+  var repL,repS,respL,ydn,prebin,unitCost;
+  if(pos==='wafer'){repL=lt_waf;repS=sd_waf;respL=lt_fab+lt_at+lt_pkg;ydn=yf*ya*yfin;prebin=true;unitCost=cost.wafer;}
+  else if(pos==='die'){repL=lt_fab;repS=sd_fab;respL=lt_at+lt_pkg;ydn=ya*yfin;prebin=(GRADEFIX==='finaltest');unitCost=cost.die;}
+  else{repL=lt_fab+lt_at+lt_pkg;repS=Math.sqrt(sd_fab*sd_fab+sd_at*sd_at+sd_pkg*sd_pkg);respL=0;ydn=1;prebin=false;unitCost=cost.fg;}
+  if(ydn<=0)ydn=1e-6;
+  var totSplit=bins.reduce(function(s,b){return s+Math.max(0,b.split);},0)||1;
+  var p=bins.map(function(b){return Math.max(0,b.split)/totSplit;});
+  var rho=Math.min(1,Math.max(0,num('rho')/100));
+  var scv=Math.max(0,num('sup_cv'))/100;
+  var S=segs.map(function(s,idx){
+    var D=Math.max(0,s.dem),cvBase=Math.max(0,s.cv)/100,wVar;
+    if(s.npi&&!noNpi){
+      var share=Math.min(1,Math.max(0,(s.npiShare||0)/100)),risk=Math.max(0,(s.npiRisk||0)/100),matu=Math.min(1,Math.max(0,(s.npiMat||0)/100));
+      var sDsum=D*(1-share)*cvBase+D*share*cvBase*(1+risk*(1-matu));wVar=sDsum*sDsum;
+    }else{var sD=D*cvBase;wVar=sD*sD;}
+    var slv=(slOverride!=null)?slOverride:s.sl;
+    var N=Math.max(1,Math.round(s.skus||1));
+    return {i:idx,name:s.name,req:Math.min(s.req,bins.length-1),D:D,N:N,frag:Math.sqrt(N/(1+(N-1)*rho)),npi:s.npi?1:0,npiType:s.npiType||'gen',
+      meanLTD:D*repL,sigLTD:Math.sqrt(repL*wVar+D*D*repS*repS+repL*D*D*scv*scv),sl:slv,z:invNorm(slv/100)};
+  });
+  var totalMean=S.reduce(function(a,x){return a+x.meanLTD;},0);
+  var maxSLall=S.reduce(function(a,x){return Math.max(a,x.sl);},0);
+  var zMax=invNorm(maxSLall/100);
+  var safetyFinal=0,segBuffer=[],bindingGrade=-1;
+  S.forEach(function(){segBuffer.push(0);});
+  if(prebin){
+    var Gstar=0,Gstar0=0;
+    for(var k=0;k<bins.length;k++){
+      var cumMean=0,cumVar=0,cumP=0,cutMaxZ=0,any=false;
+      for(var j=0;j<=k;j++)cumP+=p[j];
+      S.forEach(function(x){if(x.req<=k){cumMean+=x.meanLTD;cumVar+=x.sigLTD*x.sigLTD;cutMaxZ=Math.max(cutMaxZ,x.z);any=true;}});
+      if(!any||cumP<=0)continue;
+      var Gk=(cumMean+cutMaxZ*Math.sqrt(cumVar))/cumP,Gk0=cumMean/cumP;
+      if(Gk>Gstar){Gstar=Gk;bindingGrade=k;}
+      if(Gk0>Gstar0)Gstar0=Gk0;
+    }
+    safetyFinal=Math.max(0,Gstar-Gstar0);
+    var wsum=S.reduce(function(a,x){return a+Math.max(0,x.z)*x.sigLTD;},0)||1;
+    S.forEach(function(x,i){segBuffer[i]=safetyFinal*Math.max(0,x.z)*x.sigLTD/wsum;});
+  }else if(pos==='fg'){
+    S.forEach(function(x,i){var b=Math.max(0,x.z*x.sigLTD*x.frag);safetyFinal+=b;segBuffer[i]=b;});
+  }else{
+    for(var g=0;g<bins.length;g++){
+      var gVar=0,gz=0,mem=[];
+      S.forEach(function(x){if(x.req===g){gVar+=x.sigLTD*x.sigLTD;gz=Math.max(gz,x.z);mem.push(x);}});
+      if(!mem.length)continue;
+      var gS=Math.max(0,gz*Math.sqrt(gVar));safetyFinal+=gS;
+      var gw=mem.reduce(function(a,x){return a+Math.max(0,x.z)*x.sigLTD;},0)||1;
+      mem.forEach(function(x){segBuffer[x.i]=gS*Math.max(0,x.z)*x.sigLTD/gw;});
+    }
+  }
+  var yieldMult=(1+zMax*ycv)/ydn;
+  return {pos:pos,safetyFinal:safetyFinal,yieldMult:yieldMult,physBuffer:safetyFinal*yieldMult,bufCapital:safetyFinal*yieldMult*unitCost,
+    respL:respL,repL:repL,ydn:ydn,prebin:prebin,unitCost:unitCost,seg:S,segBuffer:segBuffer,totalMean:totalMean,bindingGrade:bindingGrade,maxSLall:maxSLall};
+}
+function structuralExcess(pos){
+  var lt_waf=num('lt_waf'),lt_fab=num('lt_fab'),lt_at=num('lt_at'),lt_pkg=num('lt_pkg');
+  var yf=num('y_fab')/100,ya=num('y_at')/100,yfin=num('y_fin')/100,repL,ydn,unitCost;
+  if(pos==='wafer'){repL=lt_waf;ydn=yf*ya*yfin;unitCost=num('c_waf');}
+  else if(pos==='die'){repL=lt_fab;ydn=ya*yfin;unitCost=num('c_die');}
+  else{repL=lt_fab+lt_at+lt_pkg;ydn=1;unitCost=num('c_fg');}
+  if(ydn<=0)ydn=1e-6;
+  var totSplit=bins.reduce(function(s,b){return s+Math.max(0,b.split);},0)||1;
+  var p=bins.map(function(b){return Math.max(0,b.split)/totSplit;});
+  var totalMean=0,Gstar=0;
+  segs.forEach(function(s){totalMean+=Math.max(0,s.dem)*repL;});
+  for(var k=0;k<bins.length;k++){
+    var cumMean=0,cumP=0,any=false;
+    for(var j=0;j<=k;j++)cumP+=p[j];
+    segs.forEach(function(s){if(Math.min(s.req,bins.length-1)<=k){cumMean+=Math.max(0,s.dem)*repL;any=true;}});
+    if(!any||cumP<=0)continue;
+    var Gk=cumMean/cumP;if(Gk>Gstar)Gstar=Gk;
+  }
+  var units=Math.max(0,Gstar-totalMean);
+  return {units:units,capital:units/ydn*unitCost,pct:totalMean>0?units/totalMean*100:0};
+}
+
+/* ---------- render ---------- */
+var POSNAME={wafer:['Wafer','Wafer'],die:['Die bank','Die bank'],fg:['Finished goods','Producto terminado']};
+function posName(k){return L(POSNAME[k][0],POSNAME[k][1]);}
+var LAST=null;
+function calc(){
+  var R=evalPosition(POS,null);
+  var U=evalPosition(POS,R.maxSLall);
+  var all={},allU={},SE={};
+  ['wafer','die','fg'].forEach(function(k){all[k]=evalPosition(k,null);allU[k]=evalPosition(k,R.maxSLall);SE[k]=structuralExcess(k);});
+  LAST={R:R,U:U,all:all,allU:allU,SE:SE};
+
+  /* metrics */
+  var sv=U.bufCapital-R.bufCapital,svPct=U.bufCapital>0?sv/U.bufCapital*100:0;
+  $('metricStrip').innerHTML=
+    metric(L('Buffer capital','Capital en buffer'),money(R.bufCapital),posName(POS),true)+
+    metric(L('Units in buffer','Unidades en buffer'),fmt(R.physBuffer),L('at this stage, incl. yield loss','en esta etapa, con merma de yield'))+
+    metric(L('Customer lead time','Tiempo de entrega al cliente'),R.respL<=0?L('From stock','Desde stock'):wk(R.respL),L('from buffer to shipment','del buffer al embarque'))+
+    metric(L('Vs. one service level','Vs. un solo nivel de servicio'),sv>0.5?'−'+money(sv):'$0',sv>0.5?(svPct.toFixed(0)+L('% less than ','% menos que ')+R.maxSLall.toFixed(1)+L('% for all','% para todos')):L('no difference at this position','sin diferencia en esta posición'))+
+    metric(L('Bin-split excess','Excedente por bin split'),SE[POS].pct.toFixed(0)+'%',money(SE[POS].capital)+L(' of lower grades',' de grados bajos'));
+
+  /* policy table */
+  $('polTitle').innerHTML=L('Policy by segment · ','Política por segmento · ')+esc(posName(POS));
+  $('polNote').innerHTML=R.prebin
+    ?L('Pooled position: one shared buffer. The split by segment is an allocation proportional to each segment’s risk.','Posición agrupada: un solo buffer compartido. El reparto por segmento es una asignación proporcional al riesgo de cada uno.')
+    :(POS==='fg'?L('Committed per finished SKU: each segment carries its own stock, spread across its SKUs.','Comprometido por SKU terminado: cada segmento lleva su propio inventario, repartido entre sus SKUs.')
+               :L('Committed per grade: segments sharing a grade pool with each other; grades do not.','Comprometido por grado: los segmentos del mismo grado se agrupan entre sí; los grados no.'));
+  var maxZcut=R.prebin?Math.max.apply(null,R.seg.filter(function(y){return y.req<=R.bindingGrade;}).map(function(y){return y.z;}).concat([-9])):null;
+  var totU=0,totC=0,totMean=0;
+  var h='<thead><tr><th>'+L('Segment','Segmento')+'</th><th>'+L('Grade','Grado')+'</th><th>'+L('Service','Servicio')+'</th><th>'+L('Demand in LT','Demanda en LT')+'</th><th>'+L('Safety (good units)','Seguridad (u. buenas)')+'</th><th>'+L('Units at stage','Unidades en etapa')+'</th><th>'+L('Capital','Capital')+'</th><th>'+L('Share','Part.')+'</th></tr></thead><tbody>';
+  R.seg.forEach(function(x,i){
+    var su=R.segBuffer[i],pu=su*R.yieldMult,cap=pu*R.unitCost;totU+=pu;totC+=cap;totMean+=x.meanLTD;
+    var tags='';
+    if(R.prebin&&x.req<=R.bindingGrade&&x.z>=maxZcut-1e-9)tags+='<span class="sb-tag warn" title="'+L('Its service level sets the size of the shared buffer','Su nivel de servicio fija el tamaño del buffer compartido')+'">'+L('sets size','fija tamaño')+'</span>';
+    if(x.npi)tags+='<span class="sb-tag">NPI</span>';
+    h+='<tr><td>'+esc(x.name)+tags+'</td><td>'+esc(bins[x.req]?bins[x.req].name:'–')+'</td><td>'+x.sl.toFixed(1)+'%</td><td>'+fmt(x.meanLTD)+'</td><td>'+fmt(su)+'</td><td>'+fmt(pu)+'</td><td>'+money(cap)+'</td>'+
+      '<td><span class="sb-bar"><i style="width:'+(R.physBuffer>0?pu/R.physBuffer*100:0).toFixed(1)+'%"></i></span>'+(R.physBuffer>0?(pu/R.physBuffer*100).toFixed(0):0)+'%</td></tr>';
+  });
+  h+='</tbody><tfoot><tr><td>Total</td><td></td><td></td><td>'+fmt(totMean)+'</td><td>'+fmt(R.safetyFinal)+'</td><td>'+fmt(totU)+'</td><td>'+money(totC)+'</td><td>100%</td></tr></tfoot>';
+  $('polTable').innerHTML=h;
+
+  /* positions table */
+  var p='<thead><tr><th>'+L('Position','Posición')+'</th><th>'+L('Lead time to customer','Entrega al cliente')+'</th><th>'+L('Capital (your levels)','Capital (tus niveles)')+'</th><th>'+L('Capital (','Capital (')+R.maxSLall.toFixed(1)+L('% for all)','% para todos)')+'</th><th>'+L('Bin-split excess','Excedente bin split')+'</th></tr></thead><tbody>';
+  ['wafer','die','fg'].forEach(function(k){
+    p+='<tr data-pos="'+k+'" class="'+(k===POS?'sel':'')+'" tabindex="0"><td>'+posName(k)+'</td><td>'+(all[k].respL<=0?L('from stock','desde stock'):wk(all[k].respL))+'</td><td>'+money(all[k].bufCapital)+'</td><td>'+money(allU[k].bufCapital)+'</td><td>'+money(SE[k].capital)+'</td></tr>';
+  });
+  $('posTable').innerHTML=p+'</tbody>';
+  document.querySelectorAll('#posTable tr[data-pos]').forEach(function(tr){
+    tr.onclick=function(){setPos(tr.dataset.pos);};
+    tr.onkeydown=function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();setPos(tr.dataset.pos);}};
+  });
+
+  renderNotes(R,U,all,allU,SE);
+  renderReads(R,U,all,allU);
+  drawFrontier(all);
+  drawCurve(R);
+  save();
+}
+
+/* ---------- per-section readings ---------- */
+function setRead(id,html){var e=$(id);if(!e)return;e.setAttribute('data-label',L('Reading','Lectura'));e.innerHTML=html||'';}
+function pct(x){return (x*100).toFixed(0)+'%';}
+function renderReads(R,U,all,allU){
+  /* data: which grade is scarce under downgrade substitution */
+  var totSplit=bins.reduce(function(s,b){return s+Math.max(0,b.split);},0)||1;
+  var totD=segs.reduce(function(s,x){return s+Math.max(0,x.dem);},0)||1;
+  var best={r:0,k:0,cd:0,cs:0},cs=0;
+  for(var k=0;k<bins.length;k++){cs+=Math.max(0,bins[k].split)/totSplit;
+    var cd=segs.filter(function(x){return Math.min(x.req,bins.length-1)<=k;}).reduce(function(s,x){return s+Math.max(0,x.dem);},0)/totD;
+    if(cs>0&&cd/cs>best.r)best={r:cd/cs,k:k,cd:cd,cs:cs};}
+  var gl=bins.slice(0,best.k+1).map(function(b){return esc(b.name);});var gname=gl.length>1?gl.slice(0,-1).join(', ')+L(' and ',' y ')+gl[gl.length-1]:gl[0],upTo='';
+  var sls=segs.map(function(x){return x.sl;}),slMin=Math.min.apply(null,sls),slMax=Math.max.apply(null,sls);
+  var d='';
+  if(best.r>1.02){
+    d=L('<b>The scarce supply is '+(gl.length>1?'grades ':'grade ')+gname+'.</b> Segments that need '+(gl.length>1?'those grades':'it')+' are '+pct(best.cd)+' of demand, but '+(gl.length>1?'together they are':'it is')+' only '+pct(best.cs)+' of output. To cover them you must start '+best.r.toFixed(2)+'× total demand; the surplus falls to lower grades.',
+        '<b>'+(gl.length>1?'El recurso escaso son los grados ':'El recurso escaso es el grado ')+gname+'.</b> Los segmentos que '+(gl.length>1?'los':'lo')+' necesitan son el '+pct(best.cd)+' de la demanda, pero '+(gl.length>1?'suman':'es')+' solo el '+pct(best.cs)+' de la salida. Para cubrirlos hay que arrancar '+best.r.toFixed(2)+' veces la demanda total; el excedente cae a grados más bajos.');
+  }else d=L('<b>The bin split covers the demand mix.</b> No grade forces overproduction.','<b>El bin split cubre la mezcla de demanda.</b> Ningún grado obliga a sobreproducir.');
+  d+=' '+L(segs.length+' segments, '+fmt(totD)+' units/week, service levels from '+slMin+'% to '+slMax+'%.',segs.length+' segmentos, '+fmt(totD)+' unidades/semana, niveles de servicio de '+slMin+'% a '+slMax+'%.');
+  setRead('rdData',d);
+
+  /* policy */
+  var rows=R.seg.map(function(x,i){return {x:x,c:R.segBuffer[i]*R.yieldMult*R.unitCost};});
+  var tot=rows.reduce(function(s,r){return s+r.c;},0)||1;
+  var top=rows.slice().sort(function(a,b){return b.c-a.c;})[0];
+  var hi=rows.filter(function(r){return r.x.sl>=97;});
+  var hiD=hi.reduce(function(s,r){return s+r.x.D;},0)/totD,hiC=hi.reduce(function(s,r){return s+r.c;},0)/tot;
+  var p=L('<b>'+esc(top.x.name)+'</b> holds the most capital: '+money(top.c)+' ('+pct(top.c/tot)+' of the buffer).','<b>'+esc(top.x.name)+'</b> concentra más capital: '+money(top.c)+' ('+pct(top.c/tot)+' del buffer).');
+  if(hi.length&&hi.length<rows.length)p+=' '+L('Segments at 97% or more are '+pct(hiD)+' of demand and '+pct(hiC)+' of buffer capital.','Los segmentos con 97% o más son el '+pct(hiD)+' de la demanda y el '+pct(hiC)+' del capital en buffer.')+(hiC>hiD*1.15?L(' They cost more than their volume: review whether all of them need that level.',' Pesan más de lo que venden: revisa si todos necesitan ese nivel.'):'');
+  setRead('rdPol',p);
+
+  /* positions */
+  var order=['wafer','die','fg'],s=[];
+  order.forEach(function(k){if(k===POS)return;var d=all[k].bufCapital-R.bufCapital,t=all[k].respL-R.respL;
+    s.push('<b>'+posName(k)+'</b> '+(d>=0?L('costs '+money(d)+' more','cuesta '+money(d)+' más'):L('costs '+money(-d)+' less','cuesta '+money(-d)+' menos'))+(Math.abs(t)<0.05?'':(t<0?L(' and ships '+wk(-t)+' sooner',' y entrega '+wk(-t)+' antes'):L(' and the customer waits '+wk(t)+' longer',' y el cliente espera '+wk(t)+' más'))));});
+  var cheapest=order.slice().sort(function(a,b){return all[a].bufCapital-all[b].bufCapital;})[0];
+  setRead('rdPos',L('Compared with '+posName(POS).toLowerCase()+', ','Frente a '+posName(POS).toLowerCase()+', ')+s.join('; ')+'. '+
+    (cheapest===POS?L('You are already at the lowest-capital position; moving down only buys speed.','Ya estás en la posición de menor capital; bajar solo compra rapidez.'):L('The lowest-capital position is '+posName(cheapest).toLowerCase()+'.','La posición de menor capital es '+posName(cheapest).toLowerCase()+'.')));
+
+  /* curve */
+  var c95=evalPosition(POS,95).bufCapital,c99=evalPosition(POS,99).bufCapital,cMax=U.bufCapital;
+  setRead('rdCurve',L('Everyone at 95% would cost '+money(c95)+'; at 99%, '+money(c99)+' (+'+pct(c99/c95-1)+'). At your highest level ('+R.maxSLall.toFixed(1)+'%) it is '+money(cMax)+'. Your mix costs '+money(R.bufCapital)+'.',
+    'Todos al 95% costaría '+money(c95)+'; al 99%, '+money(c99)+' (+'+pct(c99/c95-1)+'). A tu nivel más alto ('+R.maxSLall.toFixed(1)+'%) son '+money(cMax)+'. Tu mezcla cuesta '+money(R.bufCapital)+'.'));
+}
+
+function metric(lbl,val,sub,hero){return '<div class="metric'+(hero?' hero-metric':'')+'"><div class="metric-lbl">'+lbl+'</div><div class="metric-val">'+val+'</div><div class="metric-sub">'+sub+'</div></div>';}
+
+function renderNotes(R,U,all,allU,SE){
+  var n=[];
+  // 1. binding segment / largest consumer
+  var shares=R.seg.map(function(x,i){return {x:x,u:R.segBuffer[i]};}).sort(function(a,b){return b.u-a.u;});
+  if(R.prebin){
+    var cut=R.seg.filter(function(y){return y.req<=R.bindingGrade;}).sort(function(a,b){return b.z-a.z;})[0];
+    if(cut)n.push(L('The shared buffer is sized by <b>'+esc(cut.name)+'</b> ('+cut.sl.toFixed(1)+'%, '+esc(bins[cut.req].name)+'). Lowering that service level is what moves the total; other segments ride along.',
+      'El buffer compartido lo dimensiona <b>'+esc(cut.name)+'</b> ('+cut.sl.toFixed(1)+'%, '+esc(bins[cut.req].name)+'). Bajar ese nivel de servicio es lo que mueve el total; los demás segmentos van incluidos.'));
+  }else if(shares[0]&&R.physBuffer>0){
+    n.push(L('<b>'+esc(shares[0].x.name)+'</b> takes the largest share of the buffer ('+(shares[0].u/R.safetyFinal*100).toFixed(0)+'%).',
+      '<b>'+esc(shares[0].x.name)+'</b> es el segmento con mayor parte del buffer ('+(shares[0].u/R.safetyFinal*100).toFixed(0)+'%).'));
+  }
+  // 2. differentiation
+  var fgSave=allU.fg.bufCapital-all.fg.bufCapital,fgPct=allU.fg.bufCapital>0?fgSave/allU.fg.bufCapital*100:0;
+  var sel=U.bufCapital-R.bufCapital;
+  if(R.prebin&&sel<0.01*U.bufCapital){
+    n.push(L('At '+posName(POS).toLowerCase()+' the buffer is pooled, so different service levels by segment save almost nothing here. In finished goods they save '+money(fgSave)+' ('+fgPct.toFixed(0)+'%) against '+R.maxSLall.toFixed(1)+'% for everyone.',
+      'En '+posName(POS).toLowerCase()+' el buffer está agrupado, así que niveles de servicio distintos por segmento casi no ahorran aquí. En producto terminado ahorran '+money(fgSave)+' ('+fgPct.toFixed(0)+'%) contra '+R.maxSLall.toFixed(1)+'% para todos.'));
+  }else{
+    n.push(L('Service levels by segment cost '+money(sel)+' less here than '+R.maxSLall.toFixed(1)+'% for everyone.',
+      'Los niveles de servicio por segmento cuestan '+money(sel)+' menos aquí que '+R.maxSLall.toFixed(1)+'% para todos.'));
+  }
+  // 3. structural excess
+  if(SE[POS].units>1){
+    n.push(L('The bin split does not match the demand mix: covering demand for the scarce grade produces about '+fmt(SE[POS].units)+' extra good units of other grades per replenishment cycle ('+SE[POS].pct.toFixed(0)+'% of demand). That is '+(POS==='fg'?money(SE.fg.capital)+' in finished goods':money(SE[POS].capital)+' at this stage and '+money(SE.fg.capital)+' if finished')+'. This excess comes before any safety stock.',
+      'El bin split no coincide con la mezcla de demanda: cubrir la demanda del grado escaso produce unas '+fmt(SE[POS].units)+' unidades buenas extra de otros grados por ciclo de reposición ('+SE[POS].pct.toFixed(0)+'% de la demanda). Son '+(POS==='fg'?money(SE.fg.capital)+' en producto terminado':money(SE[POS].capital)+' en esta etapa y '+money(SE.fg.capital)+' si se terminan')+'. Este excedente es aparte del inventario de seguridad.'));
+  }
+  // 4. aggregation level
+  var fgSeg=all.fg.seg,comp=fgSeg.reduce(function(a,x){return a+Math.max(0,x.z*x.sigLTD);},0),fgU=all.fg.safetyFinal;
+  if(comp>0&&fgU/comp>1.05){
+    var extra=(fgU-comp)*(1+invNorm(all.fg.maxSLall/100)*num('y_cv')/100)*num('c_fg');
+    n.push(L('Setting safety stock per finished SKU instead of per die family multiplies it by '+(fgU/comp).toFixed(2)+' ('+money(extra)+' at finished cost), because each SKU carries its own uncertainty. Holding at the die avoids it at '+wk(num('lt_at')+num('lt_pkg'))+' of lead time.',
+      'Calcular el inventario de seguridad por SKU terminado en lugar de por familia de die lo multiplica por '+(fgU/comp).toFixed(2)+' ('+money(extra)+' a costo de terminado), porque cada SKU carga su propia incertidumbre. Tenerlo en die lo evita a cambio de '+wk(num('lt_at')+num('lt_pkg'))+' de entrega.'));
+  }
+  // 5. NPI
+  if(segs.some(function(s){return s.npi;})){
+    var base=evalPosition(POS,null,true);
+    var d=R.bufCapital-base.bufCapital;
+    n.push(L('NPI risk premium adds '+money(d)+' to this buffer. It falls to zero as maturity reaches 100%.',
+      'La prima de riesgo NPI agrega '+money(d)+' a este buffer. Baja a cero cuando la madurez llega a 100%.'));
+  }
+  $('notes').innerHTML=n.map(function(t){return '<li>'+t+'</li>';}).join('');
+}
+
+function drawFrontier(all){
+  var svg=$('frontier');var W=Math.max(300,Math.min(760,Math.round(svg.clientWidth||700))),H=200,padL=56,padB=34,padT=14,padR=18;
+  svg.setAttribute('viewBox','0 0 '+W+' '+H);
+  var pts=['wafer','die','fg'].map(function(k){return {k:k,n:posName(k),rx:all[k].respL,ry:all[k].bufCapital};});
+  var xmax=Math.max.apply(null,pts.map(function(p){return p.rx;}).concat([1]))*1.15;
+  var ymax=Math.max.apply(null,pts.map(function(p){return p.ry;}).concat([1]))*1.18;
+  function X(v){return padL+(v/xmax)*(W-padL-padR);}
+  function Y(v){return H-padB-(v/ymax)*(H-padB-padT);}
+  var g='';
+  [0.5,1].forEach(function(f){var y=Y(ymax*f);g+='<line x1="'+padL+'" y1="'+y+'" x2="'+(W-padR)+'" y2="'+y+'" stroke="#edf0f3"/><text x="'+(padL-6)+'" y="'+(y+3)+'" font-size="10" fill="#64748b" text-anchor="end">'+money(ymax*f)+'</text>';});
+  g+='<line x1="'+padL+'" y1="'+(H-padB)+'" x2="'+(W-padR)+'" y2="'+(H-padB)+'" stroke="#cfd4dc"/>';
+  [0,0.5,1].forEach(function(f){var x=X(xmax*f);g+='<text x="'+x+'" y="'+(H-padB+15)+'" font-size="10" fill="#64748b" text-anchor="middle">'+(xmax*f).toFixed(0)+'</text>';});
+  g+='<text x="'+((padL+W-padR)/2)+'" y="'+(H-4)+'" font-size="10" fill="#64748b" text-anchor="middle">'+L('Lead time to customer (weeks)','Entrega al cliente (semanas)')+'</text>';
+  var s=pts.slice().sort(function(a,b){return a.rx-b.rx;}),path='';
+  s.forEach(function(p,i){path+=(i?'L':'M')+X(p.rx).toFixed(1)+' '+Y(p.ry).toFixed(1)+' ';});
+  var dots='';
+  pts.forEach(function(p){var sel=p.k===POS,cx=X(p.rx),cy=Y(p.ry),anc=p.rx>xmax*0.6?'end':'start',tx=anc==='end'?cx-10:cx+10;
+    dots+='<circle cx="'+cx+'" cy="'+cy+'" r="'+(sel?6:4.5)+'" fill="'+(sel?'#1e4f9c':'#a9bcd9')+'"/>'+
+      '<text x="'+tx+'" y="'+(cy-6)+'" font-size="11" font-weight="600" fill="'+(sel?'#1e4f9c':'#334155')+'" text-anchor="'+anc+'">'+p.n+'</text>'+
+      '<text x="'+tx+'" y="'+(cy+8)+'" font-size="10" fill="#64748b" text-anchor="'+anc+'">'+money(p.ry)+'</text>';});
+  svg.innerHTML=g+'<path d="'+path+'" fill="none" stroke="#cfd4dc" stroke-width="1.5" stroke-dasharray="5 4"/>'+dots;
+}
+
+function drawCurve(R){
+  var svg=$('curve');var W=Math.max(300,Math.round(svg.clientWidth||700)),H=200,padB=30,padT=14,padL=60,padR=16;
+  svg.setAttribute('viewBox','0 0 '+W+' '+H);
+  var sls=[];for(var s=80;s<=99.5;s+=0.5)sls.push(s);
+  var vals=sls.map(function(v){return evalPosition(POS,v).bufCapital;});
+  var vmax=Math.max(Math.max.apply(null,vals),R.bufCapital)*1.08||1;
+  function X(i){return padL+i/(sls.length-1)*(W-padL-padR);}
+  function Y(v){return H-padB-v/vmax*(H-padB-padT);}
+  var g='';
+  [0.5,1].forEach(function(f){var y=Y(vmax*f);g+='<line x1="'+padL+'" y1="'+y+'" x2="'+(W-padR)+'" y2="'+y+'" stroke="#edf0f3"/><text x="'+(padL-6)+'" y="'+(y+3)+'" font-size="10" fill="#64748b" text-anchor="end">'+money(vmax*f)+'</text>';});
+  g+='<line x1="'+padL+'" y1="'+(H-padB)+'" x2="'+(W-padR)+'" y2="'+(H-padB)+'" stroke="#cfd4dc"/>';
+  [80,85,90,95,99].forEach(function(v){var x=X((v-80)/0.5);g+='<text x="'+x+'" y="'+(H-padB+15)+'" font-size="10" fill="#64748b" text-anchor="middle">'+v+'%</text>';});
+  var d='';vals.forEach(function(v,i){d+=(i?'L':'M')+X(i).toFixed(1)+' '+Y(v).toFixed(1)+' ';});
+  var yD=Y(R.bufCapital),iM=Math.min(sls.length-1,Math.max(0,(R.maxSLall-80)/0.5)),xM=X(iM),uM=evalPosition(POS,R.maxSLall).bufCapital,yM=Y(uM);
+  svg.innerHTML=g+'<path d="'+d+'" fill="none" stroke="#1e4f9c" stroke-width="2"/>'+
+    '<line x1="'+padL+'" y1="'+yD+'" x2="'+(W-padR)+'" y2="'+yD+'" stroke="#1f8a5b" stroke-width="1.5" stroke-dasharray="5 4"/>'+
+    '<text x="'+(padL+6)+'" y="'+(yD-6)+'" font-size="10.5" font-weight="600" fill="#1f8a5b">'+L('Your levels ','Tus niveles ')+money(R.bufCapital)+'</text>'+
+    '<circle cx="'+xM+'" cy="'+yM+'" r="4" fill="#a83246"/><text x="'+(xM-8)+'" y="'+(yM+16)+'" font-size="10.5" font-weight="600" fill="#a83246" text-anchor="end">'+R.maxSLall.toFixed(1)+'% · '+money(uM)+'</text>';
+  $('curveNote').innerHTML=L('Blue: buffer capital at '+posName(POS).toLowerCase()+' if every segment had the same service level. Green: your levels by segment. Red: everyone at your highest level ('+R.maxSLall.toFixed(1)+'%).',
+    'Azul: capital del buffer en '+posName(POS).toLowerCase()+' si todos los segmentos tuvieran el mismo nivel de servicio. Verde: tus niveles por segmento. Rojo: todos a tu nivel más alto ('+R.maxSLall.toFixed(1)+'%).');
+}
+
+/* ---------- CSV ---------- */
+function csvCell(v){v=String(v);return /[",\n]/.test(v)?'"'+v.replace(/"/g,'""')+'"':v;}
+function dl(name,text){var b=new Blob(['﻿'+text],{type:'text/csv;charset=utf-8'});var a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=name;document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove();},500);}
+function downloadInputs(){
+  var r=['bin,name,split_pct'];bins.forEach(function(b){r.push(['bin',b.name,b.split].map(csvCell).join(','));});
+  r.push('segment,min_grade,fg_skus,demand_wk,cv_pct,service_pct,npi,npi_type,npi_share_pct,npi_risk_pct,npi_maturity_pct');
+  segs.forEach(function(s){r.push([s.name,bins[s.req]?bins[s.req].name:'',s.skus,s.dem,s.cv,s.sl,s.npi?1:0,s.npi?s.npiType:'',s.npi?s.npiShare:'',s.npi?s.npiRisk:'',s.npi?s.npiMat:''].map(csvCell).join(','));});
+  dl('semis-buffer-inputs.csv',r.join('\n'));
+}
+function parseCSV(t){var rows=[],row=[],cur='',q=false;t=t.replace(/^﻿/,'');
+  for(var i=0;i<t.length;i++){var c=t[i];
+    if(q){if(c==='"'){if(t[i+1]==='"'){cur+='"';i++;}else q=false;}else cur+=c;}
+    else if(c==='"')q=true;else if(c===','||c===';'){row.push(cur);cur='';}
+    else if(c==='\n'||c==='\r'){if(c==='\r'&&t[i+1]==='\n')i++;row.push(cur);rows.push(row);row=[];cur='';}
+    else cur+=c;}
+  if(cur!==''||row.length){row.push(cur);rows.push(row);}return rows;}
+function importCSV(inp){
+  var f=inp.files&&inp.files[0];if(!f)return;
+  var rd=new FileReader();rd.onload=function(){
+    try{
+      var rows=parseCSV(String(rd.result)).filter(function(r){return r.some(function(c){return c.trim()!=='';});});
+      var nb=[],ns=[],pending=[];
+      rows.forEach(function(r){var k=r[0].trim().toLowerCase();
+        if(k==='bin'){if(r[1]&&r[1].trim().toLowerCase()!=='name')nb.push({name:r[1].trim(),split:parseFloat(r[2])||0});return;}
+        if(k==='segment'||k==='segmento')return;
+        pending.push(r);});
+      var B=nb.length?nb:bins;
+      pending.forEach(function(r){
+        var g=(r[1]||'').trim(),gi=B.map(function(b){return b.name.toLowerCase();}).indexOf(g.toLowerCase());
+        if(gi<0){var gn=parseInt(g,10);gi=isNaN(gn)?0:Math.min(B.length-1,Math.max(0,gn-1));}
+        var s={name:r[0].trim(),req:gi,skus:parseFloat(r[2])||1,dem:parseFloat(r[3])||0,cv:parseFloat(r[4])||0,sl:Math.min(99.9,Math.max(50,parseFloat(r[5])||95))};
+        if(String(r[6]).trim()==='1'){s.npi=1;s.npiType=(String(r[7]).trim()==='new')?'new':'gen';s.npiShare=parseFloat(r[8])||30;s.npiRisk=parseFloat(r[9])||(s.npiType==='new'?100:40);s.npiMat=parseFloat(r[10])||25;}
+        if(s.name)ns.push(s);});
+      if(!ns.length)throw new Error('no rows');
+      bins=B;segs=ns.slice(0,12);renderBins();renderSegs();calc();
+      if(window.lbToast)lbToast(L(ns.length+' segments imported',ns.length+' segmentos importados'));
+    }catch(e){if(window.lbToast)lbToast(L('Could not read the file. Use “Download CSV” as a template.','No se pudo leer el archivo. Usa “Descargar CSV” como plantilla.'));}
+    inp.value='';
+  };rd.readAsText(f);
+}
+function downloadResults(){
+  var R=LAST.R,r=['position,segment,min_grade,service_pct,demand_in_lt,safety_good_units,units_at_stage,capital_usd'];
+  R.seg.forEach(function(x,i){var pu=R.segBuffer[i]*R.yieldMult;r.push([POS,x.name,bins[x.req].name,x.sl,Math.round(x.meanLTD),Math.round(R.segBuffer[i]),Math.round(pu),Math.round(pu*R.unitCost)].map(csvCell).join(','));});
+  r.push('');r.push('position,lead_time_to_customer_wk,capital_your_levels_usd,capital_uniform_usd,bin_split_excess_usd');
+  ['wafer','die','fg'].forEach(function(k){r.push([k,LAST.all[k].respL.toFixed(1),Math.round(LAST.all[k].bufCapital),Math.round(LAST.allU[k].bufCapital),Math.round(LAST.SE[k].capital)].join(','));});
+  dl('semis-buffer-results.csv',r.join('\n'));
+}
+
+/* ---------- printable report ---------- */
+function exportReport(){
+  var R=LAST.R,date=new Date().toISOString().slice(0,10);
+  var css='body{font-family:Inter,-apple-system,Segoe UI,Arial,sans-serif;color:#0f1720;margin:0;padding:28px 34px;font-size:12px}h1{font-size:18px;margin:0 0 4px}.m{color:#64748b;margin-bottom:16px}table{border-collapse:collapse;width:100%;margin:8px 0 18px}th,td{border-bottom:1px solid #e2e5ea;padding:6px 8px;text-align:right}th:first-child,td:first-child{text-align:left}th{font-size:10px;text-transform:uppercase;color:#64748b}h2{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:#64748b;margin:18px 0 4px}li{margin:4px 0}.f{color:#94a3b8;font-size:10px;margin-top:20px}.a{margin-top:14px}button{padding:7px 14px;border-radius:6px;border:0;background:#1e4f9c;color:#fff;font-weight:600;cursor:pointer}@media print{.a{display:none}@page{size:A4;margin:12mm}}';
+  var html='<!doctype html><html><head><meta charset="utf-8"><title>'+L('Semiconductor buffer','Buffer semiconductores')+' · '+date+'<\/title><style>'+css+'<\/style><\/head><body>'+
+    '<h1>'+L('Semiconductor Buffer Optimizer','Optimizador de Buffer para Semiconductores')+'</h1><div class="m">Mr. Supply Chain® México · Labs · '+date+' · '+L('Position: ','Posición: ')+posName(POS)+' · '+L('Grade fixed at ','Grado fijado en ')+(GRADEFIX==='sort'?'wafer sort':'final test')+'</div>'+
+    '<div>'+document.getElementById('metricStrip').innerText.replace(/\n+/g,' · ')+'</div>'+
+    '<h2>'+L('Policy by segment','Política por segmento')+'</h2><table>'+$('polTable').innerHTML.replace(/<span class="sb-bar">.*?<\/span>/g,'')+'</table>'+
+    '<h2>'+L('Positions','Posiciones')+'</h2><table>'+$('posTable').innerHTML+'</table>'+
+    '<h2>'+L('Notes','Lectura')+'</h2><ul>'+$('notes').innerHTML+'</ul>'+
+    '<div class="f">'+L('Screening model for target setting; not a replacement for stochastic simulation. mrsupplychain.ai/labs/semis-buffer/','Modelo de primer corte para fijar metas; no sustituye una simulación estocástica. mrsupplychain.ai/labs/semis-buffer/')+'</div>'+
+    '<div class="a"><button onclick="window.print()">'+L('Print / Save PDF','Imprimir / Guardar PDF')+'</button></div><\/body><\/html>';
+  var w=window.open('','sb_report','width=1000,height=800,scrollbars=yes');
+  if(w){w.document.write(html);w.document.close();w.focus();}
+}
+
+/* ---------- init ---------- */
+INPUT_IDS.forEach(function(id){$(id).addEventListener('input',calc);});
+(function(){var st=null;try{st=JSON.parse(localStorage.getItem(KEY)||'null');}catch(e){}
+  if(!st||!st.bins||!st.segs||!st.bins.length||!st.segs.length)st=clone(EXAMPLE);load(st);calc();})();
+(function(){var last=isES();new MutationObserver(function(){var now=isES();if(now===last)return;last=now;renderBins();renderSegs();calc();}).observe(document.documentElement,{attributes:true,attributeFilter:['class']});})();
+var rT;window.addEventListener('resize',function(){clearTimeout(rT);rT=setTimeout(function(){if(LAST){drawFrontier(LAST.all);drawCurve(LAST.R);}},150);});
+
+</script>
+<script>/* msc title i18n */(function(){var en=document.title,es="Optimizador de Buffer para Semiconductores \u00b7 Labs \u00b7 Mr. Supply Chain\u00ae México";function u(){document.title=document.documentElement.classList.contains("msc-es")?es:en}u();new MutationObserver(u).observe(document.documentElement,{attributes:true,attributeFilter:["class"]})})();</script>
+<script src="/assets/labs.js?v=1"></script>
+</body>
+</html>
