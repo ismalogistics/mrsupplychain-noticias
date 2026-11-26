@@ -1,0 +1,102 @@
+{
+ "id": "2026-11-26-apertura-global",
+ "fecha": "2026-11-26",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:09 CDMX",
+ "es": {
+  "titular": "Sin Wall Street por Acción de Gracias, Europa sube 2.2% y el Brent llega a 96 dólares por los ataques en Ormuz",
+  "esencial": [
+   "Hoy no operan las bolsas de EE. UU.; a las 8:54 CDMX el Euro Stoxx 50 subía 2.16% y el DAX 2.23%, y los futuros del S&P 500 subían 0.76%.",
+   "El Brent de enero subía 1.6% a 96.08 dólares tras ataques con minas a barcos en el estrecho de Ormuz; las minutas del BCE muestran que muchos miembros habrían apoyado un alza en octubre.",
+   "Para supply chain: el petróleo sube por tercer día y la OPEP+ decide su producción de 2027 el domingo; no cierres recargos de combustible a precio fijo antes."
+  ],
+  "bloques": [
+   {
+    "t": "Cómo abrió",
+    "x": "Hoy no operan las bolsas ni el mercado de bonos de EE. UU. por el Día de Acción de Gracias. A las 8:54 CDMX Europa subía con fuerza: Euro Stoxx 50 +2.16% (6,021.89), DAX +2.23%, CAC 40 +1.80% y FTSE 100 +1.86%. A las 8:59 CDMX los futuros del S&P 500 subían 0.76%, los del Nasdaq 100 0.77% y los del Dow 0.56%; el VIX bajaba a 26.9. En Asia, el Nikkei cerró con +0.86% y el KOSPI con +0.29%; Kioxia subió 14% tras una colaboración con Nvidia."
+   },
+   {
+    "t": "Lo que mueve al mercado",
+    "x": "El Brent de enero subía 1.6% a 96.08 dólares y el WTI 1.1% a 84.56 a las 8:59 CDMX, por tercer día, después de que los hutíes dijeron que atacaron la refinería saudí de Ras Tanura y al menos dos barcos chocaron con minas iraníes en el estrecho de Ormuz, según Reuters. Las minutas del BCE muestran que un número grande de miembros habría apoyado subir las tasas en octubre; la inflación de la zona euro fue de 4% en octubre. El Banco de Corea subió su tasa a 3.25%. El oro subía 1.2%, la plata 3.5% y el cobre 0.9% a 5.47 dólares por libra."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana viernes Wall Street opera hasta las 12:00 CDMX y arranca la temporada de compras de fin de año. La OPEP+ se reúne el domingo 29 para definir su producción de 2027. El martes 1 de diciembre sale el ISM manufacturero de EE. UU."
+   }
+  ],
+  "scm": "El petróleo sube por tercer día con los ataques en Ormuz: mantén el ajuste semanal del recargo de combustible y espera a la reunión de la OPEP+ del domingo antes de fijar tarifas de diciembre."
+ },
+ "en": {
+  "titular": "With Wall Street closed for Thanksgiving, Europe rises 2.2% and Brent reaches $96 on the Hormuz attacks",
+  "esencial": [
+   "US markets are closed today; at 9:54 a.m. ET the Euro Stoxx 50 was up 2.16% and the DAX 2.23%, and S&P 500 futures were up 0.76%.",
+   "January Brent rose 1.6% to $96.08 after mine strikes on ships in the Strait of Hormuz; ECB minutes show many members could have backed a hike in October.",
+   "For supply chain: oil rises for a third day and OPEC+ decides its 2027 output on Sunday; do not lock fuel surcharges at a fixed price before then."
+  ],
+  "bloques": [
+   {
+    "t": "How it opened",
+    "x": "US stock and bond markets are closed today for Thanksgiving. At 9:54 a.m. ET Europe was sharply higher: Euro Stoxx 50 +2.16% (6,021.89), DAX +2.23%, CAC 40 +1.80% and FTSE 100 +1.86%. At 9:59 a.m. ET S&P 500 futures were up 0.76%, Nasdaq 100 futures 0.77% and Dow futures 0.56%; the VIX fell to 26.9. In Asia, the Nikkei closed +0.86% and the KOSPI +0.29%; Kioxia rose 14% after a collaboration with Nvidia."
+   },
+   {
+    "t": "What is moving the market",
+    "x": "January Brent rose 1.6% to $96.08 and WTI 1.1% to $84.56 at 9:59 a.m. ET, for a third day, after the Houthis said they attacked Saudi Arabia’s Ras Tanura refinery and at least two ships struck Iranian mines in the Strait of Hormuz, according to Reuters. ECB minutes show a large number of members could have backed a rate hike in October; eurozone inflation was 4% in October. The Bank of Korea raised its rate to 3.25%. Gold rose 1.2%, silver 3.5% and copper 0.9% to $5.47 per pound."
+   },
+   {
+    "t": "What to expect",
+    "x": "Tomorrow, Friday, Wall Street trades until 1:00 p.m. ET and the holiday shopping season begins. OPEC+ meets on Sunday the 29th to set its 2027 output. The US ISM manufacturing index comes out on Tuesday, December 1."
+   }
+  ],
+  "scm": "Oil rises for a third day on the Hormuz attacks: keep weekly fuel surcharge adjustments and wait for Sunday’s OPEC+ meeting before setting December rates."
+ },
+ "pt": {
+  "titular": "Sem Wall Street pelo Dia de Ação de Graças, a Europa sobe 2,2% e o Brent chega a 96 dólares pelos ataques em Ormuz",
+  "esencial": [
+   "Hoje as bolsas dos EUA não operam; às 8h54 (Cidade do México) o Euro Stoxx 50 subia 2,16% e o DAX 2,23%, e os futuros do S&P 500 subiam 0,76%.",
+   "O Brent de janeiro subia 1,6% para 96,08 dólares após ataques com minas a navios no estreito de Ormuz; as atas do BCE mostram que muitos membros teriam apoiado uma alta em outubro.",
+   "Para supply chain: o petróleo sobe pelo terceiro dia e a OPEP+ decide sua produção de 2027 no domingo; não feche sobretaxas de combustível a preço fixo antes disso."
+  ],
+  "bloques": [
+   {
+    "t": "Como abriu",
+    "x": "Hoje as bolsas e o mercado de títulos dos EUA não operam pelo Dia de Ação de Graças. Às 8h54 (Cidade do México) a Europa subia forte: Euro Stoxx 50 +2,16% (6.021,89), DAX +2,23%, CAC 40 +1,80% e FTSE 100 +1,86%. Às 8h59 os futuros do S&P 500 subiam 0,76%, os do Nasdaq 100 0,77% e os do Dow 0,56%; o VIX caía para 26,9. Na Ásia, o Nikkei fechou com +0,86% e o KOSPI com +0,29%; a Kioxia subiu 14% após uma colaboração com a Nvidia."
+   },
+   {
+    "t": "O que move o mercado",
+    "x": "O Brent de janeiro subia 1,6% para 96,08 dólares e o WTI 1,1% para 84,56 às 8h59 (Cidade do México), pelo terceiro dia, depois que os houthis disseram ter atacado a refinaria saudita de Ras Tanura e pelo menos dois navios bateram em minas iranianas no estreito de Ormuz, segundo a Reuters. As atas do BCE mostram que um grande número de membros teria apoiado subir os juros em outubro; a inflação da zona do euro foi de 4% em outubro. O Banco da Coreia elevou sua taxa para 3,25%. O ouro subia 1,2%, a prata 3,5% e o cobre 0,9% para 5,47 dólares por libra."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã, sexta, Wall Street opera até as 12h00 (Cidade do México) e começa a temporada de compras de fim de ano. A OPEP+ se reúne no domingo, dia 29, para definir a produção de 2027. Na terça, 1º de dezembro, sai o ISM industrial dos EUA."
+   }
+  ],
+  "scm": "O petróleo sobe pelo terceiro dia com os ataques em Ormuz: mantenha o ajuste semanal da sobretaxa de combustível e espere a reunião da OPEP+ de domingo antes de fixar tarifas de dezembro."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters: el petróleo sube tras ataques con minas a barcos en Ormuz (26 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-rises-supply-concerns-iran-030849858.html"
+  },
+  {
+   "t": "Investing.com: las minutas del BCE muestran que muchos miembros habrían apoyado un alza en octubre (26 nov 2026)",
+   "u": "https://finance.yahoo.com/economy/policy/articles/ecb-minutes-show-large-number-141140980.html"
+  },
+  {
+   "t": "Mydaily: el Banco de Corea sube su tasa 0.25 puntos, a 3.25% (26 nov 2026)",
+   "u": "https://www.mydaily.co.kr/page/view/2026112609455703534"
+  },
+  {
+   "t": "Investing.com: Kioxia sube 14% tras una colaboración con Nvidia y rebotan los chips (26 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/kioxia-jumps-14-nvidia-collaboration-062844097.html"
+  },
+  {
+   "t": "The Wall Street Journal: la OPEP+ enfrenta decisiones difíciles con un superávit en aumento (26 nov 2026)",
+   "u": "https://finance.yahoo.com/m/91da27c4-8363-3144-b4ea-34a161403eca/opec%2C-allies-face-tough.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 09:09 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

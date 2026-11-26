@@ -1,197 +1,195 @@
 {
- "actualizado": "2026-11-26T11:10:16Z",
- "momento": "premercado",
+ "actualizado": "2026-11-26T15:12:34Z",
+ "momento": "apertura",
  "briefs": {
   "global": {
-   "id": "2026-11-26-premercado-global",
+   "id": "2026-11-26-apertura-global",
    "fecha": "2026-11-26",
-   "momento": "premercado",
+   "momento": "apertura",
    "mercado": "global",
-   "hora": "05:08 CDMX",
-   "fin_de_semana": false,
+   "hora": "09:09 CDMX",
    "es": {
-    "titular": "Wall Street cierra por Acción de Gracias; Europa sube 1.9%, Corea sube su tasa a 3.25% y el Brent llega a 95 dólares",
+    "titular": "Sin Wall Street por Acción de Gracias, Europa sube 2.2% y el Brent llega a 96 dólares por los ataques en Ormuz",
     "esencial": [
-     "Hoy no operan las bolsas de EE. UU. por el Día de Acción de Gracias; a las 4:53 CDMX el Euro Stoxx 50 subía 1.89% y los futuros del S&P 500 0.32%.",
-     "El Banco de Corea subió su tasa 0.25 puntos, a 3.25%, su tercera alza del año; el Nikkei subió 0.86% con el rebote de los chips japoneses.",
-     "Para supply chain: el Brent de enero sube a 95.01 dólares tras ataques con minas a barcos en Ormuz; no cierres recargos de combustible antes de la OPEP+ del domingo."
+     "Hoy no operan las bolsas de EE. UU.; a las 8:54 CDMX el Euro Stoxx 50 subía 2.16% y el DAX 2.23%, y los futuros del S&P 500 subían 0.76%.",
+     "El Brent de enero subía 1.6% a 96.08 dólares tras ataques con minas a barcos en el estrecho de Ormuz; las minutas del BCE muestran que muchos miembros habrían apoyado un alza en octubre.",
+     "Para supply chain: el petróleo sube por tercer día y la OPEP+ decide su producción de 2027 el domingo; no cierres recargos de combustible a precio fijo antes."
     ],
     "bloques": [
      {
-      "t": "Lo que pasó desde el cierre",
-      "x": "Ayer el S&P 500 cerró con −0.25%, el Nasdaq con −0.62% y el Dow con +0.33%, tras recuperar casi todo lo que perdió en la apertura. En la noche, el Banco de Corea subió su tasa 0.25 puntos, a 3.25%, su tercera alza del año, según Mydaily. Naoki Tamura, del Banco de Japón, dijo que el banco podría acelerar sus alzas y no descartó una de 0.50 puntos, según Reuters. Los hutíes de Yemen dijeron que atacaron la refinería saudí de Ras Tanura y al menos dos barcos chocaron con minas iraníes en el estrecho de Ormuz, según Reuters. Kioxia subió 14% tras anunciar una colaboración con Nvidia para ampliar la memoria de los GPU con discos de estado sólido."
+      "t": "Cómo abrió",
+      "x": "Hoy no operan las bolsas ni el mercado de bonos de EE. UU. por el Día de Acción de Gracias. A las 8:54 CDMX Europa subía con fuerza: Euro Stoxx 50 +2.16% (6,021.89), DAX +2.23%, CAC 40 +1.80% y FTSE 100 +1.86%. A las 8:59 CDMX los futuros del S&P 500 subían 0.76%, los del Nasdaq 100 0.77% y los del Dow 0.56%; el VIX bajaba a 26.9. En Asia, el Nikkei cerró con +0.86% y el KOSPI con +0.29%; Kioxia subió 14% tras una colaboración con Nvidia."
      },
      {
-      "t": "Asia, Europa y futuros",
-      "x": "Asia cerró mixta: Nikkei +0.86% (57,499.16), KOSPI +0.29% (4,711.21), Hang Seng +0.03% y Shanghái −2.01%. A las 4:53 CDMX Europa subía con fuerza: Euro Stoxx 50 +1.89% (6,006.08), DAX +1.84%, CAC 40 +1.72% y FTSE 100 +1.42%. A las 4:58 CDMX los futuros del S&P 500 subían 0.32%, los del Nasdaq 100 0.17% y los del Dow 0.15%; el VIX bajaba a 27.5. El Brent de enero subía 0.4% a 95.01 dólares y el WTI 0.9% a 84.43 (hoy no hay liquidación del WTI); el oro subía 0.5%, la plata 2.6% y el cobre 0.5% a 5.45 dólares por libra."
+      "t": "Lo que mueve al mercado",
+      "x": "El Brent de enero subía 1.6% a 96.08 dólares y el WTI 1.1% a 84.56 a las 8:59 CDMX, por tercer día, después de que los hutíes dijeron que atacaron la refinería saudí de Ras Tanura y al menos dos barcos chocaron con minas iraníes en el estrecho de Ormuz, según Reuters. Las minutas del BCE muestran que un número grande de miembros habría apoyado subir las tasas en octubre; la inflación de la zona euro fue de 4% en octubre. El Banco de Corea subió su tasa a 3.25%. El oro subía 1.2%, la plata 3.5% y el cobre 0.9% a 5.47 dólares por libra."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "Hoy no operan las bolsas ni el mercado de bonos de EE. UU. por el Día de Acción de Gracias, y no hay datos económicos de EE. UU. El viernes 27 Wall Street opera hasta las 12:00 CDMX y arranca la temporada de compras de fin de año. La OPEP+ se reúne el domingo 29 para definir su producción de 2027."
+      "t": "Qué se espera",
+      "x": "Mañana viernes Wall Street opera hasta las 12:00 CDMX y arranca la temporada de compras de fin de año. La OPEP+ se reúne el domingo 29 para definir su producción de 2027. El martes 1 de diciembre sale el ISM manufacturero de EE. UU."
      }
     ],
-    "scm": "Con Wall Street cerrado, el día lo mueven Europa, el petróleo y las monedas. El Brent sube por tercer día tras los ataques en Ormuz: mantén el ajuste semanal del recargo de combustible y confirma hoy los cruces y recolecciones de mañana."
+    "scm": "El petróleo sube por tercer día con los ataques en Ormuz: mantén el ajuste semanal del recargo de combustible y espera a la reunión de la OPEP+ del domingo antes de fijar tarifas de diciembre."
    },
    "en": {
-    "titular": "Wall Street is closed for Thanksgiving; Europe rises 1.9%, Korea raises its rate to 3.25% and Brent reaches $95",
+    "titular": "With Wall Street closed for Thanksgiving, Europe rises 2.2% and Brent reaches $96 on the Hormuz attacks",
     "esencial": [
-     "US markets are closed today for Thanksgiving; at 5:53 a.m. ET the Euro Stoxx 50 was up 1.89% and S&P 500 futures 0.32%.",
-     "The Bank of Korea raised its rate 0.25 points to 3.25%, its third hike of the year; the Nikkei rose 0.86% on a rebound in Japanese chips.",
-     "For supply chain: January Brent rises to $95.01 after mine strikes on ships in Hormuz; do not lock fuel surcharges before Sunday’s OPEC+ meeting."
+     "US markets are closed today; at 9:54 a.m. ET the Euro Stoxx 50 was up 2.16% and the DAX 2.23%, and S&P 500 futures were up 0.76%.",
+     "January Brent rose 1.6% to $96.08 after mine strikes on ships in the Strait of Hormuz; ECB minutes show many members could have backed a hike in October.",
+     "For supply chain: oil rises for a third day and OPEC+ decides its 2027 output on Sunday; do not lock fuel surcharges at a fixed price before then."
     ],
     "bloques": [
      {
-      "t": "What happened since the close",
-      "x": "Yesterday the S&P 500 closed −0.25%, the Nasdaq −0.62% and the Dow +0.33%, after recovering almost all of its losses from the open. Overnight, the Bank of Korea raised its rate 0.25 points to 3.25%, its third hike of the year, according to Mydaily. Naoki Tamura of the Bank of Japan said the bank could accelerate its hikes and did not rule out a 0.50-point move, according to Reuters. Yemen’s Houthis said they attacked Saudi Arabia’s Ras Tanura refinery and at least two ships struck Iranian mines in the Strait of Hormuz, according to Reuters. Kioxia rose 14% after announcing a collaboration with Nvidia to extend GPU memory with solid-state drives."
+      "t": "How it opened",
+      "x": "US stock and bond markets are closed today for Thanksgiving. At 9:54 a.m. ET Europe was sharply higher: Euro Stoxx 50 +2.16% (6,021.89), DAX +2.23%, CAC 40 +1.80% and FTSE 100 +1.86%. At 9:59 a.m. ET S&P 500 futures were up 0.76%, Nasdaq 100 futures 0.77% and Dow futures 0.56%; the VIX fell to 26.9. In Asia, the Nikkei closed +0.86% and the KOSPI +0.29%; Kioxia rose 14% after a collaboration with Nvidia."
      },
      {
-      "t": "Asia, Europe and futures",
-      "x": "Asia closed mixed: Nikkei +0.86% (57,499.16), KOSPI +0.29% (4,711.21), Hang Seng +0.03% and Shanghai −2.01%. At 5:53 a.m. ET Europe was sharply higher: Euro Stoxx 50 +1.89% (6,006.08), DAX +1.84%, CAC 40 +1.72% and FTSE 100 +1.42%. At 5:58 a.m. ET S&P 500 futures were up 0.32%, Nasdaq 100 futures 0.17% and Dow futures 0.15%; the VIX fell to 27.5. January Brent rose 0.4% to $95.01 and WTI 0.9% to $84.43 (no WTI settlement today); gold rose 0.5%, silver 2.6% and copper 0.5% to $5.45 per pound."
+      "t": "What is moving the market",
+      "x": "January Brent rose 1.6% to $96.08 and WTI 1.1% to $84.56 at 9:59 a.m. ET, for a third day, after the Houthis said they attacked Saudi Arabia’s Ras Tanura refinery and at least two ships struck Iranian mines in the Strait of Hormuz, according to Reuters. ECB minutes show a large number of members could have backed a rate hike in October; eurozone inflation was 4% in October. The Bank of Korea raised its rate to 3.25%. Gold rose 1.2%, silver 3.5% and copper 0.9% to $5.47 per pound."
      },
      {
-      "t": "What to expect today",
-      "x": "US stock and bond markets are closed today for Thanksgiving, and there are no US economic releases. On Friday the 27th Wall Street trades until 1:00 p.m. ET and the holiday shopping season begins. OPEC+ meets on Sunday the 29th to set its 2027 output."
+      "t": "What to expect",
+      "x": "Tomorrow, Friday, Wall Street trades until 1:00 p.m. ET and the holiday shopping season begins. OPEC+ meets on Sunday the 29th to set its 2027 output. The US ISM manufacturing index comes out on Tuesday, December 1."
      }
     ],
-    "scm": "With Wall Street closed, Europe, oil and currencies drive the day. Brent rises for a third day after the Hormuz attacks: keep weekly fuel surcharge adjustments and confirm tomorrow’s crossings and pickups today."
+    "scm": "Oil rises for a third day on the Hormuz attacks: keep weekly fuel surcharge adjustments and wait for Sunday’s OPEC+ meeting before setting December rates."
    },
    "pt": {
-    "titular": "Wall Street fecha pelo Dia de Ação de Graças; a Europa sobe 1,9%, a Coreia eleva a taxa para 3,25% e o Brent chega a 95 dólares",
+    "titular": "Sem Wall Street pelo Dia de Ação de Graças, a Europa sobe 2,2% e o Brent chega a 96 dólares pelos ataques em Ormuz",
     "esencial": [
-     "Hoje as bolsas dos EUA não operam pelo Dia de Ação de Graças; às 4h53 (Cidade do México) o Euro Stoxx 50 subia 1,89% e os futuros do S&P 500 0,32%.",
-     "O Banco da Coreia elevou sua taxa em 0,25 ponto, para 3,25%, sua terceira alta do ano; o Nikkei subiu 0,86% com o repique dos chips japoneses.",
-     "Para supply chain: o Brent de janeiro sobe para 95,01 dólares após ataques com minas a navios em Ormuz; não feche sobretaxas de combustível antes da OPEP+ de domingo."
+     "Hoje as bolsas dos EUA não operam; às 8h54 (Cidade do México) o Euro Stoxx 50 subia 2,16% e o DAX 2,23%, e os futuros do S&P 500 subiam 0,76%.",
+     "O Brent de janeiro subia 1,6% para 96,08 dólares após ataques com minas a navios no estreito de Ormuz; as atas do BCE mostram que muitos membros teriam apoiado uma alta em outubro.",
+     "Para supply chain: o petróleo sobe pelo terceiro dia e a OPEP+ decide sua produção de 2027 no domingo; não feche sobretaxas de combustível a preço fixo antes disso."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu desde o fechamento",
-      "x": "Ontem o S&P 500 fechou com −0,25%, o Nasdaq com −0,62% e o Dow com +0,33%, depois de recuperar quase tudo o que perdeu na abertura. Durante a noite, o Banco da Coreia elevou sua taxa em 0,25 ponto, para 3,25%, sua terceira alta do ano, segundo o Mydaily. Naoki Tamura, do Banco do Japão, disse que o banco pode acelerar as altas e não descartou uma de 0,50 ponto, segundo a Reuters. Os houthis do Iêmen disseram ter atacado a refinaria saudita de Ras Tanura e pelo menos dois navios bateram em minas iranianas no estreito de Ormuz, segundo a Reuters. A Kioxia subiu 14% após anunciar uma colaboração com a Nvidia para ampliar a memória das GPUs com discos de estado sólido."
+      "t": "Como abriu",
+      "x": "Hoje as bolsas e o mercado de títulos dos EUA não operam pelo Dia de Ação de Graças. Às 8h54 (Cidade do México) a Europa subia forte: Euro Stoxx 50 +2,16% (6.021,89), DAX +2,23%, CAC 40 +1,80% e FTSE 100 +1,86%. Às 8h59 os futuros do S&P 500 subiam 0,76%, os do Nasdaq 100 0,77% e os do Dow 0,56%; o VIX caía para 26,9. Na Ásia, o Nikkei fechou com +0,86% e o KOSPI com +0,29%; a Kioxia subiu 14% após uma colaboração com a Nvidia."
      },
      {
-      "t": "Ásia, Europa e futuros",
-      "x": "A Ásia fechou mista: Nikkei +0,86% (57.499,16), KOSPI +0,29% (4.711,21), Hang Seng +0,03% e Xangai −2,01%. Às 4h53 (Cidade do México) a Europa subia forte: Euro Stoxx 50 +1,89% (6.006,08), DAX +1,84%, CAC 40 +1,72% e FTSE 100 +1,42%. Às 4h58 os futuros do S&P 500 subiam 0,32%, os do Nasdaq 100 0,17% e os do Dow 0,15%; o VIX caía para 27,5. O Brent de janeiro subia 0,4% para 95,01 dólares e o WTI 0,9% para 84,43 (hoje não há liquidação do WTI); o ouro subia 0,5%, a prata 2,6% e o cobre 0,5% para 5,45 dólares por libra."
+      "t": "O que move o mercado",
+      "x": "O Brent de janeiro subia 1,6% para 96,08 dólares e o WTI 1,1% para 84,56 às 8h59 (Cidade do México), pelo terceiro dia, depois que os houthis disseram ter atacado a refinaria saudita de Ras Tanura e pelo menos dois navios bateram em minas iranianas no estreito de Ormuz, segundo a Reuters. As atas do BCE mostram que um grande número de membros teria apoiado subir os juros em outubro; a inflação da zona do euro foi de 4% em outubro. O Banco da Coreia elevou sua taxa para 3,25%. O ouro subia 1,2%, a prata 3,5% e o cobre 0,9% para 5,47 dólares por libra."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Hoje as bolsas e o mercado de títulos dos EUA não operam pelo Dia de Ação de Graças, e não há dados econômicos dos EUA. Na sexta, dia 27, Wall Street opera até as 12h00 (Cidade do México) e começa a temporada de compras de fim de ano. A OPEP+ se reúne no domingo, dia 29, para definir a produção de 2027."
+      "t": "O que se espera",
+      "x": "Amanhã, sexta, Wall Street opera até as 12h00 (Cidade do México) e começa a temporada de compras de fim de ano. A OPEP+ se reúne no domingo, dia 29, para definir a produção de 2027. Na terça, 1º de dezembro, sai o ISM industrial dos EUA."
      }
     ],
-    "scm": "Com Wall Street fechada, o dia é movido pela Europa, pelo petróleo e pelas moedas. O Brent sobe pelo terceiro dia após os ataques em Ormuz: mantenha o ajuste semanal da sobretaxa de combustível e confirme hoje as travessias e coletas de amanhã."
+    "scm": "O petróleo sobe pelo terceiro dia com os ataques em Ormuz: mantenha o ajuste semanal da sobretaxa de combustível e espere a reunião da OPEP+ de domingo antes de fixar tarifas de dezembro."
    },
    "fuentes": [
     {
-     "t": "Reuters: el petróleo sube por temores de oferta tras ataques con minas en Ormuz (26 nov 2026)",
+     "t": "Reuters: el petróleo sube tras ataques con minas a barcos en Ormuz (26 nov 2026)",
      "u": "https://finance.yahoo.com/energy/articles/oil-rises-supply-concerns-iran-030849858.html"
+    },
+    {
+     "t": "Investing.com: las minutas del BCE muestran que muchos miembros habrían apoyado un alza en octubre (26 nov 2026)",
+     "u": "https://finance.yahoo.com/economy/policy/articles/ecb-minutes-show-large-number-141140980.html"
     },
     {
      "t": "Mydaily: el Banco de Corea sube su tasa 0.25 puntos, a 3.25% (26 nov 2026)",
      "u": "https://www.mydaily.co.kr/page/view/2026112609455703534"
     },
     {
-     "t": "Financial News: el Banco de Corea sube a 3.25% y eleva su pronóstico de crecimiento (26 nov 2026)",
-     "u": "https://www.fnnews.com/news/202611261002322163"
-    },
-    {
-     "t": "Reuters: Tamura, del Banco de Japón, abre la puerta a alzas de tasas más rápidas (26 nov 2026)",
-     "u": "https://finance.yahoo.com/economy/policy/articles/bojs-tamura-signals-chance-faster-013537147.html"
-    },
-    {
      "t": "Investing.com: Kioxia sube 14% tras una colaboración con Nvidia y rebotan los chips (26 nov 2026)",
      "u": "https://finance.yahoo.com/markets/stocks/articles/kioxia-jumps-14-nvidia-collaboration-062844097.html"
     },
     {
-     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 05:08 CDMX)",
+     "t": "The Wall Street Journal: la OPEP+ enfrenta decisiones difíciles con un superávit en aumento (26 nov 2026)",
+     "u": "https://finance.yahoo.com/m/91da27c4-8363-3144-b4ea-34a161403eca/opec%2C-allies-face-tough.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 09:09 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-26-premercado-latam",
+   "id": "2026-11-26-apertura-latam",
    "fecha": "2026-11-26",
-   "momento": "premercado",
+   "momento": "apertura",
    "mercado": "latam",
-   "hora": "05:08 CDMX",
-   "fin_de_semana": false,
+   "hora": "09:09 CDMX",
    "es": {
-    "titular": "Brasil rechaza los aranceles propuestos a sus aviones y su azúcar; la región opera aunque Wall Street cierra",
+    "titular": "El Ibovespa sube 4% con el alivio por los aranceles y una inflación menor; el real se fortalece a 5.73",
     "esencial": [
-     "Ayer el Ibovespa cerró con +1.58% (166,684.61) y el S&P/TSX de Canadá con +0.64%; los ETF de MSCI subieron 1.7% en Argentina y 1.2% en Perú.",
-     "El gobierno de Brasil calificó de inaceptable la propuesta de EE. UU. de un arancel de 10% a los aviones terminados, que pegaría a Embraer, según Reuters.",
-     "Para supply chain: si compras aviones regionales o refacciones de Brasil, revisa contratos y entregas antes de enero."
+     "A las 8:54 CDMX el Ibovespa subía 4.04% (173,415.33) y el S&P/TSX de Canadá 0.61%.",
+     "El IPCA-15 de Brasil subió 0.22% en noviembre, contra 0.34% esperado, y los inversionistas ven los aranceles de EE. UU. menos severos de lo temido, según InfoMoney.",
+     "Para supply chain: el dólar baja a 5.73 reales (−1.5%) y 3,495 pesos colombianos (−1.6%); aprovecha para cubrir pagos en esas monedas."
     ],
     "bloques": [
      {
-      "t": "Lo que pasó desde el cierre",
-      "x": "Ayer el Ibovespa cerró en 166,684.61 (+1.58%) y el S&P/TSX de Canadá en 34,179.99 (+0.64%). Los ETF de MSCI cerraron con +1.73% en Argentina, +1.20% en Perú y −0.18% en Chile. El gobierno de Brasil calificó de inaceptable la propuesta de EE. UU. de un arancel de 10% a los aviones terminados y uno nuevo al azúcar fuera de cuota; los aviones son la cuarta exportación de Brasil a EE. UU., según Reuters. Embraer tiene pedidos firmes de unos 160 jets E175 para aerolíneas de EE. UU."
+      "t": "Cómo abrió",
+      "x": "A las 8:54 CDMX el Ibovespa subía 4.04% a 173,415.33 y a las 9:09 el S&P/TSX de Canadá subía 0.61% a 34,389.23. A las 9:09 CDMX el dólar bajaba a 5.73 reales (−1.48%), 3,495 pesos colombianos (−1.63%) y 1,036 pesos chilenos (−0.25%)."
      },
      {
-      "t": "Contexto",
-      "x": "A las 5:08 CDMX el dólar estaba en 5.82 reales (+0.04%), 1,041 pesos chilenos (+0.32%) y 3,554 pesos colombianos (sin cambio). El cobre subía 0.5% a 5.45 dólares por libra y la plata 2.6%. El petróleo sube por tercer día tras los ataques en Ormuz; en Brasil, el campo Bacalhau sigue detenido."
+      "t": "Lo que mueve al mercado",
+      "x": "En Brasil, el IPCA-15 de noviembre subió 0.22%, abajo del 0.34% esperado, y los inversionistas consideran que los nuevos aranceles de EE. UU. son menos severos de lo esperado, según InfoMoney. EE. UU. propuso a Brasil un arancel de 10% a los aviones terminados, que pegaría a Embraer, y uno nuevo al azúcar fuera de cuota; el gobierno brasileño lo calificó de inaceptable, según Reuters. Los metales suben: la plata 3.5% y el cobre 0.9%."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "Los mercados de la región operan aunque Wall Street cierra por el Día de Acción de Gracias. Mañana viernes Wall Street opera hasta las 12:00 CDMX y el domingo 29 se reúne la OPEP+."
+      "t": "Qué se espera",
+      "x": "Mañana viernes Wall Street opera hasta las 12:00 CDMX y el INEGI publica la balanza comercial de México. La OPEP+ se reúne el domingo 29."
      }
     ],
-    "scm": "Si compras aviones regionales, refacciones aeronáuticas o azúcar de Brasil, revisa contratos y fechas de entrega antes de enero; con liquidez baja hoy, escalona los pagos en monedas de la región."
+    "scm": "Con el real y el peso colombiano más fuertes, cubre hoy tus pagos en esas monedas. Si compras jets regionales o refacciones de Brasil, revisa contratos y entregas antes de enero."
    },
    "en": {
-    "titular": "Brazil rejects the proposed tariffs on its aircraft and sugar; the region trades although Wall Street is closed",
+    "titular": "The Ibovespa rises 4% on tariff relief and lower inflation; the real strengthens to 5.73",
     "esencial": [
-     "Yesterday the Ibovespa closed +1.58% (166,684.61) and Canada's S&P/TSX +0.64%; the MSCI ETFs rose 1.7% for Argentina and 1.2% for Peru.",
-     "Brazil's government called unacceptable the US proposal of a 10% tariff on finished aircraft, which would hit Embraer, according to Reuters.",
-     "For supply chain: if you buy regional jets or parts from Brazil, review contracts and deliveries before January."
+     "At 9:54 a.m. ET the Ibovespa rose 4.04% (173,415.33) and Canada's S&P/TSX 0.61%.",
+     "Brazil's IPCA-15 rose 0.22% in November versus 0.34% expected, and investors see the US tariffs as less severe than feared, according to InfoMoney.",
+     "For supply chain: the dollar falls to 5.73 reais (−1.5%) and 3,495 Colombian pesos (−1.6%); use it to cover payments in those currencies."
     ],
     "bloques": [
      {
-      "t": "What happened since the close",
-      "x": "Yesterday the Ibovespa closed at 166,684.61 (+1.58%) and Canada's S&P/TSX at 34,179.99 (+0.64%). The MSCI ETFs closed +1.73% for Argentina, +1.20% for Peru and −0.18% for Chile. Brazil's government called unacceptable the US proposal of a 10% tariff on finished aircraft and a new one on out-of-quota sugar; aircraft are Brazil's fourth-largest export to the US, according to Reuters. Embraer has firm orders for about 160 E175 jets for US airlines."
+      "t": "How it opened",
+      "x": "At 9:54 a.m. ET the Ibovespa rose 4.04% to 173,415.33 and at 10:09 Canada's S&P/TSX rose 0.61% to 34,389.23. At 10:09 a.m. ET the dollar fell to 5.73 reais (−1.48%), 3,495 Colombian pesos (−1.63%) and 1,036 Chilean pesos (−0.25%)."
      },
      {
-      "t": "Context",
-      "x": "At 5:08 a.m. Mexico City time the dollar stood at 5.82 reais (+0.04%), 1,041 Chilean pesos (+0.32%) and 3,554 Colombian pesos (unchanged). Copper rose 0.5% to $5.45 per pound and silver 2.6%. Oil rises for a third day after the Hormuz attacks; in Brazil, the Bacalhau field remains shut."
+      "t": "What is moving the market",
+      "x": "In Brazil, the November IPCA-15 rose 0.22%, below the 0.34% expected, and investors consider the new US tariffs less severe than expected, according to InfoMoney. The US proposed a 10% tariff on finished aircraft for Brazil, which would hit Embraer, and a new one on out-of-quota sugar; Brazil's government called it unacceptable, according to Reuters. Metals rise: silver 3.5% and copper 0.9%."
      },
      {
-      "t": "What to expect today",
-      "x": "The region's markets are open although Wall Street is closed for Thanksgiving. Tomorrow, Friday, Wall Street trades until 1:00 p.m. ET and OPEC+ meets on Sunday the 29th."
+      "t": "What to expect",
+      "x": "Tomorrow, Friday, Wall Street trades until 1:00 p.m. ET and INEGI publishes Mexico's trade balance. OPEC+ meets on Sunday the 29th."
      }
     ],
-    "scm": "If you buy regional jets, aerospace parts or sugar from Brazil, review contracts and delivery dates before January; with thin liquidity today, stagger payments in regional currencies."
+    "scm": "With the real and Colombian peso stronger, cover your payments in those currencies today. If you buy regional jets or parts from Brazil, review contracts and deliveries before January."
    },
    "pt": {
-    "titular": "O Brasil rejeita as tarifas propostas sobre seus aviões e seu açúcar; a região opera embora Wall Street feche",
+    "titular": "O Ibovespa sobe 4% com o alívio pelas tarifas e uma inflação menor; o real se fortalece para 5,73",
     "esencial": [
-     "Ontem o Ibovespa fechou com +1,58% (166.684,61) e o S&P/TSX do Canadá com +0,64%; os ETFs da MSCI subiram 1,7% na Argentina e 1,2% no Peru.",
-     "O governo do Brasil chamou de inaceitável a proposta dos EUA de uma tarifa de 10% sobre aviões acabados, que atingiria a Embraer, segundo a Reuters.",
-     "Para supply chain: se você compra jatos regionais ou peças do Brasil, revise contratos e entregas antes de janeiro."
+     "Às 8h54 (Cidade do México) o Ibovespa subia 4,04% (173.415,33) e o S&P/TSX do Canadá 0,61%.",
+     "O IPCA-15 do Brasil subiu 0,22% em novembro, contra 0,34% esperado, e os investidores veem as tarifas dos EUA menos severas que o temido, segundo o InfoMoney.",
+     "Para supply chain: o dólar cai para R$ 5,73 (−1,5%) e 3.495 pesos colombianos (−1,6%); aproveite para cobrir pagamentos nessas moedas."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu desde o fechamento",
-      "x": "Ontem o Ibovespa fechou em 166.684,61 (+1,58%) e o S&P/TSX do Canadá em 34.179,99 (+0,64%). Os ETFs da MSCI fecharam com +1,73% na Argentina, +1,20% no Peru e −0,18% no Chile. O governo do Brasil chamou de inaceitável a proposta dos EUA de uma tarifa de 10% sobre aviões acabados e uma nova sobre o açúcar fora da cota; os aviões são a quarta maior exportação do Brasil para os EUA, segundo a Reuters. A Embraer tem pedidos firmes de cerca de 160 jatos E175 para companhias aéreas dos EUA."
+      "t": "Como abriu",
+      "x": "Às 8h54 (Cidade do México) o Ibovespa subia 4,04% para 173.415,33 e às 9h09 o S&P/TSX do Canadá subia 0,61% para 34.389,23. Às 9h09 o dólar caía para R$ 5,73 (−1,48%), 3.495 pesos colombianos (−1,63%) e 1.036 pesos chilenos (−0,25%)."
      },
      {
-      "t": "Contexto",
-      "x": "Às 5h08 (Cidade do México) o dólar estava em R$ 5,82 (+0,04%), 1.041 pesos chilenos (+0,32%) e 3.554 pesos colombianos (estável). O cobre subia 0,5% para 5,45 dólares por libra e a prata 2,6%. O petróleo sobe pelo terceiro dia após os ataques em Ormuz; no Brasil, o campo de Bacalhau segue parado."
+      "t": "O que move o mercado",
+      "x": "No Brasil, o IPCA-15 de novembro subiu 0,22%, abaixo dos 0,34% esperados, e os investidores consideram as novas tarifas dos EUA menos severas que o esperado, segundo o InfoMoney. Os EUA propuseram ao Brasil uma tarifa de 10% sobre aviões acabados, que atingiria a Embraer, e uma nova sobre o açúcar fora da cota; o governo brasileiro a chamou de inaceitável, segundo a Reuters. Os metais sobem: a prata 3,5% e o cobre 0,9%."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Os mercados da região operam embora Wall Street feche pelo Dia de Ação de Graças. Amanhã, sexta, Wall Street opera até as 13h00 de Nova York e no domingo, dia 29, a OPEP+ se reúne."
+      "t": "O que se espera",
+      "x": "Amanhã, sexta, Wall Street opera até as 13h00 de Nova York e o INEGI divulga a balança comercial do México. A OPEP+ se reúne no domingo, dia 29."
      }
     ],
-    "scm": "Se você compra jatos regionais, peças aeronáuticas ou açúcar do Brasil, revise contratos e prazos de entrega antes de janeiro; com liquidez baixa hoje, escalone os pagamentos em moedas da região."
+    "scm": "Com o real e o peso colombiano mais fortes, cubra hoje seus pagamentos nessas moedas. Se você compra jatos regionais ou peças do Brasil, revise contratos e entregas antes de janeiro."
    },
    "fuentes": [
+    {
+     "t": "InfoMoney: el Ibovespa sube con el alivio por los aranceles y un IPCA-15 menor a lo esperado (26 nov 2026)",
+     "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26112026/"
+    },
     {
      "t": "Reuters: EE. UU. propone nuevos aranceles a Brasil, incluido 10% a los aviones (25 nov 2026)",
      "u": "https://finance.yahoo.com/news/us-proposes-higher-tariffs-brazil-131543830.html"
     },
     {
-     "t": "Reuters: las aerolíneas de EE. UU. enfrentarían costos más altos por el arancel propuesto a Embraer (25 nov 2026)",
-     "u": "https://finance.yahoo.com/economy/policy/articles/us-airlines-face-higher-costs-222235730.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 05:08 CDMX)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 09:09 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
@@ -201,96 +199,99 @@
    ]
   },
   "mexico": {
-   "id": "2026-11-26-premercado-mexico",
+   "id": "2026-11-26-apertura-mexico",
    "fecha": "2026-11-26",
-   "momento": "premercado",
+   "momento": "apertura",
    "mercado": "mexico",
-   "hora": "05:08 CDMX",
-   "fin_de_semana": false,
+   "hora": "09:09 CDMX",
    "es": {
-    "titular": "La BMV opera aunque Wall Street cierra; el FIX de ayer fue de 19.7040 y hoy rige el de 19.3668",
+    "titular": "El IPC cae 1.2% y el peso sigue débil en 19.66; el desempleo sube a 3%, su nivel más alto en cuatro años",
     "esencial": [
-     "A las 5:08 CDMX el peso cotizaba en 19.67 por dólar (+0.42% el dólar), después de cerrar ayer en 19.58; ayer el S&P/BMV IPC subió 2.99%.",
-     "El FIX que Banxico determinó ayer fue de 19.7040 (+1.74%) y rige para pagos desde mañana viernes; hoy rige el de 19.3668.",
-     "Para supply chain: el FIX sube 34 centavos mañana; liquida hoy los pagos en dólares que puedas."
+     "A las 8:49 CDMX el S&P/BMV IPC bajaba 1.22% (70,502.49) y a las 9:09 el peso cotizaba en 19.66 por dólar (+0.38% el dólar), con Wall Street cerrado.",
+     "La tasa de desocupación subió a 3.0% en octubre, desde 2.6% hace un año, su nivel más alto desde octubre de 2022, según el INEGI.",
+     "Para supply chain: hoy rige el FIX de 19.3668 y mañana el de 19.7040; liquida hoy los pagos en dólares que puedas."
     ],
     "bloques": [
      {
-      "t": "Lo que pasó desde el cierre",
-      "x": "Ayer el S&P/BMV IPC cerró en 71,372.25 puntos (+2.99%) y el peso en 19.58, después de que el USTR propuso aranceles a 14 economías de Asia y Europa y dejó a México sin determinación, según Expansión. Banxico determinó ayer un FIX de 19.7040 (+1.74%), que se publica hoy en el DOF y rige para pagos desde mañana viernes; hoy rige el de 19.3668. En la noche, el peso se debilitó a 19.67 por dólar (+0.42% el dólar a las 5:08 CDMX)."
+      "t": "Cómo abrió",
+      "x": "A las 8:49 CDMX el S&P/BMV IPC bajaba 1.22% a 70,502.49 puntos, después de subir 2.99% ayer. A las 9:09 CDMX el peso cotizaba en 19.66 por dólar (+0.38% el dólar); ayer tocó 19.85, su nivel más débil desde abril de 2025, según Investing.com. Hoy rige para pagos el FIX de 19.3668; mañana rige el de 19.7040, que Banxico determinó ayer."
      },
      {
-      "t": "Contexto",
-      "x": "Hoy no operan las bolsas de EE. UU. por el Día de Acción de Gracias, así que la liquidez será baja. Europa sube con fuerza y el petróleo sube por tercer día tras los ataques en Ormuz (Brent de enero en 95.01 dólares). Aparte de los 14, EE. UU. propuso a Brasil un arancel de 10% a los aviones y más arancel al azúcar, según Reuters."
+      "t": "Lo que mueve al mercado",
+      "x": "La tasa de desocupación subió a 3.0% en octubre, desde 2.6% un año antes, su nivel más alto desde octubre de 2022; hay 1.9 millones de desocupados y la informalidad está en 55.7%, según el INEGI. El peso suma siete sesiones a la baja por la salida de inversiones de carry trade, ante un menor diferencial de tasas entre Banxico y la Fed, y la baja liquidez por el feriado en EE. UU., según Investing.com. El bono M a 10 años está en 9.25%."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "La BMV opera en horario normal. Mañana viernes 27 el INEGI publica la balanza comercial de octubre y Wall Street opera hasta las 12:00 CDMX."
+      "t": "Qué se espera",
+      "x": "Mañana viernes 27 el INEGI publica la balanza comercial de octubre y Wall Street opera hasta las 12:00 CDMX. El 9 de diciembre la Fed anuncia su decisión de tasas."
      }
     ],
-    "scm": "Liquida hoy los pagos en dólares con el FIX de 19.3668: mañana sube a 19.7040. Si compras en Asia o Europa, aprovecha que México no tiene arancel nuevo para comparar contra proveedores locales."
+    "scm": "Liquida hoy los pagos en dólares con el FIX de 19.3668: mañana sube a 19.7040. Con el desempleo al alza, revisa tus pronósticos de demanda de consumo en México para el primer trimestre."
    },
    "en": {
-    "titular": "The BMV is open although Wall Street is closed; yesterday’s FIX was 19.7040 and today the 19.3668 applies",
+    "titular": "The IPC falls 1.2% and the peso stays weak at 19.66; unemployment rises to 3%, its highest in four years",
     "esencial": [
-     "At 5:08 a.m. Mexico City time the peso traded at 19.67 per dollar (dollar +0.42%), after closing yesterday at 19.58; yesterday the S&P/BMV IPC rose 2.99%.",
-     "The FIX Banxico set yesterday was 19.7040 (+1.74%) and applies to payments from Friday; today the 19.3668 applies.",
-     "For supply chain: the FIX rises 34 cents tomorrow; settle the dollar payments you can today."
+     "At 8:49 a.m. Mexico City time the S&P/BMV IPC was down 1.22% (70,502.49) and at 9:09 the peso traded at 19.66 per dollar (dollar +0.38%), with Wall Street closed.",
+     "The unemployment rate rose to 3.0% in October, from 2.6% a year earlier, its highest since October 2022, according to INEGI.",
+     "For supply chain: today the 19.3668 FIX applies and tomorrow the 19.7040; settle the dollar payments you can today."
     ],
     "bloques": [
      {
-      "t": "What happened since the close",
-      "x": "Yesterday the S&P/BMV IPC closed at 71,372.25 points (+2.99%) and the peso at 19.58, after the USTR proposed tariffs on 14 economies in Asia and Europe and left Mexico without a determination, according to Expansión. Banxico set a 19.7040 FIX yesterday (+1.74%), published today in the DOF and applying to payments from Friday; today the 19.3668 one applies. Overnight, the peso weakened to 19.67 per dollar (dollar +0.42% at 5:08 a.m.)."
+      "t": "How it opened",
+      "x": "At 8:49 a.m. Mexico City time the S&P/BMV IPC was down 1.22% at 70,502.49 points, after rising 2.99% yesterday. At 9:09 a.m. the peso traded at 19.66 per dollar (dollar +0.38%); yesterday it touched 19.85, its weakest since April 2025, according to Investing.com. Today the 19.3668 FIX applies to payments; tomorrow the 19.7040 one, set by Banxico yesterday, applies."
      },
      {
-      "t": "Context",
-      "x": "US markets are closed today for Thanksgiving, so liquidity will be thin. Europe is sharply higher and oil rises for a third day after the Hormuz attacks (January Brent at $95.01). Apart from the 14, the US proposed a 10% tariff on aircraft and higher sugar duties for Brazil, according to Reuters."
+      "t": "What is moving the market",
+      "x": "The unemployment rate rose to 3.0% in October, from 2.6% a year earlier, its highest since October 2022; there are 1.9 million unemployed and informality stands at 55.7%, according to INEGI. The peso has fallen for seven sessions as carry trade positions unwind on a narrower rate gap between Banxico and the Fed, and on thin liquidity from the US holiday, according to Investing.com. The 10-year M bond stands at 9.25%."
      },
      {
-      "t": "What to expect today",
-      "x": "The BMV trades normal hours. Tomorrow, Friday the 27th, INEGI publishes the October trade balance and Wall Street trades until 12:00 p.m. Mexico City time."
+      "t": "What to expect",
+      "x": "Tomorrow, Friday the 27th, INEGI publishes the October trade balance and Wall Street trades until 12:00 p.m. Mexico City time. On December 9 the Fed announces its rate decision."
      }
     ],
-    "scm": "Settle dollar payments today with the 19.3668 FIX: tomorrow it rises to 19.7040. If you buy in Asia or Europe, use the fact that Mexico has no new tariff to compare against local suppliers."
+    "scm": "Settle dollar payments today with the 19.3668 FIX: tomorrow it rises to 19.7040. With unemployment rising, review your first-quarter consumer demand forecasts for Mexico."
    },
    "pt": {
-    "titular": "A BMV opera embora Wall Street feche; o FIX de ontem foi de 19,7040 e hoje vale o de 19,3668",
+    "titular": "O IPC cai 1,2% e o peso segue fraco em 19,66; o desemprego sobe para 3%, o maior nível em quatro anos",
     "esencial": [
-     "Às 5h08 (Cidade do México) o peso era cotado a 19,67 por dólar (dólar +0,42%), depois de fechar ontem em 19,58; ontem o S&P/BMV IPC subiu 2,99%.",
-     "O FIX definido ontem pelo Banxico foi de 19,7040 (+1,74%) e vale para pagamentos a partir de sexta; hoje vale o de 19,3668.",
-     "Para supply chain: o FIX sobe 34 centavos amanhã; liquide hoje os pagamentos em dólares que puder."
+     "Às 8h49 (Cidade do México) o S&P/BMV IPC caía 1,22% (70.502,49) e às 9h09 o peso era cotado a 19,66 por dólar (dólar +0,38%), com Wall Street fechada.",
+     "A taxa de desemprego subiu para 3,0% em outubro, desde 2,6% um ano antes, o maior nível desde outubro de 2022, segundo o INEGI.",
+     "Para supply chain: hoje vale o FIX de 19,3668 e amanhã o de 19,7040; liquide hoje os pagamentos em dólares que puder."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu desde o fechamento",
-      "x": "Ontem o S&P/BMV IPC fechou em 71.372,25 pontos (+2,99%) e o peso em 19,58, depois que o USTR propôs tarifas para 14 economias da Ásia e da Europa e deixou o México sem determinação, segundo a Expansión. O Banxico definiu ontem um FIX de 19,7040 (+1,74%), publicado hoje no DOF e que vale para pagamentos a partir de sexta; hoje vale o de 19,3668. Durante a noite, o peso se enfraqueceu para 19,67 por dólar (dólar +0,42% às 5h08)."
+      "t": "Como abriu",
+      "x": "Às 8h49 (Cidade do México) o S&P/BMV IPC caía 1,22% para 70.502,49 pontos, depois de subir 2,99% ontem. Às 9h09 o peso era cotado a 19,66 por dólar (dólar +0,38%); ontem tocou 19,85, seu nível mais fraco desde abril de 2025, segundo a Investing.com. Hoje vale para pagamentos o FIX de 19,3668; amanhã vale o de 19,7040, definido ontem pelo Banxico."
      },
      {
-      "t": "Contexto",
-      "x": "Hoje as bolsas dos EUA não operam pelo Dia de Ação de Graças, então a liquidez será baixa. A Europa sobe forte e o petróleo sobe pelo terceiro dia após os ataques em Ormuz (Brent de janeiro a 95,01 dólares). Além das 14, os EUA propuseram ao Brasil uma tarifa de 10% sobre aviões e mais tarifa sobre o açúcar, segundo a Reuters."
+      "t": "O que move o mercado",
+      "x": "A taxa de desemprego subiu para 3,0% em outubro, desde 2,6% um ano antes, o maior nível desde outubro de 2022; há 1,9 milhão de desempregados e a informalidade está em 55,7%, segundo o INEGI. O peso soma sete sessões em queda pela saída de operações de carry trade, diante de um diferencial de juros menor entre Banxico e Fed, e pela baixa liquidez do feriado nos EUA, segundo a Investing.com. O título M de 10 anos está em 9,25%."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "A BMV opera em horário normal. Amanhã, sexta, dia 27, o INEGI divulga a balança comercial de outubro e Wall Street opera até as 12h00 (Cidade do México)."
+      "t": "O que se espera",
+      "x": "Amanhã, sexta, dia 27, o INEGI divulga a balança comercial de outubro e Wall Street opera até as 12h00 (Cidade do México). Em 9 de dezembro o Fed anuncia sua decisão de juros."
      }
     ],
-    "scm": "Liquide hoje os pagamentos em dólares com o FIX de 19,3668: amanhã sobe para 19,7040. Se você compra na Ásia ou na Europa, aproveite que o México não tem tarifa nova para comparar com fornecedores locais."
+    "scm": "Liquide hoje os pagamentos em dólares com o FIX de 19,3668: amanhã sobe para 19,7040. Com o desemprego em alta, revise suas previsões de demanda de consumo no México para o primeiro trimestre."
    },
    "fuentes": [
+    {
+     "t": "Yahoo Finance: IPC México (^MXX), 26 nov 2026",
+     "u": "https://finance.yahoo.com/quote/%5EMXX/"
+    },
+    {
+     "t": "Alto Nivel: el desempleo en México sube a 3% en octubre, su nivel más alto en cuatro años (26 nov 2026)",
+     "u": "https://www.altonivel.com.mx/desempleo-en-mexico-sube-a-3-en-octubre-su-nivel-mas-alto-en-cuatro-anos/"
+    },
+    {
+     "t": "Investing.com México: el peso extiende su caída en el Día de Acción de Gracias (26 nov 2026)",
+     "u": "https://mx.investing.com/news/forex-news/precio-del-dolar-hoy-no-da-tregua-en-thanksgiving-peso-mexicano-extiende-su-caida-3864009"
+    },
     {
      "t": "Banxico: tipo de cambio FIX (25 nov 2026: 19.7040)",
      "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
     },
     {
-     "t": "Expansión: México libra por ahora los aranceles que EE. UU. propone a 14 economías (25 nov 2026)",
-     "u": "https://expansion.mx/economia/2026/11/25/eu-propone-aranceles-14-economias-mexico-queda-fuera"
-    },
-    {
-     "t": "Reuters: EE. UU. propone nuevos aranceles a Brasil, incluido 10% a los aviones (25 nov 2026)",
-     "u": "https://finance.yahoo.com/news/us-proposes-higher-tariffs-brazil-131543830.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 05:08 CDMX)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 09:09 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -298,8 +299,8 @@
  },
  "lectura": {
   "es": {
-   "titular": "Wall Street se recupera, la bolsa mexicana sube 3% y el Libro Beige confirma más presión de costos para 2027",
-   "resumen": "El día cerró mejor de lo que abrió. Wall Street recuperó casi todo lo perdido (S&P 500 −0.25%, Dow +0.33%) y la bolsa mexicana subió 2.99%, después de que el USTR propuso aranceles a 14 economías de Asia y Europa (Vietnam hasta 35%, India 25%, China 20%, la UE, Japón, Corea y Taiwán 15%) y dejó a México sin determinación. Para supply chain, la noticia de fondo es de costos: el PCE subyacente subió a 3.3%, la Fed se encamina a subir en diciembre y el Libro Beige reporta presiones sostenidas en fletes, energía, metales, seguros y aranceles, con empresas que esperan más alzas. El Brent subió 3.5% a 94.56 dólares. El peso cerró en 19.58 y mañana rige el FIX de 19.3668.",
+   "titular": "Sin Wall Street, el petróleo sube por tercer día y el peso sigue débil; en México el desempleo sube a 3%",
+   "resumen": "Con las bolsas de EE. UU. cerradas por el Día de Acción de Gracias, el día lo mueven el petróleo y las monedas. El Brent de enero sube a 96.08 dólares tras ataques con minas a barcos en el estrecho de Ormuz y a la refinería saudí de Ras Tanura, y la OPEP+ decide su producción de 2027 el domingo. En México, la tasa de desocupación subió a 3.0% en octubre, su nivel más alto desde 2022, una señal de demanda de consumo más débil para el primer trimestre. El peso suma siete sesiones a la baja y opera en 19.66; el FIX sube a 19.7040 mañana. Brasil sube 4% con una inflación menor a lo esperado. Europa sube 2.2%, aunque las minutas del BCE muestran presión para más alzas de tasas.",
    "temas": [
     {
      "tema": "Peso y tasas",
@@ -400,8 +401,8 @@
    ]
   },
   "en": {
-   "titular": "Wall Street recovers, the Mexican market rises 3% and the Beige Book confirms more cost pressure into 2027",
-   "resumen": "The day closed better than it opened. Wall Street recovered almost all of its losses (S&P 500 −0.25%, Dow +0.33%) and the Mexican market rose 2.99%, after the USTR proposed tariffs on 14 economies in Asia and Europe (Vietnam up to 35%, India 25%, China 20%, the EU, Japan, Korea and Taiwan 15%) and left Mexico without a determination. For supply chain, the underlying news is about costs: core PCE rose to 3.3%, the Fed is heading for a December hike and the Beige Book reports sustained pressure in freight, energy, metals, insurance and tariffs, with firms expecting more increases. Brent rose 3.5% to $94.56. The peso closed at 19.58 and tomorrow the 19.3668 FIX applies.",
+   "titular": "With Wall Street closed, oil rises for a third day and the peso stays weak; in Mexico unemployment rises to 3%",
+   "resumen": "With US markets closed for Thanksgiving, oil and currencies drive the day. January Brent rises to $96.08 after mine strikes on ships in the Strait of Hormuz and on Saudi Arabia’s Ras Tanura refinery, and OPEC+ decides its 2027 output on Sunday. In Mexico, the unemployment rate rose to 3.0% in October, its highest since 2022, a sign of weaker consumer demand for the first quarter. The peso has fallen for seven sessions and trades at 19.66; the FIX rises to 19.7040 tomorrow. Brazil rises 4% on lower-than-expected inflation. Europe rises 2.2%, although ECB minutes show pressure for further rate hikes.",
    "temas": [
     {
      "tema": "Peso and rates",
@@ -502,8 +503,8 @@
    ]
   },
   "pt": {
-   "titular": "Wall Street se recupera, a bolsa mexicana sobe 3% e o Livro Bege confirma mais pressão de custos para 2027",
-   "resumen": "O dia fechou melhor do que abriu. Wall Street recuperou quase tudo o que perdeu (S&P 500 −0,25%, Dow +0,33%) e a bolsa mexicana subiu 2,99%, depois que o USTR propôs tarifas para 14 economias da Ásia e da Europa (Vietnã até 35%, Índia 25%, China 20%, UE, Japão, Coreia e Taiwan 15%) e deixou o México sem determinação. Para supply chain, a notícia de fundo é de custos: o núcleo do PCE subiu para 3,3%, o Fed caminha para subir em dezembro e o Livro Bege relata pressões persistentes em fretes, energia, metais, seguros e tarifas, com empresas que esperam mais altas. O Brent subiu 3,5% para 94,56 dólares. O peso fechou em 19,58 e amanhã vale o FIX de 19,3668.",
+   "titular": "Sem Wall Street, o petróleo sobe pelo terceiro dia e o peso segue fraco; no México o desemprego sobe para 3%",
+   "resumen": "Com as bolsas dos EUA fechadas pelo Dia de Ação de Graças, o dia é movido pelo petróleo e pelas moedas. O Brent de janeiro sobe para 96,08 dólares após ataques com minas a navios no estreito de Ormuz e à refinaria saudita de Ras Tanura, e a OPEP+ decide sua produção de 2027 no domingo. No México, a taxa de desemprego subiu para 3,0% em outubro, o maior nível desde 2022, um sinal de demanda de consumo mais fraca no primeiro trimestre. O peso soma sete sessões em queda e opera em 19,66; o FIX sobe para 19,7040 amanhã. O Brasil sobe 4% com uma inflação menor que a esperada. A Europa sobe 2,2%, embora as atas do BCE mostrem pressão por mais altas de juros.",
    "temas": [
     {
      "tema": "Peso e juros",
@@ -609,8 +610,8 @@
    "nombre": "IPC BMV",
    "name_en": "IPC BMV",
    "grupo": "bolsa",
-   "valor": 71372.25,
-   "cambio": 2.99,
+   "valor": 70502.49,
+   "cambio": -1.22,
    "unidad": "puntos",
    "name_pt": "IPC BMV"
   },
@@ -645,8 +646,8 @@
    "nombre": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
    "grupo": "bolsa",
-   "valor": 6006.08,
-   "cambio": 1.89,
+   "valor": 6021.89,
+   "cambio": 2.16,
    "unidad": "puntos",
    "name_pt": "Euro Stoxx 50"
   },
@@ -672,8 +673,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 19.67,
-   "cambio": 0.42,
+   "valor": 19.66,
+   "cambio": 0.38,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -681,8 +682,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.0975,
-   "cambio": -0.06,
+   "valor": 1.0983,
+   "cambio": 0.01,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -690,8 +691,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 159.28,
-   "cambio": 0.1,
+   "valor": 159.21,
+   "cambio": 0.06,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -699,8 +700,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 84.43,
-   "cambio": 0.9,
+   "valor": 84.56,
+   "cambio": 1.05,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -708,8 +709,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 95.01,
-   "cambio": 0.42,
+   "valor": 96.08,
+   "cambio": 1.55,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -726,8 +727,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3583.1,
-   "cambio": 0.52,
+   "valor": 3607.2,
+   "cambio": 1.2,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -735,8 +736,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 5.45,
-   "cambio": 0.51,
+   "valor": 5.47,
+   "cambio": 0.9,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -771,8 +772,8 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 60427.84,
-   "cambio": 0.08,
+   "valor": 59902.06,
+   "cambio": -0.79,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }

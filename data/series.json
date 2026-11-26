@@ -147,6 +147,10 @@
   {
    "fecha": "2026-11-24",
    "v": 19.37
+  },
+  {
+   "fecha": "2026-11-25",
+   "v": 19.7
   }
  ],
  "banxico": [
@@ -218,7 +222,7 @@
    "tasa": 6.25,
    "inflacion": 3.75,
    "pib": 0.9,
-   "desempleo": 2.8,
+   "desempleo": 3.0,
    "pt": "México"
   },
   {
@@ -251,7 +255,7 @@
   {
    "es": "Corea del Sur",
    "en": "South Korea",
-   "tasa": 3.0,
+   "tasa": 3.25,
    "inflacion": 2.9,
    "pib": 1.0,
    "desempleo": 2.6,

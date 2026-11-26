@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-26-apertura-latam",
+ "fecha": "2026-11-26",
+ "momento": "apertura",
+ "mercado": "latam",
+ "hora": "09:09 CDMX",
+ "es": {
+  "titular": "El Ibovespa sube 4% con el alivio por los aranceles y una inflación menor; el real se fortalece a 5.73",
+  "esencial": [
+   "A las 8:54 CDMX el Ibovespa subía 4.04% (173,415.33) y el S&P/TSX de Canadá 0.61%.",
+   "El IPCA-15 de Brasil subió 0.22% en noviembre, contra 0.34% esperado, y los inversionistas ven los aranceles de EE. UU. menos severos de lo temido, según InfoMoney.",
+   "Para supply chain: el dólar baja a 5.73 reales (−1.5%) y 3,495 pesos colombianos (−1.6%); aprovecha para cubrir pagos en esas monedas."
+  ],
+  "bloques": [
+   {
+    "t": "Cómo abrió",
+    "x": "A las 8:54 CDMX el Ibovespa subía 4.04% a 173,415.33 y a las 9:09 el S&P/TSX de Canadá subía 0.61% a 34,389.23. A las 9:09 CDMX el dólar bajaba a 5.73 reales (−1.48%), 3,495 pesos colombianos (−1.63%) y 1,036 pesos chilenos (−0.25%)."
+   },
+   {
+    "t": "Lo que mueve al mercado",
+    "x": "En Brasil, el IPCA-15 de noviembre subió 0.22%, abajo del 0.34% esperado, y los inversionistas consideran que los nuevos aranceles de EE. UU. son menos severos de lo esperado, según InfoMoney. EE. UU. propuso a Brasil un arancel de 10% a los aviones terminados, que pegaría a Embraer, y uno nuevo al azúcar fuera de cuota; el gobierno brasileño lo calificó de inaceptable, según Reuters. Los metales suben: la plata 3.5% y el cobre 0.9%."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana viernes Wall Street opera hasta las 12:00 CDMX y el INEGI publica la balanza comercial de México. La OPEP+ se reúne el domingo 29."
+   }
+  ],
+  "scm": "Con el real y el peso colombiano más fuertes, cubre hoy tus pagos en esas monedas. Si compras jets regionales o refacciones de Brasil, revisa contratos y entregas antes de enero."
+ },
+ "en": {
+  "titular": "The Ibovespa rises 4% on tariff relief and lower inflation; the real strengthens to 5.73",
+  "esencial": [
+   "At 9:54 a.m. ET the Ibovespa rose 4.04% (173,415.33) and Canada's S&P/TSX 0.61%.",
+   "Brazil's IPCA-15 rose 0.22% in November versus 0.34% expected, and investors see the US tariffs as less severe than feared, according to InfoMoney.",
+   "For supply chain: the dollar falls to 5.73 reais (−1.5%) and 3,495 Colombian pesos (−1.6%); use it to cover payments in those currencies."
+  ],
+  "bloques": [
+   {
+    "t": "How it opened",
+    "x": "At 9:54 a.m. ET the Ibovespa rose 4.04% to 173,415.33 and at 10:09 Canada's S&P/TSX rose 0.61% to 34,389.23. At 10:09 a.m. ET the dollar fell to 5.73 reais (−1.48%), 3,495 Colombian pesos (−1.63%) and 1,036 Chilean pesos (−0.25%)."
+   },
+   {
+    "t": "What is moving the market",
+    "x": "In Brazil, the November IPCA-15 rose 0.22%, below the 0.34% expected, and investors consider the new US tariffs less severe than expected, according to InfoMoney. The US proposed a 10% tariff on finished aircraft for Brazil, which would hit Embraer, and a new one on out-of-quota sugar; Brazil's government called it unacceptable, according to Reuters. Metals rise: silver 3.5% and copper 0.9%."
+   },
+   {
+    "t": "What to expect",
+    "x": "Tomorrow, Friday, Wall Street trades until 1:00 p.m. ET and INEGI publishes Mexico's trade balance. OPEC+ meets on Sunday the 29th."
+   }
+  ],
+  "scm": "With the real and Colombian peso stronger, cover your payments in those currencies today. If you buy regional jets or parts from Brazil, review contracts and deliveries before January."
+ },
+ "pt": {
+  "titular": "O Ibovespa sobe 4% com o alívio pelas tarifas e uma inflação menor; o real se fortalece para 5,73",
+  "esencial": [
+   "Às 8h54 (Cidade do México) o Ibovespa subia 4,04% (173.415,33) e o S&P/TSX do Canadá 0,61%.",
+   "O IPCA-15 do Brasil subiu 0,22% em novembro, contra 0,34% esperado, e os investidores veem as tarifas dos EUA menos severas que o temido, segundo o InfoMoney.",
+   "Para supply chain: o dólar cai para R$ 5,73 (−1,5%) e 3.495 pesos colombianos (−1,6%); aproveite para cobrir pagamentos nessas moedas."
+  ],
+  "bloques": [
+   {
+    "t": "Como abriu",
+    "x": "Às 8h54 (Cidade do México) o Ibovespa subia 4,04% para 173.415,33 e às 9h09 o S&P/TSX do Canadá subia 0,61% para 34.389,23. Às 9h09 o dólar caía para R$ 5,73 (−1,48%), 3.495 pesos colombianos (−1,63%) e 1.036 pesos chilenos (−0,25%)."
+   },
+   {
+    "t": "O que move o mercado",
+    "x": "No Brasil, o IPCA-15 de novembro subiu 0,22%, abaixo dos 0,34% esperados, e os investidores consideram as novas tarifas dos EUA menos severas que o esperado, segundo o InfoMoney. Os EUA propuseram ao Brasil uma tarifa de 10% sobre aviões acabados, que atingiria a Embraer, e uma nova sobre o açúcar fora da cota; o governo brasileiro a chamou de inaceitável, segundo a Reuters. Os metais sobem: a prata 3,5% e o cobre 0,9%."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã, sexta, Wall Street opera até as 13h00 de Nova York e o INEGI divulga a balança comercial do México. A OPEP+ se reúne no domingo, dia 29."
+   }
+  ],
+  "scm": "Com o real e o peso colombiano mais fortes, cubra hoje seus pagamentos nessas moedas. Se você compra jatos regionais ou peças do Brasil, revise contratos e entregas antes de janeiro."
+ },
+ "fuentes": [
+  {
+   "t": "InfoMoney: el Ibovespa sube con el alivio por los aranceles y un IPCA-15 menor a lo esperado (26 nov 2026)",
+   "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26112026/"
+  },
+  {
+   "t": "Reuters: EE. UU. propone nuevos aranceles a Brasil, incluido 10% a los aviones (25 nov 2026)",
+   "u": "https://finance.yahoo.com/news/us-proposes-higher-tariffs-brazil-131543830.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 09:09 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

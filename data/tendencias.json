@@ -1,160 +1,12 @@
 {
- "actualizado": "2026-11-25T21:20:12Z",
- "fecha": "2026-11-25",
+ "actualizado": "2026-11-26T15:12:34Z",
+ "fecha": "2026-11-26",
  "titular": {
-  "es": "Miércoles: aranceles propuestos a 14 economías, un Libro Beige con más costos y el Brent en 94.56",
-  "en": "Wednesday: tariffs proposed on 14 economies, a Beige Book with higher costs and Brent at $94.56",
-  "pt": "Quarta: tarifas propostas para 14 economias, um Livro Bege com mais custos e o Brent a 94,56"
+  "es": "Jueves: el Brent sube a 96 dólares, Brasil enfrenta aranceles a aviones y azúcar, y en México el desempleo sube a 3%",
+  "en": "Thursday: Brent rises to $96, Brazil faces tariffs on aircraft and sugar, and Mexico unemployment rises to 3%",
+  "pt": "Quinta: o Brent sobe para 96 dólares, o Brasil enfrenta tarifas sobre aviões e açúcar e o desemprego no México sobe para 3%"
  },
  "items": [
-  {
-   "id": "manufactura",
-   "dir": "mixed",
-   "calor": 3,
-   "mx": true,
-   "latam": true,
-   "es": "Manufactura",
-   "en": "Manufacturing",
-   "pt": "Manufatura",
-   "titular": {
-    "es": "Aranceles propuestos a 14 economías y un Libro Beige con más costos: México, sin determinación",
-    "en": "Tariffs proposed on 14 economies and a Beige Book with higher costs: Mexico without a determination",
-    "pt": "Tarifas propostas para 14 economias e um Livro Bege com mais custos: México sem determinação"
-   },
-   "x": {
-    "es": "El USTR propuso aranceles por exceso de capacidad industrial a 14 economías: Vietnam hasta 35%, India 25%, China y Singapur 20%, cinco economías del Sudeste Asiático y Bangladesh 18%, y la UE, Japón, Corea del Sur, Suiza y Taiwán 15%; comentarios hasta el 5 de enero y audiencias desde el 25. México y Noruega siguen sin determinación. El Libro Beige de la Fed reporta que los costos de insumos subieron más que los precios de venta y que las empresas esperan más alzas.",
-    "en": "The USTR proposed industrial overcapacity tariffs on 14 economies: Vietnam up to 35%, India 25%, China and Singapore 20%, five Southeast Asian economies and Bangladesh 18%, and the EU, Japan, South Korea, Switzerland and Taiwan 15%; comments due January 5 and hearings from January 25. Mexico and Norway still have no determination. The Fed’s Beige Book reports input costs rose faster than selling prices and firms expect more increases.",
-    "pt": "O USTR propôs tarifas por excesso de capacidade industrial para 14 economias: Vietnã até 35%, Índia 25%, China e Singapura 20%, cinco economias do Sudeste Asiático e Bangladesh 18%, e UE, Japão, Coreia do Sul, Suíça e Taiwan 15%; comentários até 5 de janeiro e audiências a partir de 25. México e Noruega seguem sem determinação. O Livro Bege do Fed relata que os custos dos insumos subiram mais que os preços de venda e que as empresas esperam mais altas."
-   },
-   "scm": {
-    "es": "Haz la lista de insumos por país de origen, costea cada uno con su tasa propuesta y evalúa proveedores en México o fuera de la lista antes de las audiencias de enero.",
-    "en": "List inputs by country of origin, cost each with its proposed rate and evaluate suppliers in Mexico or outside the list before the January hearings.",
-    "pt": "Liste os insumos por país de origem, calcule o custo de cada um com a alíquota proposta e avalie fornecedores no México ou fora da lista antes das audiências de janeiro."
-   },
-   "fuentes": [
-    {
-     "t": "Baker McKenzie: el USTR propone aranceles de la Sección 301 a 14 economías por exceso de capacidad estructural (25 nov 2026)",
-     "u": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"
-    },
-    {
-     "t": "Expansión: México libra por ahora los aranceles que EE. UU. propone a 14 economías (25 nov 2026)",
-     "u": "https://expansion.mx/economia/2026/11/25/eu-propone-aranceles-14-economias-mexico-queda-fuera"
-    },
-    {
-     "t": "Yahoo Finance: el Libro Beige de la Fed muestra presiones de precios más amplias (25 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
-    }
-   ]
-  },
-  {
-   "id": "semis",
-   "dir": "down",
-   "calor": 2,
-   "mx": false,
-   "latam": false,
-   "es": "Semiconductores y electrónica",
-   "en": "Semiconductors and electronics",
-   "pt": "Semicondutores e eletrônicos",
-   "titular": {
-    "es": "Los chips recortan su caída a 0.65% al cierre; Nvidia cierra con −3.9% y S&P la pone en revisión negativa",
-    "en": "Chips trim their drop to 0.65% at the close; Nvidia closes −3.9% and S&P puts it on negative watch",
-    "pt": "Os chips reduzem a queda para 0,65% no fechamento; a Nvidia fecha com −3,9% e a S&P a coloca em revisão negativa"
-   },
-   "x": {
-    "es": "El índice de semiconductores cerró con −0.65%, desde −5.7% en la mañana: Nvidia −3.9% (149.30 dólares) tras llegar a −8%, Micron −4.6%, TSMC −2.0% y AMD −1.8%. S&P Global Ratings puso a Nvidia en revisión con perspectiva negativa por preocupaciones de gobierno corporativo. En Seúl, SK hynix cayó 11%.",
-    "en": "The semiconductor index closed −0.65%, from −5.7% in the morning: Nvidia −3.9% ($149.30) after reaching −8%, Micron −4.6%, TSMC −2.0% and AMD −1.8%. S&P Global Ratings placed Nvidia on CreditWatch negative over corporate governance concerns. In Seoul, SK hynix fell 11%.",
-    "pt": "O índice de semicondutores fechou com −0,65%, desde −5,7% de manhã: Nvidia −3,9% (149,30 dólares) depois de chegar a −8%, Micron −4,6%, TSMC −2,0% e AMD −1,8%. A S&P Global Ratings colocou a Nvidia em revisão com perspectiva negativa por preocupações de governança corporativa. Em Seul, a SK hynix caiu 11%."
-   },
-   "scm": {
-    "es": "Si no tienes asignación de memoria para 2027, negóciala ya, con cláusula por el arancel propuesto a Corea y Taiwán (15%).",
-    "en": "If you lack a 2027 memory allocation, negotiate it now, with a clause for the tariff proposed on Korea and Taiwan (15%).",
-    "pt": "Se você não tem alocação de memória para 2027, negocie já, com cláusula para a tarifa proposta a Coreia e Taiwan (15%)."
-   },
-   "fuentes": [
-    {
-     "t": "Yahoo Finance: el Dow borra sus pérdidas y cierra arriba; el S&P 500 y el Nasdaq recuperan terreno (25 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
-    },
-    {
-     "t": "MT Newswires: S&P Global Ratings pone a Nvidia en revisión con perspectiva negativa (25 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-put-creditwatch-negative-p-210636240.html"
-    },
-    {
-     "t": "GuruFocus: SK hynix cae 11% y arrastra al KOSPI (25 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stocks-sink-11-171606778.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 25 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/"
-    }
-   ]
-  },
-  {
-   "id": "servidores",
-   "dir": "up",
-   "calor": 2,
-   "mx": true,
-   "latam": true,
-   "es": "Servidores y hardware",
-   "en": "Servers and hardware",
-   "pt": "Servidores e hardware",
-   "titular": {
-    "es": "Dell cierra con +0.6% tras caer 7% en preapertura pese a ingresos récord",
-    "en": "Dell closes +0.6% after falling 7% premarket despite record revenue",
-    "pt": "A Dell fecha com +0,6% depois de cair 7% no pré-mercado apesar de receita recorde"
-   },
-   "x": {
-    "es": "Dell cerró con +0.6% en 297.06 dólares, después de caer 7.4% en preapertura, tras reportar ingresos por 54,900 millones de dólares, contra 49,330 millones esperados, una guía del año de 202,000 millones y una cartera de pedidos de IA de 132,300 millones.",
-    "en": "Dell closed +0.6% at $297.06, after falling 7.4% premarket, following revenue of $54.9 billion versus $49.33 billion expected, full-year guidance of $202 billion and an AI backlog of $132.3 billion.",
-    "pt": "A Dell fechou com +0,6% a 297,06 dólares, depois de cair 7,4% no pré-mercado, após receita de 54,9 bilhões de dólares, contra 49,33 bilhões esperados, projeção do ano de 202 bilhões e carteira de pedidos de IA de 132,3 bilhões."
-   },
-   "scm": {
-    "es": "La demanda de servidores de IA sigue fuerte: asegura capacidad y plazos de entrega para el primer trimestre.",
-    "en": "AI server demand remains strong: secure capacity and delivery dates for the first quarter.",
-    "pt": "A demanda por servidores de IA segue forte: garanta capacidade e prazos de entrega para o primeiro trimestre."
-   },
-   "fuentes": [
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 25 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/"
-    }
-   ]
-  },
-  {
-   "id": "agro",
-   "dir": "up",
-   "calor": 2,
-   "mx": true,
-   "latam": true,
-   "es": "Agroalimentos",
-   "en": "Agrifood",
-   "pt": "Agroalimentos",
-   "titular": {
-    "es": "Deere cierra con +4.4% pese a ganar menos de lo esperado; ve recuperación agrícola en 2027",
-    "en": "Deere closes +4.4% despite missing estimates; sees a farm recovery in 2027",
-    "pt": "A Deere fecha com +4,4% apesar de lucrar menos que o esperado; vê recuperação agrícola em 2027"
-   },
-   "x": {
-    "es": "Deere cerró con +4.4% en 641.02 dólares, aunque ganó 3.89 dólares por acción en su cuarto trimestre fiscal, contra 4.03 esperados, y sus ventas de agricultura de producción y precisión cayeron 15%. Para 2027 espera una utilidad de 4,500 a 5,250 millones y ventas agrícolas grandes de +5% a +15%.",
-    "en": "Deere closed +4.4% at $641.02, although it earned $3.89 per share in its fiscal fourth quarter versus $4.03 expected and production and precision agriculture sales fell 15%. For 2027 it expects net income of $4.5 billion to $5.25 billion and large ag sales up 5% to 15%.",
-    "pt": "A Deere fechou com +4,4% a 641,02 dólares, embora tenha lucrado 3,89 dólares por ação no quarto trimestre fiscal, contra 4,03 esperados, e as vendas de agricultura de produção e precisão tenham caído 15%. Para 2027 espera lucro de 4,5 a 5,25 bilhões e vendas agrícolas grandes de +5% a +15%."
-   },
-   "scm": {
-    "es": "Si surtes partes para maquinaria agrícola, planea un 2027 de recuperación gradual y revisa los pedidos del primer semestre con tu cliente.",
-    "en": "If you supply parts for farm equipment, plan for a gradual recovery in 2027 and review first-half orders with your customer.",
-    "pt": "Se você fornece peças para máquinas agrícolas, planeje uma recuperação gradual em 2027 e revise os pedidos do primeiro semestre com o cliente."
-   },
-   "fuentes": [
-    {
-     "t": "Investing.com: Deere gana menos de lo esperado en el cuarto trimestre pese a ingresos mayores (25 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/deere-stock-slides-q4-earnings-115411848.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 25 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/"
-    }
-   ]
-  },
   {
    "id": "energia",
    "dir": "up",
@@ -165,73 +17,166 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El Brent sube 3.5% a 94.56 dólares; Brasil suspende el campo Bacalhau",
-    "en": "Brent rises 3.5% to $94.56; Brazil halts the Bacalhau field",
-    "pt": "O Brent sobe 3,5% para 94,56 dólares; o Brasil suspende o campo de Bacalhau"
+    "es": "El Brent sube a 96.08 dólares por tercer día tras ataques con minas en Ormuz",
+    "en": "Brent rises to $96.08 for a third day after mine strikes in Hormuz",
+    "pt": "O Brent sobe para 96,08 dólares pelo terceiro dia após ataques com minas em Ormuz"
    },
    "x": {
-    "es": "El Brent de enero subió 3.5% a 94.56 dólares y el WTI 2.6% a 84.16 por las tensiones en Medio Oriente, según The Wall Street Journal. En Brasil, el campo Bacalhau (220,000 barriles diarios) suspendió su producción de cinco a ocho semanas. Los inventarios de crudo de EE. UU. subieron 1.1 millones de barriles y los de destilados están 6% abajo del promedio, según la EIA; el diésel en futuros cerró en 3.64 dólares por galón.",
-    "en": "January Brent rose 3.5% to $94.56 and WTI 2.6% to $84.16 on Middle East tensions, according to The Wall Street Journal. In Brazil, the Bacalhau field (220,000 barrels a day) halted production for five to eight weeks. US crude inventories rose 1.1 million barrels and distillate stocks are 6% below average, according to the EIA; diesel futures closed at $3.64 a gallon.",
-    "pt": "O Brent de janeiro subiu 3,5% para 94,56 dólares e o WTI 2,6% para 84,16 pelas tensões no Oriente Médio, segundo o The Wall Street Journal. No Brasil, o campo de Bacalhau (220 mil barris por dia) suspendeu a produção por cinco a oito semanas. Os estoques de petróleo dos EUA subiram 1,1 milhão de barris e os de destilados estão 6% abaixo da média, segundo a EIA; o diesel em futuros fechou a 3,64 dólares por galão."
+    "es": "El Brent de enero subía 1.6% a 96.08 dólares y el WTI 1.1% a 84.56 a las 8:59 CDMX, después de que los hutíes dijeron que atacaron la refinería saudí de Ras Tanura y al menos dos barcos chocaron con minas iraníes en Ormuz, según Reuters. La OPEP+ decide el domingo 29 su producción de 2027. El diésel en futuros subía 1.3% a 3.70 dólares por galón.",
+    "en": "January Brent rose 1.6% to $96.08 and WTI 1.1% to $84.56 at 9:59 a.m. ET, after the Houthis said they attacked Saudi Arabia’s Ras Tanura refinery and at least two ships struck Iranian mines in Hormuz, according to Reuters. OPEC+ decides its 2027 output on Sunday the 29th. Diesel futures rose 1.3% to $3.70 a gallon.",
+    "pt": "O Brent de janeiro subia 1,6% para 96,08 dólares e o WTI 1,1% para 84,56 às 8h59 (Cidade do México), depois que os houthis disseram ter atacado a refinaria saudita de Ras Tanura e pelo menos dois navios bateram em minas iranianas em Ormuz, segundo a Reuters. A OPEP+ decide no domingo, dia 29, sua produção de 2027. O diesel em futuros subia 1,3% para 3,70 dólares por galão."
    },
    "scm": {
-    "es": "No cierres recargos de combustible a precio fijo antes de la reunión de la OPEP+ del domingo; mantén el ajuste semanal.",
-    "en": "Do not lock fuel surcharges at a fixed price before Sunday’s OPEC+ meeting; keep weekly adjustment.",
-    "pt": "Não feche sobretaxas de combustível a preço fixo antes da reunião da OPEP+ de domingo; mantenha o ajuste semanal."
+    "es": "No fijes recargos de combustible de diciembre antes de la reunión de la OPEP+ del domingo; mantén el ajuste semanal.",
+    "en": "Do not set December fuel surcharges before Sunday’s OPEC+ meeting; keep weekly adjustment.",
+    "pt": "Não fixe sobretaxas de combustível de dezembro antes da reunião da OPEP+ de domingo; mantenha o ajuste semanal."
    },
    "fuentes": [
     {
-     "t": "The Wall Street Journal: el petróleo sube por las tensiones en Medio Oriente (25 nov 2026)",
-     "u": "https://finance.yahoo.com/m/6315b182-a0b7-3674-84d6-efcd68443f9c/oil-futures-pick-up-as-middle.html"
+     "t": "Reuters: el petróleo sube tras ataques con minas a barcos en Ormuz (26 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-rises-supply-concerns-iran-030849858.html"
     },
     {
-     "t": "Oilprice.com: el campo Bacalhau de Brasil, de 220,000 barriles diarios, suspende su producción (25 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/brazils-220-000-bpd-bacalhau-205200049.html"
+     "t": "The Wall Street Journal: la OPEP+ enfrenta decisiones difíciles con un superávit en aumento (26 nov 2026)",
+     "u": "https://finance.yahoo.com/m/91da27c4-8363-3144-b4ea-34a161403eca/opec%2C-allies-face-tough.html"
     },
     {
-     "t": "Oilprice.com: los inventarios de crudo de EE. UU. suben 1.1 millones de barriles (EIA, 25 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-inventories-continue-rise-us-154256636.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 25 nov 2026)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 09:09 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   {
-   "id": "software",
+   "id": "semis",
    "dir": "up",
-   "calor": 1,
+   "calor": 2,
    "mx": false,
    "latam": false,
-   "es": "Software e IA para supply chain",
-   "en": "Software and AI for supply chain",
-   "pt": "Software e IA para supply chain",
+   "es": "Semiconductores y electrónica",
+   "en": "Semiconductors and electronics",
+   "pt": "Semicondutores e eletrônica",
    "titular": {
-    "es": "Anthropic cierra con +1.1% en 82.79 dólares, todavía debajo de su precio de salida",
-    "en": "Anthropic closes +1.1% at $82.79, still below its IPO price",
-    "pt": "A Anthropic fecha com +1,1% a 82,79 dólares, ainda abaixo do preço do IPO"
+    "es": "Kioxia sube 14% tras una colaboración con Nvidia; los chips japoneses rebotan",
+    "en": "Kioxia rises 14% after a collaboration with Nvidia; Japanese chips rebound",
+    "pt": "A Kioxia sobe 14% após uma colaboração com a Nvidia; os chips japoneses se recuperam"
    },
    "x": {
-    "es": "Anthropic cerró con +1.1% en 82.79 dólares, apenas debajo de su precio de salida de 83, después de caer a 78.46 en la apertura; CoreWeave cerró casi sin cambio.",
-    "en": "Anthropic closed +1.1% at $82.79, just below its $83 IPO price, after falling to $78.46 at the open; CoreWeave closed nearly flat.",
-    "pt": "A Anthropic fechou com +1,1% a 82,79 dólares, pouco abaixo do preço do IPO de 83, depois de cair para 78,46 na abertura; a CoreWeave fechou quase estável."
+    "es": "Kioxia llegó a subir 14.5% en Tokio tras anunciar con Nvidia una prueba que usa 144 discos de estado sólido para ampliar la memoria de los GPU a unos 1.1 petabytes; Advantest subió cerca de 7.8% y el Nikkei 0.86%, según Investing.com.",
+    "en": "Kioxia rose as much as 14.5% in Tokyo after announcing with Nvidia a test that uses 144 solid-state drives to extend GPU memory to about 1.1 petabytes; Advantest rose about 7.8% and the Nikkei 0.86%, according to Investing.com.",
+    "pt": "A Kioxia chegou a subir 14,5% em Tóquio após anunciar com a Nvidia um teste que usa 144 discos de estado sólido para ampliar a memória das GPUs para cerca de 1,1 petabyte; a Advantest subiu cerca de 7,8% e o Nikkei 0,86%, segundo a Investing.com."
    },
    "scm": {
-    "es": "Si evalúas herramientas de IA para planeación o compras, pide precios y niveles de servicio fijos para 2027.",
-    "en": "If you are evaluating AI tools for planning or procurement, ask for fixed 2027 pricing and service levels.",
-    "pt": "Se você avalia ferramentas de IA para planejamento ou compras, peça preços e níveis de serviço fixos para 2027."
+    "es": "Si compras discos de estado sólido empresariales, espera más demanda de centros de datos: asegura asignación para 2027.",
+    "en": "If you buy enterprise solid-state drives, expect more data center demand: secure 2027 allocation.",
+    "pt": "Se você compra discos de estado sólido corporativos, espere mais demanda de data centers: garanta alocação para 2027."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 25 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/"
+     "t": "Investing.com: Kioxia sube 14% tras una colaboración con Nvidia y rebotan los chips (26 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/kioxia-jumps-14-nvidia-collaboration-062844097.html"
+    }
+   ]
+  },
+  {
+   "id": "manufactura",
+   "dir": "down",
+   "calor": 2,
+   "mx": true,
+   "latam": false,
+   "es": "Manufactura",
+   "en": "Manufacturing",
+   "pt": "Manufatura",
+   "titular": {
+    "es": "México: el desempleo sube a 3.0% en octubre, su nivel más alto desde 2022",
+    "en": "Mexico: unemployment rises to 3.0% in October, its highest since 2022",
+    "pt": "México: o desemprego sobe para 3,0% em outubro, o maior nível desde 2022"
+   },
+   "x": {
+    "es": "La tasa de desocupación subió a 3.0% en octubre, desde 2.6% un año antes; la población ocupada bajó en 185,000 personas, a 60.7 millones, y hay 1.9 millones de desocupados, según el INEGI. México sigue sin determinación en la investigación de EE. UU. por exceso de capacidad.",
+    "en": "The unemployment rate rose to 3.0% in October, from 2.6% a year earlier; employment fell by 185,000 people to 60.7 million, and there are 1.9 million unemployed, according to INEGI. Mexico still has no determination in the US overcapacity investigation.",
+    "pt": "A taxa de desemprego subiu para 3,0% em outubro, desde 2,6% um ano antes; a população ocupada caiu 185 mil pessoas, para 60,7 milhões, e há 1,9 milhão de desempregados, segundo o INEGI. O México segue sem determinação na investigação dos EUA por excesso de capacidade."
+   },
+   "scm": {
+    "es": "Revisa tus pronósticos de demanda de consumo en México para el primer trimestre y ajusta inventarios de producto terminado.",
+    "en": "Review your first-quarter consumer demand forecasts for Mexico and adjust finished goods inventory.",
+    "pt": "Revise suas previsões de demanda de consumo no México para o primeiro trimestre e ajuste os estoques de produto acabado."
+   },
+   "fuentes": [
+    {
+     "t": "Alto Nivel: el desempleo en México sube a 3% en octubre, su nivel más alto en cuatro años (26 nov 2026)",
+     "u": "https://www.altonivel.com.mx/desempleo-en-mexico-sube-a-3-en-octubre-su-nivel-mas-alto-en-cuatro-anos/"
+    }
+   ]
+  },
+  {
+   "id": "aeroespacial",
+   "dir": "down",
+   "calor": 2,
+   "mx": false,
+   "latam": true,
+   "es": "Aeroespacial",
+   "en": "Aerospace",
+   "pt": "Aeroespacial",
+   "titular": {
+    "es": "EE. UU. propone 10% a los aviones de Brasil; Embraer tiene unos 160 E175 pedidos por aerolíneas de EE. UU.",
+    "en": "US proposes 10% on Brazilian aircraft; Embraer has about 160 E175s on order from US airlines",
+    "pt": "EUA propõem 10% sobre aviões do Brasil; a Embraer tem cerca de 160 E175 encomendados por companhias dos EUA"
+   },
+   "x": {
+    "es": "EE. UU. propuso un arancel de 10% a los aviones terminados de Brasil, hoy exentos; los aviones son la cuarta exportación de Brasil a EE. UU. Embraer tenía al tercer trimestre pedidos firmes de unos 160 jets E175 para American, SkyWest y Republic, que no tienen alternativa fabricada en EE. UU., según Reuters. Entraría desde enero como pronto.",
+    "en": "The US proposed a 10% tariff on finished aircraft from Brazil, currently exempt; aircraft are Brazil’s fourth-largest export to the US. Embraer had firm orders at the end of the third quarter for about 160 E175 jets for American, SkyWest and Republic, which have no US-made alternative, according to Reuters. It would take effect in January at the earliest.",
+    "pt": "Os EUA propuseram uma tarifa de 10% sobre aviões acabados do Brasil, hoje isentos; os aviões são a quarta maior exportação do Brasil para os EUA. A Embraer tinha no terceiro trimestre pedidos firmes de cerca de 160 jatos E175 para American, SkyWest e Republic, que não têm alternativa fabricada nos EUA, segundo a Reuters. Entraria em vigor a partir de janeiro no mínimo."
+   },
+   "scm": {
+    "es": "Si surtes partes a Embraer o a aerolíneas regionales, revisa con tu cliente cómo repartirían un arancel y ajusta pronósticos de 2027.",
+    "en": "If you supply parts to Embraer or regional airlines, review with your customer how a tariff would be shared and adjust 2027 forecasts.",
+    "pt": "Se você fornece peças para a Embraer ou para companhias regionais, revise com o cliente como uma tarifa seria dividida e ajuste as previsões de 2027."
+   },
+   "fuentes": [
+    {
+     "t": "Reuters: EE. UU. propone nuevos aranceles a Brasil, incluido 10% a los aviones (25 nov 2026)",
+     "u": "https://finance.yahoo.com/news/us-proposes-higher-tariffs-brazil-131543830.html"
+    },
+    {
+     "t": "Reuters: las aerolíneas de EE. UU. enfrentarían costos más altos por el arancel propuesto a Embraer (25 nov 2026)",
+     "u": "https://finance.yahoo.com/economy/policy/articles/us-airlines-face-higher-costs-222235730.html"
+    }
+   ]
+  },
+  {
+   "id": "agro",
+   "dir": "mixed",
+   "calor": 1,
+   "mx": false,
+   "latam": true,
+   "es": "Agroalimentos",
+   "en": "Agrifood",
+   "pt": "Agroalimentos",
+   "titular": {
+    "es": "EE. UU. propone un arancel nuevo al azúcar fuera de cuota; el efecto sobre Brasil sería limitado",
+    "en": "US proposes a new tariff on out-of-quota sugar; the effect on Brazil would be limited",
+    "pt": "EUA propõem nova tarifa sobre o açúcar fora da cota; o efeito sobre o Brasil seria limitado"
+   },
+   "x": {
+    "es": "EE. UU. propuso un arancel nuevo al azúcar cruda y refinada fuera de cuota para evitar que el azúcar de Brasil entre por terceros países. Las exportaciones de azúcar de Brasil a EE. UU. bajaron a poco más de 146,000 toneladas en 2026 hasta octubre, desde más de un millón en 2024, según UNICA, y EE. UU. ya planea recortar la cuota libre de arancel de 2027 a unas 100,000 toneladas, según Reuters.",
+    "en": "The US proposed a new tariff on out-of-quota raw and refined sugar to prevent Brazilian sugar from entering through third countries. Brazil’s sugar exports to the US fell to just over 146,000 tons in 2026 through October, from more than one million in 2024, according to UNICA, and the US already plans to cut the 2027 tariff-free quota to about 100,000 tons, according to Reuters.",
+    "pt": "Os EUA propuseram uma nova tarifa sobre açúcar bruto e refinado fora da cota para evitar que o açúcar do Brasil entre por terceiros países. As exportações de açúcar do Brasil para os EUA caíram para pouco mais de 146 mil toneladas em 2026 até outubro, desde mais de um milhão em 2024, segundo a UNICA, e os EUA já planejam cortar a cota livre de tarifa de 2027 para cerca de 100 mil toneladas, segundo a Reuters."
+   },
+   "scm": {
+    "es": "Si importas azúcar a EE. UU. vía terceros países, revisa el origen documentado de tus embarques de 2027.",
+    "en": "If you import sugar into the US via third countries, review the documented origin of your 2027 shipments.",
+    "pt": "Se você importa açúcar para os EUA via terceiros países, revise a origem documentada dos embarques de 2027."
+   },
+   "fuentes": [
+    {
+     "t": "Reuters: EE. UU. propone nuevos aranceles a Brasil, incluido 10% a los aviones (25 nov 2026)",
+     "u": "https://finance.yahoo.com/news/us-proposes-higher-tariffs-brazil-131543830.html"
     }
    ]
   },
   {
    "id": "mineria",
-   "dir": "mixed",
+   "dir": "up",
    "calor": 2,
    "mx": true,
    "latam": true,
@@ -239,59 +184,24 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "Los metales se recuperan al cierre: el cobre termina en 5.48 dólares y el oro en 3,601",
-    "en": "Metals recover at the close: copper ends at $5.48 and gold at $3,601",
-    "pt": "Os metais se recuperam no fechamento: o cobre termina a 5,48 dólares e o ouro a 3.601"
+    "es": "La plata sube 3.5%, el oro 1.2% y el cobre 0.9% a 5.47 dólares",
+    "en": "Silver rises 3.5%, gold 1.2% and copper 0.9% to $5.47",
+    "pt": "A prata sobe 3,5%, o ouro 1,2% e o cobre 0,9% para 5,47 dólares"
    },
    "x": {
-    "es": "Después de caer en la mañana, el cobre terminó en 5.48 dólares por libra (+0.6%), la plata en 41.34 (+0.2%) y el oro en 3,601 (+0.3%). El Libro Beige menciona a los metales entre las presiones de costos de las empresas.",
-    "en": "After falling in the morning, copper ended at $5.48 per pound (+0.6%), silver at $41.34 (+0.2%) and gold at $3,601 (+0.3%). The Beige Book lists metals among companies’ cost pressures.",
-    "pt": "Depois de cair de manhã, o cobre terminou a 5,48 dólares por libra (+0,6%), a prata a 41,34 (+0,2%) e o ouro a 3.601 (+0,3%). O Livro Bege cita os metais entre as pressões de custos das empresas."
+    "es": "A las 8:59 CDMX la plata estaba en 41.97 dólares (+3.5%), el oro en 3,607 (+1.2%) y el cobre en 5.47 dólares por libra (+0.9%), con el riesgo en Medio Oriente.",
+    "en": "At 9:59 a.m. ET silver stood at $41.97 (+3.5%), gold at $3,607 (+1.2%) and copper at $5.47 per pound (+0.9%), on Middle East risk.",
+    "pt": "Às 8h59 (Cidade do México) a prata estava a 41,97 dólares (+3,5%), o ouro a 3.607 (+1,2%) e o cobre a 5,47 dólares por libra (+0,9%), com o risco no Oriente Médio."
    },
    "scm": {
-    "es": "Cotiza cable, conectores y empaques metálicos del primer trimestre esta semana, antes de que los proveedores trasladen nuevas alzas.",
-    "en": "Quote first-quarter cable, connectors and metal packaging this week, before suppliers pass on new increases.",
-    "pt": "Cote nesta semana cabos, conectores e embalagens metálicas do primeiro trimestre, antes que os fornecedores repassem novas altas."
+    "es": "Los metales rebotan: si tienes cotizaciones de cable y conectores vigentes, ciérralas esta semana.",
+    "en": "Metals are rebounding: if you hold valid quotes for cable and connectors, close them this week.",
+    "pt": "Os metais se recuperam: se você tem cotações válidas de cabos e conectores, feche-as nesta semana."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: el Libro Beige de la Fed muestra presiones de precios más amplias (25 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 25 nov 2026)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 09:09 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
-    }
-   ]
-  },
-  {
-   "id": "centros",
-   "dir": "up",
-   "calor": 2,
-   "mx": false,
-   "latam": false,
-   "es": "Centros de datos",
-   "en": "Data centers",
-   "pt": "Data centers",
-   "titular": {
-    "es": "Goldman: EE. UU. sumará 52 gigawatts para centros de datos en 2028, casi el triple que en 2026",
-    "en": "Goldman: the US will add 52 gigawatts for data centers in 2028, nearly triple 2026",
-    "pt": "Goldman: os EUA vão somar 52 gigawatts para data centers em 2028, quase o triplo de 2026"
-   },
-   "x": {
-    "es": "Goldman Sachs estima que EE. UU. sumará unos 52 gigawatts de capacidad eléctrica para centros de datos en 2028, contra 18 esperados en 2026; los centros de datos explican más de un tercio del crecimiento de la demanda eléctrica de EE. UU. este año, según Yahoo Finance.",
-    "en": "Goldman Sachs estimates the US will add about 52 gigawatts of data center power capacity in 2028, versus 18 expected in 2026; data centers account for more than a third of US power demand growth this year, according to Yahoo Finance.",
-    "pt": "O Goldman Sachs estima que os EUA vão somar cerca de 52 gigawatts de capacidade elétrica para data centers em 2028, contra 18 esperados em 2026; os data centers respondem por mais de um terço do crescimento da demanda elétrica dos EUA neste ano, segundo o Yahoo Finance."
-   },
-   "scm": {
-    "es": "Si surtes transformadores, tableros o cable a centros de datos, la demanda se ve firme hasta 2028: reserva capacidad con tus proveedores.",
-    "en": "If you supply transformers, switchgear or cable to data centers, demand looks firm through 2028: reserve capacity with your suppliers.",
-    "pt": "Se você fornece transformadores, painéis ou cabos para data centers, a demanda parece firme até 2028: reserve capacidade com seus fornecedores."
-   },
-   "fuentes": [
-    {
-     "t": "Yahoo Finance: las bolsas recortan pérdidas, pero la tecnología sigue golpeada (25 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
     }
    ]
   }

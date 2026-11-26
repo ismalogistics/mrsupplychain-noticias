@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-26-apertura-global",
+   "fecha": "2026-11-26",
+   "momento": "apertura",
+   "mercado": "global",
+   "titular_es": "Sin Wall Street por Acción de Gracias, Europa sube 2.2% y el Brent llega a 96 dólares por los ataques en Ormuz",
+   "titular_en": "With Wall Street closed for Thanksgiving, Europe rises 2.2% and Brent reaches $96 on the Hormuz attacks",
+   "titular_pt": "Sem Wall Street pelo Dia de Ação de Graças, a Europa sobe 2,2% e o Brent chega a 96 dólares pelos ataques em Ormuz"
+  },
+  {
+   "id": "2026-11-26-apertura-latam",
+   "fecha": "2026-11-26",
+   "momento": "apertura",
+   "mercado": "latam",
+   "titular_es": "El Ibovespa sube 4% con el alivio por los aranceles y una inflación menor; el real se fortalece a 5.73",
+   "titular_en": "The Ibovespa rises 4% on tariff relief and lower inflation; the real strengthens to 5.73",
+   "titular_pt": "O Ibovespa sobe 4% com o alívio pelas tarifas e uma inflação menor; o real se fortalece para 5,73"
+  },
+  {
+   "id": "2026-11-26-apertura-mexico",
+   "fecha": "2026-11-26",
+   "momento": "apertura",
+   "mercado": "mexico",
+   "titular_es": "El IPC cae 1.2% y el peso sigue débil en 19.66; el desempleo sube a 3%, su nivel más alto en cuatro años",
+   "titular_en": "The IPC falls 1.2% and the peso stays weak at 19.66; unemployment rises to 3%, its highest in four years",
+   "titular_pt": "O IPC cai 1,2% e o peso segue fraco em 19,66; o desemprego sobe para 3%, o maior nível em quatro anos"
+  },
+  {
    "id": "2026-11-26-premercado-global",
    "fecha": "2026-11-26",
    "momento": "premercado",
@@ -782,33 +809,6 @@
    "titular_es": "Día sin BMV: el peso termina en 18.51 y resiste la venta global; mañana reabren bolsa y bancos",
    "titular_en": "A day without the BMV: the peso ends at 18.51 and withstands the global sell-off; markets and banks reopen tomorrow",
    "titular_pt": "Dia sem BMV: o peso termina em 18,51 e resiste à venda global; amanhã reabrem bolsa e bancos"
-  },
-  {
-   "id": "2026-11-16-mediodia-global",
-   "fecha": "2026-11-16",
-   "momento": "mediodia",
-   "mercado": "global",
-   "titular_es": "La venta en tecnología se sostiene: el Nasdaq cae 2%, el Dow 0.9% e Intel enfrenta una demanda colectiva",
-   "titular_en": "The tech sell-off holds: the Nasdaq falls 2%, the Dow 0.9% and Intel faces a class action",
-   "titular_pt": "A venda em tecnologia se mantém: o Nasdaq cai 2%, o Dow 0,9% e a Intel enfrenta uma ação coletiva"
-  },
-  {
-   "id": "2026-11-16-mediodia-latam",
-   "fecha": "2026-11-16",
-   "momento": "mediodia",
-   "mercado": "latam",
-   "titular_es": "El Ibovespa amplía su caída a 1.8% y el real se debilita a 5.78; Argentina cae 3%",
-   "titular_en": "The Ibovespa extends its drop to 1.8% and the real weakens to 5.78; Argentina falls 3%",
-   "titular_pt": "O Ibovespa amplia a queda para 1,8% e o real se enfraquece para 5,78; a Argentina cai 3%"
-  },
-  {
-   "id": "2026-11-16-mediodia-mexico",
-   "fecha": "2026-11-16",
-   "momento": "mediodia",
-   "mercado": "mexico",
-   "titular_es": "Sin BMV por el feriado, el peso recupera terreno y vuelve a 18.57",
-   "titular_en": "With the BMV closed for the holiday, the peso regains ground and returns to 18.57",
-   "titular_pt": "Sem BMV pelo feriado, o peso recupera terreno e volta a 18,57"
   }
  ]
 }
