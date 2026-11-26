@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-26-cierre-global",
+   "fecha": "2026-11-26",
+   "momento": "cierre",
+   "mercado": "global",
+   "titular_es": "Un jueves sin Wall Street: el Brent cierra en 96.57 dólares tras la explosión de dos petroleros en Ormuz y Europa sube 2%",
+   "titular_en": "A Thursday without Wall Street: Brent settles at $96.57 after two tankers explode in Hormuz and Europe rises 2%",
+   "titular_pt": "Uma quinta sem Wall Street: o Brent fecha a 96,57 dólares após a explosão de dois petroleiros em Ormuz e a Europa sobe 2%"
+  },
+  {
+   "id": "2026-11-26-cierre-latam",
+   "fecha": "2026-11-26",
+   "momento": "cierre",
+   "mercado": "latam",
+   "titular_es": "El Ibovespa se dispara 6% y el real se fortalece a 5.64 por la especulación sobre Hacienda y una inflación menor",
+   "titular_en": "The Ibovespa soars 6% and the real strengthens to 5.64 on Finance Ministry speculation and lower inflation",
+   "titular_pt": "O Ibovespa dispara 6% e o real se fortalece para 5,64 com a especulação sobre a Fazenda e a inflação menor"
+  },
+  {
+   "id": "2026-11-26-cierre-mexico",
+   "fecha": "2026-11-26",
+   "momento": "cierre",
+   "mercado": "mexico",
+   "titular_es": "El IPC cae 1.45% y el peso cierra débil en 19.71; mañana rige el FIX de 19.7040",
+   "titular_en": "The IPC falls 1.45% and the peso closes weak at 19.71; tomorrow the 19.7040 FIX applies",
+   "titular_pt": "O IPC cai 1,45% e o peso fecha fraco em 19,71; amanhã vale o FIX de 19,7040"
+  },
+  {
    "id": "2026-11-26-mediodia-global",
    "fecha": "2026-11-26",
    "momento": "mediodia",
@@ -782,33 +809,6 @@
    "titular_es": "El peso se fortalece a 18.41, su mejor nivel en semanas; el IPC se mantiene plano",
    "titular_en": "The peso firms to 18.41, its best level in weeks; the IPC holds flat",
    "titular_pt": "O peso se fortalece para 18,41, seu melhor nível em semanas; o IPC fica estável"
-  },
-  {
-   "id": "2026-11-17-apertura-global",
-   "fecha": "2026-11-17",
-   "momento": "apertura",
-   "mercado": "global",
-   "titular_es": "Wall Street abre a la baja antes de Nvidia: Taiwán se desploma 8.2% y Europa cae 1.2%",
-   "titular_en": "Wall Street opens lower ahead of Nvidia: Taiwan plunges 8.2% and Europe falls 1.2%",
-   "titular_pt": "Wall Street abre em queda antes da Nvidia: Taiwan despenca 8,2% e a Europa cai 1,2%"
-  },
-  {
-   "id": "2026-11-17-apertura-latam",
-   "fecha": "2026-11-17",
-   "momento": "apertura",
-   "mercado": "latam",
-   "titular_es": "El Ibovespa rebota 1.1% y Perú sube 1.7%; el real se mantiene en 5.79",
-   "titular_en": "The Ibovespa rebounds 1.1% and Peru rises 1.7%; the real holds at 5.79",
-   "titular_pt": "O Ibovespa volta a subir 1,1% e o Peru sobe 1,7%; o real se mantém em 5,79"
-  },
-  {
-   "id": "2026-11-17-apertura-mexico",
-   "fecha": "2026-11-17",
-   "momento": "apertura",
-   "mercado": "mexico",
-   "titular_es": "Reabre la BMV: el IPC sube 0.1% y el peso se fortalece a 18.48; el FIX del viernes fue de 18.5525",
-   "titular_en": "The BMV reopens: the IPC rises 0.1% and the peso firms to 18.48; Friday's FIX was 18.5525",
-   "titular_pt": "A BMV reabre: o IPC sobe 0,1% e o peso se fortalece para 18,48; o FIX de sexta foi de 18,5525"
   }
  ]
 }

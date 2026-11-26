@@ -1,85 +1,86 @@
 {
- "actualizado": "2026-11-26T17:40:19Z",
- "momento": "mediodia",
+ "actualizado": "2026-11-26T21:18:53Z",
+ "momento": "cierre",
  "briefs": {
   "global": {
-   "id": "2026-11-26-mediodia-global",
+   "id": "2026-11-26-cierre-global",
    "fecha": "2026-11-26",
-   "momento": "mediodia",
+   "momento": "cierre",
    "mercado": "global",
-   "hora": "11:38 CDMX",
+   "hora": "15:16 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "Europa cierra con +2.0% y el Brent se mantiene en 96 dólares en un jueves sin Wall Street",
+    "titular": "Un jueves sin Wall Street: el Brent cierra en 96.57 dólares tras la explosión de dos petroleros en Ormuz y Europa sube 2%",
     "esencial": [
-     "El Euro Stoxx 50 cerró con +2.04% (6,014.74) y el DAX con +2.08%; a las 11:28 CDMX los futuros del S&P 500 subían 0.58%.",
-     "El Brent de enero seguía en 96.09 dólares (+1.6%) a las 11:20 CDMX, por los ataques en Ormuz; la OPEP+ decide su producción de 2027 el domingo.",
-     "Para supply chain: el diésel en futuros sube 0.9% a 3.69 dólares por galón; no fijes recargos de combustible de diciembre antes del domingo."
+     "El Brent de enero cerró en 96.57 dólares (+1.96 dólares) después de que dos petroleros explotaron al chocar con minas al cruzar el estrecho de Ormuz, según la Guardia Revolucionaria de Irán citada por Reuters.",
+     "Wall Street no operó por el Día de Acción de Gracias; el Euro Stoxx 50 cerró con +2.04% y los futuros del S&P 500 subían 0.54%.",
+     "Para supply chain: la OPEP+ podría mantener sus metas de producción en el primer trimestre de 2027, según Reuters; no fijes recargos de combustible antes de su reunión del domingo."
     ],
     "bloques": [
      {
-      "t": "Lo que se esperaba",
-      "x": "En la apertura, con Wall Street cerrado por el Día de Acción de Gracias, Europa subía 2.2% y el Brent llegaba a 96.08 dólares por los ataques con minas a barcos en Ormuz."
+      "t": "Qué pasó",
+      "x": "Wall Street no operó por el Día de Acción de Gracias. Europa cerró con fuerza: Euro Stoxx 50 +2.04% (6,014.74), DAX +2.08% y FTSE 100 +1.75%. Los futuros del S&P 500 subían 0.54% y los del Nasdaq 100 0.46%. El Brent de enero cerró en 96.57 dólares (+1.96 dólares) y el WTI, que no liquidó por el feriado, estaba en 84.84. El diésel en futuros subía 1.3% a 3.70 dólares por galón; el oro subía 0.8% y la plata 3.0%."
      },
      {
-      "t": "Cómo va",
-      "x": "Europa cerró al alza: Euro Stoxx 50 +2.04% (6,014.74), DAX +2.08% y FTSE 100 +1.75%. A las 11:28 CDMX los futuros del S&P 500 subían 0.58%, los del Nasdaq 100 0.55% y los del Dow 0.47%. El Brent de enero estaba en 96.09 dólares (+1.6%) y el WTI en 84.70 (+1.2%); el oro subía 0.9%, la plata 3.0% y el cobre 0.2% a 5.43 dólares por libra. El índice del dólar subía 0.11% a 103.78."
+      "t": "Por qué",
+      "x": "La Guardia Revolucionaria de Irán dijo que dos petroleros explotaron y se incendiaron al chocar con minas al norte del puerto omaní de Khasab cuando cruzaban el estrecho de Ormuz; uno llevaba más de 2 millones de barriles. El miércoles, los hutíes dijeron que atacaron la refinería saudí de Ras Tanura. Un analista citado por Reuters habló de un riesgo conocido sobre cerca de 15% de la oferta mundial. Las minutas del BCE mostraron presión para más alzas de tasas, y el Banco de Corea subió la suya a 3.25%."
      },
      {
-      "t": "Lo que sorprendió",
-      "x": "El petróleo mantuvo sus alzas en una sesión de poca liquidez. Siemens Energy firmó con Venezuela dos acuerdos para rehabilitar su red eléctrica y la generación de los campos petroleros de PDVSA; el país genera unos 12,000 megawatts contra una demanda cercana a 17,000, según Oilprice.com. Mañana Wall Street opera hasta las 12:00 CDMX."
+      "t": "Qué se espera",
+      "x": "Mañana viernes Wall Street opera hasta las 12:00 CDMX y arranca la temporada de compras de fin de año. La OPEP+ se reúne el domingo 29 y podría mantener sus metas de producción al menos en el primer trimestre de 2027, según dos fuentes citadas por Reuters. El martes 1 de diciembre sale el ISM manufacturero de EE. UU."
      }
     ],
-    "scm": "El diésel en futuros sube a 3.69 dólares por galón: no fijes recargos de combustible de diciembre antes de la OPEP+ del domingo y confirma hoy los cruces y recolecciones de mañana, que es día corto en EE. UU."
+    "scm": "El riesgo en Ormuz sube el costo del combustible y de los seguros marítimos: mantén el ajuste semanal del recargo, revisa con tus navieras los recargos de guerra en rutas por el Golfo Pérsico y confirma hoy los cruces y recolecciones del viernes, que es día corto en EE. UU."
    },
    "en": {
-    "titular": "Europe closes +2.0% and Brent holds at $96 on a Thursday without Wall Street",
+    "titular": "A Thursday without Wall Street: Brent settles at $96.57 after two tankers explode in Hormuz and Europe rises 2%",
     "esencial": [
-     "The Euro Stoxx 50 closed +2.04% (6,014.74) and the DAX +2.08%; at 12:28 p.m. ET S&P 500 futures were up 0.58%.",
-     "January Brent held at $96.09 (+1.6%) at 12:20 p.m. ET on the Hormuz attacks; OPEC+ decides its 2027 output on Sunday.",
-     "For supply chain: diesel futures rise 0.9% to $3.69 a gallon; do not set December fuel surcharges before Sunday."
+     "January Brent settled at $96.57 (+$1.96) after two tankers exploded on hitting mines while crossing the Strait of Hormuz, according to Iran's Revolutionary Guards cited by Reuters.",
+     "Wall Street was closed for Thanksgiving; the Euro Stoxx 50 closed +2.04% and S&P 500 futures were up 0.54%.",
+     "For supply chain: OPEC+ may keep its output targets for the first quarter of 2027, according to Reuters; do not set fuel surcharges before its Sunday meeting."
     ],
     "bloques": [
      {
-      "t": "What was expected",
-      "x": "At the open, with Wall Street closed for Thanksgiving, Europe was up 2.2% and Brent reached $96.08 on mine strikes against ships in Hormuz."
+      "t": "What happened",
+      "x": "Wall Street was closed for Thanksgiving. Europe closed strongly: Euro Stoxx 50 +2.04% (6,014.74), DAX +2.08% and FTSE 100 +1.75%. S&P 500 futures were up 0.54% and Nasdaq 100 futures 0.46%. January Brent settled at $96.57 (+$1.96) and WTI, which did not settle due to the holiday, stood at $84.84. Diesel futures rose 1.3% to $3.70 a gallon; gold rose 0.8% and silver 3.0%."
      },
      {
-      "t": "How it is going",
-      "x": "Europe closed higher: Euro Stoxx 50 +2.04% (6,014.74), DAX +2.08% and FTSE 100 +1.75%. At 12:28 p.m. ET S&P 500 futures were up 0.58%, Nasdaq 100 futures 0.55% and Dow futures 0.47%. January Brent stood at $96.09 (+1.6%) and WTI at $84.70 (+1.2%); gold rose 0.9%, silver 3.0% and copper 0.2% to $5.43 per pound. The dollar index rose 0.11% to 103.78."
+      "t": "Why",
+      "x": "Iran's Revolutionary Guards said two tankers exploded and caught fire after hitting mines north of Oman's Khasab port while crossing the Strait of Hormuz; one carried more than 2 million barrels. On Wednesday, the Houthis said they attacked Saudi Arabia's Ras Tanura refinery. An analyst quoted by Reuters described a known risk to about 15% of global supply. ECB minutes showed pressure for more rate hikes, and the Bank of Korea raised its rate to 3.25%."
      },
      {
-      "t": "What surprised",
-      "x": "Oil held its gains in a thin session. Siemens Energy signed two agreements with Venezuela to rehabilitate its power grid and the generation serving PDVSA oilfields; the country generates about 12,000 megawatts against demand near 17,000, according to Oilprice.com. Tomorrow Wall Street trades until 1:00 p.m. ET."
+      "t": "What to expect",
+      "x": "Tomorrow, Friday, Wall Street trades until 1:00 p.m. ET and the holiday shopping season begins. OPEC+ meets on Sunday the 29th and may keep its output targets for at least the first quarter of 2027, according to two sources cited by Reuters. The US ISM manufacturing index comes out on Tuesday, December 1."
      }
     ],
-    "scm": "Diesel futures rise to $3.69 a gallon: do not set December fuel surcharges before Sunday’s OPEC+ meeting and confirm tomorrow’s crossings and pickups today, since it is a short day in the US."
+    "scm": "The Hormuz risk raises the cost of fuel and marine insurance: keep weekly surcharge adjustments, review war-risk surcharges on Persian Gulf routes with your ocean carriers and confirm Friday’s crossings and pickups today, since it is a short day in the US."
    },
    "pt": {
-    "titular": "A Europa fecha com +2,0% e o Brent se mantém em 96 dólares numa quinta sem Wall Street",
+    "titular": "Uma quinta sem Wall Street: o Brent fecha a 96,57 dólares após a explosão de dois petroleiros em Ormuz e a Europa sobe 2%",
     "esencial": [
-     "O Euro Stoxx 50 fechou com +2,04% (6.014,74) e o DAX com +2,08%; às 11h28 (Cidade do México) os futuros do S&P 500 subiam 0,58%.",
-     "O Brent de janeiro seguia a 96,09 dólares (+1,6%) às 11h20, pelos ataques em Ormuz; a OPEP+ decide a produção de 2027 no domingo.",
-     "Para supply chain: o diesel em futuros sobe 0,9% para 3,69 dólares por galão; não fixe sobretaxas de combustível de dezembro antes de domingo."
+     "O Brent de janeiro fechou a 96,57 dólares (+1,96 dólar) depois que dois petroleiros explodiram ao bater em minas ao cruzar o estreito de Ormuz, segundo a Guarda Revolucionária do Irã citada pela Reuters.",
+     "Wall Street não operou pelo Dia de Ação de Graças; o Euro Stoxx 50 fechou com +2,04% e os futuros do S&P 500 subiam 0,54%.",
+     "Para supply chain: a OPEP+ pode manter suas metas de produção no primeiro trimestre de 2027, segundo a Reuters; não fixe sobretaxas de combustível antes da reunião de domingo."
     ],
     "bloques": [
      {
-      "t": "O que se esperava",
-      "x": "Na abertura, com Wall Street fechada pelo Dia de Ação de Graças, a Europa subia 2,2% e o Brent chegava a 96,08 dólares pelos ataques com minas a navios em Ormuz."
+      "t": "O que aconteceu",
+      "x": "Wall Street não operou pelo Dia de Ação de Graças. A Europa fechou forte: Euro Stoxx 50 +2,04% (6.014,74), DAX +2,08% e FTSE 100 +1,75%. Os futuros do S&P 500 subiam 0,54% e os do Nasdaq 100 0,46%. O Brent de janeiro fechou a 96,57 dólares (+1,96 dólar) e o WTI, que não liquidou pelo feriado, estava a 84,84. O diesel em futuros subia 1,3% para 3,70 dólares por galão; o ouro subia 0,8% e a prata 3,0%."
      },
      {
-      "t": "Como está",
-      "x": "A Europa fechou em alta: Euro Stoxx 50 +2,04% (6.014,74), DAX +2,08% e FTSE 100 +1,75%. Às 11h28 (Cidade do México) os futuros do S&P 500 subiam 0,58%, os do Nasdaq 100 0,55% e os do Dow 0,47%. O Brent de janeiro estava a 96,09 dólares (+1,6%) e o WTI a 84,70 (+1,2%); o ouro subia 0,9%, a prata 3,0% e o cobre 0,2% para 5,43 dólares por libra. O índice do dólar subia 0,11% para 103,78."
+      "t": "Por quê",
+      "x": "A Guarda Revolucionária do Irã disse que dois petroleiros explodiram e pegaram fogo ao bater em minas ao norte do porto omanense de Khasab quando cruzavam o estreito de Ormuz; um levava mais de 2 milhões de barris. Na quarta, os houthis disseram ter atacado a refinaria saudita de Ras Tanura. Um analista citado pela Reuters falou de um risco conhecido sobre cerca de 15% da oferta mundial. As atas do BCE mostraram pressão por mais altas de juros, e o Banco da Coreia elevou sua taxa para 3,25%."
      },
      {
-      "t": "O que surpreendeu",
-      "x": "O petróleo manteve as altas numa sessão de pouca liquidez. A Siemens Energy assinou com a Venezuela dois acordos para reabilitar a rede elétrica e a geração dos campos de petróleo da PDVSA; o país gera cerca de 12.000 megawatts contra uma demanda próxima de 17.000, segundo a Oilprice.com. Amanhã Wall Street opera até as 12h00 (Cidade do México)."
+      "t": "O que se espera",
+      "x": "Amanhã, sexta, Wall Street opera até as 12h00 (Cidade do México) e começa a temporada de compras de fim de ano. A OPEP+ se reúne no domingo, dia 29, e pode manter suas metas de produção ao menos no primeiro trimestre de 2027, segundo duas fontes citadas pela Reuters. Na terça, 1º de dezembro, sai o ISM industrial dos EUA."
      }
     ],
-    "scm": "O diesel em futuros sobe para 3,69 dólares por galão: não fixe sobretaxas de combustível de dezembro antes da OPEP+ de domingo e confirme hoje as travessias e coletas de amanhã, que é dia curto nos EUA."
+    "scm": "O risco em Ormuz eleva o custo do combustível e dos seguros marítimos: mantenha o ajuste semanal da sobretaxa, revise com seus armadores as sobretaxas de risco de guerra nas rotas pelo Golfo Pérsico e confirme hoje as travessias e coletas de sexta, que é dia curto nos EUA."
    },
    "fuentes": [
     {
-     "t": "Reuters: el petróleo sube tras ataques con minas a barcos en Ormuz (26 nov 2026)",
+     "t": "Reuters: el Brent cierra al alza por los ataques con minas en Ormuz y a una refinería saudí (26 nov 2026)",
      "u": "https://finance.yahoo.com/energy/articles/oil-rises-supply-concerns-iran-030849858.html"
     },
     {
@@ -87,101 +88,118 @@
      "u": "https://finance.yahoo.com/economy/policy/articles/ecb-minutes-show-large-number-141140980.html"
     },
     {
+     "t": "Mydaily: el Banco de Corea sube su tasa 0.25 puntos, a 3.25% (26 nov 2026)",
+     "u": "https://www.mydaily.co.kr/page/view/2026112609455703534"
+    },
+    {
      "t": "Oilprice.com: Siemens Energy firma acuerdos para rehabilitar la red eléctrica de Venezuela (26 nov 2026)",
      "u": "https://finance.yahoo.com/energy/articles/siemens-energy-signs-major-deal-172352287.html"
     },
     {
-     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 11:38 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 26 nov 2026)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-26-mediodia-latam",
+   "id": "2026-11-26-cierre-latam",
    "fecha": "2026-11-26",
-   "momento": "mediodia",
+   "momento": "cierre",
    "mercado": "latam",
-   "hora": "11:38 CDMX",
+   "hora": "15:16 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "El Ibovespa mantiene alza de 3.5% a media sesión; el real se fortalece a 5.75",
+    "titular": "El Ibovespa se dispara 6% y el real se fortalece a 5.64 por la especulación sobre Hacienda y una inflación menor",
     "esencial": [
-     "A las 11:23 CDMX el Ibovespa subía 3.47% (172,472.97) y el S&P/TSX de Canadá 0.63%.",
-     "El IPCA-15 de Brasil subió 0.22% en noviembre, contra 0.34% esperado, según InfoMoney.",
-     "Para supply chain: el dólar baja a 5.75 reales (−1.2%) y 3,527 pesos colombianos (−0.7%); cubre hoy pagos en esas monedas."
+     "El Ibovespa cerró en 176,707.23 (+6.01%), según Yahoo Finance, y el S&P/TSX de Canadá subía 0.72% (34,426.88) a las 15:16 CDMX.",
+     "El mercado reaccionó a reportes de que Luiz Carlos Trabuco, presidente del consejo de Bradesco, podría encabezar el Ministerio de Hacienda, y a un IPCA-15 de 0.22%, menor a lo esperado, según Seu Dinheiro.",
+     "Para supply chain: el dólar baja a 5.64 reales (−3.0%); aprovecha para cubrir pagos en reales."
     ],
     "bloques": [
      {
-      "t": "Lo que se esperaba",
-      "x": "En la apertura el Ibovespa subía 4.04% por el alivio con los aranceles de EE. UU. y una inflación menor a lo esperado; el real se fortalecía a 5.73."
+      "t": "Qué pasó",
+      "x": "El Ibovespa cerró en 176,707.23 (+6.01%), según Yahoo Finance, y el S&P/TSX de Canadá subía 0.72% a 34,426.88 a las 15:16 CDMX. En Brasil, Bradesco llegó a subir 7%, según InfoMoney."
      },
      {
-      "t": "Cómo va",
-      "x": "A las 11:23 CDMX el Ibovespa subía 3.47% a 172,472.97 y a las 11:38 el S&P/TSX de Canadá subía 0.63% a 34,393.66. El dólar estaba en 5.75 reales (−1.23%) y 3,527 pesos colombianos (−0.73%)."
+      "t": "Monedas",
+      "x": "A las 15:00 CDMX el dólar caía a 5.64 reales (−3.04%) y a las 14:36 a 3,543 pesos colombianos (−0.28%); el peso mexicano cerró débil en 19.71."
      },
      {
-      "t": "Lo que sorprendió",
-      "x": "El Ibovespa recortó un poco su alza, pero mantiene la mayor ganancia de la región. En Venezuela, Siemens Energy firmó acuerdos para rehabilitar la red eléctrica y la generación de los campos petroleros de PDVSA, tras otro acuerdo con GE Vernova para recuperar más de 5,000 megawatts en cuatro años, según Oilprice.com."
+      "t": "Por qué",
+      "x": "El mercado reaccionó a reportes de que Luiz Carlos Trabuco, presidente del consejo de Bradesco, podría encabezar el Ministerio de Hacienda; al IPCA-15 de noviembre, que subió 0.22%, abajo del rango esperado (aunque la inflación a 12 meses subió a 4.64%), y a una reunión de Lula con su equipo económico para limitar el gasto obligatorio, según Seu Dinheiro. La baja liquidez por el feriado en EE. UU. amplificó el movimiento."
+     },
+     {
+      "t": "Qué se espera",
+      "x": "Mañana viernes Wall Street opera hasta las 12:00 CDMX y el INEGI publica la balanza comercial de México. La OPEP+ se reúne el domingo 29."
      }
     ],
-    "scm": "Con el real y el peso colombiano más fuertes, cubre hoy tus pagos en esas monedas. Si surtes equipo eléctrico, sigue los proyectos de rehabilitación de la red en Venezuela."
+    "scm": "Con el real en su nivel más fuerte de la semana, cubre hoy tus pagos en reales. Si compras jets regionales, refacciones aeronáuticas o azúcar de Brasil, revisa contratos y entregas antes de enero."
    },
    "en": {
-    "titular": "The Ibovespa holds a 3.5% gain at midday; the real strengthens to 5.75",
+    "titular": "The Ibovespa soars 6% and the real strengthens to 5.64 on Finance Ministry speculation and lower inflation",
     "esencial": [
-     "At 12:23 p.m. ET the Ibovespa rose 3.47% (172,472.97) and Canada's S&P/TSX 0.63%.",
-     "Brazil's IPCA-15 rose 0.22% in November versus 0.34% expected, according to InfoMoney.",
-     "For supply chain: the dollar falls to 5.75 reais (−1.2%) and 3,527 Colombian pesos (−0.7%); cover payments in those currencies today."
+     "The Ibovespa closed at 176,707.23 (+6.01%), according to Yahoo Finance, and Canada's S&P/TSX was up 0.72% (34,426.88) at 4:16 p.m. ET.",
+     "The market reacted to reports that Luiz Carlos Trabuco, chairman of Bradesco's board, could head the Finance Ministry, and to a 0.22% IPCA-15, below expectations, according to Seu Dinheiro.",
+     "For supply chain: the dollar falls to 5.64 reais (−3.0%); use it to cover payments in reais."
     ],
     "bloques": [
      {
-      "t": "What was expected",
-      "x": "At the open the Ibovespa rose 4.04% on relief over the US tariffs and lower-than-expected inflation; the real strengthened to 5.73."
+      "t": "What happened",
+      "x": "The Ibovespa closed at 176,707.23 (+6.01%), according to Yahoo Finance, and Canada's S&P/TSX was up 0.72% at 34,426.88 at 4:16 p.m. ET. In Brazil, Bradesco rose as much as 7%, according to InfoMoney."
      },
      {
-      "t": "How it is going",
-      "x": "At 12:23 p.m. ET the Ibovespa rose 3.47% to 172,472.97 and at 12:38 Canada's S&P/TSX rose 0.63% to 34,393.66. The dollar stood at 5.75 reais (−1.23%) and 3,527 Colombian pesos (−0.73%)."
+      "t": "Currencies",
+      "x": "At 4:00 p.m. ET the dollar fell to 5.64 reais (−3.04%) and at 3:36 p.m. to 3,543 Colombian pesos (−0.28%); the Mexican peso closed weak at 19.71."
      },
      {
-      "t": "What surprised",
-      "x": "The Ibovespa pared some of its gain but keeps the largest rise in the region. In Venezuela, Siemens Energy signed agreements to rehabilitate the power grid and the generation serving PDVSA oilfields, after another deal with GE Vernova to restore more than 5,000 megawatts over four years, according to Oilprice.com."
+      "t": "Why",
+      "x": "The market reacted to reports that Luiz Carlos Trabuco, chairman of Bradesco's board, could head the Finance Ministry; to the November IPCA-15, which rose 0.22%, below the expected range (although 12-month inflation rose to 4.64%); and to a meeting between Lula and his economic team to limit mandatory spending, according to Seu Dinheiro. Thin liquidity from the US holiday amplified the move."
+     },
+     {
+      "t": "What to expect",
+      "x": "Tomorrow, Friday, Wall Street trades until 1:00 p.m. ET and INEGI publishes Mexico's trade balance. OPEC+ meets on Sunday the 29th."
      }
     ],
-    "scm": "With the real and Colombian peso stronger, cover your payments in those currencies today. If you supply electrical equipment, follow the grid rehabilitation projects in Venezuela."
+    "scm": "With the real at its strongest of the week, cover your payments in reais today. If you buy regional jets, aerospace parts or sugar from Brazil, review contracts and deliveries before January."
    },
    "pt": {
-    "titular": "O Ibovespa mantém alta de 3,5% no meio da sessão; o real se fortalece para 5,75",
+    "titular": "O Ibovespa dispara 6% e o real se fortalece para 5,64 com a especulação sobre a Fazenda e a inflação menor",
     "esencial": [
-     "Às 11h23 (Cidade do México) o Ibovespa subia 3,47% (172.472,97) e o S&P/TSX do Canadá 0,63%.",
-     "O IPCA-15 do Brasil subiu 0,22% em novembro, contra 0,34% esperado, segundo o InfoMoney.",
-     "Para supply chain: o dólar cai para R$ 5,75 (−1,2%) e 3.527 pesos colombianos (−0,7%); cubra hoje pagamentos nessas moedas."
+     "O Ibovespa fechou em 176.707,23 (+6,01%), segundo o Yahoo Finance, e o S&P/TSX do Canadá subia 0,72% (34.426,88) às 15h16 (Cidade do México).",
+     "O mercado reagiu a notícias de que Luiz Carlos Trabuco, presidente do conselho do Bradesco, pode comandar o Ministério da Fazenda, e a um IPCA-15 de 0,22%, menor que o esperado, segundo o Seu Dinheiro.",
+     "Para supply chain: o dólar cai para R$ 5,64 (−3,0%); aproveite para cobrir pagamentos em reais."
     ],
     "bloques": [
      {
-      "t": "O que se esperava",
-      "x": "Na abertura o Ibovespa subia 4,04% pelo alívio com as tarifas dos EUA e uma inflação menor que a esperada; o real se fortalecia para 5,73."
+      "t": "O que aconteceu",
+      "x": "O Ibovespa fechou em 176.707,23 (+6,01%), segundo o Yahoo Finance, e o S&P/TSX do Canadá subia 0,72% para 34.426,88 às 15h16 (Cidade do México). No Brasil, o Bradesco chegou a subir 7%, segundo o InfoMoney."
      },
      {
-      "t": "Como está",
-      "x": "Às 11h23 (Cidade do México) o Ibovespa subia 3,47% para 172.472,97 e às 11h38 o S&P/TSX do Canadá subia 0,63% para 34.393,66. O dólar estava em R$ 5,75 (−1,23%) e 3.527 pesos colombianos (−0,73%)."
+      "t": "Moedas",
+      "x": "Às 15h00 (Cidade do México) o dólar caía para R$ 5,64 (−3,04%) e às 14h36 para 3.543 pesos colombianos (−0,28%); o peso mexicano fechou fraco em 19,71."
      },
      {
-      "t": "O que surpreendeu",
-      "x": "O Ibovespa reduziu um pouco a alta, mas mantém o maior ganho da região. Na Venezuela, a Siemens Energy assinou acordos para reabilitar a rede elétrica e a geração dos campos de petróleo da PDVSA, depois de outro acordo com a GE Vernova para recuperar mais de 5.000 megawatts em quatro anos, segundo a Oilprice.com."
+      "t": "Por quê",
+      "x": "O mercado reagiu a notícias de que Luiz Carlos Trabuco, presidente do conselho do Bradesco, pode comandar o Ministério da Fazenda; ao IPCA-15 de novembro, que subiu 0,22%, abaixo do intervalo esperado (embora a inflação em 12 meses tenha subido para 4,64%); e a uma reunião de Lula com a equipe econômica para limitar os gastos obrigatórios, segundo o Seu Dinheiro. A baixa liquidez pelo feriado nos EUA ampliou o movimento."
+     },
+     {
+      "t": "O que se espera",
+      "x": "Amanhã, sexta, Wall Street opera até as 13h00 de Nova York e o INEGI divulga a balança comercial do México. A OPEP+ se reúne no domingo, dia 29."
      }
     ],
-    "scm": "Com o real e o peso colombiano mais fortes, cubra hoje seus pagamentos nessas moedas. Se você fornece equipamentos elétricos, acompanhe os projetos de reabilitação da rede na Venezuela."
+    "scm": "Com o real no nível mais forte da semana, cubra hoje seus pagamentos em reais. Se você compra jatos regionais, peças aeronáuticas ou açúcar do Brasil, revise contratos e entregas antes de janeiro."
    },
    "fuentes": [
     {
-     "t": "InfoMoney: el Ibovespa sube con el alivio por los aranceles y un IPCA-15 menor a lo esperado (26 nov 2026)",
+     "t": "Seu Dinheiro: el Ibovespa se dispara por la especulación sobre Hacienda, el IPCA-15 y la agenda fiscal (26 nov 2026)",
+     "u": "https://www.seudinheiro.com/2026/bolsa-dolar/ibovespa-dispara-mais-de-3-e-dolar-recua-a-r-572-o-que-anima-o-mercado-hoje-davs/"
+    },
+    {
+     "t": "InfoMoney: Ibovespa hoy en vivo (26 nov 2026)",
      "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26112026/"
     },
     {
-     "t": "Oilprice.com: Siemens Energy firma acuerdos para rehabilitar la red eléctrica de Venezuela (26 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/siemens-energy-signs-major-deal-172352287.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 11:38 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 26 nov 2026)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
@@ -191,79 +209,80 @@
    ]
   },
   "mexico": {
-   "id": "2026-11-26-mediodia-mexico",
+   "id": "2026-11-26-cierre-mexico",
    "fecha": "2026-11-26",
-   "momento": "mediodia",
+   "momento": "cierre",
    "mercado": "mexico",
-   "hora": "11:38 CDMX",
+   "hora": "15:16 CDMX",
+   "fin_de_semana": false,
    "es": {
-    "titular": "El peso se debilita a 19.72 y el IPC cae 1.0%; el desempleo de octubre pesa sobre el consumo",
+    "titular": "El IPC cae 1.45% y el peso cierra débil en 19.71; mañana rige el FIX de 19.7040",
     "esencial": [
-     "A las 11:38 CDMX el peso cotizaba en 19.72 por dólar (+0.69% el dólar) y a las 11:18 el S&P/BMV IPC bajaba 1.02% (70,642.74).",
-     "La tasa de desocupación subió a 3.0% en octubre, su nivel más alto desde 2022, según el INEGI.",
-     "Para supply chain: hoy rige el FIX de 19.3668 y mañana el de 19.7040; liquida hoy los pagos en dólares que puedas."
+     "El S&P/BMV IPC terminó en 70,339.06 puntos (−1.45%) y el peso cotizaba en 19.71 por dólar a las 15:16 CDMX (+0.63% el dólar).",
+     "La tasa de desocupación subió a 3.0% en octubre, su nivel más alto desde octubre de 2022, según el INEGI.",
+     "Para supply chain: los pagos en dólares de mañana se liquidan con el FIX de 19.7040, 34 centavos arriba del de hoy."
     ],
     "bloques": [
      {
-      "t": "Lo que se esperaba",
-      "x": "En la apertura el IPC caía 1.2% y el peso operaba en 19.66, tras siete sesiones a la baja, con un desempleo de 3.0% en octubre."
+      "t": "Qué pasó",
+      "x": "El S&P/BMV IPC bajó 1.45% a 70,339.06 puntos, después de subir 2.99% el miércoles. El peso cerró en 19.71 por dólar a las 15:16 CDMX (+0.63% el dólar), en una sesión de poca liquidez por el feriado en EE. UU. Hoy rigió para pagos el FIX de 19.3668; mañana rige el de 19.7040."
      },
      {
-      "t": "Cómo va",
-      "x": "A las 11:18 CDMX el S&P/BMV IPC bajaba 1.02% a 70,642.74 puntos. A las 11:38 CDMX el peso se debilitaba a 19.72 por dólar (+0.69% el dólar), desde 19.66 en la apertura. Hoy rige para pagos el FIX de 19.3668; Banxico publica alrededor de las 12:00 CDMX el que regirá el lunes."
+      "t": "Por qué",
+      "x": "La tasa de desocupación subió a 3.0% en octubre, desde 2.6% un año antes; la población ocupada bajó en 185,000 personas y hay 1.9 millones de desocupados, según el INEGI. Investing.com atribuye la debilidad del peso a la salida de inversiones de carry trade ante un menor diferencial de tasas entre Banxico y la Fed."
      },
      {
-      "t": "Lo que sorprendió",
-      "x": "El peso siguió debilitándose aunque el dólar apenas sube (índice del dólar +0.11%), en un día de poca liquidez por el feriado en EE. UU. Investing.com atribuye la racha a la salida de inversiones de carry trade ante un menor diferencial de tasas entre Banxico y la Fed. La población ocupada bajó en 185,000 personas en un año, según el INEGI."
+      "t": "Qué se espera",
+      "x": "Mañana viernes 27 el INEGI publica la balanza comercial de octubre y Wall Street opera hasta las 12:00 CDMX. El 9 de diciembre la Fed anuncia su decisión de tasas."
      }
     ],
-    "scm": "Liquida hoy los pagos en dólares con el FIX de 19.3668: mañana sube a 19.7040. Con el peso arriba de 19.7, actualiza el tipo de cambio de tus costos de importación del primer trimestre."
+    "scm": "Los pagos en dólares de mañana se liquidan con el FIX de 19.7040. Con el peso arriba de 19.7, actualiza el tipo de cambio de tus costos de importación del primer trimestre y revisa tus pronósticos de consumo en México."
    },
    "en": {
-    "titular": "The peso weakens to 19.72 and the IPC falls 1.0%; October unemployment weighs on consumption",
+    "titular": "The IPC falls 1.45% and the peso closes weak at 19.71; tomorrow the 19.7040 FIX applies",
     "esencial": [
-     "At 11:38 a.m. Mexico City time the peso traded at 19.72 per dollar (dollar +0.69%) and at 11:18 the S&P/BMV IPC was down 1.02% (70,642.74).",
-     "The unemployment rate rose to 3.0% in October, its highest since 2022, according to INEGI.",
-     "For supply chain: today the 19.3668 FIX applies and tomorrow the 19.7040; settle the dollar payments you can today."
+     "The S&P/BMV IPC ended at 70,339.06 points (−1.45%) and the peso traded at 19.71 per dollar at 3:16 p.m. Mexico City time (dollar +0.63%).",
+     "The unemployment rate rose to 3.0% in October, its highest since October 2022, according to INEGI.",
+     "For supply chain: tomorrow’s dollar payments settle at the 19.7040 FIX, 34 cents above today’s."
     ],
     "bloques": [
      {
-      "t": "What was expected",
-      "x": "At the open the IPC was down 1.2% and the peso traded at 19.66, after seven sessions of losses, with October unemployment at 3.0%."
+      "t": "What happened",
+      "x": "The S&P/BMV IPC fell 1.45% to 70,339.06 points, after rising 2.99% on Wednesday. The peso closed at 19.71 per dollar at 3:16 p.m. (dollar +0.63%), in a thin session due to the US holiday. Today the 19.3668 FIX applied to payments; tomorrow the 19.7040 one applies."
      },
      {
-      "t": "How it is going",
-      "x": "At 11:18 a.m. Mexico City time the S&P/BMV IPC was down 1.02% at 70,642.74 points. At 11:38 a.m. the peso weakened to 19.72 per dollar (dollar +0.69%), from 19.66 at the open. Today the 19.3668 FIX applies to payments; Banxico publishes around 12:00 p.m. the one that will apply on Monday."
+      "t": "Why",
+      "x": "The unemployment rate rose to 3.0% in October, from 2.6% a year earlier; employment fell by 185,000 people and there are 1.9 million unemployed, according to INEGI. Investing.com attributes the peso weakness to carry trade unwinding on a narrower rate gap between Banxico and the Fed."
      },
      {
-      "t": "What surprised",
-      "x": "The peso kept weakening even though the dollar barely rises (dollar index +0.11%), on a thin day due to the US holiday. Investing.com attributes the streak to carry trade unwinding on a narrower rate gap between Banxico and the Fed. Employment fell by 185,000 people over the year, according to INEGI."
+      "t": "What to expect",
+      "x": "Tomorrow, Friday the 27th, INEGI publishes the October trade balance and Wall Street trades until 12:00 p.m. Mexico City time. On December 9 the Fed announces its rate decision."
      }
     ],
-    "scm": "Settle dollar payments today with the 19.3668 FIX: tomorrow it rises to 19.7040. With the peso above 19.7, update the exchange rate in your first-quarter import costs."
+    "scm": "Tomorrow’s dollar payments settle at the 19.7040 FIX. With the peso above 19.7, update the exchange rate in your first-quarter import costs and review your consumer demand forecasts for Mexico."
    },
    "pt": {
-    "titular": "O peso se enfraquece para 19,72 e o IPC cai 1,0%; o desemprego de outubro pesa sobre o consumo",
+    "titular": "O IPC cai 1,45% e o peso fecha fraco em 19,71; amanhã vale o FIX de 19,7040",
     "esencial": [
-     "Às 11h38 (Cidade do México) o peso era cotado a 19,72 por dólar (dólar +0,69%) e às 11h18 o S&P/BMV IPC caía 1,02% (70.642,74).",
-     "A taxa de desemprego subiu para 3,0% em outubro, o maior nível desde 2022, segundo o INEGI.",
-     "Para supply chain: hoje vale o FIX de 19,3668 e amanhã o de 19,7040; liquide hoje os pagamentos em dólares que puder."
+     "O S&P/BMV IPC terminou em 70.339,06 pontos (−1,45%) e o peso era cotado a 19,71 por dólar às 15h16 (Cidade do México) (dólar +0,63%).",
+     "A taxa de desemprego subiu para 3,0% em outubro, o maior nível desde outubro de 2022, segundo o INEGI.",
+     "Para supply chain: os pagamentos em dólares de amanhã se liquidam com o FIX de 19,7040, 34 centavos acima do de hoje."
     ],
     "bloques": [
      {
-      "t": "O que se esperava",
-      "x": "Na abertura o IPC caía 1,2% e o peso operava em 19,66, após sete sessões em queda, com desemprego de 3,0% em outubro."
+      "t": "O que aconteceu",
+      "x": "O S&P/BMV IPC caiu 1,45% para 70.339,06 pontos, depois de subir 2,99% na quarta. O peso fechou em 19,71 por dólar às 15h16 (dólar +0,63%), numa sessão de pouca liquidez pelo feriado nos EUA. Hoje valeu para pagamentos o FIX de 19,3668; amanhã vale o de 19,7040."
      },
      {
-      "t": "Como está",
-      "x": "Às 11h18 (Cidade do México) o S&P/BMV IPC caía 1,02% para 70.642,74 pontos. Às 11h38 o peso se enfraquecia para 19,72 por dólar (dólar +0,69%), desde 19,66 na abertura. Hoje vale para pagamentos o FIX de 19,3668; o Banxico publica por volta das 12h00 o que valerá na segunda."
+      "t": "Por quê",
+      "x": "A taxa de desemprego subiu para 3,0% em outubro, desde 2,6% um ano antes; a população ocupada caiu 185 mil pessoas e há 1,9 milhão de desempregados, segundo o INEGI. A Investing.com atribui a fraqueza do peso à saída de operações de carry trade diante de um diferencial de juros menor entre Banxico e Fed."
      },
      {
-      "t": "O que surpreendeu",
-      "x": "O peso continuou se enfraquecendo embora o dólar quase não suba (índice do dólar +0,11%), num dia de pouca liquidez pelo feriado nos EUA. A Investing.com atribui a sequência à saída de operações de carry trade diante de um diferencial de juros menor entre Banxico e Fed. A população ocupada caiu 185 mil pessoas em um ano, segundo o INEGI."
+      "t": "O que se espera",
+      "x": "Amanhã, sexta, dia 27, o INEGI divulga a balança comercial de outubro e Wall Street opera até as 12h00 (Cidade do México). Em 9 de dezembro o Fed anuncia sua decisão de juros."
      }
     ],
-    "scm": "Liquide hoje os pagamentos em dólares com o FIX de 19,3668: amanhã sobe para 19,7040. Com o peso acima de 19,7, atualize a taxa de câmbio dos seus custos de importação do primeiro trimestre."
+    "scm": "Os pagamentos em dólares de amanhã se liquidam com o FIX de 19,7040. Com o peso acima de 19,7, atualize a taxa de câmbio dos seus custos de importação do primeiro trimestre e revise suas previsões de consumo no México."
    },
    "fuentes": [
     {
@@ -283,7 +302,7 @@
      "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
     },
     {
-     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 11:38 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 26 nov 2026)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -291,8 +310,8 @@
  },
  "lectura": {
   "es": {
-   "titular": "Sin Wall Street, el Brent se sostiene en 96 dólares y el peso se debilita a 19.72; Europa cierra con +2%",
-   "resumen": "A media sesión de un jueves sin Wall Street, el día lo mueven el petróleo y las monedas. El Brent de enero se sostiene en 96.09 dólares tras los ataques con minas a barcos en Ormuz, y la OPEP+ decide su producción de 2027 el domingo. En México, el peso suma otra caída, a 19.72, y el IPC baja 1.0%, después de que la tasa de desocupación subió a 3.0% en octubre, su nivel más alto desde 2022: una señal de demanda de consumo más débil para el primer trimestre. El FIX sube a 19.7040 mañana. Europa cerró con +2.04% y Brasil sube 3.5% con una inflación menor a lo esperado.",
+   "titular": "Un jueves sin Wall Street: el Brent cierra en 96.57 por Ormuz, el peso termina débil en 19.71 y el FIX sube a 19.7040",
+   "resumen": "Con Wall Street cerrado por el Día de Acción de Gracias, la sesión la definieron el petróleo y las monedas. El Brent de enero cerró en 96.57 dólares después de que dos petroleros explotaron al chocar con minas en el estrecho de Ormuz, un día después del ataque a la refinería saudí de Ras Tanura; la OPEP+ decide el domingo y podría mantener sus metas en el primer trimestre de 2027. Para supply chain, eso sostiene el costo del combustible y de los seguros marítimos. En México, el IPC bajó 1.45% y el peso cerró en 19.71, con un desempleo de 3.0% en octubre que anticipa un consumo más débil; mañana rige un FIX de 19.7040. Brasil subió 6% y el real se fortaleció a 5.64.",
    "temas": [
     {
      "tema": "Peso y tasas",
@@ -393,8 +412,8 @@
    ]
   },
   "en": {
-   "titular": "Without Wall Street, Brent holds at $96 and the peso weakens to 19.72; Europe closes +2%",
-   "resumen": "At midday on a Thursday without Wall Street, oil and currencies drive the day. January Brent holds at $96.09 after mine strikes against ships in Hormuz, and OPEC+ decides its 2027 output on Sunday. In Mexico, the peso falls again to 19.72 and the IPC drops 1.0%, after the unemployment rate rose to 3.0% in October, its highest since 2022: a sign of weaker consumer demand for the first quarter. The FIX rises to 19.7040 tomorrow. Europe closed +2.04% and Brazil rises 3.5% on lower-than-expected inflation.",
+   "titular": "A Thursday without Wall Street: Brent settles at $96.57 on Hormuz, the peso ends weak at 19.71 and the FIX rises to 19.7040",
+   "resumen": "With Wall Street closed for Thanksgiving, oil and currencies defined the session. January Brent settled at $96.57 after two tankers exploded on hitting mines in the Strait of Hormuz, a day after the attack on Saudi Arabia’s Ras Tanura refinery; OPEC+ decides on Sunday and may keep its targets for the first quarter of 2027. For supply chain, that keeps fuel and marine insurance costs elevated. In Mexico, the IPC fell 1.45% and the peso closed at 19.71, with October unemployment at 3.0% signaling weaker consumption; tomorrow a 19.7040 FIX applies. Brazil rose 6% and the real strengthened to 5.64.",
    "temas": [
     {
      "tema": "Peso and rates",
@@ -495,8 +514,8 @@
    ]
   },
   "pt": {
-   "titular": "Sem Wall Street, o Brent se sustenta em 96 dólares e o peso se enfraquece para 19,72; a Europa fecha com +2%",
-   "resumen": "No meio da sessão de uma quinta sem Wall Street, o dia é movido pelo petróleo e pelas moedas. O Brent de janeiro se sustenta em 96,09 dólares após os ataques com minas a navios em Ormuz, e a OPEP+ decide a produção de 2027 no domingo. No México, o peso cai de novo, para 19,72, e o IPC recua 1,0%, depois que a taxa de desemprego subiu para 3,0% em outubro, o maior nível desde 2022: um sinal de demanda de consumo mais fraca no primeiro trimestre. O FIX sobe para 19,7040 amanhã. A Europa fechou com +2,04% e o Brasil sobe 3,5% com uma inflação menor que a esperada.",
+   "titular": "Uma quinta sem Wall Street: o Brent fecha a 96,57 por Ormuz, o peso termina fraco em 19,71 e o FIX sobe para 19,7040",
+   "resumen": "Com Wall Street fechada pelo Dia de Ação de Graças, a sessão foi definida pelo petróleo e pelas moedas. O Brent de janeiro fechou a 96,57 dólares depois que dois petroleiros explodiram ao bater em minas no estreito de Ormuz, um dia após o ataque à refinaria saudita de Ras Tanura; a OPEP+ decide no domingo e pode manter suas metas no primeiro trimestre de 2027. Para supply chain, isso sustenta o custo do combustível e dos seguros marítimos. No México, o IPC caiu 1,45% e o peso fechou em 19,71, com desemprego de 3,0% em outubro que antecipa um consumo mais fraco; amanhã vale um FIX de 19,7040. O Brasil subiu 6% e o real se fortaleceu para 5,64.",
    "temas": [
     {
      "tema": "Peso e juros",
@@ -602,8 +621,8 @@
    "nombre": "IPC BMV",
    "name_en": "IPC BMV",
    "grupo": "bolsa",
-   "valor": 70642.74,
-   "cambio": -1.02,
+   "valor": 70339.06,
+   "cambio": -1.45,
    "unidad": "puntos",
    "name_pt": "IPC BMV"
   },
@@ -665,8 +684,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 19.72,
-   "cambio": 0.69,
+   "valor": 19.71,
+   "cambio": 0.63,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -674,8 +693,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.0973,
-   "cambio": -0.08,
+   "valor": 1.0972,
+   "cambio": -0.09,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -683,8 +702,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 159.31,
-   "cambio": 0.12,
+   "valor": 159.29,
+   "cambio": 0.1,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -692,8 +711,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 84.7,
-   "cambio": 1.22,
+   "valor": 84.84,
+   "cambio": 1.39,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -701,8 +720,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 96.09,
-   "cambio": 1.56,
+   "valor": 96.57,
+   "cambio": 2.07,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -719,8 +738,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3596.2,
-   "cambio": 0.89,
+   "valor": 3593.4,
+   "cambio": 0.81,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -764,19 +783,13 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 60384.6,
-   "cambio": 0.01,
+   "valor": 60720.14,
+   "cambio": 0.57,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }
  ],
  "agenda": [
-  {
-   "fecha": "2026-11-26",
-   "es": "Día de Acción de Gracias: Wall Street cerrado; decisión del Banco de Corea",
-   "en": "Thanksgiving: Wall Street closed; Bank of Korea decision",
-   "pt": "Dia de Ação de Graças: Wall Street fechada; decisão do Banco da Coreia"
-  },
   {
    "fecha": "2026-11-27",
    "es": "INEGI: balanza comercial de octubre",

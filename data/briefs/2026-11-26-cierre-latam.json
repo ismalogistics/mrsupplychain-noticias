@@ -1,0 +1,107 @@
+{
+ "id": "2026-11-26-cierre-latam",
+ "fecha": "2026-11-26",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "15:16 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El Ibovespa se dispara 6% y el real se fortalece a 5.64 por la especulación sobre Hacienda y una inflación menor",
+  "esencial": [
+   "El Ibovespa cerró en 176,707.23 (+6.01%), según Yahoo Finance, y el S&P/TSX de Canadá subía 0.72% (34,426.88) a las 15:16 CDMX.",
+   "El mercado reaccionó a reportes de que Luiz Carlos Trabuco, presidente del consejo de Bradesco, podría encabezar el Ministerio de Hacienda, y a un IPCA-15 de 0.22%, menor a lo esperado, según Seu Dinheiro.",
+   "Para supply chain: el dólar baja a 5.64 reales (−3.0%); aprovecha para cubrir pagos en reales."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El Ibovespa cerró en 176,707.23 (+6.01%), según Yahoo Finance, y el S&P/TSX de Canadá subía 0.72% a 34,426.88 a las 15:16 CDMX. En Brasil, Bradesco llegó a subir 7%, según InfoMoney."
+   },
+   {
+    "t": "Monedas",
+    "x": "A las 15:00 CDMX el dólar caía a 5.64 reales (−3.04%) y a las 14:36 a 3,543 pesos colombianos (−0.28%); el peso mexicano cerró débil en 19.71."
+   },
+   {
+    "t": "Por qué",
+    "x": "El mercado reaccionó a reportes de que Luiz Carlos Trabuco, presidente del consejo de Bradesco, podría encabezar el Ministerio de Hacienda; al IPCA-15 de noviembre, que subió 0.22%, abajo del rango esperado (aunque la inflación a 12 meses subió a 4.64%), y a una reunión de Lula con su equipo económico para limitar el gasto obligatorio, según Seu Dinheiro. La baja liquidez por el feriado en EE. UU. amplificó el movimiento."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana viernes Wall Street opera hasta las 12:00 CDMX y el INEGI publica la balanza comercial de México. La OPEP+ se reúne el domingo 29."
+   }
+  ],
+  "scm": "Con el real en su nivel más fuerte de la semana, cubre hoy tus pagos en reales. Si compras jets regionales, refacciones aeronáuticas o azúcar de Brasil, revisa contratos y entregas antes de enero."
+ },
+ "en": {
+  "titular": "The Ibovespa soars 6% and the real strengthens to 5.64 on Finance Ministry speculation and lower inflation",
+  "esencial": [
+   "The Ibovespa closed at 176,707.23 (+6.01%), according to Yahoo Finance, and Canada's S&P/TSX was up 0.72% (34,426.88) at 4:16 p.m. ET.",
+   "The market reacted to reports that Luiz Carlos Trabuco, chairman of Bradesco's board, could head the Finance Ministry, and to a 0.22% IPCA-15, below expectations, according to Seu Dinheiro.",
+   "For supply chain: the dollar falls to 5.64 reais (−3.0%); use it to cover payments in reais."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The Ibovespa closed at 176,707.23 (+6.01%), according to Yahoo Finance, and Canada's S&P/TSX was up 0.72% at 34,426.88 at 4:16 p.m. ET. In Brazil, Bradesco rose as much as 7%, according to InfoMoney."
+   },
+   {
+    "t": "Currencies",
+    "x": "At 4:00 p.m. ET the dollar fell to 5.64 reais (−3.04%) and at 3:36 p.m. to 3,543 Colombian pesos (−0.28%); the Mexican peso closed weak at 19.71."
+   },
+   {
+    "t": "Why",
+    "x": "The market reacted to reports that Luiz Carlos Trabuco, chairman of Bradesco's board, could head the Finance Ministry; to the November IPCA-15, which rose 0.22%, below the expected range (although 12-month inflation rose to 4.64%); and to a meeting between Lula and his economic team to limit mandatory spending, according to Seu Dinheiro. Thin liquidity from the US holiday amplified the move."
+   },
+   {
+    "t": "What to expect",
+    "x": "Tomorrow, Friday, Wall Street trades until 1:00 p.m. ET and INEGI publishes Mexico's trade balance. OPEC+ meets on Sunday the 29th."
+   }
+  ],
+  "scm": "With the real at its strongest of the week, cover your payments in reais today. If you buy regional jets, aerospace parts or sugar from Brazil, review contracts and deliveries before January."
+ },
+ "pt": {
+  "titular": "O Ibovespa dispara 6% e o real se fortalece para 5,64 com a especulação sobre a Fazenda e a inflação menor",
+  "esencial": [
+   "O Ibovespa fechou em 176.707,23 (+6,01%), segundo o Yahoo Finance, e o S&P/TSX do Canadá subia 0,72% (34.426,88) às 15h16 (Cidade do México).",
+   "O mercado reagiu a notícias de que Luiz Carlos Trabuco, presidente do conselho do Bradesco, pode comandar o Ministério da Fazenda, e a um IPCA-15 de 0,22%, menor que o esperado, segundo o Seu Dinheiro.",
+   "Para supply chain: o dólar cai para R$ 5,64 (−3,0%); aproveite para cobrir pagamentos em reais."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O Ibovespa fechou em 176.707,23 (+6,01%), segundo o Yahoo Finance, e o S&P/TSX do Canadá subia 0,72% para 34.426,88 às 15h16 (Cidade do México). No Brasil, o Bradesco chegou a subir 7%, segundo o InfoMoney."
+   },
+   {
+    "t": "Moedas",
+    "x": "Às 15h00 (Cidade do México) o dólar caía para R$ 5,64 (−3,04%) e às 14h36 para 3.543 pesos colombianos (−0,28%); o peso mexicano fechou fraco em 19,71."
+   },
+   {
+    "t": "Por quê",
+    "x": "O mercado reagiu a notícias de que Luiz Carlos Trabuco, presidente do conselho do Bradesco, pode comandar o Ministério da Fazenda; ao IPCA-15 de novembro, que subiu 0,22%, abaixo do intervalo esperado (embora a inflação em 12 meses tenha subido para 4,64%); e a uma reunião de Lula com a equipe econômica para limitar os gastos obrigatórios, segundo o Seu Dinheiro. A baixa liquidez pelo feriado nos EUA ampliou o movimento."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã, sexta, Wall Street opera até as 13h00 de Nova York e o INEGI divulga a balança comercial do México. A OPEP+ se reúne no domingo, dia 29."
+   }
+  ],
+  "scm": "Com o real no nível mais forte da semana, cubra hoje seus pagamentos em reais. Se você compra jatos regionais, peças aeronáuticas ou açúcar do Brasil, revise contratos e entregas antes de janeiro."
+ },
+ "fuentes": [
+  {
+   "t": "Seu Dinheiro: el Ibovespa se dispara por la especulación sobre Hacienda, el IPCA-15 y la agenda fiscal (26 nov 2026)",
+   "u": "https://www.seudinheiro.com/2026/bolsa-dolar/ibovespa-dispara-mais-de-3-e-dolar-recua-a-r-572-o-que-anima-o-mercado-hoje-davs/"
+  },
+  {
+   "t": "InfoMoney: Ibovespa hoy en vivo (26 nov 2026)",
+   "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26112026/"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 26 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

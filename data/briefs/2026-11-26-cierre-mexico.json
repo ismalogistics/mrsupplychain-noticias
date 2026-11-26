@@ -1,0 +1,99 @@
+{
+ "id": "2026-11-26-cierre-mexico",
+ "fecha": "2026-11-26",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "15:16 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El IPC cae 1.45% y el peso cierra débil en 19.71; mañana rige el FIX de 19.7040",
+  "esencial": [
+   "El S&P/BMV IPC terminó en 70,339.06 puntos (−1.45%) y el peso cotizaba en 19.71 por dólar a las 15:16 CDMX (+0.63% el dólar).",
+   "La tasa de desocupación subió a 3.0% en octubre, su nivel más alto desde octubre de 2022, según el INEGI.",
+   "Para supply chain: los pagos en dólares de mañana se liquidan con el FIX de 19.7040, 34 centavos arriba del de hoy."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El S&P/BMV IPC bajó 1.45% a 70,339.06 puntos, después de subir 2.99% el miércoles. El peso cerró en 19.71 por dólar a las 15:16 CDMX (+0.63% el dólar), en una sesión de poca liquidez por el feriado en EE. UU. Hoy rigió para pagos el FIX de 19.3668; mañana rige el de 19.7040."
+   },
+   {
+    "t": "Por qué",
+    "x": "La tasa de desocupación subió a 3.0% en octubre, desde 2.6% un año antes; la población ocupada bajó en 185,000 personas y hay 1.9 millones de desocupados, según el INEGI. Investing.com atribuye la debilidad del peso a la salida de inversiones de carry trade ante un menor diferencial de tasas entre Banxico y la Fed."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Mañana viernes 27 el INEGI publica la balanza comercial de octubre y Wall Street opera hasta las 12:00 CDMX. El 9 de diciembre la Fed anuncia su decisión de tasas."
+   }
+  ],
+  "scm": "Los pagos en dólares de mañana se liquidan con el FIX de 19.7040. Con el peso arriba de 19.7, actualiza el tipo de cambio de tus costos de importación del primer trimestre y revisa tus pronósticos de consumo en México."
+ },
+ "en": {
+  "titular": "The IPC falls 1.45% and the peso closes weak at 19.71; tomorrow the 19.7040 FIX applies",
+  "esencial": [
+   "The S&P/BMV IPC ended at 70,339.06 points (−1.45%) and the peso traded at 19.71 per dollar at 3:16 p.m. Mexico City time (dollar +0.63%).",
+   "The unemployment rate rose to 3.0% in October, its highest since October 2022, according to INEGI.",
+   "For supply chain: tomorrow’s dollar payments settle at the 19.7040 FIX, 34 cents above today’s."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The S&P/BMV IPC fell 1.45% to 70,339.06 points, after rising 2.99% on Wednesday. The peso closed at 19.71 per dollar at 3:16 p.m. (dollar +0.63%), in a thin session due to the US holiday. Today the 19.3668 FIX applied to payments; tomorrow the 19.7040 one applies."
+   },
+   {
+    "t": "Why",
+    "x": "The unemployment rate rose to 3.0% in October, from 2.6% a year earlier; employment fell by 185,000 people and there are 1.9 million unemployed, according to INEGI. Investing.com attributes the peso weakness to carry trade unwinding on a narrower rate gap between Banxico and the Fed."
+   },
+   {
+    "t": "What to expect",
+    "x": "Tomorrow, Friday the 27th, INEGI publishes the October trade balance and Wall Street trades until 12:00 p.m. Mexico City time. On December 9 the Fed announces its rate decision."
+   }
+  ],
+  "scm": "Tomorrow’s dollar payments settle at the 19.7040 FIX. With the peso above 19.7, update the exchange rate in your first-quarter import costs and review your consumer demand forecasts for Mexico."
+ },
+ "pt": {
+  "titular": "O IPC cai 1,45% e o peso fecha fraco em 19,71; amanhã vale o FIX de 19,7040",
+  "esencial": [
+   "O S&P/BMV IPC terminou em 70.339,06 pontos (−1,45%) e o peso era cotado a 19,71 por dólar às 15h16 (Cidade do México) (dólar +0,63%).",
+   "A taxa de desemprego subiu para 3,0% em outubro, o maior nível desde outubro de 2022, segundo o INEGI.",
+   "Para supply chain: os pagamentos em dólares de amanhã se liquidam com o FIX de 19,7040, 34 centavos acima do de hoje."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O S&P/BMV IPC caiu 1,45% para 70.339,06 pontos, depois de subir 2,99% na quarta. O peso fechou em 19,71 por dólar às 15h16 (dólar +0,63%), numa sessão de pouca liquidez pelo feriado nos EUA. Hoje valeu para pagamentos o FIX de 19,3668; amanhã vale o de 19,7040."
+   },
+   {
+    "t": "Por quê",
+    "x": "A taxa de desemprego subiu para 3,0% em outubro, desde 2,6% um ano antes; a população ocupada caiu 185 mil pessoas e há 1,9 milhão de desempregados, segundo o INEGI. A Investing.com atribui a fraqueza do peso à saída de operações de carry trade diante de um diferencial de juros menor entre Banxico e Fed."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Amanhã, sexta, dia 27, o INEGI divulga a balança comercial de outubro e Wall Street opera até as 12h00 (Cidade do México). Em 9 de dezembro o Fed anuncia sua decisão de juros."
+   }
+  ],
+  "scm": "Os pagamentos em dólares de amanhã se liquidam com o FIX de 19,7040. Com o peso acima de 19,7, atualize a taxa de câmbio dos seus custos de importação do primeiro trimestre e revise suas previsões de consumo no México."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 26 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Alto Nivel: el desempleo en México sube a 3% en octubre, su nivel más alto en cuatro años (26 nov 2026)",
+   "u": "https://www.altonivel.com.mx/desempleo-en-mexico-sube-a-3-en-octubre-su-nivel-mas-alto-en-cuatro-anos/"
+  },
+  {
+   "t": "Investing.com México: el peso extiende su caída en el Día de Acción de Gracias (26 nov 2026)",
+   "u": "https://mx.investing.com/news/forex-news/precio-del-dolar-hoy-no-da-tregua-en-thanksgiving-peso-mexicano-extiende-su-caida-3864009"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (25 nov 2026: 19.7040)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 26 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
