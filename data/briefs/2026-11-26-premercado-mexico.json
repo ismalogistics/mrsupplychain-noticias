@@ -1,0 +1,95 @@
+{
+ "id": "2026-11-26-premercado-mexico",
+ "fecha": "2026-11-26",
+ "momento": "premercado",
+ "mercado": "mexico",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "La BMV opera aunque Wall Street cierra; el FIX de ayer fue de 19.7040 y hoy rige el de 19.3668",
+  "esencial": [
+   "A las 5:08 CDMX el peso cotizaba en 19.67 por dólar (+0.42% el dólar), después de cerrar ayer en 19.58; ayer el S&P/BMV IPC subió 2.99%.",
+   "El FIX que Banxico determinó ayer fue de 19.7040 (+1.74%) y rige para pagos desde mañana viernes; hoy rige el de 19.3668.",
+   "Para supply chain: el FIX sube 34 centavos mañana; liquida hoy los pagos en dólares que puedas."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "Ayer el S&P/BMV IPC cerró en 71,372.25 puntos (+2.99%) y el peso en 19.58, después de que el USTR propuso aranceles a 14 economías de Asia y Europa y dejó a México sin determinación, según Expansión. Banxico determinó ayer un FIX de 19.7040 (+1.74%), que se publica hoy en el DOF y rige para pagos desde mañana viernes; hoy rige el de 19.3668. En la noche, el peso se debilitó a 19.67 por dólar (+0.42% el dólar a las 5:08 CDMX)."
+   },
+   {
+    "t": "Contexto",
+    "x": "Hoy no operan las bolsas de EE. UU. por el Día de Acción de Gracias, así que la liquidez será baja. Europa sube con fuerza y el petróleo sube por tercer día tras los ataques en Ormuz (Brent de enero en 95.01 dólares). Aparte de los 14, EE. UU. propuso a Brasil un arancel de 10% a los aviones y más arancel al azúcar, según Reuters."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "La BMV opera en horario normal. Mañana viernes 27 el INEGI publica la balanza comercial de octubre y Wall Street opera hasta las 12:00 CDMX."
+   }
+  ],
+  "scm": "Liquida hoy los pagos en dólares con el FIX de 19.3668: mañana sube a 19.7040. Si compras en Asia o Europa, aprovecha que México no tiene arancel nuevo para comparar contra proveedores locales."
+ },
+ "en": {
+  "titular": "The BMV is open although Wall Street is closed; yesterday’s FIX was 19.7040 and today the 19.3668 applies",
+  "esencial": [
+   "At 5:08 a.m. Mexico City time the peso traded at 19.67 per dollar (dollar +0.42%), after closing yesterday at 19.58; yesterday the S&P/BMV IPC rose 2.99%.",
+   "The FIX Banxico set yesterday was 19.7040 (+1.74%) and applies to payments from Friday; today the 19.3668 applies.",
+   "For supply chain: the FIX rises 34 cents tomorrow; settle the dollar payments you can today."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "Yesterday the S&P/BMV IPC closed at 71,372.25 points (+2.99%) and the peso at 19.58, after the USTR proposed tariffs on 14 economies in Asia and Europe and left Mexico without a determination, according to Expansión. Banxico set a 19.7040 FIX yesterday (+1.74%), published today in the DOF and applying to payments from Friday; today the 19.3668 one applies. Overnight, the peso weakened to 19.67 per dollar (dollar +0.42% at 5:08 a.m.)."
+   },
+   {
+    "t": "Context",
+    "x": "US markets are closed today for Thanksgiving, so liquidity will be thin. Europe is sharply higher and oil rises for a third day after the Hormuz attacks (January Brent at $95.01). Apart from the 14, the US proposed a 10% tariff on aircraft and higher sugar duties for Brazil, according to Reuters."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The BMV trades normal hours. Tomorrow, Friday the 27th, INEGI publishes the October trade balance and Wall Street trades until 12:00 p.m. Mexico City time."
+   }
+  ],
+  "scm": "Settle dollar payments today with the 19.3668 FIX: tomorrow it rises to 19.7040. If you buy in Asia or Europe, use the fact that Mexico has no new tariff to compare against local suppliers."
+ },
+ "pt": {
+  "titular": "A BMV opera embora Wall Street feche; o FIX de ontem foi de 19,7040 e hoje vale o de 19,3668",
+  "esencial": [
+   "Às 5h08 (Cidade do México) o peso era cotado a 19,67 por dólar (dólar +0,42%), depois de fechar ontem em 19,58; ontem o S&P/BMV IPC subiu 2,99%.",
+   "O FIX definido ontem pelo Banxico foi de 19,7040 (+1,74%) e vale para pagamentos a partir de sexta; hoje vale o de 19,3668.",
+   "Para supply chain: o FIX sobe 34 centavos amanhã; liquide hoje os pagamentos em dólares que puder."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Ontem o S&P/BMV IPC fechou em 71.372,25 pontos (+2,99%) e o peso em 19,58, depois que o USTR propôs tarifas para 14 economias da Ásia e da Europa e deixou o México sem determinação, segundo a Expansión. O Banxico definiu ontem um FIX de 19,7040 (+1,74%), publicado hoje no DOF e que vale para pagamentos a partir de sexta; hoje vale o de 19,3668. Durante a noite, o peso se enfraqueceu para 19,67 por dólar (dólar +0,42% às 5h08)."
+   },
+   {
+    "t": "Contexto",
+    "x": "Hoje as bolsas dos EUA não operam pelo Dia de Ação de Graças, então a liquidez será baixa. A Europa sobe forte e o petróleo sobe pelo terceiro dia após os ataques em Ormuz (Brent de janeiro a 95,01 dólares). Além das 14, os EUA propuseram ao Brasil uma tarifa de 10% sobre aviões e mais tarifa sobre o açúcar, segundo a Reuters."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "A BMV opera em horário normal. Amanhã, sexta, dia 27, o INEGI divulga a balança comercial de outubro e Wall Street opera até as 12h00 (Cidade do México)."
+   }
+  ],
+  "scm": "Liquide hoje os pagamentos em dólares com o FIX de 19,3668: amanhã sobe para 19,7040. Se você compra na Ásia ou na Europa, aproveite que o México não tem tarifa nova para comparar com fornecedores locais."
+ },
+ "fuentes": [
+  {
+   "t": "Banxico: tipo de cambio FIX (25 nov 2026: 19.7040)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Expansión: México libra por ahora los aranceles que EE. UU. propone a 14 economías (25 nov 2026)",
+   "u": "https://expansion.mx/economia/2026/11/25/eu-propone-aranceles-14-economias-mexico-queda-fuera"
+  },
+  {
+   "t": "Reuters: EE. UU. propone nuevos aranceles a Brasil, incluido 10% a los aviones (25 nov 2026)",
+   "u": "https://finance.yahoo.com/news/us-proposes-higher-tariffs-brazil-131543830.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

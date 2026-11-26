@@ -1,0 +1,103 @@
+{
+ "id": "2026-11-26-premercado-global",
+ "fecha": "2026-11-26",
+ "momento": "premercado",
+ "mercado": "global",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Wall Street cierra por Acción de Gracias; Europa sube 1.9%, Corea sube su tasa a 3.25% y el Brent llega a 95 dólares",
+  "esencial": [
+   "Hoy no operan las bolsas de EE. UU. por el Día de Acción de Gracias; a las 4:53 CDMX el Euro Stoxx 50 subía 1.89% y los futuros del S&P 500 0.32%.",
+   "El Banco de Corea subió su tasa 0.25 puntos, a 3.25%, su tercera alza del año; el Nikkei subió 0.86% con el rebote de los chips japoneses.",
+   "Para supply chain: el Brent de enero sube a 95.01 dólares tras ataques con minas a barcos en Ormuz; no cierres recargos de combustible antes de la OPEP+ del domingo."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "Ayer el S&P 500 cerró con −0.25%, el Nasdaq con −0.62% y el Dow con +0.33%, tras recuperar casi todo lo que perdió en la apertura. En la noche, el Banco de Corea subió su tasa 0.25 puntos, a 3.25%, su tercera alza del año, según Mydaily. Naoki Tamura, del Banco de Japón, dijo que el banco podría acelerar sus alzas y no descartó una de 0.50 puntos, según Reuters. Los hutíes de Yemen dijeron que atacaron la refinería saudí de Ras Tanura y al menos dos barcos chocaron con minas iraníes en el estrecho de Ormuz, según Reuters. Kioxia subió 14% tras anunciar una colaboración con Nvidia para ampliar la memoria de los GPU con discos de estado sólido."
+   },
+   {
+    "t": "Asia, Europa y futuros",
+    "x": "Asia cerró mixta: Nikkei +0.86% (57,499.16), KOSPI +0.29% (4,711.21), Hang Seng +0.03% y Shanghái −2.01%. A las 4:53 CDMX Europa subía con fuerza: Euro Stoxx 50 +1.89% (6,006.08), DAX +1.84%, CAC 40 +1.72% y FTSE 100 +1.42%. A las 4:58 CDMX los futuros del S&P 500 subían 0.32%, los del Nasdaq 100 0.17% y los del Dow 0.15%; el VIX bajaba a 27.5. El Brent de enero subía 0.4% a 95.01 dólares y el WTI 0.9% a 84.43 (hoy no hay liquidación del WTI); el oro subía 0.5%, la plata 2.6% y el cobre 0.5% a 5.45 dólares por libra."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Hoy no operan las bolsas ni el mercado de bonos de EE. UU. por el Día de Acción de Gracias, y no hay datos económicos de EE. UU. El viernes 27 Wall Street opera hasta las 12:00 CDMX y arranca la temporada de compras de fin de año. La OPEP+ se reúne el domingo 29 para definir su producción de 2027."
+   }
+  ],
+  "scm": "Con Wall Street cerrado, el día lo mueven Europa, el petróleo y las monedas. El Brent sube por tercer día tras los ataques en Ormuz: mantén el ajuste semanal del recargo de combustible y confirma hoy los cruces y recolecciones de mañana."
+ },
+ "en": {
+  "titular": "Wall Street is closed for Thanksgiving; Europe rises 1.9%, Korea raises its rate to 3.25% and Brent reaches $95",
+  "esencial": [
+   "US markets are closed today for Thanksgiving; at 5:53 a.m. ET the Euro Stoxx 50 was up 1.89% and S&P 500 futures 0.32%.",
+   "The Bank of Korea raised its rate 0.25 points to 3.25%, its third hike of the year; the Nikkei rose 0.86% on a rebound in Japanese chips.",
+   "For supply chain: January Brent rises to $95.01 after mine strikes on ships in Hormuz; do not lock fuel surcharges before Sunday’s OPEC+ meeting."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "Yesterday the S&P 500 closed −0.25%, the Nasdaq −0.62% and the Dow +0.33%, after recovering almost all of its losses from the open. Overnight, the Bank of Korea raised its rate 0.25 points to 3.25%, its third hike of the year, according to Mydaily. Naoki Tamura of the Bank of Japan said the bank could accelerate its hikes and did not rule out a 0.50-point move, according to Reuters. Yemen’s Houthis said they attacked Saudi Arabia’s Ras Tanura refinery and at least two ships struck Iranian mines in the Strait of Hormuz, according to Reuters. Kioxia rose 14% after announcing a collaboration with Nvidia to extend GPU memory with solid-state drives."
+   },
+   {
+    "t": "Asia, Europe and futures",
+    "x": "Asia closed mixed: Nikkei +0.86% (57,499.16), KOSPI +0.29% (4,711.21), Hang Seng +0.03% and Shanghai −2.01%. At 5:53 a.m. ET Europe was sharply higher: Euro Stoxx 50 +1.89% (6,006.08), DAX +1.84%, CAC 40 +1.72% and FTSE 100 +1.42%. At 5:58 a.m. ET S&P 500 futures were up 0.32%, Nasdaq 100 futures 0.17% and Dow futures 0.15%; the VIX fell to 27.5. January Brent rose 0.4% to $95.01 and WTI 0.9% to $84.43 (no WTI settlement today); gold rose 0.5%, silver 2.6% and copper 0.5% to $5.45 per pound."
+   },
+   {
+    "t": "What to expect today",
+    "x": "US stock and bond markets are closed today for Thanksgiving, and there are no US economic releases. On Friday the 27th Wall Street trades until 1:00 p.m. ET and the holiday shopping season begins. OPEC+ meets on Sunday the 29th to set its 2027 output."
+   }
+  ],
+  "scm": "With Wall Street closed, Europe, oil and currencies drive the day. Brent rises for a third day after the Hormuz attacks: keep weekly fuel surcharge adjustments and confirm tomorrow’s crossings and pickups today."
+ },
+ "pt": {
+  "titular": "Wall Street fecha pelo Dia de Ação de Graças; a Europa sobe 1,9%, a Coreia eleva a taxa para 3,25% e o Brent chega a 95 dólares",
+  "esencial": [
+   "Hoje as bolsas dos EUA não operam pelo Dia de Ação de Graças; às 4h53 (Cidade do México) o Euro Stoxx 50 subia 1,89% e os futuros do S&P 500 0,32%.",
+   "O Banco da Coreia elevou sua taxa em 0,25 ponto, para 3,25%, sua terceira alta do ano; o Nikkei subiu 0,86% com o repique dos chips japoneses.",
+   "Para supply chain: o Brent de janeiro sobe para 95,01 dólares após ataques com minas a navios em Ormuz; não feche sobretaxas de combustível antes da OPEP+ de domingo."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Ontem o S&P 500 fechou com −0,25%, o Nasdaq com −0,62% e o Dow com +0,33%, depois de recuperar quase tudo o que perdeu na abertura. Durante a noite, o Banco da Coreia elevou sua taxa em 0,25 ponto, para 3,25%, sua terceira alta do ano, segundo o Mydaily. Naoki Tamura, do Banco do Japão, disse que o banco pode acelerar as altas e não descartou uma de 0,50 ponto, segundo a Reuters. Os houthis do Iêmen disseram ter atacado a refinaria saudita de Ras Tanura e pelo menos dois navios bateram em minas iranianas no estreito de Ormuz, segundo a Reuters. A Kioxia subiu 14% após anunciar uma colaboração com a Nvidia para ampliar a memória das GPUs com discos de estado sólido."
+   },
+   {
+    "t": "Ásia, Europa e futuros",
+    "x": "A Ásia fechou mista: Nikkei +0,86% (57.499,16), KOSPI +0,29% (4.711,21), Hang Seng +0,03% e Xangai −2,01%. Às 4h53 (Cidade do México) a Europa subia forte: Euro Stoxx 50 +1,89% (6.006,08), DAX +1,84%, CAC 40 +1,72% e FTSE 100 +1,42%. Às 4h58 os futuros do S&P 500 subiam 0,32%, os do Nasdaq 100 0,17% e os do Dow 0,15%; o VIX caía para 27,5. O Brent de janeiro subia 0,4% para 95,01 dólares e o WTI 0,9% para 84,43 (hoje não há liquidação do WTI); o ouro subia 0,5%, a prata 2,6% e o cobre 0,5% para 5,45 dólares por libra."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Hoje as bolsas e o mercado de títulos dos EUA não operam pelo Dia de Ação de Graças, e não há dados econômicos dos EUA. Na sexta, dia 27, Wall Street opera até as 12h00 (Cidade do México) e começa a temporada de compras de fim de ano. A OPEP+ se reúne no domingo, dia 29, para definir a produção de 2027."
+   }
+  ],
+  "scm": "Com Wall Street fechada, o dia é movido pela Europa, pelo petróleo e pelas moedas. O Brent sobe pelo terceiro dia após os ataques em Ormuz: mantenha o ajuste semanal da sobretaxa de combustível e confirme hoje as travessias e coletas de amanhã."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters: el petróleo sube por temores de oferta tras ataques con minas en Ormuz (26 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-rises-supply-concerns-iran-030849858.html"
+  },
+  {
+   "t": "Mydaily: el Banco de Corea sube su tasa 0.25 puntos, a 3.25% (26 nov 2026)",
+   "u": "https://www.mydaily.co.kr/page/view/2026112609455703534"
+  },
+  {
+   "t": "Financial News: el Banco de Corea sube a 3.25% y eleva su pronóstico de crecimiento (26 nov 2026)",
+   "u": "https://www.fnnews.com/news/202611261002322163"
+  },
+  {
+   "t": "Reuters: Tamura, del Banco de Japón, abre la puerta a alzas de tasas más rápidas (26 nov 2026)",
+   "u": "https://finance.yahoo.com/economy/policy/articles/bojs-tamura-signals-chance-faster-013537147.html"
+  },
+  {
+   "t": "Investing.com: Kioxia sube 14% tras una colaboración con Nvidia y rebotan los chips (26 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/kioxia-jumps-14-nvidia-collaboration-062844097.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

@@ -6,16 +6,16 @@
  "hora": "15:16 CDMX",
  "fin_de_semana": false,
  "es": {
-  "titular": "La región cierra al alza fuera de la lista de aranceles: el Ibovespa sube 1.7% y el real y el peso colombiano se fortalecen",
+  "titular": "La región cierra al alza fuera de la lista de aranceles: el Ibovespa sube 1.6% y el real y el peso colombiano se fortalecen",
   "esencial": [
-   "El Ibovespa cerró en 166,880.12 (+1.70%) y el S&P/TSX de Canadá en 34,179.99 (+0.64%).",
+   "El Ibovespa cerró en 166,684.61 (+1.58%) y el S&P/TSX de Canadá en 34,179.99 (+0.64%).",
    "Ninguna de las 14 economías con aranceles propuestos es latinoamericana; aparte, EE. UU. propuso a Brasil más arancel al azúcar y 10% a los aviones, según AP.",
    "Para supply chain: el campo Bacalhau de Brasil (220,000 barriles diarios) suspende su producción de cinco a ocho semanas; el Brent sube 3.5%."
   ],
   "bloques": [
    {
     "t": "Qué pasó",
-    "x": "El Ibovespa cerró en 166,880.12 (+1.70%) y el S&P/TSX de Canadá en 34,179.99 (+0.64%), ambos arriba después de abrir con dudas. Los metales recuperaron terreno: el cobre terminó en 5.48 dólares por libra (+0.6%) y la plata en 41.34 (+0.2%)."
+    "x": "El Ibovespa cerró en 166,684.61 (+1.58%) y el S&P/TSX de Canadá en 34,179.99 (+0.64%), ambos arriba después de abrir con dudas. Los metales recuperaron terreno: el cobre terminó en 5.48 dólares por libra (+0.6%) y la plata en 41.34 (+0.2%)."
    },
    {
     "t": "Monedas",
@@ -33,16 +33,16 @@
   "scm": "Si compras en Asia, evalúa proveedores en la región, que quedó fuera de la lista de aranceles; si compras aviones, refacciones aeronáuticas o azúcar de Brasil, revisa contratos antes de enero. Con el real y el peso colombiano más fuertes, cubre hoy tus pagos en esas monedas."
  },
  "en": {
-  "titular": "The region closes higher off the tariff list: the Ibovespa rises 1.7% and the real and Colombian peso strengthen",
+  "titular": "The region closes higher off the tariff list: the Ibovespa rises 1.6% and the real and Colombian peso strengthen",
   "esencial": [
-   "The Ibovespa closed at 166,880.12 (+1.70%) and Canada's S&P/TSX at 34,179.99 (+0.64%).",
+   "The Ibovespa closed at 166,684.61 (+1.58%) and Canada's S&P/TSX at 34,179.99 (+0.64%).",
    "None of the 14 economies with proposed tariffs is in Latin America; separately, the US proposed higher sugar duties and 10% on aircraft for Brazil, according to AP.",
    "For supply chain: Brazil's Bacalhau field (220,000 barrels a day) halts production for five to eight weeks; Brent rises 3.5%."
   ],
   "bloques": [
    {
     "t": "What happened",
-    "x": "The Ibovespa closed at 166,880.12 (+1.70%) and Canada's S&P/TSX at 34,179.99 (+0.64%), both higher after a hesitant open. Metals regained ground: copper ended at $5.48 per pound (+0.6%) and silver at $41.34 (+0.2%)."
+    "x": "The Ibovespa closed at 166,684.61 (+1.58%) and Canada's S&P/TSX at 34,179.99 (+0.64%), both higher after a hesitant open. Metals regained ground: copper ended at $5.48 per pound (+0.6%) and silver at $41.34 (+0.2%)."
    },
    {
     "t": "Currencies",
@@ -60,16 +60,16 @@
   "scm": "If you buy in Asia, evaluate suppliers in the region, which was left off the tariff list; if you buy aircraft, aerospace parts or sugar from Brazil, review contracts before January. With the real and Colombian peso stronger, cover your payments in those currencies today."
  },
  "pt": {
-  "titular": "A região fecha em alta fora da lista de tarifas: o Ibovespa sobe 1,7% e o real e o peso colombiano se fortalecem",
+  "titular": "A região fecha em alta fora da lista de tarifas: o Ibovespa sobe 1,6% e o real e o peso colombiano se fortalecem",
   "esencial": [
-   "O Ibovespa fechou em 166.880,12 (+1,70%) e o S&P/TSX do Canadá em 34.179,99 (+0,64%).",
+   "O Ibovespa fechou em 166.684,61 (+1,58%) e o S&P/TSX do Canadá em 34.179,99 (+0,64%).",
    "Nenhuma das 14 economias com tarifas propostas é latino-americana; à parte, os EUA propuseram ao Brasil mais tarifa sobre o açúcar e 10% sobre aviões, segundo a AP.",
    "Para supply chain: o campo de Bacalhau, no Brasil (220 mil barris por dia), suspende a produção por cinco a oito semanas; o Brent sobe 3,5%."
   ],
   "bloques": [
    {
     "t": "O que aconteceu",
-    "x": "O Ibovespa fechou em 166.880,12 (+1,70%) e o S&P/TSX do Canadá em 34.179,99 (+0,64%), ambos em alta depois de abrir com dúvidas. Os metais recuperaram terreno: o cobre terminou a 5,48 dólares por libra (+0,6%) e a prata a 41,34 (+0,2%)."
+    "x": "O Ibovespa fechou em 166.684,61 (+1,58%) e o S&P/TSX do Canadá em 34.179,99 (+0,64%), ambos em alta depois de abrir com dúvidas. Os metais recuperaram terreno: o cobre terminou a 5,48 dólares por libra (+0,6%) e a prata a 41,34 (+0,2%)."
    },
    {
     "t": "Moedas",

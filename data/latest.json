@@ -1,217 +1,197 @@
 {
- "actualizado": "2026-11-25T21:20:12Z",
- "momento": "cierre",
+ "actualizado": "2026-11-26T11:10:16Z",
+ "momento": "premercado",
  "briefs": {
   "global": {
-   "id": "2026-11-25-cierre-global",
-   "fecha": "2026-11-25",
-   "momento": "cierre",
+   "id": "2026-11-26-premercado-global",
+   "fecha": "2026-11-26",
+   "momento": "premercado",
    "mercado": "global",
-   "hora": "15:16 CDMX",
+   "hora": "05:08 CDMX",
    "fin_de_semana": false,
    "es": {
-    "titular": "Wall Street se recupera antes del feriado: el Dow cierra con +0.33% y el S&P 500 con −0.25%; el Libro Beige ve más costos",
+    "titular": "Wall Street cierra por Acción de Gracias; Europa sube 1.9%, Corea sube su tasa a 3.25% y el Brent llega a 95 dólares",
     "esencial": [
-     "El S&P 500 cerró en 7,182.78 (−0.25%), el Nasdaq en 23,585.80 (−0.62%) y el Dow en 50,182.95 (+0.33%), después de caer más de 2% en la apertura.",
-     "El Libro Beige de la Fed reporta presiones de costos sostenidas en energía, transporte, seguros y aranceles, y en materias primas, metales y fletes; las empresas esperan más alzas.",
-     "Para supply chain: mañana no opera Wall Street y el viernes cierra a las 12:00 CDMX; prevé alzas de tus proveedores en diciembre y enero, y pide justificación por partida."
+     "Hoy no operan las bolsas de EE. UU. por el Día de Acción de Gracias; a las 4:53 CDMX el Euro Stoxx 50 subía 1.89% y los futuros del S&P 500 0.32%.",
+     "El Banco de Corea subió su tasa 0.25 puntos, a 3.25%, su tercera alza del año; el Nikkei subió 0.86% con el rebote de los chips japoneses.",
+     "Para supply chain: el Brent de enero sube a 95.01 dólares tras ataques con minas a barcos en Ormuz; no cierres recargos de combustible antes de la OPEP+ del domingo."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "Wall Street recuperó casi todo lo perdido: el S&P 500 cerró en 7,182.78 (−0.25%), el Nasdaq en 23,585.80 (−0.62%) y el Dow en 50,182.95 (+0.33%), tras caer más de 2% en la apertura. El índice de semiconductores cerró con −0.65%, desde −5.7% en la mañana: Nvidia −3.9% (149.30 dólares) tras llegar a −8%, Micron −4.6% y TSMC −2.0%. Deere subió 4.4%, Dell 0.6% y Anthropic 1.1% (82.79 dólares). El VIX cerró en 28.2. El Treasury a 10 años bajó 6 puntos base, a 4.85%. El Brent de enero subió 3.5% a 94.56 dólares y el WTI 2.6% a 84.16."
+      "t": "Lo que pasó desde el cierre",
+      "x": "Ayer el S&P 500 cerró con −0.25%, el Nasdaq con −0.62% y el Dow con +0.33%, tras recuperar casi todo lo que perdió en la apertura. En la noche, el Banco de Corea subió su tasa 0.25 puntos, a 3.25%, su tercera alza del año, según Mydaily. Naoki Tamura, del Banco de Japón, dijo que el banco podría acelerar sus alzas y no descartó una de 0.50 puntos, según Reuters. Los hutíes de Yemen dijeron que atacaron la refinería saudí de Ras Tanura y al menos dos barcos chocaron con minas iraníes en el estrecho de Ormuz, según Reuters. Kioxia subió 14% tras anunciar una colaboración con Nvidia para ampliar la memoria de los GPU con discos de estado sólido."
      },
      {
-      "t": "Por qué",
-      "x": "El PCE subyacente de octubre subió a 3.3% anual, arriba de lo esperado, y el mercado da 98% de probabilidad a un alza de la Fed en diciembre. El USTR propuso aranceles a 14 economías: Vietnam hasta 35%, India 25%, China y Singapur 20%, cinco economías del Sudeste Asiático y Bangladesh 18%, y la UE, Japón, Corea del Sur, Suiza y Taiwán 15%. En la tarde, el Libro Beige de la Fed reportó presiones de costos sostenidas en energía, transporte, salud, seguros y aranceles, y en materias primas, metales, fletes e importaciones especializadas; los costos de insumos subieron más que los precios de venta y las empresas esperan más alzas. S&P Global Ratings puso a Nvidia en revisión con perspectiva negativa por preocupaciones de gobierno corporativo. El petróleo subió por las tensiones en Medio Oriente, según The Wall Street Journal."
+      "t": "Asia, Europa y futuros",
+      "x": "Asia cerró mixta: Nikkei +0.86% (57,499.16), KOSPI +0.29% (4,711.21), Hang Seng +0.03% y Shanghái −2.01%. A las 4:53 CDMX Europa subía con fuerza: Euro Stoxx 50 +1.89% (6,006.08), DAX +1.84%, CAC 40 +1.72% y FTSE 100 +1.42%. A las 4:58 CDMX los futuros del S&P 500 subían 0.32%, los del Nasdaq 100 0.17% y los del Dow 0.15%; el VIX bajaba a 27.5. El Brent de enero subía 0.4% a 95.01 dólares y el WTI 0.9% a 84.43 (hoy no hay liquidación del WTI); el oro subía 0.5%, la plata 2.6% y el cobre 0.5% a 5.45 dólares por libra."
      },
      {
-      "t": "Qué se espera",
-      "x": "Mañana jueves no operan las bolsas de EE. UU. por el Día de Acción de Gracias; el Banco de Corea decide su tasa. El viernes 27 la sesión cierra a las 12:00 CDMX y arranca la temporada de compras. Los comentarios sobre los aranceles se reciben hasta el 5 de enero y las audiencias empiezan el 25. La OPEP+ se reúne el domingo 29."
+      "t": "Qué se espera hoy",
+      "x": "Hoy no operan las bolsas ni el mercado de bonos de EE. UU. por el Día de Acción de Gracias, y no hay datos económicos de EE. UU. El viernes 27 Wall Street opera hasta las 12:00 CDMX y arranca la temporada de compras de fin de año. La OPEP+ se reúne el domingo 29 para definir su producción de 2027."
      }
     ],
-    "scm": "El Libro Beige confirma que fletes, energía, metales y seguros siguen presionando costos: prevé solicitudes de alza de tus proveedores en diciembre y enero, pide justificación por partida y costea cada origen con su arancel propuesto."
+    "scm": "Con Wall Street cerrado, el día lo mueven Europa, el petróleo y las monedas. El Brent sube por tercer día tras los ataques en Ormuz: mantén el ajuste semanal del recargo de combustible y confirma hoy los cruces y recolecciones de mañana."
    },
    "en": {
-    "titular": "Wall Street recovers before the holiday: the Dow closes +0.33% and the S&P 500 −0.25%; the Beige Book sees higher costs",
+    "titular": "Wall Street is closed for Thanksgiving; Europe rises 1.9%, Korea raises its rate to 3.25% and Brent reaches $95",
     "esencial": [
-     "The S&P 500 closed at 7,182.78 (−0.25%), the Nasdaq at 23,585.80 (−0.62%) and the Dow at 50,182.95 (+0.33%), after falling more than 2% at the open.",
-     "The Fed’s Beige Book reports sustained cost pressures in energy, transportation, insurance and tariffs, and in raw materials, metals and freight; firms expect more increases.",
-     "For supply chain: Wall Street is closed tomorrow and closes at 1:00 p.m. ET on Friday; expect supplier price increases in December and January, and ask for line-item justification."
+     "US markets are closed today for Thanksgiving; at 5:53 a.m. ET the Euro Stoxx 50 was up 1.89% and S&P 500 futures 0.32%.",
+     "The Bank of Korea raised its rate 0.25 points to 3.25%, its third hike of the year; the Nikkei rose 0.86% on a rebound in Japanese chips.",
+     "For supply chain: January Brent rises to $95.01 after mine strikes on ships in Hormuz; do not lock fuel surcharges before Sunday’s OPEC+ meeting."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "Wall Street recovered almost all of its losses: the S&P 500 closed at 7,182.78 (−0.25%), the Nasdaq at 23,585.80 (−0.62%) and the Dow at 50,182.95 (+0.33%), after falling more than 2% at the open. The semiconductor index closed −0.65%, from −5.7% in the morning: Nvidia −3.9% ($149.30) after reaching −8%, Micron −4.6% and TSMC −2.0%. Deere rose 4.4%, Dell 0.6% and Anthropic 1.1% ($82.79). The VIX closed at 28.2. The 10-year Treasury fell 6 basis points to 4.85%. January Brent rose 3.5% to $94.56 and WTI 2.6% to $84.16."
+      "t": "What happened since the close",
+      "x": "Yesterday the S&P 500 closed −0.25%, the Nasdaq −0.62% and the Dow +0.33%, after recovering almost all of its losses from the open. Overnight, the Bank of Korea raised its rate 0.25 points to 3.25%, its third hike of the year, according to Mydaily. Naoki Tamura of the Bank of Japan said the bank could accelerate its hikes and did not rule out a 0.50-point move, according to Reuters. Yemen’s Houthis said they attacked Saudi Arabia’s Ras Tanura refinery and at least two ships struck Iranian mines in the Strait of Hormuz, according to Reuters. Kioxia rose 14% after announcing a collaboration with Nvidia to extend GPU memory with solid-state drives."
      },
      {
-      "t": "Why",
-      "x": "October core PCE rose to 3.3% annual, above expectations, and markets see a 98% chance of a December Fed hike. The USTR proposed tariffs on 14 economies: Vietnam up to 35%, India 25%, China and Singapore 20%, five Southeast Asian economies and Bangladesh 18%, and the EU, Japan, South Korea, Switzerland and Taiwan 15%. In the afternoon, the Fed’s Beige Book reported sustained cost pressures in energy, transportation, healthcare, insurance and tariffs, and in raw materials, metals, freight and specialized imports; input costs rose faster than selling prices and firms expect more increases. S&P Global Ratings placed Nvidia on CreditWatch negative over corporate governance concerns. Oil rose on Middle East tensions, according to The Wall Street Journal."
+      "t": "Asia, Europe and futures",
+      "x": "Asia closed mixed: Nikkei +0.86% (57,499.16), KOSPI +0.29% (4,711.21), Hang Seng +0.03% and Shanghai −2.01%. At 5:53 a.m. ET Europe was sharply higher: Euro Stoxx 50 +1.89% (6,006.08), DAX +1.84%, CAC 40 +1.72% and FTSE 100 +1.42%. At 5:58 a.m. ET S&P 500 futures were up 0.32%, Nasdaq 100 futures 0.17% and Dow futures 0.15%; the VIX fell to 27.5. January Brent rose 0.4% to $95.01 and WTI 0.9% to $84.43 (no WTI settlement today); gold rose 0.5%, silver 2.6% and copper 0.5% to $5.45 per pound."
      },
      {
-      "t": "What to expect",
-      "x": "US markets are closed tomorrow, Thursday, for Thanksgiving; the Bank of Korea decides its rate. On Friday the 27th the session closes at 1:00 p.m. ET and the shopping season begins. Comments on the tariffs are due January 5 and hearings begin January 25. OPEC+ meets on Sunday the 29th."
+      "t": "What to expect today",
+      "x": "US stock and bond markets are closed today for Thanksgiving, and there are no US economic releases. On Friday the 27th Wall Street trades until 1:00 p.m. ET and the holiday shopping season begins. OPEC+ meets on Sunday the 29th to set its 2027 output."
      }
     ],
-    "scm": "The Beige Book confirms that freight, energy, metals and insurance keep pushing costs up: expect supplier price increase requests in December and January, ask for line-item justification and cost each origin with its proposed tariff."
+    "scm": "With Wall Street closed, Europe, oil and currencies drive the day. Brent rises for a third day after the Hormuz attacks: keep weekly fuel surcharge adjustments and confirm tomorrow’s crossings and pickups today."
    },
    "pt": {
-    "titular": "Wall Street se recupera antes do feriado: o Dow fecha com +0,33% e o S&P 500 com −0,25%; o Livro Bege vê mais custos",
+    "titular": "Wall Street fecha pelo Dia de Ação de Graças; a Europa sobe 1,9%, a Coreia eleva a taxa para 3,25% e o Brent chega a 95 dólares",
     "esencial": [
-     "O S&P 500 fechou em 7.182,78 (−0,25%), o Nasdaq em 23.585,80 (−0,62%) e o Dow em 50.182,95 (+0,33%), depois de cair mais de 2% na abertura.",
-     "O Livro Bege do Fed relata pressões de custos persistentes em energia, transporte, seguros e tarifas, e em matérias-primas, metais e fretes; as empresas esperam mais altas.",
-     "Para supply chain: amanhã Wall Street não opera e na sexta fecha às 12h00 (Cidade do México); preveja altas dos fornecedores em dezembro e janeiro e peça justificativa por item."
+     "Hoje as bolsas dos EUA não operam pelo Dia de Ação de Graças; às 4h53 (Cidade do México) o Euro Stoxx 50 subia 1,89% e os futuros do S&P 500 0,32%.",
+     "O Banco da Coreia elevou sua taxa em 0,25 ponto, para 3,25%, sua terceira alta do ano; o Nikkei subiu 0,86% com o repique dos chips japoneses.",
+     "Para supply chain: o Brent de janeiro sobe para 95,01 dólares após ataques com minas a navios em Ormuz; não feche sobretaxas de combustível antes da OPEP+ de domingo."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "Wall Street recuperou quase tudo o que perdeu: o S&P 500 fechou em 7.182,78 (−0,25%), o Nasdaq em 23.585,80 (−0,62%) e o Dow em 50.182,95 (+0,33%), depois de cair mais de 2% na abertura. O índice de semicondutores fechou com −0,65%, desde −5,7% de manhã: Nvidia −3,9% (149,30 dólares) depois de chegar a −8%, Micron −4,6% e TSMC −2,0%. A Deere subiu 4,4%, a Dell 0,6% e a Anthropic 1,1% (82,79 dólares). O VIX fechou em 28,2. O Treasury de 10 anos caiu 6 pontos-base, para 4,85%. O Brent de janeiro subiu 3,5% para 94,56 dólares e o WTI 2,6% para 84,16."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "Ontem o S&P 500 fechou com −0,25%, o Nasdaq com −0,62% e o Dow com +0,33%, depois de recuperar quase tudo o que perdeu na abertura. Durante a noite, o Banco da Coreia elevou sua taxa em 0,25 ponto, para 3,25%, sua terceira alta do ano, segundo o Mydaily. Naoki Tamura, do Banco do Japão, disse que o banco pode acelerar as altas e não descartou uma de 0,50 ponto, segundo a Reuters. Os houthis do Iêmen disseram ter atacado a refinaria saudita de Ras Tanura e pelo menos dois navios bateram em minas iranianas no estreito de Ormuz, segundo a Reuters. A Kioxia subiu 14% após anunciar uma colaboração com a Nvidia para ampliar a memória das GPUs com discos de estado sólido."
      },
      {
-      "t": "Por quê",
-      "x": "O núcleo do PCE de outubro subiu para 3,3% ao ano, acima do esperado, e o mercado dá 98% de probabilidade a uma alta do Fed em dezembro. O USTR propôs tarifas para 14 economias: Vietnã até 35%, Índia 25%, China e Singapura 20%, cinco economias do Sudeste Asiático e Bangladesh 18%, e UE, Japão, Coreia do Sul, Suíça e Taiwan 15%. À tarde, o Livro Bege do Fed relatou pressões de custos persistentes em energia, transporte, saúde, seguros e tarifas, e em matérias-primas, metais, fretes e importações especializadas; os custos dos insumos subiram mais que os preços de venda e as empresas esperam mais altas. A S&P Global Ratings colocou a Nvidia em revisão com perspectiva negativa por preocupações de governança corporativa. O petróleo subiu pelas tensões no Oriente Médio, segundo o The Wall Street Journal."
+      "t": "Ásia, Europa e futuros",
+      "x": "A Ásia fechou mista: Nikkei +0,86% (57.499,16), KOSPI +0,29% (4.711,21), Hang Seng +0,03% e Xangai −2,01%. Às 4h53 (Cidade do México) a Europa subia forte: Euro Stoxx 50 +1,89% (6.006,08), DAX +1,84%, CAC 40 +1,72% e FTSE 100 +1,42%. Às 4h58 os futuros do S&P 500 subiam 0,32%, os do Nasdaq 100 0,17% e os do Dow 0,15%; o VIX caía para 27,5. O Brent de janeiro subia 0,4% para 95,01 dólares e o WTI 0,9% para 84,43 (hoje não há liquidação do WTI); o ouro subia 0,5%, a prata 2,6% e o cobre 0,5% para 5,45 dólares por libra."
      },
      {
-      "t": "O que se espera",
-      "x": "Amanhã, quinta, as bolsas dos EUA não operam pelo Dia de Ação de Graças; o Banco da Coreia decide sua taxa. Na sexta, dia 27, a sessão fecha às 12h00 (Cidade do México) e começa a temporada de compras. Os comentários sobre as tarifas vão até 5 de janeiro e as audiências começam em 25. A OPEP+ se reúne no domingo, dia 29."
+      "t": "O que se espera hoje",
+      "x": "Hoje as bolsas e o mercado de títulos dos EUA não operam pelo Dia de Ação de Graças, e não há dados econômicos dos EUA. Na sexta, dia 27, Wall Street opera até as 12h00 (Cidade do México) e começa a temporada de compras de fim de ano. A OPEP+ se reúne no domingo, dia 29, para definir a produção de 2027."
      }
     ],
-    "scm": "O Livro Bege confirma que fretes, energia, metais e seguros seguem pressionando custos: preveja pedidos de alta dos fornecedores em dezembro e janeiro, peça justificativa por item e calcule o custo de cada origem com sua tarifa proposta."
+    "scm": "Com Wall Street fechada, o dia é movido pela Europa, pelo petróleo e pelas moedas. O Brent sobe pelo terceiro dia após os ataques em Ormuz: mantenha o ajuste semanal da sobretaxa de combustível e confirme hoje as travessias e coletas de amanhã."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: el Dow borra sus pérdidas y cierra arriba; el S&P 500 y el Nasdaq recuperan terreno (25 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+     "t": "Reuters: el petróleo sube por temores de oferta tras ataques con minas en Ormuz (26 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-rises-supply-concerns-iran-030849858.html"
     },
     {
-     "t": "Yahoo Finance: el Libro Beige de la Fed muestra presiones de precios más amplias (25 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+     "t": "Mydaily: el Banco de Corea sube su tasa 0.25 puntos, a 3.25% (26 nov 2026)",
+     "u": "https://www.mydaily.co.kr/page/view/2026112609455703534"
     },
     {
-     "t": "Baker McKenzie: el USTR propone aranceles de la Sección 301 a 14 economías por exceso de capacidad estructural (25 nov 2026)",
-     "u": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"
+     "t": "Financial News: el Banco de Corea sube a 3.25% y eleva su pronóstico de crecimiento (26 nov 2026)",
+     "u": "https://www.fnnews.com/news/202611261002322163"
     },
     {
-     "t": "MT Newswires: S&P Global Ratings pone a Nvidia en revisión con perspectiva negativa (25 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-put-creditwatch-negative-p-210636240.html"
+     "t": "Reuters: Tamura, del Banco de Japón, abre la puerta a alzas de tasas más rápidas (26 nov 2026)",
+     "u": "https://finance.yahoo.com/economy/policy/articles/bojs-tamura-signals-chance-faster-013537147.html"
     },
     {
-     "t": "The Wall Street Journal: el petróleo sube por las tensiones en Medio Oriente (25 nov 2026)",
-     "u": "https://finance.yahoo.com/m/6315b182-a0b7-3674-84d6-efcd68443f9c/oil-futures-pick-up-as-middle.html"
+     "t": "Investing.com: Kioxia sube 14% tras una colaboración con Nvidia y rebotan los chips (26 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/kioxia-jumps-14-nvidia-collaboration-062844097.html"
     },
     {
-     "t": "Oilprice.com: los inventarios de crudo de EE. UU. suben 1.1 millones de barriles (EIA, 25 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-inventories-continue-rise-us-154256636.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 25 nov 2026)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 05:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-25-cierre-latam",
-   "fecha": "2026-11-25",
-   "momento": "cierre",
+   "id": "2026-11-26-premercado-latam",
+   "fecha": "2026-11-26",
+   "momento": "premercado",
    "mercado": "latam",
-   "hora": "15:16 CDMX",
+   "hora": "05:08 CDMX",
    "fin_de_semana": false,
    "es": {
-    "titular": "La región cierra al alza fuera de la lista de aranceles: el Ibovespa sube 1.7% y el real y el peso colombiano se fortalecen",
+    "titular": "Brasil rechaza los aranceles propuestos a sus aviones y su azúcar; la región opera aunque Wall Street cierra",
     "esencial": [
-     "El Ibovespa cerró en 166,880.12 (+1.70%) y el S&P/TSX de Canadá en 34,179.99 (+0.64%).",
-     "Ninguna de las 14 economías con aranceles propuestos es latinoamericana; aparte, EE. UU. propuso a Brasil más arancel al azúcar y 10% a los aviones, según AP.",
-     "Para supply chain: el campo Bacalhau de Brasil (220,000 barriles diarios) suspende su producción de cinco a ocho semanas; el Brent sube 3.5%."
+     "Ayer el Ibovespa cerró con +1.58% (166,684.61) y el S&P/TSX de Canadá con +0.64%; los ETF de MSCI subieron 1.7% en Argentina y 1.2% en Perú.",
+     "El gobierno de Brasil calificó de inaceptable la propuesta de EE. UU. de un arancel de 10% a los aviones terminados, que pegaría a Embraer, según Reuters.",
+     "Para supply chain: si compras aviones regionales o refacciones de Brasil, revisa contratos y entregas antes de enero."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "El Ibovespa cerró en 166,880.12 (+1.70%) y el S&P/TSX de Canadá en 34,179.99 (+0.64%), ambos arriba después de abrir con dudas. Los metales recuperaron terreno: el cobre terminó en 5.48 dólares por libra (+0.6%) y la plata en 41.34 (+0.2%)."
+      "t": "Lo que pasó desde el cierre",
+      "x": "Ayer el Ibovespa cerró en 166,684.61 (+1.58%) y el S&P/TSX de Canadá en 34,179.99 (+0.64%). Los ETF de MSCI cerraron con +1.73% en Argentina, +1.20% en Perú y −0.18% en Chile. El gobierno de Brasil calificó de inaceptable la propuesta de EE. UU. de un arancel de 10% a los aviones terminados y uno nuevo al azúcar fuera de cuota; los aviones son la cuarta exportación de Brasil a EE. UU., según Reuters. Embraer tiene pedidos firmes de unos 160 jets E175 para aerolíneas de EE. UU."
      },
      {
-      "t": "Monedas",
-      "x": "A las 15:16 CDMX el dólar bajaba a 5.82 reales (−1.18%) y 3,539 pesos colombianos (−1.76%), y subía a 1,038 pesos chilenos (+0.51%)."
+      "t": "Contexto",
+      "x": "A las 5:08 CDMX el dólar estaba en 5.82 reales (+0.04%), 1,041 pesos chilenos (+0.32%) y 3,554 pesos colombianos (sin cambio). El cobre subía 0.5% a 5.45 dólares por libra y la plata 2.6%. El petróleo sube por tercer día tras los ataques en Ormuz; en Brasil, el campo Bacalhau sigue detenido."
      },
      {
-      "t": "Por qué",
-      "x": "El USTR propuso aranceles a 14 economías de Asia y Europa; ninguna es latinoamericana, y México sigue sin determinación. Aparte, AP reporta que EE. UU. propuso a Brasil más arancel al azúcar y uno nuevo de 10% a los aviones, que pegaría a Embraer. En Brasil, el campo Bacalhau, de 220,000 barriles diarios, suspendió su producción de cinco a ocho semanas por un incidente en su plataforma flotante, según Galp y Equinor; Petrobras aprobó un plan de inversión de 122,000 millones de dólares para 2027 a 2031."
-     },
-     {
-      "t": "Qué se espera",
-      "x": "Mañana jueves los mercados de la región operan, aunque Wall Street cierra. El viernes 27 el INEGI publica la balanza comercial de México. La OPEP+ se reúne el domingo 29."
+      "t": "Qué se espera hoy",
+      "x": "Los mercados de la región operan aunque Wall Street cierra por el Día de Acción de Gracias. Mañana viernes Wall Street opera hasta las 12:00 CDMX y el domingo 29 se reúne la OPEP+."
      }
     ],
-    "scm": "Si compras en Asia, evalúa proveedores en la región, que quedó fuera de la lista de aranceles; si compras aviones, refacciones aeronáuticas o azúcar de Brasil, revisa contratos antes de enero. Con el real y el peso colombiano más fuertes, cubre hoy tus pagos en esas monedas."
+    "scm": "Si compras aviones regionales, refacciones aeronáuticas o azúcar de Brasil, revisa contratos y fechas de entrega antes de enero; con liquidez baja hoy, escalona los pagos en monedas de la región."
    },
    "en": {
-    "titular": "The region closes higher off the tariff list: the Ibovespa rises 1.7% and the real and Colombian peso strengthen",
+    "titular": "Brazil rejects the proposed tariffs on its aircraft and sugar; the region trades although Wall Street is closed",
     "esencial": [
-     "The Ibovespa closed at 166,880.12 (+1.70%) and Canada's S&P/TSX at 34,179.99 (+0.64%).",
-     "None of the 14 economies with proposed tariffs is in Latin America; separately, the US proposed higher sugar duties and 10% on aircraft for Brazil, according to AP.",
-     "For supply chain: Brazil's Bacalhau field (220,000 barrels a day) halts production for five to eight weeks; Brent rises 3.5%."
+     "Yesterday the Ibovespa closed +1.58% (166,684.61) and Canada's S&P/TSX +0.64%; the MSCI ETFs rose 1.7% for Argentina and 1.2% for Peru.",
+     "Brazil's government called unacceptable the US proposal of a 10% tariff on finished aircraft, which would hit Embraer, according to Reuters.",
+     "For supply chain: if you buy regional jets or parts from Brazil, review contracts and deliveries before January."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "The Ibovespa closed at 166,880.12 (+1.70%) and Canada's S&P/TSX at 34,179.99 (+0.64%), both higher after a hesitant open. Metals regained ground: copper ended at $5.48 per pound (+0.6%) and silver at $41.34 (+0.2%)."
+      "t": "What happened since the close",
+      "x": "Yesterday the Ibovespa closed at 166,684.61 (+1.58%) and Canada's S&P/TSX at 34,179.99 (+0.64%). The MSCI ETFs closed +1.73% for Argentina, +1.20% for Peru and −0.18% for Chile. Brazil's government called unacceptable the US proposal of a 10% tariff on finished aircraft and a new one on out-of-quota sugar; aircraft are Brazil's fourth-largest export to the US, according to Reuters. Embraer has firm orders for about 160 E175 jets for US airlines."
      },
      {
-      "t": "Currencies",
-      "x": "At 4:16 p.m. ET the dollar fell to 5.82 reais (−1.18%) and 3,539 Colombian pesos (−1.76%), and rose to 1,038 Chilean pesos (+0.51%)."
+      "t": "Context",
+      "x": "At 5:08 a.m. Mexico City time the dollar stood at 5.82 reais (+0.04%), 1,041 Chilean pesos (+0.32%) and 3,554 Colombian pesos (unchanged). Copper rose 0.5% to $5.45 per pound and silver 2.6%. Oil rises for a third day after the Hormuz attacks; in Brazil, the Bacalhau field remains shut."
      },
      {
-      "t": "Why",
-      "x": "The USTR proposed tariffs on 14 economies in Asia and Europe; none is in Latin America, and Mexico still has no determination. Separately, AP reports the US proposed higher sugar duties and a new 10% tariff on aircraft for Brazil, which would hit Embraer. In Brazil, the 220,000-barrel-a-day Bacalhau field halted production for five to eight weeks after an incident on its floating platform, according to Galp and Equinor; Petrobras approved a $122 billion investment plan for 2027 to 2031."
-     },
-     {
-      "t": "What to expect",
-      "x": "Tomorrow, Thursday, the region's markets are open although Wall Street is closed. On Friday the 27th INEGI publishes Mexico's trade balance. OPEC+ meets on Sunday the 29th."
+      "t": "What to expect today",
+      "x": "The region's markets are open although Wall Street is closed for Thanksgiving. Tomorrow, Friday, Wall Street trades until 1:00 p.m. ET and OPEC+ meets on Sunday the 29th."
      }
     ],
-    "scm": "If you buy in Asia, evaluate suppliers in the region, which was left off the tariff list; if you buy aircraft, aerospace parts or sugar from Brazil, review contracts before January. With the real and Colombian peso stronger, cover your payments in those currencies today."
+    "scm": "If you buy regional jets, aerospace parts or sugar from Brazil, review contracts and delivery dates before January; with thin liquidity today, stagger payments in regional currencies."
    },
    "pt": {
-    "titular": "A região fecha em alta fora da lista de tarifas: o Ibovespa sobe 1,7% e o real e o peso colombiano se fortalecem",
+    "titular": "O Brasil rejeita as tarifas propostas sobre seus aviões e seu açúcar; a região opera embora Wall Street feche",
     "esencial": [
-     "O Ibovespa fechou em 166.880,12 (+1,70%) e o S&P/TSX do Canadá em 34.179,99 (+0,64%).",
-     "Nenhuma das 14 economias com tarifas propostas é latino-americana; à parte, os EUA propuseram ao Brasil mais tarifa sobre o açúcar e 10% sobre aviões, segundo a AP.",
-     "Para supply chain: o campo de Bacalhau, no Brasil (220 mil barris por dia), suspende a produção por cinco a oito semanas; o Brent sobe 3,5%."
+     "Ontem o Ibovespa fechou com +1,58% (166.684,61) e o S&P/TSX do Canadá com +0,64%; os ETFs da MSCI subiram 1,7% na Argentina e 1,2% no Peru.",
+     "O governo do Brasil chamou de inaceitável a proposta dos EUA de uma tarifa de 10% sobre aviões acabados, que atingiria a Embraer, segundo a Reuters.",
+     "Para supply chain: se você compra jatos regionais ou peças do Brasil, revise contratos e entregas antes de janeiro."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "O Ibovespa fechou em 166.880,12 (+1,70%) e o S&P/TSX do Canadá em 34.179,99 (+0,64%), ambos em alta depois de abrir com dúvidas. Os metais recuperaram terreno: o cobre terminou a 5,48 dólares por libra (+0,6%) e a prata a 41,34 (+0,2%)."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "Ontem o Ibovespa fechou em 166.684,61 (+1,58%) e o S&P/TSX do Canadá em 34.179,99 (+0,64%). Os ETFs da MSCI fecharam com +1,73% na Argentina, +1,20% no Peru e −0,18% no Chile. O governo do Brasil chamou de inaceitável a proposta dos EUA de uma tarifa de 10% sobre aviões acabados e uma nova sobre o açúcar fora da cota; os aviões são a quarta maior exportação do Brasil para os EUA, segundo a Reuters. A Embraer tem pedidos firmes de cerca de 160 jatos E175 para companhias aéreas dos EUA."
      },
      {
-      "t": "Moedas",
-      "x": "Às 15h16 (Cidade do México) o dólar caía para R$ 5,82 (−1,18%) e 3.539 pesos colombianos (−1,76%), e subia para 1.038 pesos chilenos (+0,51%)."
+      "t": "Contexto",
+      "x": "Às 5h08 (Cidade do México) o dólar estava em R$ 5,82 (+0,04%), 1.041 pesos chilenos (+0,32%) e 3.554 pesos colombianos (estável). O cobre subia 0,5% para 5,45 dólares por libra e a prata 2,6%. O petróleo sobe pelo terceiro dia após os ataques em Ormuz; no Brasil, o campo de Bacalhau segue parado."
      },
      {
-      "t": "Por quê",
-      "x": "O USTR propôs tarifas para 14 economias da Ásia e da Europa; nenhuma é latino-americana, e o México segue sem determinação. À parte, a AP informa que os EUA propuseram ao Brasil mais tarifa sobre o açúcar e uma nova de 10% sobre aviões, que atingiria a Embraer. No Brasil, o campo de Bacalhau, de 220 mil barris por dia, suspendeu a produção por cinco a oito semanas por um incidente em sua plataforma flutuante, segundo Galp e Equinor; a Petrobras aprovou um plano de investimento de 122 bilhões de dólares para 2027 a 2031."
-     },
-     {
-      "t": "O que se espera",
-      "x": "Amanhã, quinta, os mercados da região operam, embora Wall Street feche. Na sexta, dia 27, o INEGI divulga a balança comercial do México. A OPEP+ se reúne no domingo, dia 29."
+      "t": "O que se espera hoje",
+      "x": "Os mercados da região operam embora Wall Street feche pelo Dia de Ação de Graças. Amanhã, sexta, Wall Street opera até as 13h00 de Nova York e no domingo, dia 29, a OPEP+ se reúne."
      }
     ],
-    "scm": "Se você compra na Ásia, avalie fornecedores na região, que ficou fora da lista de tarifas; se compra aviões, peças aeronáuticas ou açúcar do Brasil, revise contratos antes de janeiro. Com o real e o peso colombiano mais fortes, cubra hoje seus pagamentos nessas moedas."
+    "scm": "Se você compra jatos regionais, peças aeronáuticas ou açúcar do Brasil, revise contratos e prazos de entrega antes de janeiro; com liquidez baixa hoje, escalone os pagamentos em moedas da região."
    },
    "fuentes": [
     {
-     "t": "Baker McKenzie: el USTR propone aranceles de la Sección 301 a 14 economías por exceso de capacidad estructural (25 nov 2026)",
-     "u": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"
+     "t": "Reuters: EE. UU. propone nuevos aranceles a Brasil, incluido 10% a los aviones (25 nov 2026)",
+     "u": "https://finance.yahoo.com/news/us-proposes-higher-tariffs-brazil-131543830.html"
     },
     {
-     "t": "AP vía CP24: EE. UU. propone subir aranceles a China, la UE, Brasil y otros por producción subsidiada (25 nov 2026)",
-     "u": "https://www.cp24.com/news/world/2026/11/25/us-plans-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-production/"
+     "t": "Reuters: las aerolíneas de EE. UU. enfrentarían costos más altos por el arancel propuesto a Embraer (25 nov 2026)",
+     "u": "https://finance.yahoo.com/economy/policy/articles/us-airlines-face-higher-costs-222235730.html"
     },
     {
-     "t": "Oilprice.com: el campo Bacalhau de Brasil, de 220,000 barriles diarios, suspende su producción (25 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/brazils-220-000-bpd-bacalhau-205200049.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 25 nov 2026)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 05:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
@@ -221,100 +201,96 @@
    ]
   },
   "mexico": {
-   "id": "2026-11-25-cierre-mexico",
-   "fecha": "2026-11-25",
-   "momento": "cierre",
+   "id": "2026-11-26-premercado-mexico",
+   "fecha": "2026-11-26",
+   "momento": "premercado",
    "mercado": "mexico",
-   "hora": "15:16 CDMX",
+   "hora": "05:08 CDMX",
    "fin_de_semana": false,
    "es": {
-    "titular": "El IPC sube 3% y el peso cierra en 19.58 después de que México quedó fuera, por ahora, de los aranceles a 14 economías",
+    "titular": "La BMV opera aunque Wall Street cierra; el FIX de ayer fue de 19.7040 y hoy rige el de 19.3668",
     "esencial": [
-     "El S&P/BMV IPC terminó en 71,374.41 puntos (+2.99%) y el peso cotizaba en 19.58 por dólar a las 15:16 CDMX (+0.87% el dólar), desde 19.73 en la apertura.",
-     "El USTR no fijó tasa para México: su investigación por exceso de capacidad sigue pendiente, sin plazo, según Expansión.",
-     "Para supply chain: mañana rige el FIX de 19.3668, 20 centavos arriba del de hoy; la BMV opera aunque Wall Street cierra."
+     "A las 5:08 CDMX el peso cotizaba en 19.67 por dólar (+0.42% el dólar), después de cerrar ayer en 19.58; ayer el S&P/BMV IPC subió 2.99%.",
+     "El FIX que Banxico determinó ayer fue de 19.7040 (+1.74%) y rige para pagos desde mañana viernes; hoy rige el de 19.3668.",
+     "Para supply chain: el FIX sube 34 centavos mañana; liquida hoy los pagos en dólares que puedas."
     ],
     "bloques": [
      {
-      "t": "Qué pasó",
-      "x": "El S&P/BMV IPC subió 2.99% a 71,374.41 puntos, mientras el S&P 500 bajaba 0.25%. El peso llegó a 19.77 por dólar en la mañana, su nivel más débil desde abril de 2025, según El Financiero, y se recuperó a 19.58 a las 15:16 CDMX (+0.87% el dólar). Hoy rigió para pagos el FIX de 19.1648; mañana rige el de 19.3668."
+      "t": "Lo que pasó desde el cierre",
+      "x": "Ayer el S&P/BMV IPC cerró en 71,372.25 puntos (+2.99%) y el peso en 19.58, después de que el USTR propuso aranceles a 14 economías de Asia y Europa y dejó a México sin determinación, según Expansión. Banxico determinó ayer un FIX de 19.7040 (+1.74%), que se publica hoy en el DOF y rige para pagos desde mañana viernes; hoy rige el de 19.3668. En la noche, el peso se debilitó a 19.67 por dólar (+0.42% el dólar a las 5:08 CDMX)."
      },
      {
-      "t": "Por qué",
-      "x": "El USTR propuso aranceles a 14 economías de Asia y Europa y no fijó tasa para México: el representante comercial Jamieson Greer dijo que aún no hay determinación para México ni para Noruega y no dio plazo, según Expansión. En las audiencias, la Secretaría de Economía dijo que la manufactura mexicana usa alrededor de 80% de su capacidad instalada. En la mañana, el peso cayó por el PCE de EE. UU. más alto de lo esperado."
+      "t": "Contexto",
+      "x": "Hoy no operan las bolsas de EE. UU. por el Día de Acción de Gracias, así que la liquidez será baja. Europa sube con fuerza y el petróleo sube por tercer día tras los ataques en Ormuz (Brent de enero en 95.01 dólares). Aparte de los 14, EE. UU. propuso a Brasil un arancel de 10% a los aviones y más arancel al azúcar, según Reuters."
      },
      {
-      "t": "Qué se espera",
-      "x": "Mañana jueves la BMV opera aunque Wall Street está cerrado. El viernes 27 el INEGI publica la balanza comercial de octubre. Los comentarios sobre los aranceles se reciben hasta el 5 de enero y las audiencias empiezan el 25."
+      "t": "Qué se espera hoy",
+      "x": "La BMV opera en horario normal. Mañana viernes 27 el INEGI publica la balanza comercial de octubre y Wall Street opera hasta las 12:00 CDMX."
      }
     ],
-    "scm": "Los pagos en dólares de mañana se liquidan con el FIX de 19.3668. Si compras insumos en Asia o Europa, compara su costo con el arancel propuesto frente a proveedores en México, que por ahora no tiene arancel nuevo; prepara también un escenario por si la investigación sobre México termina en arancel."
+    "scm": "Liquida hoy los pagos en dólares con el FIX de 19.3668: mañana sube a 19.7040. Si compras en Asia o Europa, aprovecha que México no tiene arancel nuevo para comparar contra proveedores locales."
    },
    "en": {
-    "titular": "The IPC rises 3% and the peso closes at 19.58 after Mexico was left out, for now, of the tariffs on 14 economies",
+    "titular": "The BMV is open although Wall Street is closed; yesterday’s FIX was 19.7040 and today the 19.3668 applies",
     "esencial": [
-     "The S&P/BMV IPC ended at 71,374.41 points (+2.99%) and the peso traded at 19.58 per dollar at 3:16 p.m. Mexico City time (dollar +0.87%), from 19.73 at the open.",
-     "The USTR set no rate for Mexico: its overcapacity investigation is still pending, with no deadline, according to Expansión.",
-     "For supply chain: tomorrow the 19.3668 FIX applies, 20 cents above today’s; the BMV is open although Wall Street is closed."
+     "At 5:08 a.m. Mexico City time the peso traded at 19.67 per dollar (dollar +0.42%), after closing yesterday at 19.58; yesterday the S&P/BMV IPC rose 2.99%.",
+     "The FIX Banxico set yesterday was 19.7040 (+1.74%) and applies to payments from Friday; today the 19.3668 applies.",
+     "For supply chain: the FIX rises 34 cents tomorrow; settle the dollar payments you can today."
     ],
     "bloques": [
      {
-      "t": "What happened",
-      "x": "The S&P/BMV IPC rose 2.99% to 71,374.41 points, while the S&P 500 fell 0.25%. The peso reached 19.77 per dollar in the morning, its weakest since April 2025, according to El Financiero, and recovered to 19.58 at 3:16 p.m. (dollar +0.87%). Today the 19.1648 FIX applied to payments; tomorrow the 19.3668 one applies."
+      "t": "What happened since the close",
+      "x": "Yesterday the S&P/BMV IPC closed at 71,372.25 points (+2.99%) and the peso at 19.58, after the USTR proposed tariffs on 14 economies in Asia and Europe and left Mexico without a determination, according to Expansión. Banxico set a 19.7040 FIX yesterday (+1.74%), published today in the DOF and applying to payments from Friday; today the 19.3668 one applies. Overnight, the peso weakened to 19.67 per dollar (dollar +0.42% at 5:08 a.m.)."
      },
      {
-      "t": "Why",
-      "x": "The USTR proposed tariffs on 14 economies in Asia and Europe and set no rate for Mexico: Trade Representative Jamieson Greer said there is still no determination for Mexico or Norway and gave no deadline, according to Expansión. At the hearings, the Ministry of Economy said Mexican manufacturing uses about 80% of its installed capacity. In the morning, the peso fell on hotter-than-expected US PCE."
+      "t": "Context",
+      "x": "US markets are closed today for Thanksgiving, so liquidity will be thin. Europe is sharply higher and oil rises for a third day after the Hormuz attacks (January Brent at $95.01). Apart from the 14, the US proposed a 10% tariff on aircraft and higher sugar duties for Brazil, according to Reuters."
      },
      {
-      "t": "What to expect",
-      "x": "Tomorrow, Thursday, the BMV is open although Wall Street is closed. On Friday the 27th INEGI publishes the October trade balance. Comments on the tariffs are due January 5 and hearings begin January 25."
+      "t": "What to expect today",
+      "x": "The BMV trades normal hours. Tomorrow, Friday the 27th, INEGI publishes the October trade balance and Wall Street trades until 12:00 p.m. Mexico City time."
      }
     ],
-    "scm": "Tomorrow’s dollar payments settle at the 19.3668 FIX. If you buy inputs in Asia or Europe, compare their cost with the proposed tariff against suppliers in Mexico, which for now has no new tariff; also prepare a scenario in case the investigation on Mexico ends in a tariff."
+    "scm": "Settle dollar payments today with the 19.3668 FIX: tomorrow it rises to 19.7040. If you buy in Asia or Europe, use the fact that Mexico has no new tariff to compare against local suppliers."
    },
    "pt": {
-    "titular": "O IPC sobe 3% e o peso fecha em 19,58 depois que o México ficou fora, por enquanto, das tarifas para 14 economias",
+    "titular": "A BMV opera embora Wall Street feche; o FIX de ontem foi de 19,7040 e hoje vale o de 19,3668",
     "esencial": [
-     "O S&P/BMV IPC terminou em 71.374,41 pontos (+2,99%) e o peso era cotado a 19,58 por dólar às 15h16 (Cidade do México) (dólar +0,87%), desde 19,73 na abertura.",
-     "O USTR não fixou alíquota para o México: a investigação por excesso de capacidade segue pendente, sem prazo, segundo a Expansión.",
-     "Para supply chain: amanhã vale o FIX de 19,3668, 20 centavos acima do de hoje; a BMV opera embora Wall Street feche."
+     "Às 5h08 (Cidade do México) o peso era cotado a 19,67 por dólar (dólar +0,42%), depois de fechar ontem em 19,58; ontem o S&P/BMV IPC subiu 2,99%.",
+     "O FIX definido ontem pelo Banxico foi de 19,7040 (+1,74%) e vale para pagamentos a partir de sexta; hoje vale o de 19,3668.",
+     "Para supply chain: o FIX sobe 34 centavos amanhã; liquide hoje os pagamentos em dólares que puder."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu",
-      "x": "O S&P/BMV IPC subiu 2,99% para 71.374,41 pontos, enquanto o S&P 500 caía 0,25%. O peso chegou a 19,77 por dólar de manhã, seu nível mais fraco desde abril de 2025, segundo o El Financiero, e se recuperou para 19,58 às 15h16 (dólar +0,87%). Hoje valeu para pagamentos o FIX de 19,1648; amanhã vale o de 19,3668."
+      "t": "O que aconteceu desde o fechamento",
+      "x": "Ontem o S&P/BMV IPC fechou em 71.372,25 pontos (+2,99%) e o peso em 19,58, depois que o USTR propôs tarifas para 14 economias da Ásia e da Europa e deixou o México sem determinação, segundo a Expansión. O Banxico definiu ontem um FIX de 19,7040 (+1,74%), publicado hoje no DOF e que vale para pagamentos a partir de sexta; hoje vale o de 19,3668. Durante a noite, o peso se enfraqueceu para 19,67 por dólar (dólar +0,42% às 5h08)."
      },
      {
-      "t": "Por quê",
-      "x": "O USTR propôs tarifas para 14 economias da Ásia e da Europa e não fixou alíquota para o México: o representante comercial Jamieson Greer disse que ainda não há determinação para México nem Noruega e não deu prazo, segundo a Expansión. Nas audiências, a Secretaria de Economia disse que a manufatura mexicana usa cerca de 80% da capacidade instalada. De manhã, o peso caiu pelo PCE dos EUA acima do esperado."
+      "t": "Contexto",
+      "x": "Hoje as bolsas dos EUA não operam pelo Dia de Ação de Graças, então a liquidez será baixa. A Europa sobe forte e o petróleo sobe pelo terceiro dia após os ataques em Ormuz (Brent de janeiro a 95,01 dólares). Além das 14, os EUA propuseram ao Brasil uma tarifa de 10% sobre aviões e mais tarifa sobre o açúcar, segundo a Reuters."
      },
      {
-      "t": "O que se espera",
-      "x": "Amanhã, quinta, a BMV opera embora Wall Street esteja fechada. Na sexta, dia 27, o INEGI divulga a balança comercial de outubro. Os comentários sobre as tarifas vão até 5 de janeiro e as audiências começam em 25."
+      "t": "O que se espera hoje",
+      "x": "A BMV opera em horário normal. Amanhã, sexta, dia 27, o INEGI divulga a balança comercial de outubro e Wall Street opera até as 12h00 (Cidade do México)."
      }
     ],
-    "scm": "Os pagamentos em dólares de amanhã se liquidam com o FIX de 19,3668. Se você compra insumos na Ásia ou na Europa, compare o custo com a tarifa proposta frente a fornecedores no México, que por enquanto não tem tarifa nova; prepare também um cenário caso a investigação sobre o México termine em tarifa."
+    "scm": "Liquide hoje os pagamentos em dólares com o FIX de 19,3668: amanhã sobe para 19,7040. Se você compra na Ásia ou na Europa, aproveite que o México não tem tarifa nova para comparar com fornecedores locais."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: IPC México (^MXX), 25 nov 2026",
-     "u": "https://finance.yahoo.com/quote/%5EMXX/"
+     "t": "Banxico: tipo de cambio FIX (25 nov 2026: 19.7040)",
+     "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
     },
     {
      "t": "Expansión: México libra por ahora los aranceles que EE. UU. propone a 14 economías (25 nov 2026)",
      "u": "https://expansion.mx/economia/2026/11/25/eu-propone-aranceles-14-economias-mexico-queda-fuera"
     },
     {
-     "t": "El Financiero: el peso alcanza su peor nivel en 19 meses (25 nov 2026)",
-     "u": "https://www.elfinanciero.com.mx/mercados/2026/11/25/peso-dolar-tipo-de-cambio-hoy-25-de-noviembre-de-2026/"
+     "t": "Reuters: EE. UU. propone nuevos aranceles a Brasil, incluido 10% a los aviones (25 nov 2026)",
+     "u": "https://finance.yahoo.com/news/us-proposes-higher-tariffs-brazil-131543830.html"
     },
     {
-     "t": "Banxico: tipo de cambio FIX (24 nov 2026: 19.3668)",
-     "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 25 nov 2026)",
+     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 05:08 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -633,7 +609,7 @@
    "nombre": "IPC BMV",
    "name_en": "IPC BMV",
    "grupo": "bolsa",
-   "valor": 71374.41,
+   "valor": 71372.25,
    "cambio": 2.99,
    "unidad": "puntos",
    "name_pt": "IPC BMV"
@@ -669,8 +645,8 @@
    "nombre": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
    "grupo": "bolsa",
-   "valor": 5894.46,
-   "cambio": -1.82,
+   "valor": 6006.08,
+   "cambio": 1.89,
    "unidad": "puntos",
    "name_pt": "Euro Stoxx 50"
   },
@@ -678,8 +654,8 @@
    "nombre": "Nikkei 225",
    "name_en": "Nikkei 225",
    "grupo": "bolsa",
-   "valor": 57011.62,
-   "cambio": -2.78,
+   "valor": 57499.16,
+   "cambio": 0.86,
    "unidad": "puntos",
    "name_pt": "Nikkei 225"
   },
@@ -687,8 +663,8 @@
    "nombre": "KOSPI",
    "name_en": "KOSPI",
    "grupo": "bolsa",
-   "valor": 4697.51,
-   "cambio": -6.16,
+   "valor": 4711.21,
+   "cambio": 0.29,
    "unidad": "puntos",
    "name_pt": "KOSPI"
   },
@@ -696,8 +672,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 19.58,
-   "cambio": 0.87,
+   "valor": 19.67,
+   "cambio": 0.42,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -705,8 +681,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.0978,
-   "cambio": 0.1,
+   "valor": 1.0975,
+   "cambio": -0.06,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -714,8 +690,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 159.21,
-   "cambio": -0.02,
+   "valor": 159.28,
+   "cambio": 0.1,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -723,8 +699,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 84.16,
-   "cambio": 2.57,
+   "valor": 84.43,
+   "cambio": 0.9,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -732,8 +708,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 94.56,
-   "cambio": 3.46,
+   "valor": 95.01,
+   "cambio": 0.42,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -750,8 +726,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3601.2,
-   "cambio": 0.28,
+   "valor": 3583.1,
+   "cambio": 0.52,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -759,8 +735,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 5.48,
-   "cambio": 0.55,
+   "valor": 5.45,
+   "cambio": 0.51,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -795,8 +771,8 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 60185.58,
-   "cambio": 0.74,
+   "valor": 60427.84,
+   "cambio": 0.08,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }

@@ -8,14 +8,14 @@
  "es": {
   "titular": "El IPC sube 3% y el peso cierra en 19.58 después de que México quedó fuera, por ahora, de los aranceles a 14 economías",
   "esencial": [
-   "El S&P/BMV IPC terminó en 71,374.41 puntos (+2.99%) y el peso cotizaba en 19.58 por dólar a las 15:16 CDMX (+0.87% el dólar), desde 19.73 en la apertura.",
+   "El S&P/BMV IPC terminó en 71,372.25 puntos (+2.99%) y el peso cotizaba en 19.58 por dólar a las 15:16 CDMX (+0.87% el dólar), desde 19.73 en la apertura.",
    "El USTR no fijó tasa para México: su investigación por exceso de capacidad sigue pendiente, sin plazo, según Expansión.",
    "Para supply chain: mañana rige el FIX de 19.3668, 20 centavos arriba del de hoy; la BMV opera aunque Wall Street cierra."
   ],
   "bloques": [
    {
     "t": "Qué pasó",
-    "x": "El S&P/BMV IPC subió 2.99% a 71,374.41 puntos, mientras el S&P 500 bajaba 0.25%. El peso llegó a 19.77 por dólar en la mañana, su nivel más débil desde abril de 2025, según El Financiero, y se recuperó a 19.58 a las 15:16 CDMX (+0.87% el dólar). Hoy rigió para pagos el FIX de 19.1648; mañana rige el de 19.3668."
+    "x": "El S&P/BMV IPC subió 2.99% a 71,372.25 puntos, mientras el S&P 500 bajaba 0.25%. El peso llegó a 19.77 por dólar en la mañana, su nivel más débil desde abril de 2025, según El Financiero, y se recuperó a 19.58 a las 15:16 CDMX (+0.87% el dólar). Hoy rigió para pagos el FIX de 19.1648; mañana rige el de 19.3668."
    },
    {
     "t": "Por qué",
@@ -31,14 +31,14 @@
  "en": {
   "titular": "The IPC rises 3% and the peso closes at 19.58 after Mexico was left out, for now, of the tariffs on 14 economies",
   "esencial": [
-   "The S&P/BMV IPC ended at 71,374.41 points (+2.99%) and the peso traded at 19.58 per dollar at 3:16 p.m. Mexico City time (dollar +0.87%), from 19.73 at the open.",
+   "The S&P/BMV IPC ended at 71,372.25 points (+2.99%) and the peso traded at 19.58 per dollar at 3:16 p.m. Mexico City time (dollar +0.87%), from 19.73 at the open.",
    "The USTR set no rate for Mexico: its overcapacity investigation is still pending, with no deadline, according to Expansión.",
    "For supply chain: tomorrow the 19.3668 FIX applies, 20 cents above today’s; the BMV is open although Wall Street is closed."
   ],
   "bloques": [
    {
     "t": "What happened",
-    "x": "The S&P/BMV IPC rose 2.99% to 71,374.41 points, while the S&P 500 fell 0.25%. The peso reached 19.77 per dollar in the morning, its weakest since April 2025, according to El Financiero, and recovered to 19.58 at 3:16 p.m. (dollar +0.87%). Today the 19.1648 FIX applied to payments; tomorrow the 19.3668 one applies."
+    "x": "The S&P/BMV IPC rose 2.99% to 71,372.25 points, while the S&P 500 fell 0.25%. The peso reached 19.77 per dollar in the morning, its weakest since April 2025, according to El Financiero, and recovered to 19.58 at 3:16 p.m. (dollar +0.87%). Today the 19.1648 FIX applied to payments; tomorrow the 19.3668 one applies."
    },
    {
     "t": "Why",
@@ -54,14 +54,14 @@
  "pt": {
   "titular": "O IPC sobe 3% e o peso fecha em 19,58 depois que o México ficou fora, por enquanto, das tarifas para 14 economias",
   "esencial": [
-   "O S&P/BMV IPC terminou em 71.374,41 pontos (+2,99%) e o peso era cotado a 19,58 por dólar às 15h16 (Cidade do México) (dólar +0,87%), desde 19,73 na abertura.",
+   "O S&P/BMV IPC terminou em 71.372,25 pontos (+2,99%) e o peso era cotado a 19,58 por dólar às 15h16 (Cidade do México) (dólar +0,87%), desde 19,73 na abertura.",
    "O USTR não fixou alíquota para o México: a investigação por excesso de capacidade segue pendente, sem prazo, segundo a Expansión.",
    "Para supply chain: amanhã vale o FIX de 19,3668, 20 centavos acima do de hoje; a BMV opera embora Wall Street feche."
   ],
   "bloques": [
    {
     "t": "O que aconteceu",
-    "x": "O S&P/BMV IPC subiu 2,99% para 71.374,41 pontos, enquanto o S&P 500 caía 0,25%. O peso chegou a 19,77 por dólar de manhã, seu nível mais fraco desde abril de 2025, segundo o El Financiero, e se recuperou para 19,58 às 15h16 (dólar +0,87%). Hoje valeu para pagamentos o FIX de 19,1648; amanhã vale o de 19,3668."
+    "x": "O S&P/BMV IPC subiu 2,99% para 71.372,25 pontos, enquanto o S&P 500 caía 0,25%. O peso chegou a 19,77 por dólar de manhã, seu nível mais fraco desde abril de 2025, segundo o El Financiero, e se recuperou para 19,58 às 15h16 (dólar +0,87%). Hoje valeu para pagamentos o FIX de 19,1648; amanhã vale o de 19,3668."
    },
    {
     "t": "Por quê",

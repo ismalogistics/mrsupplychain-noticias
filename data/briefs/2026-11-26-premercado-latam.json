@@ -1,0 +1,95 @@
+{
+ "id": "2026-11-26-premercado-latam",
+ "fecha": "2026-11-26",
+ "momento": "premercado",
+ "mercado": "latam",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Brasil rechaza los aranceles propuestos a sus aviones y su azúcar; la región opera aunque Wall Street cierra",
+  "esencial": [
+   "Ayer el Ibovespa cerró con +1.58% (166,684.61) y el S&P/TSX de Canadá con +0.64%; los ETF de MSCI subieron 1.7% en Argentina y 1.2% en Perú.",
+   "El gobierno de Brasil calificó de inaceptable la propuesta de EE. UU. de un arancel de 10% a los aviones terminados, que pegaría a Embraer, según Reuters.",
+   "Para supply chain: si compras aviones regionales o refacciones de Brasil, revisa contratos y entregas antes de enero."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "Ayer el Ibovespa cerró en 166,684.61 (+1.58%) y el S&P/TSX de Canadá en 34,179.99 (+0.64%). Los ETF de MSCI cerraron con +1.73% en Argentina, +1.20% en Perú y −0.18% en Chile. El gobierno de Brasil calificó de inaceptable la propuesta de EE. UU. de un arancel de 10% a los aviones terminados y uno nuevo al azúcar fuera de cuota; los aviones son la cuarta exportación de Brasil a EE. UU., según Reuters. Embraer tiene pedidos firmes de unos 160 jets E175 para aerolíneas de EE. UU."
+   },
+   {
+    "t": "Contexto",
+    "x": "A las 5:08 CDMX el dólar estaba en 5.82 reales (+0.04%), 1,041 pesos chilenos (+0.32%) y 3,554 pesos colombianos (sin cambio). El cobre subía 0.5% a 5.45 dólares por libra y la plata 2.6%. El petróleo sube por tercer día tras los ataques en Ormuz; en Brasil, el campo Bacalhau sigue detenido."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Los mercados de la región operan aunque Wall Street cierra por el Día de Acción de Gracias. Mañana viernes Wall Street opera hasta las 12:00 CDMX y el domingo 29 se reúne la OPEP+."
+   }
+  ],
+  "scm": "Si compras aviones regionales, refacciones aeronáuticas o azúcar de Brasil, revisa contratos y fechas de entrega antes de enero; con liquidez baja hoy, escalona los pagos en monedas de la región."
+ },
+ "en": {
+  "titular": "Brazil rejects the proposed tariffs on its aircraft and sugar; the region trades although Wall Street is closed",
+  "esencial": [
+   "Yesterday the Ibovespa closed +1.58% (166,684.61) and Canada's S&P/TSX +0.64%; the MSCI ETFs rose 1.7% for Argentina and 1.2% for Peru.",
+   "Brazil's government called unacceptable the US proposal of a 10% tariff on finished aircraft, which would hit Embraer, according to Reuters.",
+   "For supply chain: if you buy regional jets or parts from Brazil, review contracts and deliveries before January."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "Yesterday the Ibovespa closed at 166,684.61 (+1.58%) and Canada's S&P/TSX at 34,179.99 (+0.64%). The MSCI ETFs closed +1.73% for Argentina, +1.20% for Peru and −0.18% for Chile. Brazil's government called unacceptable the US proposal of a 10% tariff on finished aircraft and a new one on out-of-quota sugar; aircraft are Brazil's fourth-largest export to the US, according to Reuters. Embraer has firm orders for about 160 E175 jets for US airlines."
+   },
+   {
+    "t": "Context",
+    "x": "At 5:08 a.m. Mexico City time the dollar stood at 5.82 reais (+0.04%), 1,041 Chilean pesos (+0.32%) and 3,554 Colombian pesos (unchanged). Copper rose 0.5% to $5.45 per pound and silver 2.6%. Oil rises for a third day after the Hormuz attacks; in Brazil, the Bacalhau field remains shut."
+   },
+   {
+    "t": "What to expect today",
+    "x": "The region's markets are open although Wall Street is closed for Thanksgiving. Tomorrow, Friday, Wall Street trades until 1:00 p.m. ET and OPEC+ meets on Sunday the 29th."
+   }
+  ],
+  "scm": "If you buy regional jets, aerospace parts or sugar from Brazil, review contracts and delivery dates before January; with thin liquidity today, stagger payments in regional currencies."
+ },
+ "pt": {
+  "titular": "O Brasil rejeita as tarifas propostas sobre seus aviões e seu açúcar; a região opera embora Wall Street feche",
+  "esencial": [
+   "Ontem o Ibovespa fechou com +1,58% (166.684,61) e o S&P/TSX do Canadá com +0,64%; os ETFs da MSCI subiram 1,7% na Argentina e 1,2% no Peru.",
+   "O governo do Brasil chamou de inaceitável a proposta dos EUA de uma tarifa de 10% sobre aviões acabados, que atingiria a Embraer, segundo a Reuters.",
+   "Para supply chain: se você compra jatos regionais ou peças do Brasil, revise contratos e entregas antes de janeiro."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Ontem o Ibovespa fechou em 166.684,61 (+1,58%) e o S&P/TSX do Canadá em 34.179,99 (+0,64%). Os ETFs da MSCI fecharam com +1,73% na Argentina, +1,20% no Peru e −0,18% no Chile. O governo do Brasil chamou de inaceitável a proposta dos EUA de uma tarifa de 10% sobre aviões acabados e uma nova sobre o açúcar fora da cota; os aviões são a quarta maior exportação do Brasil para os EUA, segundo a Reuters. A Embraer tem pedidos firmes de cerca de 160 jatos E175 para companhias aéreas dos EUA."
+   },
+   {
+    "t": "Contexto",
+    "x": "Às 5h08 (Cidade do México) o dólar estava em R$ 5,82 (+0,04%), 1.041 pesos chilenos (+0,32%) e 3.554 pesos colombianos (estável). O cobre subia 0,5% para 5,45 dólares por libra e a prata 2,6%. O petróleo sobe pelo terceiro dia após os ataques em Ormuz; no Brasil, o campo de Bacalhau segue parado."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Os mercados da região operam embora Wall Street feche pelo Dia de Ação de Graças. Amanhã, sexta, Wall Street opera até as 13h00 de Nova York e no domingo, dia 29, a OPEP+ se reúne."
+   }
+  ],
+  "scm": "Se você compra jatos regionais, peças aeronáuticas ou açúcar do Brasil, revise contratos e prazos de entrega antes de janeiro; com liquidez baixa hoje, escalone os pagamentos em moedas da região."
+ },
+ "fuentes": [
+  {
+   "t": "Reuters: EE. UU. propone nuevos aranceles a Brasil, incluido 10% a los aviones (25 nov 2026)",
+   "u": "https://finance.yahoo.com/news/us-proposes-higher-tariffs-brazil-131543830.html"
+  },
+  {
+   "t": "Reuters: las aerolíneas de EE. UU. enfrentarían costos más altos por el arancel propuesto a Embraer (25 nov 2026)",
+   "u": "https://finance.yahoo.com/economy/policy/articles/us-airlines-face-higher-costs-222235730.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (26 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}
