@@ -1,183 +1,229 @@
 {
- "actualizado": "2026-11-27T17:40:02Z",
- "momento": "mediodia",
+ "actualizado": "2026-11-27T21:19:25Z",
+ "momento": "cierre",
  "briefs": {
   "global": {
-   "id": "2026-11-27-mediodia-global",
+   "id": "2026-11-27-cierre-global",
    "fecha": "2026-11-27",
-   "momento": "mediodia",
+   "momento": "cierre",
    "mercado": "global",
-   "hora": "11:38 CDMX",
+   "hora": "15:15 CDMX",
+   "fin_de_semana": true,
    "es": {
-    "titular": "Wall Street amplía sus alzas antes del cierre anticipado: el Nasdaq sube 1.9%, Micron 6% y Anthropic 11%",
+    "titular": "Wall Street rebota en la semana: el S&P 500 gana 5.6% y el Nasdaq 6.7% tras su peor semana desde 2025; el Brent sube 3%",
     "esencial": [
-     "A las 11:38 CDMX el S&P 500 subía 1.39%, el Nasdaq 1.86% y el Dow 1.15%, más que en la apertura; el índice de chips subía 3.2% y el VIX bajaba a 24.6.",
-     "Adobe espera que el gasto en línea de fin de año en EE. UU. crezca 6.7%, a 275,100 millones de dólares, según Yahoo Finance.",
-     "Para supply chain: el Brent de enero baja a 93.98 dólares antes de la OPEP+ del domingo; Rystad prevé un superávit de petróleo de 5 millones de barriles diarios en 2027."
+     "El viernes el S&P 500 cerró en 7,297.49 (+1.60%), el Nasdaq en 24,129.50 (+2.31%) y el Dow en 50,774.94 (+1.18%); en la semana ganaron 5.6%, 6.7% y 5.5%.",
+     "El Brent de enero cerró en 95.44 dólares y subió cerca de 3% en la semana, su primera ganancia de noviembre, por los ataques en Ormuz y a refinerías saudíes, según Reuters.",
+     "Para el fin de semana: la OPEP+ decide el domingo; el lunes rige un FIX de 19.7203 y el martes sale el ISM manufacturero de EE. UU."
     ],
     "bloques": [
      {
-      "t": "Lo que se esperaba",
-      "x": "En la apertura, Wall Street subía cerca de 0.7% en una sesión corta de Black Friday, con Nvidia a la baja y la plata con un alza de 8.4% desde el miércoles."
+      "t": "Qué pasó",
+      "x": "El viernes, en una sesión corta, el S&P 500 cerró en 7,297.49 (+1.60%), el Nasdaq en 24,129.50 (+2.31%) y el Dow en 50,774.94 (+1.18%); el VIX bajó 11% a 23.8. En la semana, el S&P 500 ganó 5.6%, el Nasdaq 6.7% y el Dow 5.5%, después de su peor semana desde abril de 2025. El índice de semiconductores subió 4.7% el viernes y 9.2% en la semana; Nvidia ganó cerca de 20% en la semana tras el regreso de Jensen Huang, Micron subió 7.6% el viernes y Anthropic 11.0%, a 91.88 dólares. El Treasury a 10 años terminó en 4.94%."
      },
      {
-      "t": "Cómo va",
-      "x": "A las 11:38 CDMX el S&P 500 subía 1.39% (7,282.46), el Nasdaq 1.86% (24,024.40) y el Dow 1.15% (50,761.99); el VIX bajaba 8.3% a 24.6. El índice de semiconductores subía 3.2%: Micron +6.1%, mientras Nvidia bajaba 0.3% (148.90 dólares). Anthropic subía 11.0% a 91.93 dólares, Dell 5.7% y Amazon 4.3%. El Treasury a 10 años subía a 4.93%. El Brent de enero estaba en 93.98 dólares y el WTI en 82.71, abajo de sus niveles del jueves; desde el miércoles, la plata subía 8.0% (43.77 dólares) y el cobre 3.3% (5.60 dólares por libra)."
+      "t": "Por qué",
+      "x": "La tecnología se recuperó tras la venta de las semanas anteriores, aunque con alta volatilidad: el martes el índice de chips cayó 7.9%. El dato de inflación PCE del miércoles (subyacente de 3.3%) dejó casi segura un alza de la Fed en diciembre, y el Libro Beige reportó presiones de costos sostenidas. EE. UU. propuso aranceles de 15% a 35% a 14 economías de Asia y Europa, que entrarían en 2027 tras consulta pública. El consumo de fin de año arrancó fuerte: Adobe espera un gasto en línea 6.7% mayor y la NRF ventas por más de un billón de dólares."
      },
      {
-      "t": "Lo que sorprendió",
-      "x": "Las bolsas ampliaron sus alzas en lugar de recortarlas. Adobe espera que el gasto en línea de fin de año en EE. UU. crezca 6.7%, a 275,100 millones de dólares, con cerca de 50,000 millones en la semana del Cyber Monday. El petróleo bajó: la OPEP+ tiene un acuerdo en principio para mantener sus metas en el primer trimestre de 2027, Irak pide una cuota más alta y Rystad Energy prevé un superávit de unos 5 millones de barriles diarios en 2027, según Reuters."
+      "t": "Materias primas",
+      "x": "El Brent de enero cerró en 95.44 dólares (−1.13 dólares el viernes) y ganó cerca de 3% en la semana, después de que dos petroleros explotaron con minas en Ormuz y los hutíes atacaron las refinerías saudíes de Ras Tanura y Jazan; el WTI cerró en 83.08 y perdió 0.9% en la semana, según Reuters. El diésel en futuros cerró en 3.68 dólares por galón, 6% abajo que hace una semana. Los metales rebotaron: en la semana el oro subió 4.4% a 3,668.50, la plata 6.5% a 43.70 y el cobre 2.3% a 5.60 dólares por libra."
+     },
+     {
+      "t": "La próxima semana",
+      "x": "El domingo 29 la OPEP+ decide su producción de 2027 y tiene un acuerdo en principio para mantener sus metas en el primer trimestre, aunque Irak pide una cuota más alta, según Reuters. El martes 1 de diciembre sale el ISM manufacturero de EE. UU. Durante la semana salen datos de empleo de EE. UU. y Jensen Huang comparece ante el Congreso, según Yahoo Finance. La Fed decide el 9 de diciembre."
      }
     ],
-    "scm": "El consumo de fin de año en EE. UU. se ve fuerte: confirma la capacidad de última milla y de devoluciones para diciembre. Con el petróleo a la baja y un superávit previsto para 2027, negocia recargos de combustible indexados al diésel en lugar de fijos."
+    "scm": "El diésel bajó 6% en la semana, pero el crudo subió por el riesgo en Ormuz: pide recargos de combustible indexados al diésel y espera a la OPEP+ del domingo antes de fijar tarifas de diciembre. Con los metales al alza, cierra el lunes las cotizaciones de cable y conectores del primer trimestre."
    },
    "en": {
-    "titular": "Wall Street extends gains ahead of the early close: the Nasdaq rises 1.9%, Micron 6% and Anthropic 11%",
+    "titular": "Wall Street rebounds for the week: the S&P 500 gains 5.6% and the Nasdaq 6.7% after its worst week since 2025; Brent rises 3%",
     "esencial": [
-     "At 12:38 p.m. ET the S&P 500 was up 1.39%, the Nasdaq 1.86% and the Dow 1.15%, more than at the open; the chip index rose 3.2% and the VIX fell to 24.6.",
-     "Adobe expects US holiday online spending to grow 6.7% to $275.1 billion, according to Yahoo Finance.",
-     "For supply chain: January Brent falls to $93.98 ahead of Sunday’s OPEC+ meeting; Rystad forecasts a 5 million barrel-a-day oil surplus in 2027."
+     "On Friday the S&P 500 closed at 7,297.49 (+1.60%), the Nasdaq at 24,129.50 (+2.31%) and the Dow at 50,774.94 (+1.18%); for the week they gained 5.6%, 6.7% and 5.5%.",
+     "January Brent settled at $95.44 and rose about 3% for the week, its first gain in November, on the Hormuz attacks and strikes on Saudi refineries, according to Reuters.",
+     "For the weekend: OPEC+ decides on Sunday; on Monday a 19.7203 FIX applies and on Tuesday the US ISM manufacturing index comes out."
     ],
     "bloques": [
      {
-      "t": "What was expected",
-      "x": "At the open, Wall Street was up about 0.7% in a short Black Friday session, with Nvidia lower and silver up 8.4% from Wednesday."
+      "t": "What happened",
+      "x": "On Friday, in a short session, the S&P 500 closed at 7,297.49 (+1.60%), the Nasdaq at 24,129.50 (+2.31%) and the Dow at 50,774.94 (+1.18%); the VIX fell 11% to 23.8. For the week, the S&P 500 gained 5.6%, the Nasdaq 6.7% and the Dow 5.5%, after their worst week since April 2025. The semiconductor index rose 4.7% on Friday and 9.2% for the week; Nvidia gained about 20% for the week after Jensen Huang’s return, Micron rose 7.6% on Friday and Anthropic 11.0% to $91.88. The 10-year Treasury ended at 4.94%."
      },
      {
-      "t": "How it is going",
-      "x": "At 12:38 p.m. ET the S&P 500 was up 1.39% (7,282.46), the Nasdaq 1.86% (24,024.40) and the Dow 1.15% (50,761.99); the VIX fell 8.3% to 24.6. The semiconductor index rose 3.2%: Micron +6.1%, while Nvidia fell 0.3% ($148.90). Anthropic rose 11.0% to $91.93, Dell 5.7% and Amazon 4.3%. The 10-year Treasury rose to 4.93%. January Brent stood at $93.98 and WTI at $82.71, below Thursday’s levels; from Wednesday, silver was up 8.0% ($43.77) and copper 3.3% ($5.60 per pound)."
+      "t": "Why",
+      "x": "Tech recovered after the selloff of previous weeks, though with high volatility: on Tuesday the chip index fell 7.9%. Wednesday’s PCE inflation data (core at 3.3%) made a December Fed hike nearly certain, and the Beige Book reported sustained cost pressures. The US proposed tariffs of 15% to 35% on 14 economies in Asia and Europe, which would take effect in 2027 after public comment. Holiday consumption started strong: Adobe expects online spending 6.7% higher and the NRF sales above $1 trillion."
      },
      {
-      "t": "What surprised",
-      "x": "Stocks extended gains instead of paring them. Adobe expects US holiday online spending to grow 6.7% to $275.1 billion, with nearly $50 billion in Cyber Week. Oil fell: OPEC+ has an agreement in principle to keep its targets for the first quarter of 2027, Iraq is seeking a higher quota and Rystad Energy forecasts a surplus of about 5 million barrels a day in 2027, according to Reuters."
+      "t": "Commodities",
+      "x": "January Brent settled at $95.44 (−$1.13 on Friday) and gained about 3% for the week, after two tankers exploded on mines in Hormuz and the Houthis attacked Saudi Arabia’s Ras Tanura and Jazan refineries; WTI settled at $83.08 and lost 0.9% for the week, according to Reuters. Diesel futures closed at $3.68 a gallon, 6% lower than a week ago. Metals rebounded: for the week gold rose 4.4% to $3,668.50, silver 6.5% to $43.70 and copper 2.3% to $5.60 per pound."
+     },
+     {
+      "t": "Next week",
+      "x": "On Sunday the 29th OPEC+ decides its 2027 output and has an agreement in principle to keep its targets in the first quarter, although Iraq is seeking a higher quota, according to Reuters. The US ISM manufacturing index comes out on Tuesday, December 1. During the week, US jobs data are released and Jensen Huang testifies before Congress, according to Yahoo Finance. The Fed decides on December 9."
      }
     ],
-    "scm": "US holiday consumption looks strong: confirm last-mile and returns capacity for December. With oil lower and a surplus forecast for 2027, negotiate fuel surcharges indexed to diesel rather than fixed."
+    "scm": "Diesel fell 6% for the week, but crude rose on Hormuz risk: ask for fuel surcharges indexed to diesel and wait for Sunday’s OPEC+ meeting before setting December rates. With metals rising, close first-quarter cable and connector quotes on Monday."
    },
    "pt": {
-    "titular": "Wall Street amplia as altas antes do fechamento antecipado: o Nasdaq sobe 1,9%, a Micron 6% e a Anthropic 11%",
+    "titular": "Wall Street se recupera na semana: o S&P 500 ganha 5,6% e o Nasdaq 6,7% após a pior semana desde 2025; o Brent sobe 3%",
     "esencial": [
-     "Às 11h38 (Cidade do México) o S&P 500 subia 1,39%, o Nasdaq 1,86% e o Dow 1,15%, mais que na abertura; o índice de chips subia 3,2% e o VIX caía para 24,6.",
-     "A Adobe espera que o gasto online de fim de ano nos EUA cresça 6,7%, para 275,1 bilhões de dólares, segundo o Yahoo Finance.",
-     "Para supply chain: o Brent de janeiro cai para 93,98 dólares antes da OPEP+ de domingo; a Rystad prevê um superávit de petróleo de 5 milhões de barris por dia em 2027."
+     "Na sexta o S&P 500 fechou em 7.297,49 (+1,60%), o Nasdaq em 24.129,50 (+2,31%) e o Dow em 50.774,94 (+1,18%); na semana ganharam 5,6%, 6,7% e 5,5%.",
+     "O Brent de janeiro fechou a 95,44 dólares e subiu cerca de 3% na semana, seu primeiro ganho de novembro, pelos ataques em Ormuz e às refinarias sauditas, segundo a Reuters.",
+     "Para o fim de semana: a OPEP+ decide no domingo; na segunda vale um FIX de 19,7203 e na terça sai o ISM industrial dos EUA."
     ],
     "bloques": [
      {
-      "t": "O que se esperava",
-      "x": "Na abertura, Wall Street subia cerca de 0,7% numa sessão curta de Black Friday, com a Nvidia em queda e a prata com alta de 8,4% desde quarta."
+      "t": "O que aconteceu",
+      "x": "Na sexta, numa sessão curta, o S&P 500 fechou em 7.297,49 (+1,60%), o Nasdaq em 24.129,50 (+2,31%) e o Dow em 50.774,94 (+1,18%); o VIX caiu 11% para 23,8. Na semana, o S&P 500 ganhou 5,6%, o Nasdaq 6,7% e o Dow 5,5%, depois da pior semana desde abril de 2025. O índice de semicondutores subiu 4,7% na sexta e 9,2% na semana; a Nvidia ganhou cerca de 20% na semana após o retorno de Jensen Huang, a Micron subiu 7,6% na sexta e a Anthropic 11,0%, para 91,88 dólares. O Treasury de 10 anos terminou em 4,94%."
      },
      {
-      "t": "Como está",
-      "x": "Às 11h38 (Cidade do México) o S&P 500 subia 1,39% (7.282,46), o Nasdaq 1,86% (24.024,40) e o Dow 1,15% (50.761,99); o VIX caía 8,3% para 24,6. O índice de semicondutores subia 3,2%: Micron +6,1%, enquanto a Nvidia caía 0,3% (148,90 dólares). A Anthropic subia 11,0% para 91,93 dólares, a Dell 5,7% e a Amazon 4,3%. O Treasury de 10 anos subia para 4,93%. O Brent de janeiro estava a 93,98 dólares e o WTI a 82,71, abaixo dos níveis de quinta; desde quarta, a prata subia 8,0% (43,77 dólares) e o cobre 3,3% (5,60 dólares por libra)."
+      "t": "Por quê",
+      "x": "A tecnologia se recuperou após a venda das semanas anteriores, embora com alta volatilidade: na terça o índice de chips caiu 7,9%. O dado de inflação PCE de quarta (núcleo de 3,3%) tornou quase certa uma alta do Fed em dezembro, e o Livro Bege relatou pressões de custos persistentes. Os EUA propuseram tarifas de 15% a 35% para 14 economias da Ásia e da Europa, que entrariam em vigor em 2027 após consulta pública. O consumo de fim de ano começou forte: a Adobe espera gasto online 6,7% maior e a NRF vendas acima de 1 trilhão de dólares."
      },
      {
-      "t": "O que surpreendeu",
-      "x": "As bolsas ampliaram as altas em vez de reduzi-las. A Adobe espera que o gasto online de fim de ano nos EUA cresça 6,7%, para 275,1 bilhões de dólares, com cerca de 50 bilhões na semana da Cyber Monday. O petróleo caiu: a OPEP+ tem um acordo em princípio para manter suas metas no primeiro trimestre de 2027, o Iraque pede uma cota maior e a Rystad Energy prevê um superávit de cerca de 5 milhões de barris por dia em 2027, segundo a Reuters."
+      "t": "Matérias-primas",
+      "x": "O Brent de janeiro fechou a 95,44 dólares (−1,13 dólar na sexta) e ganhou cerca de 3% na semana, depois que dois petroleiros explodiram com minas em Ormuz e os houthis atacaram as refinarias sauditas de Ras Tanura e Jazan; o WTI fechou a 83,08 e perdeu 0,9% na semana, segundo a Reuters. O diesel em futuros fechou a 3,68 dólares por galão, 6% abaixo de uma semana atrás. Os metais se recuperaram: na semana o ouro subiu 4,4% para 3.668,50, a prata 6,5% para 43,70 e o cobre 2,3% para 5,60 dólares por libra."
+     },
+     {
+      "t": "A próxima semana",
+      "x": "No domingo, dia 29, a OPEP+ decide a produção de 2027 e tem um acordo em princípio para manter suas metas no primeiro trimestre, embora o Iraque peça uma cota maior, segundo a Reuters. Na terça, 1º de dezembro, sai o ISM industrial dos EUA. Durante a semana saem dados de emprego dos EUA e Jensen Huang depõe no Congresso, segundo o Yahoo Finance. O Fed decide em 9 de dezembro."
      }
     ],
-    "scm": "O consumo de fim de ano nos EUA parece forte: confirme a capacidade de última milha e de devoluções para dezembro. Com o petróleo em queda e um superávit previsto para 2027, negocie sobretaxas de combustível indexadas ao diesel em vez de fixas."
+    "scm": "O diesel caiu 6% na semana, mas o petróleo subiu pelo risco em Ormuz: peça sobretaxas de combustível indexadas ao diesel e espere a OPEP+ de domingo antes de fixar tarifas de dezembro. Com os metais em alta, feche na segunda as cotações de cabos e conectores do primeiro trimestre."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben en el Black Friday (27 nov 2026)",
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq cierran la semana de Acción de Gracias con alzas por el rebote de la IA (27 nov 2026)",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+    },
+    {
+     "t": "Reuters: el petróleo logra su primera ganancia semanal de noviembre por temores de oferta (27 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-track-snap-3-week-082519990.html"
     },
     {
      "t": "Reuters: Irak negocia con la OPEP una cuota de producción más alta antes de la reunión de la OPEP+ (27 nov 2026)",
      "u": "https://finance.yahoo.com/news/iraq-talks-opec-higher-oil-163604121.html"
     },
     {
-     "t": "24/7 Wall St.: la plata sube 8% mientras Wall Street estaba cerrado por Acción de Gracias (27 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/commodities/articles/silver-prices-exploded-8-overnight-162731372.html"
+     "t": "Baker McKenzie: el USTR propone aranceles de la Sección 301 a 14 economías por exceso de capacidad estructural (25 nov 2026)",
+     "u": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 11:38 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 27 nov 2026)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-27-mediodia-latam",
+   "id": "2026-11-27-cierre-latam",
    "fecha": "2026-11-27",
-   "momento": "mediodia",
+   "momento": "cierre",
    "mercado": "latam",
-   "hora": "11:38 CDMX",
+   "hora": "15:15 CDMX",
+   "fin_de_semana": true,
    "es": {
-    "titular": "El Ibovespa toma utilidades (−0.2%) tras su salto, pero el real sigue fortaleciéndose a 5.53",
+    "titular": "La región cierra una semana fuerte: el Ibovespa gana 6.3% y el real se fortalece a 5.55; el peso colombiano, a 3,477",
     "esencial": [
-     "A las 11:23 CDMX el Ibovespa bajaba 0.23% (176,398.05) y a las 11:38 el S&P/TSX de Canadá subía 1.11%.",
-     "El dólar bajaba a 5.53 reales (−2.11%) y 3,506 pesos colombianos (−1.16%).",
-     "Para supply chain: el real está en su nivel más fuerte de la semana; cubre hoy los pagos en reales."
+     "El viernes el Ibovespa cerró en 176,654.90 (−0.08%) y ganó 6.3% en la semana; el S&P/TSX de Canadá terminó en 34,839.87 (+1.20%) y ganó 5.0%.",
+     "El dólar terminó en 5.55 reales, desde 5.95 hace una semana, y en 3,477 pesos colombianos (−1.96% el viernes).",
+     "Para el fin de semana: EE. UU. propuso a Brasil 10% a los aviones y más arancel al azúcar; la OPEP+ decide el domingo."
     ],
     "bloques": [
      {
-      "t": "Lo que se esperaba",
-      "x": "En la apertura el Ibovespa subía 1.17% después de ganar 6.07% el jueves, y el real se fortalecía a 5.57."
+      "t": "Qué pasó",
+      "x": "El viernes el Ibovespa cerró en 176,654.90 (−0.08%) y ganó 6.3% en la semana, con un salto de 6.1% el jueves. El S&P/TSX de Canadá cerró en 34,839.87 (+1.20%) y ganó 5.0% en la semana. Los ETF de MSCI subieron el viernes 4.6% en Perú, 3.8% en Chile y 3.5% en Argentina, con el rebote de los metales."
      },
      {
-      "t": "Cómo va",
-      "x": "A las 11:23 CDMX el Ibovespa bajaba 0.23% a 176,398.05 y a las 11:38 el S&P/TSX de Canadá subía 1.11% a 34,807.51, con metales básicos y tecnología al frente, según MT Newswires. El dólar estaba en 5.53 reales (−2.11%), 3,506 pesos colombianos (−1.16%) y 1,034 pesos chilenos (−0.11%)."
+      "t": "Monedas",
+      "x": "A las 15:15 CDMX el dólar estaba en 5.55 reales (−1.79%), desde 5.95 hace una semana; en 3,477 pesos colombianos (−1.96%), y a las 13:32 en 1,030 pesos chilenos (−0.57%). El peso mexicano terminó en 19.66."
      },
      {
-      "t": "Lo que sorprendió",
-      "x": "El Ibovespa borró su alza de la apertura por toma de utilidades tras el salto del jueves, aunque el real siguió fortaleciéndose. El cobre subía 3.3% desde el miércoles, a 5.60 dólares por libra."
+      "t": "Por qué",
+      "x": "En Brasil, el mercado reaccionó a reportes de que Luiz Carlos Trabuco, presidente del consejo de Bradesco, podría encabezar el Ministerio de Hacienda, y a un IPCA-15 de 0.22%, menor a lo esperado, según Seu Dinheiro. EE. UU. propuso aranceles a 14 economías de Asia y Europa, ninguna latinoamericana; aparte, propuso a Brasil 10% a los aviones terminados, que pegaría a Embraer, y más arancel al azúcar, según Reuters. El cobre subió 2.3% en la semana, a 5.60 dólares por libra."
+     },
+     {
+      "t": "Qué se espera",
+      "x": "Brasil y EE. UU. siguen sin acuerdo comercial; los aranceles propuestos entrarían en 2027 tras consulta pública. La OPEP+ decide el domingo 29."
+     },
+     {
+      "t": "La próxima semana",
+      "x": "El domingo 29 la OPEP+ decide su producción de 2027. El martes 1 de diciembre sale el ISM manufacturero de EE. UU. y durante la semana salen datos de empleo de EE. UU."
      }
     ],
-    "scm": "Con el real en 5.53, cubre hoy tus pagos en reales; con el cobre al alza, cierra hoy las cotizaciones vigentes de insumos de cobre de Chile y Perú."
+    "scm": "Con el real y el peso colombiano en su nivel más fuerte en semanas, cubre el lunes tus pagos en esas monedas. Si compras jets regionales, refacciones aeronáuticas o azúcar de Brasil, revisa contratos antes de enero; con el cobre al alza, cierra las cotizaciones de insumos de Chile y Perú."
    },
    "en": {
-    "titular": "The Ibovespa takes profits (−0.2%) after its jump, but the real keeps strengthening to 5.53",
+    "titular": "The region closes a strong week: the Ibovespa gains 6.3% and the real strengthens to 5.55; the Colombian peso at 3,477",
     "esencial": [
-     "At 12:23 p.m. ET the Ibovespa was down 0.23% (176,398.05) and at 12:38 Canada's S&P/TSX was up 1.11%.",
-     "The dollar fell to 5.53 reais (−2.11%) and 3,506 Colombian pesos (−1.16%).",
-     "For supply chain: the real is at its strongest of the week; cover payments in reais today."
+     "On Friday the Ibovespa closed at 176,654.90 (−0.08%) and gained 6.3% for the week; Canada's S&P/TSX ended at 34,839.87 (+1.20%) and gained 5.0%.",
+     "The dollar ended at 5.55 reais, from 5.95 a week ago, and at 3,477 Colombian pesos (−1.96% on Friday).",
+     "For the weekend: the US proposed 10% on aircraft and higher sugar duties for Brazil; OPEC+ decides on Sunday."
     ],
     "bloques": [
      {
-      "t": "What was expected",
-      "x": "At the open the Ibovespa rose 1.17% after gaining 6.07% on Thursday, and the real strengthened to 5.57."
+      "t": "What happened",
+      "x": "On Friday the Ibovespa closed at 176,654.90 (−0.08%) and gained 6.3% for the week, with a 6.1% jump on Thursday. Canada's S&P/TSX closed at 34,839.87 (+1.20%) and gained 5.0% for the week. The MSCI ETFs rose on Friday 4.6% for Peru, 3.8% for Chile and 3.5% for Argentina, on the metals rebound."
      },
      {
-      "t": "How it is going",
-      "x": "At 12:23 p.m. ET the Ibovespa was down 0.23% at 176,398.05 and at 12:38 Canada's S&P/TSX was up 1.11% at 34,807.51, led by base metals and technology, according to MT Newswires. The dollar stood at 5.53 reais (−2.11%), 3,506 Colombian pesos (−1.16%) and 1,034 Chilean pesos (−0.11%)."
+      "t": "Currencies",
+      "x": "At 4:15 p.m. ET the dollar stood at 5.55 reais (−1.79%), from 5.95 a week ago; at 3,477 Colombian pesos (−1.96%), and at 2:32 p.m. at 1,030 Chilean pesos (−0.57%). The Mexican peso ended at 19.66."
      },
      {
-      "t": "What surprised",
-      "x": "The Ibovespa erased its opening gain on profit-taking after Thursday's jump, although the real kept strengthening. Copper was up 3.3% from Wednesday at $5.60 per pound."
+      "t": "Why",
+      "x": "In Brazil, the market reacted to reports that Luiz Carlos Trabuco, chairman of Bradesco's board, could head the Finance Ministry, and to a lower-than-expected 0.22% IPCA-15, according to Seu Dinheiro. The US proposed tariffs on 14 economies in Asia and Europe, none in Latin America; separately, it proposed 10% on finished aircraft for Brazil, which would hit Embraer, and higher sugar duties, according to Reuters. Copper rose 2.3% for the week to $5.60 per pound."
+     },
+     {
+      "t": "What to expect",
+      "x": "Brazil and the US still have no trade deal; the proposed tariffs would take effect in 2027 after public comment. OPEC+ decides on Sunday the 29th."
+     },
+     {
+      "t": "Next week",
+      "x": "On Sunday the 29th OPEC+ decides its 2027 output. The US ISM manufacturing index comes out on Tuesday, December 1, and US jobs data are released during the week."
      }
     ],
-    "scm": "With the real at 5.53, cover your payments in reais today; with copper rising, close valid quotes for copper inputs from Chile and Peru today."
+    "scm": "With the real and Colombian peso at their strongest in weeks, cover your payments in those currencies on Monday. If you buy regional jets, aerospace parts or sugar from Brazil, review contracts before January; with copper rising, close quotes for inputs from Chile and Peru."
    },
    "pt": {
-    "titular": "O Ibovespa realiza lucros (−0,2%) após o salto, mas o real segue se fortalecendo para 5,53",
+    "titular": "A região fecha uma semana forte: o Ibovespa ganha 6,3% e o real se fortalece para 5,55; o peso colombiano a 3.477",
     "esencial": [
-     "Às 11h23 (Cidade do México) o Ibovespa caía 0,23% (176.398,05) e às 11h38 o S&P/TSX do Canadá subia 1,11%.",
-     "O dólar caía para R$ 5,53 (−2,11%) e 3.506 pesos colombianos (−1,16%).",
-     "Para supply chain: o real está no nível mais forte da semana; cubra hoje os pagamentos em reais."
+     "Na sexta o Ibovespa fechou em 176.654,90 (−0,08%) e ganhou 6,3% na semana; o S&P/TSX do Canadá terminou em 34.839,87 (+1,20%) e ganhou 5,0%.",
+     "O dólar terminou em R$ 5,55, desde 5,95 uma semana atrás, e em 3.477 pesos colombianos (−1,96% na sexta).",
+     "Para o fim de semana: os EUA propuseram ao Brasil 10% sobre aviões e mais tarifa sobre o açúcar; a OPEP+ decide no domingo."
     ],
     "bloques": [
      {
-      "t": "O que se esperava",
-      "x": "Na abertura o Ibovespa subia 1,17% depois de ganhar 6,07% na quinta, e o real se fortalecia para 5,57."
+      "t": "O que aconteceu",
+      "x": "Na sexta o Ibovespa fechou em 176.654,90 (−0,08%) e ganhou 6,3% na semana, com um salto de 6,1% na quinta. O S&P/TSX do Canadá fechou em 34.839,87 (+1,20%) e ganhou 5,0% na semana. Os ETFs da MSCI subiram na sexta 4,6% no Peru, 3,8% no Chile e 3,5% na Argentina, com o repique dos metais."
      },
      {
-      "t": "Como está",
-      "x": "Às 11h23 (Cidade do México) o Ibovespa caía 0,23% para 176.398,05 e às 11h38 o S&P/TSX do Canadá subia 1,11% para 34.807,51, com metais básicos e tecnologia à frente, segundo a MT Newswires. O dólar estava em R$ 5,53 (−2,11%), 3.506 pesos colombianos (−1,16%) e 1.034 pesos chilenos (−0,11%)."
+      "t": "Moedas",
+      "x": "Às 15h15 (Cidade do México) o dólar estava em R$ 5,55 (−1,79%), desde 5,95 uma semana atrás; em 3.477 pesos colombianos (−1,96%), e às 13h32 em 1.030 pesos chilenos (−0,57%). O peso mexicano terminou em 19,66."
      },
      {
-      "t": "O que surpreendeu",
-      "x": "O Ibovespa apagou a alta da abertura por realização de lucros após o salto de quinta, embora o real tenha seguido se fortalecendo. O cobre subia 3,3% desde quarta, para 5,60 dólares por libra."
+      "t": "Por quê",
+      "x": "No Brasil, o mercado reagiu a notícias de que Luiz Carlos Trabuco, presidente do conselho do Bradesco, pode comandar o Ministério da Fazenda, e a um IPCA-15 de 0,22%, menor que o esperado, segundo o Seu Dinheiro. Os EUA propuseram tarifas para 14 economias da Ásia e da Europa, nenhuma latino-americana; à parte, propuseram ao Brasil 10% sobre aviões acabados, que atingiria a Embraer, e mais tarifa sobre o açúcar, segundo a Reuters. O cobre subiu 2,3% na semana, para 5,60 dólares por libra."
+     },
+     {
+      "t": "O que se espera",
+      "x": "Brasil e EUA seguem sem acordo comercial; as tarifas propostas entrariam em vigor em 2027 após consulta pública. A OPEP+ decide no domingo, dia 29."
+     },
+     {
+      "t": "A próxima semana",
+      "x": "No domingo, dia 29, a OPEP+ decide a produção de 2027. Na terça, 1º de dezembro, sai o ISM industrial dos EUA e durante a semana saem dados de emprego dos EUA."
      }
     ],
-    "scm": "Com o real a 5,53, cubra hoje seus pagamentos em reais; com o cobre em alta, feche hoje as cotações vigentes de insumos de cobre do Chile e do Peru."
+    "scm": "Com o real e o peso colombiano no nível mais forte em semanas, cubra na segunda seus pagamentos nessas moedas. Se você compra jatos regionais, peças aeronáuticas ou açúcar do Brasil, revise contratos antes de janeiro; com o cobre em alta, feche as cotações de insumos do Chile e do Peru."
    },
    "fuentes": [
     {
-     "t": "MT Newswires: el S&P/TSX sube a media mañana con metales básicos y tecnología (27 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/world-indices/articles/p-tsx-composite-index-higher-152432062.html"
+     "t": "Seu Dinheiro: el Ibovespa se dispara por la especulación sobre Hacienda, el IPCA-15 y la agenda fiscal (26 nov 2026)",
+     "u": "https://www.seudinheiro.com/2026/bolsa-dolar/ibovespa-dispara-mais-de-3-e-dolar-recua-a-r-572-o-que-anima-o-mercado-hoje-davs/"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 11:38 CDMX)",
+     "t": "Reuters: EE. UU. propone nuevos aranceles a Brasil, incluido 10% a los aviones (25 nov 2026)",
+     "u": "https://finance.yahoo.com/news/us-proposes-higher-tariffs-brazil-131543830.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 27 nov 2026)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
@@ -187,79 +233,92 @@
    ]
   },
   "mexico": {
-   "id": "2026-11-27-mediodia-mexico",
+   "id": "2026-11-27-cierre-mexico",
    "fecha": "2026-11-27",
-   "momento": "mediodia",
+   "momento": "cierre",
    "mercado": "mexico",
-   "hora": "11:38 CDMX",
+   "hora": "15:15 CDMX",
+   "fin_de_semana": true,
    "es": {
-    "titular": "El IPC sube 1.8% tras el récord exportador y el peso se mantiene en 19.67",
+    "titular": "El IPC gana 4.3% en la semana con exportaciones récord; el peso cierra en 19.66 y el lunes rige un FIX de 19.7203",
     "esencial": [
-     "A las 11:18 CDMX el S&P/BMV IPC subía 1.81% (71,625.02) y a las 11:38 el peso cotizaba en 19.67 por dólar (−0.15% el dólar).",
-     "Las exportaciones de octubre crecieron 30.2%, a 86,009 millones de dólares, según el INEGI; las automotrices, sólo 5.6%.",
-     "Para supply chain: hoy rige el FIX de 19.7040 y el lunes el de 19.7203; con el peso de mercado en 19.67, compara antes de pagar al FIX."
+     "El S&P/BMV IPC terminó el viernes en 71,661.25 puntos (+1.86%) y ganó 4.3% en la semana, desde 68,695.45.",
+     "El peso cerró en 19.66 por dólar, desde 19.17 hace una semana (+2.6% el dólar); el lunes rige el FIX de 19.7203.",
+     "Para el fin de semana: las exportaciones de octubre crecieron 30.2% y México quedó, por ahora, fuera de los aranceles propuestos por EE. UU. a 14 economías."
     ],
     "bloques": [
      {
-      "t": "Lo que se esperaba",
-      "x": "En la apertura el IPC subía 2.07% y el peso operaba en 19.65, tras el récord de exportaciones de octubre."
+      "t": "Qué pasó",
+      "x": "El S&P/BMV IPC cerró el viernes en 71,661.25 puntos (+1.86%) y ganó 4.3% en la semana, desde 68,695.45. El peso terminó en 19.66 por dólar a las 15:15 CDMX (−0.20% el dólar), desde 19.17 hace una semana; el miércoles tocó 19.85, su nivel más débil desde abril de 2025. Hoy rigió para pagos el FIX de 19.7040 y el lunes 30 rige el de 19.7203."
      },
      {
-      "t": "Cómo va",
-      "x": "A las 11:18 CDMX el S&P/BMV IPC subía 1.81% a 71,625.02 puntos. A las 11:38 CDMX el peso cotizaba en 19.67 por dólar (−0.15% el dólar), aunque el índice del dólar subía 0.32%. Hoy rige para pagos el FIX de 19.7040; el lunes 30 rige el de 19.7203."
+      "t": "Por qué",
+      "x": "EE. UU. propuso aranceles de 15% a 35% a 14 economías de Asia y Europa y dejó pendiente la investigación sobre México, sin plazo, según Expansión; el IPC subió 3% ese día. Las exportaciones de octubre sumaron 86,009 millones de dólares (+30.2%), con un superávit de 298.2 millones, impulsadas por el equipo de cómputo; las automotrices crecieron sólo 5.6%. En contra, la desocupación subió a 3.0% en octubre y el peso se debilitó por la salida de inversiones de carry trade ante un menor diferencial de tasas con EE. UU."
      },
      {
-      "t": "Lo que sorprendió",
-      "x": "El peso se mantuvo estable pese al dólar más fuerte en el mundo. Las exportaciones de octubre sumaron 86,009 millones de dólares (+30.2%) y la balanza tuvo un superávit de 298.2 millones; de enero a octubre las exportaciones ya superan todo 2025, según el INEGI."
+      "t": "Qué se espera",
+      "x": "Los comentarios sobre los aranceles de EE. UU. se reciben hasta el 5 de enero y las audiencias empiezan el 25 de enero. La Fed decide el 9 de diciembre y el mercado da casi por segura un alza."
+     },
+     {
+      "t": "La próxima semana",
+      "x": "El lunes 30 rige el FIX de 19.7203. El domingo 29 la OPEP+ decide su producción de 2027, lo que moverá al combustible. El martes 1 de diciembre sale el ISM manufacturero de EE. UU., referencia para la demanda de exportaciones mexicanas."
      }
     ],
-    "scm": "Si pagas en dólares, compara el FIX de 19.7040 con el tipo de mercado de 19.67 antes de liquidar. Si estás en electrónica o cómputo, asegura capacidad de cruce para diciembre."
+    "scm": "Actualiza el tipo de cambio de tus costos del primer trimestre con un peso cerca de 19.7. Si estás en electrónica o cómputo, asegura capacidad de cruce para diciembre; si exportas autopartes, revisa los pronósticos con tus clientes. Si compras en Asia o Europa, compara el costo con arancel contra proveedores en México."
    },
    "en": {
-    "titular": "The IPC rises 1.8% after the export record and the peso holds at 19.67",
+    "titular": "The IPC gains 4.3% for the week on record exports; the peso closes at 19.66 and a 19.7203 FIX applies Monday",
     "esencial": [
-     "At 11:18 a.m. Mexico City time the S&P/BMV IPC was up 1.81% (71,625.02) and at 11:38 the peso traded at 19.67 per dollar (dollar −0.15%).",
-     "October exports grew 30.2% to $86.009 billion, according to INEGI; auto exports only 5.6%.",
-     "For supply chain: today the 19.7040 FIX applies and on Monday the 19.7203; with the market peso at 19.67, compare before paying at the FIX."
+     "The S&P/BMV IPC ended Friday at 71,661.25 points (+1.86%) and gained 4.3% for the week, from 68,695.45.",
+     "The peso closed at 19.66 per dollar, from 19.17 a week ago (dollar +2.6%); on Monday the 19.7203 FIX applies.",
+     "For the weekend: October exports grew 30.2% and Mexico was left out, for now, of the US tariffs proposed on 14 economies."
     ],
     "bloques": [
      {
-      "t": "What was expected",
-      "x": "At the open the IPC was up 2.07% and the peso traded at 19.65, after the October export record."
+      "t": "What happened",
+      "x": "The S&P/BMV IPC closed Friday at 71,661.25 points (+1.86%) and gained 4.3% for the week, from 68,695.45. The peso ended at 19.66 per dollar at 3:15 p.m. Mexico City time (dollar −0.20%), from 19.17 a week ago; on Wednesday it touched 19.85, its weakest since April 2025. Today the 19.7040 FIX applied to payments and on Monday the 30th the 19.7203 one applies."
      },
      {
-      "t": "How it is going",
-      "x": "At 11:18 a.m. Mexico City time the S&P/BMV IPC was up 1.81% at 71,625.02 points. At 11:38 a.m. the peso traded at 19.67 per dollar (dollar −0.15%), although the dollar index rose 0.32%. Today the 19.7040 FIX applies to payments; on Monday the 30th the 19.7203 one applies."
+      "t": "Why",
+      "x": "The US proposed tariffs of 15% to 35% on 14 economies in Asia and Europe and left the investigation on Mexico pending, with no deadline, according to Expansión; the IPC rose 3% that day. October exports totaled $86.009 billion (+30.2%), with a $298.2 million surplus, driven by computer equipment; auto exports grew only 5.6%. On the downside, unemployment rose to 3.0% in October and the peso weakened on carry trade unwinding amid a narrower rate gap with the US."
      },
      {
-      "t": "What surprised",
-      "x": "The peso held steady despite a stronger dollar globally. October exports totaled $86.009 billion (+30.2%) and the trade balance posted a $298.2 million surplus; January to October exports already exceed all of 2025, according to INEGI."
+      "t": "What to expect",
+      "x": "Comments on the US tariffs are due January 5 and hearings begin January 25. The Fed decides on December 9 and markets see a hike as nearly certain."
+     },
+     {
+      "t": "Next week",
+      "x": "On Monday the 30th the 19.7203 FIX applies. On Sunday the 29th OPEC+ decides its 2027 output, which will move fuel prices. The US ISM manufacturing index comes out on Tuesday, December 1, a reference for demand for Mexican exports."
      }
     ],
-    "scm": "If you pay in dollars, compare the 19.7040 FIX with the 19.67 market rate before settling. If you are in electronics or computing, secure crossing capacity for December."
+    "scm": "Update the exchange rate in your first-quarter costs with the peso near 19.7. If you are in electronics or computing, secure crossing capacity for December; if you export auto parts, review forecasts with your customers. If you buy in Asia or Europe, compare tariffed costs against suppliers in Mexico."
    },
    "pt": {
-    "titular": "O IPC sobe 1,8% após o recorde exportador e o peso se mantém em 19,67",
+    "titular": "O IPC ganha 4,3% na semana com exportações recorde; o peso fecha em 19,66 e na segunda vale um FIX de 19,7203",
     "esencial": [
-     "Às 11h18 (Cidade do México) o S&P/BMV IPC subia 1,81% (71.625,02) e às 11h38 o peso era cotado a 19,67 por dólar (dólar −0,15%).",
-     "As exportações de outubro cresceram 30,2%, para 86,009 bilhões de dólares, segundo o INEGI; as automotivas, só 5,6%.",
-     "Para supply chain: hoje vale o FIX de 19,7040 e na segunda o de 19,7203; com o peso de mercado em 19,67, compare antes de pagar ao FIX."
+     "O S&P/BMV IPC terminou a sexta em 71.661,25 pontos (+1,86%) e ganhou 4,3% na semana, desde 68.695,45.",
+     "O peso fechou em 19,66 por dólar, desde 19,17 uma semana atrás (dólar +2,6%); na segunda vale o FIX de 19,7203.",
+     "Para o fim de semana: as exportações de outubro cresceram 30,2% e o México ficou, por enquanto, fora das tarifas propostas pelos EUA a 14 economias."
     ],
     "bloques": [
      {
-      "t": "O que se esperava",
-      "x": "Na abertura o IPC subia 2,07% e o peso operava em 19,65, após o recorde de exportações de outubro."
+      "t": "O que aconteceu",
+      "x": "O S&P/BMV IPC fechou a sexta em 71.661,25 pontos (+1,86%) e ganhou 4,3% na semana, desde 68.695,45. O peso terminou em 19,66 por dólar às 15h15 (Cidade do México) (dólar −0,20%), desde 19,17 uma semana atrás; na quarta tocou 19,85, seu nível mais fraco desde abril de 2025. Hoje valeu para pagamentos o FIX de 19,7040 e na segunda, dia 30, vale o de 19,7203."
      },
      {
-      "t": "Como está",
-      "x": "Às 11h18 (Cidade do México) o S&P/BMV IPC subia 1,81% para 71.625,02 pontos. Às 11h38 o peso era cotado a 19,67 por dólar (dólar −0,15%), embora o índice do dólar subisse 0,32%. Hoje vale para pagamentos o FIX de 19,7040; na segunda, dia 30, vale o de 19,7203."
+      "t": "Por quê",
+      "x": "Os EUA propuseram tarifas de 15% a 35% para 14 economias da Ásia e da Europa e deixaram pendente a investigação sobre o México, sem prazo, segundo a Expansión; o IPC subiu 3% naquele dia. As exportações de outubro somaram 86,009 bilhões de dólares (+30,2%), com superávit de 298,2 milhões, impulsionadas pelos equipamentos de computação; as automotivas cresceram só 5,6%. Em contrapartida, o desemprego subiu para 3,0% em outubro e o peso se enfraqueceu pela saída de operações de carry trade diante de um diferencial de juros menor com os EUA."
      },
      {
-      "t": "O que surpreendeu",
-      "x": "O peso se manteve estável apesar do dólar mais forte no mundo. As exportações de outubro somaram 86,009 bilhões de dólares (+30,2%) e a balança teve superávit de 298,2 milhões; de janeiro a outubro as exportações já superam todo 2025, segundo o INEGI."
+      "t": "O que se espera",
+      "x": "Os comentários sobre as tarifas dos EUA vão até 5 de janeiro e as audiências começam em 25 de janeiro. O Fed decide em 9 de dezembro e o mercado considera uma alta quase certa."
+     },
+     {
+      "t": "A próxima semana",
+      "x": "Na segunda, dia 30, vale o FIX de 19,7203. No domingo, dia 29, a OPEP+ decide a produção de 2027, o que vai mover o combustível. Na terça, 1º de dezembro, sai o ISM industrial dos EUA, referência para a demanda por exportações mexicanas."
      }
     ],
-    "scm": "Se você paga em dólares, compare o FIX de 19,7040 com a taxa de mercado de 19,67 antes de liquidar. Se está em eletrônica ou computação, garanta capacidade de travessia para dezembro."
+    "scm": "Atualize a taxa de câmbio dos seus custos do primeiro trimestre com o peso perto de 19,7. Se você está em eletrônica ou computação, garanta capacidade de travessia para dezembro; se exporta autopeças, revise as previsões com seus clientes. Se compra na Ásia ou na Europa, compare o custo com tarifa frente a fornecedores no México."
    },
    "fuentes": [
     {
@@ -271,11 +330,19 @@
      "u": "https://energymagazine.mx/2026/11/mexico-rompe-record-de-exportaciones-por-la-ia-autos-continuan-desacelerando/"
     },
     {
+     "t": "Expansión: México libra por ahora los aranceles que EE. UU. propone a 14 economías (25 nov 2026)",
+     "u": "https://expansion.mx/economia/2026/11/25/eu-propone-aranceles-14-economias-mexico-queda-fuera"
+    },
+    {
+     "t": "Alto Nivel: el desempleo en México sube a 3% en octubre, su nivel más alto en cuatro años (26 nov 2026)",
+     "u": "https://www.altonivel.com.mx/desempleo-en-mexico-sube-a-3-en-octubre-su-nivel-mas-alto-en-cuatro-anos/"
+    },
+    {
      "t": "Banxico: tipo de cambio FIX (26 nov 2026: 19.7203)",
      "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 11:38 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 27 nov 2026)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -283,8 +350,8 @@
  },
  "lectura": {
   "es": {
-   "titular": "Wall Street amplía sus alzas en el Black Friday y México celebra exportaciones récord; el petróleo baja antes de la OPEP+",
-   "resumen": "A media sesión, el viernes se ve mejor que en la apertura. Wall Street amplía sus alzas (Nasdaq +1.9%) con la recuperación de la tecnología, y Adobe espera un gasto en línea de fin de año 6.7% mayor, señal de un consumo fuerte en EE. UU. En México, las exportaciones de octubre crecieron 30.2% y el IPC sube 1.8%, aunque las automotrices crecen sólo 5.6%. El petróleo baja (Brent de enero en 93.98 dólares) porque la OPEP+ mantendría sus metas y Rystad prevé un superávit de 5 millones de barriles diarios en 2027. Los metales siguen arriba: plata +8% y cobre +3.3% desde el miércoles. El peso opera en 19.67; el lunes rige el FIX de 19.7203.",
+   "titular": "Una semana de rebote con más costos: Wall Street gana 5.6%, México exporta récord y el combustible sigue en riesgo por Ormuz",
+   "resumen": "La semana cerró al alza. Wall Street recuperó buena parte de lo perdido (S&P 500 +5.6%, Nasdaq +6.7%) con el regreso de la tecnología, y la bolsa mexicana ganó 4.3% después de que EE. UU. propuso aranceles de 15% a 35% a 14 economías de Asia y Europa y dejó a México sin determinación. Para supply chain, la semana deja señales mezcladas. A favor: exportaciones récord en octubre (+30.2%), consumo fuerte en EE. UU. para el fin de año y el diésel 6% más barato. En contra: el PCE subyacente de 3.3% deja casi segura un alza de la Fed, el Libro Beige reporta más presión de costos, los metales rebotan (plata +6.5%, cobre +2.3%) y el riesgo en Ormuz mantiene el Brent arriba de 95 dólares. El peso terminó en 19.66 y el lunes rige un FIX de 19.7203.",
    "temas": [
     {
      "tema": "Peso y tasas",
@@ -385,8 +452,8 @@
    ]
   },
   "en": {
-   "titular": "Wall Street extends Black Friday gains and Mexico posts record exports; oil falls before OPEC+",
-   "resumen": "At midday, Friday looks better than at the open. Wall Street extends gains (Nasdaq +1.9%) on the tech recovery, and Adobe expects holiday online spending 6.7% higher, a sign of strong US consumption. In Mexico, October exports grew 30.2% and the IPC rises 1.8%, although auto exports grow only 5.6%. Oil falls (January Brent at $93.98) as OPEC+ would keep its targets and Rystad forecasts a 5 million barrel-a-day surplus in 2027. Metals remain higher: silver +8% and copper +3.3% since Wednesday. The peso trades at 19.67; on Monday the 19.7203 FIX applies.",
+   "titular": "A rebound week with higher costs: Wall Street gains 5.6%, Mexico posts record exports and fuel remains at risk from Hormuz",
+   "resumen": "The week closed higher. Wall Street recovered much of its losses (S&P 500 +5.6%, Nasdaq +6.7%) as tech returned, and the Mexican market gained 4.3% after the US proposed tariffs of 15% to 35% on 14 economies in Asia and Europe and left Mexico without a determination. For supply chain, the week leaves mixed signals. On the plus side: record October exports (+30.2%), strong US holiday consumption and diesel 6% cheaper. On the minus side: core PCE of 3.3% makes a Fed hike nearly certain, the Beige Book reports more cost pressure, metals rebound (silver +6.5%, copper +2.3%) and Hormuz risk keeps Brent above $95. The peso ended at 19.66 and on Monday a 19.7203 FIX applies.",
    "temas": [
     {
      "tema": "Peso and rates",
@@ -487,8 +554,8 @@
    ]
   },
   "pt": {
-   "titular": "Wall Street amplia as altas na Black Friday e o México comemora exportações recorde; o petróleo cai antes da OPEP+",
-   "resumen": "No meio da sessão, a sexta parece melhor que na abertura. Wall Street amplia as altas (Nasdaq +1,9%) com a recuperação da tecnologia, e a Adobe espera um gasto online de fim de ano 6,7% maior, sinal de consumo forte nos EUA. No México, as exportações de outubro cresceram 30,2% e o IPC sobe 1,8%, embora as automotivas cresçam só 5,6%. O petróleo cai (Brent de janeiro a 93,98 dólares) porque a OPEP+ manteria suas metas e a Rystad prevê um superávit de 5 milhões de barris por dia em 2027. Os metais seguem em alta: prata +8% e cobre +3,3% desde quarta. O peso opera em 19,67; na segunda vale o FIX de 19,7203.",
+   "titular": "Uma semana de repique com mais custos: Wall Street ganha 5,6%, o México exporta recorde e o combustível segue em risco por Ormuz",
+   "resumen": "A semana fechou em alta. Wall Street recuperou boa parte do que perdeu (S&P 500 +5,6%, Nasdaq +6,7%) com a volta da tecnologia, e a bolsa mexicana ganhou 4,3% depois que os EUA propuseram tarifas de 15% a 35% para 14 economias da Ásia e da Europa e deixaram o México sem determinação. Para supply chain, a semana deixa sinais mistos. A favor: exportações recorde em outubro (+30,2%), consumo forte nos EUA no fim de ano e o diesel 6% mais barato. Contra: o núcleo do PCE de 3,3% torna quase certa uma alta do Fed, o Livro Bege relata mais pressão de custos, os metais se recuperam (prata +6,5%, cobre +2,3%) e o risco em Ormuz mantém o Brent acima de 95 dólares. O peso terminou em 19,66 e na segunda vale um FIX de 19,7203.",
    "temas": [
     {
      "tema": "Peso e juros",
@@ -594,8 +661,8 @@
    "nombre": "IPC BMV",
    "name_en": "IPC BMV",
    "grupo": "bolsa",
-   "valor": 71625.02,
-   "cambio": 1.81,
+   "valor": 71661.25,
+   "cambio": 1.86,
    "unidad": "puntos",
    "name_pt": "IPC BMV"
   },
@@ -603,8 +670,8 @@
    "nombre": "S&P 500",
    "name_en": "S&P 500",
    "grupo": "bolsa",
-   "valor": 7282.46,
-   "cambio": 1.39,
+   "valor": 7297.49,
+   "cambio": 1.6,
    "unidad": "puntos",
    "name_pt": "S&P 500"
   },
@@ -612,8 +679,8 @@
    "nombre": "Nasdaq",
    "name_en": "Nasdaq",
    "grupo": "bolsa",
-   "valor": 24024.4,
-   "cambio": 1.86,
+   "valor": 24129.5,
+   "cambio": 2.31,
    "unidad": "puntos",
    "name_pt": "Nasdaq"
   },
@@ -621,8 +688,8 @@
    "nombre": "Dow Jones",
    "name_en": "Dow Jones",
    "grupo": "bolsa",
-   "valor": 50761.99,
-   "cambio": 1.15,
+   "valor": 50774.94,
+   "cambio": 1.18,
    "unidad": "puntos",
    "name_pt": "Dow Jones"
   },
@@ -657,8 +724,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 19.67,
-   "cambio": -0.15,
+   "valor": 19.66,
+   "cambio": -0.2,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -666,8 +733,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.0941,
-   "cambio": -0.31,
+   "valor": 1.0936,
+   "cambio": -0.36,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -675,8 +742,8 @@
    "nombre": "USD/JPY",
    "name_en": "USD/JPY",
    "grupo": "divisa",
-   "valor": 159.49,
-   "cambio": 0.17,
+   "valor": 159.57,
+   "cambio": 0.22,
    "unidad": "",
    "name_pt": "USD/JPY"
   },
@@ -684,8 +751,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 82.71,
-   "cambio": -2.51,
+   "valor": 83.08,
+   "cambio": -0.72,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -693,8 +760,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 93.98,
-   "cambio": -2.68,
+   "valor": 95.44,
+   "cambio": -1.17,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -711,8 +778,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3664.3,
-   "cambio": 1.97,
+   "valor": 3668.5,
+   "cambio": 2.09,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -729,8 +796,8 @@
    "nombre": "Treasury 10 años",
    "name_en": "10-yr Treasury",
    "grupo": "bono",
-   "valor": 4.93,
-   "cambio": 8,
+   "valor": 4.94,
+   "cambio": 9,
    "unidad": "%",
    "name_pt": "Título do Tesouro 10 anos"
   },
@@ -756,18 +823,18 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 59610.99,
-   "cambio": -1.46,
+   "valor": 59785.51,
+   "cambio": -1.17,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }
  ],
  "agenda": [
   {
-   "fecha": "2026-11-27",
-   "es": "INEGI: balanza comercial de octubre",
-   "en": "INEGI: October trade balance",
-   "pt": "INEGI: balança comercial de outubro"
+   "fecha": "2026-11-29",
+   "es": "Reunión de la OPEP+: producción de 2027",
+   "en": "OPEC+ meeting: 2027 output",
+   "pt": "Reunião da OPEP+: produção de 2027"
   },
   {
    "fecha": "2026-12-01",

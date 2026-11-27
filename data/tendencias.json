@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-27T17:40:02Z",
+ "actualizado": "2026-11-27T21:19:25Z",
  "fecha": "2026-11-27",
  "titular": {
-  "es": "Mediodía: Wall Street amplía alzas, Adobe ve gasto en línea récord y el petróleo baja antes de la OPEP+",
-  "en": "Midday: Wall Street extends gains, Adobe sees record online spending and oil falls before OPEC+",
-  "pt": "Meio-dia: Wall Street amplia altas, a Adobe vê gasto online recorde e o petróleo cai antes da OPEP+"
+  "es": "Semana: Wall Street rebota, México exporta récord y el Brent sube 3% por Ormuz",
+  "en": "Week: Wall Street rebounds, Mexico posts record exports and Brent rises 3% on Hormuz",
+  "pt": "Semana: Wall Street se recupera, o México exporta recorde e o Brent sobe 3% por Ormuz"
  },
  "items": [
   {
@@ -80,21 +80,21 @@
   {
    "id": "semis",
    "dir": "up",
-   "calor": 2,
+   "calor": 3,
    "mx": false,
    "latam": false,
    "es": "Semiconductores y electrónica",
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônica",
    "titular": {
-    "es": "Los chips suben 3.2% a media sesión: Micron +6.1%; Nvidia, −0.3%",
-    "en": "Chips rise 3.2% at midday: Micron +6.1%; Nvidia −0.3%",
-    "pt": "Os chips sobem 3,2% no meio da sessão: Micron +6,1%; Nvidia −0,3%"
+    "es": "Los chips cierran con +4.7% el viernes y +9.2% en la semana; Micron +7.6%",
+    "en": "Chips close +4.7% Friday and +9.2% for the week; Micron +7.6%",
+    "pt": "Os chips fecham com +4,7% na sexta e +9,2% na semana; Micron +7,6%"
    },
    "x": {
-    "es": "A las 11:38 CDMX el índice de semiconductores subía 3.2%: Micron +6.1%, mientras Nvidia bajaba 0.3% (148.90 dólares). Las nuevas reglas de EE. UU. obligan a empresas de Singapur, Malasia, Indonesia, Tailandia y Brasil a pedir licencia para comprar chips avanzados de IA.",
-    "en": "At 12:38 p.m. ET the semiconductor index was up 3.2%: Micron +6.1%, while Nvidia fell 0.3% ($148.90). New US rules require companies in Singapore, Malaysia, Indonesia, Thailand and Brazil to obtain licenses to buy advanced AI chips.",
-    "pt": "Às 11h38 (Cidade do México) o índice de semicondutores subia 3,2%: Micron +6,1%, enquanto a Nvidia caía 0,3% (148,90 dólares). As novas regras dos EUA obrigam empresas de Singapura, Malásia, Indonésia, Tailândia e Brasil a pedir licença para comprar chips avançados de IA."
+    "es": "El índice de semiconductores cerró con +4.7% el viernes y +9.2% en la semana. Micron subió 7.6% el viernes y Nvidia 0.8% (150.49 dólares), con una ganancia cercana a 20% en la semana. Las nuevas reglas de EE. UU. obligan a empresas de Singapur, Malasia, Indonesia, Tailandia y Brasil a pedir licencia para comprar chips avanzados de IA.",
+    "en": "The semiconductor index closed +4.7% on Friday and +9.2% for the week. Micron rose 7.6% on Friday and Nvidia 0.8% ($150.49), with a gain of about 20% for the week. New US rules require companies in Singapore, Malaysia, Indonesia, Thailand and Brazil to obtain licenses to buy advanced AI chips.",
+    "pt": "O índice de semicondutores fechou com +4,7% na sexta e +9,2% na semana. A Micron subiu 7,6% na sexta e a Nvidia 0,8% (150,49 dólares), com ganho de cerca de 20% na semana. As novas regras dos EUA obrigam empresas de Singapura, Malásia, Indonésia, Tailândia e Brasil a pedir licença para comprar chips avançados de IA."
    },
    "scm": {
     "es": "Si compras GPU o servidores de IA para operaciones en esos países, revisa con tu proveedor el requisito de licencia antes de cerrar pedidos.",
@@ -103,11 +103,11 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben en el Black Friday (27 nov 2026)",
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq cierran la semana de Acción de Gracias con alzas por el rebote de la IA (27 nov 2026)",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 11:38 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 27 nov 2026)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -122,14 +122,14 @@
    "en": "Servers and AI infrastructure",
    "pt": "Servidores e infraestrutura de IA",
    "titular": {
-    "es": "Anthropic sube 11% a 91.93 dólares y Dell 5.7%",
-    "en": "Anthropic rises 11% to $91.93 and Dell 5.7%",
-    "pt": "A Anthropic sobe 11% para 91,93 dólares e a Dell 5,7%"
+    "es": "Anthropic cierra con +11% en 91.88 dólares y Dell con +6.7%",
+    "en": "Anthropic closes +11% at $91.88 and Dell +6.7%",
+    "pt": "A Anthropic fecha com +11% a 91,88 dólares e a Dell com +6,7%"
    },
    "x": {
-    "es": "A las 11:38 CDMX Anthropic subía 11.0% a 91.93 dólares, 11% arriba de su precio de salida de 83, y Dell 5.7% a 314.05 dólares.",
-    "en": "At 12:38 p.m. ET Anthropic was up 11.0% at $91.93, 11% above its $83 IPO price, and Dell 5.7% at $314.05.",
-    "pt": "Às 11h38 (Cidade do México) a Anthropic subia 11,0% para 91,93 dólares, 11% acima do preço do IPO de 83, e a Dell 5,7% para 314,05 dólares."
+    "es": "Anthropic cerró con +11.0% en 91.88 dólares, arriba de su precio de salida de 83, y Dell con +6.7% en 316.96 dólares tras sus ingresos récord de la semana.",
+    "en": "Anthropic closed +11.0% at $91.88, above its $83 IPO price, and Dell +6.7% at $316.96 after its record revenue this week.",
+    "pt": "A Anthropic fechou com +11,0% a 91,88 dólares, acima do preço do IPO de 83, e a Dell com +6,7% a 316,96 dólares após a receita recorde da semana."
    },
    "scm": {
     "es": "La demanda de infraestructura de IA sigue fuerte: asegura capacidad y plazos de entrega para el primer trimestre.",
@@ -138,7 +138,7 @@
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 11:38 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 27 nov 2026)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -153,66 +153,62 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "La plata sube 8% y el cobre 3.3% desde el miércoles; UBS ve oportunidad tras la caída de la plata",
-    "en": "Silver rises 8% and copper 3.3% since Wednesday; UBS sees opportunity after silver’s drop",
-    "pt": "A prata sobe 8% e o cobre 3,3% desde quarta; o UBS vê oportunidade após a queda da prata"
+    "es": "Los metales rebotan en la semana: oro +4.4%, plata +6.5% y cobre +2.3% a 5.60 dólares",
+    "en": "Metals rebound for the week: gold +4.4%, silver +6.5% and copper +2.3% to $5.60",
+    "pt": "Os metais se recuperam na semana: ouro +4,4%, prata +6,5% e cobre +2,3% para 5,60 dólares"
    },
    "x": {
-    "es": "A las 11:28 CDMX la plata estaba en 43.77 dólares (+8.0% desde el miércoles), el oro en 3,664 (+2.8%) y el cobre en 5.60 dólares por libra (+3.3%). En Canadá, el S&P/TSX subía con los metales básicos al frente, según MT Newswires.",
-    "en": "At 12:28 p.m. ET silver stood at $43.77 (+8.0% from Wednesday), gold at $3,664 (+2.8%) and copper at $5.60 per pound (+3.3%). In Canada, the S&P/TSX rose led by base metals, according to MT Newswires.",
-    "pt": "Às 11h28 (Cidade do México) a prata estava a 43,77 dólares (+8,0% desde quarta), o ouro a 3.664 (+2,8%) e o cobre a 5,60 dólares por libra (+3,3%). No Canadá, o S&P/TSX subia com os metais básicos à frente, segundo a MT Newswires."
+    "es": "En la semana el oro subió 4.4% a 3,668.50 dólares, la plata 6.5% a 43.70 y el cobre 2.3% a 5.60 dólares por libra, después de sus fuertes caídas de la semana anterior. Los ETF de MSCI de Perú y Chile subieron 4.6% y 3.8% el viernes.",
+    "en": "For the week gold rose 4.4% to $3,668.50, silver 6.5% to $43.70 and copper 2.3% to $5.60 per pound, after sharp declines the previous week. The MSCI ETFs for Peru and Chile rose 4.6% and 3.8% on Friday.",
+    "pt": "Na semana o ouro subiu 4,4% para 3.668,50 dólares, a prata 6,5% para 43,70 e o cobre 2,3% para 5,60 dólares por libra, depois das fortes quedas da semana anterior. Os ETFs da MSCI do Peru e do Chile subiram 4,6% e 3,8% na sexta."
    },
    "scm": {
-    "es": "Los metales suben rápido: cierra hoy las cotizaciones vigentes de cable, conectores y empaques metálicos.",
-    "en": "Metals are rising fast: close valid quotes for cable, connectors and metal packaging today.",
-    "pt": "Os metais sobem rápido: feche hoje as cotações vigentes de cabos, conectores e embalagens metálicas."
+    "es": "Cierra el lunes las cotizaciones de cable, conectores y empaques metálicos del primer trimestre, antes de que los proveedores trasladen el rebote.",
+    "en": "Close first-quarter cable, connector and metal packaging quotes on Monday, before suppliers pass on the rebound.",
+    "pt": "Feche na segunda as cotações de cabos, conectores e embalagens metálicas do primeiro trimestre, antes que os fornecedores repassem o repique."
    },
    "fuentes": [
     {
-     "t": "24/7 Wall St.: la plata sube 8% mientras Wall Street estaba cerrado por Acción de Gracias (27 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/commodities/articles/silver-prices-exploded-8-overnight-162731372.html"
-    },
-    {
-     "t": "MT Newswires: el S&P/TSX sube a media mañana con metales básicos y tecnología (27 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/world-indices/articles/p-tsx-composite-index-higher-152432062.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 11:38 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 27 nov 2026)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   {
    "id": "energia",
-   "dir": "down",
-   "calor": 2,
+   "dir": "up",
+   "calor": 3,
    "mx": true,
    "latam": true,
    "es": "Energía y combustibles",
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El Brent baja a 93.98 dólares: la OPEP+ mantendría sus metas y Rystad prevé superávit en 2027",
-    "en": "Brent falls to $93.98: OPEC+ would keep targets and Rystad sees a 2027 surplus",
-    "pt": "O Brent cai para 93,98 dólares: a OPEP+ manteria as metas e a Rystad prevê superávit em 2027"
+    "es": "El Brent gana 3% en la semana, a 95.44 dólares; el diésel baja 6%",
+    "en": "Brent gains 3% for the week to $95.44; diesel falls 6%",
+    "pt": "O Brent ganha 3% na semana, para 95,44 dólares; o diesel cai 6%"
    },
    "x": {
-    "es": "El Brent de enero estaba en 93.98 dólares y el WTI en 82.71 a las 11:28 CDMX, abajo de sus niveles del jueves. La OPEP+ tiene un acuerdo en principio para mantener sus metas en el primer trimestre de 2027, Irak pide una cuota más alta y Rystad Energy prevé un superávit de unos 5 millones de barriles diarios en 2027, según Reuters. El diésel en futuros estaba en 3.67 dólares por galón.",
-    "en": "January Brent stood at $93.98 and WTI at $82.71 at 12:28 p.m. ET, below Thursday’s levels. OPEC+ has an agreement in principle to keep its targets in the first quarter of 2027, Iraq is seeking a higher quota and Rystad Energy forecasts a surplus of about 5 million barrels a day in 2027, according to Reuters. Diesel futures stood at $3.67 a gallon.",
-    "pt": "O Brent de janeiro estava a 93,98 dólares e o WTI a 82,71 às 11h28 (Cidade do México), abaixo dos níveis de quinta. A OPEP+ tem um acordo em princípio para manter suas metas no primeiro trimestre de 2027, o Iraque pede uma cota maior e a Rystad Energy prevê um superávit de cerca de 5 milhões de barris por dia em 2027, segundo a Reuters. O diesel em futuros estava a 3,67 dólares por galão."
+    "es": "El Brent de enero cerró en 95.44 dólares y ganó cerca de 3% en la semana, su primera ganancia de noviembre, por las explosiones de petroleros en Ormuz y los ataques a las refinerías saudíes de Ras Tanura y Jazan; el WTI cerró en 83.08 y perdió 0.9%, según Reuters. El diésel en futuros cerró en 3.68 dólares por galón, 6% abajo que hace una semana. La OPEP+ decide el domingo.",
+    "en": "January Brent settled at $95.44 and gained about 3% for the week, its first gain in November, on tanker explosions in Hormuz and attacks on Saudi Arabia’s Ras Tanura and Jazan refineries; WTI settled at $83.08 and lost 0.9%, according to Reuters. Diesel futures closed at $3.68 a gallon, 6% lower than a week ago. OPEC+ decides on Sunday.",
+    "pt": "O Brent de janeiro fechou a 95,44 dólares e ganhou cerca de 3% na semana, seu primeiro ganho de novembro, pelas explosões de petroleiros em Ormuz e os ataques às refinarias sauditas de Ras Tanura e Jazan; o WTI fechou a 83,08 e perdeu 0,9%, segundo a Reuters. O diesel em futuros fechou a 3,68 dólares por galão, 6% abaixo de uma semana atrás. A OPEP+ decide no domingo."
    },
    "scm": {
-    "es": "Negocia recargos de combustible indexados al diésel en lugar de fijos: con un superávit previsto para 2027, el precio podría bajar.",
-    "en": "Negotiate fuel surcharges indexed to diesel rather than fixed: with a surplus forecast for 2027, prices could fall.",
-    "pt": "Negocie sobretaxas de combustível indexadas ao diesel em vez de fixas: com superávit previsto para 2027, o preço pode cair."
+    "es": "Pide recargos de combustible indexados al diésel, que bajó 6% en la semana, y espera a la OPEP+ del domingo antes de fijar tarifas de diciembre.",
+    "en": "Ask for fuel surcharges indexed to diesel, which fell 6% for the week, and wait for Sunday’s OPEC+ meeting before setting December rates.",
+    "pt": "Peça sobretaxas de combustível indexadas ao diesel, que caiu 6% na semana, e espere a OPEP+ de domingo antes de fixar tarifas de dezembro."
    },
    "fuentes": [
+    {
+     "t": "Reuters: el petróleo logra su primera ganancia semanal de noviembre por temores de oferta (27 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-track-snap-3-week-082519990.html"
+    },
     {
      "t": "Reuters: Irak negocia con la OPEP una cuota de producción más alta antes de la reunión de la OPEP+ (27 nov 2026)",
      "u": "https://finance.yahoo.com/news/iraq-talks-opec-higher-oil-163604121.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 11:38 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 27 nov 2026)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]

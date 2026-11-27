@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-27-cierre-global",
+   "fecha": "2026-11-27",
+   "momento": "cierre",
+   "mercado": "global",
+   "titular_es": "Wall Street rebota en la semana: el S&P 500 gana 5.6% y el Nasdaq 6.7% tras su peor semana desde 2025; el Brent sube 3%",
+   "titular_en": "Wall Street rebounds for the week: the S&P 500 gains 5.6% and the Nasdaq 6.7% after its worst week since 2025; Brent rises 3%",
+   "titular_pt": "Wall Street se recupera na semana: o S&P 500 ganha 5,6% e o Nasdaq 6,7% após a pior semana desde 2025; o Brent sobe 3%"
+  },
+  {
+   "id": "2026-11-27-cierre-latam",
+   "fecha": "2026-11-27",
+   "momento": "cierre",
+   "mercado": "latam",
+   "titular_es": "La región cierra una semana fuerte: el Ibovespa gana 6.3% y el real se fortalece a 5.55; el peso colombiano, a 3,477",
+   "titular_en": "The region closes a strong week: the Ibovespa gains 6.3% and the real strengthens to 5.55; the Colombian peso at 3,477",
+   "titular_pt": "A região fecha uma semana forte: o Ibovespa ganha 6,3% e o real se fortalece para 5,55; o peso colombiano a 3.477"
+  },
+  {
+   "id": "2026-11-27-cierre-mexico",
+   "fecha": "2026-11-27",
+   "momento": "cierre",
+   "mercado": "mexico",
+   "titular_es": "El IPC gana 4.3% en la semana con exportaciones récord; el peso cierra en 19.66 y el lunes rige un FIX de 19.7203",
+   "titular_en": "The IPC gains 4.3% for the week on record exports; the peso closes at 19.66 and a 19.7203 FIX applies Monday",
+   "titular_pt": "O IPC ganha 4,3% na semana com exportações recorde; o peso fecha em 19,66 e na segunda vale um FIX de 19,7203"
+  },
+  {
    "id": "2026-11-27-mediodia-global",
    "fecha": "2026-11-27",
    "momento": "mediodia",
@@ -782,33 +809,6 @@
    "titular_es": "El peso se debilita 1.6% a 18.70 y el IPC cae 1.5%; la caída de los metales pesa sobre México",
    "titular_en": "The peso weakens 1.6% to 18.70 and the IPC falls 1.5%; the drop in metals weighs on Mexico",
    "titular_pt": "O peso se enfraquece 1,6% para 18,70 e o IPC cai 1,5%; a queda dos metais pesa sobre o México"
-  },
-  {
-   "id": "2026-11-18-apertura-global",
-   "fecha": "2026-11-18",
-   "momento": "apertura",
-   "mercado": "global",
-   "titular_es": "Wall Street abre dividido: el Dow cae 0.8% porque un funcionario de la Fed pide un alza mayor; el cobre se desploma 5%",
-   "titular_en": "Wall Street opens split: the Dow falls 0.8% as a Fed official calls for a bigger hike; copper plunges 5%",
-   "titular_pt": "Wall Street abre dividida: o Dow cai 0,8% porque um dirigente do Fed pede uma alta maior; o cobre despenca 5%"
-  },
-  {
-   "id": "2026-11-18-apertura-latam",
-   "fecha": "2026-11-18",
-   "momento": "apertura",
-   "mercado": "latam",
-   "titular_es": "El cobre se hunde 5% y arrastra a Perú (−3.3%) y Chile (−1.6%); el peso chileno pasa de 1,000",
-   "titular_en": "Copper sinks 5%, dragging Peru (−3.3%) and Chile (−1.6%); the Chilean peso crosses 1,000",
-   "titular_pt": "O cobre afunda 5% e arrasta Peru (−3,3%) e Chile (−1,6%); o peso chileno passa de 1.000"
-  },
-  {
-   "id": "2026-11-18-apertura-mexico",
-   "fecha": "2026-11-18",
-   "momento": "apertura",
-   "mercado": "mexico",
-   "titular_es": "El IPC cae 0.9% y el peso se debilita 1% a 18.60; el FIX del martes fue de 18.4677",
-   "titular_en": "The IPC falls 0.9% and the peso weakens 1% to 18.60; Tuesday's FIX was 18.4677",
-   "titular_pt": "O IPC cai 0,9% e o peso se enfraquece 1% para 18,60; o FIX de terça foi de 18,4677"
   }
  ]
 }

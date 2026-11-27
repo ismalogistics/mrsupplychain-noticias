@@ -1,0 +1,111 @@
+{
+ "id": "2026-11-27-cierre-global",
+ "fecha": "2026-11-27",
+ "momento": "cierre",
+ "mercado": "global",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": true,
+ "es": {
+  "titular": "Wall Street rebota en la semana: el S&P 500 gana 5.6% y el Nasdaq 6.7% tras su peor semana desde 2025; el Brent sube 3%",
+  "esencial": [
+   "El viernes el S&P 500 cerró en 7,297.49 (+1.60%), el Nasdaq en 24,129.50 (+2.31%) y el Dow en 50,774.94 (+1.18%); en la semana ganaron 5.6%, 6.7% y 5.5%.",
+   "El Brent de enero cerró en 95.44 dólares y subió cerca de 3% en la semana, su primera ganancia de noviembre, por los ataques en Ormuz y a refinerías saudíes, según Reuters.",
+   "Para el fin de semana: la OPEP+ decide el domingo; el lunes rige un FIX de 19.7203 y el martes sale el ISM manufacturero de EE. UU."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El viernes, en una sesión corta, el S&P 500 cerró en 7,297.49 (+1.60%), el Nasdaq en 24,129.50 (+2.31%) y el Dow en 50,774.94 (+1.18%); el VIX bajó 11% a 23.8. En la semana, el S&P 500 ganó 5.6%, el Nasdaq 6.7% y el Dow 5.5%, después de su peor semana desde abril de 2025. El índice de semiconductores subió 4.7% el viernes y 9.2% en la semana; Nvidia ganó cerca de 20% en la semana tras el regreso de Jensen Huang, Micron subió 7.6% el viernes y Anthropic 11.0%, a 91.88 dólares. El Treasury a 10 años terminó en 4.94%."
+   },
+   {
+    "t": "Por qué",
+    "x": "La tecnología se recuperó tras la venta de las semanas anteriores, aunque con alta volatilidad: el martes el índice de chips cayó 7.9%. El dato de inflación PCE del miércoles (subyacente de 3.3%) dejó casi segura un alza de la Fed en diciembre, y el Libro Beige reportó presiones de costos sostenidas. EE. UU. propuso aranceles de 15% a 35% a 14 economías de Asia y Europa, que entrarían en 2027 tras consulta pública. El consumo de fin de año arrancó fuerte: Adobe espera un gasto en línea 6.7% mayor y la NRF ventas por más de un billón de dólares."
+   },
+   {
+    "t": "Materias primas",
+    "x": "El Brent de enero cerró en 95.44 dólares (−1.13 dólares el viernes) y ganó cerca de 3% en la semana, después de que dos petroleros explotaron con minas en Ormuz y los hutíes atacaron las refinerías saudíes de Ras Tanura y Jazan; el WTI cerró en 83.08 y perdió 0.9% en la semana, según Reuters. El diésel en futuros cerró en 3.68 dólares por galón, 6% abajo que hace una semana. Los metales rebotaron: en la semana el oro subió 4.4% a 3,668.50, la plata 6.5% a 43.70 y el cobre 2.3% a 5.60 dólares por libra."
+   },
+   {
+    "t": "La próxima semana",
+    "x": "El domingo 29 la OPEP+ decide su producción de 2027 y tiene un acuerdo en principio para mantener sus metas en el primer trimestre, aunque Irak pide una cuota más alta, según Reuters. El martes 1 de diciembre sale el ISM manufacturero de EE. UU. Durante la semana salen datos de empleo de EE. UU. y Jensen Huang comparece ante el Congreso, según Yahoo Finance. La Fed decide el 9 de diciembre."
+   }
+  ],
+  "scm": "El diésel bajó 6% en la semana, pero el crudo subió por el riesgo en Ormuz: pide recargos de combustible indexados al diésel y espera a la OPEP+ del domingo antes de fijar tarifas de diciembre. Con los metales al alza, cierra el lunes las cotizaciones de cable y conectores del primer trimestre."
+ },
+ "en": {
+  "titular": "Wall Street rebounds for the week: the S&P 500 gains 5.6% and the Nasdaq 6.7% after its worst week since 2025; Brent rises 3%",
+  "esencial": [
+   "On Friday the S&P 500 closed at 7,297.49 (+1.60%), the Nasdaq at 24,129.50 (+2.31%) and the Dow at 50,774.94 (+1.18%); for the week they gained 5.6%, 6.7% and 5.5%.",
+   "January Brent settled at $95.44 and rose about 3% for the week, its first gain in November, on the Hormuz attacks and strikes on Saudi refineries, according to Reuters.",
+   "For the weekend: OPEC+ decides on Sunday; on Monday a 19.7203 FIX applies and on Tuesday the US ISM manufacturing index comes out."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "On Friday, in a short session, the S&P 500 closed at 7,297.49 (+1.60%), the Nasdaq at 24,129.50 (+2.31%) and the Dow at 50,774.94 (+1.18%); the VIX fell 11% to 23.8. For the week, the S&P 500 gained 5.6%, the Nasdaq 6.7% and the Dow 5.5%, after their worst week since April 2025. The semiconductor index rose 4.7% on Friday and 9.2% for the week; Nvidia gained about 20% for the week after Jensen Huang’s return, Micron rose 7.6% on Friday and Anthropic 11.0% to $91.88. The 10-year Treasury ended at 4.94%."
+   },
+   {
+    "t": "Why",
+    "x": "Tech recovered after the selloff of previous weeks, though with high volatility: on Tuesday the chip index fell 7.9%. Wednesday’s PCE inflation data (core at 3.3%) made a December Fed hike nearly certain, and the Beige Book reported sustained cost pressures. The US proposed tariffs of 15% to 35% on 14 economies in Asia and Europe, which would take effect in 2027 after public comment. Holiday consumption started strong: Adobe expects online spending 6.7% higher and the NRF sales above $1 trillion."
+   },
+   {
+    "t": "Commodities",
+    "x": "January Brent settled at $95.44 (−$1.13 on Friday) and gained about 3% for the week, after two tankers exploded on mines in Hormuz and the Houthis attacked Saudi Arabia’s Ras Tanura and Jazan refineries; WTI settled at $83.08 and lost 0.9% for the week, according to Reuters. Diesel futures closed at $3.68 a gallon, 6% lower than a week ago. Metals rebounded: for the week gold rose 4.4% to $3,668.50, silver 6.5% to $43.70 and copper 2.3% to $5.60 per pound."
+   },
+   {
+    "t": "Next week",
+    "x": "On Sunday the 29th OPEC+ decides its 2027 output and has an agreement in principle to keep its targets in the first quarter, although Iraq is seeking a higher quota, according to Reuters. The US ISM manufacturing index comes out on Tuesday, December 1. During the week, US jobs data are released and Jensen Huang testifies before Congress, according to Yahoo Finance. The Fed decides on December 9."
+   }
+  ],
+  "scm": "Diesel fell 6% for the week, but crude rose on Hormuz risk: ask for fuel surcharges indexed to diesel and wait for Sunday’s OPEC+ meeting before setting December rates. With metals rising, close first-quarter cable and connector quotes on Monday."
+ },
+ "pt": {
+  "titular": "Wall Street se recupera na semana: o S&P 500 ganha 5,6% e o Nasdaq 6,7% após a pior semana desde 2025; o Brent sobe 3%",
+  "esencial": [
+   "Na sexta o S&P 500 fechou em 7.297,49 (+1,60%), o Nasdaq em 24.129,50 (+2,31%) e o Dow em 50.774,94 (+1,18%); na semana ganharam 5,6%, 6,7% e 5,5%.",
+   "O Brent de janeiro fechou a 95,44 dólares e subiu cerca de 3% na semana, seu primeiro ganho de novembro, pelos ataques em Ormuz e às refinarias sauditas, segundo a Reuters.",
+   "Para o fim de semana: a OPEP+ decide no domingo; na segunda vale um FIX de 19,7203 e na terça sai o ISM industrial dos EUA."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "Na sexta, numa sessão curta, o S&P 500 fechou em 7.297,49 (+1,60%), o Nasdaq em 24.129,50 (+2,31%) e o Dow em 50.774,94 (+1,18%); o VIX caiu 11% para 23,8. Na semana, o S&P 500 ganhou 5,6%, o Nasdaq 6,7% e o Dow 5,5%, depois da pior semana desde abril de 2025. O índice de semicondutores subiu 4,7% na sexta e 9,2% na semana; a Nvidia ganhou cerca de 20% na semana após o retorno de Jensen Huang, a Micron subiu 7,6% na sexta e a Anthropic 11,0%, para 91,88 dólares. O Treasury de 10 anos terminou em 4,94%."
+   },
+   {
+    "t": "Por quê",
+    "x": "A tecnologia se recuperou após a venda das semanas anteriores, embora com alta volatilidade: na terça o índice de chips caiu 7,9%. O dado de inflação PCE de quarta (núcleo de 3,3%) tornou quase certa uma alta do Fed em dezembro, e o Livro Bege relatou pressões de custos persistentes. Os EUA propuseram tarifas de 15% a 35% para 14 economias da Ásia e da Europa, que entrariam em vigor em 2027 após consulta pública. O consumo de fim de ano começou forte: a Adobe espera gasto online 6,7% maior e a NRF vendas acima de 1 trilhão de dólares."
+   },
+   {
+    "t": "Matérias-primas",
+    "x": "O Brent de janeiro fechou a 95,44 dólares (−1,13 dólar na sexta) e ganhou cerca de 3% na semana, depois que dois petroleiros explodiram com minas em Ormuz e os houthis atacaram as refinarias sauditas de Ras Tanura e Jazan; o WTI fechou a 83,08 e perdeu 0,9% na semana, segundo a Reuters. O diesel em futuros fechou a 3,68 dólares por galão, 6% abaixo de uma semana atrás. Os metais se recuperaram: na semana o ouro subiu 4,4% para 3.668,50, a prata 6,5% para 43,70 e o cobre 2,3% para 5,60 dólares por libra."
+   },
+   {
+    "t": "A próxima semana",
+    "x": "No domingo, dia 29, a OPEP+ decide a produção de 2027 e tem um acordo em princípio para manter suas metas no primeiro trimestre, embora o Iraque peça uma cota maior, segundo a Reuters. Na terça, 1º de dezembro, sai o ISM industrial dos EUA. Durante a semana saem dados de emprego dos EUA e Jensen Huang depõe no Congresso, segundo o Yahoo Finance. O Fed decide em 9 de dezembro."
+   }
+  ],
+  "scm": "O diesel caiu 6% na semana, mas o petróleo subiu pelo risco em Ormuz: peça sobretaxas de combustível indexadas ao diesel e espere a OPEP+ de domingo antes de fixar tarifas de dezembro. Com os metais em alta, feche na segunda as cotações de cabos e conectores do primeiro trimestre."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq cierran la semana de Acción de Gracias con alzas por el rebote de la IA (27 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+  },
+  {
+   "t": "Reuters: el petróleo logra su primera ganancia semanal de noviembre por temores de oferta (27 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-track-snap-3-week-082519990.html"
+  },
+  {
+   "t": "Reuters: Irak negocia con la OPEP una cuota de producción más alta antes de la reunión de la OPEP+ (27 nov 2026)",
+   "u": "https://finance.yahoo.com/news/iraq-talks-opec-higher-oil-163604121.html"
+  },
+  {
+   "t": "Baker McKenzie: el USTR propone aranceles de la Sección 301 a 14 economías por exceso de capacidad estructural (25 nov 2026)",
+   "u": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 27 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

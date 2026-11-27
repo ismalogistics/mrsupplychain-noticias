@@ -1,0 +1,115 @@
+{
+ "id": "2026-11-27-cierre-mexico",
+ "fecha": "2026-11-27",
+ "momento": "cierre",
+ "mercado": "mexico",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": true,
+ "es": {
+  "titular": "El IPC gana 4.3% en la semana con exportaciones récord; el peso cierra en 19.66 y el lunes rige un FIX de 19.7203",
+  "esencial": [
+   "El S&P/BMV IPC terminó el viernes en 71,661.25 puntos (+1.86%) y ganó 4.3% en la semana, desde 68,695.45.",
+   "El peso cerró en 19.66 por dólar, desde 19.17 hace una semana (+2.6% el dólar); el lunes rige el FIX de 19.7203.",
+   "Para el fin de semana: las exportaciones de octubre crecieron 30.2% y México quedó, por ahora, fuera de los aranceles propuestos por EE. UU. a 14 economías."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El S&P/BMV IPC cerró el viernes en 71,661.25 puntos (+1.86%) y ganó 4.3% en la semana, desde 68,695.45. El peso terminó en 19.66 por dólar a las 15:15 CDMX (−0.20% el dólar), desde 19.17 hace una semana; el miércoles tocó 19.85, su nivel más débil desde abril de 2025. Hoy rigió para pagos el FIX de 19.7040 y el lunes 30 rige el de 19.7203."
+   },
+   {
+    "t": "Por qué",
+    "x": "EE. UU. propuso aranceles de 15% a 35% a 14 economías de Asia y Europa y dejó pendiente la investigación sobre México, sin plazo, según Expansión; el IPC subió 3% ese día. Las exportaciones de octubre sumaron 86,009 millones de dólares (+30.2%), con un superávit de 298.2 millones, impulsadas por el equipo de cómputo; las automotrices crecieron sólo 5.6%. En contra, la desocupación subió a 3.0% en octubre y el peso se debilitó por la salida de inversiones de carry trade ante un menor diferencial de tasas con EE. UU."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Los comentarios sobre los aranceles de EE. UU. se reciben hasta el 5 de enero y las audiencias empiezan el 25 de enero. La Fed decide el 9 de diciembre y el mercado da casi por segura un alza."
+   },
+   {
+    "t": "La próxima semana",
+    "x": "El lunes 30 rige el FIX de 19.7203. El domingo 29 la OPEP+ decide su producción de 2027, lo que moverá al combustible. El martes 1 de diciembre sale el ISM manufacturero de EE. UU., referencia para la demanda de exportaciones mexicanas."
+   }
+  ],
+  "scm": "Actualiza el tipo de cambio de tus costos del primer trimestre con un peso cerca de 19.7. Si estás en electrónica o cómputo, asegura capacidad de cruce para diciembre; si exportas autopartes, revisa los pronósticos con tus clientes. Si compras en Asia o Europa, compara el costo con arancel contra proveedores en México."
+ },
+ "en": {
+  "titular": "The IPC gains 4.3% for the week on record exports; the peso closes at 19.66 and a 19.7203 FIX applies Monday",
+  "esencial": [
+   "The S&P/BMV IPC ended Friday at 71,661.25 points (+1.86%) and gained 4.3% for the week, from 68,695.45.",
+   "The peso closed at 19.66 per dollar, from 19.17 a week ago (dollar +2.6%); on Monday the 19.7203 FIX applies.",
+   "For the weekend: October exports grew 30.2% and Mexico was left out, for now, of the US tariffs proposed on 14 economies."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "The S&P/BMV IPC closed Friday at 71,661.25 points (+1.86%) and gained 4.3% for the week, from 68,695.45. The peso ended at 19.66 per dollar at 3:15 p.m. Mexico City time (dollar −0.20%), from 19.17 a week ago; on Wednesday it touched 19.85, its weakest since April 2025. Today the 19.7040 FIX applied to payments and on Monday the 30th the 19.7203 one applies."
+   },
+   {
+    "t": "Why",
+    "x": "The US proposed tariffs of 15% to 35% on 14 economies in Asia and Europe and left the investigation on Mexico pending, with no deadline, according to Expansión; the IPC rose 3% that day. October exports totaled $86.009 billion (+30.2%), with a $298.2 million surplus, driven by computer equipment; auto exports grew only 5.6%. On the downside, unemployment rose to 3.0% in October and the peso weakened on carry trade unwinding amid a narrower rate gap with the US."
+   },
+   {
+    "t": "What to expect",
+    "x": "Comments on the US tariffs are due January 5 and hearings begin January 25. The Fed decides on December 9 and markets see a hike as nearly certain."
+   },
+   {
+    "t": "Next week",
+    "x": "On Monday the 30th the 19.7203 FIX applies. On Sunday the 29th OPEC+ decides its 2027 output, which will move fuel prices. The US ISM manufacturing index comes out on Tuesday, December 1, a reference for demand for Mexican exports."
+   }
+  ],
+  "scm": "Update the exchange rate in your first-quarter costs with the peso near 19.7. If you are in electronics or computing, secure crossing capacity for December; if you export auto parts, review forecasts with your customers. If you buy in Asia or Europe, compare tariffed costs against suppliers in Mexico."
+ },
+ "pt": {
+  "titular": "O IPC ganha 4,3% na semana com exportações recorde; o peso fecha em 19,66 e na segunda vale um FIX de 19,7203",
+  "esencial": [
+   "O S&P/BMV IPC terminou a sexta em 71.661,25 pontos (+1,86%) e ganhou 4,3% na semana, desde 68.695,45.",
+   "O peso fechou em 19,66 por dólar, desde 19,17 uma semana atrás (dólar +2,6%); na segunda vale o FIX de 19,7203.",
+   "Para o fim de semana: as exportações de outubro cresceram 30,2% e o México ficou, por enquanto, fora das tarifas propostas pelos EUA a 14 economias."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "O S&P/BMV IPC fechou a sexta em 71.661,25 pontos (+1,86%) e ganhou 4,3% na semana, desde 68.695,45. O peso terminou em 19,66 por dólar às 15h15 (Cidade do México) (dólar −0,20%), desde 19,17 uma semana atrás; na quarta tocou 19,85, seu nível mais fraco desde abril de 2025. Hoje valeu para pagamentos o FIX de 19,7040 e na segunda, dia 30, vale o de 19,7203."
+   },
+   {
+    "t": "Por quê",
+    "x": "Os EUA propuseram tarifas de 15% a 35% para 14 economias da Ásia e da Europa e deixaram pendente a investigação sobre o México, sem prazo, segundo a Expansión; o IPC subiu 3% naquele dia. As exportações de outubro somaram 86,009 bilhões de dólares (+30,2%), com superávit de 298,2 milhões, impulsionadas pelos equipamentos de computação; as automotivas cresceram só 5,6%. Em contrapartida, o desemprego subiu para 3,0% em outubro e o peso se enfraqueceu pela saída de operações de carry trade diante de um diferencial de juros menor com os EUA."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Os comentários sobre as tarifas dos EUA vão até 5 de janeiro e as audiências começam em 25 de janeiro. O Fed decide em 9 de dezembro e o mercado considera uma alta quase certa."
+   },
+   {
+    "t": "A próxima semana",
+    "x": "Na segunda, dia 30, vale o FIX de 19,7203. No domingo, dia 29, a OPEP+ decide a produção de 2027, o que vai mover o combustível. Na terça, 1º de dezembro, sai o ISM industrial dos EUA, referência para a demanda por exportações mexicanas."
+   }
+  ],
+  "scm": "Atualize a taxa de câmbio dos seus custos do primeiro trimestre com o peso perto de 19,7. Se você está em eletrônica ou computação, garanta capacidade de travessia para dezembro; se exporta autopeças, revise as previsões com seus clientes. Se compra na Ásia ou na Europa, compare o custo com tarifa frente a fornecedores no México."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 27 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Energy Magazine: México rompe récord de exportaciones por la IA; los autos siguen desacelerando (27 nov 2026)",
+   "u": "https://energymagazine.mx/2026/11/mexico-rompe-record-de-exportaciones-por-la-ia-autos-continuan-desacelerando/"
+  },
+  {
+   "t": "Expansión: México libra por ahora los aranceles que EE. UU. propone a 14 economías (25 nov 2026)",
+   "u": "https://expansion.mx/economia/2026/11/25/eu-propone-aranceles-14-economias-mexico-queda-fuera"
+  },
+  {
+   "t": "Alto Nivel: el desempleo en México sube a 3% en octubre, su nivel más alto en cuatro años (26 nov 2026)",
+   "u": "https://www.altonivel.com.mx/desempleo-en-mexico-sube-a-3-en-octubre-su-nivel-mas-alto-en-cuatro-anos/"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (26 nov 2026: 19.7203)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 27 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

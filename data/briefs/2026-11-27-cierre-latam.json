@@ -1,0 +1,119 @@
+{
+ "id": "2026-11-27-cierre-latam",
+ "fecha": "2026-11-27",
+ "momento": "cierre",
+ "mercado": "latam",
+ "hora": "15:15 CDMX",
+ "fin_de_semana": true,
+ "es": {
+  "titular": "La región cierra una semana fuerte: el Ibovespa gana 6.3% y el real se fortalece a 5.55; el peso colombiano, a 3,477",
+  "esencial": [
+   "El viernes el Ibovespa cerró en 176,654.90 (−0.08%) y ganó 6.3% en la semana; el S&P/TSX de Canadá terminó en 34,839.87 (+1.20%) y ganó 5.0%.",
+   "El dólar terminó en 5.55 reales, desde 5.95 hace una semana, y en 3,477 pesos colombianos (−1.96% el viernes).",
+   "Para el fin de semana: EE. UU. propuso a Brasil 10% a los aviones y más arancel al azúcar; la OPEP+ decide el domingo."
+  ],
+  "bloques": [
+   {
+    "t": "Qué pasó",
+    "x": "El viernes el Ibovespa cerró en 176,654.90 (−0.08%) y ganó 6.3% en la semana, con un salto de 6.1% el jueves. El S&P/TSX de Canadá cerró en 34,839.87 (+1.20%) y ganó 5.0% en la semana. Los ETF de MSCI subieron el viernes 4.6% en Perú, 3.8% en Chile y 3.5% en Argentina, con el rebote de los metales."
+   },
+   {
+    "t": "Monedas",
+    "x": "A las 15:15 CDMX el dólar estaba en 5.55 reales (−1.79%), desde 5.95 hace una semana; en 3,477 pesos colombianos (−1.96%), y a las 13:32 en 1,030 pesos chilenos (−0.57%). El peso mexicano terminó en 19.66."
+   },
+   {
+    "t": "Por qué",
+    "x": "En Brasil, el mercado reaccionó a reportes de que Luiz Carlos Trabuco, presidente del consejo de Bradesco, podría encabezar el Ministerio de Hacienda, y a un IPCA-15 de 0.22%, menor a lo esperado, según Seu Dinheiro. EE. UU. propuso aranceles a 14 economías de Asia y Europa, ninguna latinoamericana; aparte, propuso a Brasil 10% a los aviones terminados, que pegaría a Embraer, y más arancel al azúcar, según Reuters. El cobre subió 2.3% en la semana, a 5.60 dólares por libra."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Brasil y EE. UU. siguen sin acuerdo comercial; los aranceles propuestos entrarían en 2027 tras consulta pública. La OPEP+ decide el domingo 29."
+   },
+   {
+    "t": "La próxima semana",
+    "x": "El domingo 29 la OPEP+ decide su producción de 2027. El martes 1 de diciembre sale el ISM manufacturero de EE. UU. y durante la semana salen datos de empleo de EE. UU."
+   }
+  ],
+  "scm": "Con el real y el peso colombiano en su nivel más fuerte en semanas, cubre el lunes tus pagos en esas monedas. Si compras jets regionales, refacciones aeronáuticas o azúcar de Brasil, revisa contratos antes de enero; con el cobre al alza, cierra las cotizaciones de insumos de Chile y Perú."
+ },
+ "en": {
+  "titular": "The region closes a strong week: the Ibovespa gains 6.3% and the real strengthens to 5.55; the Colombian peso at 3,477",
+  "esencial": [
+   "On Friday the Ibovespa closed at 176,654.90 (−0.08%) and gained 6.3% for the week; Canada's S&P/TSX ended at 34,839.87 (+1.20%) and gained 5.0%.",
+   "The dollar ended at 5.55 reais, from 5.95 a week ago, and at 3,477 Colombian pesos (−1.96% on Friday).",
+   "For the weekend: the US proposed 10% on aircraft and higher sugar duties for Brazil; OPEC+ decides on Sunday."
+  ],
+  "bloques": [
+   {
+    "t": "What happened",
+    "x": "On Friday the Ibovespa closed at 176,654.90 (−0.08%) and gained 6.3% for the week, with a 6.1% jump on Thursday. Canada's S&P/TSX closed at 34,839.87 (+1.20%) and gained 5.0% for the week. The MSCI ETFs rose on Friday 4.6% for Peru, 3.8% for Chile and 3.5% for Argentina, on the metals rebound."
+   },
+   {
+    "t": "Currencies",
+    "x": "At 4:15 p.m. ET the dollar stood at 5.55 reais (−1.79%), from 5.95 a week ago; at 3,477 Colombian pesos (−1.96%), and at 2:32 p.m. at 1,030 Chilean pesos (−0.57%). The Mexican peso ended at 19.66."
+   },
+   {
+    "t": "Why",
+    "x": "In Brazil, the market reacted to reports that Luiz Carlos Trabuco, chairman of Bradesco's board, could head the Finance Ministry, and to a lower-than-expected 0.22% IPCA-15, according to Seu Dinheiro. The US proposed tariffs on 14 economies in Asia and Europe, none in Latin America; separately, it proposed 10% on finished aircraft for Brazil, which would hit Embraer, and higher sugar duties, according to Reuters. Copper rose 2.3% for the week to $5.60 per pound."
+   },
+   {
+    "t": "What to expect",
+    "x": "Brazil and the US still have no trade deal; the proposed tariffs would take effect in 2027 after public comment. OPEC+ decides on Sunday the 29th."
+   },
+   {
+    "t": "Next week",
+    "x": "On Sunday the 29th OPEC+ decides its 2027 output. The US ISM manufacturing index comes out on Tuesday, December 1, and US jobs data are released during the week."
+   }
+  ],
+  "scm": "With the real and Colombian peso at their strongest in weeks, cover your payments in those currencies on Monday. If you buy regional jets, aerospace parts or sugar from Brazil, review contracts before January; with copper rising, close quotes for inputs from Chile and Peru."
+ },
+ "pt": {
+  "titular": "A região fecha uma semana forte: o Ibovespa ganha 6,3% e o real se fortalece para 5,55; o peso colombiano a 3.477",
+  "esencial": [
+   "Na sexta o Ibovespa fechou em 176.654,90 (−0,08%) e ganhou 6,3% na semana; o S&P/TSX do Canadá terminou em 34.839,87 (+1,20%) e ganhou 5,0%.",
+   "O dólar terminou em R$ 5,55, desde 5,95 uma semana atrás, e em 3.477 pesos colombianos (−1,96% na sexta).",
+   "Para o fim de semana: os EUA propuseram ao Brasil 10% sobre aviões e mais tarifa sobre o açúcar; a OPEP+ decide no domingo."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu",
+    "x": "Na sexta o Ibovespa fechou em 176.654,90 (−0,08%) e ganhou 6,3% na semana, com um salto de 6,1% na quinta. O S&P/TSX do Canadá fechou em 34.839,87 (+1,20%) e ganhou 5,0% na semana. Os ETFs da MSCI subiram na sexta 4,6% no Peru, 3,8% no Chile e 3,5% na Argentina, com o repique dos metais."
+   },
+   {
+    "t": "Moedas",
+    "x": "Às 15h15 (Cidade do México) o dólar estava em R$ 5,55 (−1,79%), desde 5,95 uma semana atrás; em 3.477 pesos colombianos (−1,96%), e às 13h32 em 1.030 pesos chilenos (−0,57%). O peso mexicano terminou em 19,66."
+   },
+   {
+    "t": "Por quê",
+    "x": "No Brasil, o mercado reagiu a notícias de que Luiz Carlos Trabuco, presidente do conselho do Bradesco, pode comandar o Ministério da Fazenda, e a um IPCA-15 de 0,22%, menor que o esperado, segundo o Seu Dinheiro. Os EUA propuseram tarifas para 14 economias da Ásia e da Europa, nenhuma latino-americana; à parte, propuseram ao Brasil 10% sobre aviões acabados, que atingiria a Embraer, e mais tarifa sobre o açúcar, segundo a Reuters. O cobre subiu 2,3% na semana, para 5,60 dólares por libra."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Brasil e EUA seguem sem acordo comercial; as tarifas propostas entrariam em vigor em 2027 após consulta pública. A OPEP+ decide no domingo, dia 29."
+   },
+   {
+    "t": "A próxima semana",
+    "x": "No domingo, dia 29, a OPEP+ decide a produção de 2027. Na terça, 1º de dezembro, sai o ISM industrial dos EUA e durante a semana saem dados de emprego dos EUA."
+   }
+  ],
+  "scm": "Com o real e o peso colombiano no nível mais forte em semanas, cubra na segunda seus pagamentos nessas moedas. Se você compra jatos regionais, peças aeronáuticas ou açúcar do Brasil, revise contratos antes de janeiro; com o cobre em alta, feche as cotações de insumos do Chile e do Peru."
+ },
+ "fuentes": [
+  {
+   "t": "Seu Dinheiro: el Ibovespa se dispara por la especulación sobre Hacienda, el IPCA-15 y la agenda fiscal (26 nov 2026)",
+   "u": "https://www.seudinheiro.com/2026/bolsa-dolar/ibovespa-dispara-mais-de-3-e-dolar-recua-a-r-572-o-que-anima-o-mercado-hoje-davs/"
+  },
+  {
+   "t": "Reuters: EE. UU. propone nuevos aranceles a Brasil, incluido 10% a los aviones (25 nov 2026)",
+   "u": "https://finance.yahoo.com/news/us-proposes-higher-tariffs-brazil-131543830.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 27 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}
