@@ -7,7 +7,34 @@
   <description>Briefs diarios de mercados (premercado, apertura, mediodía y cierre), global, LATAM y México, leídos para supply chain y operaciones.</description>
   <language>es-MX</language>
   <copyright>Mr. Supply Chain® es una marca registrada ante el Instituto Mexicano de la Propiedad Industrial (IMPI) y se usa exclusivamente en los Estados Unidos Mexicanos. No está afiliada ni tiene relación con marcas, personas o empresas que usen nombres similares en otros países.</copyright>
-  <lastBuildDate>Fri, 27 Nov 2026 09:09:00 -0600</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 11:38:00 -0600</lastBuildDate>
+  <item>
+    <title>El IPC sube 1.8% tras el récord exportador y el peso se mantiene en 19.67</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-27-mediodia-mexico/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-27-mediodia-mexico/</guid>
+    <pubDate>Fri, 27 Nov 2026 11:38:00 -0600</pubDate>
+    <category>Mediodía · México</category>
+    <description>En la apertura el IPC subía 2.07% y el peso operaba en 19.65, tras el récord de exportaciones de octubre. A las 11:18 CDMX el S&amp;P/BMV IPC subía 1.81% a 71,625.02 puntos. A las 11:38 CDMX el peso cotizaba en 19.67 por dólar (−0.15% el dólar), aunque el índice del dólar subía 0.32%. Hoy rige para pagos el FIX de 19.7040; el lunes 30 rige el de 19.7203. — Si pagas en dólares, compara el FIX de 19.7040 con el tipo de mercado de 19.67 antes de liquidar. Si estás en electrónica o cómputo, asegura capacidad de cruce para diciembre.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-27-mediodia-mexico/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>El Ibovespa toma utilidades (−0.2%) tras su salto, pero el real sigue fortaleciéndose a 5.53</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-27-mediodia-latam/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-27-mediodia-latam/</guid>
+    <pubDate>Fri, 27 Nov 2026 11:38:00 -0600</pubDate>
+    <category>Mediodía · LATAM</category>
+    <description>En la apertura el Ibovespa subía 1.17% después de ganar 6.07% el jueves, y el real se fortalecía a 5.57. A las 11:23 CDMX el Ibovespa bajaba 0.23% a 176,398.05 y a las 11:38 el S&amp;P/TSX de Canadá subía 1.11% a 34,807.51, con metales básicos y tecnología al frente, según MT Newswires. El dólar estaba en 5.53 reales (−2.11%), 3,506 pesos colombianos (−1.16%) y 1,034 pesos chilenos (−0.11%). — Con el real en 5.53, cubre hoy tus pagos en reales; con el cobre al alza, cierra hoy las cotizaciones vigentes de insumos de cobre de Chile y Perú.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-27-mediodia-latam/og.png" type="image/png" length="0"/>
+  </item>
+  <item>
+    <title>Wall Street amplía sus alzas antes del cierre anticipado: el Nasdaq sube 1.9%, Micron 6% y Anthropic 11%</title>
+    <link>https://mrsupplychain.ai/noticias/brief/2026-11-27-mediodia-global/</link>
+    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-27-mediodia-global/</guid>
+    <pubDate>Fri, 27 Nov 2026 11:38:00 -0600</pubDate>
+    <category>Mediodía · Global</category>
+    <description>En la apertura, Wall Street subía cerca de 0.7% en una sesión corta de Black Friday, con Nvidia a la baja y la plata con un alza de 8.4% desde el miércoles. A las 11:38 CDMX el S&amp;P 500 subía 1.39% (7,282.46), el Nasdaq 1.86% (24,024.40) y el Dow 1.15% (50,761.99); el VIX bajaba 8.3% a 24.6. El índice de semiconductores subía 3.2%: Micron +6.1%, mientras Nvidia bajaba 0.3% (148.90 dólares). Anthropic subía 11.0% a 91.93 dólares, Dell 5.7% y Amazon 4.3%. El Treasury a 10 años subía a 4.93%. El Brent de enero estaba en 93.98 dólares y el WTI en 82.71, abajo de sus niveles del jueves; desde el miércoles, la plata subía 8.0% (43.77 dólares) y el cobre 3.3% (5.60 dólares por libra). — El consumo de fin de año en EE. UU. se ve fuerte: confirma la capacidad de última milla y de devoluciones para diciembre. Con el petróleo a la baja y un superávit previsto para 2027, negocia recargos de combustible indexados al diésel en lugar de fijos.</description>
+    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-27-mediodia-global/og.png" type="image/png" length="0"/>
+  </item>
   <item>
     <title>Exportaciones récord: México vende 86,009 millones de dólares en octubre (+30.2%); el IPC sube 2.1%</title>
     <link>https://mrsupplychain.ai/noticias/brief/2026-11-27-apertura-mexico/</link>
@@ -340,33 +367,6 @@
     <category>Apertura · México</category>
     <description>A las 8:48 CDMX el S&amp;P/BMV IPC estaba en 69,839.93 puntos (+0.70%). A las 9:08 CDMX el peso cotizaba en 19.31 por dólar (+0.86% el dólar), más débil aunque el índice del dólar bajaba 0.52%. El FIX determinado ayer fue de 19.1648 (+0.75%), según Banxico: se publica hoy en el DOF y rige para pagos desde mañana miércoles. Hoy rige el de 19.0228. La inflación anual subió a 3.96% en la primera quincena de noviembre, desde 3.88% en la segunda de octubre; los precios subieron 0.54% en la quincena, según el INEGI. La luz subió 20.7% por el fin del subsidio de verano en 11 ciudades, el jitomate 29% y el tomate verde 39%. La subyacente, que quita los precios más volátiles, bajó a 3.68% anual y −0.10% en la quincena; El Buen Fin solo entró tres días en la medición, según Expansión. Banorte esperaba 4.03%. — Hoy rige el FIX de 19.0228 y mañana sube a 19.1648: liquida hoy los pagos en dólares que puedas. La subyacente baja: hay margen para negociar precios de servicios y bienes no alimenticios; en alimentos frescos, cubre el alza del jitomate.</description>
     <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-24-apertura-mexico/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>El real se fortalece 1.4% y el Ibovespa sube 1.3%; el peso colombiano cae 1.7% y Chile baja con el cobre</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-24-apertura-latam/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-24-apertura-latam/</guid>
-    <pubDate>Tue, 24 Nov 2026 09:08:00 -0600</pubDate>
-    <category>Apertura · LATAM</category>
-    <description>A las 8:53 CDMX el Ibovespa estaba en 166,956.84 (+1.31%); a las 9:08 el S&amp;P/TSX de Canadá estaba en 33,985.44 (−0.28%). Los ETF de MSCI subían 2.31% en Brasil y bajaban 1.55% en Chile, 0.98% en Perú y 0.59% en Argentina. En monedas, el dólar estaba en 5.84 reales (−1.43%), 1,024 pesos chilenos (+0.69%), 3,565 pesos colombianos (+1.70%), 3.47 soles (+0.46%), 1,590 pesos argentinos (+0.66%) y 1.430 dólares canadienses (−0.47%). La caída del cobre (−3.3%) y la plata (−2.6%) pesa sobre Chile y Perú; el crudo rebota 1.8% desde mínimos de tres meses. En Brasil, el real es la moneda más fuerte de la región hoy. — Adelanta pagos en reales mientras la moneda está firme, escalona los pagos en pesos colombianos y chilenos, y cotiza cable con el cobre en 5.53 dólares por libra.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-24-apertura-latam/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>La IA se vende un día después del rebote: los chips caen 7%, Nvidia 6.8% y Anthropic baja de su precio de salida</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-24-apertura-global/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-24-apertura-global/</guid>
-    <pubDate>Tue, 24 Nov 2026 09:08:00 -0600</pubDate>
-    <category>Apertura · Global</category>
-    <description>El premercado anticipaba un ajuste tras el rebote del lunes y la apertura lo confirmó en tecnología: a las 9:08 CDMX el S&amp;P 500 estaba en 7,189.57 (−0.66%), el Nasdaq en 23,713.45 (−1.56%) y el Dow en 49,791.96 (+0.40%); el VIX en 27.5. El índice de semiconductores caía 7.3%: AMD −9.1%, Micron −9.1%, Nvidia −6.8% (153.85 dólares), TSMC −4.5% y Broadcom −3.1%. Anthropic caía 7.9% a 80.70 dólares, debajo de su precio de salida de 83, pese a que Canaccord, Oppenheimer y Wedbush iniciaron cobertura con recomendación de compra, según 24/7 Wall St. HPE perdía 15% tras su guía, Dell 11.7% antes de reportar, y CoreWeave y Nebius cerca de 10%. Best Buy subía 1.7% tras reportar ventas comparables de +6.1%, su mejor alza en cinco años, y Dick&#x27;s Sporting Goods 13.8%. El WTI rebotaba 1.8% a 81.64 dólares y el Brent de enero 1.8% a 90.93, desde mínimos de tres meses; el diésel en futuros estaba en 3.69 dólares por galón. El oro bajaba 0.8% a 3,624, la plata 2.6% y el cobre 3.3% a 5.53 dólares por libra. El Treasury a 10 años estaba en 4.91% y el índice del dólar bajaba 0.52% a 103.78. — El consumo de electrónica en EE. UU. aguanta (Best Buy +6.1% en ventas comparables): confirma inventario, recolecciones y cortes de embarque antes del miércoles 25. En hardware, escucha hoy a Dell y HP antes de cerrar pedidos de servidores o laptops.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-24-apertura-global/og.png" type="image/png" length="0"/>
-  </item>
-  <item>
-    <title>El peso amanece en 19.26 y hoy sale la inflación de la primera quincena de noviembre; el FIX de ayer fue de 19.1648</title>
-    <link>https://mrsupplychain.ai/noticias/brief/2026-11-24-premercado-mexico/</link>
-    <guid isPermaLink="true">https://mrsupplychain.ai/noticias/brief/2026-11-24-premercado-mexico/</guid>
-    <pubDate>Tue, 24 Nov 2026 05:08:00 -0600</pubDate>
-    <category>Premercado · México</category>
-    <description>Ayer el S&amp;P/BMV IPC cerró en 69,330.94 puntos (+1.02%) y el peso en 19.17. Banxico determinó ayer un FIX de 19.1648, que se publica hoy en el DOF y rige para pagos desde mañana miércoles; hoy rige el de 19.0228. A las 5:08 CDMX el peso cotizaba en 19.26 por dólar (+0.58% el dólar). Los futuros de Wall Street bajan (Nasdaq −1.8%) y el mercado da 95% de probabilidad a un alza de la Fed en diciembre, lo que presiona al peso. La caída de la plata (−3.2%) y el cobre (−3.6%) puede pesar sobre las mineras del IPC. — Hoy rige el FIX de 19.0228 y mañana sube a 19.1648: liquida hoy los pagos en dólares que puedas. Espera el dato de inflación antes de ajustar listas de precios o contratos indexados.</description>
-    <enclosure url="https://mrsupplychain.ai/noticias/brief/2026-11-24-premercado-mexico/og.png" type="image/png" length="0"/>
   </item>
 </channel>
 </rss>
