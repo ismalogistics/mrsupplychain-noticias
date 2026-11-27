@@ -19,6 +19,14 @@ ACTUALIZACIONES = [
             'SAP said on Friday that it detected suspicious activity and took immediate steps to protect its customers and services. According to the company, the investigation has so far found no unauthorized access to customer business data. Der Spiegel broke the story on Thursday: according to an insider, the attackers stole employee access tokens and used them to copy and modify code on GitHub. SAP has not said which code was touched, how they got in or whether the attack is contained; a spokesperson told AFP the episode is still ongoing. The stock barely moved: 194.18 euros in Frankfurt (+0.02%) at 08:51 Mexico City time.',
             'A SAP disse nesta sexta que detectou atividade suspeita e tomou medidas imediatas para proteger seus clientes e serviços. Segundo a empresa, a investigação não encontrou até agora acesso não autorizado a dados de negócio de clientes. O Der Spiegel revelou o caso na quinta: segundo uma fonte interna, os invasores roubaram tokens de acesso de funcionários e com eles copiaram e modificaram código no GitHub. A SAP não disse qual código foi tocado, como entraram nem se o ataque já está contido; um porta-voz disse à AFP que o episódio segue em curso. A ação quase não se mexeu: 194,18 euros em Frankfurt (+0,02%) às 08:51 da Cidade do México.'),
      'f': ['record', 'secweek', 'infobae', 'gaceta', 'quotes']},
+    {'t': '2026-11-27T16:25:00-06:00',
+     'titulo': L('SAP añade que no ve afectación en sistemas de clientes, pero no dice si hay que revisar el código descargado de GitHub',
+                 'SAP adds that it sees no impact on customer systems, but does not say whether code downloaded from GitHub needs checking',
+                 'A SAP acrescenta que não vê impacto em sistemas de clientes, mas não diz se é preciso revisar o código baixado do GitHub'),
+     'x': L('En una declaración a BleepingComputer, SAP dijo que la evidencia reunida hasta ahora no muestra que el incidente haya alcanzado sistemas ni datos de sus clientes. Es un paso más que en la mañana, cuando solo hablaba de datos. La empresa no quiso precisar qué entornos resultaron afectados ni si quienes descargan código de sus repositorios de GitHub, o reciben actualizaciones ligadas a ellos, deben hacer algo. Lectura para supply chain: la operación sigue normal, pero si tu equipo o tu integrador baja herramientas o paquetes de SAP desde GitHub, fija versiones y espera el detalle antes de actualizar. La acción cerró en Fráncfort en 195.64 euros (+0.77%) y en Nueva York en 213.65 dólares (+2.04%): el mercado no lo lee, por ahora, como un daño mayor.',
+            'In a statement to BleepingComputer, SAP said the evidence gathered so far does not show the incident reaching its customers’ systems or data. That goes a step further than in the morning, when it spoke only of data. The company declined to specify which environments were affected or whether those who download code from its GitHub repositories, or receive updates tied to them, need to do anything. The supply chain read: operations continue as normal, but if your team or integrator pulls SAP tools or packages from GitHub, pin versions and wait for details before updating. The stock closed in Frankfurt at 195.64 euros (+0.77%) and in New York at 213.65 dollars (+2.04%): for now, the market does not read it as major damage.',
+            'Em uma declaração ao BleepingComputer, a SAP disse que a evidência reunida até agora não mostra que o incidente tenha alcançado sistemas nem dados de seus clientes. É um passo além da manhã, quando falava só de dados. A empresa não quis precisar quais ambientes foram afetados nem se quem baixa código de seus repositórios do GitHub, ou recebe atualizações ligadas a eles, deve fazer algo. Leitura para supply chain: a operação segue normal, mas se sua equipe ou seu integrador baixa ferramentas ou pacotes da SAP do GitHub, fixe versões e espere o detalhe antes de atualizar. A ação fechou em Frankfurt a 195,64 euros (+0,77%) e em Nova York a 213,65 dólares (+2,04%): o mercado não o lê, por ora, como um dano maior.'),
+     'f': ['prsol', 'demokratis', 'outlook', 'quotes']},
 ]
 
 # ------------------------------------------------------------------ Estado (lo esencial + análisis)
@@ -98,7 +106,7 @@ KPIS = [
     (L('SAP Business Network', 'SAP Business Network', 'SAP Business Network'), 'US$7.7 T', L('billones de dólares al año entre empresas', 'in annual B2B commerce (US$7.7 trillion)', 'trilhões de dólares por ano entre empresas')),
     (L('Paquetes infectados en abril', 'Packages infected in April', 'Pacotes infectados em abril'), '4', L('de SAP en npm; robaban tokens', 'SAP packages on npm; they stole tokens', 'da SAP no npm; roubavam tokens')),
     (L('Acceso a datos de clientes', 'Access to customer data', 'Acesso a dados de clientes'), '0', L('indicios hasta ahora, según SAP', 'signs so far, per SAP', 'indícios até agora, segundo a SAP')),
-    (L('Acción de SAP (Fráncfort)', 'SAP shares (Frankfurt)', 'Ação da SAP (Frankfurt)'), '+0.02%', L('194.18 €, vie 27 nov, 08:51 CDMX', '€194.18, Fri Nov 27, 08:51 Mexico City', '194,18 €, sex 27 nov, 08:51 CDMX')),
+    (L('Acción de SAP (Fráncfort)', 'SAP shares (Frankfurt)', 'Ação da SAP (Frankfurt)'), '+0.77%', L('195.64 €, cierre del vie 27 nov', '€195.64, close on Fri Nov 27', '195,64 €, fechamento de sex 27 nov')),
 ]
 
 # ------------------------------------------------------------------ Highlights (confirmado / no confirmado)
@@ -106,9 +114,9 @@ HIGHLIGHTS = [
     L('Confirmado: hay un incidente. SAP reconoce actividad sospechosa en su entorno de desarrollo y dice que actuó de inmediato para proteger a clientes y servicios.',
       'Confirmed: there is an incident. SAP acknowledges suspicious activity in its development environment and says it acted immediately to protect customers and services.',
       'Confirmado: há um incidente. A SAP reconhece atividade suspeita em seu ambiente de desenvolvimento e diz que agiu de imediato para proteger clientes e serviços.'),
-    L('Confirmado por SAP: sin indicios de acceso a datos de clientes. Es el estado de la investigación hasta hoy, no una conclusión final.',
-      'Confirmed by SAP: no sign of access to customer data. That is the state of the investigation as of today, not a final conclusion.',
-      'Confirmado pela SAP: sem indícios de acesso a dados de clientes. É o estado da investigação até hoje, não uma conclusão final.'),
+    L('Confirmado por SAP: sin indicios de acceso a datos de clientes. Por la tarde añadió que la evidencia tampoco muestra afectación en sistemas de clientes; es el estado de la investigación hasta hoy, no una conclusión final.',
+      'Confirmed by SAP: no sign of access to customer data. In the afternoon it added that the evidence shows no impact on customer systems either; that is the state of the investigation as of today, not a final conclusion.',
+      'Confirmado pela SAP: sem indícios de acesso a dados de clientes. À tarde acrescentou que a evidência também não mostra impacto em sistemas de clientes; é o estado da investigação até hoje, não uma conclusão final.'),
     L('Reportado, no confirmado: tokens robados y código copiado y alterado. Lo dijo una fuente interna a Der Spiegel; SAP no ha dicho si hubo copia o cambios de código.',
       'Reported, not confirmed: stolen tokens and code copied and altered. An insider told Der Spiegel; SAP has not said whether code was copied or changed.',
       'Relatado, não confirmado: tokens roubados e código copiado e alterado. Uma fonte interna disse ao Der Spiegel; a SAP não disse se houve cópia ou mudanças de código.'),
@@ -221,5 +229,8 @@ FUENTES = {
     'secweek_npm': ('SecurityWeek · Paquetes npm de SAP, blanco de un ataque a la cadena de suministro de software (abr 2026)', 'https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/amp/'),
     'snyk': ('Snyk · Análisis del ataque a los paquetes @cap-js y mbt de SAP (29 abr 2026)', 'https://snyk.io/es/blog/bun-based-stealer-hits-sap-cap-js-mbt-npm-packages/'),
     'sapfacts': ('SAP · Hoja de datos corporativa (23 jul 2026)', 'https://www.sap.com/hungary/documents/2017/04/4666ecdd-b67c-0010-82c7-eda71af511fa.html'),
-    'quotes': ('Yahoo Finance · Cotización de SAP SE en Xetra (27 nov 2026, 08:51 CDMX)', 'https://finance.yahoo.com/quote/SAP.DE/'),
+    'quotes': ('Yahoo Finance · Cotización de SAP SE en Xetra y Nueva York (27 nov 2026)', 'https://finance.yahoo.com/quote/SAP.DE/'),
+    'prsol': ('PRSOL:CC · SAP confirma el incidente tras actividad sospechosa en GitHub, con su declaración a BleepingComputer (28 nov 2026)', 'https://www.prsol.cc/2026/11/28/sap-confirms-security-incident-after-suspicious-github-activity/'),
+    'demokratis': ('Demokratis · SAP investiga el ciberataque a sus sistemas de desarrollo en GitHub (27 nov 2026)', 'https://demokratis.co.id/en/sap-github-cyberattack-investigation'),
+    'outlook': ('Outlook India · Ciberataque a SAP: lo que la empresa confirmó a Reuters (27 nov 2026)', 'https://www.outlookindia.com/international/sap-cyber-attack-security-incident-github-customer-data-germany'),
 }
