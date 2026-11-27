@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-27T15:11:55Z",
+ "actualizado": "2026-11-27T17:40:02Z",
  "fecha": "2026-11-27",
  "titular": {
-  "es": "Viernes: exportaciones récord en México, arranca el Black Friday y los metales se disparan",
-  "en": "Friday: record exports in Mexico, Black Friday begins and metals soar",
-  "pt": "Sexta: exportações recorde no México, começa a Black Friday e os metais disparam"
+  "es": "Mediodía: Wall Street amplía alzas, Adobe ve gasto en línea récord y el petróleo baja antes de la OPEP+",
+  "en": "Midday: Wall Street extends gains, Adobe sees record online spending and oil falls before OPEC+",
+  "pt": "Meio-dia: Wall Street amplia altas, a Adobe vê gasto online recorde e o petróleo cai antes da OPEP+"
  },
  "items": [
   {
@@ -56,30 +56,30 @@
    "en": "Retail and last mile",
    "pt": "Varejo e última milha",
    "titular": {
-    "es": "Arranca el Black Friday: la NRF espera ventas de fin de año por más de un billón de dólares",
-    "en": "Black Friday begins: the NRF expects holiday sales above $1 trillion",
-    "pt": "Começa a Black Friday: a NRF espera vendas de fim de ano acima de 1 trilhão de dólares"
+    "es": "Adobe espera un gasto en línea de fin de año 6.7% mayor, a 275,100 millones de dólares",
+    "en": "Adobe expects holiday online spending up 6.7% to $275.1 billion",
+    "pt": "A Adobe espera gasto online de fim de ano 6,7% maior, para 275,1 bilhões de dólares"
    },
    "x": {
-    "es": "La Federación Nacional de Minoristas (NRF) espera que las ventas de fin de año en EE. UU. superen por primera vez un billón de dólares, con un alza de 4.2%, y Mastercard pronostica un alza de 5.5% entre el 1 de noviembre y el 24 de diciembre, según Yahoo Finance. Amazon subía 2.8% a las 9:09 CDMX.",
-    "en": "The National Retail Federation (NRF) expects US holiday sales to top $1 trillion for the first time, up 4.2%, and Mastercard forecasts 5.5% growth between November 1 and December 24, according to Yahoo Finance. Amazon was up 2.8% at 10:09 a.m. ET.",
-    "pt": "A Federação Nacional do Varejo (NRF) espera que as vendas de fim de ano nos EUA superem pela primeira vez 1 trilhão de dólares, com alta de 4,2%, e a Mastercard prevê alta de 5,5% entre 1º de novembro e 24 de dezembro, segundo o Yahoo Finance. A Amazon subia 2,8% às 9h09 (Cidade do México)."
+    "es": "Adobe espera que el gasto en línea en EE. UU. del 1 de noviembre al 31 de diciembre crezca 6.7%, a 275,100 millones de dólares, con cerca de 50,000 millones en la semana del Cyber Monday; la NRF espera ventas de fin de año por más de un billón de dólares. Amazon subía 4.3% a las 11:38 CDMX.",
+    "en": "Adobe expects US online spending from November 1 to December 31 to grow 6.7% to $275.1 billion, with nearly $50 billion in Cyber Week; the NRF expects holiday sales above $1 trillion. Amazon was up 4.3% at 12:38 p.m. ET.",
+    "pt": "A Adobe espera que o gasto online nos EUA de 1º de novembro a 31 de dezembro cresça 6,7%, para 275,1 bilhões de dólares, com cerca de 50 bilhões na semana da Cyber Monday; a NRF espera vendas de fim de ano acima de 1 trilhão de dólares. A Amazon subia 4,3% às 11h38 (Cidade do México)."
    },
    "scm": {
-    "es": "Confirma hoy la reposición de inventario de las próximas dos semanas y la capacidad de última milla para el pico de pedidos.",
-    "en": "Confirm inventory replenishment for the next two weeks and last-mile capacity for the order peak today.",
-    "pt": "Confirme hoje a reposição de estoque das próximas duas semanas e a capacidade de última milha para o pico de pedidos."
+    "es": "Confirma la capacidad de última milla y de devoluciones para diciembre; el pico de pedidos llega con el Cyber Monday.",
+    "en": "Confirm last-mile and returns capacity for December; the order peak arrives with Cyber Monday.",
+    "pt": "Confirme a capacidade de última milha e de devoluções para dezembro; o pico de pedidos chega com a Cyber Monday."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben en un Black Friday de sesión corta (27 nov 2026)",
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben en el Black Friday (27 nov 2026)",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
     }
    ]
   },
   {
    "id": "semis",
-   "dir": "mixed",
+   "dir": "up",
    "calor": 2,
    "mx": false,
    "latam": false,
@@ -87,28 +87,28 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônica",
    "titular": {
-    "es": "Los chips suben 1.3%, pero Nvidia pasa a −1.8%; EE. UU. frena financiamientos de centros de datos en Asia",
-    "en": "Chips rise 1.3%, but Nvidia turns −1.8%; US curbs stall data center financing in Asia",
-    "pt": "Os chips sobem 1,3%, mas a Nvidia passa a −1,8%; os EUA travam financiamentos de data centers na Ásia"
+    "es": "Los chips suben 3.2% a media sesión: Micron +6.1%; Nvidia, −0.3%",
+    "en": "Chips rise 3.2% at midday: Micron +6.1%; Nvidia −0.3%",
+    "pt": "Os chips sobem 3,2% no meio da sessão: Micron +6,1%; Nvidia −0,3%"
    },
    "x": {
-    "es": "A las 9:09 CDMX el índice de semiconductores subía 1.3%: Micron +2.8% y TSMC +1.6%, mientras Nvidia bajaba 1.8% tras abrir al alza. Las nuevas reglas de EE. UU. obligan a empresas de Singapur, Malasia, Indonesia, Tailandia y Brasil a pedir licencia para comprar chips avanzados de IA, y bancos frenan financiamientos de centros de datos en Asia, como uno de 6,600 millones de dólares en Malasia, según Bloomberg citado por Investing.com.",
-    "en": "At 10:09 a.m. ET the semiconductor index was up 1.3%: Micron +2.8% and TSMC +1.6%, while Nvidia fell 1.8% after opening higher. New US rules require companies in Singapore, Malaysia, Indonesia, Thailand and Brazil to obtain licenses to buy advanced AI chips, and banks are stalling data center financing in Asia, such as a $6.6 billion loan in Malaysia, according to Bloomberg cited by Investing.com.",
-    "pt": "Às 9h09 (Cidade do México) o índice de semicondutores subia 1,3%: Micron +2,8% e TSMC +1,6%, enquanto a Nvidia caía 1,8% depois de abrir em alta. As novas regras dos EUA obrigam empresas de Singapura, Malásia, Indonésia, Tailândia e Brasil a pedir licença para comprar chips avançados de IA, e bancos travam financiamentos de data centers na Ásia, como um de 6,6 bilhões de dólares na Malásia, segundo a Bloomberg citada pela Investing.com."
+    "es": "A las 11:38 CDMX el índice de semiconductores subía 3.2%: Micron +6.1%, mientras Nvidia bajaba 0.3% (148.90 dólares). Las nuevas reglas de EE. UU. obligan a empresas de Singapur, Malasia, Indonesia, Tailandia y Brasil a pedir licencia para comprar chips avanzados de IA.",
+    "en": "At 12:38 p.m. ET the semiconductor index was up 3.2%: Micron +6.1%, while Nvidia fell 0.3% ($148.90). New US rules require companies in Singapore, Malaysia, Indonesia, Thailand and Brazil to obtain licenses to buy advanced AI chips.",
+    "pt": "Às 11h38 (Cidade do México) o índice de semicondutores subia 3,2%: Micron +6,1%, enquanto a Nvidia caía 0,3% (148,90 dólares). As novas regras dos EUA obrigam empresas de Singapura, Malásia, Indonésia, Tailândia e Brasil a pedir licença para comprar chips avançados de IA."
    },
    "scm": {
-    "es": "Si compras GPU o servidores de IA para operaciones en esos países, revisa con tu proveedor el nuevo requisito de licencia antes de cerrar pedidos.",
-    "en": "If you buy GPUs or AI servers for operations in those countries, review the new license requirement with your supplier before closing orders.",
-    "pt": "Se você compra GPUs ou servidores de IA para operações nesses países, revise com o fornecedor a nova exigência de licença antes de fechar pedidos."
+    "es": "Si compras GPU o servidores de IA para operaciones en esos países, revisa con tu proveedor el requisito de licencia antes de cerrar pedidos.",
+    "en": "If you buy GPUs or AI servers for operations in those countries, review the license requirement with your supplier before closing orders.",
+    "pt": "Se você compra GPUs ou servidores de IA para operações nesses países, revise com o fornecedor a exigência de licença antes de fechar pedidos."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben en un Black Friday de sesión corta (27 nov 2026)",
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben en el Black Friday (27 nov 2026)",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
     },
     {
-     "t": "Investing.com: restricciones a chips de IA, SpaceX y riesgos petroleros, lo que mueve a los mercados (27 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/articles/ai-chip-curbs-musk-giveaway-092034519.html"
+     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 11:38 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
@@ -122,27 +122,23 @@
    "en": "Servers and AI infrastructure",
    "pt": "Servidores e infraestrutura de IA",
    "titular": {
-    "es": "Dell sube 5.8% y Anthropic 4.8%, arriba de su precio de salida",
-    "en": "Dell rises 5.8% and Anthropic 4.8%, above its IPO price",
-    "pt": "A Dell sobe 5,8% e a Anthropic 4,8%, acima do preço do IPO"
+    "es": "Anthropic sube 11% a 91.93 dólares y Dell 5.7%",
+    "en": "Anthropic rises 11% to $91.93 and Dell 5.7%",
+    "pt": "A Anthropic sobe 11% para 91,93 dólares e a Dell 5,7%"
    },
    "x": {
-    "es": "A las 9:09 CDMX Dell subía 5.8% a 314.20 dólares, tras sus ingresos récord de la semana, y Anthropic 4.8% a 86.75 dólares, arriba de su precio de salida de 83, según Investor’s Business Daily.",
-    "en": "At 10:09 a.m. ET Dell was up 5.8% at $314.20, after its record revenue this week, and Anthropic 4.8% at $86.75, above its $83 IPO price, according to Investor’s Business Daily.",
-    "pt": "Às 9h09 (Cidade do México) a Dell subia 5,8% para 314,20 dólares, após a receita recorde da semana, e a Anthropic 4,8% para 86,75 dólares, acima do preço do IPO de 83, segundo o Investor’s Business Daily."
+    "es": "A las 11:38 CDMX Anthropic subía 11.0% a 91.93 dólares, 11% arriba de su precio de salida de 83, y Dell 5.7% a 314.05 dólares.",
+    "en": "At 12:38 p.m. ET Anthropic was up 11.0% at $91.93, 11% above its $83 IPO price, and Dell 5.7% at $314.05.",
+    "pt": "Às 11h38 (Cidade do México) a Anthropic subia 11,0% para 91,93 dólares, 11% acima do preço do IPO de 83, e a Dell 5,7% para 314,05 dólares."
    },
    "scm": {
-    "es": "La demanda de servidores de IA sigue fuerte: asegura capacidad y plazos de entrega para el primer trimestre.",
-    "en": "AI server demand remains strong: secure capacity and delivery dates for the first quarter.",
-    "pt": "A demanda por servidores de IA segue forte: garanta capacidade e prazos de entrega para o primeiro trimestre."
+    "es": "La demanda de infraestructura de IA sigue fuerte: asegura capacidad y plazos de entrega para el primer trimestre.",
+    "en": "Demand for AI infrastructure remains strong: secure capacity and delivery dates for the first quarter.",
+    "pt": "A demanda por infraestrutura de IA segue forte: garanta capacidade e prazos de entrega para o primeiro trimestre."
    },
    "fuentes": [
     {
-     "t": "Investor's Business Daily: el Dow sube 500 puntos mientras Nvidia duda; Anthropic y Tesla suben (27 nov 2026)",
-     "u": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-dow-jumps.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 09:09 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -157,14 +153,14 @@
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "La plata sube 8.4%, el oro 2.8% y el cobre 3.0% desde el miércoles",
-    "en": "Silver rises 8.4%, gold 2.8% and copper 3.0% since Wednesday",
-    "pt": "A prata sobe 8,4%, o ouro 2,8% e o cobre 3,0% desde quarta"
+    "es": "La plata sube 8% y el cobre 3.3% desde el miércoles; UBS ve oportunidad tras la caída de la plata",
+    "en": "Silver rises 8% and copper 3.3% since Wednesday; UBS sees opportunity after silver’s drop",
+    "pt": "A prata sobe 8% e o cobre 3,3% desde quarta; o UBS vê oportunidade após a queda da prata"
    },
    "x": {
-    "es": "A las 8:59 CDMX la plata estaba en 43.94 dólares, el oro en 3,664 y el cobre en 5.59 dólares por libra, con alzas de 8.4%, 2.8% y 3.0% desde el cierre del miércoles. ING atribuye parte del movimiento al cierre de posiciones cortas; en Londres subían Fresnillo y Antofagasta, según Investing.com.",
-    "en": "At 9:59 a.m. ET silver stood at $43.94, gold at $3,664 and copper at $5.59 per pound, up 8.4%, 2.8% and 3.0% from Wednesday's close. ING attributes part of the move to short covering; in London, Fresnillo and Antofagasta rose, according to Investing.com.",
-    "pt": "Às 8h59 (Cidade do México) a prata estava a 43,94 dólares, o ouro a 3.664 e o cobre a 5,59 dólares por libra, com altas de 8,4%, 2,8% e 3,0% desde o fechamento de quarta. O ING atribui parte do movimento à cobertura de posições vendidas; em Londres subiam Fresnillo e Antofagasta, segundo a Investing.com."
+    "es": "A las 11:28 CDMX la plata estaba en 43.77 dólares (+8.0% desde el miércoles), el oro en 3,664 (+2.8%) y el cobre en 5.60 dólares por libra (+3.3%). En Canadá, el S&P/TSX subía con los metales básicos al frente, según MT Newswires.",
+    "en": "At 12:28 p.m. ET silver stood at $43.77 (+8.0% from Wednesday), gold at $3,664 (+2.8%) and copper at $5.60 per pound (+3.3%). In Canada, the S&P/TSX rose led by base metals, according to MT Newswires.",
+    "pt": "Às 11h28 (Cidade do México) a prata estava a 43,77 dólares (+8,0% desde quarta), o ouro a 3.664 (+2,8%) e o cobre a 5,60 dólares por libra (+3,3%). No Canadá, o S&P/TSX subia com os metais básicos à frente, segundo a MT Newswires."
    },
    "scm": {
     "es": "Los metales suben rápido: cierra hoy las cotizaciones vigentes de cable, conectores y empaques metálicos.",
@@ -173,18 +169,22 @@
    },
    "fuentes": [
     {
-     "t": "Investing.com: el FTSE 100 sube con las mineras por el rebote de los metales (27 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-today-stocks-rise-085208572.html"
+     "t": "24/7 Wall St.: la plata sube 8% mientras Wall Street estaba cerrado por Acción de Gracias (27 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/commodities/articles/silver-prices-exploded-8-overnight-162731372.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 09:09 CDMX)",
+     "t": "MT Newswires: el S&P/TSX sube a media mañana con metales básicos y tecnología (27 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/world-indices/articles/p-tsx-composite-index-higher-152432062.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   {
    "id": "energia",
-   "dir": "mixed",
+   "dir": "down",
    "calor": 2,
    "mx": true,
    "latam": true,
@@ -192,27 +192,27 @@
    "en": "Energy and fuels",
    "pt": "Energia e combustíveis",
    "titular": {
-    "es": "El Brent baja a 95.30 dólares tras tocar su máximo desde el 9 de noviembre; la OPEP+ decide el domingo",
-    "en": "Brent eases to $95.30 after touching its highest since November 9; OPEC+ decides Sunday",
-    "pt": "O Brent cai para 95,30 dólares após tocar a máxima desde 9 de novembro; a OPEP+ decide no domingo"
+    "es": "El Brent baja a 93.98 dólares: la OPEP+ mantendría sus metas y Rystad prevé superávit en 2027",
+    "en": "Brent falls to $93.98: OPEC+ would keep targets and Rystad sees a 2027 surplus",
+    "pt": "O Brent cai para 93,98 dólares: a OPEP+ manteria as metas e a Rystad prevê superávit em 2027"
    },
    "x": {
-    "es": "El Brent de enero estaba en 95.30 dólares a las 8:52 CDMX, desde 96.57 el jueves, después de tocar en la madrugada su nivel más alto desde el 9 de noviembre por el ataque a la refinería saudí de Jazan, según Reuters. La OPEP+ tiene un acuerdo en principio para mantener sus metas al menos en el primer trimestre de 2027. El diésel en futuros estaba en 3.72 dólares por galón.",
-    "en": "January Brent stood at $95.30 at 9:52 a.m. ET, from $96.57 on Thursday, after touching its highest since November 9 overnight on the attack on Saudi Arabia’s Jazan refinery, according to Reuters. OPEC+ has an agreement in principle to keep its targets for at least the first quarter of 2027. Diesel futures stood at $3.72 a gallon.",
-    "pt": "O Brent de janeiro estava a 95,30 dólares às 8h52 (Cidade do México), desde 96,57 na quinta, depois de tocar de madrugada o maior nível desde 9 de novembro pelo ataque à refinaria saudita de Jazan, segundo a Reuters. A OPEP+ tem um acordo em princípio para manter suas metas ao menos no primeiro trimestre de 2027. O diesel em futuros estava a 3,72 dólares por galão."
+    "es": "El Brent de enero estaba en 93.98 dólares y el WTI en 82.71 a las 11:28 CDMX, abajo de sus niveles del jueves. La OPEP+ tiene un acuerdo en principio para mantener sus metas en el primer trimestre de 2027, Irak pide una cuota más alta y Rystad Energy prevé un superávit de unos 5 millones de barriles diarios en 2027, según Reuters. El diésel en futuros estaba en 3.67 dólares por galón.",
+    "en": "January Brent stood at $93.98 and WTI at $82.71 at 12:28 p.m. ET, below Thursday’s levels. OPEC+ has an agreement in principle to keep its targets in the first quarter of 2027, Iraq is seeking a higher quota and Rystad Energy forecasts a surplus of about 5 million barrels a day in 2027, according to Reuters. Diesel futures stood at $3.67 a gallon.",
+    "pt": "O Brent de janeiro estava a 93,98 dólares e o WTI a 82,71 às 11h28 (Cidade do México), abaixo dos níveis de quinta. A OPEP+ tem um acordo em princípio para manter suas metas no primeiro trimestre de 2027, o Iraque pede uma cota maior e a Rystad Energy prevê um superávit de cerca de 5 milhões de barris por dia em 2027, segundo a Reuters. O diesel em futuros estava a 3,67 dólares por galão."
    },
    "scm": {
-    "es": "No fijes recargos de combustible de diciembre antes de la OPEP+ del domingo; mantén el ajuste semanal.",
-    "en": "Do not set December fuel surcharges before Sunday’s OPEC+ meeting; keep weekly adjustment.",
-    "pt": "Não fixe sobretaxas de combustível de dezembro antes da OPEP+ de domingo; mantenha o ajuste semanal."
+    "es": "Negocia recargos de combustible indexados al diésel en lugar de fijos: con un superávit previsto para 2027, el precio podría bajar.",
+    "en": "Negotiate fuel surcharges indexed to diesel rather than fixed: with a surplus forecast for 2027, prices could fall.",
+    "pt": "Negocie sobretaxas de combustível indexadas ao diesel em vez de fixas: com superávit previsto para 2027, o preço pode cair."
    },
    "fuentes": [
     {
-     "t": "Reuters: el petróleo va camino de romper una racha de tres semanas a la baja por temores de oferta (27 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-track-snap-3-week-082519990.html"
+     "t": "Reuters: Irak negocia con la OPEP una cuota de producción más alta antes de la reunión de la OPEP+ (27 nov 2026)",
+     "u": "https://finance.yahoo.com/news/iraq-talks-opec-higher-oil-163604121.html"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 09:09 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 11:38 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]

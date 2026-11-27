@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-27-mediodia-mexico",
+ "fecha": "2026-11-27",
+ "momento": "mediodia",
+ "mercado": "mexico",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "El IPC sube 1.8% tras el récord exportador y el peso se mantiene en 19.67",
+  "esencial": [
+   "A las 11:18 CDMX el S&P/BMV IPC subía 1.81% (71,625.02) y a las 11:38 el peso cotizaba en 19.67 por dólar (−0.15% el dólar).",
+   "Las exportaciones de octubre crecieron 30.2%, a 86,009 millones de dólares, según el INEGI; las automotrices, sólo 5.6%.",
+   "Para supply chain: hoy rige el FIX de 19.7040 y el lunes el de 19.7203; con el peso de mercado en 19.67, compara antes de pagar al FIX."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el IPC subía 2.07% y el peso operaba en 19.65, tras el récord de exportaciones de octubre."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:18 CDMX el S&P/BMV IPC subía 1.81% a 71,625.02 puntos. A las 11:38 CDMX el peso cotizaba en 19.67 por dólar (−0.15% el dólar), aunque el índice del dólar subía 0.32%. Hoy rige para pagos el FIX de 19.7040; el lunes 30 rige el de 19.7203."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El peso se mantuvo estable pese al dólar más fuerte en el mundo. Las exportaciones de octubre sumaron 86,009 millones de dólares (+30.2%) y la balanza tuvo un superávit de 298.2 millones; de enero a octubre las exportaciones ya superan todo 2025, según el INEGI."
+   }
+  ],
+  "scm": "Si pagas en dólares, compara el FIX de 19.7040 con el tipo de mercado de 19.67 antes de liquidar. Si estás en electrónica o cómputo, asegura capacidad de cruce para diciembre."
+ },
+ "en": {
+  "titular": "The IPC rises 1.8% after the export record and the peso holds at 19.67",
+  "esencial": [
+   "At 11:18 a.m. Mexico City time the S&P/BMV IPC was up 1.81% (71,625.02) and at 11:38 the peso traded at 19.67 per dollar (dollar −0.15%).",
+   "October exports grew 30.2% to $86.009 billion, according to INEGI; auto exports only 5.6%.",
+   "For supply chain: today the 19.7040 FIX applies and on Monday the 19.7203; with the market peso at 19.67, compare before paying at the FIX."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the IPC was up 2.07% and the peso traded at 19.65, after the October export record."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 11:18 a.m. Mexico City time the S&P/BMV IPC was up 1.81% at 71,625.02 points. At 11:38 a.m. the peso traded at 19.67 per dollar (dollar −0.15%), although the dollar index rose 0.32%. Today the 19.7040 FIX applies to payments; on Monday the 30th the 19.7203 one applies."
+   },
+   {
+    "t": "What surprised",
+    "x": "The peso held steady despite a stronger dollar globally. October exports totaled $86.009 billion (+30.2%) and the trade balance posted a $298.2 million surplus; January to October exports already exceed all of 2025, according to INEGI."
+   }
+  ],
+  "scm": "If you pay in dollars, compare the 19.7040 FIX with the 19.67 market rate before settling. If you are in electronics or computing, secure crossing capacity for December."
+ },
+ "pt": {
+  "titular": "O IPC sobe 1,8% após o recorde exportador e o peso se mantém em 19,67",
+  "esencial": [
+   "Às 11h18 (Cidade do México) o S&P/BMV IPC subia 1,81% (71.625,02) e às 11h38 o peso era cotado a 19,67 por dólar (dólar −0,15%).",
+   "As exportações de outubro cresceram 30,2%, para 86,009 bilhões de dólares, segundo o INEGI; as automotivas, só 5,6%.",
+   "Para supply chain: hoje vale o FIX de 19,7040 e na segunda o de 19,7203; com o peso de mercado em 19,67, compare antes de pagar ao FIX."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o IPC subia 2,07% e o peso operava em 19,65, após o recorde de exportações de outubro."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h18 (Cidade do México) o S&P/BMV IPC subia 1,81% para 71.625,02 pontos. Às 11h38 o peso era cotado a 19,67 por dólar (dólar −0,15%), embora o índice do dólar subisse 0,32%. Hoje vale para pagamentos o FIX de 19,7040; na segunda, dia 30, vale o de 19,7203."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O peso se manteve estável apesar do dólar mais forte no mundo. As exportações de outubro somaram 86,009 bilhões de dólares (+30,2%) e a balança teve superávit de 298,2 milhões; de janeiro a outubro as exportações já superam todo 2025, segundo o INEGI."
+   }
+  ],
+  "scm": "Se você paga em dólares, compare o FIX de 19,7040 com a taxa de mercado de 19,67 antes de liquidar. Se está em eletrônica ou computação, garanta capacidade de travessia para dezembro."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 27 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Energy Magazine: México rompe récord de exportaciones por la IA; los autos siguen desacelerando (27 nov 2026)",
+   "u": "https://energymagazine.mx/2026/11/mexico-rompe-record-de-exportaciones-por-la-ia-autos-continuan-desacelerando/"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (26 nov 2026: 19.7203)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

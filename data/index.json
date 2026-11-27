@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-27-mediodia-global",
+   "fecha": "2026-11-27",
+   "momento": "mediodia",
+   "mercado": "global",
+   "titular_es": "Wall Street amplía sus alzas antes del cierre anticipado: el Nasdaq sube 1.9%, Micron 6% y Anthropic 11%",
+   "titular_en": "Wall Street extends gains ahead of the early close: the Nasdaq rises 1.9%, Micron 6% and Anthropic 11%",
+   "titular_pt": "Wall Street amplia as altas antes do fechamento antecipado: o Nasdaq sobe 1,9%, a Micron 6% e a Anthropic 11%"
+  },
+  {
+   "id": "2026-11-27-mediodia-latam",
+   "fecha": "2026-11-27",
+   "momento": "mediodia",
+   "mercado": "latam",
+   "titular_es": "El Ibovespa toma utilidades (−0.2%) tras su salto, pero el real sigue fortaleciéndose a 5.53",
+   "titular_en": "The Ibovespa takes profits (−0.2%) after its jump, but the real keeps strengthening to 5.53",
+   "titular_pt": "O Ibovespa realiza lucros (−0,2%) após o salto, mas o real segue se fortalecendo para 5,53"
+  },
+  {
+   "id": "2026-11-27-mediodia-mexico",
+   "fecha": "2026-11-27",
+   "momento": "mediodia",
+   "mercado": "mexico",
+   "titular_es": "El IPC sube 1.8% tras el récord exportador y el peso se mantiene en 19.67",
+   "titular_en": "The IPC rises 1.8% after the export record and the peso holds at 19.67",
+   "titular_pt": "O IPC sobe 1,8% após o recorde exportador e o peso se mantém em 19,67"
+  },
+  {
    "id": "2026-11-27-apertura-global",
    "fecha": "2026-11-27",
    "momento": "apertura",
@@ -782,33 +809,6 @@
    "titular_es": "El IPC cae 0.9% y el peso se debilita 1% a 18.60; el FIX del martes fue de 18.4677",
    "titular_en": "The IPC falls 0.9% and the peso weakens 1% to 18.60; Tuesday's FIX was 18.4677",
    "titular_pt": "O IPC cai 0,9% e o peso se enfraquece 1% para 18,60; o FIX de terça foi de 18,4677"
-  },
-  {
-   "id": "2026-11-18-premercado-global",
-   "fecha": "2026-11-18",
-   "momento": "premercado",
-   "mercado": "global",
-   "titular_es": "Nvidia supera lo esperado y los futuros del Nasdaq suben 1.2%; el cobre se hunde 3.9% y el oro baja de 3,800",
-   "titular_en": "Nvidia beats and Nasdaq futures rise 1.2%; copper sinks 3.9% and gold drops below $3,800",
-   "titular_pt": "A Nvidia supera o esperado e os futuros do Nasdaq sobem 1,2%; o cobre afunda 3,9% e o ouro cai abaixo de 3.800"
-  },
-  {
-   "id": "2026-11-18-premercado-latam",
-   "fecha": "2026-11-18",
-   "momento": "premercado",
-   "mercado": "latam",
-   "titular_es": "SQM triplica su utilidad pero advierte litio más barato; el cobre cae 3.9% y presiona a Chile y Perú",
-   "titular_en": "SQM triples its profit but warns of cheaper lithium; copper falls 3.9%, weighing on Chile and Peru",
-   "titular_pt": "A SQM triplica o lucro, mas alerta para lítio mais barato; o cobre cai 3,9% e pressiona Chile e Peru"
-  },
-  {
-   "id": "2026-11-18-premercado-mexico",
-   "fecha": "2026-11-18",
-   "momento": "premercado",
-   "mercado": "mexico",
-   "titular_es": "El peso amanece más débil en 18.50 con el dólar en máximos; desde hoy rige el FIX de 18.5525",
-   "titular_en": "The peso starts weaker at 18.50 with the dollar near highs; the 18.5525 FIX applies from today",
-   "titular_pt": "O peso amanhece mais fraco em 18,50 com o dólar perto das máximas; a partir de hoje vale o FIX de 18,5525"
   }
  ]
 }

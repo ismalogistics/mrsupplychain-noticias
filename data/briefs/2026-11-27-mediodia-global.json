@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-27-mediodia-global",
+ "fecha": "2026-11-27",
+ "momento": "mediodia",
+ "mercado": "global",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "Wall Street amplía sus alzas antes del cierre anticipado: el Nasdaq sube 1.9%, Micron 6% y Anthropic 11%",
+  "esencial": [
+   "A las 11:38 CDMX el S&P 500 subía 1.39%, el Nasdaq 1.86% y el Dow 1.15%, más que en la apertura; el índice de chips subía 3.2% y el VIX bajaba a 24.6.",
+   "Adobe espera que el gasto en línea de fin de año en EE. UU. crezca 6.7%, a 275,100 millones de dólares, según Yahoo Finance.",
+   "Para supply chain: el Brent de enero baja a 93.98 dólares antes de la OPEP+ del domingo; Rystad prevé un superávit de petróleo de 5 millones de barriles diarios en 2027."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura, Wall Street subía cerca de 0.7% en una sesión corta de Black Friday, con Nvidia a la baja y la plata con un alza de 8.4% desde el miércoles."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:38 CDMX el S&P 500 subía 1.39% (7,282.46), el Nasdaq 1.86% (24,024.40) y el Dow 1.15% (50,761.99); el VIX bajaba 8.3% a 24.6. El índice de semiconductores subía 3.2%: Micron +6.1%, mientras Nvidia bajaba 0.3% (148.90 dólares). Anthropic subía 11.0% a 91.93 dólares, Dell 5.7% y Amazon 4.3%. El Treasury a 10 años subía a 4.93%. El Brent de enero estaba en 93.98 dólares y el WTI en 82.71, abajo de sus niveles del jueves; desde el miércoles, la plata subía 8.0% (43.77 dólares) y el cobre 3.3% (5.60 dólares por libra)."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "Las bolsas ampliaron sus alzas en lugar de recortarlas. Adobe espera que el gasto en línea de fin de año en EE. UU. crezca 6.7%, a 275,100 millones de dólares, con cerca de 50,000 millones en la semana del Cyber Monday. El petróleo bajó: la OPEP+ tiene un acuerdo en principio para mantener sus metas en el primer trimestre de 2027, Irak pide una cuota más alta y Rystad Energy prevé un superávit de unos 5 millones de barriles diarios en 2027, según Reuters."
+   }
+  ],
+  "scm": "El consumo de fin de año en EE. UU. se ve fuerte: confirma la capacidad de última milla y de devoluciones para diciembre. Con el petróleo a la baja y un superávit previsto para 2027, negocia recargos de combustible indexados al diésel en lugar de fijos."
+ },
+ "en": {
+  "titular": "Wall Street extends gains ahead of the early close: the Nasdaq rises 1.9%, Micron 6% and Anthropic 11%",
+  "esencial": [
+   "At 12:38 p.m. ET the S&P 500 was up 1.39%, the Nasdaq 1.86% and the Dow 1.15%, more than at the open; the chip index rose 3.2% and the VIX fell to 24.6.",
+   "Adobe expects US holiday online spending to grow 6.7% to $275.1 billion, according to Yahoo Finance.",
+   "For supply chain: January Brent falls to $93.98 ahead of Sunday’s OPEC+ meeting; Rystad forecasts a 5 million barrel-a-day oil surplus in 2027."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open, Wall Street was up about 0.7% in a short Black Friday session, with Nvidia lower and silver up 8.4% from Wednesday."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 12:38 p.m. ET the S&P 500 was up 1.39% (7,282.46), the Nasdaq 1.86% (24,024.40) and the Dow 1.15% (50,761.99); the VIX fell 8.3% to 24.6. The semiconductor index rose 3.2%: Micron +6.1%, while Nvidia fell 0.3% ($148.90). Anthropic rose 11.0% to $91.93, Dell 5.7% and Amazon 4.3%. The 10-year Treasury rose to 4.93%. January Brent stood at $93.98 and WTI at $82.71, below Thursday’s levels; from Wednesday, silver was up 8.0% ($43.77) and copper 3.3% ($5.60 per pound)."
+   },
+   {
+    "t": "What surprised",
+    "x": "Stocks extended gains instead of paring them. Adobe expects US holiday online spending to grow 6.7% to $275.1 billion, with nearly $50 billion in Cyber Week. Oil fell: OPEC+ has an agreement in principle to keep its targets for the first quarter of 2027, Iraq is seeking a higher quota and Rystad Energy forecasts a surplus of about 5 million barrels a day in 2027, according to Reuters."
+   }
+  ],
+  "scm": "US holiday consumption looks strong: confirm last-mile and returns capacity for December. With oil lower and a surplus forecast for 2027, negotiate fuel surcharges indexed to diesel rather than fixed."
+ },
+ "pt": {
+  "titular": "Wall Street amplia as altas antes do fechamento antecipado: o Nasdaq sobe 1,9%, a Micron 6% e a Anthropic 11%",
+  "esencial": [
+   "Às 11h38 (Cidade do México) o S&P 500 subia 1,39%, o Nasdaq 1,86% e o Dow 1,15%, mais que na abertura; o índice de chips subia 3,2% e o VIX caía para 24,6.",
+   "A Adobe espera que o gasto online de fim de ano nos EUA cresça 6,7%, para 275,1 bilhões de dólares, segundo o Yahoo Finance.",
+   "Para supply chain: o Brent de janeiro cai para 93,98 dólares antes da OPEP+ de domingo; a Rystad prevê um superávit de petróleo de 5 milhões de barris por dia em 2027."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura, Wall Street subia cerca de 0,7% numa sessão curta de Black Friday, com a Nvidia em queda e a prata com alta de 8,4% desde quarta."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h38 (Cidade do México) o S&P 500 subia 1,39% (7.282,46), o Nasdaq 1,86% (24.024,40) e o Dow 1,15% (50.761,99); o VIX caía 8,3% para 24,6. O índice de semicondutores subia 3,2%: Micron +6,1%, enquanto a Nvidia caía 0,3% (148,90 dólares). A Anthropic subia 11,0% para 91,93 dólares, a Dell 5,7% e a Amazon 4,3%. O Treasury de 10 anos subia para 4,93%. O Brent de janeiro estava a 93,98 dólares e o WTI a 82,71, abaixo dos níveis de quinta; desde quarta, a prata subia 8,0% (43,77 dólares) e o cobre 3,3% (5,60 dólares por libra)."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "As bolsas ampliaram as altas em vez de reduzi-las. A Adobe espera que o gasto online de fim de ano nos EUA cresça 6,7%, para 275,1 bilhões de dólares, com cerca de 50 bilhões na semana da Cyber Monday. O petróleo caiu: a OPEP+ tem um acordo em princípio para manter suas metas no primeiro trimestre de 2027, o Iraque pede uma cota maior e a Rystad Energy prevê um superávit de cerca de 5 milhões de barris por dia em 2027, segundo a Reuters."
+   }
+  ],
+  "scm": "O consumo de fim de ano nos EUA parece forte: confirme a capacidade de última milha e de devoluções para dezembro. Com o petróleo em queda e um superávit previsto para 2027, negocie sobretaxas de combustível indexadas ao diesel em vez de fixas."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben en el Black Friday (27 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+  },
+  {
+   "t": "Reuters: Irak negocia con la OPEP una cuota de producción más alta antes de la reunión de la OPEP+ (27 nov 2026)",
+   "u": "https://finance.yahoo.com/news/iraq-talks-opec-higher-oil-163604121.html"
+  },
+  {
+   "t": "24/7 Wall St.: la plata sube 8% mientras Wall Street estaba cerrado por Acción de Gracias (27 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/silver-prices-exploded-8-overnight-162731372.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

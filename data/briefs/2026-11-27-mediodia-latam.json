@@ -1,0 +1,90 @@
+{
+ "id": "2026-11-27-mediodia-latam",
+ "fecha": "2026-11-27",
+ "momento": "mediodia",
+ "mercado": "latam",
+ "hora": "11:38 CDMX",
+ "es": {
+  "titular": "El Ibovespa toma utilidades (−0.2%) tras su salto, pero el real sigue fortaleciéndose a 5.53",
+  "esencial": [
+   "A las 11:23 CDMX el Ibovespa bajaba 0.23% (176,398.05) y a las 11:38 el S&P/TSX de Canadá subía 1.11%.",
+   "El dólar bajaba a 5.53 reales (−2.11%) y 3,506 pesos colombianos (−1.16%).",
+   "Para supply chain: el real está en su nivel más fuerte de la semana; cubre hoy los pagos en reales."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que se esperaba",
+    "x": "En la apertura el Ibovespa subía 1.17% después de ganar 6.07% el jueves, y el real se fortalecía a 5.57."
+   },
+   {
+    "t": "Cómo va",
+    "x": "A las 11:23 CDMX el Ibovespa bajaba 0.23% a 176,398.05 y a las 11:38 el S&P/TSX de Canadá subía 1.11% a 34,807.51, con metales básicos y tecnología al frente, según MT Newswires. El dólar estaba en 5.53 reales (−2.11%), 3,506 pesos colombianos (−1.16%) y 1,034 pesos chilenos (−0.11%)."
+   },
+   {
+    "t": "Lo que sorprendió",
+    "x": "El Ibovespa borró su alza de la apertura por toma de utilidades tras el salto del jueves, aunque el real siguió fortaleciéndose. El cobre subía 3.3% desde el miércoles, a 5.60 dólares por libra."
+   }
+  ],
+  "scm": "Con el real en 5.53, cubre hoy tus pagos en reales; con el cobre al alza, cierra hoy las cotizaciones vigentes de insumos de cobre de Chile y Perú."
+ },
+ "en": {
+  "titular": "The Ibovespa takes profits (−0.2%) after its jump, but the real keeps strengthening to 5.53",
+  "esencial": [
+   "At 12:23 p.m. ET the Ibovespa was down 0.23% (176,398.05) and at 12:38 Canada's S&P/TSX was up 1.11%.",
+   "The dollar fell to 5.53 reais (−2.11%) and 3,506 Colombian pesos (−1.16%).",
+   "For supply chain: the real is at its strongest of the week; cover payments in reais today."
+  ],
+  "bloques": [
+   {
+    "t": "What was expected",
+    "x": "At the open the Ibovespa rose 1.17% after gaining 6.07% on Thursday, and the real strengthened to 5.57."
+   },
+   {
+    "t": "How it is going",
+    "x": "At 12:23 p.m. ET the Ibovespa was down 0.23% at 176,398.05 and at 12:38 Canada's S&P/TSX was up 1.11% at 34,807.51, led by base metals and technology, according to MT Newswires. The dollar stood at 5.53 reais (−2.11%), 3,506 Colombian pesos (−1.16%) and 1,034 Chilean pesos (−0.11%)."
+   },
+   {
+    "t": "What surprised",
+    "x": "The Ibovespa erased its opening gain on profit-taking after Thursday's jump, although the real kept strengthening. Copper was up 3.3% from Wednesday at $5.60 per pound."
+   }
+  ],
+  "scm": "With the real at 5.53, cover your payments in reais today; with copper rising, close valid quotes for copper inputs from Chile and Peru today."
+ },
+ "pt": {
+  "titular": "O Ibovespa realiza lucros (−0,2%) após o salto, mas o real segue se fortalecendo para 5,53",
+  "esencial": [
+   "Às 11h23 (Cidade do México) o Ibovespa caía 0,23% (176.398,05) e às 11h38 o S&P/TSX do Canadá subia 1,11%.",
+   "O dólar caía para R$ 5,53 (−2,11%) e 3.506 pesos colombianos (−1,16%).",
+   "Para supply chain: o real está no nível mais forte da semana; cubra hoje os pagamentos em reais."
+  ],
+  "bloques": [
+   {
+    "t": "O que se esperava",
+    "x": "Na abertura o Ibovespa subia 1,17% depois de ganhar 6,07% na quinta, e o real se fortalecia para 5,57."
+   },
+   {
+    "t": "Como está",
+    "x": "Às 11h23 (Cidade do México) o Ibovespa caía 0,23% para 176.398,05 e às 11h38 o S&P/TSX do Canadá subia 1,11% para 34.807,51, com metais básicos e tecnologia à frente, segundo a MT Newswires. O dólar estava em R$ 5,53 (−2,11%), 3.506 pesos colombianos (−1,16%) e 1.034 pesos chilenos (−0,11%)."
+   },
+   {
+    "t": "O que surpreendeu",
+    "x": "O Ibovespa apagou a alta da abertura por realização de lucros após o salto de quinta, embora o real tenha seguido se fortalecendo. O cobre subia 3,3% desde quarta, para 5,60 dólares por libra."
+   }
+  ],
+  "scm": "Com o real a 5,53, cubra hoje seus pagamentos em reais; com o cobre em alta, feche hoje as cotações vigentes de insumos de cobre do Chile e do Peru."
+ },
+ "fuentes": [
+  {
+   "t": "MT Newswires: el S&P/TSX sube a media mañana con metales básicos y tecnología (27 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/world-indices/articles/p-tsx-composite-index-higher-152432062.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 11:38 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}
