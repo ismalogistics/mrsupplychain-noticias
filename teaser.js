@@ -10,10 +10,10 @@
   };
   var data = null, cur = null, box = null;
   // Especial destacado arriba del hero (se oculta solo después de HASTA).
-  var ESP = { url: BASE + 'especiales/paro-aereo-eeuu-2026/?utm_source=home&utm_medium=banner&utm_campaign=paroaereo2026', hasta: '2026-12-04T23:59:00-06:00',
-    es: { k: 'Última hora · Especial', h: 'Sigue el caos aéreo en EE. UU.', s: 'Ya se conoce la causa del paro del 13 de noviembre, y Delta y O\'Hare volvieron a fallar en plena semana de Thanksgiving. Qué significa para la carga y qué hacer hasta el Cyber Monday.', b: 'Ver el especial' },
-    en: { k: 'Breaking · Special', h: 'US air chaos continues', s: 'The cause of the November 13 shutdown is now known, and Delta and O\'Hare failed again in the middle of Thanksgiving week. What it means for cargo and what to do through Cyber Monday.', b: 'See the special' },
-    pt: { k: 'Última hora · Especial', h: 'O caos aéreo nos EUA continua', s: 'Já se conhece a causa da paralisação de 13 de novembro, e Delta e O\'Hare voltaram a falhar em plena semana de Thanksgiving. O que significa para a carga e o que fazer até a Cyber Monday.', b: 'Ver o especial' } };
+  var ESP = { url: BASE + 'especiales/ciberataque-sap-2026/?utm_source=home&utm_medium=banner&utm_campaign=sap2026', hasta: '2026-12-04T23:59:00-06:00',
+    es: { k: 'Última hora · Especial', h: 'Ciberataque a SAP', s: 'Entraron a la fábrica del software que mueve la cadena de suministro. Qué se sabe, qué no, por qué puede ser un parteaguas para supply chain y qué hacer esta semana.', b: 'Ver el especial' },
+    en: { k: 'Breaking · Special', h: 'Cyberattack on SAP', s: 'They got into the factory of the software that runs the supply chain. What is known, what is not, why it may be a watershed for supply chain and what to do this week.', b: 'See the special' },
+    pt: { k: 'Última hora · Especial', h: 'Ataque cibernético à SAP', s: 'Entraram na fábrica do software que move a cadeia de suprimentos. O que se sabe, o que não, por que pode ser um divisor de águas para supply chain e o que fazer nesta semana.', b: 'Ver o especial' } };
   var espBox = null, espCur = null;
   function renderEsp() {
     var l = lang(); if (!espBox || l === espCur) return; espCur = l; var E = ESP[l];
