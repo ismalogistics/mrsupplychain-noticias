@@ -1,0 +1,103 @@
+{
+ "id": "2026-11-27-premercado-global",
+ "fecha": "2026-11-27",
+ "momento": "premercado",
+ "mercado": "global",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Viernes de rebote: los futuros del Nasdaq suben 2.6%, Corea 4.3% y la plata se dispara 10%; Wall Street cierra a las 12:00 CDMX",
+  "esencial": [
+   "A las 4:58 CDMX los futuros del Nasdaq 100 subían 2.61%, los del S&P 500 1.94% y los del Dow 1.49%; el KOSPI cerró con +4.34% y el Nikkei con +2.11%.",
+   "Desde el cierre del miércoles, la plata subía 10.2% a 44.66 dólares, el oro 4.0% y el cobre 4.8% a 5.68 dólares por libra; el Brent de enero llegó a su nivel más alto desde el 9 de noviembre.",
+   "Para supply chain: hoy Wall Street cierra a las 12:00 CDMX; con el cobre de vuelta arriba de 5.6 dólares, cierra hoy las cotizaciones de cable y conectores que tengas vigentes."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "Ayer Wall Street no operó por el Día de Acción de Gracias. Las acciones de tecnología se recuperaron en Europa y Asia, y en preapertura Nvidia subía cerca de 4% y Micron 6%, según Yahoo Finance. Bloomberg reportó que las nuevas restricciones de EE. UU. a los chips de IA, que obligan a empresas de Singapur, Malasia, Indonesia, Tailandia y Brasil a pedir licencia, frenan financiamientos de centros de datos en Asia por miles de millones de dólares, según Investing.com. En Medio Oriente, un proyectil golpeó la refinería saudí de Jazan, que detuvo parte de sus operaciones, y Bloomberg reportó que Irak retrasó embarques de 20 a 30 millones de barriles."
+   },
+   {
+    "t": "Asia, Europa y futuros",
+    "x": "Asia cerró con fuertes alzas: KOSPI +4.34% (4,915.68), Shanghái +3.74%, Hang Seng +3.32% y Nikkei +2.11% (58,711.11). A las 4:53 CDMX Europa subía: Euro Stoxx 50 +1.36% (6,096.78), DAX +0.93% y FTSE 100 +0.84%, con las mineras al frente. A las 4:58 CDMX los futuros del Nasdaq 100 subían 2.61%, los del S&P 500 1.94% y los del Dow 1.49%; el VIX bajaba a 24.6. El Brent de enero estaba en 96.50 dólares a las 4:57 CDMX, después de tocar su nivel más alto desde el 9 de noviembre, y el WTI en 85.28. Desde el cierre del miércoles, la plata subía 10.2% a 44.66 dólares, el oro 4.0% a 3,707.50 y el cobre 4.8% a 5.68 dólares por libra."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Hoy las bolsas de EE. UU. cierran a las 12:00 CDMX y el mercado de bonos a las 13:00 CDMX; no hay datos económicos importantes y arranca el Black Friday. La OPEP+ se reúne el domingo 29 y tiene un acuerdo en principio para mantener sus metas de producción al menos en el primer trimestre de 2027, según Reuters. El martes 1 de diciembre sale el ISM manufacturero de EE. UU. y el 8 y 9 de diciembre se reúne la Fed."
+   }
+  ],
+  "scm": "Hoy es día corto en EE. UU.: confirma temprano tus cruces y recolecciones. Con el cobre y los metales al alza y el petróleo cerca de su máximo del mes, cierra hoy las cotizaciones vigentes y no fijes recargos de combustible antes de la OPEP+ del domingo."
+ },
+ "en": {
+  "titular": "Rebound Friday: Nasdaq futures rise 2.6%, Korea 4.3% and silver soars 10%; Wall Street closes at 1:00 p.m. ET",
+  "esencial": [
+   "At 5:58 a.m. ET Nasdaq 100 futures were up 2.61%, S&P 500 futures 1.94% and Dow futures 1.49%; the KOSPI closed +4.34% and the Nikkei +2.11%.",
+   "From Wednesday’s close, silver was up 10.2% at $44.66, gold 4.0% and copper 4.8% at $5.68 per pound; January Brent reached its highest since November 9.",
+   "For supply chain: Wall Street closes at 1:00 p.m. ET today; with copper back above $5.6, close any valid cable and connector quotes today."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "Wall Street was closed yesterday for Thanksgiving. Tech stocks recovered in Europe and Asia, and in premarket trading Nvidia rose nearly 4% and Micron 6%, according to Yahoo Finance. Bloomberg reported that new US restrictions on AI chips, which require companies in Singapore, Malaysia, Indonesia, Thailand and Brazil to obtain licenses, are stalling billions of dollars in data center financing in Asia, according to Investing.com. In the Middle East, a projectile struck Saudi Arabia’s Jazan refinery, which halted some operations, and Bloomberg reported that Iraq delayed shipments of 20 to 30 million barrels."
+   },
+   {
+    "t": "Asia, Europe and futures",
+    "x": "Asia closed sharply higher: KOSPI +4.34% (4,915.68), Shanghai +3.74%, Hang Seng +3.32% and Nikkei +2.11% (58,711.11). At 5:53 a.m. ET Europe was higher: Euro Stoxx 50 +1.36% (6,096.78), DAX +0.93% and FTSE 100 +0.84%, led by miners. At 5:58 a.m. ET Nasdaq 100 futures were up 2.61%, S&P 500 futures 1.94% and Dow futures 1.49%; the VIX fell to 24.6. January Brent stood at $96.50 at 5:57 a.m. ET, after touching its highest since November 9, and WTI at $85.28. From Wednesday’s close, silver was up 10.2% at $44.66, gold 4.0% at $3,707.50 and copper 4.8% at $5.68 per pound."
+   },
+   {
+    "t": "What to expect today",
+    "x": "US stock markets close at 1:00 p.m. ET today and the bond market at 2:00 p.m. ET; there are no major economic releases and Black Friday begins. OPEC+ meets on Sunday the 29th and has an agreement in principle to keep its output targets for at least the first quarter of 2027, according to Reuters. The US ISM manufacturing index comes out on Tuesday, December 1, and the Fed meets on December 8 and 9."
+   }
+  ],
+  "scm": "Today is a short day in the US: confirm crossings and pickups early. With copper and metals rising and oil near its monthly high, close valid quotes today and do not set fuel surcharges before Sunday’s OPEC+ meeting."
+ },
+ "pt": {
+  "titular": "Sexta de repique: os futuros do Nasdaq sobem 2,6%, a Coreia 4,3% e a prata dispara 10%; Wall Street fecha às 12h00 (Cidade do México)",
+  "esencial": [
+   "Às 4h58 (Cidade do México) os futuros do Nasdaq 100 subiam 2,61%, os do S&P 500 1,94% e os do Dow 1,49%; o KOSPI fechou com +4,34% e o Nikkei com +2,11%.",
+   "Desde o fechamento de quarta, a prata subia 10,2% para 44,66 dólares, o ouro 4,0% e o cobre 4,8% para 5,68 dólares por libra; o Brent de janeiro chegou ao maior nível desde 9 de novembro.",
+   "Para supply chain: hoje Wall Street fecha às 12h00 (Cidade do México); com o cobre de volta acima de 5,6 dólares, feche hoje as cotações de cabos e conectores que tiver vigentes."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Ontem Wall Street não operou pelo Dia de Ação de Graças. As ações de tecnologia se recuperaram na Europa e na Ásia, e no pré-mercado a Nvidia subia cerca de 4% e a Micron 6%, segundo o Yahoo Finance. A Bloomberg informou que as novas restrições dos EUA aos chips de IA, que obrigam empresas de Singapura, Malásia, Indonésia, Tailândia e Brasil a pedir licença, travam financiamentos de data centers na Ásia por bilhões de dólares, segundo a Investing.com. No Oriente Médio, um projétil atingiu a refinaria saudita de Jazan, que suspendeu parte das operações, e a Bloomberg informou que o Iraque adiou embarques de 20 a 30 milhões de barris."
+   },
+   {
+    "t": "Ásia, Europa e futuros",
+    "x": "A Ásia fechou em forte alta: KOSPI +4,34% (4.915,68), Xangai +3,74%, Hang Seng +3,32% e Nikkei +2,11% (58.711,11). Às 4h53 (Cidade do México) a Europa subia: Euro Stoxx 50 +1,36% (6.096,78), DAX +0,93% e FTSE 100 +0,84%, com as mineradoras à frente. Às 4h58 os futuros do Nasdaq 100 subiam 2,61%, os do S&P 500 1,94% e os do Dow 1,49%; o VIX caía para 24,6. O Brent de janeiro estava a 96,50 dólares às 4h57, depois de tocar o maior nível desde 9 de novembro, e o WTI a 85,28. Desde o fechamento de quarta, a prata subia 10,2% para 44,66 dólares, o ouro 4,0% para 3.707,50 e o cobre 4,8% para 5,68 dólares por libra."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Hoje as bolsas dos EUA fecham às 12h00 (Cidade do México) e o mercado de títulos às 13h00; não há dados econômicos importantes e começa a Black Friday. A OPEP+ se reúne no domingo, dia 29, e tem um acordo em princípio para manter suas metas de produção ao menos no primeiro trimestre de 2027, segundo a Reuters. Na terça, 1º de dezembro, sai o ISM industrial dos EUA e em 8 e 9 de dezembro o Fed se reúne."
+   }
+  ],
+  "scm": "Hoje é dia curto nos EUA: confirme cedo as travessias e coletas. Com o cobre e os metais em alta e o petróleo perto da máxima do mês, feche hoje as cotações vigentes e não fixe sobretaxas de combustível antes da OPEP+ de domingo."
+ },
+ "fuentes": [
+  {
+   "t": "Investing.com: restricciones a chips de IA, SpaceX y riesgos petroleros, lo que mueve a los mercados (27 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/articles/ai-chip-curbs-musk-giveaway-092034519.html"
+  },
+  {
+   "t": "Yahoo Finance: los futuros de Wall Street suben antes de una sesión corta (27 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+  },
+  {
+   "t": "Reuters: el petróleo va camino de romper una racha de tres semanas a la baja por temores de oferta (27 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-track-snap-3-week-082519990.html"
+  },
+  {
+   "t": "Oilprice.com: Irak retrasa embarques de hasta 30 millones de barriles de crudo (27 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/iraq-delays-30-million-barrels-083000983.html"
+  },
+  {
+   "t": "Investing.com: el FTSE 100 sube con las mineras por el rebote de los metales (27 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-today-stocks-rise-085208572.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (27 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

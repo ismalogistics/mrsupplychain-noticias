@@ -1,0 +1,91 @@
+{
+ "id": "2026-11-27-premercado-mexico",
+ "fecha": "2026-11-27",
+ "momento": "premercado",
+ "mercado": "mexico",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "El peso se recupera a 19.50 con el ánimo global; el FIX de ayer fue de 19.7203 y hoy rige el de 19.7040",
+  "esencial": [
+   "A las 5:08 CDMX el peso cotizaba en 19.50 por dólar (−0.99% el dólar), después de cerrar ayer en 19.71; ayer el S&P/BMV IPC cayó 1.43%.",
+   "Hoy rige para pagos el FIX de 19.7040; el que Banxico determinó ayer fue de 19.7203 y rige desde el lunes 30.",
+   "Para supply chain: hoy el INEGI publica la balanza comercial de octubre; con el peso en 19.50 y el FIX en 19.70, compara antes de pagar al FIX o al tipo de mercado."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "Ayer el S&P/BMV IPC cerró en 70,353.18 puntos (−1.43%) y el peso en 19.71, en una sesión sin Wall Street. Banxico determinó ayer un FIX de 19.7203 (+0.08%), que se publica hoy en el DOF y rige para pagos desde el lunes 30; hoy rige el de 19.7040. En la noche, el peso se recuperó a 19.50 por dólar (−0.99% el dólar a las 5:08 CDMX), con el ánimo de los mercados globales."
+   },
+   {
+    "t": "Contexto",
+    "x": "Los futuros de Wall Street suben con fuerza y los metales se disparan: desde el cierre del miércoles, la plata sube 10.2% y el cobre 4.8%, lo que apoya a las mineras. El petróleo sigue cerca de su nivel más alto del mes por los ataques en Medio Oriente. La tasa de desocupación de México subió a 3.0% en octubre, su nivel más alto desde 2022, según el INEGI."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Hoy el INEGI publica la balanza comercial de octubre y Wall Street opera hasta las 12:00 CDMX. El 9 de diciembre la Fed anuncia su decisión de tasas."
+   }
+  ],
+  "scm": "Hoy los pagos en dólares al FIX se liquidan a 19.7040, pero el mercado opera en 19.50: si puedes pagar al tipo de mercado, compáralo antes. Revisa la balanza comercial de octubre para ver cómo van importaciones y exportaciones manufactureras."
+ },
+ "en": {
+  "titular": "The peso recovers to 19.50 on global sentiment; yesterday’s FIX was 19.7203 and today the 19.7040 applies",
+  "esencial": [
+   "At 5:08 a.m. Mexico City time the peso traded at 19.50 per dollar (dollar −0.99%), after closing yesterday at 19.71; yesterday the S&P/BMV IPC fell 1.43%.",
+   "Today the 19.7040 FIX applies to payments; the one Banxico set yesterday was 19.7203 and applies from Monday the 30th.",
+   "For supply chain: INEGI publishes the October trade balance today; with the peso at 19.50 and the FIX at 19.70, compare before paying at the FIX or at the market rate."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "Yesterday the S&P/BMV IPC closed at 70,353.18 points (−1.43%) and the peso at 19.71, in a session without Wall Street. Banxico set a 19.7203 FIX yesterday (+0.08%), published today in the DOF and applying to payments from Monday the 30th; today the 19.7040 one applies. Overnight, the peso recovered to 19.50 per dollar (dollar −0.99% at 5:08 a.m.), on global market sentiment."
+   },
+   {
+    "t": "Context",
+    "x": "Wall Street futures are rising strongly and metals are soaring: from Wednesday’s close, silver is up 10.2% and copper 4.8%, supporting miners. Oil remains near its monthly high on the Middle East attacks. Mexico’s unemployment rate rose to 3.0% in October, its highest since 2022, according to INEGI."
+   },
+   {
+    "t": "What to expect today",
+    "x": "INEGI publishes the October trade balance today and Wall Street trades until 12:00 p.m. Mexico City time. On December 9 the Fed announces its rate decision."
+   }
+  ],
+  "scm": "Today dollar payments at the FIX settle at 19.7040, but the market trades at 19.50: if you can pay at the market rate, compare first. Review the October trade balance to see how manufacturing imports and exports are doing."
+ },
+ "pt": {
+  "titular": "O peso se recupera para 19,50 com o ânimo global; o FIX de ontem foi de 19,7203 e hoje vale o de 19,7040",
+  "esencial": [
+   "Às 5h08 (Cidade do México) o peso era cotado a 19,50 por dólar (dólar −0,99%), depois de fechar ontem em 19,71; ontem o S&P/BMV IPC caiu 1,43%.",
+   "Hoje vale para pagamentos o FIX de 19,7040; o definido ontem pelo Banxico foi de 19,7203 e vale a partir de segunda, dia 30.",
+   "Para supply chain: hoje o INEGI divulga a balança comercial de outubro; com o peso em 19,50 e o FIX em 19,70, compare antes de pagar ao FIX ou à taxa de mercado."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Ontem o S&P/BMV IPC fechou em 70.353,18 pontos (−1,43%) e o peso em 19,71, numa sessão sem Wall Street. O Banxico definiu ontem um FIX de 19,7203 (+0,08%), publicado hoje no DOF e que vale para pagamentos a partir de segunda, dia 30; hoje vale o de 19,7040. Durante a noite, o peso se recuperou para 19,50 por dólar (dólar −0,99% às 5h08), com o ânimo dos mercados globais."
+   },
+   {
+    "t": "Contexto",
+    "x": "Os futuros de Wall Street sobem forte e os metais disparam: desde o fechamento de quarta, a prata sobe 10,2% e o cobre 4,8%, o que apoia as mineradoras. O petróleo segue perto da máxima do mês pelos ataques no Oriente Médio. A taxa de desemprego do México subiu para 3,0% em outubro, o maior nível desde 2022, segundo o INEGI."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Hoje o INEGI divulga a balança comercial de outubro e Wall Street opera até as 12h00 (Cidade do México). Em 9 de dezembro o Fed anuncia sua decisão de juros."
+   }
+  ],
+  "scm": "Hoje os pagamentos em dólares ao FIX se liquidam a 19,7040, mas o mercado opera em 19,50: se puder pagar à taxa de mercado, compare antes. Revise a balança comercial de outubro para ver como vão as importações e exportações manufatureiras."
+ },
+ "fuentes": [
+  {
+   "t": "Banxico: tipo de cambio FIX (26 nov 2026: 19.7203)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Investing.com: el FTSE 100 sube con las mineras por el rebote de los metales (27 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-today-stocks-rise-085208572.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (27 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "id": "2026-11-27-premercado-latam",
+ "fecha": "2026-11-27",
+ "momento": "premercado",
+ "mercado": "latam",
+ "hora": "05:08 CDMX",
+ "fin_de_semana": false,
+ "es": {
+  "titular": "Tras el salto de 6% del Ibovespa, los metales se disparan y apoyan a Chile y Perú",
+  "esencial": [
+   "Ayer el Ibovespa cerró en 176,799.84 (+6.07%) y el S&P/TSX de Canadá en 34,426.88 (+0.72%).",
+   "Desde el cierre del miércoles, el cobre subía 4.8% a 5.68 dólares por libra y la plata 10.2%, lo que apoya a las mineras de Chile, Perú y México.",
+   "Para supply chain: el dólar está en 5.65 reales y 3,547 pesos colombianos; escalona los pagos en monedas de la región."
+  ],
+  "bloques": [
+   {
+    "t": "Lo que pasó desde el cierre",
+    "x": "Ayer el Ibovespa cerró en 176,799.84 (+6.07%) por reportes de que Luiz Carlos Trabuco, presidente del consejo de Bradesco, podría encabezar el Ministerio de Hacienda, y por un IPCA-15 menor a lo esperado, según Seu Dinheiro. El S&P/TSX de Canadá cerró en 34,426.88 (+0.72%). En la noche, las mineras subieron en Londres: Antofagasta, con operaciones en Chile, ganaba 4.3% y Fresnillo, con minas en México, 5%, según Investing.com."
+   },
+   {
+    "t": "Contexto",
+    "x": "A las 5:08 CDMX el dólar estaba en 5.65 reales y 3,547 pesos colombianos. Desde el cierre del miércoles, el cobre subía 4.8% a 5.68 dólares por libra y la plata 10.2% a 44.66. Las nuevas reglas de EE. UU. obligan a empresas de Brasil, entre otros países, a pedir licencia para comprar chips avanzados de IA."
+   },
+   {
+    "t": "Qué se espera hoy",
+    "x": "Hoy Wall Street opera hasta las 12:00 CDMX y el INEGI publica la balanza comercial de México. La OPEP+ se reúne el domingo 29."
+   }
+  ],
+  "scm": "Con el cobre de vuelta arriba de 5.6 dólares, cierra hoy las cotizaciones vigentes de insumos de cobre de Chile y Perú; si compras GPU o servidores de IA para operaciones en Brasil, revisa con tu proveedor el nuevo requisito de licencia."
+ },
+ "en": {
+  "titular": "After the Ibovespa's 6% jump, metals soar and support Chile and Peru",
+  "esencial": [
+   "Yesterday the Ibovespa closed at 176,799.84 (+6.07%) and Canada's S&P/TSX at 34,426.88 (+0.72%).",
+   "From Wednesday’s close, copper was up 4.8% at $5.68 per pound and silver 10.2%, supporting miners in Chile, Peru and Mexico.",
+   "For supply chain: the dollar stands at 5.65 reais and 3,547 Colombian pesos; stagger payments in regional currencies."
+  ],
+  "bloques": [
+   {
+    "t": "What happened since the close",
+    "x": "Yesterday the Ibovespa closed at 176,799.84 (+6.07%) on reports that Luiz Carlos Trabuco, chairman of Bradesco's board, could head the Finance Ministry, and on a lower-than-expected IPCA-15, according to Seu Dinheiro. Canada's S&P/TSX closed at 34,426.88 (+0.72%). Overnight, miners rose in London: Antofagasta, with operations in Chile, gained 4.3% and Fresnillo, with mines in Mexico, 5%, according to Investing.com."
+   },
+   {
+    "t": "Context",
+    "x": "At 5:08 a.m. Mexico City time the dollar stood at 5.65 reais and 3,547 Colombian pesos. From Wednesday’s close, copper was up 4.8% at $5.68 per pound and silver 10.2% at $44.66. New US rules require companies in Brazil, among other countries, to obtain a license to buy advanced AI chips."
+   },
+   {
+    "t": "What to expect today",
+    "x": "Wall Street trades until 1:00 p.m. ET today and INEGI publishes Mexico's trade balance. OPEC+ meets on Sunday the 29th."
+   }
+  ],
+  "scm": "With copper back above $5.6, close valid quotes for copper inputs from Chile and Peru today; if you buy GPUs or AI servers for operations in Brazil, review the new license requirement with your supplier."
+ },
+ "pt": {
+  "titular": "Depois do salto de 6% do Ibovespa, os metais disparam e apoiam Chile e Peru",
+  "esencial": [
+   "Ontem o Ibovespa fechou em 176.799,84 (+6,07%) e o S&P/TSX do Canadá em 34.426,88 (+0,72%).",
+   "Desde o fechamento de quarta, o cobre subia 4,8% para 5,68 dólares por libra e a prata 10,2%, o que apoia as mineradoras do Chile, do Peru e do México.",
+   "Para supply chain: o dólar está em R$ 5,65 e 3.547 pesos colombianos; escalone os pagamentos em moedas da região."
+  ],
+  "bloques": [
+   {
+    "t": "O que aconteceu desde o fechamento",
+    "x": "Ontem o Ibovespa fechou em 176.799,84 (+6,07%) por notícias de que Luiz Carlos Trabuco, presidente do conselho do Bradesco, pode comandar o Ministério da Fazenda, e por um IPCA-15 menor que o esperado, segundo o Seu Dinheiro. O S&P/TSX do Canadá fechou em 34.426,88 (+0,72%). Durante a noite, as mineradoras subiram em Londres: a Antofagasta, com operações no Chile, ganhava 4,3% e a Fresnillo, com minas no México, 5%, segundo a Investing.com."
+   },
+   {
+    "t": "Contexto",
+    "x": "Às 5h08 (Cidade do México) o dólar estava em R$ 5,65 e 3.547 pesos colombianos. Desde o fechamento de quarta, o cobre subia 4,8% para 5,68 dólares por libra e a prata 10,2% para 44,66. As novas regras dos EUA obrigam empresas do Brasil, entre outros países, a pedir licença para comprar chips avançados de IA."
+   },
+   {
+    "t": "O que se espera hoje",
+    "x": "Hoje Wall Street opera até as 13h00 de Nova York e o INEGI divulga a balança comercial do México. A OPEP+ se reúne no domingo, dia 29."
+   }
+  ],
+  "scm": "Com o cobre de volta acima de 5,6 dólares, feche hoje as cotações vigentes de insumos de cobre do Chile e do Peru; se você compra GPUs ou servidores de IA para operações no Brasil, revise com o fornecedor a nova exigência de licença."
+ },
+ "fuentes": [
+  {
+   "t": "Seu Dinheiro: el Ibovespa se dispara por la especulación sobre Hacienda, el IPCA-15 y la agenda fiscal (26 nov 2026)",
+   "u": "https://www.seudinheiro.com/2026/bolsa-dolar/ibovespa-dispara-mais-de-3-e-dolar-recua-a-r-572-o-que-anima-o-mercado-hoje-davs/"
+  },
+  {
+   "t": "Investing.com: el FTSE 100 sube con las mineras por el rebote de los metales (27 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-today-stocks-rise-085208572.html"
+  },
+  {
+   "t": "Investing.com: restricciones a chips de IA, SpaceX y riesgos petroleros, lo que mueve a los mercados (27 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/articles/ai-chip-curbs-musk-giveaway-092034519.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, futuros, divisas y materias primas (27 nov 2026, 05:08 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

@@ -6,16 +6,16 @@
  "hora": "15:16 CDMX",
  "fin_de_semana": false,
  "es": {
-  "titular": "El IPC cae 1.45% y el peso cierra débil en 19.71; mañana rige el FIX de 19.7040",
+  "titular": "El IPC cae 1.43% y el peso cierra débil en 19.71; mañana rige el FIX de 19.7040",
   "esencial": [
-   "El S&P/BMV IPC terminó en 70,339.06 puntos (−1.45%) y el peso cotizaba en 19.71 por dólar a las 15:16 CDMX (+0.63% el dólar).",
+   "El S&P/BMV IPC terminó en 70,353.18 puntos (−1.43%) y el peso cotizaba en 19.71 por dólar a las 15:16 CDMX (+0.63% el dólar).",
    "La tasa de desocupación subió a 3.0% en octubre, su nivel más alto desde octubre de 2022, según el INEGI.",
    "Para supply chain: los pagos en dólares de mañana se liquidan con el FIX de 19.7040, 34 centavos arriba del de hoy."
   ],
   "bloques": [
    {
     "t": "Qué pasó",
-    "x": "El S&P/BMV IPC bajó 1.45% a 70,339.06 puntos, después de subir 2.99% el miércoles. El peso cerró en 19.71 por dólar a las 15:16 CDMX (+0.63% el dólar), en una sesión de poca liquidez por el feriado en EE. UU. Hoy rigió para pagos el FIX de 19.3668; mañana rige el de 19.7040."
+    "x": "El S&P/BMV IPC bajó 1.43% a 70,353.18 puntos, después de subir 2.99% el miércoles. El peso cerró en 19.71 por dólar a las 15:16 CDMX (+0.63% el dólar), en una sesión de poca liquidez por el feriado en EE. UU. Hoy rigió para pagos el FIX de 19.3668; mañana rige el de 19.7040."
    },
    {
     "t": "Por qué",
@@ -29,16 +29,16 @@
   "scm": "Los pagos en dólares de mañana se liquidan con el FIX de 19.7040. Con el peso arriba de 19.7, actualiza el tipo de cambio de tus costos de importación del primer trimestre y revisa tus pronósticos de consumo en México."
  },
  "en": {
-  "titular": "The IPC falls 1.45% and the peso closes weak at 19.71; tomorrow the 19.7040 FIX applies",
+  "titular": "The IPC falls 1.43% and the peso closes weak at 19.71; tomorrow the 19.7040 FIX applies",
   "esencial": [
-   "The S&P/BMV IPC ended at 70,339.06 points (−1.45%) and the peso traded at 19.71 per dollar at 3:16 p.m. Mexico City time (dollar +0.63%).",
+   "The S&P/BMV IPC ended at 70,353.18 points (−1.43%) and the peso traded at 19.71 per dollar at 3:16 p.m. Mexico City time (dollar +0.63%).",
    "The unemployment rate rose to 3.0% in October, its highest since October 2022, according to INEGI.",
    "For supply chain: tomorrow’s dollar payments settle at the 19.7040 FIX, 34 cents above today’s."
   ],
   "bloques": [
    {
     "t": "What happened",
-    "x": "The S&P/BMV IPC fell 1.45% to 70,339.06 points, after rising 2.99% on Wednesday. The peso closed at 19.71 per dollar at 3:16 p.m. (dollar +0.63%), in a thin session due to the US holiday. Today the 19.3668 FIX applied to payments; tomorrow the 19.7040 one applies."
+    "x": "The S&P/BMV IPC fell 1.43% to 70,353.18 points, after rising 2.99% on Wednesday. The peso closed at 19.71 per dollar at 3:16 p.m. (dollar +0.63%), in a thin session due to the US holiday. Today the 19.3668 FIX applied to payments; tomorrow the 19.7040 one applies."
    },
    {
     "t": "Why",
@@ -52,16 +52,16 @@
   "scm": "Tomorrow’s dollar payments settle at the 19.7040 FIX. With the peso above 19.7, update the exchange rate in your first-quarter import costs and review your consumer demand forecasts for Mexico."
  },
  "pt": {
-  "titular": "O IPC cai 1,45% e o peso fecha fraco em 19,71; amanhã vale o FIX de 19,7040",
+  "titular": "O IPC cai 1,43% e o peso fecha fraco em 19,71; amanhã vale o FIX de 19,7040",
   "esencial": [
-   "O S&P/BMV IPC terminou em 70.339,06 pontos (−1,45%) e o peso era cotado a 19,71 por dólar às 15h16 (Cidade do México) (dólar +0,63%).",
+   "O S&P/BMV IPC terminou em 70.353,18 pontos (−1,45%) e o peso era cotado a 19,71 por dólar às 15h16 (Cidade do México) (dólar +0,63%).",
    "A taxa de desemprego subiu para 3,0% em outubro, o maior nível desde outubro de 2022, segundo o INEGI.",
    "Para supply chain: os pagamentos em dólares de amanhã se liquidam com o FIX de 19,7040, 34 centavos acima do de hoje."
   ],
   "bloques": [
    {
     "t": "O que aconteceu",
-    "x": "O S&P/BMV IPC caiu 1,45% para 70.339,06 pontos, depois de subir 2,99% na quarta. O peso fechou em 19,71 por dólar às 15h16 (dólar +0,63%), numa sessão de pouca liquidez pelo feriado nos EUA. Hoje valeu para pagamentos o FIX de 19,3668; amanhã vale o de 19,7040."
+    "x": "O S&P/BMV IPC caiu 1,43% para 70.353,18 pontos, depois de subir 2,99% na quarta. O peso fechou em 19,71 por dólar às 15h16 (dólar +0,63%), numa sessão de pouca liquidez pelo feriado nos EUA. Hoje valeu para pagamentos o FIX de 19,3668; amanhã vale o de 19,7040."
    },
    {
     "t": "Por quê",
