@@ -1,185 +1,183 @@
 {
- "actualizado": "2026-11-27T11:10:09Z",
- "momento": "premercado",
+ "actualizado": "2026-11-27T15:11:55Z",
+ "momento": "apertura",
  "briefs": {
   "global": {
-   "id": "2026-11-27-premercado-global",
+   "id": "2026-11-27-apertura-global",
    "fecha": "2026-11-27",
-   "momento": "premercado",
+   "momento": "apertura",
    "mercado": "global",
-   "hora": "05:08 CDMX",
-   "fin_de_semana": false,
+   "hora": "09:09 CDMX",
    "es": {
-    "titular": "Viernes de rebote: los futuros del Nasdaq suben 2.6%, Corea 4.3% y la plata se dispara 10%; Wall Street cierra a las 12:00 CDMX",
+    "titular": "Wall Street abre al alza en un Black Friday de sesión corta: el Dow sube 0.7% y la plata 8%",
     "esencial": [
-     "A las 4:58 CDMX los futuros del Nasdaq 100 subían 2.61%, los del S&P 500 1.94% y los del Dow 1.49%; el KOSPI cerró con +4.34% y el Nikkei con +2.11%.",
-     "Desde el cierre del miércoles, la plata subía 10.2% a 44.66 dólares, el oro 4.0% y el cobre 4.8% a 5.68 dólares por libra; el Brent de enero llegó a su nivel más alto desde el 9 de noviembre.",
-     "Para supply chain: hoy Wall Street cierra a las 12:00 CDMX; con el cobre de vuelta arriba de 5.6 dólares, cierra hoy las cotizaciones de cable y conectores que tengas vigentes."
+     "A las 9:09 CDMX el S&P 500 subía 0.71%, el Nasdaq 0.82% y el Dow 0.69%, aunque recortaban sus alzas de la apertura; Nvidia bajaba 1.8% y Dell subía 5.8%.",
+     "Desde el cierre del miércoles, la plata subía 8.4%, el oro 2.8% y el cobre 3.0% a 5.59 dólares por libra; el Brent de enero bajaba a 95.30 dólares.",
+     "Para supply chain: Wall Street cierra a las 12:00 CDMX; la NRF espera ventas de fin de año por más de un billón de dólares (+4.2%): confirma hoy la reposición de las próximas dos semanas."
     ],
     "bloques": [
      {
-      "t": "Lo que pasó desde el cierre",
-      "x": "Ayer Wall Street no operó por el Día de Acción de Gracias. Las acciones de tecnología se recuperaron en Europa y Asia, y en preapertura Nvidia subía cerca de 4% y Micron 6%, según Yahoo Finance. Bloomberg reportó que las nuevas restricciones de EE. UU. a los chips de IA, que obligan a empresas de Singapur, Malasia, Indonesia, Tailandia y Brasil a pedir licencia, frenan financiamientos de centros de datos en Asia por miles de millones de dólares, según Investing.com. En Medio Oriente, un proyectil golpeó la refinería saudí de Jazan, que detuvo parte de sus operaciones, y Bloomberg reportó que Irak retrasó embarques de 20 a 30 millones de barriles."
+      "t": "Cómo abrió",
+      "x": "Wall Street abrió al alza en una sesión corta tras el Día de Acción de Gracias, pero recortó parte de sus ganancias: a las 9:09 CDMX el S&P 500 subía 0.71% (7,233.62), el Nasdaq 0.82% (23,779.87) y el Dow 0.69% (50,529.43); el VIX estaba en 27.1. El índice de semiconductores subía 1.3%: Micron +2.8% y TSMC +1.6%, mientras Nvidia pasó de subir 2% a bajar 1.8%. Dell subía 5.8% y Anthropic 4.8% (86.75 dólares), arriba de su precio de salida. Amazon subía 2.8% en el arranque del Black Friday. En Europa, el Euro Stoxx 50 subía 0.94%."
      },
      {
-      "t": "Asia, Europa y futuros",
-      "x": "Asia cerró con fuertes alzas: KOSPI +4.34% (4,915.68), Shanghái +3.74%, Hang Seng +3.32% y Nikkei +2.11% (58,711.11). A las 4:53 CDMX Europa subía: Euro Stoxx 50 +1.36% (6,096.78), DAX +0.93% y FTSE 100 +0.84%, con las mineras al frente. A las 4:58 CDMX los futuros del Nasdaq 100 subían 2.61%, los del S&P 500 1.94% y los del Dow 1.49%; el VIX bajaba a 24.6. El Brent de enero estaba en 96.50 dólares a las 4:57 CDMX, después de tocar su nivel más alto desde el 9 de noviembre, y el WTI en 85.28. Desde el cierre del miércoles, la plata subía 10.2% a 44.66 dólares, el oro 4.0% a 3,707.50 y el cobre 4.8% a 5.68 dólares por libra."
+      "t": "Lo que mueve al mercado",
+      "x": "Los inversionistas regresan a la tecnología tras las caídas de octubre y noviembre. Los metales siguen al alza: desde el cierre del miércoles, la plata subía 8.4% a 43.94 dólares, el oro 2.8% a 3,664 y el cobre 3.0% a 5.59 dólares por libra, en parte por cierre de posiciones cortas, según ING citado por Investing.com. El Brent de enero bajaba a 95.30 dólares desde 96.57 el jueves, después de tocar en la madrugada su nivel más alto desde el 9 de noviembre por el ataque a la refinería saudí de Jazan, según Reuters. La Federación Nacional de Minoristas (NRF) espera que las ventas de fin de año superen por primera vez un billón de dólares, con un alza de 4.2%."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "Hoy las bolsas de EE. UU. cierran a las 12:00 CDMX y el mercado de bonos a las 13:00 CDMX; no hay datos económicos importantes y arranca el Black Friday. La OPEP+ se reúne el domingo 29 y tiene un acuerdo en principio para mantener sus metas de producción al menos en el primer trimestre de 2027, según Reuters. El martes 1 de diciembre sale el ISM manufacturero de EE. UU. y el 8 y 9 de diciembre se reúne la Fed."
+      "t": "Qué se espera",
+      "x": "Hoy las bolsas de EE. UU. cierran a las 12:00 CDMX y el mercado de bonos a las 13:00 CDMX. La OPEP+ se reúne el domingo 29 con un acuerdo en principio para mantener sus metas de producción al menos en el primer trimestre de 2027, según Reuters. El martes 1 de diciembre sale el ISM manufacturero de EE. UU. y el 8 y 9 de diciembre se reúne la Fed."
      }
     ],
-    "scm": "Hoy es día corto en EE. UU.: confirma temprano tus cruces y recolecciones. Con el cobre y los metales al alza y el petróleo cerca de su máximo del mes, cierra hoy las cotizaciones vigentes y no fijes recargos de combustible antes de la OPEP+ del domingo."
+    "scm": "Con la NRF esperando un récord de ventas de fin de año, confirma hoy la reposición de inventario de las próximas dos semanas y la capacidad de última milla; con los metales al alza, cierra hoy las cotizaciones vigentes de cable y conectores."
    },
    "en": {
-    "titular": "Rebound Friday: Nasdaq futures rise 2.6%, Korea 4.3% and silver soars 10%; Wall Street closes at 1:00 p.m. ET",
+    "titular": "Wall Street opens higher on a short Black Friday session: the Dow rises 0.7% and silver 8%",
     "esencial": [
-     "At 5:58 a.m. ET Nasdaq 100 futures were up 2.61%, S&P 500 futures 1.94% and Dow futures 1.49%; the KOSPI closed +4.34% and the Nikkei +2.11%.",
-     "From Wednesday’s close, silver was up 10.2% at $44.66, gold 4.0% and copper 4.8% at $5.68 per pound; January Brent reached its highest since November 9.",
-     "For supply chain: Wall Street closes at 1:00 p.m. ET today; with copper back above $5.6, close any valid cable and connector quotes today."
+     "At 10:09 a.m. ET the S&P 500 was up 0.71%, the Nasdaq 0.82% and the Dow 0.69%, although they were paring opening gains; Nvidia fell 1.8% and Dell rose 5.8%.",
+     "From Wednesday’s close, silver was up 8.4%, gold 2.8% and copper 3.0% to $5.59 per pound; January Brent fell to $95.30.",
+     "For supply chain: Wall Street closes at 1:00 p.m. ET; the NRF expects holiday sales above $1 trillion (+4.2%): confirm replenishment for the next two weeks today."
     ],
     "bloques": [
      {
-      "t": "What happened since the close",
-      "x": "Wall Street was closed yesterday for Thanksgiving. Tech stocks recovered in Europe and Asia, and in premarket trading Nvidia rose nearly 4% and Micron 6%, according to Yahoo Finance. Bloomberg reported that new US restrictions on AI chips, which require companies in Singapore, Malaysia, Indonesia, Thailand and Brazil to obtain licenses, are stalling billions of dollars in data center financing in Asia, according to Investing.com. In the Middle East, a projectile struck Saudi Arabia’s Jazan refinery, which halted some operations, and Bloomberg reported that Iraq delayed shipments of 20 to 30 million barrels."
+      "t": "How it opened",
+      "x": "Wall Street opened higher in a short session after Thanksgiving, but pared some gains: at 10:09 a.m. ET the S&P 500 was up 0.71% (7,233.62), the Nasdaq 0.82% (23,779.87) and the Dow 0.69% (50,529.43); the VIX stood at 27.1. The semiconductor index rose 1.3%: Micron +2.8% and TSMC +1.6%, while Nvidia went from up 2% to down 1.8%. Dell rose 5.8% and Anthropic 4.8% ($86.75), above its IPO price. Amazon rose 2.8% at the start of Black Friday. In Europe, the Euro Stoxx 50 rose 0.94%."
      },
      {
-      "t": "Asia, Europe and futures",
-      "x": "Asia closed sharply higher: KOSPI +4.34% (4,915.68), Shanghai +3.74%, Hang Seng +3.32% and Nikkei +2.11% (58,711.11). At 5:53 a.m. ET Europe was higher: Euro Stoxx 50 +1.36% (6,096.78), DAX +0.93% and FTSE 100 +0.84%, led by miners. At 5:58 a.m. ET Nasdaq 100 futures were up 2.61%, S&P 500 futures 1.94% and Dow futures 1.49%; the VIX fell to 24.6. January Brent stood at $96.50 at 5:57 a.m. ET, after touching its highest since November 9, and WTI at $85.28. From Wednesday’s close, silver was up 10.2% at $44.66, gold 4.0% at $3,707.50 and copper 4.8% at $5.68 per pound."
+      "t": "What is moving the market",
+      "x": "Investors are returning to tech after October and November declines. Metals keep rising: from Wednesday’s close, silver was up 8.4% at $43.94, gold 2.8% at $3,664 and copper 3.0% at $5.59 per pound, partly on short covering, according to ING cited by Investing.com. January Brent fell to $95.30 from $96.57 on Thursday, after touching its highest since November 9 overnight on the attack on Saudi Arabia’s Jazan refinery, according to Reuters. The National Retail Federation (NRF) expects holiday sales to top $1 trillion for the first time, up 4.2%."
      },
      {
-      "t": "What to expect today",
-      "x": "US stock markets close at 1:00 p.m. ET today and the bond market at 2:00 p.m. ET; there are no major economic releases and Black Friday begins. OPEC+ meets on Sunday the 29th and has an agreement in principle to keep its output targets for at least the first quarter of 2027, according to Reuters. The US ISM manufacturing index comes out on Tuesday, December 1, and the Fed meets on December 8 and 9."
+      "t": "What to expect",
+      "x": "US stock markets close at 1:00 p.m. ET today and the bond market at 2:00 p.m. ET. OPEC+ meets on Sunday the 29th with an agreement in principle to keep its output targets for at least the first quarter of 2027, according to Reuters. The US ISM manufacturing index comes out on Tuesday, December 1, and the Fed meets on December 8 and 9."
      }
     ],
-    "scm": "Today is a short day in the US: confirm crossings and pickups early. With copper and metals rising and oil near its monthly high, close valid quotes today and do not set fuel surcharges before Sunday’s OPEC+ meeting."
+    "scm": "With the NRF expecting record holiday sales, confirm inventory replenishment for the next two weeks and last-mile capacity today; with metals rising, close valid cable and connector quotes today."
    },
    "pt": {
-    "titular": "Sexta de repique: os futuros do Nasdaq sobem 2,6%, a Coreia 4,3% e a prata dispara 10%; Wall Street fecha às 12h00 (Cidade do México)",
+    "titular": "Wall Street abre em alta numa Black Friday de sessão curta: o Dow sobe 0,7% e a prata 8%",
     "esencial": [
-     "Às 4h58 (Cidade do México) os futuros do Nasdaq 100 subiam 2,61%, os do S&P 500 1,94% e os do Dow 1,49%; o KOSPI fechou com +4,34% e o Nikkei com +2,11%.",
-     "Desde o fechamento de quarta, a prata subia 10,2% para 44,66 dólares, o ouro 4,0% e o cobre 4,8% para 5,68 dólares por libra; o Brent de janeiro chegou ao maior nível desde 9 de novembro.",
-     "Para supply chain: hoje Wall Street fecha às 12h00 (Cidade do México); com o cobre de volta acima de 5,6 dólares, feche hoje as cotações de cabos e conectores que tiver vigentes."
+     "Às 9h09 (Cidade do México) o S&P 500 subia 0,71%, o Nasdaq 0,82% e o Dow 0,69%, embora reduzissem os ganhos da abertura; a Nvidia caía 1,8% e a Dell subia 5,8%.",
+     "Desde o fechamento de quarta, a prata subia 8,4%, o ouro 2,8% e o cobre 3,0% para 5,59 dólares por libra; o Brent de janeiro caía para 95,30 dólares.",
+     "Para supply chain: Wall Street fecha às 12h00 (Cidade do México); a NRF espera vendas de fim de ano acima de 1 trilhão de dólares (+4,2%): confirme hoje a reposição das próximas duas semanas."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu desde o fechamento",
-      "x": "Ontem Wall Street não operou pelo Dia de Ação de Graças. As ações de tecnologia se recuperaram na Europa e na Ásia, e no pré-mercado a Nvidia subia cerca de 4% e a Micron 6%, segundo o Yahoo Finance. A Bloomberg informou que as novas restrições dos EUA aos chips de IA, que obrigam empresas de Singapura, Malásia, Indonésia, Tailândia e Brasil a pedir licença, travam financiamentos de data centers na Ásia por bilhões de dólares, segundo a Investing.com. No Oriente Médio, um projétil atingiu a refinaria saudita de Jazan, que suspendeu parte das operações, e a Bloomberg informou que o Iraque adiou embarques de 20 a 30 milhões de barris."
+      "t": "Como abriu",
+      "x": "Wall Street abriu em alta numa sessão curta após o Dia de Ação de Graças, mas reduziu parte dos ganhos: às 9h09 (Cidade do México) o S&P 500 subia 0,71% (7.233,62), o Nasdaq 0,82% (23.779,87) e o Dow 0,69% (50.529,43); o VIX estava em 27,1. O índice de semicondutores subia 1,3%: Micron +2,8% e TSMC +1,6%, enquanto a Nvidia passou de alta de 2% para queda de 1,8%. A Dell subia 5,8% e a Anthropic 4,8% (86,75 dólares), acima do preço do IPO. A Amazon subia 2,8% no início da Black Friday. Na Europa, o Euro Stoxx 50 subia 0,94%."
      },
      {
-      "t": "Ásia, Europa e futuros",
-      "x": "A Ásia fechou em forte alta: KOSPI +4,34% (4.915,68), Xangai +3,74%, Hang Seng +3,32% e Nikkei +2,11% (58.711,11). Às 4h53 (Cidade do México) a Europa subia: Euro Stoxx 50 +1,36% (6.096,78), DAX +0,93% e FTSE 100 +0,84%, com as mineradoras à frente. Às 4h58 os futuros do Nasdaq 100 subiam 2,61%, os do S&P 500 1,94% e os do Dow 1,49%; o VIX caía para 24,6. O Brent de janeiro estava a 96,50 dólares às 4h57, depois de tocar o maior nível desde 9 de novembro, e o WTI a 85,28. Desde o fechamento de quarta, a prata subia 10,2% para 44,66 dólares, o ouro 4,0% para 3.707,50 e o cobre 4,8% para 5,68 dólares por libra."
+      "t": "O que move o mercado",
+      "x": "Os investidores voltam à tecnologia após as quedas de outubro e novembro. Os metais seguem em alta: desde o fechamento de quarta, a prata subia 8,4% para 43,94 dólares, o ouro 2,8% para 3.664 e o cobre 3,0% para 5,59 dólares por libra, em parte por cobertura de posições vendidas, segundo o ING citado pela Investing.com. O Brent de janeiro caía para 95,30 dólares desde 96,57 na quinta, depois de tocar de madrugada o maior nível desde 9 de novembro pelo ataque à refinaria saudita de Jazan, segundo a Reuters. A Federação Nacional do Varejo (NRF) espera que as vendas de fim de ano superem pela primeira vez 1 trilhão de dólares, com alta de 4,2%."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Hoje as bolsas dos EUA fecham às 12h00 (Cidade do México) e o mercado de títulos às 13h00; não há dados econômicos importantes e começa a Black Friday. A OPEP+ se reúne no domingo, dia 29, e tem um acordo em princípio para manter suas metas de produção ao menos no primeiro trimestre de 2027, segundo a Reuters. Na terça, 1º de dezembro, sai o ISM industrial dos EUA e em 8 e 9 de dezembro o Fed se reúne."
+      "t": "O que se espera",
+      "x": "Hoje as bolsas dos EUA fecham às 12h00 (Cidade do México) e o mercado de títulos às 13h00. A OPEP+ se reúne no domingo, dia 29, com um acordo em princípio para manter suas metas de produção ao menos no primeiro trimestre de 2027, segundo a Reuters. Na terça, 1º de dezembro, sai o ISM industrial dos EUA e em 8 e 9 de dezembro o Fed se reúne."
      }
     ],
-    "scm": "Hoje é dia curto nos EUA: confirme cedo as travessias e coletas. Com o cobre e os metais em alta e o petróleo perto da máxima do mês, feche hoje as cotações vigentes e não fixe sobretaxas de combustível antes da OPEP+ de domingo."
+    "scm": "Com a NRF esperando vendas recorde de fim de ano, confirme hoje a reposição de estoque das próximas duas semanas e a capacidade de última milha; com os metais em alta, feche hoje as cotações vigentes de cabos e conectores."
    },
    "fuentes": [
     {
-     "t": "Investing.com: restricciones a chips de IA, SpaceX y riesgos petroleros, lo que mueve a los mercados (27 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/articles/ai-chip-curbs-musk-giveaway-092034519.html"
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben en un Black Friday de sesión corta (27 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
     },
     {
-     "t": "Yahoo Finance: los futuros de Wall Street suben antes de una sesión corta (27 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+     "t": "Investor's Business Daily: el Dow sube 500 puntos mientras Nvidia duda; Anthropic y Tesla suben (27 nov 2026)",
+     "u": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-dow-jumps.html"
+    },
+    {
+     "t": "Investing.com: restricciones a chips de IA, SpaceX y riesgos petroleros, lo que mueve a los mercados (27 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/articles/ai-chip-curbs-musk-giveaway-092034519.html"
     },
     {
      "t": "Reuters: el petróleo va camino de romper una racha de tres semanas a la baja por temores de oferta (27 nov 2026)",
      "u": "https://finance.yahoo.com/energy/articles/oil-track-snap-3-week-082519990.html"
     },
     {
-     "t": "Oilprice.com: Irak retrasa embarques de hasta 30 millones de barriles de crudo (27 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/iraq-delays-30-million-barrels-083000983.html"
-    },
-    {
      "t": "Investing.com: el FTSE 100 sube con las mineras por el rebote de los metales (27 nov 2026)",
      "u": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-today-stocks-rise-085208572.html"
     },
     {
-     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (27 nov 2026, 05:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 09:09 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   "latam": {
-   "id": "2026-11-27-premercado-latam",
+   "id": "2026-11-27-apertura-latam",
    "fecha": "2026-11-27",
-   "momento": "premercado",
+   "momento": "apertura",
    "mercado": "latam",
-   "hora": "05:08 CDMX",
-   "fin_de_semana": false,
+   "hora": "09:09 CDMX",
    "es": {
-    "titular": "Tras el salto de 6% del Ibovespa, los metales se disparan y apoyan a Chile y Perú",
+    "titular": "El Ibovespa sube 1.2% más tras su salto de 6% y el real se fortalece a 5.57; el peso colombiano, a 3,495",
     "esencial": [
-     "Ayer el Ibovespa cerró en 176,799.84 (+6.07%) y el S&P/TSX de Canadá en 34,426.88 (+0.72%).",
-     "Desde el cierre del miércoles, el cobre subía 4.8% a 5.68 dólares por libra y la plata 10.2%, lo que apoya a las mineras de Chile, Perú y México.",
-     "Para supply chain: el dólar está en 5.65 reales y 3,547 pesos colombianos; escalona los pagos en monedas de la región."
+     "A las 8:54 CDMX el Ibovespa subía 1.17% (178,873.53) y a las 9:08 el S&P/TSX de Canadá 0.76%.",
+     "A las 9:09 CDMX el dólar bajaba a 5.57 reales (−1.49%) y 3,495 pesos colombianos (−1.46%).",
+     "Para supply chain: el cobre sube 3.0% desde el miércoles, a 5.59 dólares por libra; cierra hoy las cotizaciones vigentes de insumos de cobre de Chile y Perú."
     ],
     "bloques": [
      {
-      "t": "Lo que pasó desde el cierre",
-      "x": "Ayer el Ibovespa cerró en 176,799.84 (+6.07%) por reportes de que Luiz Carlos Trabuco, presidente del consejo de Bradesco, podría encabezar el Ministerio de Hacienda, y por un IPCA-15 menor a lo esperado, según Seu Dinheiro. El S&P/TSX de Canadá cerró en 34,426.88 (+0.72%). En la noche, las mineras subieron en Londres: Antofagasta, con operaciones en Chile, ganaba 4.3% y Fresnillo, con minas en México, 5%, según Investing.com."
+      "t": "Cómo abrió",
+      "x": "A las 8:54 CDMX el Ibovespa subía 1.17% a 178,873.53, después de ganar 6.07% ayer, y a las 9:08 el S&P/TSX de Canadá subía 0.76% a 34,688.48. A las 9:09 CDMX el dólar bajaba a 5.57 reales (−1.49%) y 3,495 pesos colombianos (−1.46%), y estaba en 1,037 pesos chilenos (+0.11%)."
      },
      {
-      "t": "Contexto",
-      "x": "A las 5:08 CDMX el dólar estaba en 5.65 reales y 3,547 pesos colombianos. Desde el cierre del miércoles, el cobre subía 4.8% a 5.68 dólares por libra y la plata 10.2% a 44.66. Las nuevas reglas de EE. UU. obligan a empresas de Brasil, entre otros países, a pedir licencia para comprar chips avanzados de IA."
+      "t": "Lo que mueve al mercado",
+      "x": "En Brasil sigue el impulso por los reportes de que Luiz Carlos Trabuco, presidente del consejo de Bradesco, podría encabezar el Ministerio de Hacienda, según Seu Dinheiro. Los metales apoyan a la región: desde el cierre del miércoles, el cobre subía 3.0% a 5.59 dólares por libra y la plata 8.4%. Las exportaciones de México crecieron 30.2% en octubre."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "Hoy Wall Street opera hasta las 12:00 CDMX y el INEGI publica la balanza comercial de México. La OPEP+ se reúne el domingo 29."
+      "t": "Qué se espera",
+      "x": "Hoy Wall Street cierra a las 12:00 CDMX. La OPEP+ se reúne el domingo 29."
      }
     ],
-    "scm": "Con el cobre de vuelta arriba de 5.6 dólares, cierra hoy las cotizaciones vigentes de insumos de cobre de Chile y Perú; si compras GPU o servidores de IA para operaciones en Brasil, revisa con tu proveedor el nuevo requisito de licencia."
+    "scm": "Con el real y el peso colombiano más fuertes, cubre hoy tus pagos en esas monedas; con el cobre al alza, cierra hoy las cotizaciones vigentes de insumos de cobre de Chile y Perú."
    },
    "en": {
-    "titular": "After the Ibovespa's 6% jump, metals soar and support Chile and Peru",
+    "titular": "The Ibovespa adds 1.2% after its 6% jump and the real strengthens to 5.57; the Colombian peso at 3,495",
     "esencial": [
-     "Yesterday the Ibovespa closed at 176,799.84 (+6.07%) and Canada's S&P/TSX at 34,426.88 (+0.72%).",
-     "From Wednesday’s close, copper was up 4.8% at $5.68 per pound and silver 10.2%, supporting miners in Chile, Peru and Mexico.",
-     "For supply chain: the dollar stands at 5.65 reais and 3,547 Colombian pesos; stagger payments in regional currencies."
+     "At 9:54 a.m. ET the Ibovespa rose 1.17% (178,873.53) and at 10:08 Canada's S&P/TSX 0.76%.",
+     "At 10:09 a.m. ET the dollar fell to 5.57 reais (−1.49%) and 3,495 Colombian pesos (−1.46%).",
+     "For supply chain: copper is up 3.0% since Wednesday at $5.59 per pound; close valid quotes for copper inputs from Chile and Peru today."
     ],
     "bloques": [
      {
-      "t": "What happened since the close",
-      "x": "Yesterday the Ibovespa closed at 176,799.84 (+6.07%) on reports that Luiz Carlos Trabuco, chairman of Bradesco's board, could head the Finance Ministry, and on a lower-than-expected IPCA-15, according to Seu Dinheiro. Canada's S&P/TSX closed at 34,426.88 (+0.72%). Overnight, miners rose in London: Antofagasta, with operations in Chile, gained 4.3% and Fresnillo, with mines in Mexico, 5%, according to Investing.com."
+      "t": "How it opened",
+      "x": "At 9:54 a.m. ET the Ibovespa rose 1.17% to 178,873.53, after gaining 6.07% yesterday, and at 10:08 Canada's S&P/TSX rose 0.76% to 34,688.48. At 10:09 a.m. ET the dollar fell to 5.57 reais (−1.49%) and 3,495 Colombian pesos (−1.46%), and stood at 1,037 Chilean pesos (+0.11%)."
      },
      {
-      "t": "Context",
-      "x": "At 5:08 a.m. Mexico City time the dollar stood at 5.65 reais and 3,547 Colombian pesos. From Wednesday’s close, copper was up 4.8% at $5.68 per pound and silver 10.2% at $44.66. New US rules require companies in Brazil, among other countries, to obtain a license to buy advanced AI chips."
+      "t": "What is moving the market",
+      "x": "In Brazil the momentum continues on reports that Luiz Carlos Trabuco, chairman of Bradesco's board, could head the Finance Ministry, according to Seu Dinheiro. Metals support the region: from Wednesday’s close, copper was up 3.0% at $5.59 per pound and silver 8.4%. Mexico's exports grew 30.2% in October."
      },
      {
-      "t": "What to expect today",
-      "x": "Wall Street trades until 1:00 p.m. ET today and INEGI publishes Mexico's trade balance. OPEC+ meets on Sunday the 29th."
+      "t": "What to expect",
+      "x": "Wall Street closes at 1:00 p.m. ET today. OPEC+ meets on Sunday the 29th."
      }
     ],
-    "scm": "With copper back above $5.6, close valid quotes for copper inputs from Chile and Peru today; if you buy GPUs or AI servers for operations in Brazil, review the new license requirement with your supplier."
+    "scm": "With the real and Colombian peso stronger, cover your payments in those currencies today; with copper rising, close valid quotes for copper inputs from Chile and Peru today."
    },
    "pt": {
-    "titular": "Depois do salto de 6% do Ibovespa, os metais disparam e apoiam Chile e Peru",
+    "titular": "O Ibovespa sobe mais 1,2% após o salto de 6% e o real se fortalece para 5,57; o peso colombiano a 3.495",
     "esencial": [
-     "Ontem o Ibovespa fechou em 176.799,84 (+6,07%) e o S&P/TSX do Canadá em 34.426,88 (+0,72%).",
-     "Desde o fechamento de quarta, o cobre subia 4,8% para 5,68 dólares por libra e a prata 10,2%, o que apoia as mineradoras do Chile, do Peru e do México.",
-     "Para supply chain: o dólar está em R$ 5,65 e 3.547 pesos colombianos; escalone os pagamentos em moedas da região."
+     "Às 8h54 (Cidade do México) o Ibovespa subia 1,17% (178.873,53) e às 9h08 o S&P/TSX do Canadá 0,76%.",
+     "Às 9h09 o dólar caía para R$ 5,57 (−1,49%) e 3.495 pesos colombianos (−1,46%).",
+     "Para supply chain: o cobre sobe 3,0% desde quarta, para 5,59 dólares por libra; feche hoje as cotações vigentes de insumos de cobre do Chile e do Peru."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu desde o fechamento",
-      "x": "Ontem o Ibovespa fechou em 176.799,84 (+6,07%) por notícias de que Luiz Carlos Trabuco, presidente do conselho do Bradesco, pode comandar o Ministério da Fazenda, e por um IPCA-15 menor que o esperado, segundo o Seu Dinheiro. O S&P/TSX do Canadá fechou em 34.426,88 (+0,72%). Durante a noite, as mineradoras subiram em Londres: a Antofagasta, com operações no Chile, ganhava 4,3% e a Fresnillo, com minas no México, 5%, segundo a Investing.com."
+      "t": "Como abriu",
+      "x": "Às 8h54 (Cidade do México) o Ibovespa subia 1,17% para 178.873,53, depois de ganhar 6,07% ontem, e às 9h08 o S&P/TSX do Canadá subia 0,76% para 34.688,48. Às 9h09 o dólar caía para R$ 5,57 (−1,49%) e 3.495 pesos colombianos (−1,46%), e estava em 1.037 pesos chilenos (+0,11%)."
      },
      {
-      "t": "Contexto",
-      "x": "Às 5h08 (Cidade do México) o dólar estava em R$ 5,65 e 3.547 pesos colombianos. Desde o fechamento de quarta, o cobre subia 4,8% para 5,68 dólares por libra e a prata 10,2% para 44,66. As novas regras dos EUA obrigam empresas do Brasil, entre outros países, a pedir licença para comprar chips avançados de IA."
+      "t": "O que move o mercado",
+      "x": "No Brasil segue o impulso pelas notícias de que Luiz Carlos Trabuco, presidente do conselho do Bradesco, pode comandar o Ministério da Fazenda, segundo o Seu Dinheiro. Os metais apoiam a região: desde o fechamento de quarta, o cobre subia 3,0% para 5,59 dólares por libra e a prata 8,4%. As exportações do México cresceram 30,2% em outubro."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Hoje Wall Street opera até as 13h00 de Nova York e o INEGI divulga a balança comercial do México. A OPEP+ se reúne no domingo, dia 29."
+      "t": "O que se espera",
+      "x": "Hoje Wall Street fecha às 12h00 (Cidade do México). A OPEP+ se reúne no domingo, dia 29."
      }
     ],
-    "scm": "Com o cobre de volta acima de 5,6 dólares, feche hoje as cotações vigentes de insumos de cobre do Chile e do Peru; se você compra GPUs ou servidores de IA para operações no Brasil, revise com o fornecedor a nova exigência de licença."
+    "scm": "Com o real e o peso colombiano mais fortes, cubra hoje seus pagamentos nessas moedas; com o cobre em alta, feche hoje as cotações vigentes de insumos de cobre do Chile e do Peru."
    },
    "fuentes": [
     {
@@ -191,11 +189,7 @@
      "u": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-today-stocks-rise-085208572.html"
     },
     {
-     "t": "Investing.com: restricciones a chips de IA, SpaceX y riesgos petroleros, lo que mueve a los mercados (27 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/articles/ai-chip-curbs-musk-giveaway-092034519.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (27 nov 2026, 05:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 09:09 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     },
     {
@@ -205,92 +199,103 @@
    ]
   },
   "mexico": {
-   "id": "2026-11-27-premercado-mexico",
+   "id": "2026-11-27-apertura-mexico",
    "fecha": "2026-11-27",
-   "momento": "premercado",
+   "momento": "apertura",
    "mercado": "mexico",
-   "hora": "05:08 CDMX",
-   "fin_de_semana": false,
+   "hora": "09:09 CDMX",
    "es": {
-    "titular": "El peso se recupera a 19.50 con el ánimo global; el FIX de ayer fue de 19.7203 y hoy rige el de 19.7040",
+    "titular": "Exportaciones récord: México vende 86,009 millones de dólares en octubre (+30.2%); el IPC sube 2.1%",
     "esencial": [
-     "A las 5:08 CDMX el peso cotizaba en 19.50 por dólar (−0.99% el dólar), después de cerrar ayer en 19.71; ayer el S&P/BMV IPC cayó 1.43%.",
-     "Hoy rige para pagos el FIX de 19.7040; el que Banxico determinó ayer fue de 19.7203 y rige desde el lunes 30.",
-     "Para supply chain: hoy el INEGI publica la balanza comercial de octubre; con el peso en 19.50 y el FIX en 19.70, compara antes de pagar al FIX o al tipo de mercado."
+     "Las exportaciones de México crecieron 30.2% anual en octubre, a 86,009 millones de dólares, y la balanza tuvo un superávit de 298.2 millones, según el INEGI.",
+     "A las 8:49 CDMX el S&P/BMV IPC subía 2.07% (71,807.38) y a las 9:09 el peso cotizaba en 19.65 por dólar (−0.27% el dólar).",
+     "Para supply chain: las exportaciones automotrices crecieron sólo 5.6%, mientras el equipo de cómputo impulsa el récord; hoy rige el FIX de 19.7040."
     ],
     "bloques": [
      {
-      "t": "Lo que pasó desde el cierre",
-      "x": "Ayer el S&P/BMV IPC cerró en 70,353.18 puntos (−1.43%) y el peso en 19.71, en una sesión sin Wall Street. Banxico determinó ayer un FIX de 19.7203 (+0.08%), que se publica hoy en el DOF y rige para pagos desde el lunes 30; hoy rige el de 19.7040. En la noche, el peso se recuperó a 19.50 por dólar (−0.99% el dólar a las 5:08 CDMX), con el ánimo de los mercados globales."
+      "t": "Cómo abrió",
+      "x": "A las 8:49 CDMX el S&P/BMV IPC subía 2.07% a 71,807.38 puntos, después de caer 1.43% ayer. A las 9:09 CDMX el peso cotizaba en 19.65 por dólar (−0.27% el dólar). Hoy rige para pagos el FIX de 19.7040; el que Banxico determinó ayer, de 19.7203, rige desde el lunes 30."
      },
      {
-      "t": "Contexto",
-      "x": "Los futuros de Wall Street suben con fuerza y los metales se disparan: desde el cierre del miércoles, la plata sube 10.2% y el cobre 4.8%, lo que apoya a las mineras. El petróleo sigue cerca de su nivel más alto del mes por los ataques en Medio Oriente. La tasa de desocupación de México subió a 3.0% en octubre, su nivel más alto desde 2022, según el INEGI."
+      "t": "Lo que mueve al mercado",
+      "x": "Las exportaciones de México sumaron 86,009 millones de dólares en octubre, 30.2% más que hace un año, aunque crecieron menos que el 37.9% de septiembre; de enero a octubre suman 713,203 millones (+30.3%), arriba del total de todo 2025, según el INEGI citado por Energy Magazine y Expansión. La balanza comercial tuvo un superávit de 298.2 millones de dólares. El impulso viene del equipo de cómputo ligado a la IA; las exportaciones automotrices crecieron sólo 5.6% (+7.2% a EE. UU. y −3.3% al resto del mundo) y acumulan 1.75% en el año."
      },
      {
-      "t": "Qué se espera hoy",
-      "x": "Hoy el INEGI publica la balanza comercial de octubre y Wall Street opera hasta las 12:00 CDMX. El 9 de diciembre la Fed anuncia su decisión de tasas."
+      "t": "Qué se espera",
+      "x": "Hoy Wall Street cierra a las 12:00 CDMX. El lunes 30 rige el FIX de 19.7203. El 9 de diciembre la Fed anuncia su decisión de tasas."
      }
     ],
-    "scm": "Hoy los pagos en dólares al FIX se liquidan a 19.7040, pero el mercado opera en 19.50: si puedes pagar al tipo de mercado, compáralo antes. Revisa la balanza comercial de octubre para ver cómo van importaciones y exportaciones manufactureras."
+    "scm": "Si exportas autopartes, el sector crece poco: revisa con tus clientes los pronósticos del primer trimestre. Si estás en electrónica o cómputo, la demanda sigue fuerte: asegura capacidad de cruce y transporte para diciembre."
    },
    "en": {
-    "titular": "The peso recovers to 19.50 on global sentiment; yesterday’s FIX was 19.7203 and today the 19.7040 applies",
+    "titular": "Record exports: Mexico ships $86.0 billion in October (+30.2%); the IPC rises 2.1%",
     "esencial": [
-     "At 5:08 a.m. Mexico City time the peso traded at 19.50 per dollar (dollar −0.99%), after closing yesterday at 19.71; yesterday the S&P/BMV IPC fell 1.43%.",
-     "Today the 19.7040 FIX applies to payments; the one Banxico set yesterday was 19.7203 and applies from Monday the 30th.",
-     "For supply chain: INEGI publishes the October trade balance today; with the peso at 19.50 and the FIX at 19.70, compare before paying at the FIX or at the market rate."
+     "Mexico's exports grew 30.2% year on year in October to $86.009 billion, and the trade balance posted a $298.2 million surplus, according to INEGI.",
+     "At 8:49 a.m. Mexico City time the S&P/BMV IPC was up 2.07% (71,807.38) and at 9:09 the peso traded at 19.65 per dollar (dollar −0.27%).",
+     "For supply chain: auto exports grew only 5.6%, while computer equipment drives the record; today the 19.7040 FIX applies."
     ],
     "bloques": [
      {
-      "t": "What happened since the close",
-      "x": "Yesterday the S&P/BMV IPC closed at 70,353.18 points (−1.43%) and the peso at 19.71, in a session without Wall Street. Banxico set a 19.7203 FIX yesterday (+0.08%), published today in the DOF and applying to payments from Monday the 30th; today the 19.7040 one applies. Overnight, the peso recovered to 19.50 per dollar (dollar −0.99% at 5:08 a.m.), on global market sentiment."
+      "t": "How it opened",
+      "x": "At 8:49 a.m. Mexico City time the S&P/BMV IPC was up 2.07% at 71,807.38 points, after falling 1.43% yesterday. At 9:09 a.m. the peso traded at 19.65 per dollar (dollar −0.27%). Today the 19.7040 FIX applies to payments; the 19.7203 one set by Banxico yesterday applies from Monday the 30th."
      },
      {
-      "t": "Context",
-      "x": "Wall Street futures are rising strongly and metals are soaring: from Wednesday’s close, silver is up 10.2% and copper 4.8%, supporting miners. Oil remains near its monthly high on the Middle East attacks. Mexico’s unemployment rate rose to 3.0% in October, its highest since 2022, according to INEGI."
+      "t": "What is moving the market",
+      "x": "Mexico's exports totaled $86.009 billion in October, up 30.2% from a year earlier, although growth slowed from 37.9% in September; January to October totals $713.203 billion (+30.3%), above all of 2025, according to INEGI cited by Energy Magazine and Expansión. The trade balance posted a $298.2 million surplus. The push comes from AI-related computer equipment; auto exports grew only 5.6% (+7.2% to the US and −3.3% to the rest of the world) and are up 1.75% for the year."
      },
      {
-      "t": "What to expect today",
-      "x": "INEGI publishes the October trade balance today and Wall Street trades until 12:00 p.m. Mexico City time. On December 9 the Fed announces its rate decision."
+      "t": "What to expect",
+      "x": "Wall Street closes at 12:00 p.m. Mexico City time today. On Monday the 30th the 19.7203 FIX applies. On December 9 the Fed announces its rate decision."
      }
     ],
-    "scm": "Today dollar payments at the FIX settle at 19.7040, but the market trades at 19.50: if you can pay at the market rate, compare first. Review the October trade balance to see how manufacturing imports and exports are doing."
+    "scm": "If you export auto parts, the sector is growing little: review first-quarter forecasts with your customers. If you are in electronics or computing, demand remains strong: secure crossing and transport capacity for December."
    },
    "pt": {
-    "titular": "O peso se recupera para 19,50 com o ânimo global; o FIX de ontem foi de 19,7203 e hoje vale o de 19,7040",
+    "titular": "Exportações recorde: o México vende 86,009 bilhões de dólares em outubro (+30,2%); o IPC sobe 2,1%",
     "esencial": [
-     "Às 5h08 (Cidade do México) o peso era cotado a 19,50 por dólar (dólar −0,99%), depois de fechar ontem em 19,71; ontem o S&P/BMV IPC caiu 1,43%.",
-     "Hoje vale para pagamentos o FIX de 19,7040; o definido ontem pelo Banxico foi de 19,7203 e vale a partir de segunda, dia 30.",
-     "Para supply chain: hoje o INEGI divulga a balança comercial de outubro; com o peso em 19,50 e o FIX em 19,70, compare antes de pagar ao FIX ou à taxa de mercado."
+     "As exportações do México cresceram 30,2% ao ano em outubro, para 86,009 bilhões de dólares, e a balança teve superávit de 298,2 milhões, segundo o INEGI.",
+     "Às 8h49 (Cidade do México) o S&P/BMV IPC subia 2,07% (71.807,38) e às 9h09 o peso era cotado a 19,65 por dólar (dólar −0,27%).",
+     "Para supply chain: as exportações automotivas cresceram só 5,6%, enquanto os equipamentos de computação impulsionam o recorde; hoje vale o FIX de 19,7040."
     ],
     "bloques": [
      {
-      "t": "O que aconteceu desde o fechamento",
-      "x": "Ontem o S&P/BMV IPC fechou em 70.353,18 pontos (−1,43%) e o peso em 19,71, numa sessão sem Wall Street. O Banxico definiu ontem um FIX de 19,7203 (+0,08%), publicado hoje no DOF e que vale para pagamentos a partir de segunda, dia 30; hoje vale o de 19,7040. Durante a noite, o peso se recuperou para 19,50 por dólar (dólar −0,99% às 5h08), com o ânimo dos mercados globais."
+      "t": "Como abriu",
+      "x": "Às 8h49 (Cidade do México) o S&P/BMV IPC subia 2,07% para 71.807,38 pontos, depois de cair 1,43% ontem. Às 9h09 o peso era cotado a 19,65 por dólar (dólar −0,27%). Hoje vale para pagamentos o FIX de 19,7040; o de 19,7203, definido ontem pelo Banxico, vale a partir de segunda, dia 30."
      },
      {
-      "t": "Contexto",
-      "x": "Os futuros de Wall Street sobem forte e os metais disparam: desde o fechamento de quarta, a prata sobe 10,2% e o cobre 4,8%, o que apoia as mineradoras. O petróleo segue perto da máxima do mês pelos ataques no Oriente Médio. A taxa de desemprego do México subiu para 3,0% em outubro, o maior nível desde 2022, segundo o INEGI."
+      "t": "O que move o mercado",
+      "x": "As exportações do México somaram 86,009 bilhões de dólares em outubro, 30,2% acima de um ano antes, embora tenham crescido menos que os 37,9% de setembro; de janeiro a outubro somam 713,203 bilhões (+30,3%), acima do total de 2025, segundo o INEGI citado pela Energy Magazine e pela Expansión. A balança comercial teve superávit de 298,2 milhões de dólares. O impulso vem dos equipamentos de computação ligados à IA; as exportações automotivas cresceram só 5,6% (+7,2% para os EUA e −3,3% para o resto do mundo) e acumulam 1,75% no ano."
      },
      {
-      "t": "O que se espera hoje",
-      "x": "Hoje o INEGI divulga a balança comercial de outubro e Wall Street opera até as 12h00 (Cidade do México). Em 9 de dezembro o Fed anuncia sua decisão de juros."
+      "t": "O que se espera",
+      "x": "Hoje Wall Street fecha às 12h00 (Cidade do México). Na segunda, dia 30, vale o FIX de 19,7203. Em 9 de dezembro o Fed anuncia sua decisão de juros."
      }
     ],
-    "scm": "Hoje os pagamentos em dólares ao FIX se liquidam a 19,7040, mas o mercado opera em 19,50: se puder pagar à taxa de mercado, compare antes. Revise a balança comercial de outubro para ver como vão as importações e exportações manufatureiras."
+    "scm": "Se você exporta autopeças, o setor cresce pouco: revise com seus clientes as previsões do primeiro trimestre. Se está em eletrônica ou computação, a demanda segue forte: garanta capacidade de travessia e transporte para dezembro."
    },
    "fuentes": [
+    {
+     "t": "Yahoo Finance: IPC México (^MXX), 27 nov 2026",
+     "u": "https://finance.yahoo.com/quote/%5EMXX/"
+    },
+    {
+     "t": "Energy Magazine: México rompe récord de exportaciones por la IA; los autos siguen desacelerando (27 nov 2026)",
+     "u": "https://energymagazine.mx/2026/11/mexico-rompe-record-de-exportaciones-por-la-ia-autos-continuan-desacelerando/"
+    },
+    {
+     "t": "Expansión: México supera en octubre su récord exportador de 2025 con 713,203 millones de dólares acumulados (27 nov 2026)",
+     "u": "https://expansion.mx/economia/2026/11/27/exportaciones-mexico-record-octubre-2026"
+    },
+    {
+     "t": "Infobae: México registra un superávit comercial de 298.2 millones de dólares en octubre (27 nov 2026)",
+     "u": "https://www.infobae.com/america/agencias/2026/11/27/mexico-registra-un-superavit-comercial-de-2982-millones-de-dolares-en-octubre/"
+    },
     {
      "t": "Banxico: tipo de cambio FIX (26 nov 2026: 19.7203)",
      "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
     },
     {
-     "t": "Investing.com: el FTSE 100 sube con las mineras por el rebote de los metales (27 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-today-stocks-rise-085208572.html"
-    },
-    {
-     "t": "Yahoo Finance: índices, futuros, divisas y materias primas (27 nov 2026, 05:08 CDMX)",
+     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 09:09 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]
@@ -298,8 +303,8 @@
  },
  "lectura": {
   "es": {
-   "titular": "Un jueves sin Wall Street: el Brent cierra en 96.57 por Ormuz, el peso termina débil en 19.71 y el FIX sube a 19.7040",
-   "resumen": "Con Wall Street cerrado por el Día de Acción de Gracias, la sesión la definieron el petróleo y las monedas. El Brent de enero cerró en 96.57 dólares después de que dos petroleros explotaron al chocar con minas en el estrecho de Ormuz, un día después del ataque a la refinería saudí de Ras Tanura; la OPEP+ decide el domingo y podría mantener sus metas en el primer trimestre de 2027. Para supply chain, eso sostiene el costo del combustible y de los seguros marítimos. En México, el IPC bajó 1.43% y el peso cerró en 19.71, con un desempleo de 3.0% en octubre que anticipa un consumo más débil; mañana rige un FIX de 19.7040. Brasil subió 6% y el real se fortaleció a 5.64.",
+   "titular": "Exportaciones récord en México (+30.2%) y un Black Friday al alza en Wall Street; los metales se disparan",
+   "resumen": "El viernes llega con dos señales para supply chain. En México, las exportaciones crecieron 30.2% en octubre, a 86,009 millones de dólares, y el acumulado del año ya supera todo 2025; pero el impulso viene del equipo de cómputo ligado a la IA, mientras las exportaciones automotrices crecen sólo 5.6%. En EE. UU., Wall Street abre al alza en una sesión corta y la NRF espera ventas de fin de año récord, por arriba de un billón de dólares. Los metales se disparan (plata +8.4% y cobre +3.0% desde el miércoles), lo que encarece cable, conectores y empaques. El Brent baja a 95.30 dólares antes de la OPEP+ del domingo. El IPC sube 2.1% y el peso opera en 19.65; hoy rige el FIX de 19.7040 y el lunes el de 19.7203.",
    "temas": [
     {
      "tema": "Peso y tasas",
@@ -400,8 +405,8 @@
    ]
   },
   "en": {
-   "titular": "A Thursday without Wall Street: Brent settles at $96.57 on Hormuz, the peso ends weak at 19.71 and the FIX rises to 19.7040",
-   "resumen": "With Wall Street closed for Thanksgiving, oil and currencies defined the session. January Brent settled at $96.57 after two tankers exploded on hitting mines in the Strait of Hormuz, a day after the attack on Saudi Arabia’s Ras Tanura refinery; OPEC+ decides on Sunday and may keep its targets for the first quarter of 2027. For supply chain, that keeps fuel and marine insurance costs elevated. In Mexico, the IPC fell 1.43% and the peso closed at 19.71, with October unemployment at 3.0% signaling weaker consumption; tomorrow a 19.7040 FIX applies. Brazil rose 6% and the real strengthened to 5.64.",
+   "titular": "Record exports in Mexico (+30.2%) and a higher Black Friday on Wall Street; metals soar",
+   "resumen": "Friday brings two signals for supply chain. In Mexico, exports grew 30.2% in October to $86.009 billion, and the year-to-date total already exceeds all of 2025; but the push comes from AI-related computer equipment, while auto exports grow only 5.6%. In the US, Wall Street opens higher in a short session and the NRF expects record holiday sales above $1 trillion. Metals are soaring (silver +8.4% and copper +3.0% since Wednesday), making cable, connectors and packaging more expensive. Brent falls to $95.30 ahead of Sunday’s OPEC+ meeting. The IPC rises 2.1% and the peso trades at 19.65; today the 19.7040 FIX applies and on Monday the 19.7203.",
    "temas": [
     {
      "tema": "Peso and rates",
@@ -502,8 +507,8 @@
    ]
   },
   "pt": {
-   "titular": "Uma quinta sem Wall Street: o Brent fecha a 96,57 por Ormuz, o peso termina fraco em 19,71 e o FIX sobe para 19,7040",
-   "resumen": "Com Wall Street fechada pelo Dia de Ação de Graças, a sessão foi definida pelo petróleo e pelas moedas. O Brent de janeiro fechou a 96,57 dólares depois que dois petroleiros explodiram ao bater em minas no estreito de Ormuz, um dia após o ataque à refinaria saudita de Ras Tanura; a OPEP+ decide no domingo e pode manter suas metas no primeiro trimestre de 2027. Para supply chain, isso sustenta o custo do combustível e dos seguros marítimos. No México, o IPC caiu 1,43% e o peso fechou em 19,71, com desemprego de 3,0% em outubro que antecipa um consumo mais fraco; amanhã vale um FIX de 19,7040. O Brasil subiu 6% e o real se fortaleceu para 5,64.",
+   "titular": "Exportações recorde no México (+30,2%) e uma Black Friday em alta em Wall Street; os metais disparam",
+   "resumen": "A sexta traz dois sinais para supply chain. No México, as exportações cresceram 30,2% em outubro, para 86,009 bilhões de dólares, e o acumulado do ano já supera todo 2025; mas o impulso vem dos equipamentos de computação ligados à IA, enquanto as exportações automotivas crescem só 5,6%. Nos EUA, Wall Street abre em alta numa sessão curta e a NRF espera vendas recorde de fim de ano, acima de 1 trilhão de dólares. Os metais disparam (prata +8,4% e cobre +3,0% desde quarta), o que encarece cabos, conectores e embalagens. O Brent cai para 95,30 dólares antes da OPEP+ de domingo. O IPC sobe 2,1% e o peso opera em 19,65; hoje vale o FIX de 19,7040 e na segunda o de 19,7203.",
    "temas": [
     {
      "tema": "Peso e juros",
@@ -609,8 +614,8 @@
    "nombre": "IPC BMV",
    "name_en": "IPC BMV",
    "grupo": "bolsa",
-   "valor": 70353.18,
-   "cambio": -1.43,
+   "valor": 71807.38,
+   "cambio": 2.07,
    "unidad": "puntos",
    "name_pt": "IPC BMV"
   },
@@ -618,8 +623,8 @@
    "nombre": "S&P 500",
    "name_en": "S&P 500",
    "grupo": "bolsa",
-   "valor": 7182.78,
-   "cambio": -0.25,
+   "valor": 7233.62,
+   "cambio": 0.71,
    "unidad": "puntos",
    "name_pt": "S&P 500"
   },
@@ -627,8 +632,8 @@
    "nombre": "Nasdaq",
    "name_en": "Nasdaq",
    "grupo": "bolsa",
-   "valor": 23585.8,
-   "cambio": -0.62,
+   "valor": 23779.87,
+   "cambio": 0.82,
    "unidad": "puntos",
    "name_pt": "Nasdaq"
   },
@@ -636,8 +641,8 @@
    "nombre": "Dow Jones",
    "name_en": "Dow Jones",
    "grupo": "bolsa",
-   "valor": 50182.95,
-   "cambio": 0.33,
+   "valor": 50529.43,
+   "cambio": 0.69,
    "unidad": "puntos",
    "name_pt": "Dow Jones"
   },
@@ -645,8 +650,8 @@
    "nombre": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
    "grupo": "bolsa",
-   "valor": 6096.78,
-   "cambio": 1.36,
+   "valor": 6071.46,
+   "cambio": 0.94,
    "unidad": "puntos",
    "name_pt": "Euro Stoxx 50"
   },
@@ -672,8 +677,8 @@
    "nombre": "USD/MXN",
    "name_en": "USD/MXN",
    "grupo": "divisa",
-   "valor": 19.5,
-   "cambio": -0.99,
+   "valor": 19.65,
+   "cambio": -0.27,
    "unidad": "",
    "name_pt": "USD/MXN"
   },
@@ -681,8 +686,8 @@
    "nombre": "EUR/USD",
    "name_en": "EUR/USD",
    "grupo": "divisa",
-   "valor": 1.0969,
-   "cambio": -0.05,
+   "valor": 1.0947,
+   "cambio": -0.26,
    "unidad": "",
    "name_pt": "EUR/USD"
   },
@@ -699,8 +704,8 @@
    "nombre": "Petróleo WTI",
    "name_en": "WTI crude",
    "grupo": "materia_prima",
-   "valor": 85.28,
-   "cambio": 1.91,
+   "valor": 83.99,
+   "cambio": -1.0,
    "unidad": "USD/barril",
    "name_pt": "Petróleo WTI"
   },
@@ -708,8 +713,8 @@
    "nombre": "Petróleo Brent",
    "name_en": "Brent crude",
    "grupo": "materia_prima",
-   "valor": 96.5,
-   "cambio": -0.07,
+   "valor": 95.3,
+   "cambio": -1.32,
    "unidad": "USD/barril",
    "name_pt": "Petróleo Brent"
   },
@@ -726,8 +731,8 @@
    "nombre": "Oro",
    "name_en": "Gold",
    "grupo": "materia_prima",
-   "valor": 3707.5,
-   "cambio": 3.18,
+   "valor": 3664.1,
+   "cambio": 1.97,
    "unidad": "USD/onza",
    "name_pt": "Ouro"
   },
@@ -735,8 +740,8 @@
    "nombre": "Cobre",
    "name_en": "Copper",
    "grupo": "materia_prima",
-   "valor": 5.68,
-   "cambio": 4.6,
+   "valor": 5.59,
+   "cambio": 2.86,
    "unidad": "USD/libra",
    "name_pt": "Cobre"
   },
@@ -744,8 +749,8 @@
    "nombre": "Treasury 10 años",
    "name_en": "10-yr Treasury",
    "grupo": "bono",
-   "valor": 4.85,
-   "cambio": -6,
+   "valor": 4.89,
+   "cambio": 4,
    "unidad": "%",
    "name_pt": "Título do Tesouro 10 anos"
   },
@@ -771,8 +776,8 @@
    "nombre": "Bitcoin",
    "name_en": "Bitcoin",
    "grupo": "cripto",
-   "valor": 61557.17,
-   "cambio": 1.75,
+   "valor": 59062.45,
+   "cambio": -2.37,
    "unidad": "USD",
    "name_pt": "Bitcoin"
   }

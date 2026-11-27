@@ -1,0 +1,102 @@
+{
+ "id": "2026-11-27-apertura-global",
+ "fecha": "2026-11-27",
+ "momento": "apertura",
+ "mercado": "global",
+ "hora": "09:09 CDMX",
+ "es": {
+  "titular": "Wall Street abre al alza en un Black Friday de sesión corta: el Dow sube 0.7% y la plata 8%",
+  "esencial": [
+   "A las 9:09 CDMX el S&P 500 subía 0.71%, el Nasdaq 0.82% y el Dow 0.69%, aunque recortaban sus alzas de la apertura; Nvidia bajaba 1.8% y Dell subía 5.8%.",
+   "Desde el cierre del miércoles, la plata subía 8.4%, el oro 2.8% y el cobre 3.0% a 5.59 dólares por libra; el Brent de enero bajaba a 95.30 dólares.",
+   "Para supply chain: Wall Street cierra a las 12:00 CDMX; la NRF espera ventas de fin de año por más de un billón de dólares (+4.2%): confirma hoy la reposición de las próximas dos semanas."
+  ],
+  "bloques": [
+   {
+    "t": "Cómo abrió",
+    "x": "Wall Street abrió al alza en una sesión corta tras el Día de Acción de Gracias, pero recortó parte de sus ganancias: a las 9:09 CDMX el S&P 500 subía 0.71% (7,233.62), el Nasdaq 0.82% (23,779.87) y el Dow 0.69% (50,529.43); el VIX estaba en 27.1. El índice de semiconductores subía 1.3%: Micron +2.8% y TSMC +1.6%, mientras Nvidia pasó de subir 2% a bajar 1.8%. Dell subía 5.8% y Anthropic 4.8% (86.75 dólares), arriba de su precio de salida. Amazon subía 2.8% en el arranque del Black Friday. En Europa, el Euro Stoxx 50 subía 0.94%."
+   },
+   {
+    "t": "Lo que mueve al mercado",
+    "x": "Los inversionistas regresan a la tecnología tras las caídas de octubre y noviembre. Los metales siguen al alza: desde el cierre del miércoles, la plata subía 8.4% a 43.94 dólares, el oro 2.8% a 3,664 y el cobre 3.0% a 5.59 dólares por libra, en parte por cierre de posiciones cortas, según ING citado por Investing.com. El Brent de enero bajaba a 95.30 dólares desde 96.57 el jueves, después de tocar en la madrugada su nivel más alto desde el 9 de noviembre por el ataque a la refinería saudí de Jazan, según Reuters. La Federación Nacional de Minoristas (NRF) espera que las ventas de fin de año superen por primera vez un billón de dólares, con un alza de 4.2%."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Hoy las bolsas de EE. UU. cierran a las 12:00 CDMX y el mercado de bonos a las 13:00 CDMX. La OPEP+ se reúne el domingo 29 con un acuerdo en principio para mantener sus metas de producción al menos en el primer trimestre de 2027, según Reuters. El martes 1 de diciembre sale el ISM manufacturero de EE. UU. y el 8 y 9 de diciembre se reúne la Fed."
+   }
+  ],
+  "scm": "Con la NRF esperando un récord de ventas de fin de año, confirma hoy la reposición de inventario de las próximas dos semanas y la capacidad de última milla; con los metales al alza, cierra hoy las cotizaciones vigentes de cable y conectores."
+ },
+ "en": {
+  "titular": "Wall Street opens higher on a short Black Friday session: the Dow rises 0.7% and silver 8%",
+  "esencial": [
+   "At 10:09 a.m. ET the S&P 500 was up 0.71%, the Nasdaq 0.82% and the Dow 0.69%, although they were paring opening gains; Nvidia fell 1.8% and Dell rose 5.8%.",
+   "From Wednesday’s close, silver was up 8.4%, gold 2.8% and copper 3.0% to $5.59 per pound; January Brent fell to $95.30.",
+   "For supply chain: Wall Street closes at 1:00 p.m. ET; the NRF expects holiday sales above $1 trillion (+4.2%): confirm replenishment for the next two weeks today."
+  ],
+  "bloques": [
+   {
+    "t": "How it opened",
+    "x": "Wall Street opened higher in a short session after Thanksgiving, but pared some gains: at 10:09 a.m. ET the S&P 500 was up 0.71% (7,233.62), the Nasdaq 0.82% (23,779.87) and the Dow 0.69% (50,529.43); the VIX stood at 27.1. The semiconductor index rose 1.3%: Micron +2.8% and TSMC +1.6%, while Nvidia went from up 2% to down 1.8%. Dell rose 5.8% and Anthropic 4.8% ($86.75), above its IPO price. Amazon rose 2.8% at the start of Black Friday. In Europe, the Euro Stoxx 50 rose 0.94%."
+   },
+   {
+    "t": "What is moving the market",
+    "x": "Investors are returning to tech after October and November declines. Metals keep rising: from Wednesday’s close, silver was up 8.4% at $43.94, gold 2.8% at $3,664 and copper 3.0% at $5.59 per pound, partly on short covering, according to ING cited by Investing.com. January Brent fell to $95.30 from $96.57 on Thursday, after touching its highest since November 9 overnight on the attack on Saudi Arabia’s Jazan refinery, according to Reuters. The National Retail Federation (NRF) expects holiday sales to top $1 trillion for the first time, up 4.2%."
+   },
+   {
+    "t": "What to expect",
+    "x": "US stock markets close at 1:00 p.m. ET today and the bond market at 2:00 p.m. ET. OPEC+ meets on Sunday the 29th with an agreement in principle to keep its output targets for at least the first quarter of 2027, according to Reuters. The US ISM manufacturing index comes out on Tuesday, December 1, and the Fed meets on December 8 and 9."
+   }
+  ],
+  "scm": "With the NRF expecting record holiday sales, confirm inventory replenishment for the next two weeks and last-mile capacity today; with metals rising, close valid cable and connector quotes today."
+ },
+ "pt": {
+  "titular": "Wall Street abre em alta numa Black Friday de sessão curta: o Dow sobe 0,7% e a prata 8%",
+  "esencial": [
+   "Às 9h09 (Cidade do México) o S&P 500 subia 0,71%, o Nasdaq 0,82% e o Dow 0,69%, embora reduzissem os ganhos da abertura; a Nvidia caía 1,8% e a Dell subia 5,8%.",
+   "Desde o fechamento de quarta, a prata subia 8,4%, o ouro 2,8% e o cobre 3,0% para 5,59 dólares por libra; o Brent de janeiro caía para 95,30 dólares.",
+   "Para supply chain: Wall Street fecha às 12h00 (Cidade do México); a NRF espera vendas de fim de ano acima de 1 trilhão de dólares (+4,2%): confirme hoje a reposição das próximas duas semanas."
+  ],
+  "bloques": [
+   {
+    "t": "Como abriu",
+    "x": "Wall Street abriu em alta numa sessão curta após o Dia de Ação de Graças, mas reduziu parte dos ganhos: às 9h09 (Cidade do México) o S&P 500 subia 0,71% (7.233,62), o Nasdaq 0,82% (23.779,87) e o Dow 0,69% (50.529,43); o VIX estava em 27,1. O índice de semicondutores subia 1,3%: Micron +2,8% e TSMC +1,6%, enquanto a Nvidia passou de alta de 2% para queda de 1,8%. A Dell subia 5,8% e a Anthropic 4,8% (86,75 dólares), acima do preço do IPO. A Amazon subia 2,8% no início da Black Friday. Na Europa, o Euro Stoxx 50 subia 0,94%."
+   },
+   {
+    "t": "O que move o mercado",
+    "x": "Os investidores voltam à tecnologia após as quedas de outubro e novembro. Os metais seguem em alta: desde o fechamento de quarta, a prata subia 8,4% para 43,94 dólares, o ouro 2,8% para 3.664 e o cobre 3,0% para 5,59 dólares por libra, em parte por cobertura de posições vendidas, segundo o ING citado pela Investing.com. O Brent de janeiro caía para 95,30 dólares desde 96,57 na quinta, depois de tocar de madrugada o maior nível desde 9 de novembro pelo ataque à refinaria saudita de Jazan, segundo a Reuters. A Federação Nacional do Varejo (NRF) espera que as vendas de fim de ano superem pela primeira vez 1 trilhão de dólares, com alta de 4,2%."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Hoje as bolsas dos EUA fecham às 12h00 (Cidade do México) e o mercado de títulos às 13h00. A OPEP+ se reúne no domingo, dia 29, com um acordo em princípio para manter suas metas de produção ao menos no primeiro trimestre de 2027, segundo a Reuters. Na terça, 1º de dezembro, sai o ISM industrial dos EUA e em 8 e 9 de dezembro o Fed se reúne."
+   }
+  ],
+  "scm": "Com a NRF esperando vendas recorde de fim de ano, confirme hoje a reposição de estoque das próximas duas semanas e a capacidade de última milha; com os metais em alta, feche hoje as cotações vigentes de cabos e conectores."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben en un Black Friday de sesión corta (27 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+  },
+  {
+   "t": "Investor's Business Daily: el Dow sube 500 puntos mientras Nvidia duda; Anthropic y Tesla suben (27 nov 2026)",
+   "u": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-dow-jumps.html"
+  },
+  {
+   "t": "Investing.com: restricciones a chips de IA, SpaceX y riesgos petroleros, lo que mueve a los mercados (27 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/articles/ai-chip-curbs-musk-giveaway-092034519.html"
+  },
+  {
+   "t": "Reuters: el petróleo va camino de romper una racha de tres semanas a la baja por temores de oferta (27 nov 2026)",
+   "u": "https://finance.yahoo.com/energy/articles/oil-track-snap-3-week-082519990.html"
+  },
+  {
+   "t": "Investing.com: el FTSE 100 sube con las mineras por el rebote de los metales (27 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-today-stocks-rise-085208572.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 09:09 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}

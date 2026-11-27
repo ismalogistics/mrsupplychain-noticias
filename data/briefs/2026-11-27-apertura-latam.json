@@ -1,0 +1,94 @@
+{
+ "id": "2026-11-27-apertura-latam",
+ "fecha": "2026-11-27",
+ "momento": "apertura",
+ "mercado": "latam",
+ "hora": "09:09 CDMX",
+ "es": {
+  "titular": "El Ibovespa sube 1.2% más tras su salto de 6% y el real se fortalece a 5.57; el peso colombiano, a 3,495",
+  "esencial": [
+   "A las 8:54 CDMX el Ibovespa subía 1.17% (178,873.53) y a las 9:08 el S&P/TSX de Canadá 0.76%.",
+   "A las 9:09 CDMX el dólar bajaba a 5.57 reales (−1.49%) y 3,495 pesos colombianos (−1.46%).",
+   "Para supply chain: el cobre sube 3.0% desde el miércoles, a 5.59 dólares por libra; cierra hoy las cotizaciones vigentes de insumos de cobre de Chile y Perú."
+  ],
+  "bloques": [
+   {
+    "t": "Cómo abrió",
+    "x": "A las 8:54 CDMX el Ibovespa subía 1.17% a 178,873.53, después de ganar 6.07% ayer, y a las 9:08 el S&P/TSX de Canadá subía 0.76% a 34,688.48. A las 9:09 CDMX el dólar bajaba a 5.57 reales (−1.49%) y 3,495 pesos colombianos (−1.46%), y estaba en 1,037 pesos chilenos (+0.11%)."
+   },
+   {
+    "t": "Lo que mueve al mercado",
+    "x": "En Brasil sigue el impulso por los reportes de que Luiz Carlos Trabuco, presidente del consejo de Bradesco, podría encabezar el Ministerio de Hacienda, según Seu Dinheiro. Los metales apoyan a la región: desde el cierre del miércoles, el cobre subía 3.0% a 5.59 dólares por libra y la plata 8.4%. Las exportaciones de México crecieron 30.2% en octubre."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Hoy Wall Street cierra a las 12:00 CDMX. La OPEP+ se reúne el domingo 29."
+   }
+  ],
+  "scm": "Con el real y el peso colombiano más fuertes, cubre hoy tus pagos en esas monedas; con el cobre al alza, cierra hoy las cotizaciones vigentes de insumos de cobre de Chile y Perú."
+ },
+ "en": {
+  "titular": "The Ibovespa adds 1.2% after its 6% jump and the real strengthens to 5.57; the Colombian peso at 3,495",
+  "esencial": [
+   "At 9:54 a.m. ET the Ibovespa rose 1.17% (178,873.53) and at 10:08 Canada's S&P/TSX 0.76%.",
+   "At 10:09 a.m. ET the dollar fell to 5.57 reais (−1.49%) and 3,495 Colombian pesos (−1.46%).",
+   "For supply chain: copper is up 3.0% since Wednesday at $5.59 per pound; close valid quotes for copper inputs from Chile and Peru today."
+  ],
+  "bloques": [
+   {
+    "t": "How it opened",
+    "x": "At 9:54 a.m. ET the Ibovespa rose 1.17% to 178,873.53, after gaining 6.07% yesterday, and at 10:08 Canada's S&P/TSX rose 0.76% to 34,688.48. At 10:09 a.m. ET the dollar fell to 5.57 reais (−1.49%) and 3,495 Colombian pesos (−1.46%), and stood at 1,037 Chilean pesos (+0.11%)."
+   },
+   {
+    "t": "What is moving the market",
+    "x": "In Brazil the momentum continues on reports that Luiz Carlos Trabuco, chairman of Bradesco's board, could head the Finance Ministry, according to Seu Dinheiro. Metals support the region: from Wednesday’s close, copper was up 3.0% at $5.59 per pound and silver 8.4%. Mexico's exports grew 30.2% in October."
+   },
+   {
+    "t": "What to expect",
+    "x": "Wall Street closes at 1:00 p.m. ET today. OPEC+ meets on Sunday the 29th."
+   }
+  ],
+  "scm": "With the real and Colombian peso stronger, cover your payments in those currencies today; with copper rising, close valid quotes for copper inputs from Chile and Peru today."
+ },
+ "pt": {
+  "titular": "O Ibovespa sobe mais 1,2% após o salto de 6% e o real se fortalece para 5,57; o peso colombiano a 3.495",
+  "esencial": [
+   "Às 8h54 (Cidade do México) o Ibovespa subia 1,17% (178.873,53) e às 9h08 o S&P/TSX do Canadá 0,76%.",
+   "Às 9h09 o dólar caía para R$ 5,57 (−1,49%) e 3.495 pesos colombianos (−1,46%).",
+   "Para supply chain: o cobre sobe 3,0% desde quarta, para 5,59 dólares por libra; feche hoje as cotações vigentes de insumos de cobre do Chile e do Peru."
+  ],
+  "bloques": [
+   {
+    "t": "Como abriu",
+    "x": "Às 8h54 (Cidade do México) o Ibovespa subia 1,17% para 178.873,53, depois de ganhar 6,07% ontem, e às 9h08 o S&P/TSX do Canadá subia 0,76% para 34.688,48. Às 9h09 o dólar caía para R$ 5,57 (−1,49%) e 3.495 pesos colombianos (−1,46%), e estava em 1.037 pesos chilenos (+0,11%)."
+   },
+   {
+    "t": "O que move o mercado",
+    "x": "No Brasil segue o impulso pelas notícias de que Luiz Carlos Trabuco, presidente do conselho do Bradesco, pode comandar o Ministério da Fazenda, segundo o Seu Dinheiro. Os metais apoiam a região: desde o fechamento de quarta, o cobre subia 3,0% para 5,59 dólares por libra e a prata 8,4%. As exportações do México cresceram 30,2% em outubro."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Hoje Wall Street fecha às 12h00 (Cidade do México). A OPEP+ se reúne no domingo, dia 29."
+   }
+  ],
+  "scm": "Com o real e o peso colombiano mais fortes, cubra hoje seus pagamentos nessas moedas; com o cobre em alta, feche hoje as cotações vigentes de insumos de cobre do Chile e do Peru."
+ },
+ "fuentes": [
+  {
+   "t": "Seu Dinheiro: el Ibovespa se dispara por la especulación sobre Hacienda, el IPCA-15 y la agenda fiscal (26 nov 2026)",
+   "u": "https://www.seudinheiro.com/2026/bolsa-dolar/ibovespa-dispara-mais-de-3-e-dolar-recua-a-r-572-o-que-anima-o-mercado-hoje-davs/"
+  },
+  {
+   "t": "Investing.com: el FTSE 100 sube con las mineras por el rebote de los metales (27 nov 2026)",
+   "u": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-today-stocks-rise-085208572.html"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 09:09 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  },
+  {
+   "t": "Mr. Supply Chain México: mapa de calor de América",
+   "u": "https://mrsupplychain.ai/noticias/"
+  }
+ ]
+}

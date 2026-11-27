@@ -1,50 +1,85 @@
 {
- "actualizado": "2026-11-26T21:18:53Z",
- "fecha": "2026-11-26",
+ "actualizado": "2026-11-27T15:11:55Z",
+ "fecha": "2026-11-27",
  "titular": {
-  "es": "Jueves: el Brent cierra en 96.57 por Ormuz, Brasil sube 6% y en México el desempleo llega a 3%",
-  "en": "Thursday: Brent settles at $96.57 on Hormuz, Brazil rises 6% and Mexico unemployment reaches 3%",
-  "pt": "Quinta: o Brent fecha a 96,57 por Ormuz, o Brasil sobe 6% e o desemprego no México chega a 3%"
+  "es": "Viernes: exportaciones récord en México, arranca el Black Friday y los metales se disparan",
+  "en": "Friday: record exports in Mexico, Black Friday begins and metals soar",
+  "pt": "Sexta: exportações recorde no México, começa a Black Friday e os metais disparam"
  },
  "items": [
   {
-   "id": "energia",
+   "id": "manufactura",
    "dir": "up",
    "calor": 3,
    "mx": true,
-   "latam": true,
-   "es": "Energía y combustibles",
-   "en": "Energy and fuels",
-   "pt": "Energia e combustíveis",
+   "latam": false,
+   "es": "Manufactura",
+   "en": "Manufacturing",
+   "pt": "Manufatura",
    "titular": {
-    "es": "El Brent cierra en 96.57 dólares tras la explosión de dos petroleros en Ormuz",
-    "en": "Brent settles at $96.57 after two tankers explode in Hormuz",
-    "pt": "O Brent fecha a 96,57 dólares após a explosão de dois petroleiros em Ormuz"
+    "es": "México exporta 86,009 millones de dólares en octubre (+30.2%); los autos crecen sólo 5.6%",
+    "en": "Mexico exports $86.0 billion in October (+30.2%); autos grow only 5.6%",
+    "pt": "O México exporta 86,009 bilhões de dólares em outubro (+30,2%); os autos crescem só 5,6%"
    },
    "x": {
-    "es": "El Brent de enero cerró en 96.57 dólares (+1.96 dólares) después de que la Guardia Revolucionaria de Irán dijo que dos petroleros explotaron al chocar con minas cerca de Khasab, Omán; uno llevaba más de 2 millones de barriles. La OPEP+ podría mantener sus metas de producción en el primer trimestre de 2027, según Reuters. El diésel en futuros subía 1.3% a 3.70 dólares por galón.",
-    "en": "January Brent settled at $96.57 (+$1.96) after Iran's Revolutionary Guards said two tankers exploded on hitting mines near Khasab, Oman; one carried more than 2 million barrels. OPEC+ may keep its output targets for the first quarter of 2027, according to Reuters. Diesel futures rose 1.3% to $3.70 a gallon.",
-    "pt": "O Brent de janeiro fechou a 96,57 dólares (+1,96 dólar) depois que a Guarda Revolucionária do Irã disse que dois petroleiros explodiram ao bater em minas perto de Khasab, Omã; um levava mais de 2 milhões de barris. A OPEP+ pode manter suas metas de produção no primeiro trimestre de 2027, segundo a Reuters. O diesel em futuros subia 1,3% para 3,70 dólares por galão."
+    "es": "Las exportaciones de México crecieron 30.2% anual en octubre, a 86,009 millones de dólares, y suman 713,203 millones de enero a octubre (+30.3%), más que todo 2025, según el INEGI. El impulso viene del equipo de cómputo; las exportaciones automotrices crecieron 5.6% (+7.2% a EE. UU. y −3.3% al resto del mundo). La balanza tuvo un superávit de 298.2 millones de dólares.",
+    "en": "Mexico's exports grew 30.2% year on year in October to $86.009 billion and total $713.203 billion from January to October (+30.3%), more than all of 2025, according to INEGI. The push comes from computer equipment; auto exports grew 5.6% (+7.2% to the US and −3.3% to the rest of the world). The trade balance posted a $298.2 million surplus.",
+    "pt": "As exportações do México cresceram 30,2% ao ano em outubro, para 86,009 bilhões de dólares, e somam 713,203 bilhões de janeiro a outubro (+30,3%), mais que todo 2025, segundo o INEGI. O impulso vem dos equipamentos de computação; as exportações automotivas cresceram 5,6% (+7,2% para os EUA e −3,3% para o resto do mundo). A balança teve superávit de 298,2 milhões de dólares."
    },
    "scm": {
-    "es": "Revisa con tus navieras los recargos de riesgo de guerra en rutas por el Golfo Pérsico y no fijes recargos de combustible antes de la OPEP+ del domingo.",
-    "en": "Review war-risk surcharges on Persian Gulf routes with your ocean carriers and do not set fuel surcharges before Sunday’s OPEC+ meeting.",
-    "pt": "Revise com seus armadores as sobretaxas de risco de guerra nas rotas pelo Golfo Pérsico e não fixe sobretaxas de combustível antes da OPEP+ de domingo."
+    "es": "Si estás en electrónica o cómputo, asegura capacidad de cruce y transporte para diciembre; si exportas autopartes, revisa con tus clientes los pronósticos del primer trimestre.",
+    "en": "If you are in electronics or computing, secure crossing and transport capacity for December; if you export auto parts, review first-quarter forecasts with your customers.",
+    "pt": "Se você está em eletrônica ou computação, garanta capacidade de travessia e transporte para dezembro; se exporta autopeças, revise com seus clientes as previsões do primeiro trimestre."
    },
    "fuentes": [
     {
-     "t": "Reuters: el Brent cierra al alza por los ataques con minas en Ormuz y a una refinería saudí (26 nov 2026)",
-     "u": "https://finance.yahoo.com/energy/articles/oil-rises-supply-concerns-iran-030849858.html"
+     "t": "Energy Magazine: México rompe récord de exportaciones por la IA; los autos siguen desacelerando (27 nov 2026)",
+     "u": "https://energymagazine.mx/2026/11/mexico-rompe-record-de-exportaciones-por-la-ia-autos-continuan-desacelerando/"
     },
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 26 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/"
+     "t": "Expansión: México supera en octubre su récord exportador de 2025 con 713,203 millones de dólares acumulados (27 nov 2026)",
+     "u": "https://expansion.mx/economia/2026/11/27/exportaciones-mexico-record-octubre-2026"
+    },
+    {
+     "t": "Infobae: México registra un superávit comercial de 298.2 millones de dólares en octubre (27 nov 2026)",
+     "u": "https://www.infobae.com/america/agencias/2026/11/27/mexico-registra-un-superavit-comercial-de-2982-millones-de-dolares-en-octubre/"
+    }
+   ]
+  },
+  {
+   "id": "retail",
+   "dir": "up",
+   "calor": 2,
+   "mx": false,
+   "latam": false,
+   "es": "Retail y última milla",
+   "en": "Retail and last mile",
+   "pt": "Varejo e última milha",
+   "titular": {
+    "es": "Arranca el Black Friday: la NRF espera ventas de fin de año por más de un billón de dólares",
+    "en": "Black Friday begins: the NRF expects holiday sales above $1 trillion",
+    "pt": "Começa a Black Friday: a NRF espera vendas de fim de ano acima de 1 trilhão de dólares"
+   },
+   "x": {
+    "es": "La Federación Nacional de Minoristas (NRF) espera que las ventas de fin de año en EE. UU. superen por primera vez un billón de dólares, con un alza de 4.2%, y Mastercard pronostica un alza de 5.5% entre el 1 de noviembre y el 24 de diciembre, según Yahoo Finance. Amazon subía 2.8% a las 9:09 CDMX.",
+    "en": "The National Retail Federation (NRF) expects US holiday sales to top $1 trillion for the first time, up 4.2%, and Mastercard forecasts 5.5% growth between November 1 and December 24, according to Yahoo Finance. Amazon was up 2.8% at 10:09 a.m. ET.",
+    "pt": "A Federação Nacional do Varejo (NRF) espera que as vendas de fim de ano nos EUA superem pela primeira vez 1 trilhão de dólares, com alta de 4,2%, e a Mastercard prevê alta de 5,5% entre 1º de novembro e 24 de dezembro, segundo o Yahoo Finance. A Amazon subia 2,8% às 9h09 (Cidade do México)."
+   },
+   "scm": {
+    "es": "Confirma hoy la reposición de inventario de las próximas dos semanas y la capacidad de última milla para el pico de pedidos.",
+    "en": "Confirm inventory replenishment for the next two weeks and last-mile capacity for the order peak today.",
+    "pt": "Confirme hoje a reposição de estoque das próximas duas semanas e a capacidade de última milha para o pico de pedidos."
+   },
+   "fuentes": [
+    {
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben en un Black Friday de sesión corta (27 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
     }
    ]
   },
   {
    "id": "semis",
-   "dir": "up",
+   "dir": "mixed",
    "calor": 2,
    "mx": false,
    "latam": false,
@@ -52,151 +87,132 @@
    "en": "Semiconductors and electronics",
    "pt": "Semicondutores e eletrônica",
    "titular": {
-    "es": "Kioxia sube 14% tras una colaboración con Nvidia; los chips japoneses rebotan",
-    "en": "Kioxia rises 14% after a collaboration with Nvidia; Japanese chips rebound",
-    "pt": "A Kioxia sobe 14% após uma colaboração com a Nvidia; os chips japoneses se recuperam"
+    "es": "Los chips suben 1.3%, pero Nvidia pasa a −1.8%; EE. UU. frena financiamientos de centros de datos en Asia",
+    "en": "Chips rise 1.3%, but Nvidia turns −1.8%; US curbs stall data center financing in Asia",
+    "pt": "Os chips sobem 1,3%, mas a Nvidia passa a −1,8%; os EUA travam financiamentos de data centers na Ásia"
    },
    "x": {
-    "es": "Kioxia llegó a subir 14.5% en Tokio tras anunciar con Nvidia una prueba que usa 144 discos de estado sólido para ampliar la memoria de los GPU a unos 1.1 petabytes; Advantest subió cerca de 7.8% y el Nikkei 0.86%, según Investing.com.",
-    "en": "Kioxia rose as much as 14.5% in Tokyo after announcing with Nvidia a test that uses 144 solid-state drives to extend GPU memory to about 1.1 petabytes; Advantest rose about 7.8% and the Nikkei 0.86%, according to Investing.com.",
-    "pt": "A Kioxia chegou a subir 14,5% em Tóquio após anunciar com a Nvidia um teste que usa 144 discos de estado sólido para ampliar a memória das GPUs para cerca de 1,1 petabyte; a Advantest subiu cerca de 7,8% e o Nikkei 0,86%, segundo a Investing.com."
+    "es": "A las 9:09 CDMX el índice de semiconductores subía 1.3%: Micron +2.8% y TSMC +1.6%, mientras Nvidia bajaba 1.8% tras abrir al alza. Las nuevas reglas de EE. UU. obligan a empresas de Singapur, Malasia, Indonesia, Tailandia y Brasil a pedir licencia para comprar chips avanzados de IA, y bancos frenan financiamientos de centros de datos en Asia, como uno de 6,600 millones de dólares en Malasia, según Bloomberg citado por Investing.com.",
+    "en": "At 10:09 a.m. ET the semiconductor index was up 1.3%: Micron +2.8% and TSMC +1.6%, while Nvidia fell 1.8% after opening higher. New US rules require companies in Singapore, Malaysia, Indonesia, Thailand and Brazil to obtain licenses to buy advanced AI chips, and banks are stalling data center financing in Asia, such as a $6.6 billion loan in Malaysia, according to Bloomberg cited by Investing.com.",
+    "pt": "Às 9h09 (Cidade do México) o índice de semicondutores subia 1,3%: Micron +2,8% e TSMC +1,6%, enquanto a Nvidia caía 1,8% depois de abrir em alta. As novas regras dos EUA obrigam empresas de Singapura, Malásia, Indonésia, Tailândia e Brasil a pedir licença para comprar chips avançados de IA, e bancos travam financiamentos de data centers na Ásia, como um de 6,6 bilhões de dólares na Malásia, segundo a Bloomberg citada pela Investing.com."
    },
    "scm": {
-    "es": "Si compras discos de estado sólido empresariales, espera más demanda de centros de datos: asegura asignación para 2027.",
-    "en": "If you buy enterprise solid-state drives, expect more data center demand: secure 2027 allocation.",
-    "pt": "Se você compra discos de estado sólido corporativos, espere mais demanda de data centers: garanta alocação para 2027."
+    "es": "Si compras GPU o servidores de IA para operaciones en esos países, revisa con tu proveedor el nuevo requisito de licencia antes de cerrar pedidos.",
+    "en": "If you buy GPUs or AI servers for operations in those countries, review the new license requirement with your supplier before closing orders.",
+    "pt": "Se você compra GPUs ou servidores de IA para operações nesses países, revise com o fornecedor a nova exigência de licença antes de fechar pedidos."
    },
    "fuentes": [
     {
-     "t": "Investing.com: Kioxia sube 14% tras una colaboración con Nvidia y rebotan los chips (26 nov 2026)",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/kioxia-jumps-14-nvidia-collaboration-062844097.html"
-    }
-   ]
-  },
-  {
-   "id": "manufactura",
-   "dir": "down",
-   "calor": 2,
-   "mx": true,
-   "latam": false,
-   "es": "Manufactura",
-   "en": "Manufacturing",
-   "pt": "Manufatura",
-   "titular": {
-    "es": "México: el desempleo sube a 3.0% en octubre, su nivel más alto desde 2022",
-    "en": "Mexico: unemployment rises to 3.0% in October, its highest since 2022",
-    "pt": "México: o desemprego sobe para 3,0% em outubro, o maior nível desde 2022"
-   },
-   "x": {
-    "es": "La tasa de desocupación subió a 3.0% en octubre, desde 2.6% un año antes; la población ocupada bajó en 185,000 personas, a 60.7 millones, y hay 1.9 millones de desocupados, según el INEGI. México sigue sin determinación en la investigación de EE. UU. por exceso de capacidad.",
-    "en": "The unemployment rate rose to 3.0% in October, from 2.6% a year earlier; employment fell by 185,000 people to 60.7 million, and there are 1.9 million unemployed, according to INEGI. Mexico still has no determination in the US overcapacity investigation.",
-    "pt": "A taxa de desemprego subiu para 3,0% em outubro, desde 2,6% um ano antes; a população ocupada caiu 185 mil pessoas, para 60,7 milhões, e há 1,9 milhão de desempregados, segundo o INEGI. O México segue sem determinação na investigação dos EUA por excesso de capacidade."
-   },
-   "scm": {
-    "es": "Revisa tus pronósticos de demanda de consumo en México para el primer trimestre y ajusta inventarios de producto terminado.",
-    "en": "Review your first-quarter consumer demand forecasts for Mexico and adjust finished goods inventory.",
-    "pt": "Revise suas previsões de demanda de consumo no México para o primeiro trimestre e ajuste os estoques de produto acabado."
-   },
-   "fuentes": [
-    {
-     "t": "Alto Nivel: el desempleo en México sube a 3% en octubre, su nivel más alto en cuatro años (26 nov 2026)",
-     "u": "https://www.altonivel.com.mx/desempleo-en-mexico-sube-a-3-en-octubre-su-nivel-mas-alto-en-cuatro-anos/"
-    }
-   ]
-  },
-  {
-   "id": "aeroespacial",
-   "dir": "down",
-   "calor": 2,
-   "mx": false,
-   "latam": true,
-   "es": "Aeroespacial",
-   "en": "Aerospace",
-   "pt": "Aeroespacial",
-   "titular": {
-    "es": "EE. UU. propone 10% a los aviones de Brasil; Embraer tiene unos 160 E175 pedidos por aerolíneas de EE. UU.",
-    "en": "US proposes 10% on Brazilian aircraft; Embraer has about 160 E175s on order from US airlines",
-    "pt": "EUA propõem 10% sobre aviões do Brasil; a Embraer tem cerca de 160 E175 encomendados por companhias dos EUA"
-   },
-   "x": {
-    "es": "EE. UU. propuso un arancel de 10% a los aviones terminados de Brasil, hoy exentos; los aviones son la cuarta exportación de Brasil a EE. UU. Embraer tenía al tercer trimestre pedidos firmes de unos 160 jets E175 para American, SkyWest y Republic, que no tienen alternativa fabricada en EE. UU., según Reuters. Entraría desde enero como pronto.",
-    "en": "The US proposed a 10% tariff on finished aircraft from Brazil, currently exempt; aircraft are Brazil’s fourth-largest export to the US. Embraer had firm orders at the end of the third quarter for about 160 E175 jets for American, SkyWest and Republic, which have no US-made alternative, according to Reuters. It would take effect in January at the earliest.",
-    "pt": "Os EUA propuseram uma tarifa de 10% sobre aviões acabados do Brasil, hoje isentos; os aviões são a quarta maior exportação do Brasil para os EUA. A Embraer tinha no terceiro trimestre pedidos firmes de cerca de 160 jatos E175 para American, SkyWest e Republic, que não têm alternativa fabricada nos EUA, segundo a Reuters. Entraria em vigor a partir de janeiro no mínimo."
-   },
-   "scm": {
-    "es": "Si surtes partes a Embraer o a aerolíneas regionales, revisa con tu cliente cómo repartirían un arancel y ajusta pronósticos de 2027.",
-    "en": "If you supply parts to Embraer or regional airlines, review with your customer how a tariff would be shared and adjust 2027 forecasts.",
-    "pt": "Se você fornece peças para a Embraer ou para companhias regionais, revise com o cliente como uma tarifa seria dividida e ajuste as previsões de 2027."
-   },
-   "fuentes": [
-    {
-     "t": "Reuters: EE. UU. propone nuevos aranceles a Brasil, incluido 10% a los aviones (25 nov 2026)",
-     "u": "https://finance.yahoo.com/news/us-proposes-higher-tariffs-brazil-131543830.html"
+     "t": "Yahoo Finance: Dow, S&P 500 y Nasdaq suben en un Black Friday de sesión corta (27 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
     },
     {
-     "t": "Reuters: las aerolíneas de EE. UU. enfrentarían costos más altos por el arancel propuesto a Embraer (25 nov 2026)",
-     "u": "https://finance.yahoo.com/economy/policy/articles/us-airlines-face-higher-costs-222235730.html"
+     "t": "Investing.com: restricciones a chips de IA, SpaceX y riesgos petroleros, lo que mueve a los mercados (27 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/articles/ai-chip-curbs-musk-giveaway-092034519.html"
     }
    ]
   },
   {
-   "id": "agro",
-   "dir": "mixed",
-   "calor": 1,
+   "id": "servidores",
+   "dir": "up",
+   "calor": 2,
    "mx": false,
-   "latam": true,
-   "es": "Agroalimentos",
-   "en": "Agrifood",
-   "pt": "Agroalimentos",
+   "latam": false,
+   "es": "Servidores e infraestructura de IA",
+   "en": "Servers and AI infrastructure",
+   "pt": "Servidores e infraestrutura de IA",
    "titular": {
-    "es": "EE. UU. propone un arancel nuevo al azúcar fuera de cuota; el efecto sobre Brasil sería limitado",
-    "en": "US proposes a new tariff on out-of-quota sugar; the effect on Brazil would be limited",
-    "pt": "EUA propõem nova tarifa sobre o açúcar fora da cota; o efeito sobre o Brasil seria limitado"
+    "es": "Dell sube 5.8% y Anthropic 4.8%, arriba de su precio de salida",
+    "en": "Dell rises 5.8% and Anthropic 4.8%, above its IPO price",
+    "pt": "A Dell sobe 5,8% e a Anthropic 4,8%, acima do preço do IPO"
    },
    "x": {
-    "es": "EE. UU. propuso un arancel nuevo al azúcar cruda y refinada fuera de cuota para evitar que el azúcar de Brasil entre por terceros países. Las exportaciones de azúcar de Brasil a EE. UU. bajaron a poco más de 146,000 toneladas en 2026 hasta octubre, desde más de un millón en 2024, según UNICA, y EE. UU. ya planea recortar la cuota libre de arancel de 2027 a unas 100,000 toneladas, según Reuters.",
-    "en": "The US proposed a new tariff on out-of-quota raw and refined sugar to prevent Brazilian sugar from entering through third countries. Brazil’s sugar exports to the US fell to just over 146,000 tons in 2026 through October, from more than one million in 2024, according to UNICA, and the US already plans to cut the 2027 tariff-free quota to about 100,000 tons, according to Reuters.",
-    "pt": "Os EUA propuseram uma nova tarifa sobre açúcar bruto e refinado fora da cota para evitar que o açúcar do Brasil entre por terceiros países. As exportações de açúcar do Brasil para os EUA caíram para pouco mais de 146 mil toneladas em 2026 até outubro, desde mais de um milhão em 2024, segundo a UNICA, e os EUA já planejam cortar a cota livre de tarifa de 2027 para cerca de 100 mil toneladas, segundo a Reuters."
+    "es": "A las 9:09 CDMX Dell subía 5.8% a 314.20 dólares, tras sus ingresos récord de la semana, y Anthropic 4.8% a 86.75 dólares, arriba de su precio de salida de 83, según Investor’s Business Daily.",
+    "en": "At 10:09 a.m. ET Dell was up 5.8% at $314.20, after its record revenue this week, and Anthropic 4.8% at $86.75, above its $83 IPO price, according to Investor’s Business Daily.",
+    "pt": "Às 9h09 (Cidade do México) a Dell subia 5,8% para 314,20 dólares, após a receita recorde da semana, e a Anthropic 4,8% para 86,75 dólares, acima do preço do IPO de 83, segundo o Investor’s Business Daily."
    },
    "scm": {
-    "es": "Si importas azúcar a EE. UU. vía terceros países, revisa el origen documentado de tus embarques de 2027.",
-    "en": "If you import sugar into the US via third countries, review the documented origin of your 2027 shipments.",
-    "pt": "Se você importa açúcar para os EUA via terceiros países, revise a origem documentada dos embarques de 2027."
+    "es": "La demanda de servidores de IA sigue fuerte: asegura capacidad y plazos de entrega para el primer trimestre.",
+    "en": "AI server demand remains strong: secure capacity and delivery dates for the first quarter.",
+    "pt": "A demanda por servidores de IA segue forte: garanta capacidade e prazos de entrega para o primeiro trimestre."
    },
    "fuentes": [
     {
-     "t": "Reuters: EE. UU. propone nuevos aranceles a Brasil, incluido 10% a los aviones (25 nov 2026)",
-     "u": "https://finance.yahoo.com/news/us-proposes-higher-tariffs-brazil-131543830.html"
+     "t": "Investor's Business Daily: el Dow sube 500 puntos mientras Nvidia duda; Anthropic y Tesla suben (27 nov 2026)",
+     "u": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-dow-jumps.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 09:09 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
     }
    ]
   },
   {
    "id": "mineria",
    "dir": "up",
-   "calor": 2,
+   "calor": 3,
    "mx": true,
    "latam": true,
    "es": "Minería y metales",
    "en": "Mining and metals",
    "pt": "Mineração e metais",
    "titular": {
-    "es": "La plata cierra con +3.0% y el oro con +0.8%; el cobre, estable en 5.43 dólares",
-    "en": "Silver closes +3.0% and gold +0.8%; copper steady at $5.43",
-    "pt": "A prata fecha com +3,0% e o ouro com +0,8%; o cobre estável a 5,43 dólares"
+    "es": "La plata sube 8.4%, el oro 2.8% y el cobre 3.0% desde el miércoles",
+    "en": "Silver rises 8.4%, gold 2.8% and copper 3.0% since Wednesday",
+    "pt": "A prata sobe 8,4%, o ouro 2,8% e o cobre 3,0% desde quarta"
    },
    "x": {
-    "es": "La plata terminó en 41.75 dólares (+3.0%), el oro en 3,593 (+0.8%) y el cobre en 5.43 dólares por libra (+0.2%), con el riesgo en Medio Oriente.",
-    "en": "Silver ended at $41.75 (+3.0%), gold at $3,593 (+0.8%) and copper at $5.43 per pound (+0.2%), on Middle East risk.",
-    "pt": "A prata terminou a 41,75 dólares (+3,0%), o ouro a 3.593 (+0,8%) e o cobre a 5,43 dólares por libra (+0,2%), com o risco no Oriente Médio."
+    "es": "A las 8:59 CDMX la plata estaba en 43.94 dólares, el oro en 3,664 y el cobre en 5.59 dólares por libra, con alzas de 8.4%, 2.8% y 3.0% desde el cierre del miércoles. ING atribuye parte del movimiento al cierre de posiciones cortas; en Londres subían Fresnillo y Antofagasta, según Investing.com.",
+    "en": "At 9:59 a.m. ET silver stood at $43.94, gold at $3,664 and copper at $5.59 per pound, up 8.4%, 2.8% and 3.0% from Wednesday's close. ING attributes part of the move to short covering; in London, Fresnillo and Antofagasta rose, according to Investing.com.",
+    "pt": "Às 8h59 (Cidade do México) a prata estava a 43,94 dólares, o ouro a 3.664 e o cobre a 5,59 dólares por libra, com altas de 8,4%, 2,8% e 3,0% desde o fechamento de quarta. O ING atribui parte do movimento à cobertura de posições vendidas; em Londres subiam Fresnillo e Antofagasta, segundo a Investing.com."
    },
    "scm": {
-    "es": "Los metales rebotan: si tienes cotizaciones de cable y conectores vigentes, ciérralas esta semana.",
-    "en": "Metals are rebounding: if you hold valid quotes for cable and connectors, close them this week.",
-    "pt": "Os metais se recuperam: se você tem cotações válidas de cabos e conectores, feche-as nesta semana."
+    "es": "Los metales suben rápido: cierra hoy las cotizaciones vigentes de cable, conectores y empaques metálicos.",
+    "en": "Metals are rising fast: close valid quotes for cable, connectors and metal packaging today.",
+    "pt": "Os metais sobem rápido: feche hoje as cotações vigentes de cabos, conectores e embalagens metálicas."
    },
    "fuentes": [
     {
-     "t": "Yahoo Finance: índices, divisas y materias primas (cierre del 26 nov 2026)",
+     "t": "Investing.com: el FTSE 100 sube con las mineras por el rebote de los metales (27 nov 2026)",
+     "u": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-today-stocks-rise-085208572.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 09:09 CDMX)",
+     "u": "https://finance.yahoo.com/markets/"
+    }
+   ]
+  },
+  {
+   "id": "energia",
+   "dir": "mixed",
+   "calor": 2,
+   "mx": true,
+   "latam": true,
+   "es": "Energía y combustibles",
+   "en": "Energy and fuels",
+   "pt": "Energia e combustíveis",
+   "titular": {
+    "es": "El Brent baja a 95.30 dólares tras tocar su máximo desde el 9 de noviembre; la OPEP+ decide el domingo",
+    "en": "Brent eases to $95.30 after touching its highest since November 9; OPEC+ decides Sunday",
+    "pt": "O Brent cai para 95,30 dólares após tocar a máxima desde 9 de novembro; a OPEP+ decide no domingo"
+   },
+   "x": {
+    "es": "El Brent de enero estaba en 95.30 dólares a las 8:52 CDMX, desde 96.57 el jueves, después de tocar en la madrugada su nivel más alto desde el 9 de noviembre por el ataque a la refinería saudí de Jazan, según Reuters. La OPEP+ tiene un acuerdo en principio para mantener sus metas al menos en el primer trimestre de 2027. El diésel en futuros estaba en 3.72 dólares por galón.",
+    "en": "January Brent stood at $95.30 at 9:52 a.m. ET, from $96.57 on Thursday, after touching its highest since November 9 overnight on the attack on Saudi Arabia’s Jazan refinery, according to Reuters. OPEC+ has an agreement in principle to keep its targets for at least the first quarter of 2027. Diesel futures stood at $3.72 a gallon.",
+    "pt": "O Brent de janeiro estava a 95,30 dólares às 8h52 (Cidade do México), desde 96,57 na quinta, depois de tocar de madrugada o maior nível desde 9 de novembro pelo ataque à refinaria saudita de Jazan, segundo a Reuters. A OPEP+ tem um acordo em princípio para manter suas metas ao menos no primeiro trimestre de 2027. O diesel em futuros estava a 3,72 dólares por galão."
+   },
+   "scm": {
+    "es": "No fijes recargos de combustible de diciembre antes de la OPEP+ del domingo; mantén el ajuste semanal.",
+    "en": "Do not set December fuel surcharges before Sunday’s OPEC+ meeting; keep weekly adjustment.",
+    "pt": "Não fixe sobretaxas de combustível de dezembro antes da OPEP+ de domingo; mantenha o ajuste semanal."
+   },
+   "fuentes": [
+    {
+     "t": "Reuters: el petróleo va camino de romper una racha de tres semanas a la baja por temores de oferta (27 nov 2026)",
+     "u": "https://finance.yahoo.com/energy/articles/oil-track-snap-3-week-082519990.html"
+    },
+    {
+     "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 09:09 CDMX)",
      "u": "https://finance.yahoo.com/markets/"
     }
    ]

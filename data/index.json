@@ -1,6 +1,33 @@
 {
  "items": [
   {
+   "id": "2026-11-27-apertura-global",
+   "fecha": "2026-11-27",
+   "momento": "apertura",
+   "mercado": "global",
+   "titular_es": "Wall Street abre al alza en un Black Friday de sesión corta: el Dow sube 0.7% y la plata 8%",
+   "titular_en": "Wall Street opens higher on a short Black Friday session: the Dow rises 0.7% and silver 8%",
+   "titular_pt": "Wall Street abre em alta numa Black Friday de sessão curta: o Dow sobe 0,7% e a prata 8%"
+  },
+  {
+   "id": "2026-11-27-apertura-latam",
+   "fecha": "2026-11-27",
+   "momento": "apertura",
+   "mercado": "latam",
+   "titular_es": "El Ibovespa sube 1.2% más tras su salto de 6% y el real se fortalece a 5.57; el peso colombiano, a 3,495",
+   "titular_en": "The Ibovespa adds 1.2% after its 6% jump and the real strengthens to 5.57; the Colombian peso at 3,495",
+   "titular_pt": "O Ibovespa sobe mais 1,2% após o salto de 6% e o real se fortalece para 5,57; o peso colombiano a 3.495"
+  },
+  {
+   "id": "2026-11-27-apertura-mexico",
+   "fecha": "2026-11-27",
+   "momento": "apertura",
+   "mercado": "mexico",
+   "titular_es": "Exportaciones récord: México vende 86,009 millones de dólares en octubre (+30.2%); el IPC sube 2.1%",
+   "titular_en": "Record exports: Mexico ships $86.0 billion in October (+30.2%); the IPC rises 2.1%",
+   "titular_pt": "Exportações recorde: o México vende 86,009 bilhões de dólares em outubro (+30,2%); o IPC sobe 2,1%"
+  },
+  {
    "id": "2026-11-27-premercado-global",
    "fecha": "2026-11-27",
    "momento": "premercado",
@@ -782,33 +809,6 @@
    "titular_es": "El peso amanece más débil en 18.50 con el dólar en máximos; desde hoy rige el FIX de 18.5525",
    "titular_en": "The peso starts weaker at 18.50 with the dollar near highs; the 18.5525 FIX applies from today",
    "titular_pt": "O peso amanhece mais fraco em 18,50 com o dólar perto das máximas; a partir de hoje vale o FIX de 18,5525"
-  },
-  {
-   "id": "2026-11-17-cierre-global",
-   "fecha": "2026-11-17",
-   "momento": "cierre",
-   "mercado": "global",
-   "titular_es": "Wall Street cierra a la baja antes de Nvidia: el Dow cae 1.6% y crecen los ataques entre EE. UU. e Irán",
-   "titular_en": "Wall Street closes lower ahead of Nvidia: the Dow falls 1.6% as US-Iran attacks escalate",
-   "titular_pt": "Wall Street fecha em queda antes da Nvidia: o Dow cai 1,6% e crescem os ataques entre EUA e Irã"
-  },
-  {
-   "id": "2026-11-17-cierre-latam",
-   "fecha": "2026-11-17",
-   "momento": "cierre",
-   "mercado": "latam",
-   "titular_es": "El Ibovespa resiste con +0.3% y el peso chileno cierra firme en 992; Canadá cae 1.1%",
-   "titular_en": "The Ibovespa holds up at +0.3% and the Chilean peso closes firm at 992; Canada falls 1.1%",
-   "titular_pt": "O Ibovespa resiste com +0,3% e o peso chileno fecha firme em 992; o Canadá cai 1,1%"
-  },
-  {
-   "id": "2026-11-17-cierre-mexico",
-   "fecha": "2026-11-17",
-   "momento": "cierre",
-   "mercado": "mexico",
-   "titular_es": "El IPC cae 1.2% en su regreso del feriado; el peso cierra firme en 18.42",
-   "titular_en": "The IPC falls 1.2% on its return from the holiday; the peso closes firm at 18.42",
-   "titular_pt": "O IPC cai 1,2% na volta do feriado; o peso fecha firme em 18,42"
   }
  ]
 }

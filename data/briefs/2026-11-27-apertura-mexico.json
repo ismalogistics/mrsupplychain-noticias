@@ -1,0 +1,102 @@
+{
+ "id": "2026-11-27-apertura-mexico",
+ "fecha": "2026-11-27",
+ "momento": "apertura",
+ "mercado": "mexico",
+ "hora": "09:09 CDMX",
+ "es": {
+  "titular": "Exportaciones récord: México vende 86,009 millones de dólares en octubre (+30.2%); el IPC sube 2.1%",
+  "esencial": [
+   "Las exportaciones de México crecieron 30.2% anual en octubre, a 86,009 millones de dólares, y la balanza tuvo un superávit de 298.2 millones, según el INEGI.",
+   "A las 8:49 CDMX el S&P/BMV IPC subía 2.07% (71,807.38) y a las 9:09 el peso cotizaba en 19.65 por dólar (−0.27% el dólar).",
+   "Para supply chain: las exportaciones automotrices crecieron sólo 5.6%, mientras el equipo de cómputo impulsa el récord; hoy rige el FIX de 19.7040."
+  ],
+  "bloques": [
+   {
+    "t": "Cómo abrió",
+    "x": "A las 8:49 CDMX el S&P/BMV IPC subía 2.07% a 71,807.38 puntos, después de caer 1.43% ayer. A las 9:09 CDMX el peso cotizaba en 19.65 por dólar (−0.27% el dólar). Hoy rige para pagos el FIX de 19.7040; el que Banxico determinó ayer, de 19.7203, rige desde el lunes 30."
+   },
+   {
+    "t": "Lo que mueve al mercado",
+    "x": "Las exportaciones de México sumaron 86,009 millones de dólares en octubre, 30.2% más que hace un año, aunque crecieron menos que el 37.9% de septiembre; de enero a octubre suman 713,203 millones (+30.3%), arriba del total de todo 2025, según el INEGI citado por Energy Magazine y Expansión. La balanza comercial tuvo un superávit de 298.2 millones de dólares. El impulso viene del equipo de cómputo ligado a la IA; las exportaciones automotrices crecieron sólo 5.6% (+7.2% a EE. UU. y −3.3% al resto del mundo) y acumulan 1.75% en el año."
+   },
+   {
+    "t": "Qué se espera",
+    "x": "Hoy Wall Street cierra a las 12:00 CDMX. El lunes 30 rige el FIX de 19.7203. El 9 de diciembre la Fed anuncia su decisión de tasas."
+   }
+  ],
+  "scm": "Si exportas autopartes, el sector crece poco: revisa con tus clientes los pronósticos del primer trimestre. Si estás en electrónica o cómputo, la demanda sigue fuerte: asegura capacidad de cruce y transporte para diciembre."
+ },
+ "en": {
+  "titular": "Record exports: Mexico ships $86.0 billion in October (+30.2%); the IPC rises 2.1%",
+  "esencial": [
+   "Mexico's exports grew 30.2% year on year in October to $86.009 billion, and the trade balance posted a $298.2 million surplus, according to INEGI.",
+   "At 8:49 a.m. Mexico City time the S&P/BMV IPC was up 2.07% (71,807.38) and at 9:09 the peso traded at 19.65 per dollar (dollar −0.27%).",
+   "For supply chain: auto exports grew only 5.6%, while computer equipment drives the record; today the 19.7040 FIX applies."
+  ],
+  "bloques": [
+   {
+    "t": "How it opened",
+    "x": "At 8:49 a.m. Mexico City time the S&P/BMV IPC was up 2.07% at 71,807.38 points, after falling 1.43% yesterday. At 9:09 a.m. the peso traded at 19.65 per dollar (dollar −0.27%). Today the 19.7040 FIX applies to payments; the 19.7203 one set by Banxico yesterday applies from Monday the 30th."
+   },
+   {
+    "t": "What is moving the market",
+    "x": "Mexico's exports totaled $86.009 billion in October, up 30.2% from a year earlier, although growth slowed from 37.9% in September; January to October totals $713.203 billion (+30.3%), above all of 2025, according to INEGI cited by Energy Magazine and Expansión. The trade balance posted a $298.2 million surplus. The push comes from AI-related computer equipment; auto exports grew only 5.6% (+7.2% to the US and −3.3% to the rest of the world) and are up 1.75% for the year."
+   },
+   {
+    "t": "What to expect",
+    "x": "Wall Street closes at 12:00 p.m. Mexico City time today. On Monday the 30th the 19.7203 FIX applies. On December 9 the Fed announces its rate decision."
+   }
+  ],
+  "scm": "If you export auto parts, the sector is growing little: review first-quarter forecasts with your customers. If you are in electronics or computing, demand remains strong: secure crossing and transport capacity for December."
+ },
+ "pt": {
+  "titular": "Exportações recorde: o México vende 86,009 bilhões de dólares em outubro (+30,2%); o IPC sobe 2,1%",
+  "esencial": [
+   "As exportações do México cresceram 30,2% ao ano em outubro, para 86,009 bilhões de dólares, e a balança teve superávit de 298,2 milhões, segundo o INEGI.",
+   "Às 8h49 (Cidade do México) o S&P/BMV IPC subia 2,07% (71.807,38) e às 9h09 o peso era cotado a 19,65 por dólar (dólar −0,27%).",
+   "Para supply chain: as exportações automotivas cresceram só 5,6%, enquanto os equipamentos de computação impulsionam o recorde; hoje vale o FIX de 19,7040."
+  ],
+  "bloques": [
+   {
+    "t": "Como abriu",
+    "x": "Às 8h49 (Cidade do México) o S&P/BMV IPC subia 2,07% para 71.807,38 pontos, depois de cair 1,43% ontem. Às 9h09 o peso era cotado a 19,65 por dólar (dólar −0,27%). Hoje vale para pagamentos o FIX de 19,7040; o de 19,7203, definido ontem pelo Banxico, vale a partir de segunda, dia 30."
+   },
+   {
+    "t": "O que move o mercado",
+    "x": "As exportações do México somaram 86,009 bilhões de dólares em outubro, 30,2% acima de um ano antes, embora tenham crescido menos que os 37,9% de setembro; de janeiro a outubro somam 713,203 bilhões (+30,3%), acima do total de 2025, segundo o INEGI citado pela Energy Magazine e pela Expansión. A balança comercial teve superávit de 298,2 milhões de dólares. O impulso vem dos equipamentos de computação ligados à IA; as exportações automotivas cresceram só 5,6% (+7,2% para os EUA e −3,3% para o resto do mundo) e acumulam 1,75% no ano."
+   },
+   {
+    "t": "O que se espera",
+    "x": "Hoje Wall Street fecha às 12h00 (Cidade do México). Na segunda, dia 30, vale o FIX de 19,7203. Em 9 de dezembro o Fed anuncia sua decisão de juros."
+   }
+  ],
+  "scm": "Se você exporta autopeças, o setor cresce pouco: revise com seus clientes as previsões do primeiro trimestre. Se está em eletrônica ou computação, a demanda segue forte: garanta capacidade de travessia e transporte para dezembro."
+ },
+ "fuentes": [
+  {
+   "t": "Yahoo Finance: IPC México (^MXX), 27 nov 2026",
+   "u": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+   "t": "Energy Magazine: México rompe récord de exportaciones por la IA; los autos siguen desacelerando (27 nov 2026)",
+   "u": "https://energymagazine.mx/2026/11/mexico-rompe-record-de-exportaciones-por-la-ia-autos-continuan-desacelerando/"
+  },
+  {
+   "t": "Expansión: México supera en octubre su récord exportador de 2025 con 713,203 millones de dólares acumulados (27 nov 2026)",
+   "u": "https://expansion.mx/economia/2026/11/27/exportaciones-mexico-record-octubre-2026"
+  },
+  {
+   "t": "Infobae: México registra un superávit comercial de 298.2 millones de dólares en octubre (27 nov 2026)",
+   "u": "https://www.infobae.com/america/agencias/2026/11/27/mexico-registra-un-superavit-comercial-de-2982-millones-de-dolares-en-octubre/"
+  },
+  {
+   "t": "Banxico: tipo de cambio FIX (26 nov 2026: 19.7203)",
+   "u": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
+  },
+  {
+   "t": "Yahoo Finance: índices, divisas y materias primas (27 nov 2026, 09:09 CDMX)",
+   "u": "https://finance.yahoo.com/markets/"
+  }
+ ]
+}
